@@ -3,6 +3,6 @@ layout: post
 title: Test post
 ---
 
-(img/sample_feature_img.png)
+![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)
 
 <p> New review today! </p>
