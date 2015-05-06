@@ -14,7 +14,6 @@ theme:
   header_text: >
      <p>Subscription box reviews and more!</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    © WhatsUpMailbox.com 2015
