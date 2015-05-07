@@ -6,7 +6,7 @@ url: "http://whatsupmailbox.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: What's Up Mailbox
-  avatar: avatar.png
+  avatar:
   gravatar: # Email MD5 hash
   description: "Subscription box reviews and more" # used by search engines
 
