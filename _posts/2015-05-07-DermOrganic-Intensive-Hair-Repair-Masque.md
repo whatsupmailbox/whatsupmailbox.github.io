@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test post
+title: DermOrganic Intensive Hair Repair Masque
 ---
 
 ![DermOrganic Intensive Hair Repair Masque](/img/DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg)
