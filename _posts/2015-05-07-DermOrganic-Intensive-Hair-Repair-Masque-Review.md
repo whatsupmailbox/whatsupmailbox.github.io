@@ -4,9 +4,8 @@ title: DermOrganic Intensive Hair Repair Masque Review
 ---
 
 ![DermOrganic Intensive Hair Repair Masque](/img/DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg)
-<p>Product: DermOrganic Intensive Hair Repair Masque</p>
+<p>Product: <a href="http://www.dermorganic.com/shop/index.php?main_page=product_info&cPath=1&products_id=3">www.dermorganic.com</a></p>
 <p>Price: $6.99 (90 ml - 3 fl oz), $18 (250 ml - 8 fl oz), $40 (1 liter - 33.8 fl oz)</p>
-<p>Where: <a href="http://www.dermorganic.com/shop/index.php?main_page=product_info&cPath=1&products_id=3">www.dermorganic.com</a></p>
 
 <br>
 Being that I constantly color my hair and that I also have long hair, a good hair masque is a staple for me. Not only does it need to moisturize my hair, it also needs to have good and safe ingredients. Along comes DermOrganic.
