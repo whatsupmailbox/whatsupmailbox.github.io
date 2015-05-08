@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Frais Hand Sanitizer
+feature-img: "/img/Frais_hand_sanitizer_main.jpg"
 ---
 
 ![Frais Hand Sanitizer](/img/Frais_hand_sanitizer_main.jpg)
