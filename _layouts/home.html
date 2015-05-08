@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
+<body class="home" itemscope itemtype="http://schema.org/WebPage">
 
 {% include _browser-upgrade.html %}
 
@@ -18,16 +18,18 @@
   {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
 </div><!-- /.image-wrap -->{% endif %}
 
-<div id="main" role="main"  itemprop="mainContentOfPage">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-    <h1 itemprop="name">{{ page.title }}</h1>
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-    </div><!-- /.article-wrap -->
+<div class="article-author-side">
+  {% include _author-bio.html %}
+</div>
+
+<div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <h3><a href="{{ site.url}}/articles/">Articles</a></h3>
+  {% for post in site.posts limit:5 %}    
+  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+    <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
   </article>
+  {% endfor %}
 </div><!-- /#index -->
 
 <div class="footer-wrap">
@@ -36,7 +38,7 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}          
-
+{% include _scripts.html %}
+  
 </body>
 </html>
