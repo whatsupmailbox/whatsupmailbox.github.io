@@ -1,23 +1,27 @@
 ---
 layout: post
-title: Frais Hand Sanitizer
+title: Frais Hand Sanitizer - Small & Pocket Size
 ---
 
 ![Frais Hand Sanitizer](/img/Frais_hand_sanitizer_main.jpg)
 <p>Product: Frais Hand Sanitizer</p>
-<p>Price: $7 for the 50ml & $3 for the pocket sized 10ml</p>
-<p>Where: <a href="http://www.beauty.com">www.beauty.com</a> or <a href="http://www.birchbox.com">www.birchbox.com</a></p>
+<p>Price: $7 for the 50ml & $3 for the pocket sized 6ml</p>
+<p>Where: <a href="http://www.beauty.com/frais-everyday-sanitizer/qxp548642?catid=298605&N=0">www.beauty.com</a> or <a href="http://www.beauty.com/frais-everyday-sanitizer/qxp548642?catid=298605&N=0">www.birchbox.com</a></p>
 
 <br>
 I’m a germaphobe therefore constantly washing my hands or using hand sanitizer. But doing either one of those frequently would dry out my hands. So I searched for better hand sanitizers and voila, Frais. This product got so many high ratings from other users that I just had to try it.
 
+<p><blockquote>"Frais Hand Sanitizer was created to add luxury to the smart practice of regular hand sanitizing. <i>Les Huit</i> is an elegant blend of eight essential oils and sugarcane alcohol. It provides a natural aromatic moisturizing sensation as addictive as Frais' practical sanitizing benefits."</blockquote></p>
 
 The fragrance is so fresh -I love it! Right off the bat I smell the ginger, tangerine, lemon and basil. 
 
+![Frais Hand Sanitizer Ingredients](/img/Frais_ingredients.jpg)
+I also love that the ingredients included a lot of natural oils to moisturize my hands, I definitely feel the difference.
 
-I also love that the ingredients included a lot of natural oils to moisturize my hands, and I definitely feel the difference.
-
-
+![Frais Hand Sanitizer Sizes](/img/Frais_sizes.jpg)
+<br>
+<br>
+![Frais Hand Sanitizer Pocket Size](/img/Frais_pocket_size.jpg)
 The smaller version is well, tiny! But I think this size would be great to insert in my small party clutches or for my husband to put in his pocket. 
 
 
