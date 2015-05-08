@@ -8,7 +8,7 @@ title: DermOrganic Intensive Hair Repair Masque
 <br></br>
 Price: $18 (I got this on sale for $15)
 <br> </br>
-Where: www.drugstore.com
+Where: <a href="http://www.drugstore.com">www.drugstore.com</a>
 </p>
 <br></br>
 Being that I constantly color my hair and that I also have long hair, a good hair masque is a staple for me. Not only does it need to moisturize my hair, it also needs to have good and safe ingredients. Along comes DermOrganic.
