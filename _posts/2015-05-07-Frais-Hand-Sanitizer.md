@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frais Hand Sanitizer - Small & Pocket Size
+title: Frais Hand Sanitizer Review - Small & Pocket Size
 ---
 
 ![Frais Hand Sanitizer](/img/Frais_hand_sanitizer_main.jpg)
