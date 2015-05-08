@@ -25,4 +25,5 @@ As I pumped some out, you can smell a pleasant fragrance that’s not too strong
 
 Final result, my hair was softer and very minimal frizz (which says a lot since I typically have a lot of frizz when I don’t use any product at all). I’m glad I found this product and will be using this frequently.
 <br>
+<br>
 <b>VERDICT:</b> Great hair masque that is not only effective but has natural and organic ingredients. It’s also safe on color-treated hair. My new favorite masque!
