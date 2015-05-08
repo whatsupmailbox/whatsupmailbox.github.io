@@ -28,4 +28,4 @@ As I pumped some out, you can smell a pleasant fragrance that’s not too strong
 Final result, my hair was softer and very minimal frizz (which says a lot since I typically have a lot of frizz when I don’t use any product at all). My hair also felt stronger and although this masque had natural oil in it, it did not weigh my hair down, in fact I think it added some volume to it (my hair was air dried too!). I’m glad I found this masque and this is now my go to for hair treatment.
 <br>
 <br>
-<b>VERDICT:</b> Great hair masque that is not only effective but has natural and vegan ingredients. It’s also safe on color-treated hair. My new favorite hair mask!
+<b>VERDICT:</b> Great hair masque that is not only effective but has natural and vegan ingredients. It’s also safe on color-treated hair. The cost is also very affordable compared to brand name conditioners and masks, and this bottle will go a long way for me. Needless to say, this is my new favorite hair mask!
