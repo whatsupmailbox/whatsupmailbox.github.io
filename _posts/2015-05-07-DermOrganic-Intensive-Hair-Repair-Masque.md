@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DermOrganic Intensive Hair Repair Masque
+title: DermOrganic Intensive Hair Repair Masque Review
 ---
 
 ![DermOrganic Intensive Hair Repair Masque](/img/DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg)
