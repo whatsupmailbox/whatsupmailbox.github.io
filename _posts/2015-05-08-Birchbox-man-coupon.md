@@ -13,8 +13,8 @@ title: Birchbox Man Coupon - 25% Off
 Each month, your box will feature a range of top-shelf grooming samples—from heritage shave creams to woodsy cologne—plus a full-size product like a gadget, bar tool, or stylish accessory.
 <br>
 
-<b>Limited Time Offer:</b>
-<p>Save 25% off your first box when you subscribe to Birchbox Man</p>
+<p><b>Limited Time Offer:</b></p>
+Save 25% off your first box when you subscribe to Birchbox Man.
 That'll save you $5 off!
 <br>
 <p>Use code: <b>BBM25</b></p>
