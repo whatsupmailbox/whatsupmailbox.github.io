@@ -24,7 +24,7 @@ I’m impressed with their ingredients! I wish they excluded the fragrance part,
 ![DermOrganic Hair Masque Ingredients](/img/DermOrganic-hair-masque-ingredients2.jpg)
 As I pumped some out, you can smell a pleasant fragrance that’s not too strong. It's both fresh and sweet. Texture is like a thick cream that doesn’t feel too oily and I also didn’t need to put a lot for my waist length hair, which is a plus. I left it on for a couple of minutes and rinsed off. Once I towel dried my hair, I definitely noticed a big difference. Typically I would need to spray some leave-in conditioner to detangle and moisturize some more, but not this time. I combed my hair with no issues (usually it's quite tangled) and let it air dry. 
 
-Final result, my hair was softer and very minimal frizz (which says a lot since I typically have a lot of frizz when I don’t use any product at all). My hair also felt stronger. I’m glad I found this masque and will be using this frequently.
+Final result, my hair was softer and very minimal frizz (which says a lot since I typically have a lot of frizz when I don’t use any product at all). My hair also felt stronger and although this masque had natural oil in it, it did not weigh my hair down, in fact I think it added some volume to it (my hair was air dried too!). I’m glad I found this masque and this is now my go to for hair treatment.
 <br>
 <br>
 <b>VERDICT:</b> Great hair masque that is not only effective but has natural and vegan ingredients. It’s also safe on color-treated hair. My new favorite masque!
