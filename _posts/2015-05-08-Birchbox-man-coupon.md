@@ -4,7 +4,7 @@ title: Birchbox Man Coupon - 25% Off
 ---
 
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
-<p>The Box: <a href="http://https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p>The Box: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
 <p>The Cost: $20 / month</p>
 <br>
 
