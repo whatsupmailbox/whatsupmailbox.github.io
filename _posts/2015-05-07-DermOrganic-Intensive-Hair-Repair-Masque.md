@@ -16,7 +16,6 @@ Being that I constantly color my hair and that I also have long hair, a good hai
 
 <p>First off, I love the dispenser. I hate having to squeeze hard plastic bottles just to get product out, it’s not easy especially when you have wet hands in the shower. This dispenser is hands friendly. My hands thank you.</p>
 <br>
-<br>
 Their ingredients:
 ![DermOrganic Hair Masque Ingredients](/img/DermOrganic-hair-masque-ingredients.jpg)
 I’m impressed with their ingredients! I wish they excluded the fragrance part, but you can’t have them all.
