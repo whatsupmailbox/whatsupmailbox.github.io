@@ -7,9 +7,8 @@ title: Frais Hand Sanitizer - Small & Pocket Size
 <p>Product: Frais Hand Sanitizer</p>
 <p>Price: $7 for the 50ml & $3 for the pocket sized 6ml</p>
 <p>Where: <a href="http://www.beauty.com/frais-everyday-sanitizer/qxp548642?catid=298605&N=0">www.beauty.com</a> or <a href="https://www.birchbox.com/invite/whatsupmailbox">www.birchbox.com</a></p>
-
 <br>
-I’m a germaphobe therefore constantly washing my hands or using hand sanitizer. But doing either one of those frequently would dry out my hands. So I searched for better hand sanitizers and voila, Frais. This product got so many high ratings from other users that I just had to try it.
+I’m a germaphobe therefore constantly washing my hands or using hand sanitizer. But doing either one of those frequently would dry out my hands. So I searched for better and gentler hand sanitizers -et voila, Frais. This product got so many high ratings from other users that I just had to try it.
 
 <p><blockquote>"Frais Hand Sanitizer was created to add luxury to the smart practice of regular hand sanitizing. <i>Les Huit</i> is an elegant blend of eight essential oils and sugarcane alcohol. It provides a natural aromatic moisturizing sensation as addictive as Frais' practical sanitizing benefits."</blockquote></p>
 
