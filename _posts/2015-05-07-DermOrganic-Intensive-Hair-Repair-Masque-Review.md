@@ -14,7 +14,7 @@ Being that I constantly color my hair and that I also have long hair, a good hai
 <p>First off, I love the dispenser. I hate having to squeeze hard plastic bottles just to get product out, it’s not easy especially when you have wet hands in the shower. This dispenser is hands friendly. My hands thank you.</p>
 <br>
 ![DermOrganic Intensive Hair Repair Masque](/img/DermOrganic-hair-masque2.jpg)
-Reading the benefits, it seems all promising and I can't wait to see if it delivers. And I can't believe that you only need to leave it in your hair for 1 minute, that's fast.
+Reading the benefits, it seems all promising and I can't wait to see if it delivers. I also can't believe that you only need to leave it in your hair for only 1 minute, that's fast.
 <br>
 <br>
 The ingredients:
