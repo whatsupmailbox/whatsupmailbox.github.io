@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Birchbox Man Coupon 25% Off
+title: Birchbox Man Coupon - 25% Off
 ---
 
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
