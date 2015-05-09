@@ -142,14 +142,12 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
-            - name: "Interesting"
-              value: interesting
-            - name: "Status"
-              value: status
-            - name: "Quotes"
-              value: quotes
+            - name: "Subscription box reviews"
+              value: Subscription box reviews
+            - name: "Subscription box coupons"
+              value: Subscription box coupons
+            - name: "Product reviews"
+              value: product reviews
           alterable: true
       - name: "tags"
         field:
