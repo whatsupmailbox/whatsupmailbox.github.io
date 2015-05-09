@@ -3,7 +3,14 @@ layout: post
 title: DermOrganic Intensive Hair Repair Masque Review
 published: true
 featured: false
-comments: false
+comments: true
+imagefeature: DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg
+type: photo
+headline: DermOrganic Intensive Hair Repair Masque Review
+description: Hair products
+categories: 
+  - product reviews
+tags: "DermOrganic, Hair masque, Hair mask, Vegan, Product review, Hair product"
 ---
 
 ![DermOrganic Intensive Hair Repair Masque](/img/DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg)
