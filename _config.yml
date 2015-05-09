@@ -148,6 +148,8 @@ prose:
               value: Subscription box coupons
             - name: "Product reviews"
               value: product reviews
+            - name: "Quotes"
+              value: Quotes
           alterable: true
       - name: "tags"
         field:
