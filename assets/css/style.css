@@ -3866,7 +3866,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:""
+    content:"\f0c9"
     }
 
 a#slide.slide:after{
