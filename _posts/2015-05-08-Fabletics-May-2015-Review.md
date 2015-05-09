@@ -3,9 +3,6 @@ layout: post
 title: "Fabletics Review May 2015 + 50% off Coupon"
 description: Sportswear subscription
 headline: "Fabletics Review May 2015 + 50% off Coupon"
-modified: 
-  - 2015-05-08T00:00:00.000Z
-  - "Thu May 07 2015 17:00:00 GMT-0700 (PDT)"
 category: Subscription box reviews
 tags: 
   - Fabletics
