@@ -15,7 +15,7 @@ Received my first Fabletics outfit today, yay!
 
 
 ![Fabletics May 2015 Perforation](/img/FableticsMay2015Package2.jpg)
-And I love that their envelopes are perforated, it makes it easy to pen the package.
+And I love that their envelopes are perforated, it makes it easy to open the package.
 <br>
 
 ![Fabletics May 2015 River of Grass](/img/FableticsMay2015RiverOfGrass.png)
