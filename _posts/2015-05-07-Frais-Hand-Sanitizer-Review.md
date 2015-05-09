@@ -3,12 +3,12 @@ layout: post
 title: "Frais Hand Sanitizer Review - Small & Pocket Size"
 published: true
 featured: false
-comments: false
+comments: true
 type: photo
 categories: 
   - product reviews
 headline: "Frais Hand Sanitizer Review - Small & Pocket Size"
-tags: "Frais, Hand sanitizer, Small size, Pocket size, Product review"
+tags: Frais Hand Sanitizer Small Pocket Product Review
 imagefeature: Frais_hand_sanitizer_main.jpg
 description: The essentials
 ---
