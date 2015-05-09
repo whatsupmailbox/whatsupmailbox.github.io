@@ -180,11 +180,6 @@ prose:
           element: "text"
           label: "Insert Youtube Link"
           placeholder: "http://youtube.com/somevideo"
-      - name: "mathjax"
-        field:
-          element: "checkbox"
-          label: "MathJax"
-          value: false
       - name: "featured"
         field:
           element: "checkbox"
