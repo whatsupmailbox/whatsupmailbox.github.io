@@ -13,7 +13,7 @@ imagefeature: Frais_hand_sanitizer_main.jpg
 description: The essentials
 ---
 
-![Frais Hand Sanitizer](/img/![Frais_hand_sanitizer_main.jpg](/_images/Frais_hand_sanitizer_main.jpg)
+![Frais Hand Sanitizer](/img/![Frais_hand_sanitizer_main.jpg])
 )
 <p>Product: <a href="http://www.beauty.com/frais-everyday-sanitizer/qxp548642?catid=298605&N=0">Frais Hand Sanitizer</a></p>
 <p>Price: $7 (50 ml) & $3 (6 ml / pocket sized)</p>
