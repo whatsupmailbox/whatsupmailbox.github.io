@@ -132,7 +132,7 @@ prose:
       - name: "headline"
         field:
           element: "text"
-          label: "beadline"
+          label: "headline"
           placeholder: "Enter Post Headline"
       - name: "modified"
         field:
@@ -148,8 +148,6 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Web-Development"
-              value: webdevelopment
             - name: "Interesting"
               value: interesting
             - name: "Status"
