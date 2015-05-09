@@ -20,12 +20,12 @@ And I love that their envelopes are perforated, it makes it easy to open the pac
 
 ![Fabletics May 2015 River of Grass](/img/FableticsMay2015RiverOfGrass.png)
 The outfit I chose was River of Grass, $69.95 (since this is my first outfit, I only paid $35).
-It is a 3-piece outfit consisting of a capri, sports bra and tank top.
+It's a 3-piece outfit consisting of a capri, sports bra and tank top.
 
 <br>
 
 ![Fabletics May 2015 Free Gift](/img/FableticsMay2015FreeGift.jpg)
-What a surprise! I didn’t know that they even give little gifts with your shipment. I’m sure it’s sporadic and I won’t expect to receive it every month, but I sure love surprises and this was a nice and appropriate gift for the type of subscription, thank you Fabletics!
+What a surprise! I didn’t know that they give gifts with your shipment. I’m sure it’s sporadic and I won’t expect to receive it every month, but I sure love surprises and this was a nice and appropriate gift for the type of subscription, thank you Fabletics!
 
 <br>
 
