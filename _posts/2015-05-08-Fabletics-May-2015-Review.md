@@ -7,7 +7,6 @@ modified: 2015-05-08
 category: Subscription box
 tags: [Fabletics, Subscription box, Sportswear, Women]
 image: FableticsMay2015Package.jpg
-  feature: 
 comments: true
 mathjax:
 ---
