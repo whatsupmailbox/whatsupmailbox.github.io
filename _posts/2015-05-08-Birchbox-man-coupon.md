@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Birchbox Man Coupon 25% Off"                
-description: Men's monthly lifestyle and skincare subscription      
-headline: Birchbox Man Coupon 25% Off            
-modified: 2015-05-08              
+title: "Birchbox Man Coupon 25% Off"
+description: "Men's monthly lifestyle and skincare subscription"
+headline: "Birchbox Man Coupon 25% Off"
+modified: ""
 category: Subscription box coupons
-tags: [Birchbox Man,Subscription box,Men,Lifestyle,Skincare]
+tags: Birchbox Man Subscription Box Men Lifestyle Skincare
 comments: true
-mathjax:
+mathjax: null
+published: true
+featured: false
+categories: 
+  - Subscription box coupons
 ---
 
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
