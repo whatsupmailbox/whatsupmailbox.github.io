@@ -20,7 +20,7 @@ description: The essentials
 <br>
 I’m a germaphobe therefore constantly washing my hands or using hand sanitizer. But doing either one of those frequently would dry out my hands. So I searched for better and gentler hand sanitizers -et voila, Frais. This product got so many high ratings from other users that I just had to try it.
 
-<p><blockquote>"Frais Hand Sanitizer was created to add luxury to the smart practice of regular hand sanitizing. <i>Les Huit</i> is an elegant blend of eight essential oils and sugarcane alcohol. It provides a natural aromatic moisturizing sensation as addictive as Frais' practical sanitizing benefits."</blockquote></p>
+<p><blockquote><i>"Frais Hand Sanitizer was created to add luxury to the smart practice of regular hand sanitizing. <i>Les Huit</i> is an elegant blend of eight essential oils and sugarcane alcohol. It provides a natural aromatic moisturizing sensation as addictive as Frais' practical sanitizing benefits."</i></blockquote></p>
 
 The fragrance is so fresh -I love it! Right off the bat I smell the ginger, tangerine, lemon and basil. 
 
