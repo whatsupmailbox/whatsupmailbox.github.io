@@ -7,7 +7,7 @@ comments: true
 imagefeature: DermOrganic_Intensive_Hair_Repair_Masque_Fotor.jpg
 type: photo
 headline: DermOrganic Intensive Hair Repair Masque Review
-description: Hair products
+description: "Vegan and Sulfate free!"
 categories: 
   - product reviews
 tags: "DermOrganic, Hair masque, Hair mask, Vegan, Product review, Hair product"
