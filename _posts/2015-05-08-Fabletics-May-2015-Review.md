@@ -20,7 +20,7 @@ And I love that their envelopes are perforated, it makes it easy to open the pac
 
 ![Fabletics May 2015 River of Grass](/img/FableticsMay2015RiverOfGrass.png)
 The outfit I chose was River of Grass, $69.95 (since this is my first outfit, I only paid $35).
-It's a 3-piece outfit consisting of a capri, sports bra and tank top.
+It's a 3-piece outfit consisting of the Lima Capri, Juneau Bra and Aventura Tank.
 
 <br>
 
@@ -40,7 +40,7 @@ I chose the pants in XXS since my waist is 25 and my hips are 34, and by their s
 <br>
 
 ![Fabletics May 2015 Bra](/img/FableticsMay2015Bra.jpg)
-I wish the straps on the sports bra were black instead of white. I can never keep anything white. Upon trying them on, I feel that it provides both comfort and support, and it also comes with removable bra cups. I do wish that their tags can be removed easily like with Lululemon though, the tags that came on this bra was super long so I had to cut them off.
+I wish the straps on the bra were black instead of white. I can never keep anything white. Upon trying them on, I feel that it provides both comfort and support, and it also comes with removable bra cups. The size was pretty spot on, I ordered an XS for my 32C. I do wish that their tags can be removed easily though, like with Lululemon. The tags that came on this bra was super long so I had to cut them off.
 
 <br>
 
