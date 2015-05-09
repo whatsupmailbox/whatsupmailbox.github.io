@@ -31,7 +31,7 @@ And I love that their envelopes are perforated, it makes it easy to open the pac
 
 ![Fabletics May 2015 River of Grass](/img/FableticsMay2015RiverOfGrass.png)
 The outfit I chose was River of Grass, $69.95 (since this is my first outfit, I only paid $35).
-It's a 3-piece outfit consisting of the Lima Capri, Juneau Bra and Aventura Tank.
+It's a 3-piece outfit consisting of the Lima Capri in Camo (sold out now!), Aventura Tank in Black and Juneau Bra.
 
 <br>
 
@@ -46,12 +46,12 @@ All the items came individually packed.
 <br>
 
 ![Fabletics May 2015 Pants](/img/FableticsMay2015Pants.jpg)
-I chose the pants in XXS since my waist is 25 and my hips are 34, and by their size guide I was an XXS. They fit me, but pretty tight and snug around the waist. I think I’ll probably size up to an XS next time. Sizing aside, the pants are comfortable (I’m wearing them as I write this review) and very comparable to Lululemon –I’m also a Lululemon addict, hence the comparison. The waistband is slimming, the coverage is great (can’t see those undies) and no camel toes upfront. There is a small pocket on the front right side to store your locker key if needed.
+I love the Camo pattern, I think it's both fitting and slimming for everyone! I chose the pants in XXS since my waist is 25 and my hips are 34, and going by their size guide I'm an XXS. They fit me, but somewhat tight and snug around the waist. I think I’ll probably size up to an XS next time just to be more comfy. Sizing aside, the pants are comfortable (I’m wearing them as I write this review) and very comparable to Lululemon –I’m also a Lululemon <strike>addict</strike> lover, hence the comparison. The waistband is slimming, the coverage is great (can’t see those undies) and no camel toes upfront. There is a small pocket on the front right side to store your locker key if needed.
 
 <br>
 
 ![Fabletics May 2015 Bra](/img/FableticsMay2015Bra.jpg)
-I wish the straps on the bra were black instead of white. I can never keep anything white. Upon trying them on, I feel that it provides both comfort and support, and it also comes with removable bra cups. The size was pretty spot on, I ordered an XS for my 32C. I do wish that their tags can be removed easily though, like with Lululemon. The tags that came on this bra was super long so I had to cut them off.
+I wish the straps on the bra were black instead of white. I can never keep anything white. Upon trying them on, I feel that it provides both comfort and support, and it also comes with removable bra cups. The size was pretty spot on, I ordered an XS for my 32C. I do wish that their tags can be removed easily though, like with Lululemon. The tags that came on this bra was super long so I had to cut them off, which always leaves some tags still intact.
 
 <br>
 
