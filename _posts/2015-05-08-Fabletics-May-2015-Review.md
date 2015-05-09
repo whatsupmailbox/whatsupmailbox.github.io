@@ -2,16 +2,27 @@
 layout: post
 title: "Fabletics Review May 2015 + 50% off Coupon"
 description: Sportswear subscription
-headline: Fabletics Review May 2015 + 50% off Coupon
-modified: 2015-05-08                
+headline: "Fabletics Review May 2015 + 50% off Coupon"
+modified: 
+  - 2015-05-08T00:00:00.000Z
+  - "Thu May 07 2015 17:00:00 GMT-0700 (PDT)"
 category: Subscription box
-tags: [Fabletics, Subscription box, Sportswear, Women]
+tags: 
+  - Fabletics
+  - Subscription box
+  - Sportswear
+  - Women
+  - "Fabletics,Subscription box,Sportswear,Women"
 image: FableticsMay2015Package.jpg
 comments: true
-mathjax:
+mathjax: false
+published: true
+featured: false
+type: photo
+imagefeature: FableticsMay2015Package.jpg
 ---
 
-![Fabletics May 2015](/img/FableticsMay2015Package.jpg)
+![Fabletics May 2015](/img/![FableticsMay2015Package.jpg])
 <p>The Box: <a href="//www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
 <p>The Cost: Complete outfits start at just $49.95 / month</p>
 <p>What’s in the box: Athletic outfits that come in 2 or 3 pieces, you choose your outfits!    </p>
