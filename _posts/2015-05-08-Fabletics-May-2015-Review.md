@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fabletics Review May 2015 & 50% off Coupon"
+title: "Fabletics Review May 2015 + 50% off Coupon"
 description: Sportswear subscription
 headline: Fabletics Review May 2015 + 50% off Coupon
 modified: 2015-05-08                
