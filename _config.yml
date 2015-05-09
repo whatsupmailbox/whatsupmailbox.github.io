@@ -89,7 +89,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: 'http://whatsupmailbox.com/'
-  relativeLinks: ''
+  relativeLinks: 'http://whatsupmailbox.com/links.jsonp'
   media: 'images'
   metadata:
     _posts:
