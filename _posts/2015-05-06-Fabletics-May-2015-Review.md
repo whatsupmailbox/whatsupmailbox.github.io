@@ -1,0 +1,51 @@
+---
+layout: post
+title: Fabletics Review May 2015 + 50% off Coupon
+---
+
+![Fabletics May 2015](/img/FableticsMay2015Package.jpg)
+<p>The Box: <ahref="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
+<p>The Cost: Complete outfits start at just $49.95 / month</p>
+<p>What’s in the box: Athletic outfits that come in 2 or 3 pieces, you choose your outfits!    </p>
+<p>Coupon: <ahref="http://www.fabletics.com/invite/whatsupmailbox/">Subscribe</a> and get your first outfit at 50% off!</p>
+<br>
+
+Received my first Fabletics outfit today, yay!
+<p>I actually appreciate that they ship with an envelope versus a box, it’s easier to dispose and it’s not like I’m in need of any more boxes.</p>
+
+
+![Fabletics May 2015 Perforation](/img/FableticsMay2015Package2.jpg)
+And I love that their envelopes are perforated, it makes it easy to pen the package.
+<br>
+
+![Fabletics May 2015 River of Grass](/img/FableticsMay2015RiverOfGrass.png)
+The outfit I chose was River of Grass, $69.95 (since this is my first outfit, I only paid $35).
+It is a 3-piece outfit consisting of a capri, sports bra and tank top.
+
+<br>
+
+![Fabletics May 2015 Free Gift](/img/FableticsMay2015FreeGift.jpg)
+What a surprise! I didn’t know that they even give little gifts with your shipment. I’m sure it’s sporadic and I won’t expect to receive it every month, but I sure love surprises and this was a nice and appropriate gift for the type of subscription, thank you Fabletics!
+
+<br>
+
+![Fabletics May 2015 Package3](/img/FableticsMay2015Package3.jpg)
+All the items came individually packed.
+
+<br>
+
+![Fabletics May 2015 Pants](/img/FableticsMay2015Pants.jpg)
+I chose the pants in XXS since my waist is 25 and my hips are 34, and by their size guide I was an XXS. They fit me, but pretty tight and snug around the waist. I think I’ll probably size up to an XS next time. Sizing aside, the pants are comfortable (I’m wearing them as I write this review) and very comparable to Lululemon –I’m also a Lululemon addict, hence the comparison. The waistband is slimming, the coverage is great (can’t see those undies) and no camel toes upfront. There is a small pocket on the front right side to store your locker key if needed.
+
+<br>
+
+![Fabletics May 2015 Bra](/img/FableticsMay2015Bra.jpg)
+I wish the straps on the sports bra were black instead of white. I can never keep anything white. Upon trying them on, I feel that it provides both comfort and support, and it also comes with removable bra cups. I do wish that their tags can be removed easily like with Lululemon though, the tags that came on this bra was super long so I had to cut them off.
+
+<br>
+
+![Fabletics May 2015 Top](/img/FableticsMay2015top.jpg)
+The River of Grass outfit comes with a black top, but you can change the color and since I have so many black tops already, I opted for the Cucumber color –a light mint green color. The fit is relaxed and I didn’t think anything of it, but now that I have it, I think sizing down for anything that they state as a relaxed fit would be the best way to go. I ordered an XS but it fits more like a Small. So if you want the tank top to be more fitted, size down.
+
+<br>
+<b>VERDICT:</b> I’m quite impressed with the quality of Fabletics and I’m definitely keeping this subscription. Since this is my first outfit, I only paid $35, but I would gladly have paid the $69.95 price for the amount of items I got. And if I ever feel overwhelmed with outfits or just can’t find anything I like, I can skip that month through my online account before the 5th of the month, easy!
