@@ -18,8 +18,8 @@ categories:
 <p>The Cost: $20 / month</p>
 <br>
 
-<blockquote><p>WHAT’S IN THE BOX?</p>
-Each month, your box will feature a range of top-shelf grooming samples—from heritage shave creams to woodsy cologne—plus a full-size product like a gadget, bar tool, or stylish accessory.</blockquote>
+<blockquote><p><i>WHAT’S IN THE BOX?</i></p>
+<i>Each month, your box will feature a range of top-shelf grooming samples—from heritage shave creams to woodsy cologne—plus a full-size product like a gadget, bar tool, or stylish accessory.</i></blockquote>
 <br>
 
 <p><b>Limited Time Offer:</b></p>
