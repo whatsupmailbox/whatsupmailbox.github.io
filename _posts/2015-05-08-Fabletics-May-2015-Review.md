@@ -45,7 +45,7 @@ I wish the straps on the sports bra were black instead of white. I can never kee
 <br>
 
 ![Fabletics May 2015 Top](/img/FableticsMay2015top.jpg)
-The River of Grass outfit comes with a black top, but you can change the color and since I have so many black tops already, I opted for the Cucumber color –a light mint green color. The fit is relaxed and I didn’t think anything of it, but now that I have it, I think sizing down for anything that they state as a relaxed fit would be the best way to go. I ordered an XS but it fits more like a Small. So if you want the tank top to be more fitted, size down.
+The River of Grass outfit comes with a black top, but you can change the color and since I have so many black tops already, I opted for the Cucumber color –a light mint green color. The fit is relaxed and although I ordered an XS, it fits more like a Small. After wearing it all day today, I actually like the fit. It makes your sports bra peek out from the side, which is a type of look that I like sometimes. If you want the tank to be more fitted, I’d recommend sizing down.
 
 <br>
 <b>VERDICT:</b> I’m quite impressed with the quality of Fabletics and I’m definitely keeping this subscription. Since this is my first outfit, I only paid $35, but I would gladly have paid the $69.95 price for the amount of items I got. And if I ever feel overwhelmed with outfits or just can’t find anything I like, I can skip that month through my online account before the 5th of the month, easy!
