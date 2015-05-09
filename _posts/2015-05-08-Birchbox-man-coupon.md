@@ -3,7 +3,6 @@ layout: post
 title: "Birchbox Man Coupon 25% Off"
 description: "Men's monthly lifestyle and skincare subscription"
 headline: "Birchbox Man Coupon 25% Off"
-modified: ""
 category: Subscription box coupons
 tags: Birchbox Man Subscription Box Men Lifestyle Skincare
 comments: true
