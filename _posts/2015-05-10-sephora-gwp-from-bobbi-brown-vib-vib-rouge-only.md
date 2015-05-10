@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Sephora GWP from Bobbi Brown - VIB & VIB Rouge Only"
 featured: false
 comments: true
 headline: "Sephora GWP from Bobbi Brown - VIB & VIB Rouge Only"
