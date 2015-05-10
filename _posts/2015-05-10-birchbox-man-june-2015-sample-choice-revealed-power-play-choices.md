@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "An Awesome Headline!"
+title: Birchbox Man June 2015 Sample Choice Revealed + Power Play
 featured: false
 comments: true
 type: photo
