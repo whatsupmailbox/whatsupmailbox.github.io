@@ -27,7 +27,7 @@ The Coupon: VIBLONG
 **This Mini Set Includes:**
 
 1. Long-wear cream shadow stick in Shadow >
-<i>Waterproof blue-grey crayon glides on to create the perfect smoky look.</i>
+<p><i>Waterproof blue-grey crayon glides on to create the perfect smoky look.</i></p>
 
 2. Long-wear eye pencil in Jet >
 <i>Award-winning richly pigmented liner provides up to 12 hours of wear.</i>
