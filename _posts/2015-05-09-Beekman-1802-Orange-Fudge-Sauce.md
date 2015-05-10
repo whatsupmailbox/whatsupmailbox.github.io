@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: ""
 featured: false
 comments: true
@@ -18,6 +18,7 @@ The Price: $12.99
 
 So I received this fudge sauce in my February [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM) and fell chocolaty in love that I just had to try the Orange flavor. I'm glad I did. I've always loved the combo of orange and chocolate, so I knew it was love at first sight.
 
+![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
 Here is the packaging it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).
 
 They packed it safe alright, I had to dig through to find the fudge.
@@ -31,5 +32,4 @@ I love what they said about their fudge, it was funny and.. well.. true, if you 
 
 I'm actually not a big fan of goats milk, but you can't really taste it. You can only taste chocolate orange awesomeness. And looking at the ingredients, I can see why. All natural whole ingredients - que applause.
 
-**VERDICT:** I never knew I liked fudge and goats milk until I found Beekman 1802. And if you like orange flavor, try this version but make sure to also try their original flavor as that is a must. I'm more than comfortable paying the $12.99 price for this fudge awesomeness, and the jar size is quite big too![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
-_****_. I always have a soft spot for good food and natural ingredients, so this fudge knocked it out of the ballpark for me.
+**VERDICT:** I never knew I liked fudge and goats milk until I found Beekman 1802. And if you like orange flavor, try this version but make sure to also try their original flavor as that is a must. I'm more than comfortable paying the $12.99 price for this fudge awesomeness, and the jar size is quite big too. I always have a soft spot for good food and natural ingredients, so this fudge knocked it out of the ballpark for me.
