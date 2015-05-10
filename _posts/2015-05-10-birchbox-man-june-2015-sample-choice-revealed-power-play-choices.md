@@ -15,6 +15,8 @@ tags: Birchbox Man Sample Choice Subscription Box June 2015
 ![Birchbox Man June 2015 Sample Choice](/images/BirchboxManSampleChoiceJune2015.jpg)
 
 Here are your June 2015 Sample Choice items:
+p { margin: 0; }
+ul { margin-top: 0; }
 <ul><li>Happy Socks Men's Socks $12.00</li>
 <li>Carry On Cocktail Kit The Old Fashioned $24.00</li>
 <li>Corter Leather & Cloth Bottlehook $36.50</li>
