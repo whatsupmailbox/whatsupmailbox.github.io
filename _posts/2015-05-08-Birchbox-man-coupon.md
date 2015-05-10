@@ -10,6 +10,7 @@ mathjax: null
 published: true
 featured: false
 categories: 
+  - Birchbox Man
   - Subscription box coupons
 ---
 
