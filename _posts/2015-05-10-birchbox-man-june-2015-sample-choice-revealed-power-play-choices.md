@@ -14,8 +14,6 @@ tags: Birchbox Man Sample Choice Subscription Box June 2015
 
 ![Birchbox Man June 2015 Sample Choice](/images/BirchboxManSampleChoiceJune2015.jpg)
 
-<blockquote>Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around May 13, prompting them to choose from the selection featured in this video. For early access to Sample Choice, log in and share your box page on Facebook or Twitter on or before May 11; you’ll get to choose your item an entire day early.</blockquote>
-
 Here are your June 2015 Sample Choice items:
 <ul>
 <li>Happy Socks Men's Socks $12.00</li?
@@ -23,6 +21,8 @@ Here are your June 2015 Sample Choice items:
 <li>Corter Leather & Cloth Bottlehook $36.50</li>
 <li>Men In Cities Luggage Tag $25.00</li>
 </ul>
+
+<p><blockquote>Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around May 13, prompting them to choose from the selection featured in this video. For early access to Sample Choice, log in and share your box page on Facebook or Twitter on or before May 11; you’ll get to choose your item an entire day early.</blockquote></p>
 
 <br>
 
