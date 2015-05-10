@@ -6,7 +6,7 @@ featured: false
 comments: true
 headline: "Sephora GWP from Bobbi Brown - VIB & VIB Rouge Only"
 categories: 
-  - Sephora
+  - GWP
 type: photo
 description: "Long-wear makeup essentials"
 tags: Sephora  Bobbi Brown  GWP  VIB  VIB Rouge  Makeup Set
