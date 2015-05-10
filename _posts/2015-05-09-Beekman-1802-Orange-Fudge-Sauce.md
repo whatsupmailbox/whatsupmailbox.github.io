@@ -23,8 +23,6 @@ So I received this fudge sauce in my February [Little Lace Box](http://r.sloyalt
 ![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
 The box it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).  
 
-
-
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeOpenBox.jpg)
 They packed it safe alright, I had to dig through to find the fudge.
 
