@@ -4,7 +4,7 @@ title: "Fabletics Review May 2015 + 50% off Coupon"
 description: Sportswear subscription
 headline: "Fabletics Review May 2015 + 50% off Coupon"
 category: Subscription box reviews
-tags: Fabletics Subscription Box Sportswear Women Reviews
+tags: Fabletics Subscription Box Reviews Sportswear Women May 2015
 image: FableticsMay2015Package.jpg
 comments: true
 mathjax: false
@@ -12,6 +12,9 @@ published: true
 featured: false
 type: photo
 imagefeature: FableticsMay2015Package3.jpg
+categories: 
+  - Subscription box reviews
+  - Fabletics
 ---
 
 ![Fabletics May 2015](/img/FableticsMay2015Package.jpg)
