@@ -142,6 +142,12 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
+            - name: "Birchbox Man"
+              value: Birchbox Man
+            - name: "Fabletics"
+              value: Fabletics
+            - name: "Little Lace Box"
+              value: Little Lace Box
             - name: "Subscription box reviews"
               value: Subscription box reviews
             - name: "Subscription box coupons"
