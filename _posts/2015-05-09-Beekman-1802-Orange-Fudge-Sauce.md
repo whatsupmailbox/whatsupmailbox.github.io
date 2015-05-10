@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "An Awesome Headline!"
+title: Beekman 1802 Orange Fudge Review
 featured: false
 comments: true
 type: photo
