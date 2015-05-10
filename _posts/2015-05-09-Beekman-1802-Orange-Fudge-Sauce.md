@@ -27,15 +27,15 @@ The box it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeOpenBox.jpg)
 They packed it safe alright, I had to dig through to find the fudge.
 <br>
-
+<br>
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgePackaging.jpg)
 Finally, fudge is found safely in bubble wrap.
 <br>
-
+<br>
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeBack.jpg)
 I love what they said about their fudge, it was funny and.. well.. true. If you can't figure out how to eat this fudge, then yes, please put it back in the box and send it my way #NotKidding
 <br>
-
+<br>
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeIngredients.jpg)
 I'm actually not a big fan of goats milk, but you can't really taste it. You can only taste chocolate orange awesomeness. And looking at the ingredients, I can see why. All natural whole ingredients - que applause.
 
