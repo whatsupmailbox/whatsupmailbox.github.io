@@ -20,8 +20,7 @@ The Price: $12.99
 
 So I received this fudge sauce in my February [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM) and fell chocolaty in love that I just had to try the Orange flavor. I'm glad I did. I've always loved the combo of orange and chocolate, so I knew it was love at first sight.
 
-![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
-Here is the packaging it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).
+![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg) Here's the box it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).
 
 
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeOpenBox.jpg)
