@@ -26,11 +26,11 @@ The Coupon: VIBLONG
 
 **This Mini Set Includes:**
 
-1. Long-wear cream shadow stick in Shadow - <i>Waterproof blue-grey crayon glides on to create the perfect smokey look</i>
+1. <b>Long-wear cream shadow stick in Shadow</b> - <i>Waterproof blue-grey crayon glides on to create the perfect smokey look</i>
 
-2. Long-wear eye pencil in Jet - <i>Award winning richly pigmented liner provides up to 12 hours of wear</i>
+2. <b>Long-wear eye pencil in Jet</b> - <i>Award winning richly pigmented liner provides up to 12 hours of wear</i>
 
-3. Instant Long-wear makeup remover - <i>Gentle but powerful solution removes lipstick and eye makeup with ease</i>
+3. <b>Instant Long-wear makeup remover</b> - <i>Gentle but powerful solution removes lipstick and eye makeup with ease</i>
 
 <br>
 
