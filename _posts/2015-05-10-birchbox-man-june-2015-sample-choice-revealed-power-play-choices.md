@@ -32,7 +32,6 @@ Here are the items you can add-on:
 <ul><li>Native Union JUMP Cable $38.00 (SOLD OUT!)</li>
 <li>Quirky Switch Multitool $48.00</li>
 </ul>
-<br>
 
 <p>What will you be choosing this month?</p>
 
