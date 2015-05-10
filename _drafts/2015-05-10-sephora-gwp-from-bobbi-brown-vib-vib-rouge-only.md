@@ -10,7 +10,8 @@ categories:
 type: photo
 description: "Long-wear makeup essentials"
 tags: Sephora  Bobbi Brown  GWP  VIB  VIB Rouge  Makeup Set
-imagecredit: SephoraBobbiBrownGWPMay102015.png
+imagecredit: ""
+imagefeature: SephoraBobbiBrownGWPMay102015.png
 ---
 
 The Product: [Sephora](http://www.sephora.com) GWP from Bobbi Brown
