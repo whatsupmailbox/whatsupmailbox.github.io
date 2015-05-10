@@ -17,11 +17,13 @@ tags: Birchbox Man Sample Choice Subscription Box June 2015
 > Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around May 13, prompting them to choose from the selection featured in this video. For early access to Sample Choice, log in and share your box page on Facebook or Twitter on or before May 11; you’ll get to choose your item an entire day early.
 
 Here are your June 2015 Sample Choice items:
-- Happy Socks Men's Socks $12.00
-- Carry On Cocktail Kit The Old Fashioned $24.00
-- Corter Leather & Cloth Bottlehook $36.50
-- Men In Cities Luggage Tag $25.00
-
+<ul type="square">
+<ul>
+<li>Happy Socks Men's Socks $12.00</li?
+<li>Carry On Cocktail Kit The Old Fashioned $24.00</li>
+<li>Corter Leather & Cloth Bottlehook $36.50</li>
+<li>Men In Cities Luggage Tag $25.00</li>
+</ul>
 
 [Birchbox Man](https://www.birchbox.com/invite/whatsupmailbox) now also started the option to purchase extra lifestyle item(s) to be included in your box at a discounted price, they call it [Birchbox Man Power Play](https://www.birchbox.com/men/promo/birchbox-man-power-play). Regular Birchbox subscribers have already had this option for awhile now, but they've just added this to the Men's subscription box as well.
 
@@ -29,10 +31,13 @@ Here are your June 2015 Sample Choice items:
 
 ![Birchbox Man June 2015 Power Play](/images/BirchboxManPowerPlayJune2015.jpg)
 Here are the items you can add-on:
-- [Native Union JUMP Cable](https://www.birchbox.com/men/promo/birchbox-man-power-play/bbplus-native-union-jump-cable) $38.00 (SOLD OUT!)
-- [Quirky Switch Multitool](https://www.birchbox.com/men/promo/birchbox-man-power-play/bb-plus-quirky-switch) $48.00
+<ul type="square">
+<ul>
+<li>Native Union JUMP Cable $38.00 (SOLD OUT!)</li>
+<li>Quirky Switch Multitool $48.00</li>
+</ul>
 
-
+<br>
 
 Not a subscriber? You can join [now](https://www.birchbox.com/invite/whatsupmailbox) to receive a June box.
 
