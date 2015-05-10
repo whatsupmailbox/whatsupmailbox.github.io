@@ -14,7 +14,7 @@ tags: Little Lace Box Beekman 1802 Chocolate Orange Fudge Sauce
 imagefeature: BeekmanOrangeFudge.jpg
 ---
 
-The Product: [Beekman 1802 Orange Fudge](http://www.littlelacebox.com/products/beekman-1802-goat-milk-hot-fudge-sauce)
+The Product: [Beekman 1802 Orange Fudge Sauce](http://www.littlelacebox.com/products/beekman-1802-goat-milk-hot-fudge-sauce)
 
 The Price: $12.99
 
