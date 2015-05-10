@@ -5,7 +5,7 @@ title: Birchbox Man June 2015 Sample Choice Revealed + Power Play
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxManSampleChoiceJune2015.jpg
+imagefeature: BirchboxManSampleChoiceJune2015Sign.png
 categories: 
   - Birchbox Man
 headline: Birchbox Man June 2015 Sample Choice Revealed + Power Play Choices
