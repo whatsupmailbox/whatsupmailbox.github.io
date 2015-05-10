@@ -5,7 +5,7 @@ title: "Beekman 1802 - Orange Fudge Sauce"
 featured: false
 comments: true
 type: photo
-description: Fudge heaven
+description: Yumm
 headline: "Beekman 1802 - Orange Fudge Sauce"
 categories: 
   - product reviews
