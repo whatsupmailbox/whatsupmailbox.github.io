@@ -10,6 +10,7 @@ categories:
   - Birchbox Man
 headline: Birchbox Man June 2015 Sample Choice Revealed + Power Play Choices
 tags: Birchbox Man Sample Choice Subscription Box June 2015
+date: 2009-05-09 10:08:39 +02:00
 ---
 
 ![Birchbox Man June 2015 Sample Choice](/images/BirchboxManSampleChoiceJune2015.jpg)
