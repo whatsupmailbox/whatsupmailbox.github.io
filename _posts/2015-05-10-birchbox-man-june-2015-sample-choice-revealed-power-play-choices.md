@@ -34,6 +34,7 @@ Here are your June 2015 Sample Choice items:
 <br>
 
 ![Birchbox Man June 2015 Power Play](/images/BirchboxManPowerPlayJune2015.jpg)
+<br>
 Here are the items you can add-on:
 <ul type="square">
 <ul>
