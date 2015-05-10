@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: "An Awesome Headline!"
 featured: false
 comments: true
 type: photo
@@ -20,6 +20,8 @@ So I received this fudge sauce in my February [Little Lace Box](http://r.sloyalt
 
 ![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
 Here is the packaging it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).
+
+![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeOpenBox.jpg)
 
 They packed it safe alright, I had to dig through to find the fudge.
 
