@@ -21,7 +21,7 @@ Birchbox Man now also started the option to purchase extra lifestyle item(s) to 
 > With the introduction of the Birchbox Man Power Play, we're giving you the chance to tack an extra lifestyle item (or two) onto your monthly box—and gain access to unheard-of discounts in the process. Check out this month's options below, and click through to reserve. They’ll be billed and shipped at the same time as your subscription.
 
 Here are the items you can add-on:
-[Birchbox Man June 2015 Power Play){/images/BirchboxManPowerPlayJune2015.jpg)
+[Birchbox Man June 2015 Power Play](/images/BirchboxManPowerPlayJune2015.jpg)
 
 
 Not a subscriber? You can join [now](https://www.birchbox.com/invite/whatsupmailbox) to receive a June box.
