@@ -15,7 +15,9 @@ imagefeature: SephoraBobbiBrownGWPMay102015.png
 ---
 
 The Product: [Sephora](http://www.sephora.com) GWP from Bobbi Brown
+
 The Price: FREE with any online purchase of $35 or more
+
 The Coupon: VIBLONG
 
 **This Mini Set Includes:**
