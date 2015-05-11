@@ -3866,7 +3866,7 @@ a#slide:hover{
     }
 
 a#slide:after{
-    content:"\f0c9"
+    content:"W"
     }
 
 a#slide.slide:after{
