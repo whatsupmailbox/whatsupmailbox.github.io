@@ -13,13 +13,13 @@ categories:
   - Birchbox Man
   - Subscription box coupons
 ---
-
+<!--more-->
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
 <p>The Box: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
 <p>The Cost: $20 / month</p>
 <p>The Coupon: BBM25</p>
 <br>
-<!--more-->
+
 <blockquote><p><i>WHAT’S IN THE BOX?</i></p>
 <i>Each month, your box will feature a range of top-shelf grooming samples—from heritage shave creams to woodsy cologne—plus a full-size product like a gadget, bar tool, or stylish accessory.</i></blockquote>
 <br>
