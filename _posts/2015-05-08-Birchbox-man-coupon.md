@@ -12,7 +12,10 @@ featured: false
 categories: 
   - Birchbox Man
   - Subscription box coupons
+type: photo
+imagefeature: "Birchbox-man.png"
 ---
+
 <!--more-->
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
 <p>The Box: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
