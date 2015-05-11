@@ -26,7 +26,7 @@ Here are your June 2015 Sample Choice items:
 
 <p><a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a> now also started the option to purchase extra lifestyle item(s) to be included in your box at a discounted price, they call it Birchbox Man Power Play. Regular Birchbox subscribers have already had this option for awhile now, but they've just added this to the Men's subscription box as well.</p>
 
-<p><blockquote>With the introduction of the Birchbox Man Power Play, we're giving you the chance to tack an extra lifestyle item (or two) onto your monthly box—and gain access to unheard-of discounts in the process. Check out this month's options below, and click through to reserve. They’ll be billed and shipped at the same time as your subscription.</blockquote></p>
+<p><blockquote>With the introduction of the <a href="https://www.birchbox.com/men/promo/birchbox-man-power-play">Birchbox Man Power Play</a>, we're giving you the chance to tack an extra lifestyle item (or two) onto your monthly box—and gain access to unheard-of discounts in the process. Check out this month's options below, and click through to reserve. They’ll be billed and shipped at the same time as your subscription.</blockquote></p>
 
 ![Birchbox Man June 2015 Power Play](/images/BirchboxManPowerPlayJune2015.jpg)
 Here are the items you can add-on:
