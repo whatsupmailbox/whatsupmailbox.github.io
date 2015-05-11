@@ -12,8 +12,8 @@ description: Monthly subscription box reviews from boxes like Birchbox, PopSugar
 		{% endif %}
 		{% assign modifiedtime = post.modified | date: "%Y%m%d" %}
 		{% assign posttime = post.date | date: "%Y%m%d" %}
-			{% if post.type == 'quote' %}
-			<div class="row">
+		{% if post.type == 'quote' %}
+		<div class="row">
 	            <article class="post col-md-10 col-md-offset-1">
 	            	<header class="post-header">
 	                    <h2 class="post-title text-center super lighter">
@@ -191,7 +191,7 @@ description: Monthly subscription box reviews from boxes like Birchbox, PopSugar
 	                </header>
 	                <div class="post-body bordered-bottom">
 	                {% assign excerptsize = post.excerpt | number_of_words %}
-	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt }}&hellip;</p>{% else %}
+	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt }}&hellip;.</p>{% else %}
 	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
 	                    <div class="text-center">
 	                    {% if post.description %}
