@@ -156,7 +156,7 @@ description: Monthly subscription box reviews from boxes like Birchbox, PopSugar
 	                </header>
 	                <div class="post-body bordered-bottom">
 	             	{% assign excerptsize = post.excerpt | number_of_words %}
-	                {% if excerptsize <= 100 and excerptsize >= 0 %}<p class = "lead">{{ post.excerpt }}&hellip;</p>{% else %}
+	                {% if excerptsize <= 100 and excerptsize >= 0 %}<p class = "lead">{{ post.excerpt }}</p>{% else %}
 	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
 	                    <div class="text-center">
 	                    {% if post.description %}
@@ -193,7 +193,7 @@ description: Monthly subscription box reviews from boxes like Birchbox, PopSugar
 	                </header>
 	                <div class="post-body bordered-bottom">
 	                {% assign excerptsize = post.excerpt | number_of_words %}
-	                {% if excerptsize <= 100 and excerptsize >= 0 %}<p class = "lead">{{ post.excerpt }}&hellip;</p>{% else %}
+	                {% if excerptsize <= 100 and excerptsize >= 0 %}<p class = "lead">{{ post.excerpt }}</p>{% else %}
 	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
 	                    <div class="text-center">
 	                    {% if post.description %}
