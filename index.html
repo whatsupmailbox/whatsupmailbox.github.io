@@ -191,8 +191,8 @@ description: Monthly subscription box reviews from boxes like Birchbox, PopSugar
 	                </header>
 	                <div class="post-body bordered-bottom">
 	                {% assign excerptsize = post.excerpt | number_of_words %}
-	                {% if excerptsize <= 100 and excerptsize >= 50 %}<p class = "lead">{{ post.excerpt }}&hellip;.</p>{% else %}
-	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;..</p>{% endif %}
+	                {% if excerptsize <= 100 and excerptsize >= 5 %}<p class = "lead">{{ post.excerpt }}&hellip;.</p>{% else %}
+	                    <p>{{ post.content | strip_html | truncatewords:100 }}&hellip;</p>{% endif %}
 	                    <div class="text-center">
 	                    {% if post.description %}
 		                <a href="{{ site.url }}{{ post.url }}" data-toggle="tooltip" title="{{ post.description }}" class="more-link btn btn-danger btn-large">
