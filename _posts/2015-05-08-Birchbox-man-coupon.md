@@ -16,7 +16,6 @@ type: photo
 imagefeature: "Birchbox-man.png"
 ---
 
-<!--more-->
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
 <p>The Box: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
 <p>The Cost: $20 / month</p>
