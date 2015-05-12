@@ -79,11 +79,11 @@ Details of the items are included in these cards. One side gives information on 
 ![Luxor Box May 2015 MSC Set2](/images/LuxorBoxMay2015MSCSet2.jpg)
 <a href="https://www.mscskincare.com/product/lavender-and-bergamot-body-nectar/">MSC Skin Care - Lavender and Bergamot Body Nectar</a> FULL SIZE! $30
 <blockquote>Designed for daily moisturization, Body Nectars are the best body oils for the face, hair, nails, and body. Lavender and Bergamot is an uplifting blend of lavender essential oil and bergamot essential oil both which help tone skin and calm flyaway hair.</blockquote>
+<p>This thing is like a spa in a bottle. You open it and immediately smell the lavender. The bottle is quite big too so it will last me a long time. So far I'm loving MSC Skin Care and I will definitely be using their coupon to purchase more items.</p>
 
 <p><a href="https://www.mscskincare.com/product/lavender-and-spearmint-lip-cream/">MSC Skin Care - Lavender and Spearmint Lip Cream</a> FULL SIZE! $7</p>
 <blockquote>Creamy, moisturizing, and vegan, too! Our lip cremes contain nourishing oils like Sunflower and Apricot Kernel combined with vitamin-rich sunflower wax helps keep your lips moisturized all day long. Our fresh lip balms are super moisturizing, and are great lip balms for men, too!</blockquote>
 <p>The smell of this lip balm is so refreshing, it's like a spa for your lips! You definitely smell both the Lavender and Spearmint right off the bat. I put some on my lips as I started writing this review minutes ago and noticed my lips are all moisturized now. When I first put it on it gave a very slight tingly feeling due to the spearmint oil, but subsided soon after.
-<br>
 <br>
 
 ![Luxor Box May 2015 Sucre](/images/LuxorBoxMay2015Sucre.jpg)
