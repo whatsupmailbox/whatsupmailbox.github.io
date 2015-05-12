@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fabletics will be launching FL2 Subscription for Men!"
-description: "Free shipping"
+description: ""
 headline: "Fabletics will be launching FL2 Subscription for Men!"
 category: Subscription box reviews
 tags: Fabletics Subscription Men Sportswear
