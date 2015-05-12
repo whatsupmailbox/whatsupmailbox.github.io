@@ -56,7 +56,7 @@ Details of the items are included in these cards. One side gives information on 
 
 ![Luxor Box May 2015 Lumiere](/images/LuxorBoxMay2015Lumiere.jpg)
 <a href="http://www.mariposa-gift.com/p-1883-triple-pearls-tea-light.aspx?Eid=281">Mariposa Tea Light - Triple Pearls Tea Light</a> $25.
-<p>This tea light is gorgeous and fits perfectly with my style and decor. It's made with 100% recycled materials (Recycled Sandcast Aluminum) and is made in Mexico.
+<p>This tea light is gorgeous and fits perfectly with my style and decor. It's made with 100% recycled materials (Recycled Sandcast Aluminum) and is made in Mexico.</p>
 
 ![Luxor Box May 2015 RCK](/images/LuxorBoxMay2015RCK.jpg)
 <a href="http://www.redcarpetkolour.com/order_rck.html">Red Carper Kolour Body Glow in Medium</a> - FULL SIZE! $49.95
