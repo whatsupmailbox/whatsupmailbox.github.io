@@ -16,12 +16,10 @@ type: photo
 imagefeature: "BirchboxFreeBeautyBlenderMay2015.png"
 date: 2015-05-11 21:47:39 +08:00
 ---
-
 ![Birchbox Free BeautyBlender](/images/BirchboxFreeBeautyBlenderMay2015.png)
 <p><b>The Box:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p><b>The Cost:</b> $10 / month</p>
 <p><b>The Coupon:</b> BLEND</p>
-
 
 <p><blockquote><i>WHAT’S IN THE BOX?</i></p>
 4 - 5 personalized beauty samples that's determined based on a beauty profile that you complete once you subscribe.
