@@ -26,4 +26,4 @@ date: 2015-05-11 21:47:39 +08:00
 You'll also get to earn your money back by reviewing the items you received. Each item you review will earn you 10 Birchbox points. So you're essentially getting your box for half the price!
 You can redeem every 100 points for $10 in the Birchbox shop.</blockquote>
 
-<p>This is a crazy good deal! The value of the BeautyBlender alone is $26, plus you get a Birchbox filled with beauty samples and all this for only $10! If you haven't subscribed to Birchbox, you should totally get in on this deal, I think it's one of the best ones they've offered so far.</p>
+<p>This is a crazy good deal! The value of the BeautyBlender alone is $26, plus you get a Birchbox filled with beauty samples and all this for only $10! If you haven't subscribed to <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a>, you should totally get in on this deal, I think it's one of the best ones they've offered so far.</p>
