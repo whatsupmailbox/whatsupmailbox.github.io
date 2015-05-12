@@ -29,6 +29,7 @@ I was so excited to finally receive the very first ever Luxor Box!
 ![Luxor Box May 2015 Packaging](/images/LuxorBoxMay2015Packaging.jpg)
 Boxes are shipped with USPS Priority Mail-2 day and tagged fragile to ensure your items arrive fast and in one piece.
 <br>
+<br>
 
 ![Luxor Box May 2015 Packaging Open](/images/LuxorBoxMay2015PackagingOpen.jpg)
 <br>
@@ -39,7 +40,7 @@ I love the tifanny blue color of the box, it already screams luxury to me. And t
 ![Luxor Box May 2015 Inside](/images/LuxorBoxMay2015Inside.jpg)
 And voila, items revealed!
 <br>
-
+<br>
 ![Luxor Box May 2015 Cards](/images/LuxorBoxMay2015Cards.jpg)
 <br>
 ![Luxor Box May 2015 Cards](/images/LuxorBoxMay2015CardDetails.jpg)
