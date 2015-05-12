@@ -14,7 +14,7 @@ categories:
   - Subscription box reviews
 type: photo
 imagefeature: "FableticsFL2Announcement.png"
-date: 2015-05-12 08:48:39 +08:00
+date: 2015-05-12 11:48:39 +08:00
 ---
 ![Fabletics FL2 Announcement](/images/FableticsFL2Announcement.png)
 <p><b>The Box:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics (or FL2 for Men)</a></p>
