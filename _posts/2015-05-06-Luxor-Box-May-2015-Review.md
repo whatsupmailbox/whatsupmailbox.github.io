@@ -68,4 +68,11 @@ Details of the items are included in these cards. One side gives information on 
 ![Luxor Box May 2015 MSC](/images/LuxorBoxMay2015MSC.jpg)
 <a href="https://www.mscskincare.com/product/vanilla-exfoliating-sugar-scrub/">MSC Skin Care - Vanilla Exfoliating Sugar Scrub</a> FULL SIZE! $33
 
-![Luxor Box May 2015 MSC2](/images/LuxorBoxMay2015MSC2.jpg)
+![Luxor Box May 2015 MSC Set](/images/LuxorBoxMay2015MSCSet.jpg)
+![Luxor Box May 2015 MSC Set2](/images/LuxorBoxMay2015MSCSet2.jpg)
+<a href="https://www.mscskincare.com/product/lavender-and-bergamot-body-nectar/">MSC Skin Care - Lavender and Bergamot Body Nectar</a> FULL SIZE! $30
+<blockquote>Designed for daily moisturization, Body Nectars are the best body oils for the face, hair, nails, and body. Lavender and Bergamot is an uplifting blend of lavender essential oil and bergamot essential oil both which help tone skin and calm flyaway hair.</blockquote>
+
+<p><a href="https://www.mscskincare.com/product/lavender-and-spearmint-lip-cream/">MSC Skin Care - Lavender and Spearmint Lip Cream</a> FULL SIZE! $7</p>
+<blockquote>Creamy, moisturizing, and vegan, too! Our lip cremes contain nourishing oils like Sunflower and Apricot Kernel combined with vitamin-rich sunflower wax helps keep your lips moisturized all day long. Our fresh lip balms are super moisturizing, and are great lip balms for men, too!</blockquote>
+
