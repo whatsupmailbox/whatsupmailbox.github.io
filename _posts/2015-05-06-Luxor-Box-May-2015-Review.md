@@ -83,7 +83,7 @@ Details of the items are included in these cards. One side gives information on 
 
 <p><a href="https://www.mscskincare.com/product/lavender-and-spearmint-lip-cream/">MSC Skin Care - Lavender and Spearmint Lip Cream</a> FULL SIZE! $7</p>
 <blockquote>Creamy, moisturizing, and vegan, too! Our lip cremes contain nourishing oils like Sunflower and Apricot Kernel combined with vitamin-rich sunflower wax helps keep your lips moisturized all day long. Our fresh lip balms are super moisturizing, and are great lip balms for men, too!</blockquote>
-<p>The smell of this lip balm is so refreshing, it's like a spa for your lips! You definitely smell both the Lavender and Spearmint right off the bat. I put some on my lips as I started writing this review minutes ago and noticed my lips are all moisturized now. When I first put it on it gave a very slight tingly feeling due to the spearmint oil, but subsided soon after.
+<p>The smell of this lip balm is so refreshing, it's like a spa for your lips! You definitely smell both the Lavender and Spearmint right off the bat. I put some on my lips as I started writing this review minutes ago and noticed my lips are all moisturized now. When I first put it on it gave a very slight tingly feeling due to the spearmint oil, but subsided soon after.</p>
 <br>
 
 ![Luxor Box May 2015 Sucre](/images/LuxorBoxMay2015Sucre.jpg)
