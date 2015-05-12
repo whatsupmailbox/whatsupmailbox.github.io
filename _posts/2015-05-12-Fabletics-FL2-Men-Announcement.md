@@ -3,18 +3,18 @@ layout: post
 title: "Fabletics will be launching FL2 Subscription for Men!"
 description: "Free shipping"
 headline: "Fabletics will be launching FL2 Subscription for Men!"
-category: Subscription box coupons
+category: Subscription box reviews
 tags: Fabletics Subscription Men Sportswear
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Fabletics
   - Subscription box reviews
 type: photo
 imagefeature: "FableticsFL2Announcement.png"
-date: 2015-05-12 08:36:39 +08:00
+date: 2015-05-12 08:48:39 +08:00
 ---
 ![Fabletics FL2 Announcement](/images/FableticsFL2Announcement.png)
 <p><b>The Box:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics (or FL2 for Men)</a></p>
