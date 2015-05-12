@@ -70,7 +70,7 @@ Details of the items are included in these cards. One side gives information on 
 ![Luxor Box May 2015 MSC2](/images/LuxorBoxMay2015MSC2.jpg)
 ![Luxor Box May 2015 MSC](/images/LuxorBoxMay2015MSC.jpg)
 <a href="https://www.mscskincare.com/product/vanilla-exfoliating-sugar-scrub/">MSC Skin Care - Vanilla Exfoliating Sugar Scrub</a> FULL SIZE! $33
-<p>Sugar scrubs are a staple in my skincare, both face and body, so I'm happy to have more. The vanilla scent is on the lighter side and I'm thankful for that -I'm not too keen on sweet fragrance. Upon reading their website, it says that their vanilla is infused in-house with imported Madagascar vanilla beans. I can't wait to use this!
+<p>Sugar scrubs are a staple in my skincare, both face and body, so I'm happy to have more. The vanilla scent is on the lighter side and I'm thankful for that -I'm not too keen on sweet fragrance. Upon reading their website, it says that their vanilla is infused in-house with imported Madagascar vanilla beans. I can't wait to use this!</p>
 <br>
 
 ![Luxor Box May 2015 MSC Set](/images/LuxorBoxMay2015MSCSet.jpg)
