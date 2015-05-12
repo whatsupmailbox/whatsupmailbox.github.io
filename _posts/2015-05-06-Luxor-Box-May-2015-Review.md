@@ -82,10 +82,14 @@ Details of the items are included in these cards. One side gives information on 
 
 <p><a href="https://www.mscskincare.com/product/lavender-and-spearmint-lip-cream/">MSC Skin Care - Lavender and Spearmint Lip Cream</a> FULL SIZE! $7</p>
 <blockquote>Creamy, moisturizing, and vegan, too! Our lip cremes contain nourishing oils like Sunflower and Apricot Kernel combined with vitamin-rich sunflower wax helps keep your lips moisturized all day long. Our fresh lip balms are super moisturizing, and are great lip balms for men, too!</blockquote>
+<br>
+<br>
 
 ![Luxor Box May 2015 Sucre](/images/LuxorBoxMay2015Sucre.jpg)
 <a href="http://www.chambredesucre.com/products/his-hers-limited-edition-box">Chambre De Sucre Sugar Balls - His & Hers Set</a> FULL SIZE! $26
 
 <p>This two piece set features their Colored Sugar Balls and our Coffee Sugar Balls. The Colored Sugar Balls come in a mixed paster selection of pink, green, yellow and white -there's no difference in taste though. It's made with pure can sugar. The Coffee Sugar Balls are made with dark brown sugar and has no coffee flavor.</p>
 
-<p>I've actually tried their fancy sugars before and absolutely love them! My afternoon teas have never looked so good. And I think the name of the set is perfect and would be great for gifting a newlywed or couples who love tea/coffee.</p>
+<p>I've actually tried their fancy sugars before and absolutely love them! I feel so fancy and proper when I use these for my tea. And I think the name of the set is perfect and would be great for gifting a newlywed or couples who love tea/coffee.</p>
+
+<b>VERDICT:</b> I absolutely LOVED their first box and thought that they curated the items pretty spot on. The value of the box is $255.95 which is double the actual cost. I'll be using every single item in this box, and the value is definitely there for me so I'm satisfied and will continue to subscribe. I can't wait to see what their second box will offer!
