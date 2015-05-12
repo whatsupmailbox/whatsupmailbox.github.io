@@ -24,7 +24,7 @@ date: 2015-05-12 08:36:39 +08:00
 
 <p>Current subscribers will be able to use their existing VIP membership to buy for men too.</p>
 
-<p>I'm so excited about this launch and knew that it was only time where they'll add a Men's line to their collection. Their quality is great and price as a VIP membership is a <crossout>steal</crossout> deal, I can't wait to buy some workout clothes for my husband!</p>
+<p>I'm so excited about this launch and knew that it was only time where they'll add a Men's line to their collection. Their quality is great and price as a VIP membership is a <strike>steal</strike> deal, I can't wait to buy some workout clothes for my husband!</p>
 
 <p>Here's a description of FL2 from Fabletics:</p>
 ![Fabletics FL2 Info](/images/FableticsFL2Info.png)
