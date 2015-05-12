@@ -14,7 +14,7 @@ categories:
   - Subscription box reviews
 type: photo
 imagefeature: "LuxorBoxMay2015Box.jpg"
-date: 2015-05-11 05:01:39 +08:00
+date: 2015-05-11 18:01:39 +08:00
 ---
 
 ![Luxor Box May 2015 Box](/images/LuxorBoxMay2015Box.jpg)
