@@ -57,6 +57,8 @@ Details of the items are included in these cards. One side gives information on 
 ![Luxor Box May 2015 Lumiere](/images/LuxorBoxMay2015Lumiere.jpg)
 <a href="http://www.mariposa-gift.com/p-1883-triple-pearls-tea-light.aspx?Eid=281">Mariposa Tea Light - Triple Pearls Tea Light</a> $25.
 <p>This tea light is gorgeous and fits perfectly with my style and decor. It's made with 100% recycled materials (Recycled Sandcast Aluminum) and is made in Mexico.</p>
+<br>
+<br>
 
 ![Luxor Box May 2015 RCK](/images/LuxorBoxMay2015RCK.jpg)
 <a href="http://www.redcarpetkolour.com/order_rck.html">Red Carper Kolour Body Glow in Medium</a> - FULL SIZE! $49.95
@@ -69,6 +71,7 @@ Details of the items are included in these cards. One side gives information on 
 ![Luxor Box May 2015 MSC2](/images/LuxorBoxMay2015MSC2.jpg)
 ![Luxor Box May 2015 MSC](/images/LuxorBoxMay2015MSC.jpg)
 <a href="https://www.mscskincare.com/product/vanilla-exfoliating-sugar-scrub/">MSC Skin Care - Vanilla Exfoliating Sugar Scrub</a> FULL SIZE! $33
+<blockquote>A light and warm scent, perfectly complemented with scrubby raw sugar. Our vanilla is infused in-house with imported Madagascar vanilla beans.</blockquote>
 <br>
 <br>
 
