@@ -63,10 +63,14 @@ Details of the items are included in these cards. One side gives information on 
 <p>This was their second spoiler that they sent last month as well. They didn't mention the brand, but teased that it <i>"was developed by an expert that works with the Hollywood stars. This product has become a Red Carpet favorite!"</i> I'm not sure if everyone got this in Medium, but I'm sure glad I did because it suits my skintone.</p>
 
 <blockquote>RCK Body Glow is a luxurious water-resistant body lotion that instantly gives your skin a radiant, sexy glow. RCK is a snap to apply, and it won't transfer onto clothing, furniture...or your husband's suit! More than just a cosmetic, RCK is an anti-aging treatment that gives you beautiful skin from head to toe. Our exclusive formula immediately camouflages imperfections while super-powered actives like Vitamin K and C even skin tone, reducing pigmentation and broken capillaries with regular use. It is non-comedogenic, hypoallergenic, fragrance-free and paraben-free. RCK Body Glow is a favorite among A-list celebrities and makeup artists - and a secret weapon on the red carpet. With RCK, you'll always be ready for your profile pic, a hot date, or anytime you want to look and feel flawless.</blockquote>
+<br>
+<br>
 
 ![Luxor Box May 2015 MSC2](/images/LuxorBoxMay2015MSC2.jpg)
 ![Luxor Box May 2015 MSC](/images/LuxorBoxMay2015MSC.jpg)
 <a href="https://www.mscskincare.com/product/vanilla-exfoliating-sugar-scrub/">MSC Skin Care - Vanilla Exfoliating Sugar Scrub</a> FULL SIZE! $33
+<br>
+<br>
 
 ![Luxor Box May 2015 MSC Set](/images/LuxorBoxMay2015MSCSet.jpg)
 ![Luxor Box May 2015 MSC Set2](/images/LuxorBoxMay2015MSCSet2.jpg)
