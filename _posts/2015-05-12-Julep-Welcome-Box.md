@@ -14,7 +14,7 @@ categories:
   - Subscription box coupons
 type: photo
 imagefeature: "JulepWelcomeBoxMay2015.png"
-date: 2015-05-12 08:17:39 +08:00
+date: 2015-05-12 10:17:39 +08:00
 ---
 ![Julep Maven Welcome Box](/images/JulepWelcomeBoxMay2015.png)
 <p><b>The Box:</b> <a href="https://www.julep.com/rewardsref/index/refer/id/1532991/">Julep Maven</a></p>
