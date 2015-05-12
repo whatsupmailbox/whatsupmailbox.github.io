@@ -4,10 +4,10 @@ title: "Luxor Box May 2015 Review!"
 description: "Their very first box"
 headline: "Luxor Box May 2015 Review!"
 category: Subscription box reviews
-tags: Luxor Box Subscription Women Lifestyle Luxury May 2015
+tags: Luxor Box Subscription Women Lifestyle Luxury May 2015 Red Carpet Kolour Mariposa Lisa Stewart Chambre De Sucre MSC Skincare
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Luxor Box
@@ -66,12 +66,11 @@ Details of the items are included in these cards. One side gives information on 
 
 <blockquote>RCK Body Glow is a luxurious water-resistant body lotion that instantly gives your skin a radiant, sexy glow. RCK is a snap to apply, and it won't transfer onto clothing, furniture...or your husband's suit! More than just a cosmetic, RCK is an anti-aging treatment that gives you beautiful skin from head to toe. Our exclusive formula immediately camouflages imperfections while super-powered actives like Vitamin K and C even skin tone, reducing pigmentation and broken capillaries with regular use. It is non-comedogenic, hypoallergenic, fragrance-free and paraben-free. RCK Body Glow is a favorite among A-list celebrities and makeup artists - and a secret weapon on the red carpet. With RCK, you'll always be ready for your profile pic, a hot date, or anytime you want to look and feel flawless.</blockquote>
 <br>
-<br>
 
 ![Luxor Box May 2015 MSC2](/images/LuxorBoxMay2015MSC2.jpg)
 ![Luxor Box May 2015 MSC](/images/LuxorBoxMay2015MSC.jpg)
 <a href="https://www.mscskincare.com/product/vanilla-exfoliating-sugar-scrub/">MSC Skin Care - Vanilla Exfoliating Sugar Scrub</a> FULL SIZE! $33
-<blockquote>A light and warm scent, perfectly complemented with scrubby raw sugar. Our vanilla is infused in-house with imported Madagascar vanilla beans.</blockquote>
+<p>Sugar scrubs are a staple in my skincare, both face and body, so I'm happy to have more. The vanilla scent is on the lighter side and I'm thankful for that -I'm not too keen on sweet fragrance. Upon reading their website, it says that their vanilla is infused in-house with imported Madagascar vanilla beans. I can't wait to use this!
 <br>
 
 ![Luxor Box May 2015 MSC Set](/images/LuxorBoxMay2015MSCSet.jpg)
