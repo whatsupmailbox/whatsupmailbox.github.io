@@ -41,6 +41,7 @@ I love the tifanny blue color of the box, it already screams luxury to me. And t
 And voila, items revealed!
 <br>
 <br>
+<br>
 ![Luxor Box May 2015 Cards](/images/LuxorBoxMay2015Cards.jpg)
 <br>
 ![Luxor Box May 2015 Cards](/images/LuxorBoxMay2015CardDetails.jpg)
