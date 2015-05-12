@@ -14,7 +14,7 @@ categories:
   - Subscription box coupons
 type: photo
 imagefeature: "FabFitFunAlohaFreeTrialMay2015.png"
-date: 2015-05-11 10:50:39 +08:00
+date: 2015-05-11 10:50:39 -07:00
 ---
 
 ![FabFitFun Free Aloha Trial](/images/FabFitFunAlohaFreeTrialMay2015.png)
