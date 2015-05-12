@@ -21,7 +21,8 @@ date: 2015-05-11 05:01:39 +08:00
 I was so excited to finally receive the very first ever Luxor Box! 
 
 <p>The Box: <a href="http://www.luxorbox.com">Luxor Box</a></p>
-<p>The Cost: $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries. *Boxes are sold out and membership is now on waiting list only. If you you want to join their waiting list, <a href="http://www.luxorbox.com/#!membership-wait-list/c3bo">click here</a> and fill out their form. They'll notify you by email once a membership is available. Per Luxor Box, the wait can be anywhere from one month to well over a year.</p>
+<p>The Cost: $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
+<p>*Boxes are sold out and membership is now on waiting list only. If you you want to join their waiting list, <a href="http://www.luxorbox.com/#!membership-wait-list/c3bo">click here</a> and fill out their form. They'll notify you by email once a membership is available. Per Luxor Box, the wait can be anywhere from one month to well over a year.</p>
 <p>What’s in the box: Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. All deliveries will always have a $250+ value!</p>
 <br>
 
@@ -32,7 +33,7 @@ Boxes are shipped with USPS Priority Mail-2 day and tagged fragile to ensure you
 ![Luxor Box May 2015 Packaging Open](/images/LuxorBoxMay2015PackagingOpen.jpg)
 <br>
 ![Luxor Box May 2015 Outside Box](/images/LuxorBoxMay2015OutsideBox.jpg)
-I love the tifanny blue color of the box, it already screams luxury to me. And they definitely paid attention to the packaging details, I think the sleeve on the box adds that extra touch of luxury.
+I love the tifanny blue color of the box, it already screams luxury to me. And they definitely paid attention to the packaging details -I think the sleeve on the box adds that extra touch of luxury.
 
 <br>
 ![Luxor Box May 2015 Inside](/images/LuxorBoxMay2015Inside.jpg)
