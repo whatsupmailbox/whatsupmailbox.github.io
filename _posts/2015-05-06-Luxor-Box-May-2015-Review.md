@@ -46,6 +46,7 @@ And voila, items revealed!
 ![Luxor Box May 2015 Cards](/images/LuxorBoxMay2015CardDetails.jpg)
 Details of the items are included in these cards. One side gives information on the company/brand and the other side details the actual item. Coupon codes are also included in these cards.
 <br>
+<p>Now on to the items...</p>
 
 ![Luxor Box May 2015 Lisa Stewart](/images/LuxorBoxMay2015LisaStewart.jpg)
 ![Luxor Box May 2015 Lisa Stewart2](/images/LuxorBoxMay2015LisaStewart2.jpg)
