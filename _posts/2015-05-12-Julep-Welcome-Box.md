@@ -7,7 +7,7 @@ category: Subscription box coupons
 tags: Julep Maven Coupon Subscription Women NailPolish Lipstick
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Julep Maven
