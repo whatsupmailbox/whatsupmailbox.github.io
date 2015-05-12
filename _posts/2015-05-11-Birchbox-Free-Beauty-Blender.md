@@ -27,3 +27,5 @@ You'll also get to earn your money back by reviewing the items you received. Eac
 You can redeem every 100 points for $10 in the Birchbox shop.</blockquote>
 
 <p>This is a crazy good deal! The value of the BeautyBlender alone is $26, plus you get a Birchbox filled with beauty samples and all this for only $10! If you haven't subscribed to <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a>, you should totally get in on this deal, I think it's one of the best ones they've offered so far.</p>
+
+<p><b>Note:</b> When you do subscribe, the BeautyBlender won't show up in your cart, but it will say that they accepted the coupon code, and that will let you know that you'll be getting one even though it doesn't show.
