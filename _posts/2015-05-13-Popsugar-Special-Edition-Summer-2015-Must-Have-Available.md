@@ -29,6 +29,6 @@ The Summer 2015 box theme is "Set sail with the season's hottest essentials".</p
 
 <p>No spoilers have been released for this box, but I'm sure it will still get sold out fast even still. 
 They just released the Limited Edition CFDA box recently and it didn't get good reviews at all -sadly. 
-I was busy that day so missed out on purchasing one. I guess you could say I lucked out since the products were not for me at all and 
+I was busy that day so missed out on purchasing one. I guess I lucked out since the products were not for me at all and 
 personally I don't think it represented CFDA very well.</p>
 <p>I'm still on the fence on whether or not I should purchase the Summer box, I'm hoping a spoiler will get released before the box gets sold out #WishfulThinking.</p>
