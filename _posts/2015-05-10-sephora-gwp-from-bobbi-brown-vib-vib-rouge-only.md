@@ -15,7 +15,7 @@ imagefeature: SephoraBobbiBrownGWPMay102015.png
 ---
 
 ![Sephora Bobbiy Brown GWP.png](/images/SephoraBobbiBrownGWPMay102015.png)
-<p><b>Product:</b> <a href="http://www.sephora.com">GWP from Bobbi Brown</a></p>
+<p><b>Product:</b> <a href="http://www.sephora.com">Sephora</a>GWP from Bobbi Brown</p>
 <p><b>Price:</b> FREE with any online purchase of $35 or more</p>
 <p><b>Coupon:</b> VIBLONG</p>
 <br>
