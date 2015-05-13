@@ -24,9 +24,9 @@ The Summer 2015 box theme is "Set sail with the season's hottest essentials".</p
 
 <p>The <a href="https://musthave.popsugar.com">Popsugar Special Edition Summer 2015 Box</a> is now available!</p>
 
-<p>Limited quantities are available, so if you plan on purchasing one, get on it before it gets sold out (and it does from past experience).</p>
+<p>There's only limited quantities of these boxes so if you plan on purchasing one, get on it before it gets sold out (and it does from past experience).</p>
 
-<p>They haven't released any spoilers yet for this box, but I'm sure it will still get sold out fast even still. 
+<p>No spoilers have been released for this box, but I'm sure it will still get sold out fast even still. 
 They just released the Limited Edition CFDA box recently and it didn't get good reviews at all -sadly. 
 I was busy that day so missed out on purchasing one. I guess you could say I lucked out since the products were not for me at all and 
 personally I don't think it represented CFDA very well.</p>
