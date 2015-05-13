@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Popsugar Special Edition Summer 2015 Must Have Box Now On Sale!"
-description: "Set sail with the season's hottest summer essentials"
+description: ""
 headline: "Popsugar Special Edition Summmer 2015 Must Have Box Now On Sale!"
 category: Popsugar
 tags: Popsugar Special Edition Summer
