@@ -2,7 +2,7 @@
 layout: post
 title: "flip & tumble 24/7 Bag Review"
 description: "Colorful and ingenious reusable bags!"
-headline: "flip & tumble Review 24/7 Bag"
+headline: "flip & tumble 24/7 Bag"
 category: Product reviews
 tags: flip&tumble ReusableBags Popsugar
 comments: true
