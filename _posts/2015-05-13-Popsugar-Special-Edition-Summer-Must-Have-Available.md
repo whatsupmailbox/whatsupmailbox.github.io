@@ -13,6 +13,7 @@ categories:
   - Popsugar
 type: photo
 imagefeature: "PopsugarSummer2015BoxAvailable.png"
+date: 2015-05-13 11:59:00 -08:00
 ---
 
 ![Popsugar Summer Box Available](/images/PopsugarSummer2015BoxAvailable.png)
