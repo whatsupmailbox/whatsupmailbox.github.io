@@ -39,7 +39,6 @@ Here are the items you can add-on:
 <li>Quirky Switch Multitool $48.00</li>
 </ul>
 <br>
-
-What will you be choosing this month?
+<p>What will you be choosing this month?</p>
 
 Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">now</a> to receive a June box.
