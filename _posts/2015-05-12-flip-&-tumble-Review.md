@@ -45,6 +45,7 @@ It really is.</p>
 <li>felt patch = keeps the bag on your shoulder</li>
 <li>washing instructions = machine wash cold, hang to dry</li>
 <li>plastic bags spared = 1,000+</li>
+</ul>
 </blockquote>
 
 <p>I've tested this during my grocery shopping trips and yes, 
