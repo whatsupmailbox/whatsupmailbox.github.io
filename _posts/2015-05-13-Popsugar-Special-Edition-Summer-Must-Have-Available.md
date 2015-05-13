@@ -15,7 +15,7 @@ type: photo
 imagefeature: "PopsugarSummer2015BoxAvailable.png"
 ---
 
-![Popsugar Summer Box Available](/img/PopsugarSummer2015BoxAvailable.png)
+![Popsugar Summer Box Available](/images/PopsugarSummer2015BoxAvailable.png)
 <p><b>The Box:</b> <a href="https://musthave.popsugar.com">Popsugar Special Edition Summer 2015 Box</a></p>
 <p><b>The Cost:</b> $100 (one time purchase)</p>
 <p><b>WHAT’S IN THE BOX:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations. 
