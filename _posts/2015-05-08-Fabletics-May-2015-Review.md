@@ -18,10 +18,10 @@ categories:
 ---
 
 ![Fabletics May 2015](/img/FableticsMay2015Package.jpg)
-<p>The Box: <a href="//www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
-<p>The Cost: Complete outfits start at just $49.95 / month</p>
-<p>What’s in the box: Athletic outfits that come in 2 or 3 pieces, you choose your outfits!    </p>
-<p>Coupon: <a href="http://www.fabletics.com/invite/whatsupmailbox/">Subscribe</a> and get your first outfit at 50% off!</p>
+<p><b>Subscription:</b> <a href="//www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
+<p><b>Cost:</b> Complete outfits start at just $49.95 / month</p>
+<p><b>What’s in the box:</b> Athletic outfits that come in 2 or 3 pieces, you choose your outfits!    </p>
+<p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Subscribe</a> and get your first outfit at 50% off!</p>
 <br>
 
 Received my first Fabletics outfit today, yay!
