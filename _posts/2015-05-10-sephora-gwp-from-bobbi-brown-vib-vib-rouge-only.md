@@ -15,7 +15,7 @@ imagefeature: SephoraBobbiBrownGWPMay102015.png
 ---
 
 ![Sephora Bobbiy Brown GWP.png](/images/SephoraBobbiBrownGWPMay102015.png)
-
+<br>
 Product: [Sephora](http://www.sephora.com) GWP from Bobbi Brown
 
 Price: FREE with any online purchase of $35 or more
