@@ -17,9 +17,9 @@ imagefeature: "Birchbox-man.png"
 ---
 
 ![Birchbox Man Coupon](/img/Birchbox-man.png)
-<p>The Box: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
-<p>The Cost: $20 / month</p>
-<p>The Coupon: BBM25</p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p><b>Cost:</b> $20 / month</p>
+<p><b>Coupon:</b> BBM25</p>
 <br>
 
 <blockquote><p><i>WHAT’S IN THE BOX?</i></p>
