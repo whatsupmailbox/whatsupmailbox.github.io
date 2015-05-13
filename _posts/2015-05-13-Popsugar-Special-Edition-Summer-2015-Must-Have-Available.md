@@ -25,7 +25,7 @@ The Summer 2015 box theme is "Set sail with the season's hottest essentials".</p
 
 <p>The <a href="http://popsu.gr/vXrB">Popsugar Special Edition Summer 2015 Box</a> is now available!</p>
 
-<p>There's only limited quantities of these boxes so if you plan on purchasing one, get on it before it gets sold out (and it does from past experience).</p>
+<p>There's only limited quantities of these boxes so if you plan on purchasing one, get on it before it gets sold out (and it does from past experience). The Special Edition Summer box will ship by June 15.</p>
 
 <p>No spoilers have been released for this box, but I'm sure it will still get sold out fast even still. 
 They just released the Limited Edition CFDA box recently and it didn't get good reviews at all -sadly. 
