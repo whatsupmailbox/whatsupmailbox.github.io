@@ -21,7 +21,7 @@ date: 2015-05-14 12:19:39 -08:00
 <p><b>Subscription:</b><a href="http://www.treatsie.com"> Treatsie Box</a></p>
 <p><b>Cost:</b> $15 / month + $4.95 shipping</p>
 <p><b>Deal:</b> Purchase on <a href="https://www.ruelala.com/invite/whatsupmailbox">Rue La La</a> to get your first box at 40% off!</p>
-<p><b>What's in the box:</b> An assortment of the best gourmet sweets from ever-changing vendors all over the country. 
+<p><b>What's in the box:</b> An assortment of gourmet sweets from vendors all over the country. 
 3 different vendors every month and up to $25 worth of gourmet sweerts per box.</p>
 
 <p>This is a good deal to try out Conscious Box and see if it's right for you. I'd suggest trying the 1-month deal as it's not that much savings compared to the 3-month deal.</p>
