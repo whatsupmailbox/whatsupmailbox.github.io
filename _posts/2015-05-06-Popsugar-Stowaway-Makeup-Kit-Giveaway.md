@@ -23,7 +23,7 @@ Your June Popsugar Must Have box could include a custom kit from Stowaway Cosmet
 <p><i>*Current subscribers are already enrolled!</i></p>
 <p><b>Subscription:</b> <a href="http://popsu.gr/vdrb">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief Lisa Sugar ranging from makeup, jewelry, fitness, food, home and more!</p>
+<p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
 
 A little about Stowaway Cosmetics:
 <blockquote>Stowaway knows that if you're on the move, your beauty products are, too. Stowaway is a cosmetics brand built on the philosophy that makeup should be designed to go wherever women go. Its makeup formulas feel as good as they look and come in sizes you can carry anywhere — you'll also finish them before they expire. To top it off, they are always paraben-, phthalate-, and cruelty-free! Finally, the makeup you love in the sizes you can carry.</blockquote>
