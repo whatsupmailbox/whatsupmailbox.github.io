@@ -18,8 +18,8 @@ layout: none
 
 <entry>
   <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-  <link><![CDATA[{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}]]></link>
-  <id><![CDATA[{{ site.url }}{{ post.id }}]]></id>
+  <link>{% if post.link %}{{ post.link | xml_escape }}{% else %}{{ site.url }}{{ post.url | xml_escape }}{% endif %}</link>
+  <id>{{ site.url }}{{ post.id | xml_escape }}</id>
   {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
   <published>{{ post.date | date_to_xmlschema }}</published>
   {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
