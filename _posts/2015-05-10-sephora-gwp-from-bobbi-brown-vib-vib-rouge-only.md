@@ -15,7 +15,7 @@ imagefeature: SephoraBobbiBrownGWPMay102015.png
 ---
 
 ![Sephora Bobbiy Brown GWP.png](/images/SephoraBobbiBrownGWPMay102015.png)
-<p><b>Product:</b> [Sephora](http://www.sephora.com) GWP from Bobbi Brown</p>
+<p><b>Product:</b> <a href="http://www.sephora.com">GWP from Bobbi Brown</a></p>
 <p><b>Price:</b> FREE with any online purchase of $35 or more</p>
 <p><b>Coupon:</b> VIBLONG</p>
 <br>
@@ -27,6 +27,7 @@ imagefeature: SephoraBobbiBrownGWPMay102015.png
 2. <b>Long-wear eye pencil in Jet</b> - <i>Award winning richly pigmented liner provides up to 12 hours of wear</i>
 
 3. <b>Instant Long-wear makeup remover</b> - <i>Gentle but powerful solution removes lipstick and eye makeup with ease</i>
+
 <br>
 
 * Enter code <b>VIBLONG</b> in the promotion code box at checkout to receive a Bobbi Brown Long-Wear Basics deluxe sample set including: Long-Wear Cream Shadow Stick in Shadow (0.05 oz), Long-Wear Eye Pencil in Jet (0.03 oz), and Instant Long-Wear Makeup Remover (1 oz), free with any online merchandise purchase of $35 USD or more. One per client, non-transferable. Must be VIB or VIB Rouge to redeem offer. Valid while supplies last: quantities are limited. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not valid in retail stores or at Sephora inside JCPenney. Cannot be used in conjunction with other promotion codes. This offer is subject to change, alteration, or termination by Sephora at its sole discretion at any time.
