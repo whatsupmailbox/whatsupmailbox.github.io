@@ -48,4 +48,4 @@ It really is.</p>
 </ul>
 </blockquote>
 
-<p>I've tested this during my grocery shopping trips and amazingly enough it does withhold a sizeable weight and yet still comfortable on your shoulders. The best part is when I unfold it from a ball into a bag right in front of the cashier, it always amazes them =)</p>
+<p>I've tested this during my grocery shopping trips and amazingly enough it does withhold a sizeable weight and yet still comfortable on your shoulders. The best part is when I unfold it from a ball into a bag right in front of the cashier, it never ceases to amazes them =)</p>
