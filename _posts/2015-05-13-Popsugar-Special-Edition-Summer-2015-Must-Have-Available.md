@@ -32,3 +32,5 @@ They just released the Limited Edition CFDA box recently and it didn't get good 
 I was busy that day so missed out on purchasing one. I guess I lucked out since the products were not for me at all and 
 personally I don't think it represented CFDA very well.</p>
 <p>I'm still on the fence on whether or not I should purchase the Summer box, I'm hoping a spoiler will get released before the box gets sold out #WishfulThinking.</p>
+
+<p>*Update: I gave in and purchased. My thought process was, "if they did such a bad job with CFDA, they gotta make up for it with their Summer box to make their subscribers happy and have faith in them again". Makes sense right ;) </p>
