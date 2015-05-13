@@ -20,8 +20,8 @@ date: 2015-05-11 18:01:39 +08:00
 ![Luxor Box May 2015 Box](/images/LuxorBoxMay2015Box.jpg)
 I was so excited to finally receive the very first ever Luxor Box! 
 
-<p><b>The Box:</b> <a href="http://www.luxorbox.com">Luxor Box</a></p>
-<p><b>The Cost:</b> $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
+<p><b>Subscription:</b> <a href="http://www.luxorbox.com">Luxor Box</a></p>
+<p><b>Cost:</b> $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
 <p>*Boxes are sold out and membership is now on waiting list only. If you you want to join their waiting list, <a href="http://www.luxorbox.com/#!membership-wait-list/c3bo">click here</a> and fill out their form. They'll notify you by email once a membership is available. Per Luxor Box, the wait can be anywhere from one month to well over a year.</p>
 <p><b>What’s in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. All deliveries will always have a $250+ value!</b></p>
 <br>
