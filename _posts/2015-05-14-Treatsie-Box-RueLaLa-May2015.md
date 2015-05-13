@@ -18,7 +18,7 @@ date: 2015-05-14 12:19:39 -08:00
 ---
 
 ![Treatsie Box Ruelala](/images/TreatsieBoxRuelalaMay2015.jpg)
-<p><b>Subscription:</b><a href="http://www.consciousbox.com"> Conscious Box</a></p>
+<p><b>Subscription:</b><a href="http://www.treatsie.com"> Treatsie Box</a></p>
 <p><b>Cost:</b> $15 / month + $4.95 shipping</p>
 <p><b>Deal:</b> Purchase on <a href="https://www.ruelala.com/invite/whatsupmailbox">Rue La La</a> to get your first box at 40% off!</p>
 <p><b>What's in the box:</b> An assortment of the best gourmet sweets from ever-changing vendors all over the country. 
