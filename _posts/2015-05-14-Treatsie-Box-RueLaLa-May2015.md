@@ -24,7 +24,7 @@ date: 2015-05-14 12:19:39 -08:00
 <p><b>What's in the box:</b> An assortment of gourmet sweets from vendors all over the country. 
 3 different vendors every month and up to $25 worth of gourmet sweerts per box.</p>
 
-<p>This is a good deal to try out Conscious Box and see if it's right for you. I'd suggest trying the 1-month deal as it's not that much savings compared to the 3-month deal.</p>
+<p>Deals are always a good way to try out if they're right for you or not, and you won't feel bad if you don't either since you didn't pay full price. If you love sweets or just want to see what it's all about, this would be a good time to purchase.</p>
 
 <p>Here are the prices on <a href="https://www.ruelala.com/invite/whatsupmailbox">Rue La La</a>:
 <ul>
@@ -33,4 +33,4 @@ date: 2015-05-14 12:19:39 -08:00
 <li>6 months $64 (reg. 107.70)</li>
 </ul>
 
-<p>*Note: You will be enrolled in their monthly Plus box subscription afterwards, so make sure to cancel prior if you don't plan on keeping the subscription. You can cancel directly through your online account.</p>
+<p>*Note: You will be enrolled in their monthly subscription box after your purchased period. If you don't want to continue, you may cancel through your online account.</p>
