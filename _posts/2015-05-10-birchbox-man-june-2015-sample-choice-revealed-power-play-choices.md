@@ -38,7 +38,7 @@ Here are the items you can add-on:
 <ul><li>Native Union JUMP Cable $38.00 (SOLD OUT!)</li>
 <li>Quirky Switch Multitool $48.00</li>
 </ul>
-<br>
+
 <p>What will you be choosing this month?</p>
 
 Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">now</a> to receive a June box.
