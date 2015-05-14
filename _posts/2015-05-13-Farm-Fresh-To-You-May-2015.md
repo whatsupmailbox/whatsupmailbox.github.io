@@ -16,8 +16,8 @@ imagefeature: "FarmFreshToYouFruits.jpg"
 date: 2015-05-13 19:15:39 -08:00
 ---
 <p><b>Subscription:</b> <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a></p>
-<p><b>Cost:</b> They have various options and sizes, I chose the Fruits only Regular size which is $33/month.</p>
-<p><b>Coupon:</b> Use coupon code <b>LZRE5664</b> to get $10 off your first box.</p>
+<p><b>Cost:</b> They have various options and sizes, I chose the Fruits only Regular size which is $33/month</p>
+<p><b>Coupon:</b> Use coupon code <b>LZRE5664</b> to get $10 off your first box</p>
 <br>
 
 <b>Here are their options:</b>
