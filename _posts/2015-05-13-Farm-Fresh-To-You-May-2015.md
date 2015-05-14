@@ -27,7 +27,7 @@ date: 2015-05-14 19:15:39 -08:00
 Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
 They did notify me that my fruits will be delivered by a private service.</p>
 
-![Farm Fresh To You Fruits](/images/FarmFreshToYouFruits.jpg)
+<p>![Farm Fresh To You Fruits](/images/FarmFreshToYouFruits.jpg)</p>
 ![Farm Fresh To You Fruits List](/images/FarmFreshToYouFruitsList.jpg)
 I chose the Fruit only box. Once you choose your box type, you can modify it a week before your scheduled delivery to either switch out some products or add additional items from their store. 
 It's not only fruits and vegetables, they also have candles, eggs, flowers and more! My fruit box orignally had grapefruits but I switched that to bananas instead since I'm not into sour fruits. Everything else was what the box originally planned. 
