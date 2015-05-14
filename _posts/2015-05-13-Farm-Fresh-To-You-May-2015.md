@@ -24,8 +24,9 @@ date: 2015-05-14 19:15:39 -08:00
 <p>I purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it.</p>
 
 ![Farm Fresh To You Box2](/images/FarmFreshToYouBox2.jpg)
-<p>Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
-They did notify me that my fruits will be delivered by a private service.</p>
+Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
+They did notify me that my fruits will be delivered by a private service.
+<br>
 
 ![Farm Fresh To You Fruits](/images/FarmFreshToYouFruits.jpg)
 ![Farm Fresh To You Fruits List](/images/FarmFreshToYouFruitsList.jpg)
