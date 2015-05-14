@@ -30,7 +30,7 @@ date: 2015-05-13 19:15:39 -08:00
 <p>If you want to take advantage of the deal, go to<a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your initial delivery.</p>
 
 ![Farm Fresh To You Box2](/images/FarmFreshToYouBox2.jpg)
-Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
+Their box is not completely closed and they actually reuse the boxes. You flatten the box then leave out so they can pickup when they deliver next time. 
 Their delivery is done by an independent service.
 <br>
 <br>
