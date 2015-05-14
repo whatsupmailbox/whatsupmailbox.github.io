@@ -45,5 +45,5 @@ It works all lower-body muscle groups, and it 's made of TPR tubing for a greene
 <p><a href="http://www.merrithew.com/shop/ProductDetail/DV81228_Dvd--Total-Body-Tone-With-Tubing-Lower-Body-and-Core"> Total Body Tone with Tubing - Lower Body & Core DVD:</a></p>
 <blockquote>Specially chosen exercises use added resistance around the ankles to increase the challenge and boost your results. This workout will tone thighs, glutes and calves and strengthen the core abdominals.</blockquote>
 
-<p><b>VERDICT:</b> This is a great set to have to build your quads and abs! It's light and travel friendly, and the price (minus the shipping) is affordable if not cheap. 
+<p><b>VERDICT:</b> This is a great set to have to build your quads and abs! It's light and travel friendly, and the price (minus the shipping) is affordable. 
 The company itself is well known in the Yoga and Pilates community and it shows in their DVDs. My next addition will be their Pilates!
