@@ -7,7 +7,7 @@ category: Popsugar
 tags: Popsugar Subscription Spoiler
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Popsugar
