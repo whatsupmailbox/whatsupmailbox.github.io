@@ -4,10 +4,10 @@ title: "Farm Fresh To You May 2015 Review + $10 coupon"
 description: "fruit only box"
 headline: "Farm Fresh To You May 2015 Review + $10 coupon"
 category: Subscription box reviews
-tags: FarmFreshToYou Fruits Subscription
+tags: FarmFreshToYou Organic Fruits Subscription
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Subscription box reviews
