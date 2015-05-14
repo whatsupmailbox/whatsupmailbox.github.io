@@ -30,3 +30,5 @@ date: 2015-05-14 11:59:00 -08:00
 <p>I'm so excited to learn that I'll be adding a new pair of sunglasses to my collection. 
 The sunglasses alone cost more than the subscription, so I'm thrilled about that! 
 I can't wait to see what else they have planned for the June box.</p>
+
+<p>If you haven't subscribed yet, June boxes are still available. Join now at <a href="http://popsu.gr/vdrb">Popsugar</a> and use coupon code <b>MustHAVE5</b> to save $5 off your subscription.</p>
