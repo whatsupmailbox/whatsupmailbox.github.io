@@ -21,13 +21,13 @@ date: 2015-05-14 19:15:39 -08:00
 <p><b>Coupon:</b> Use coupon code <b>LZRE5664</b> to get $10 off your first box.</p>
 <br>
 
-<p>I purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it. 
+<p>I purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it.</p>
 
 ![Farm Fresh To You Box2](/images/FarmFreshToYouBox2.jpg)
-Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
+<p>Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
 They did notify me that my fruits will be delivered by a private service.</p>
 
-<p>![Farm Fresh To You Fruits](/images/FarmFreshToYouFruits.jpg)</p>
+![Farm Fresh To You Fruits](/images/FarmFreshToYouFruits.jpg)
 ![Farm Fresh To You Fruits List](/images/FarmFreshToYouFruitsList.jpg)
 I chose the Fruit only box. Once you choose your box type, you can modify it a week before your scheduled delivery to either switch out some products or add additional items from their store. 
 It's not only fruits and vegetables, they also have candles, eggs, flowers and more! My fruit box orignally had grapefruits but I switched that to bananas instead since I'm not into sour fruits. Everything else was what the box originally planned. 
