@@ -4,7 +4,7 @@ title: "Treatsie Box on sale at Rue La La"
 description: "A box to indulge your sweet tooth"
 headline: "Treatsie Box on sale at Rue La La"
 category: Subscription box coupons
-tags: TreatsieBox Subscription RueLaLa Candy Snacks
+tags: Treatsie Subscription RueLaLa Sweets Snacks
 comments: true
 mathjax: null
 published: true
@@ -22,7 +22,7 @@ date: 2015-05-14 12:19:39 -08:00
 <p><b>Cost:</b> $15 / month + $4.95 shipping</p>
 <p><b>Deal:</b> Purchase on <a href="https://www.ruelala.com/invite/whatsupmailbox">Rue La La</a></p>
 <p><b>What's in the box:</b> An assortment of gourmet sweets from vendors all over the country. 
-3 different vendors every month and up to $25 worth of gourmet sweerts per box.</p>
+3 different vendors every month and up to $25 worth of gourmet sweets per box.</p>
 
 <p>Here are the prices on <a href="https://www.ruelala.com/invite/whatsupmailbox">Rue La La</a>:
 <ul>
