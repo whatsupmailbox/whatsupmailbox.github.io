@@ -31,7 +31,7 @@ They did notify me that my fruits will be delivered by a private service.</p>
 ![Farm Fresh To You Fruits List](/images/FarmFreshToYouFruitsList.jpg)
 I chose the Fruit only box. Once you choose your box type, you can modify it a week before your scheduled delivery to either switch out some products or add additional items from their store. 
 It's not only fruits and vegetables, they also have candles, eggs, flowers and more! My fruit box orignally had grapefruits but I switched that to bananas instead since I'm not into sour fruits. Everything else was what the box originally planned. 
-</p>
+
 
 <p><b>Verdict:</b> I'm quite disappointed in the selections of fruit as well as the price for what (and how many) you get. I live in California so I have access to a variety of locally grown produce and I'm not benefiting from the price or variety with this box. 
 For $33, I could get much more in quantity at my local farmer's market. I'm sure for those of you who don't have such access, this would be a great box for you, it just wasn't for me. I'm glad I got to try it out with a deal, so I'm not too disappointed.</p>
