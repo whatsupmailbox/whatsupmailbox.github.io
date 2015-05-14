@@ -17,7 +17,7 @@ date: 2015-05-14 14:20:39 -08:00
 ---
 
 ![Rifle Paper Co LeSportsac](/images/RiflePaperLeSportsac.jpg)
-<p><a href="https://riflepaperco.com/collections/lesportsac/?utm_source=Rifle+Paper+Co.+News&utm_campaign=45a0a78e66-Rifle_Paper_Co_LeSportsac5_14_2015&utm_medium=email&utm_term=0_954f5f9022-45a0a78e66-116089777&mc_cid=45a0a78e66&mc_eid=6eae617333">Rifle Paper Co. x LeSportsac collection</a> launches today!</p>
+<p><a href="https://riflepaperco.com/collections/lesportsac/?utm_source=Rifle+Paper+Co.+News&utm_campaign=45a0a78e66-Rifle_Paper_Co_LeSportsac5_14_2015&utm_medium=email&utm_term=0_954f5f9022-45a0a78e66-116089777&mc_cid=45a0a78e66&mc_eid=6eae617333">Rifle Paper Co. x LeSportsac collection</a> is now available!</p>
 <p>I'm truly madly deeply in love with their patterns! My love affair started with their gift wraps, which are devine and the recipient of your gifts will think oh so highly of you. Then continued on to their greeting cards, then their  water bottle, and now I must, correction -absolutely must, have their bags!</p>
 
 <p>They have so many to choose from, I can't decide which to buy first. I'm debating in getting either the Large Weekender or the Hailey Tote.</p>
