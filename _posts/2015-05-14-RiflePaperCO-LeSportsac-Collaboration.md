@@ -22,8 +22,8 @@ date: 2015-05-14 14:20:39 -08:00
 
 <p>They have so many to choose from, I can't decide which to buy first. I'm debating in getting either the Large Weekender or the Hailey Tote.</p>
 
-![Rifle Paper Co LeSportsac Large Weekender](/images/RiflePaperLeSportsacLargeWeekender.jpg)
-<a href="https://riflepaperco.com/collections/lesportsac/large-weekender-everyday-bags-and-totes/">Rifle Paper Co. x LeSportsac Large Weekender in Marion Floral</a> $142
+![Rifle Paper Co LeSportsac Small Melanie](/images/RiflePaperCoLeSportsacSmallMelanie.jpg)
+<a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Rifle Paper Co. x LeSportsac Small Melanie in Marion Floral</a> $74
 
 ![Rifle Paper Co LeSportsac Hailey Tote](/images/RiflePaperLeSportsacHailerTote.jpg)
 <a href="https://riflepaperco.com/collections/lesportsac/hailey-tote-everyday-bags-and-tote/">Rifle Paper Co. x LeSportsac Hailer Tote in Monaco print</a> $82
