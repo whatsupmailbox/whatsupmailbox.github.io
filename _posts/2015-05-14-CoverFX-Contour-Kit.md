@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Cover FX Contour Kit"
+title: "Cover FX Contour Kit Review"
 description: ""
-headline: "Cover FX Contour Kit"
+headline: "Cover FX Contour Kit Review"
 category: Product reviews
 tags: CoverFX Contour Kit Sephora
 comments: true
