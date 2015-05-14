@@ -25,7 +25,7 @@ date: 2015-05-13 19:15:39 -08:00
 ![Farm Fresh To You Options](/images/FarmFreshToYouOptions.png)
 ![Farm Fresh To You Options2](/images/FarmFreshToYouOptions2.png)
 
-<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it. I paid $16 ($33 value) for one box of their organic produce.</p>
+<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago for $16 and finally got the chance to redeem it. $16 will get you one regular-sized box of organic produce delivery</p>
 
 <p>If you want to take advantage of the deal, go to<a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your purchased delivery.</p>
 
