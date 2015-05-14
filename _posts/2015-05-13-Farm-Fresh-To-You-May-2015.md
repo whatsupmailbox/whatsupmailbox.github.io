@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Farm Fresh To You May 2015 Review"
+title: "Farm Fresh To You May 2015 Review + $10 coupon"
 description: "fruit only box"
-headline: "Farm Fresh To You May 2015 Review"
+headline: "Farm Fresh To You May 2015 Review + $10 coupon"
 category: Subscription box reviews
 tags: FarmFreshToYou Fruits Subscription
 comments: true
@@ -13,14 +13,21 @@ categories:
   - Subscription box reviews
 type: photo
 imagefeature: "FarmFreshToYouFruits.jpg"
-date: 2015-05-14 19:15:39 -08:00
+date: 2015-05-13 19:15:39 -08:00
 ---
 <p><b>Subscription:</b> <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a></p>
 <p><b>Cost:</b> They have various options and sizes, I chose the Fruits only Regular size which is $33/month.</p>
 <p><b>Coupon:</b> Use coupon code <b>LZRE5664</b> to get $10 off your first box.</p>
 <br>
 
-<p>I purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it.</p>
+<b>Here are their options:</b>
+
+![Farm Fresh To You Options](/images/FarmFreshToYouOptions.png)
+![Farm Fresh To You Options2](/images/FarmFreshToYouOptions2.png)
+
+<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago and finally got the chance to redeem it. I paid $16 ($33 value) for one box of their organic produce.</p>
+
+<p>If you want to take advantage of the deal, go to<a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your purchased delivery.</p>
 
 ![Farm Fresh To You Box2](/images/FarmFreshToYouBox2.jpg)
 Their box is not completely closed and they actually reuse the boxes as it states that you can flatten the box and leave out so they can pickup when they deliver next time. 
