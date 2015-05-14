@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rifle Paper Co. x LeSportsac Collection Now Available!"
+title: "Rifle Paper Co. x LeSportsac Collection Launches Today!"
 description: ""
 headline: "Rifle Paper Co. x LeSportsac Collection Collaboration!"
 category: Product reviews
