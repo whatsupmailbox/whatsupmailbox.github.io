@@ -17,7 +17,7 @@ date: 2015-05-14 11:59:00 -08:00
 ---
 
 ![Popsugar Box](/images/PopsugarBox.jpg)
-<p><b>The Box:</b> <a href="http://popsu.gr/vdrb">Popsugar Special Edition Summer 2015</a></p>
+<p><b>The Box:</b> <a href="http://popsu.gr/vdrb">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 (taxes apply to CA)</p>
 <p><b>WHAT’S IN THE BOX:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations. 
 The Summer 2015 box theme is "Set sail with the season's hottest essentials".</p>
