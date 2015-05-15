@@ -4,7 +4,7 @@ title: "French Box relaunches with May 2015 Box - Cannes Film Festival theme!"
 description: ""
 headline: "French Box relaunches with May 2015 Box - Cannes Film Festival theme!"
 category: French Box
-tags: Popsugar Subscription Spoiler
+tags: FrenchBox Subscription
 comments: true
 mathjax: null
 published: true
