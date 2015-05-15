@@ -34,23 +34,23 @@ People lost faith and many cancelled. So it was only logical for them to step ba
 <DL>
 <DT>What’s new?</DT>
 <DD>No time to read? Here's the short list: the box will ship every other month, the price is now $36, you are charged only when the box shipping date is confirmed, you can cancel or pause your subscription at anytime and the next box should ship around May 20th 2015.</DD>
-
+<p>
 <DT>A better experience</DT>
 <DD>More flexibility: Cancel or put your subscription on hold at any time, pay only a few days before your box ships.</DD>
 <DD>More transparency: We will provide more information about products such as ingredient lists and use-by dates.</DD>
 <DD>The promise that all brand name products we send you were acquired directly from brands or through their official distributors.
 Easier, faster customer service through your dashboard.</DD>
-
+</p>
 <DT>A box every OTHER month</DT>
 <DD>For a renewed focus on quality and experience.</DD>
 <DD>Shipping dates will be “expected dates” and confirmed about 2 weeks before we ship the box.</DD>
-
+<p>
 <DT>A new price: $36<DT>
 <DD>A box with with better products, more exclusive products and prodcuts that you cannot find in the United States.</DD>
 <DD>More information about the products you receive.</DD>
 <DD>Free Priority Mail shipping.</DD>
-
-
+</p>
+<br>
 <p>I'm happy that they are coming back and it seems like they've changed into a better and brighter direction (based on their changes) and let's hope that's true with their May 2015 box. I'll post my review as soon as I get my box!</p>
 
 <p>I love everything about France. The language, the food, the country. I've been to France (most recently last fall) and getting a box monthly to remind me of the Provence or Paris "La ville de l'amour" makes me happy. 
