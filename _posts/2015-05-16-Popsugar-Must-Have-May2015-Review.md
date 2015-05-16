@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Popsugar Must Have May 2015 Review + Coupon!"
-description: 
+description:"Popsugar Must Have May 2015 Review + Coupon!"
 headline: "Popsugar Must Have May 2015 Review + Coupon!"
 category: Subscription box reviews
 tags: Popsugar MustHave Subscription Lifestyle 
 comments: true
-mathjax: null
 published: true
 featured: false
 categories: 
@@ -16,7 +15,7 @@ type: photo
 imagefeature: "PopsugarMay2015Box.jpg"
 date: 2015-05-16 9:01:39 -08:00
 ---
-
+![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
 ![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
 My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
