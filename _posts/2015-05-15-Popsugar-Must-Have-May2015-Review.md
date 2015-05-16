@@ -53,7 +53,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 <a href="http://www.sistersoflosangeles.com">Sisters of Los Angeles</a> Beach Towel in Surf Sand Love design, $40
 <p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.<p>
 
-<p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon so that I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection either way.</p>
+<p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
 
 ![Popsugar Box May 2015 Batiste Sage&Row](/images/PopsugarMay2015BatisteSage.jpg)
 <a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size) - $4
