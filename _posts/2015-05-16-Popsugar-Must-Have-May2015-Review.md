@@ -54,20 +54,20 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 <p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.</p>
 
 <p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
-<br/>
+<br>
 
 ![Popsugar Box May 2015 Batiste SageRow](/images/PopsugarMay2015BatisteSage.jpg)
 <a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size), $4
 <p>I have tons of dry shampoo and I like to keep it that way due to my oily hair, so I'm happy to add another one to my stash. I've had <a href="http://www.batistehair.com/fragrance-original.aspx">Batiste Dry Shampoos</a> before and their great. I've never had the Cherry fragrance though and it truly does smell like bunches of cherries. At first I wasn't too sure about the smell, but it's starting to grow on me.</p>
-<br/>
+<br>
 
 <a href="http://www.sageandrow.com/products/bare-shave-cream">Sage & Row Bare Shave Cream</a> - FULL SIZE, $17
 <p>I don't really have a need for shaving creams since my asian heritage has blessed me with the lack of hair in certain areas. But I do see that they are made with natural and organic ingredients such as shea butter, aloe, lavender and some essential oils. And the tube itself looks quite classy so it'll be great to insert into a spa themed gift, which is exactly what I'll be doing.</p>
-<br/>
+<br>
 
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 <a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
 <p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
-<br/>
+<br>
 
 <p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. Here's hoping to a better box in June!</p>
