@@ -60,11 +60,11 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 ![Popsugar Box May 2015 Batiste SageRow](/images/PopsugarMay2015BatisteSage.jpg)
 <a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size), $4
 <p>I have tons of dry shampoo and I like to keep it that way due to my oily hair, so I'm happy to add another one to my stash. I've had <a href="http://www.batistehair.com/fragrance-original.aspx">Batiste Dry Shampoos</a> before and their great. I've never had the Cherry fragrance though and it truly does smell like bunches of cherries. At first I wasn't too sure about the smell, but it's starting to grow on me.</p>
-<br>
+<br/>
 
 <a href="http://www.sageandrow.com/products/bare-shave-cream">Sage & Row Bare Shave Cream</a> - FULL SIZE, $17
 <p>I don't really have a need for shaving creams since my asian heritage has blessed me with the lack of hair in certain areas. But I do see that they are made with natural and organic ingredients such as shea butter, aloe, lavender and some essential oils. And the tube itself looks quite classy so it'll be great to insert into a spa themed gift, which is exactly what I'll be doing.</p>
-<br>
+<br/>
 
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 <a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
