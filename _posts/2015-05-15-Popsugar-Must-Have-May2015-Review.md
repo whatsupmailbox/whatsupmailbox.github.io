@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Popsugar Must Have Box June 2015 Review!"
+title: "Popsugar Must Have May 2015 Review!"
 description: ""
-headline: "Popsugar Must Have Box June 2015 Review!"
+headline: "Popsugar Must Have May 2015 Review!"
 category: Subscription box reviews
 tags: Popsugar MustHave Subscription Lifestyle 
 comments: true
@@ -13,16 +13,15 @@ categories:
   - Luxor Box
   - Subscription box reviews
 type: photo
-imagefeature: "LuxorBoxMay2015Box.jpg"
-date: 2015-05-15 12:01:39 -08:00
+imagefeature: "PopsugarMay2015Box.jpg"
+date: 2015-05-15 9:01:39 -08:00
 ---
 
-![Popsugar Must Have June 2015 Box](/images/PopsugarJune2015Box.jpg)
-I was so excited to finally receive the very first ever Luxor Box! 
+![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
+My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
-<p><b>Subscription:</b> <a href="http://www.luxorbox.com">Luxor Box</a></p>
-<p><b>Cost:</b> $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
-<p>*Boxes are sold out and membership is now on waiting list only. If you you want to join their waiting list, <a href="http://www.luxorbox.com/#!membership-wait-list/c3bo">click here</a> and fill out their form. They'll notify you by email once a membership is available. Per Luxor Box, the wait can be anywhere from one month to well over a year.</p>
+<p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
+<p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What’s in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. All deliveries will always have a $250+ value!</b></p>
 <br>
 
