@@ -45,7 +45,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 ![Popsugar Box May 2015 Middle Kingdom Vase](/images/PopsugarMay2015MiddleKingdomVase.jpg)
 <a href="http://www.mkporcelain.com">Middle Kingdom</a> Mini Plum Vase in Coral Red, $20
 <p>Omg, this vase is so cute, I love it! It's a little bit smaller than my iPhone 6 Plus, which makes it perfect to display a single stem of flower. And the color is poppin red, which will brighten up any room.</p>
-<p>Middle Kingdom is all about reviving Chinese porcelain traditions for a modern audience, and I can definitely see it being represented well in this vase. I looked at where I can buy some more (they don't sell it on their website) and there's a trend of it being sold in Art Museums, that's definitely a good sign.</p>
+<p><a href="http://www.mkporcelain.com">Middle Kingdom</a> is all about reviving Chinese porcelain traditions for a modern audience, and I can definitely see it being represented well in this vase. I looked at where I can buy some more (they don't sell it on their website) and there's a trend of it being sold in Art Museums, that's definitely a good sign.</p>
 <br>
 
 ![Popsugar Box May 2015 SistersOfLosAngeles Towel](/images/PopsugarMay2015SistersOfLosAngelesTowel.jpg)
