@@ -35,16 +35,16 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 <br>
 
 ![Popsugar Box May 2015 Kitsch Necklace](/images/PopsugarMay2015KitschNecklace.jpg)
-<a href="http://www.mykitsch.com/trid-true-y-shaped-necklace/">Kitsch Tri'd & True Y-Shaped Necklace</a> $32
+<a href="http://www.mykitsch.com/trid-true-y-shaped-necklace/">Kitsch Tri'd & True Y-Shaped Necklace</a>, $32
 
 <p>This was an item they revealed prior but it seemed so long ago that I forgot all about it. But sadly, my necklace arrived broken. It looks fine from the front, but behind the display where the necklace actually gathers, it broke hence unwearable. I reached out to their customer service (email is their only method) and we'll see what they have to say about it.</p>
 
-<p>It does make me believe that the necklace itself is such a delicate piece and I'm not sure about the quality if it can break so easily. Plus I'm more of a gold person so this necklace failed to impress me.</p>
+<p>It does make me believe that the necklace itself is such a delicate piece and I'm not sure about the quality if it can break so easily. It's also long, 36 inches long. Plus I'm more of a gold person so this necklace failed to impress me.</p>
 <br>
 
 ![Popsugar Box May 2015 Middle Kingdom Vase](/images/PopsugarMay2015MiddleKingdomVase.jpg)
-<a href="http://www.mkporcelain.com">Middle Kingdom</a> Mini Plum Vase in Coral Red. $20
-<p>Omg, this vase is so cute, I love it! It's a little bit smaller than my iPhone 6 Plus, which makes it perfect to display a single stem of flower. And the color will is a poppin red, which brightens up any room.</p>
+<a href="http://www.mkporcelain.com">Middle Kingdom</a> Mini Plum Vase in Coral Red, $20
+<p>Omg, this vase is so cute, I love it! It's a little bit smaller than my iPhone 6 Plus, which makes it perfect to display a single stem of flower. And the color is poppin red, which will brighten up any room.</p>
 <p>Middle Kingdom is all about reviving Chinese porcelain traditions for a modern audience, and I can definitely see it being represented well in this vase. I looked at where I can buy some more (they don't sell it on their website) and there's a trend of it being sold in Art Museums, that's definitely a good sign.</p>
 <br>
 
@@ -61,7 +61,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 <br>
 
 <a href="http://www.sageandrow.com/products/bare-shave-cream">Sage & Row Bare Shave Cream</a> - FULL SIZE, $17
-<p>I don't really have a need for shaving creams since my asian heritage has blessed me with the lack of hair in certain areas. But I do see that they are made with natural and organic ingredients such as shea butter, aloe, lavender and some essential oils. And tube itself looks quite classy so it'll be great to insert into a spa themed gift.
+<p>I don't really have a need for shaving creams since my asian heritage has blessed me with the lack of hair in certain areas. But I do see that they are made with natural and organic ingredients such as shea butter, aloe, lavender and some essential oils. And the tube itself looks quite classy so it'll be great to insert into a spa themed gift, which is exactly what I'll be doing.</p>
 <br>
 
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
