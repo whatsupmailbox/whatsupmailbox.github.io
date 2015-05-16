@@ -56,7 +56,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 
 <p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
 
-![Popsugar Box May 2015 Batiste Sage&Row](/images/PopsugarMay2015BatisteSage.jpg)
+![Popsugar Box May 2015 Batiste Sage Row](/images/PopsugarMay2015BatisteSage.jpg)
 <a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size) - $4
 <p>I have tons of dry shampoo and I like to keep it that way due to my oily hair, so I'm happy to add another one to my stash. I've had <a href="http://www.batistehair.com/fragrance-original.aspx">Batiste Dry Shampoos</a> before and their great. I've never had the Cherry fragrance though and it truly does smell like bunches of cherries. At first I wasn't too sure about the smell, but it's starting to grow on me.</p>
 <br>
