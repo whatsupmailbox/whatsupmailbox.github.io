@@ -23,7 +23,7 @@ My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box cam
 <p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box</p>
+<p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box!</p>
 <br>
 
 ![Popsugar Must Have May 2015 Open Box](/images/PopsugarMay2015OpenBox.jpg)
