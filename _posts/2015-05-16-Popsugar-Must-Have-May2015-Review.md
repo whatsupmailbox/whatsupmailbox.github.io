@@ -17,7 +17,6 @@ date: 2015-05-16 9:01:39 -08:00
 ---
 
 ![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
-![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
 <p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
@@ -52,10 +51,10 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 ![Popsugar Box May 2015 SistersOfLosAngeles Towel](/images/PopsugarMay2015SistersOfLosAngelesTowel.jpg)
 ![Popsugar Box May 2015 SistersOfLosAngeles Towel2](/images/PopsugarMay2015SistersOfLosAngelesTowel2.jpg)
 <a href="http://www.sistersoflosangeles.com">Sisters of Los Angeles</a> Beach Towel in Surf Sand Love design, $40
-<p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.<p>
+<p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.</p>
 
 <p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
-<br>
+<br/>
 
 ![Popsugar Box May 2015 Batiste SageRow](/images/PopsugarMay2015BatisteSage.jpg)
 <a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size), $4
