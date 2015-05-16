@@ -7,7 +7,7 @@ category: Subscription box reviews
 tags: Popsugar MustHave Subscription Lifestyle 
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Luxor Box
