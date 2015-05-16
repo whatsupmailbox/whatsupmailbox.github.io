@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Popsugar Must Have May 2015 Review + Coupon!"
-description: ""
+description: 
 headline: "Popsugar Must Have May 2015 Review + Coupon!"
 category: Subscription box reviews
 tags: Popsugar MustHave Subscription Lifestyle 
@@ -69,6 +69,6 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 <a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
 <p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
-<br>
+<br/>
 
 <p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. Here's hoping to a better box in June!</p>
