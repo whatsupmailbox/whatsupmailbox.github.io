@@ -17,6 +17,7 @@ date: 2015-05-16 9:01:39 -08:00
 ---
 
 ![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
+![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
 <p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
