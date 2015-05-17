@@ -24,7 +24,6 @@ Get a free <b>The Perfect Part</b> when you spend $55 or more in the Birchbox Me
 <p>Cost: $10 / month</p>
 <p>Coupon: <b>PERFECTPART</b> *Available only while supplies last.</p>
 <p>What's in the box: 4 - 5 personalized beauty samples that's determined based on a beauty profile that you complete once you subscribe.</p>
-<br>
 
 <p>The reason why I love Birchbox is the ability to earn my money back by reviewing the items I received. Each item you review will earn you 10 Birchbox points. So you're essentially getting your box for half the price!
 You can redeem every 100 points for $10 in the Birchbox shop. And since I have a subscription to both <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a>, I rack up points quickly.</p>
