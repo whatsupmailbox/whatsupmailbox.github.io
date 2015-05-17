@@ -14,7 +14,7 @@ categories:
   - Subscription box coupons
 type: photo
 imagefeature: "BirchboxGWPThePerfectPartMay2015.png"
-date: 2015-05-16 23:28:39 -08:00
+date: 2015-05-16 23:00:39 -08:00
 ---
 ![Birchbox GWP The Perfect Part](/images/BirchboxGWPThePerfectPartMay2015.png)
 Get a free <b>The Perfect Part</b> when you spend $55 or more in the Birchbox Men's Shop, value of $20!
@@ -29,4 +29,4 @@ Get a free <b>The Perfect Part</b> when you spend $55 or more in the Birchbox Me
 <p>The reason why I love Birchbox is the ability to earn my money back by reviewing the items I received. Each item you review will earn you 10 Birchbox points. So you're essentially getting your box for half the price!
 You can redeem every 100 points for $10 in the Birchbox shop. And since I have a subscription to both <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a>, I rack up points quickly.</p>
 
-<p><mark>Note: The Perfect Part will not appear in your shopping cart when you add the code, but you'll see that the coupon code was accepted and rest assure that you'll receive it in your order shipment. I've entered plenty of coupon codes and never had an issue.</mark></p>
+<p><i>Note: The Perfect Part will not appear in your shopping cart when you add the code, but you'll see that the coupon code was accepted and rest assure that you'll receive it in your order shipment. I've entered plenty of coupon codes and never had an issue.</i></p>
