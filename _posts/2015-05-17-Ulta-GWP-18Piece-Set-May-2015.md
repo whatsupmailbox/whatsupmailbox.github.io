@@ -14,7 +14,7 @@ categories:
   - Subscription box coupons
 type: photo
 imagefeature: "UltaGWPSetMay2015.png"
-date: 2015-05-17 10:05:39 -08:00
+date: 2015-05-17 10:05:39 -07:00
 ---
 ![Ulta GWP Set May 2015](/images/UltaGWPSetMay2015.png)
 Get a free <b>Clutch filled with 18 samples</b> ($80 value!) when you spend $50 or more at <a href="http://www.ulta.com/ulta/browse/productDetail.jsp?productId=xlsImpprod12292123&CID=33777992&ET_LID=FREE+18+Piece+Beauty+Bag&RID=581549697&CCID=ET_Wk1615_Sun_Pres">Ulta.com</a>!
