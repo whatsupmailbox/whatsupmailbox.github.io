@@ -18,7 +18,7 @@ date: 2015-05-15 13:15:00 -08:00
 
 ![French Box](/images/FrenchBox.jpg)
 <p><b>The Box:</b> <a href="https://getfrenchbox.com">French Box</a></p>
-<p><b>The Cost:</b> $36 monthly with Free Priority Mail shipping</p>
+<p><b>The Cost:</b> $36 bi-monthly with Free Priority Mail shipping</p>
 <p><b>What's in the box:</b> A minimum of 5 French products in fashion, cosmetics, gourmet, accessories and other surprises. 
 The products in the box are usually either produced, distributed or designed in France.
 They can also be from a French brand, popular in France or part of the French culture.</p>
