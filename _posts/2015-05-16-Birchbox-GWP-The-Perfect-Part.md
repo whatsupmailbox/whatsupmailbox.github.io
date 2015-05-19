@@ -7,7 +7,7 @@ category: Subscription box coupons
 tags: BirchboxMan Coupon Subscription Rada Adair
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Birchbox Man
@@ -27,3 +27,7 @@ date: 2015-05-18 21:41:39 -08:00
 <br>
 
 <p>The reason why I love <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> is the ability to earn my money back by reviewing the items I received. Each item you review will earn you 10 Birchbox points which equals to $1. You can redeem every 100 points for $10 in the Birchbox shop. And since I have a subscription to both <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a>, I rack up points quickly.</p>
+
+<p>Tie bars are so in right now and this birch wood finish is oh so perfect for the summer. #HelloHandsome</p>
+
+<p>To get your tie bar, you can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to start your monthly subscription and get the tie bar included in your first month's box.</p>
