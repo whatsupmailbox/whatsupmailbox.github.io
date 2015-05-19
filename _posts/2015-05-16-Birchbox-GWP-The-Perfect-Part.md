@@ -24,5 +24,6 @@ date: 2015-05-18 21:41:39 -08:00
 <p>Cost: $20 / month</p>
 <p>Coupon: <b>TIEBAR</b> *Available only while supplies last.</p>
 <p>What's in the box: Personalized assortment of grooming and style upgrades based on a profile you complete. Your monthly box includes 3-4 grooming samples and a lifestyle accessory.</p>
+<br>
 
 <p>The reason why I love <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> is the ability to earn my money back by reviewing the items I received. Each item you review will earn you 10 Birchbox points which equals to $1. You can redeem every 100 points for $10 in the Birchbox shop. And since I have a subscription to both <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a>, I rack up points quickly.</p>
