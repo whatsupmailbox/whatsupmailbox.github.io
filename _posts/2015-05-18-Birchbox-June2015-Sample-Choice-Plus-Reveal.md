@@ -21,16 +21,16 @@ date: 2015-05-18 17:02:39 -08:00
 
 <p>Now on to the Sample Choice items...</p>
 ![Birchbox June 2015 Sample Choice Coola](/images/BirchboxJune2015SampleRevealCoola.png)
-<a href="https://www.birchbox.com/shop/coola-sport-mango-moisturizer">COOLA SPF 50 Sport - Mango</a>
+<p><a href="https://www.birchbox.com/shop/coola-sport-mango-moisturizer">COOLA SPF 50 Sport - Mango</a></p>
 <br>
 ![Birchbox June 2015 Sample Choice Supergoop](/images/BirchboxJune2015SampleRevealSupergoop.png)
-<a href="https://www.birchbox.com/shop/supergoop-everyday-spf-50-with-cellular-response-technology-2-4-oz">Supergoop!® Everyday SPF 50 with Cellular Response Technology</a>
+<p><a href="https://www.birchbox.com/shop/supergoop-everyday-spf-50-with-cellular-response-technology-2-4-oz">Supergoop!® Everyday SPF 50 with Cellular Response Technology</a></p>
 <br>
 ![Birchbox June 2015 Sample Choice Skyn](/images/BirchboxJune2015SampleRevealSkyn.png)
-<a href="https://www.birchbox.com/shop/skyn-iceland-hydro-cool-firming-eye-gels">Skyn Iceland Hydro Cool Firming Eye Gels</a>
+<p><a href="https://www.birchbox.com/shop/skyn-iceland-hydro-cool-firming-eye-gels">Skyn Iceland Hydro Cool Firming Eye Gels</a></p>
 <br>
 ![Birchbox June 2015 Sample Choice Dr Jart](/images/BirchboxJune2015SampleRevealDrJart.png)
-<a href="https://www.birchbox.com/shop/dr-jart-dermaclear-microwater">Dr. Jart+ Dermaclear™ Micro Water</a>
+<p><a href="https://www.birchbox.com/shop/dr-jart-dermaclear-microwater">Dr. Jart+ Dermaclear™ Micro Water</a></p>
 
 <p>Their theme this month is adventure, and to keep with their theme they've added a sweepstake into this month's box! Look inside your June box when it arrives and you'll find a card with a unique code on it. Visit <a href="http://www.birchbox.com/SayYes">Birchbox.com/SayYes</a> to put in your unique code and find out what you’ve won. There are tons of prizes including tote bags with beauty samples inside and you can also enter to win the grand prize: $1000 to spend in the Birchbox Shop!</blockquote></p>
 <br>
