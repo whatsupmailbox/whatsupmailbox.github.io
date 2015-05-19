@@ -10,12 +10,12 @@ categories:
   - Birchbox Man
 headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal!
 tags: Birchbox Sample Choice Subscription Box June 2015
-date: 2015-05-10 03:18:39 -08:00
+date: 2015-05-18 17:02:39 -08:00
 ---
 
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
-<p><b>Cost:</b> $20 / month (taxes applicable to subscribers in CA)</p>
-<p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
+<p><b>Cost:</b> $10 / month (taxes applicable to subscribers in CA)</p>
+<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
 
 <p>Now on to the Sample Choice items...</p>
 ![Birchbox Man June 2015 Sample Choice](/images/BirchboxManSampleChoiceJune2015.jpg)
