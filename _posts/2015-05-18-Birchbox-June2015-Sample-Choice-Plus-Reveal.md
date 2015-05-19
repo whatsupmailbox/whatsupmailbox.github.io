@@ -42,11 +42,12 @@ date: 2015-05-18 17:02:39 -08:00
 ![Birchbox June 2015 The Tig Box](/images/BirchboxJune2015SampleRevealCuratedBox.png)
 <p>Inside <a href="http://thetig.com">The Tig</a> Guest Editor Box:</p>
 <ul>
-<li>Eyeko Fat Liquid Eyeliner</li>
-<li>Real Chemistry 3-Minute Peel</li>
-<li>Harvey Prince Hello Body Creme</li>
-<li>Oribe Cote d'Azure Fragrance</li>
-<li>Davines Su Hair and Body Wash</li>
+<li><a href="https://www.birchbox.com/shop/eyeko-fat-liquid-eyeliner">Eyeko Fat Liquid Eyeliner</a></li>
+<li><a href="https://www.birchbox.com/shop/real-chemistry-3-minute-precision-peel">Real Chemistry 3-Minute Peel</a></li>
+<li><a href="https://www.birchbox.com/shop/harvey-prince-hello-body-cream">Harvey Prince Hello Body Creme</a></li>
+<li><a href="https://www.birchbox.com/shop/oribe-cote-d-azur-fragrance">Oribe Cote d'Azure Fragrance</a></li>
+<li><a href="https://www.birchbox.com/shop/davines-su-hair-and-body-mask">Davines Su Hair and Body Wash</a></li>
+</ul>
 
 <p>Every month, <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> also gives the option to add items from their shop to your monthly box at a discounted price, this is called <b>Birchbox Plus</b>.</p>
 
