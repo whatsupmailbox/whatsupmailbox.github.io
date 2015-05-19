@@ -14,7 +14,7 @@ categories:
   - Subscription box coupons
 type: photo
 imagefeature: "JulepMavenBYOSG.png"
-date: 2015-05-18 4:40:39 -08:00
+date: 2015-05-18 16:40:39 -08:00
 ---
 ![Julep Maven BYOSG](/images/JulepMavenBYOSG.png)
 <p><a href="https://www.julep.com">Julep Maven</a> is offering a BYOSG - "Build Your Own Spring Gift" where you can get 3 polishes for $19.99!</p>
