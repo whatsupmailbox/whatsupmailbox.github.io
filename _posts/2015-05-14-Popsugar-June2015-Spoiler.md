@@ -20,6 +20,7 @@ date: 2015-05-14 11:59:00 -08:00
 <p><b>The Box:</b> <a href="http://popsu.gr/vdrb">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
+<p><b>Coupon:</b> Enter coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
 <br>
 
 <p>The first <a href="http://popsu.gr/vdrb">Popsugar</a> Spoiler has been revealed, yay!</p>
