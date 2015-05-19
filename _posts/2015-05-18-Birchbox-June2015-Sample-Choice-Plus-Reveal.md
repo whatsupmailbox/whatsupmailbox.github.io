@@ -58,7 +58,7 @@ For your June box, here are the items you can add on:
 <p><a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-lights-out">rumbaTIME Orchard Gloss Watch in Lights Out</a> or <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-rose-smoke">rumbaTIME Orchard Gloss Watch in Rose Smoke</a>, $28 ($45 value)</p>
 <br>
 ![Birchbox June 2015 Plus MiniMergency](/images/BirchboxJune2015PlusMiniMergency.png)
-<p><a href="https://www.birchbox.com/shop/bbplus-pinch-provisions-skinny-minimergency-kit">PINCH Provisions® Skinny Minimergency® Kit</a>, $20 ($24 value)</p>
+<a href="https://www.birchbox.com/shop/bbplus-pinch-provisions-skinny-minimergency-kit">PINCH Provisions® Skinny Minimergency® Kit</a>, $20 ($24 value)
 
 <p>Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around May 27th to choose either the sample choice or the curated box. If you’d rather not choose a sample or the curated box, they'll create a box for you based on your Beauty Profile.</p>
 
