@@ -40,10 +40,10 @@ Here are my items:
 <li><b>Gimbal's Sour Gourmet Jelly Beans</b> - Gimbal's mouth-watering Sour Gourmet Jelly Beans are made with Real Fruit Juice in 12 unique and irresistible sour flavors including: blueberry, pomegranate, grapefruit, cherry, apple, mango, strawberry, lime, grape, lemon, tangerine, and watermelon.</li>
 </ul>
 
-Splash item (the candies they filled the box with that's not in the tin): 
+<p>Splash item (the candies they filled the box with that's not in the tin):</p>
 <ul>
 <li><b>Sweet's Salt Water Taffy</b> - Sweet Candy Company is one of the oldest family-owned and operated companies in the United States, founded in 1892 and offering its iconic salt water taffy since 1910. Instead of using the traditional Eastern shore method of pulling the taffy, Sweet's taffy is whipped to perfection. The result is an amazingly soft, non-sticky and deliciously flavorful treat.</li>
 </ul>
-
+<br>
 <p><b>VERDICT:</b> I loved how they presented the candies in the beautiful tins, but the candies itself were kind of a miss, at least for my preference. I'm not into sour candies and 2 out of the 3 items were sour, one being really sour, so that was a disappointment. I wish they would give subscribers an option where you can choose to have sour or not in your curation, but I guess I can only hope that's in the works. 
 For the price you pay, it does still seem pretty high especially if you go month-to-month. But if you choose their annual plan, it brings the cost down to $19.99 per month which is totally reasonable for the amount of candy you get (3 lbs.). I think I'll stick it out for another month to see what they'll send me, so stay tuned for my June 2015 box review!</p>
