@@ -57,6 +57,7 @@ For your June box, here are the items you can add on:
 ![Birchbox June 2015 Plus Rumba](/images/BirchboxJune2015PlusRumba.png)
 <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-lights-out">rumbaTIME Orchard Gloss Watch in Lights Out</a> or <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-rose-smoke">rumbaTIME Orchard Gloss Watch in Rose Smoke</a>, $28 ($45 value)
 <br>
+<br>
 ![Birchbox June 2015 Plus MiniMergency](/images/BirchboxJune2015PlusMiniMergency.png)
 <a href="https://www.birchbox.com/shop/bbplus-pinch-provisions-skinny-minimergency-kit">PINCH Provisions® Skinny Minimergency® Kit</a>, $20 ($24 value)
 
