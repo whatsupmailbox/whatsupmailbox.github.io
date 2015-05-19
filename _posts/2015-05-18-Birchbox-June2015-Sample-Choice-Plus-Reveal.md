@@ -49,10 +49,11 @@ date: 2015-05-18 17:02:39 -08:00
 <li><a href="https://www.birchbox.com/shop/oribe-cote-d-azur-fragrance">Oribe Cote d'Azure Fragrance</a></li>
 <li><a href="https://www.birchbox.com/shop/davines-su-hair-and-body-mask">Davines Su Hair and Body Wash</a></li>
 </ul>
+<br>
 
 <p>Every month, <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> also gives the option to add items from their shop to your monthly box at a discounted price, this is called <b>Birchbox Plus</b>.</p>
 
-For your June box, here are the items you can add on:</p>
+For your June box, here are the items you can add on:
 ![Birchbox June 2015 Plus Rumba](/images/BirchboxJune2015PlusRumba.png)
 <p><a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-lights-out">rumbaTIME Orchard Gloss Watch in Lights Out</a> or <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-rose-smoke">rumbaTIME Orchard Gloss Watch in Rose Smoke</a>, $28 ($45 value)</p>
 <br>
