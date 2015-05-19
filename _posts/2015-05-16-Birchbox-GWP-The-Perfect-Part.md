@@ -17,7 +17,7 @@ imagefeature: "BirchboxManMay2015RIADAAdairTieBar.jpg"
 date: 2015-05-18 21:41:39 -08:00
 ---
 ![Birchbox Man GWP Riada Tie Bar](/images/BirchboxManMay2015RIADAAdairTieBar.jpg)
-<p>Get a free <a href="https://www.birchbox.com/shop/riada-by-adair-wood-tie-bar">Riada by Adair Tie Bar when you purchase a monthly or yearly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a> subscription, value of $20!</p>
+<p>Get a free <a href="https://www.birchbox.com/shop/riada-by-adair-wood-tie-bar">Riada by Adair Tie Bar</a> when you purchase a monthly or yearly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a> subscription, value of $20!</p>
 <br>
 
 <p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
