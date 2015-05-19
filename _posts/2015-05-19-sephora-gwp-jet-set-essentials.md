@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sephora GWP - Choose 3 Jet Set Essentials!"
 featured: false
 comments: true
