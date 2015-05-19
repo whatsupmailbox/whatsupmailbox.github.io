@@ -31,7 +31,7 @@ date: 2015-05-18 17:02:39 -08:00
 ![Birchbox June 2015 Sample Choice Dr Jart](/images/BirchboxJune2015SampleRevealDrJart.png)
 <p><a href="https://www.birchbox.com/shop/dr-jart-dermaclear-microwater">Dr. Jart+ Dermaclear™ Micro Water</a></p>
 
-<p>Their theme this month is adventure, and to keep with their theme they've added a sweepstake into this month's box! Look inside your June box when it arrives and you'll find a card with a unique code on it. Visit Birchbox.com/SayYes to put in your unique code and find out what you’ve won. There are tons of prizes including tote bags with beauty samples inside and you can also enter to win the grand prize: $1000 to spend in the Birchbox Shop!</blockquote></p>
+<p>Their theme this month is adventure, and to keep with their theme they've added a sweepstake into this month's box! Look inside your June box when it arrives and you'll find a card with a unique code on it. Visit <a href="http://www.birchbox.com/SayYes">Birchbox.com/SayYes</a> to put in your unique code and find out what you’ve won. There are tons of prizes including tote bags with beauty samples inside and you can also enter to win the grand prize: $1000 to spend in the Birchbox Shop!</blockquote></p>
 <br>
 
 ![Birchbox June 2015 Sample Choice Eyeko](/images/BirchboxJune2015SampleRevealEyeko.png)
@@ -40,7 +40,7 @@ date: 2015-05-18 17:02:39 -08:00
 <p>You can also opt to choose the Guest editor box instead, and for June it will be curated by <a href="http://thetig.com">The Tig</a> which is a lifestyle blog by actress Meghan Markle. This box comes with five great summer-ready products.</p>
 
 ![Birchbox June 2015 The Tig Box](/images/BirchboxJune2015SampleRevealCuratedBox.png)
-Inside <a href="http://thetig.com">The Tig</a> Guest Editor Box:
+<p>Inside <a href="http://thetig.com">The Tig</a> Guest Editor Box:</p>
 <ul>
 <li>Eyeko Fat Liquid Eyeliner</li>
 <li>Real Chemistry 3-Minute Peel</li>
