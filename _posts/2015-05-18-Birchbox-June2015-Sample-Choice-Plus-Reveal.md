@@ -7,7 +7,7 @@ comments: true
 type: photo
 imagefeature: BirchboxJune2015SampleChoiceReveal.png
 categories: 
-  - Birchbox Man
+  - Birchbox
 headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal!
 tags: Birchbox Sample Choice Subscription Box June 2015
 date: 2015-05-18 17:02:39 -08:00
