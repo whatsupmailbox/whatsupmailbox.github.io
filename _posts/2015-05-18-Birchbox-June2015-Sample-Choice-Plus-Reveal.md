@@ -35,7 +35,7 @@ date: 2015-05-18 17:02:39 -08:00
 <br>
 
 ![Birchbox June 2015 Sample Choice Eyeko](/images/BirchboxJune2015SampleRevealEyeko.png)
-<p>Every subscriber will also be receiving Eyeko’s brand new Fat Liquid Eyeliner in their box this month to add a little bit of adventure into their beauty routine!</p>
+<p>Every subscriber will also be receiving Eyeko’s brand new <a href="https://www.birchbox.com/shop/eyeko-fat-liquid-eyeliner">Fat Liquid Eyeliner</a> in their box this month to add a little bit of adventure into their beauty routine!</p>
 
 <p>You can also opt to choose the Guest editor box instead, and for June it will be curated by <a href="http://thetig.com">The Tig</a> which is a lifestyle blog by actress Meghan Markle. This box comes with five great summer-ready products.</p>
 
