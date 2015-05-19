@@ -13,6 +13,7 @@ description: "Long-wear makeup essentials"
 tags: Sephora  GWP
 imagecredit: ""
 imagefeature: SephoraGWPJetSetEssentials.png
+date: 2015-05-19 09:18:39 -08:00
 ---
 
 ![Sephora GWP Jet Set Essentials](/images/SephoraGWPJetSetEssentials.png)
