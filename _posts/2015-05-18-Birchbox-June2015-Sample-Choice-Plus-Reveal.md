@@ -18,7 +18,7 @@ date: 2015-05-18 17:02:39 -08:00
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
 
 <p>Now on to the Sample Choice items...</p>
-![Birchbox Man June 2015 Sample Choice](/images/BirchboxManSampleChoiceJune2015.jpg)
+![Birchbox June 2015 Sample Choice](/images/BirchboxJune2015SampleChoiceReveal.png)
 
 Here are your June 2015 Sample Choice items:
 <ul><li>Happy Socks Men's Socks $12.00</li>
