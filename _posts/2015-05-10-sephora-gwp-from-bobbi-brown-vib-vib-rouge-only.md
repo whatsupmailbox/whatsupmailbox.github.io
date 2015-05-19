@@ -39,4 +39,4 @@ imagefeature: SephoraGWPJetSetEssentials.png
 
 <br>
 
-* * Enter code <b>JETSET</b> in the promotion code box during sephora.com checkout to receive your choice of three deluxe samples. Offer available with any online merchandise purchase of $25 USD or more. Sample substitutions may occur. Valid while supplies last. One offer per client, non-transferable. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not valid in retail stores, Sephora inside JCPenney stores, or with orders shipping outside of the US or Canada. Cannot be used in conjunction with other promotion codes.
+* Enter code <b>JETSET</b> in the promotion code box during sephora.com checkout to receive your choice of three deluxe samples. Offer available with any online merchandise purchase of $25 USD or more. Sample substitutions may occur. Valid while supplies last. One offer per client, non-transferable. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not valid in retail stores, Sephora inside JCPenney stores, or with orders shipping outside of the US or Canada. Cannot be used in conjunction with other promotion codes.
