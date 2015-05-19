@@ -13,7 +13,7 @@ tags: Birchbox Sample Choice Subscription Box June 2015
 date: 2015-05-18 17:02:39 -08:00
 ---
 
-<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
 
