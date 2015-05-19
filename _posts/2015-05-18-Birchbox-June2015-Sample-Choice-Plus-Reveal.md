@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
-title: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal!
+published: true
+title: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: BirchboxJune2015SampleChoiceReveal.png
 categories: 
   - Birchbox
-headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal!
+headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
 tags: Birchbox Sample Choice Subscription Box June 2015
 date: 2015-05-18 17:02:39 -08:00
 ---
@@ -17,6 +17,7 @@ date: 2015-05-18 17:02:39 -08:00
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box!</p>
 
 <p>Now on to the Sample Choice items...</p>
 ![Birchbox June 2015 Sample Choice Coola](/images/BirchboxJune2015SampleRevealCoola.png)
@@ -60,6 +61,6 @@ For your June box, here are the items you can add on:</p>
 
 <p>Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around May 27th to choose either the sample choice or the curated box. If you’d rather not choose a sample or the curated box, they'll create a box for you based on your Beauty Profile.</p>
 
-Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the June box. Note: You must be subscribed by May 24th to participate in the June Sample Choice.
+Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the June box, and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box! Note: You must be subscribed by May 24th to participate in the June Sample Choice.
 
 <p>What will you be choosing this month?</p>
