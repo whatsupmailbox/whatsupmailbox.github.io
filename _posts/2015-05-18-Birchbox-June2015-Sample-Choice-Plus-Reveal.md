@@ -21,27 +21,27 @@ date: 2015-05-18 17:02:39 -08:00
 
 <p>Now on to the Sample Choice items...</p>
 ![Birchbox June 2015 Sample Choice Coola](/images/BirchboxJune2015SampleRevealCoola.png)
-<p><a href="https://www.birchbox.com/shop/coola-sport-mango-moisturizer">COOLA SPF 50 Sport - Mango</a></p>
+<a href="https://www.birchbox.com/shop/coola-sport-mango-moisturizer">COOLA SPF 50 Sport - Mango</a>
 <br>
 ![Birchbox June 2015 Sample Choice Supergoop](/images/BirchboxJune2015SampleRevealSupergoop.png)
-<p><a href="https://www.birchbox.com/shop/supergoop-everyday-spf-50-with-cellular-response-technology-2-4-oz">Supergoop!® Everyday SPF 50 with Cellular Response Technology</a></p>
+<a href="https://www.birchbox.com/shop/supergoop-everyday-spf-50-with-cellular-response-technology-2-4-oz">Supergoop!® Everyday SPF 50 with Cellular Response Technology</a>
 <br>
 ![Birchbox June 2015 Sample Choice Skyn](/images/BirchboxJune2015SampleRevealSkyn.png)
-<p><a href="https://www.birchbox.com/shop/skyn-iceland-hydro-cool-firming-eye-gels">Skyn Iceland Hydro Cool Firming Eye Gels</a></p>
+<a href="https://www.birchbox.com/shop/skyn-iceland-hydro-cool-firming-eye-gels">Skyn Iceland Hydro Cool Firming Eye Gels</a>
 <br>
 ![Birchbox June 2015 Sample Choice Dr Jart](/images/BirchboxJune2015SampleRevealDrJart.png)
-<p><a href="https://www.birchbox.com/shop/dr-jart-dermaclear-microwater">Dr. Jart+ Dermaclear™ Micro Water</a></p>
+<a href="https://www.birchbox.com/shop/dr-jart-dermaclear-microwater">Dr. Jart+ Dermaclear™ Micro Water</a>
 
 <p>Their theme this month is adventure, and to keep with their theme they've added a sweepstake into this month's box! Look inside your June box when it arrives and you'll find a card with a unique code on it. Visit <a href="http://www.birchbox.com/SayYes">Birchbox.com/SayYes</a> to put in your unique code and find out what you’ve won. There are tons of prizes including tote bags with beauty samples inside and you can also enter to win the grand prize: $1000 to spend in the Birchbox Shop!</blockquote></p>
 <br>
 
 ![Birchbox June 2015 Sample Choice Eyeko](/images/BirchboxJune2015SampleRevealEyeko.png)
-<p>Every subscriber will also be receiving Eyeko’s brand new <a href="https://www.birchbox.com/shop/eyeko-fat-liquid-eyeliner">Fat Liquid Eyeliner</a> in their box this month to add a little bit of adventure into their beauty routine!</p>
+Every subscriber will also be receiving Eyeko’s brand new <a href="https://www.birchbox.com/shop/eyeko-fat-liquid-eyeliner">Fat Liquid Eyeliner</a> in their box this month to add a little bit of adventure into their beauty routine!
 
 <p>You can also opt to choose the Guest editor box instead, and for June it will be curated by <a href="http://thetig.com">The Tig</a> which is a lifestyle blog by actress Meghan Markle. This box comes with five great summer-ready products.</p>
 
 ![Birchbox June 2015 The Tig Box](/images/BirchboxJune2015SampleRevealCuratedBox.png)
-<p>Inside <a href="http://thetig.com">The Tig</a> Guest Editor Box:</p>
+Inside <a href="http://thetig.com">The Tig</a> Guest Editor Box:
 <ul>
 <li><a href="https://www.birchbox.com/shop/eyeko-fat-liquid-eyeliner">Eyeko Fat Liquid Eyeliner</a></li>
 <li><a href="https://www.birchbox.com/shop/real-chemistry-3-minute-precision-peel">Real Chemistry 3-Minute Peel</a></li>
@@ -55,7 +55,7 @@ date: 2015-05-18 17:02:39 -08:00
 
 For your June box, here are the items you can add on:
 ![Birchbox June 2015 Plus Rumba](/images/BirchboxJune2015PlusRumba.png)
-<p><a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-lights-out">rumbaTIME Orchard Gloss Watch in Lights Out</a> or <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-rose-smoke">rumbaTIME Orchard Gloss Watch in Rose Smoke</a>, $28 ($45 value)</p>
+<a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-lights-out">rumbaTIME Orchard Gloss Watch in Lights Out</a> or <a href="https://www.birchbox.com/shop/bbplus-rumbatime-orchard-gloss-rose-smoke">rumbaTIME Orchard Gloss Watch in Rose Smoke</a>, $28 ($45 value)
 <br>
 ![Birchbox June 2015 Plus MiniMergency](/images/BirchboxJune2015PlusMiniMergency.png)
 <a href="https://www.birchbox.com/shop/bbplus-pinch-provisions-skinny-minimergency-kit">PINCH Provisions® Skinny Minimergency® Kit</a>, $20 ($24 value)
