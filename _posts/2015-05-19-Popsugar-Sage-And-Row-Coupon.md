@@ -17,5 +17,5 @@ imagefeature: "FrenchBoxMay2015SneakPeak.jpg"
 date: 2015-05-19 20:00:00 -08:00
 ---
 
-> "This week only! Save 20% at sageandrow.com with code <b>POPSUGAR</b>"
+> "This week only! Save 20% at sageandrow.com with code <b>POPSUGAR</b>."
 > <small><cite title="Popsugar Must Have">Popsugar Must Have</cite></small>
