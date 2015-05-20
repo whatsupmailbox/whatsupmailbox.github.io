@@ -8,7 +8,7 @@ tags: Fabletics FL2 Subscription Men Sportswear
 comments: true
 mathjax: null
 published: true
-featured: true
+featured: false
 categories: 
 
 type: photo
