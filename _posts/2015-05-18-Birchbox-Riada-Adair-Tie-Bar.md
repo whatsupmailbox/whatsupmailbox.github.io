@@ -3,7 +3,6 @@ layout: post
 title: "Birchbox Man Gift With Purchase - RIADA by Adair Tie Bar"
 description: "a birchwood tie bar"
 headline: "Birchbox Man Gift With Purchase - RIADA by Adair Tie Bar"
-category: Subscription box coupons
 tags: [Birchbox Man, Coupon, GWP, Subscription, Box, Riada, Adair, Tie bar]
 comments: true
 mathjax: null
