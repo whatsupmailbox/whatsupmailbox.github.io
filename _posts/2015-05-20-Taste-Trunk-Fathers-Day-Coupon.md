@@ -9,7 +9,7 @@ categories:
   - Taste Trunk
 type: photo
 description: ""
-tags: [Taste Trunk, Subscription box coupons]
+tags: [Taste Trunk, Subscription box, Coupons, Father's Day, Gift]
 imagecredit: ""
 imagefeature: TasteTrunk.jpg
 date: 2015-05-20 12:49:39 -08:00
