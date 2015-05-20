@@ -3,15 +3,12 @@ layout: post
 title: "Ulta Gift With Purchase - Free Clutch filled with 18 Samples!"
 description: ""
 headline: "Ulta Gift With Purchase - Free Clutch filled with 18 Samples!"
-category: Subscription box coupons
-tags: Ulta GiftWithPurchase
+category: Coupons
+tags: [Ulta, Gift With Purchase, GWP, Makeup, Clutch, Samples]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Ulta
-  - Subscription box coupons
 type: photo
 imagefeature: "UltaGWPSetMay2015.png"
 date: 2015-05-17 10:05:39 -07:00
