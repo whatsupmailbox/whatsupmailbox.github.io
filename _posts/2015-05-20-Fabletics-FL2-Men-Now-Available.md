@@ -4,13 +4,13 @@ title: "Fabletics FL2 for Men Now Available!"
 description: ""
 headline: "Fabletics FL2 for Men Now Available!"
 category: Subscription box reviews
-tags: Fabletics Subscription Men Sportswear
+tags: Fabletics FL2 Subscription Men Sportswear
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
-  - Fabletics
+  - FL2
   - Subscription box reviews
 type: photo
 imagefeature: "FableticsFL2NowAvailable.png"
@@ -25,8 +25,11 @@ date: 2015-05-20 08:50:39 -08:00
 
 <p>Current subscribers can use their existing VIP membership to buy for men, or you can create a new account <a href="http://www.fabletics.com/invite/whatsupmailbox/">here</a> to subscribe to <a href="http://www.fabletics.com/invite/whatsupmailbox/">FL2</a> and get <b>50% off</b> your first outfit!</p>
 
-FableticsFL2May2015Choices.png
-<p>I'm so happy they added a men's line and I just ordered the Batona outfit for my husband! Their quality is great and price as a VIP membership is a <strike>steal</strike> deal. I can't wait to do a review once the items arrive!</p>
+**Here are some choices of outfits they have currently for FL2:**
+<CENTER><IMG SRC='/images/FableticsFL2May2015Choices.png'></CENTER>
+<CENTER><IMG SRC='/images/FableticsFL2May2015Choices2.png'></CENTER>
+
+<p>I'm so happy they added a men's line and I just ordered the Batona outfit for my husband! Their quality is great and price as a VIP membership is a <strike>steal</strike> deal, especially when you order your first outfit. I can't wait to do a review once the items arrive!</p>
 
 <p>Here's a description of FL2 from Fabletics:</p>
 ![Fabletics FL2 Info](/images/FableticsFL2Info.png)
