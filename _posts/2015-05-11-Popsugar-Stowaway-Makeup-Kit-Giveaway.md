@@ -3,14 +3,12 @@ layout: post
 title: "Popsugar Free Stowaway Cosmetics Kit for 10 Lucky June Subscribers!"
 description: ""
 headline: "Popsugar Free Stowaway Cosmetics Kit for 10 Lucky June Subscribers!"
-category: Popsugar
-tags: Popsugar Stowaway Cosmetics Giveaway Subscription Box Women Lifestyle June 2015
+category: Subscriptions
+tags: [Popsugar, Must Have, Stowaway Cosmetics, Sweetpstakes, Subscription, Box, Women, Lifestyle]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Popsugar
 type: photo
 imagefeature: "PopsugarStowawayJune2015.png"
 date: 2015-05-11 11:44:39 +08:00
