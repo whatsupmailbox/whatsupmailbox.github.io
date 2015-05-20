@@ -3,7 +3,7 @@ layout: post
 title: "Fabletics Review May 2015 + 50% off Coupon"
 description: Sportswear subscription
 headline: "Fabletics Review May 2015 + 50% off Coupon"
-tags: [Fabletics, Subscription, Box, Reviews, Sportswear, Women, May 2015]
+tags: [Fabletics, Subscription, Box, Reviews, Sportswear, Women]
 image: FableticsMay2015Package.jpg
 comments: true
 mathjax: false
