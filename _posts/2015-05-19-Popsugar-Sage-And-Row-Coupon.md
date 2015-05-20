@@ -13,7 +13,7 @@ categories:
   - Popsugar
   - Subscription box coupons
 type: quote
-imagefeature: "FrenchBoxMay2015SneakPeak.jpg"
+imagefeature: 
 date: 2015-05-19 20:00:00 -08:00
 ---
 
