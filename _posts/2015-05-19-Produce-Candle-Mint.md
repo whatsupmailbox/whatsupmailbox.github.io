@@ -31,7 +31,7 @@ So I ordered their seasonal scent for May which was Mint, and I love mint, so th
 <p>They packed the candle safely inside and it arrived in one piece, without a single scratch!</p>
 <br>
 
-<H4>And tada, ready to burn!</H4>
+**And tada, ready to burn!**
 ![Produce Candles Mint](/images/ProduceCandlesMint.jpg)
 <p><a href="http://www.producecandles.com/mint-spring-seasonal/">Produce Candles in Mint</a>, $20</p>
 <br>
