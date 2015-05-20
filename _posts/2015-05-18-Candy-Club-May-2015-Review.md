@@ -4,13 +4,13 @@ title: "Candy Club May 2015 Review!"
 description: ""
 headline: "Candy Club May 2015 Review!"
 category: Subscription box reviews
-tags: CandyClub Subscription Box
+tags: [Candy Club, Subscription, Box, Candies]
 comments: true
 published: true
 featured: false
 categories: 
-  - Candy Club
-  - Subscription box reviews
+  - Subscriptions
+  - Reviews
 type: photo
 imagefeature: "CandyClubMay2015Box.jpg"
 date: 2015-05-18 20:25:39 -08:00
