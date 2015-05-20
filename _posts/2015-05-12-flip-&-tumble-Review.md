@@ -3,14 +3,12 @@ layout: post
 title: "flip & tumble 24/7 Bag Review"
 description: "Colorful and ingenious reusable bags!"
 headline: "flip & tumble 24/7 Bag"
-category: Product reviews
-tags: flip&tumble ReusableBags Popsugar
+category: Reviews
+tags: [flip & tumble, Reusable Bags, Popsugar, Must Have]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Product reviews
 type: photo
 imagefeature: "flipandtumble.jpg"
 date: 2015-05-12 21:41:39 -08:00
