@@ -5,12 +5,10 @@ title: "Sephora GWP from Shiseido"
 featured: false
 comments: true
 headline: "Sephora GWP from Shiseido"
-categories: 
-  - Sephora
-  - Gift With Purchase
+category: Coupons
 type: photo
 description: "Free for Beauty Insiders"
-tags: Sephora  Bobbi Brown  GWP  VIB  VIB Rouge  Makeup Set
+tags: [Sephora, Bobbi Brown, GWP, VIB, VIB Rouge, Makeup]
 imagecredit: ""
 imagefeature: SephoraShiseidoGWP.png
 date: 2015-05-14 10:38:39 -08:00
