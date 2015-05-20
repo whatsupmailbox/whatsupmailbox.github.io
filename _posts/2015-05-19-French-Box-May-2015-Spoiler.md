@@ -3,14 +3,12 @@ layout: post
 title: "French Box May 2015 Sneak Peek!"
 description: ""
 headline: "French Box May 2015 Sneak Peek!"
-category: French Box
-tags: FrenchBox Subscription
+category: Subscriptions
+tags: [French Box, Subscription, Box, Spoiler]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - French Box
 type: photo
 imagefeature: "FrenchBoxMay2015SneakPeek.jpg"
 date: 2015-05-19 19:15:00 -08:00
