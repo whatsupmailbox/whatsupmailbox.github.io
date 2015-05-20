@@ -3,14 +3,12 @@ layout: post
 title: "Rifle Paper Co. x LeSportsac Collection Now Available!"
 description: ""
 headline: "Rifle Paper Co. x LeSportsac Collection Collaboration!"
-category: Product reviews
-tags: RiflePaperCo LeSportsac Bags
+category: Products
+tags: [Rifle Paper Co., LeSportsac, Bags, Collaboration]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Product reviews
 type: photo
 imagefeature: "RiflePaperLeSportsac.jpg"
 date: 2015-05-14 14:20:39 -08:00
