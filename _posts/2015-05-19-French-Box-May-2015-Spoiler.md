@@ -14,7 +14,7 @@ imagefeature: "FrenchBoxMay2015SneakPeek.jpg"
 date: 2015-05-19 19:15:00 -08:00
 ---
 
-![French Box](/images/FrenchBoxMay2015SneakPeak.jpg)
+![French Box](/images/FrenchBoxMay2015SneakPeek.jpg)
 
 <p>French Box just released a sneak peek today for their May 2015 Cannes theme box, and it's a cute post card!</p>
 
