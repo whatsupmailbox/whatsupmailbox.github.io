@@ -1,13 +1,12 @@
 ---
 layout: post
 published: true
+category: Subscriptions
 title: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: BirchboxJune2015SampleChoiceReveal.png
-categories: 
-  - Birchbox
 headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
 tags: [Birchbox, Sample Choice, Subscription, Box, Birchbox Plus, Rumba, Pinch Provisions]
 date: 2015-05-18 17:02:39 -08:00
