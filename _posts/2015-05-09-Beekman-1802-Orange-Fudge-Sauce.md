@@ -8,9 +8,8 @@ type: photo
 description: Yumm
 headline: "Beekman 1802 - Orange Fudge Sauce"
 categories: 
-  - product reviews
-  - Little Lace Box
-tags: Little Lace Box Beekman 1802 Chocolate Orange Fudge Sauce
+  - Products
+tags: [Little Lace Box, Beekman 1802, Chocolate, Orange, Fudge, Sauce]
 imagefeature: BeekmanOrangeFudge.jpg
 ---
 
