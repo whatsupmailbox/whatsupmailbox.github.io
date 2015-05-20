@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "French Box May 2015 Sneak Peak!"
+title: "French Box May 2015 Sneak Peek!"
 description: ""
-headline: "French Box May 2015 Sneak Peak!"
+headline: "French Box May 2015 Sneak Peek!"
 category: French Box
 tags: FrenchBox Subscription
 comments: true
@@ -12,13 +12,13 @@ featured: false
 categories: 
   - French Box
 type: photo
-imagefeature: "FrenchBoxMay2015SneakPeak.jpg"
+imagefeature: "FrenchBoxMay2015SneakPeek.jpg"
 date: 2015-05-19 19:15:00 -08:00
 ---
 
 ![French Box](/images/FrenchBoxMay2015SneakPeak.jpg)
 
-<p>French Box just released a sneak peak today for their May 2015 Cannes theme box, and it's a cute post card!</p>
+<p>French Box just released a sneak peek today for their May 2015 Cannes theme box, and it's a cute post card!</p>
 
 <p>*FYI, they always include a post card every month that's in line with their theme.</p>
 
