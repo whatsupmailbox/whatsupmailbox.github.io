@@ -3,14 +3,12 @@ layout: post
 title: "French Box relaunches with May 2015 Box - Cannes Film Festival theme!"
 description: ""
 headline: "French Box relaunches with May 2015 Box - Cannes Film Festival theme!"
-category: French Box
-tags: FrenchBox Subscription
+category: Subscriptions
+tags: [French Box, Subscription, Spoiler, Cannes]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - French Box
 type: photo
 imagefeature: "FrenchBox.jpg"
 date: 2015-05-15 13:15:00 -08:00
