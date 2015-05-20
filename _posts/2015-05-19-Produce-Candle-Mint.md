@@ -15,7 +15,7 @@ imagefeature: ProduceCandlesMint.jpg
 date: 2015-05-19 21:08:39 -08:00
 ---
 
-![Produce Candles Logo]<CENTER>(/images/ProduceCandlesLogo.jpg)</CENTER>
+![Produce Candles Logo](/images/ProduceCandlesLogo.jpg)
 <p>I LOVE LOVE LOVE candles and when I'm blogging or need some zen, I absolutely need a candle lit up next to me to make me feel happy.</p>
 
 <p>I also need all my candles to exclusively be made from soy wax and not the regular ones that's made from paraffin. Here's why: Soy wax are natural, non-toxic, don't increase the level of CO2 and also don't require chemicals to scent them. All natural baby!</p>
