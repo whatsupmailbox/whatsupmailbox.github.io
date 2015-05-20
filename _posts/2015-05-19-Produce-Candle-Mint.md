@@ -8,14 +8,14 @@ headline: "Produce Candle in Mint Review"
 categories: 
   - Product reviews
 type: photo
-description: "Long-wear makeup essentials"
+description: "Mint Scent"
 tags: Produce Candles Review
 imagecredit: ""
 imagefeature: ProduceCandleMint.jpg
 date: 2015-05-19 21:08:39 -08:00
 ---
 
-<center>![Produce Candles Logo](/images/ProduceCandlesLogo.jpg)</center>
+<CENTER>![Produce Candles Logo](/images/ProduceCandlesLogo.jpg)</CENTER>
 <p>I LOVE LOVE LOVE candles and when I'm blogging or need some zen, I absolutely need a candle lit up next to me to make me feel happy.</p>
 
 <p>I also need all my candles to exclusively be made from soy wax and not the regular ones that's made from paraffin. Here's why: Soy wax are natural, non-toxic, don't increase the level of CO2 and also don't require chemicals to scent them. All natural baby!</p>
@@ -36,5 +36,5 @@ So I ordered their seasonal scent for May which was Mint, and I love mint, so th
 <p><a href="http://www.producecandles.com/mint-spring-seasonal/">Produce Candles in Mint</a>, $20</p>
 <br>
 
-<p><b>VERDICT:</b> <a href="http://www.producecandles.com">Produce Candles</a> are amazing and I'm forever grateful to <a href="http://popsu.gr/vdrb">Popsugar Must Have box</a> for the love match. The Mint scent is fresh and sweet, relaxing yet invigorating, totally perfect for Spring and Summer! 
+<p><b>VERDICT:</b> <a href="http://www.producecandles.com">Produce Candles</a> are amazing and I'm forever grateful to <a href="http://popsu.gr/vdrb">Popsugar Must Have box</a> for the love match. The Mint scent is fresh and sweet, relaxing yet invigorating, totally perfect for spring and summer! 
 And the jar it comes with is sooo retro, it'll look good in any kitchen or room. I can't wait to add more candles from them to my collection!</p>
