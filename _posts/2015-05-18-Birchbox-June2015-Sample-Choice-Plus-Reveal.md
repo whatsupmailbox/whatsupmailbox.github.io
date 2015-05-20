@@ -9,7 +9,7 @@ imagefeature: BirchboxJune2015SampleChoiceReveal.png
 categories: 
   - Birchbox
 headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
-tags: Birchbox Sample Choice Subscription Box June 2015
+tags: [Birchbox, Sample Choice, Subscription, Box, Birchbox Plus, Rumba, Pinch Provisions]
 date: 2015-05-18 17:02:39 -08:00
 ---
 
