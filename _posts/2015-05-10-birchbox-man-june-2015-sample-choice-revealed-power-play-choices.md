@@ -7,9 +7,9 @@ comments: true
 type: photo
 imagefeature: BirchboxManSampleChoiceJune2015Sign.png
 categories: 
-  - Birchbox Man
+  - Subscriptions
 headline: Birchbox Man June 2015 Sample Choice Revealed + Power Play Choices
-tags: Birchbox Man Sample Choice Subscription Box June 2015
+tags: [Birchbox Man, Sample Choice, Subscription, Box]
 date: 2015-05-10 03:18:39 -08:00
 ---
 
