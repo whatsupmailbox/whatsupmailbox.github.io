@@ -3,15 +3,12 @@ layout: post
 title: "Julep Maven Welcome Box 50% Off"
 description: "Free shipping"
 headline: "Julep Maven Welcome Box 50% Off"
-category: Subscription box coupons
-tags: Julep Maven Coupon Subscription Women NailPolish Lipstick
+category: Subscriptions
+tags: [Julep, Maven, Coupon, Subscription, Women, Nail Polish, Lipstick]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Julep Maven
-  - Subscription box coupons
 type: photo
 imagefeature: "JulepWelcomeBoxMay2015.png"
 date: 2015-05-12 10:17:39 -07:00
