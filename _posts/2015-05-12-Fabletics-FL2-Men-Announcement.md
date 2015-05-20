@@ -3,15 +3,12 @@ layout: post
 title: "Fabletics will be launching FL2 Subscription for Men!"
 description: ""
 headline: "Fabletics will be launching FL2 Subscription for Men!"
-category: Subscription box reviews
-tags: Fabletics Subscription Men Sportswear
+category: Subscriptions
+tags: [Fabletics, FL2, Subscription, Men, Sportswear]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Fabletics
-  - Subscription box reviews
 type: photo
 imagefeature: "FableticsFL2Announcement.png"
 date: 2015-05-12 11:48:39 -07:00
