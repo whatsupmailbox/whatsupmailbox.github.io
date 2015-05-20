@@ -4,14 +4,14 @@ title: "Birchbox Man Gift With Purchase - RIADA by Adair Tie Bar"
 description: "a birchwood tie bar"
 headline: "Birchbox Man Gift With Purchase - RIADA by Adair Tie Bar"
 category: Subscription box coupons
-tags: BirchboxMan Coupon Subscription Rada Adair
+tags: [Birchbox Man, Coupon, GWP, Subscription, Box, Riada, Adair, Tie bar]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox Man
-  - Subscription box coupons
+  - Subscriptions
+  - Coupons
 type: photo
 imagefeature: "BirchboxManMay2015RIADAAdairTieBar.jpg"
 date: 2015-05-18 21:41:39 -08:00
