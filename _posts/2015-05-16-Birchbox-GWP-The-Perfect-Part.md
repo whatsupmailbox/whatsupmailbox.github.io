@@ -3,15 +3,14 @@ layout: post
 title: "Birchbox Gift With Purchase - The Perfect Part"
 description: ""
 headline: "Birchbox Gift With Purchase - The Perfect Part"
-category: Subscription box coupons
-tags: Birchbox Coupon Subscription ThePerfectPart
+tags: [Birchbox Man, GWP, Coupon, Subscription, The Perfect Part]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox
-  - Subscription box coupons
+  - Subscriptions
+  - Coupons
 type: photo
 imagefeature: "BirchboxGWPThePerfectPartMay2015.png"
 date: 2015-05-16 23:00:39 -08:00
