@@ -4,7 +4,7 @@ title: "Fabletics FL2 for Men Now Available!"
 description: ""
 headline: "Fabletics FL2 for Men Now Available!"
 category: Subscription box reviews
-tags: Fabletics FL2 Subscription Men Sportswear
+tags: [Fabletics, FL2, Subscription box, Men, Sportswear]
 comments: true
 mathjax: null
 published: true
