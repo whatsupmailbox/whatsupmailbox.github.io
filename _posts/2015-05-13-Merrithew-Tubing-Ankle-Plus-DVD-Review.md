@@ -3,14 +3,14 @@ layout: post
 title: "Merrithew Tubing Ankle + DVD Review"
 description: ""
 headline: "Merrithew Tubing Ankle + DVD Review"
-category: Product reviews
-tags: Merrithew Tubing Ankle DVD
+tags: [Merrithew, Tubing, Ankle, DVD, Sports, Health]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Product reviews
+  - Products
+  - Reviews
 type: photo
 imagefeature: "MerrithewTubingSet2.jpg"
 date: 2015-05-13 16:11:39 -08:00
