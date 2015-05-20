@@ -15,11 +15,11 @@ title : Atom Feed
   <id>{{ url_base }}/</id>
 
   {% if site.name %}
-    <title>{{ site.name }}</title>
+    <title>{{ site.name | xml_escape }}</title>
   {% endif %}
 
   {% if site.description %}
-    <subtitle>{{ site.description }}</subtitle>
+    <subtitle>{{ site.description | xml_escape }}</subtitle>
   {% endif %}
 
   {% if site.author %}
