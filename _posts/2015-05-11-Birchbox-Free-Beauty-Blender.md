@@ -3,7 +3,6 @@ layout: post
 title: "Birchbox Coupon - Free BeautyBlender with Subscription"
 description: ""
 headline: "Birchbox Coupon - Free BeautyBlender with Subscription"
-category: Subscription box coupons
 tags: [Birchbox, Coupon, Subscription, Women, Beauty Blender]
 comments: true
 mathjax: null
