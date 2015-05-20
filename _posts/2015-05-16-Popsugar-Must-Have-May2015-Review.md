@@ -4,7 +4,7 @@ title: "Popsugar Must Have May 2015 Review + Coupon!"
 description: "Popsugar Must Have May 2015 Review + Coupon!"
 headline: "Popsugar Must Have May 2015 Review + Coupon!"
 category: Subscription box reviews
-tags: Popsugar MustHave Subscription Lifestyle 
+tags: [Popsugar MustHave, Subscription box, Lifestyle]
 comments: true
 published: true
 featured: false
