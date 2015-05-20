@@ -3,15 +3,12 @@ layout: post
 title: "Conscious Box on sale at Rue La La"
 description: ""
 headline: "Conscious Box on sale at Rue La La"
-category: Subscription box coupons
-tags: ConsciousBox Coupon Subscription RueLaLa Health Food
+category: Subscriptions
+tags: [Conscious Box, Subscription, RueLaLa, Health, Food]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Conscious Box
-  - Subscription box coupons
 type: photo
 imagefeature: "ConsciousBoxRuelalaMay2015.jpg"
 date: 2015-05-12 12:19:39 -07:00
