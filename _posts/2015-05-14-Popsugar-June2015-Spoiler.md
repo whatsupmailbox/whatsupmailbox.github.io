@@ -4,13 +4,13 @@ title: "Popsugar Must Have June 2015 Spoiler Item!"
 description: ""
 headline: "Popsugar Must Have June 2015 Spoiler Item!"
 category: Popsugar
-tags: Popsugar Subscription Spoiler
+tags: [Popsugar, Must Have, Spoiler, Subscription, Box]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Popsugar
+  - Subscriptions
 type: photo
 imagefeature: "PopsugarBox.jpg"
 date: 2015-05-14 11:59:00 -08:00
