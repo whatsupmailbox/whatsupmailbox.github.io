@@ -3,15 +3,12 @@ layout: post
 title: "Luxor Box May 2015 Review!"
 description: "Their very first box"
 headline: "Luxor Box May 2015 Review!"
-category: Subscription box reviews
+category: Subscriptions
 tags: [Luxor Box, Subscription, Lifestyle, Red Carpet Kolour, Mariposa, Lisa Stewart, Chambre De Sucre, MSC SkinCare]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Luxor Box
-  - Subscription box reviews
 type: photo
 imagefeature: "LuxorBoxMay2015Box.jpg"
 date: 2015-05-11 18:01:39 +08:00
