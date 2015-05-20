@@ -4,14 +4,13 @@ title: "Birchbox Coupon - Free BeautyBlender with Subscription"
 description: ""
 headline: "Birchbox Coupon - Free BeautyBlender with Subscription"
 category: Subscription box coupons
-tags: Birchbox Coupon Subscription Women BeautyBlender
+tags: [Birchbox, Coupon, Subscription, Women, Beauty Blender]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox
-  - Subscription box coupons
+  - Coupons
 type: photo
 imagefeature: "BirchboxFreeBeautyBlenderMay2015.png"
 date: 2015-05-11 21:47:39 -07:00
