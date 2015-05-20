@@ -25,9 +25,9 @@ date: 2015-05-13 19:15:39 -08:00
 ![Farm Fresh To You Options](/images/FarmFreshToYouOptions.png)
 ![Farm Fresh To You Options2](/images/FarmFreshToYouOptions2.png)
 
-<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago for $16 and finally got the chance to redeem it. $16 will get you one regular-sized box of organic produce delivery.</p>
+<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="http://www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago for $16 and finally got the chance to redeem it. $16 will get you one regular-sized box of organic produce delivery.</p>
 
-<p>If you want to take advantage of the deal, go to<a href="www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your initial delivery.</p>
+<p>If you want to take advantage of the deal, go to<a href="http://www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your initial delivery.</p>
 
 ![Farm Fresh To You Box2](/images/FarmFreshToYouBox2.jpg)
 Their box is not completely closed and they actually reuse the boxes. You flatten the box then leave out so they can pickup when they deliver next time. 
