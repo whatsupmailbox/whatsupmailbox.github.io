@@ -4,7 +4,7 @@ title: "Popsugar Special Edition Summer 2015 Must Have Box Now On Sale!"
 description: ""
 headline: "Popsugar Special Edition Summmer 2015 Must Have Box Now On Sale!"
 category: Subscriptions
-tags: [Popsugar, Must Have, Special Edition, Summer]
+tags: [Popsugar, Must Have, Subscriptioins, Special Edition, Summer]
 comments: true
 mathjax: null
 published: true
