@@ -18,7 +18,7 @@ date: 2015-05-19 19:15:00 -08:00
 
 ![French Box](/images/FrenchBoxMay2015SneakPeak.jpg)
 
-<p>French Box just released a sneak peak today for their May 2015 Cannes theme box!</p>
+<p>French Box just released a sneak peak today for their May 2015 Cannes theme box, and it's a cute post card!</p>
 
 <p>*FYI, they always include a post card every month that's in line with their theme.</p>
 
