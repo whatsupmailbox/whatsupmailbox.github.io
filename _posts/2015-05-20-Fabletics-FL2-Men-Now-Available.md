@@ -8,7 +8,7 @@ tags: Fabletics FL2 Subscription Men Sportswear
 comments: true
 mathjax: null
 published: true
-featured: false
+featured: true
 categories: 
   - FL2
   - Subscription box reviews
