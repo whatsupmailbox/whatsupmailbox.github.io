@@ -10,8 +10,7 @@ mathjax: null
 published: true
 featured: true
 categories: 
-  - FL2
-  - Subscription box reviews
+
 type: photo
 imagefeature: "FableticsFL2NowAvailable.png"
 date: 2015-05-20 08:50:39 -08:00
