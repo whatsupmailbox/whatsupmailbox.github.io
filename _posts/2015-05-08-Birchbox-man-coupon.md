@@ -4,14 +4,13 @@ title: "Birchbox Man Coupon 25% Off"
 description: "Men's lifestyle and skincare subscription"
 headline: "Birchbox Man Coupon 25% Off"
 category: Subscription box coupons
-tags: Birchbox Man Subscription Box Men Lifestyle Skincare
+tags: [Birchbox Man, Subscription, Box, Men, Lifestyle, Skincare]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox Man
-  - Subscription box coupons
+  - Coupons
 type: photo
 imagefeature: "Birchbox-man.png"
 ---
