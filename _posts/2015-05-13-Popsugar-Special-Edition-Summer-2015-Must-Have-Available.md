@@ -3,14 +3,12 @@ layout: post
 title: "Popsugar Special Edition Summer 2015 Must Have Box Now On Sale!"
 description: ""
 headline: "Popsugar Special Edition Summmer 2015 Must Have Box Now On Sale!"
-category: Popsugar
-tags: Popsugar Special Edition Summer
+category: Subscriptions
+tags: [Popsugar, Must Have, Special Edition, Summer]
 comments: true
 mathjax: null
 published: true
 featured: false
-categories: 
-  - Popsugar
 type: photo
 imagefeature: "PopsugarSummer2015BoxAvailable.png"
 date: 2015-05-13 11:59:00 -08:00
