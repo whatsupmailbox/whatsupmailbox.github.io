@@ -3,7 +3,6 @@ layout: post
 title: "Popsugar Must Have June 2015 Spoiler Item!"
 description: ""
 headline: "Popsugar Must Have June 2015 Spoiler Item!"
-category: Popsugar
 tags: [Popsugar, Must Have, Spoiler, Subscription, Box]
 comments: true
 mathjax: null
