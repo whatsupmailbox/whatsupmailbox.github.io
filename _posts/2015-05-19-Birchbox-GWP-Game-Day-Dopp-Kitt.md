@@ -3,15 +3,14 @@ layout: post
 title: "Birchbox Man Gift With Purchase - Game Day Dopp Kit"
 description: "a birchwood tie bar"
 headline: "Birchbox Man Gift With Purchase - Game Day Dopp Kit"
-category: Subscription box coupons
-tags: BirchboxMan Coupon Subscription GameDay
+tags: [Birchbox Man, Coupon, Subscription, Box, Game Day, Dopp kit]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox Man
-  - Subscription box coupons
+  - Subscriptions
+  - Coupons
 type: photo
 imagefeature: "BirchboxGWPGameDayDoppKit.png"
 date: 2015-05-19 08:41:39 -08:00
