@@ -3,14 +3,14 @@ layout: post
 title: "Farm Fresh To You May 2015 Review + $10 coupon"
 description: "fruit only box"
 headline: "Farm Fresh To You May 2015 Review + $10 coupon"
-category: Subscription box reviews
-tags: FarmFreshToYou Organic Fruits Subscription
+tags: [Farm Fresh To You, Organic, Fruits, Subscription]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Subscription box reviews
+  - Subscriptions
+  - Reviews
 type: photo
 imagefeature: "FarmFreshToYouFruits.jpg"
 date: 2015-05-13 19:15:39 -08:00
