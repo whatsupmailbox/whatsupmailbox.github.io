@@ -3,14 +3,14 @@ layout: post
 title: "Cover FX Contour Kit Review"
 description: ""
 headline: "Cover FX Contour Kit Review"
-category: Product reviews
-tags: CoverFX Contour Kit Sephora
+tags: [Cover FX, Contour Kit, Contouring, Makeup, Sephora]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Product reviews
+  - Products
+  - Reviews
 type: photo
 imagefeature: "CoverFXContourKit.jpg"
 date: 2015-05-14 12:41:39 -08:00
