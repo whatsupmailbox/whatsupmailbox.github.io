@@ -15,7 +15,7 @@ imagefeature: "PopsugarBox.jpg"
 date: 2015-05-14 11:59:00 -08:00
 ---
 
-![Popsugar Box](/images/PopsugarBox.jpg)
+<CENTER><IMG SRC='/images/PopsugarBox.jpg'></CENTER>
 <p><b>The Box:</b> <a href="http://popsu.gr/vdrb">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
