@@ -3,15 +3,14 @@ layout: post
 title: "Julep Maven - Build Your Own Spring Gift for $19.99"
 description: ""
 headline: "Julep Maven - Build Your Own Spring Gift for $19.99"
-category: Subscription box coupons
-tags: Julep Maven Coupon Subscription NailPolish
+tags: [Julep, Maven, Coupon, Subscription, Box, Nail Polish]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Birchbox
-  - Subscription box coupons
+  - Subscriptions
+  - Coupons
 type: photo
 imagefeature: "JulepMavenBYOSG.png"
 date: 2015-05-18 16:40:39 -08:00
