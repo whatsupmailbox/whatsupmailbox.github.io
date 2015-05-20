@@ -3,15 +3,14 @@ layout: post
 title: "Treatsie Box on sale at Rue La La"
 description: "A box to indulge your sweet tooth"
 headline: "Treatsie Box on sale at Rue La La"
-category: Subscription box coupons
-tags: Treatsie Subscription RueLaLa Sweets Snacks
+tags: [Treatsie, Subscription, RueLaLa, Sweets, Snacks]
 comments: true
 mathjax: null
 published: true
 featured: false
 categories: 
-  - Treatsie box
-  - Subscription box coupons
+  - Subscriptions
+  - Coupons
 type: photo
 imagefeature: "TreatsieRuelalaMay2015.jpg"
 date: 2015-05-14 09:19:39 -08:00
