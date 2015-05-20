@@ -3,7 +3,9 @@ layout: post
 title: "Fabletics FL2 for Men Now Available!"
 description: ""
 headline: "Fabletics FL2 for Men Now Available!"
-category: Subscriptions
+categories: 
+    - Subscriptions
+    - Coupons
 tags: [Fabletics, FL2, Subscription, Box, Men, Sportswear]
 comments: true
 mathjax: null
