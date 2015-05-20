@@ -11,6 +11,7 @@ published: true
 featured: false
 categories: 
   - Coupons
+  - Subscriptions
 type: photo
 imagefeature: "Birchbox-man.png"
 ---
