@@ -6,7 +6,8 @@ featured: false
 comments: true
 headline: "Taste Trunk - 25% Off Father's Day Gourmet Food Trunks!"
 categories: 
-  - Taste Trunk
+    - Subscriptions
+    - Coupons
 type: photo
 description: ""
 tags: [Taste Trunk, Subscription box, Coupons, Father's Day, Gift]
