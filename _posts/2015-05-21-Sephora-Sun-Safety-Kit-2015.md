@@ -36,6 +36,7 @@ Sephora <a href="http://www.sephora.com/sun-safety-kit-P396622?skuId=1702067&om_
 - 0.34 oz Supergoop!® City Sunscreen Serum SPF 30 
 - 0.34 oz Vita Liberata Passion Flower & Argan Dry Oil Broad Spectrum SPF 50 
 - Travel bag 
+
 <br>
 
 <p>Summer is coming (just saying that reminds me of Game of Thrones, hah!) and our skin needs protection for those hot and sunny beach days, and this set is all you need to stay shielded. 
