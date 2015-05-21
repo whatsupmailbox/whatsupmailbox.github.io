@@ -32,6 +32,7 @@ date: 2015-05-21 12:49:39 -08:00
 <p>Well at least my bags were beautiful so let's move on and check them out.</p>
 
 ## Small Melanie Bag in Marion Floral
+
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanie.jpg'></CENTER>
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanieCollage.jpg'></CENTER>
 Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Small Melanie Bag in Marion Floral</a>, $74
@@ -49,6 +50,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 <p>The lining on both the outside and inside is with LeSportsac's signature Ripstop Nylon, so it's totally durable, repels water, and easy to clean. I like easy.<p>
 
 ## Rectangular Cosmetic Bag in Bonjour Print
+
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic1.jpg'></CENTER>
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic2.jpg'></CENTER>
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic4.jpg'></CENTER>
