@@ -59,4 +59,12 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 * Material:	Ripstop Nylon
 * Features: Hot pink interior lining, Interior back wall open pocket, Two interior small open pockets, Metallic gold lettering
 
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmeticLaura.jpg'></CENTER>
+
+<p>I was pleasantly surprised to find out that my iPhone 6 Plus fits inside this cosmetic bag! My hands are pretty petite, so I was also happy that it fit perfectly on my hand. I inserted my phone, sunglasses, hand sanitizer, lip balm, card holder and other essentials with no issues.</p>
+
+<p>There are also 3 pockets inside the bag, 2 small sections and 1 big one, great for organizing your small knick knacks.</p>
+
+<p><b>Verdict:</b> The collaboration between Rifle Paper Co. and LeSportsac was a dream come true for me and the bags do not disappoint. The shipment packaging maybe, but hey it's the actual products that count right? The designs are gorgeous and the quality is what you'd expect from a brand like LeSportsac, nothing but great. I totally recommend these bags and if you head over to <a href="https://www.lesportsac.com/collection/rifle-paper-co">LeSportsac</a> website, they actually have more bag options, but for some reason they don't have the Small Melanie. So if you want the same bag as mine, you need to purchase it at <a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Rifle Paper Co.</a> website directly.
+
 <mark>Please note that LeSportsac items can only be shipped to the continental U.S.</mark>
