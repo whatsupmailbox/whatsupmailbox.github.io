@@ -39,7 +39,8 @@ Sephora <a href="http://www.sephora.com/sun-safety-kit-P396622?skuId=1702067&om_
 
 <br>
 
-<p>Summer is coming (just saying that reminds me of Game of Thrones, hah!) and our skin needs protection for those hot and sunny beach days, and this set is all you need to stay shielded. 
-<a href="www.sephora.com">Sephora</a> comes out with this type of Sun SPF set every year, and this year it doesn't disappoint. Looking at the brands this set includes has already got me all excited. Supergoop, Fresh, Josie Maran... yes, yes, and YES!</p>
+<p>Summer is coming (just saying that reminds me of Game of Thrones, hah!) and our skin needs protection for those hot and sunny beach days, and this set is all you need to stay shielded.</p> 
+
+</p><a href="www.sephora.com">Sephora</a> comes out with this type of Sun SPF set every year, and this year it doesn't disappoint. Looking at the brands this set includes has already got me all excited. Supergoop, Fresh, Josie Maran... yes, yes, and YES!</p>
 
 <p>I'll be grabbing one for sure, are you tempted to get one too? Let me know!</p>
