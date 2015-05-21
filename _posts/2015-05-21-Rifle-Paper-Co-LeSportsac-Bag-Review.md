@@ -18,7 +18,7 @@ date: 2015-05-21 12:49:39 -08:00
 
 <p>When I first got the email of the launch, I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags then LeSportsac.</p>
 
-<p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping only took 2 business days and I finally have my hands on them today, yay!</p>
+<p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
 
 <center><img src='/images/RiflePaperLeSportsacBox.jpg'></center>
 <p>When I first saw the package, I didn't know who or where it came from. As you can see, there's no brand packaging, just a brown box with a regular white shipping label.</p>
@@ -33,6 +33,7 @@ date: 2015-05-21 12:49:39 -08:00
 
 ## Small Melanie Bag in Marion Floral
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanie.jpg'></CENTER>
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanieCollage.jpg'></CENTER>
 <a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Small Melanie Bag in Marion Floral</a>, $74
 
 **SPECIFICATIONS:**
