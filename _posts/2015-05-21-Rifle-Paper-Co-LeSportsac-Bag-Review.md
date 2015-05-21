@@ -20,19 +20,19 @@ date: 2015-05-21 12:49:39 -08:00
 
 <p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping only took 2 business days and I finally have my hands on them today, yay!</p>
 
-<center><img src='RiflePaperLeSportsacBox.jpg'></center>
+<center><img src='/images/RiflePaperLeSportsacBox.jpg'></center>
 <p>When I first saw the package, I didn't know who or where it came from. As you can see, there's no brand packaging, just a brown box with a regular white shipping label.</p>
 
-<center><img src='RiflePaperLeSportsacOpenBox.jpg'></center>
+<center><img src='/images/RiflePaperLeSportsacOpenBox.jpg'></center>
 <p>First look into the box revealed the same features as the outer box -plain, brown and not a single indication where it came from. I was expecting more from Rifle Paper Co. being a gift wrapping company first and foremost, so this was quite disappointing.</p>
 
-<center><img src='RiflePaperLeSportsacOpenBox2.jpg'></center>
+<center><img src='/images/RiflePaperLeSportsacOpenBox2.jpg'></center>
 <p>After digging through a bunch of brown wrappings, I finally felt some product wrapped in the same brown paper that consumes the whole box. Very disappointing again, I mean really, brown paper? It's not a piece of meat you know.</p>
 
 <p>Well at least my bags were beautiful so let's move on and check them out.</p>
 
 ## Small Melanie Bag in Marion Floral
-<CENTER><IMG SRC='RiflePaperCoLeSportsacSmallMelanie.jpg'></CENTER>
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanie.jpg'></CENTER>
 <a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Small Melanie Bag in Marion Floral</a>, $74
 
 **SPECIFICATIONS:**
