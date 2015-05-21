@@ -18,7 +18,7 @@ date: 2015-05-21 12:49:39 -08:00
 
 <p>When I first got the email of the launch (you can read my post about it <a href="http://whatsupmailbox.com/products/RiflePaperCO-LeSportsac-Collaboration/">here</a>), I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags than LeSportsac.</p>
 
-<p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
+<p>After going back and forth between a few of them, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
 
 <center><img src='/images/RiflePaperLeSportsacBox.jpg'></center>
 <p>When I first saw the package, I didn't know who or where it came from. As you can see, there's no brand packaging, just a brown box with a regular white shipping label.</p>
@@ -42,7 +42,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 * Features: Adjustable shoulder straps, Hot pink interior lining, Interior back wall open pocket, Two exterior side pockets with zip closures, Zipped main closure
 
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanieLaura2.jpg'></CENTER>
-<p>It's rare to find a bag that suits my size and yet still roomy enough for multiple products because of my petite self, so I was happy to find out that this bag suits me just fine. I was also happy to find that there are two zipped exterior pockets on the sides as well as a zipped compartment inside, great for organizing my small items such as keys, lip balms, etc.</p>
+<p>It's rare to find a bag that suits my size and yet still roomy enough for multiple products because of my petite self, so I was happy to find out that this bag suits me just fine. I was also happy to find that there are two zipped exterior pockets on the sides as well as a zipped compartment inside, great for organizing my small items such as keys, lip balms, etc. And as you can see from my picture, this bag is totally in line for music festival season =)</p>
 
 <p>The shoulder straps are adjustable and removable, both great features of course. I tested the straps by inserting some heavy items into the bag (water bottle, full cosmetic bag, wallet) and although not the most comfortable, it was still good and it did hold well.</p>
 
