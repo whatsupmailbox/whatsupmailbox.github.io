@@ -10,7 +10,7 @@ mathjax: null
 published: true
 featured: false
 type: quote
-imagefeature: 
+imagefeature: SageAndRowLogo.png
 date: 2015-05-19 23:00:00 -08:00
 ---
 
