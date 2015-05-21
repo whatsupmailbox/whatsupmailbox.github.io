@@ -16,7 +16,7 @@ imagefeature: RiflePaperLeSportsacPurchase.jpg
 date: 2015-05-21 12:49:39 -08:00
 ---
 
-<p>When I first got the email of the launch, I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags then LeSportsac.</p>
+<p>When I first got the email of the launch (you can read my post about it <a href="http://whatsupmailbox.com/products/RiflePaperCO-LeSportsac-Collaboration/">here</a>), I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags then LeSportsac.</p>
 
 <p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
 
