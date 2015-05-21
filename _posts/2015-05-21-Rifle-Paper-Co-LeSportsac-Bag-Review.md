@@ -42,6 +42,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 <li> Dimensions: 4.88 × 6.75 × 9.25"</li>
 <li> Material:	Ripstop Nylon</li>
 <li> Features: Adjustable shoulder straps, Hot pink interior lining, Interior back wall open pocket, Two exterior side pockets with zip closures, Zipped main closure</li>
+<br>
 
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacMelanieLaura2.jpg'></CENTER>
 <p>It's rare to find a bag that suits my size and yet still roomy enough for multiple products because of my petite self, so I was happy to find out that this bag suits me just fine. I was also happy to find that there are two zipped exterior pockets on the sides as well as a zipped compartment inside, great for organizing my small items such as keys, lip balms, etc. And as you can see from my picture, this bag is totally in line for music festival season =)</p>
@@ -61,7 +62,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 <li> Dimensions: 2 × 3.5 × 6.75"</li>
 <li> Material:	Ripstop Nylon</li>
 <li> Features: Hot pink interior lining, Interior back wall open pocket, Two interior small open pockets, Metallic gold lettering</li>
-
+<br>
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmeticLaura.jpg'></CENTER>
 
 <p>I was pleasantly surprised to find out that my iPhone 6 Plus fits inside this cosmetic bag! My hands are pretty petite, so I was also happy that it fit perfectly on my hand. I inserted my phone, sunglasses, hand sanitizer, lip balm, card holder and other essentials without a problem.</p>
