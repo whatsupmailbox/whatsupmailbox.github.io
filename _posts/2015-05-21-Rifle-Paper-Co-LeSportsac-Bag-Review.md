@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Rifle Paper Co. × LeSportsac Bag Review"
 featured: false
 comments: true
@@ -12,10 +12,11 @@ type: photo
 description: "Small Melanie Bag & Rectangular Cosmetic Bag"
 tags: [Rifle Paper Co., LeSportsac, Bag, Review, Melanie, Cosmetic]
 imagecredit: ""
-imagefeature: RiflePaperLeSportsacPurchase.jpg
-date: 2015-05-21 12:49:39 -08:00
+imagefeature: RiflePaperLeSportsacCollage.jpg
+date: 2015-05-21 11:34:39 -08:00
 ---
 
+<center><img src='/images/RiflePaperCoLeSportsacLogo.jpg'></center>
 <p>When I first got the email of the launch (you can read my post about it <a href="http://whatsupmailbox.com/products/RiflePaperCO-LeSportsac-Collaboration/">here</a>), I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags than LeSportsac.</p>
 
 <p>After going back and forth between a few of them, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
@@ -27,7 +28,7 @@ date: 2015-05-21 12:49:39 -08:00
 <p>First look into the box revealed the same features as the outer box -plain, brown and not a single indication where it came from. I was expecting more from Rifle Paper Co. being a gift wrapping company first and foremost, so this was quite disappointing.</p>
 
 <center><img src='/images/RiflePaperLeSportsacOpenBox2.jpg'></center>
-<p>After digging through a bunch of brown wrappings, I finally felt some product wrapped in the same brown paper that consumes the whole box. Very disappointing again, I mean really, brown paper? It's not a piece of meat you know.</p>
+<p>After digging through a bunch of brown wrappings, I finally felt some product wrapped in the same brown paper that consumed the whole box. Very disappointing again, I mean really, brown paper? It's not a piece of meat you know.</p>
 
 <p>Well at least my bags were beautiful so let's move on and check them out.</p>
 
@@ -47,7 +48,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 
 <p>The shoulder straps are adjustable and removable, both great features of course. I tested the straps by inserting some heavy items into the bag (water bottle, full cosmetic bag, wallet) and although not the most comfortable, it was still good and it did hold well.</p>
 
-<p>The lining on both the outside and inside is with LeSportsac's signature Ripstop Nylon, so it's totally durable, repels water, and easy to clean. I like easy.<p>
+<p>The lining on both the outside and inside is with LeSportsac's signature Ripstop Nylon, so it's totally durable, repels water, and easy to clean. I like easy.</p>
 
 ## Rectangular Cosmetic Bag in Bonjour Print
 
@@ -65,7 +66,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 
 <p>I was pleasantly surprised to find out that my iPhone 6 Plus fits inside this cosmetic bag! My hands are pretty petite, so I was also happy that it fit perfectly on my hand. I inserted my phone, sunglasses, hand sanitizer, lip balm, card holder and other essentials with no issues.</p>
 
-<p>There are also 3 pockets inside the bag, 2 small sections and 1 big one, great for organizing your small knick knacks.</p>
+<p>There are also 3 pockets inside the bag, 2 small sections and 1 big one, great for organizing your small knick knacks. And who am I kidding, I love everything French, so this is now officially my favorite cosmetic bag!</p>
 
 <p><b>Verdict:</b> The collaboration between Rifle Paper Co. and LeSportsac was a dream come true for me and the bags do not disappoint. The shipment packaging maybe, but hey it's the actual products that count right? The designs are gorgeous and the quality is what you'd expect from a brand like LeSportsac, nothing but great. I totally recommend these bags and if you head over to <a href="https://www.lesportsac.com/collection/rifle-paper-co">LeSportsac</a> website, they actually have more bag options, but for some reason they don't have the Small Melanie. So if you want the same bag as mine, you need to purchase it at <a href="https://riflepaperco.com/collections/lesportsac/small-melanie-everyday-bags-and-totes/">Rifle Paper Co.</a> website directly.
 
