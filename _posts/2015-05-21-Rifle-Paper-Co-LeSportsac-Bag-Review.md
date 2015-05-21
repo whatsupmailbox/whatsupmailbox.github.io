@@ -16,7 +16,7 @@ imagefeature: RiflePaperLeSportsacPurchase.jpg
 date: 2015-05-21 12:49:39 -08:00
 ---
 
-<p>When I first got the email of the launch (you can read my post about it <a href="http://whatsupmailbox.com/products/RiflePaperCO-LeSportsac-Collaboration/">here</a>), I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags then LeSportsac.</p>
+<p>When I first got the email of the launch (you can read my post about it <a href="http://whatsupmailbox.com/products/RiflePaperCO-LeSportsac-Collaboration/">here</a>), I knew I had to buy one asap! I'm obsessed with <a href="www.riflepaperco.com">Rifle Paper Co.</a> and what better brand to collaborate with for bags than LeSportsac.</p>
 
 <p>After going back and forth between a few of the bags, I finally decided on purchasing a bag and added a cosmetic bag at the last minute (of course). Shipping was fast since they use Priority Mail 2-business day, and I finally have my hands on them today, yay!</p>
 
@@ -40,5 +40,17 @@ date: 2015-05-21 12:49:39 -08:00
 * Dimensions: 4.88 × 6.75 × 9.25"
 * Material:	Ripstop Nylon
 * Features: Adjustable shoulder straps, Hot pink interior lining, Interior back wall open pocket, Two exterior side pockets with zip closures, Zipped main closure
+
+<p>It's rare to find a bag that suits my size and yet still roomy enough for multiple products because of my petite self, so I was happy to find out that this bag suits me just fine. I was also happy to find that there are two zipped exterior pockets on the sides as well as a zipped compartment inside, great for organizing my small items such as keys, lip balms, etc.</p>
+
+<p>The shoulder straps are adjustable and removable, both great features of course, but I found them to be a bit thin and flimsy, so I'm not sure that with heavy items it'll still be comfortable and actually hold itself. I tested it by putting a full water bottle inside as well as other daily essentials, and although not the most comfortable, it did hold well.</p>
+
+<p>The lining on both the outside and inside is with LeSportsac's signature Ripstop Nylon, so it's totally durable, repels water, and so easy to clean. I like easy.<p>
+
+## Rectangular Cosmetic Bag in Bonjour Print
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic1.jpg'></CENTER>
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic2.jpg'></CENTER>
+<CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmetic4.jpg'></CENTER>
+
 
 <mark>Please note that LeSportsac items can only be shipped to the continental U.S.</mark>
