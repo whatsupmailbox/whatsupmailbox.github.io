@@ -64,7 +64,7 @@ Rifle Paper Co. × LeSportsac - <a href="https://riflepaperco.com/collections/le
 
 <CENTER><IMG SRC='/images/RiflePaperLeSportsacCosmeticLaura.jpg'></CENTER>
 
-<p>I was pleasantly surprised to find out that my iPhone 6 Plus fits inside this cosmetic bag! My hands are pretty petite, so I was also happy that it fit perfectly on my hand. I inserted my phone, sunglasses, hand sanitizer, lip balm, card holder and other essentials with no issues.</p>
+<p>I was pleasantly surprised to find out that my iPhone 6 Plus fits inside this cosmetic bag! My hands are pretty petite, so I was also happy that it fit perfectly on my hand. I inserted my phone, sunglasses, hand sanitizer, lip balm, card holder and other essentials without a problem.</p>
 
 <p>There are also 3 pockets inside the bag, 2 small sections and 1 big one, great for organizing your small knick knacks. And who am I kidding, I love everything French, so this is now officially my favorite cosmetic bag!</p>
 
