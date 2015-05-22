@@ -31,6 +31,7 @@ The box arrived around noontime and it was quite heavy.
 
 <center><img src='/images/HelloFreshMay2015Collage.jpg'></center>
 All the ingredients were packed into this thick white plastic bag. Not sure if it's insulated, but it was thick enough to keep the cold from the ice packs contained within.
+
 > From HelloFresh: "We have specially designed boxes that we pack with a nice, thick liner and ice packs to ensure that everything arrives to you perfectly cool!"
 
 <p>After removing the vegetables on top, there is another layer at the bottom that is packed with ice bags and under that was the meat.</p>
