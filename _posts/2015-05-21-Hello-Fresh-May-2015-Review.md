@@ -58,7 +58,7 @@ with Crispy Oregano Potatoes & Sauteed Kale
 
 <p>My husband wanted to try out the fish dish first, and this was a total hit with him, he loved it! It was just ohh-kayyy for me though. I did find the recipe easy to make, so that was good.</p>
 
-<p>It took us close to an hour from start to finish, so that wasn't too bad.</p>
+<p>It took us close to an hour from start to finish.</p>
 
 ## Apricot-Glazed Chicken 
 with Couscous & Swiss Chard
@@ -69,9 +69,9 @@ with Couscous & Swiss Chard
 
 <p>I absolutely loved this! Initially I had lower expectations, but the end result totally blew my senses away. The sauce that goes on top was so melting delicious, the apricot paired extremely well with the chicken and couscous, and the Swiss chard gave this dish the much needed greens in a tasty way. It was so darn good, I'm keeping this recipe permanently and will no doubt be cooking it again.</p>
 
-<p>Prep was kind of a pain in the butt, those red onions made me cry like I was watching Titanic all over again. Sheesh. But everything else was easy.</p>
+<p>Prep was kind of a pain in the butt though, those red onions made me cry like I was watching Titanic all over again. Sheesh. But everything else was easy.</p>
 
-## Homestyle Meatloag 
+## Homestyle Meatloaf 
 with Shallot Gravy & Caramelized Root Vegetables
 
 <center><img src='/images/HelloFreshMay2015Meatloaf.jpg'></center>
