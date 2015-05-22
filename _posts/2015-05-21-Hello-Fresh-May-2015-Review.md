@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
-title: "Hello Fresh May 2015 Review!"
+published: true
+title: "Hello Fresh May 2015 Review + Coupon!"
 featured: false
 comments: true
-headline: "Hello Fresh May 2015 Review!"
+headline: "Hello Fresh May 2015 Review + Coupon!"
 categories: 
   - Subscriptions
   - Reviews
@@ -12,7 +12,7 @@ type: photo
 description: ""
 tags: [Produce Candles, Review, Mint, Popsugar, Must Have, Soy wax, All natural]
 imagecredit: ""
-imagefeature: HelloFreshMay2015Box.jpg
+imagefeature: HelloFreshMay2015Collage.jpg
 date: 2015-05-21 17:08:39 -08:00
 ---
 
@@ -84,6 +84,6 @@ with Shallot Gravy & Caramelized Root Vegetables
 
 <p>From all three dishes that I ordered, I found this one to be the easiest to make. They even give you the mini loaf pan to cook the meat in. I was done from start to finish in 45 minutes.</p>
 
-<p><b>VERDICT:</b> I like the convenience part of this subscription. With this food box, I didn't need to plan, shop or even measure when cooking, it’s all conveniently prepared for you. And it's a good way to explore new recipes without having to buy a whole lotta ingredients. It's just my husband and I at the moment, so whenever I want to try a new recipe, I end up buying and cooking for 6 people. 
-You can only eat leftovers for so long before you're sick and tired of it. 
+<p><b>VERDICT:</b> I like the convenience part of this subscription. I didn't need to plan, shop or even measure when cooking, it’s all conveniently prepared for you. And it's a good way to explore new recipes without having to buy a whole lotta ingredients. It's just my husband and I at the moment, so whenever I want to try a new recipe, I end up buying and cooking for 6 people, which is 4 too many. 
+And you can only eat leftovers for so long before you're sick and tired of it. 
 For the cost I do think it’s quite high for something that I have to cook myself, but then again when you compare it to eating out, I think this is definitely more cost effective, plus it gives you brownie points as a chef. I say go for it if you’re a couple or inviting another couple for dinner, or just planning to have date night at home.</p>
