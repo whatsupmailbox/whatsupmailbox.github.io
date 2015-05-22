@@ -10,7 +10,7 @@ categories:
     - Reviews
 type: photo
 description: "Small Melanie Bag & Rectangular Cosmetic Bag"
-tags: [Rifle Paper Co., LeSportsac, Bag, Review, Melanie, Cosmetic]
+tags: [Rifle Paper Co, LeSportsac, Bag, Review, Melanie, Cosmetic]
 imagecredit: ""
 imagefeature: RiflePaperLeSportsacCollage.jpg
 date: 2015-05-21 11:34:39 -08:00
