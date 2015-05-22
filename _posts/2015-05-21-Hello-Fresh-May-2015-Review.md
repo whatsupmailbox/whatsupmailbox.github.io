@@ -38,43 +38,45 @@ All the ingredients were packed into this thick white plastic bag. Not sure if i
 <center><img src='/images/HelloFreshMay2015Magazine2.jpg'></center>
 <center><img src='/images/HelloFreshMay2015Magazine3.jpg'></center>
 <center><img src='/images/HelloFreshMay2015Magazine4.jpg'></center>
-The meals are displayed in the pages with detailed instructions accompanied by beautiful pictures as reference. I’m a visual gal so pictures are so appreciated!
+The meals are displayed in the pages with detailed instructions accompanied by beautiful pictures as reference. I’m a visual gal so pictures are totally appreciated!
 
-<center><img src='/images/HelloFreshMay2015Ingredients.jpg'></center>
-Each vegetable combo was separated based on the meals that it would belong to.
+<center><img src='/images/HelloFreshMay2015Vegetables.jpg'></center>
+<figcaption>Each vegetable combo was separated based on the meals that it would belong to.</figcaption>
 
-
-<center><img src='/images/HelloFreshMay2015Meats.jpg'></center>
-Same goes for the meat, all individually packed and labeled.
+<center><img src='/images/HelloFreshMay2015Meat.jpg'></center>
+<figcaption>Same goes for the meat, all individually packed and labeled.</figcaption>
 
 
 <p>After 3 dinner dates with my husband at home, I can finally post this blog with pictures of the end results. My husband is relieved that he doesn't have to cook again anytime soon, but little does he know I have another food subscription box coming in. #SorryDear</p>
 
-## Spanish Cod & Chorizo ###with Crispy Oregano Potatoes & Sauteed Kale
+## Spanish Cod & Chorizo 
+with Crispy Oregano Potatoes & Sauteed Kale
 
 <center><img src='HelloFreshCod.jpg></center>
 
-> "Tender, mild cod goes perfectly with bold, spicy chorizo and crispy breadcrumbs. It's a ying and yang kind of thing. A bed of garlicky sauteed kale and crispy oregano potatoes round out this Spanish-inspired seafood dish"
+> Tender, mild cod goes perfectly with bold, spicy chorizo and crispy breadcrumbs. It's a ying and yang kind of thing. A bed of garlicky sauteed kale and crispy oregano potatoes round out this Spanish-inspired seafood dish
 
 <p>My husband wanted to try out the fish dish first, and this was a total hit with him, he loved it! It was just ohh-kayyy for me though. I did find the recipe easy to make, so that was good.</p>
 
 <p>It took us close to an hour from start to finish, so that wasn't too bad.</p>
 
-## Apricot-Glazed Chicken ### with Couscous & Swiss Chard
+## Apricot-Glazed Chicken 
+with Couscous & Swiss Chard
 
 <center><img src='HelloFreshChicken.jpg></center>
 
-> "A double whammy of apricot jam and dried apricot makes for a delightfully sweet and sticky glaze. To balance its sweetness, we're cooking this sauce with savory chicken stock and sharp red onion. Folding tender Swiss chard into hot coucous is a great 2-minute trick for getting more greens into your meals!"
+> A double whammy of apricot jam and dried apricot makes for a delightfully sweet and sticky glaze. To balance its sweetness, we're cooking this sauce with savory chicken stock and sharp red onion. Folding tender Swiss chard into hot coucous is a great 2-minute trick for getting more greens into your meals!
 
 <p>I absolutely loved this! Initially I had lower expectations on this dish, but the end result totally blew my senses away. The sauce that goes on top was so melting delicious, the apricot paired extremely well with the chicken and couscous, and the Swiss chard gave this dish the much needed greens in a tasty way. It was so darn good, I'm keeping this recipe permanently and will no doubt be cooking it again.</p>
 
 <p>Prep was kind of a pain in the butt, those red onions made me cry like I was watching Titanic all over again. Sheesh. But everything else was easy.</p>
 
-## Homestyle Meatloag ### with Shallot Gravy & Caramelized Root Vegetables
+## Homestyle Meatloag 
+with Shallot Gravy & Caramelized Root Vegetables
 
 <center><img src='HelloFreshMeatloaf.jpg></center>
 
-> "Flavored with mild shallot and woodsy thyme, our meatloaf packs sophisticated flavor and serious tenderness. Of course, the dish wouldn't be complete without a generous smothering of homemade gravy"
+> Flavored with mild shallot and woodsy thyme, our meatloaf packs sophisticated flavor and serious tenderness. Of course, the dish wouldn't be complete without a generous smothering of homemade gravy
 
 <p>This dish was a hit again with my husband. It was no surprise to me though as his favorite meals pretty much consist of meat and potatoes, so of course this was perfect for him.</p>
 
