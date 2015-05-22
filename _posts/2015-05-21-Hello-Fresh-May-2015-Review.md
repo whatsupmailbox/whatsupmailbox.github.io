@@ -44,10 +44,10 @@ All the ingredients were packed into this thick white plastic bag. Not sure if i
 The meals are displayed in the pages with detailed instructions accompanied by beautiful pictures as reference. I’m a visual gal so pictures are totally appreciated!
 
 <center><img src='/images/HelloFreshMay2015Vegetables.jpg'></center>
-<figcaption>Each vegetable combo was separated based on the meals that it would belong to.</figcaption>
+Each vegetable combo was separated based on the meals that it would belong to.
 
 <center><img src='/images/HelloFreshMay2015Meat.jpg'></center>
-<figcaption>Same goes for the meat, all individually packed and labeled.</figcaption>
+Same goes for the meat, all individually packed and labeled.
 
 
 <p>After 3 dinner dates with my husband at home, I can finally post this blog with pictures of the end results. My husband is relieved that he doesn't have to cook again anytime soon, but little does he know I have another food subscription box coming in. #SorryDear</p>
