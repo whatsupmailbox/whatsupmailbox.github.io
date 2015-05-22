@@ -10,7 +10,7 @@ categories:
   - Reviews
 type: photo
 description: ""
-tags: [Produce Candles, Review, Mint, Popsugar, Must Have, Soy wax, All natural]
+tags: [Hello Fresh, Subscription, Review, Food, Meals]
 imagecredit: ""
 imagefeature: HelloFreshMay2015Collage.jpg
 date: 2015-05-21 17:08:39 -08:00
