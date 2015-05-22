@@ -52,7 +52,7 @@ The meals are displayed in the pages with detailed instructions accompanied by b
 ## Spanish Cod & Chorizo 
 with Crispy Oregano Potatoes & Sauteed Kale
 
-<center><img src='HelloFreshMay2015Cod.jpg'></center>
+<center><img src='/images/HelloFreshMay2015Cod.jpg'></center>
 
 > Tender, mild cod goes perfectly with bold, spicy chorizo and crispy breadcrumbs. It's a ying and yang kind of thing. A bed of garlicky sauteed kale and crispy oregano potatoes round out this Spanish-inspired seafood dish
 
@@ -63,7 +63,7 @@ with Crispy Oregano Potatoes & Sauteed Kale
 ## Apricot-Glazed Chicken 
 with Couscous & Swiss Chard
 
-<center><img src='HelloFreshMay2015Chicken.jpg'></center>
+<center><img src='/images/HelloFreshMay2015Chicken.jpg'></center>
 
 > A double whammy of apricot jam and dried apricot makes for a delightfully sweet and sticky glaze. To balance its sweetness, we're cooking this sauce with savory chicken stock and sharp red onion. Folding tender Swiss chard into hot coucous is a great 2-minute trick for getting more greens into your meals!
 
@@ -74,7 +74,7 @@ with Couscous & Swiss Chard
 ## Homestyle Meatloag 
 with Shallot Gravy & Caramelized Root Vegetables
 
-<center><img src='HelloFreshMay2015Meatloaf.jpg'></center>
+<center><img src='/images/HelloFreshMay2015Meatloaf.jpg'></center>
 
 > Flavored with mild shallot and woodsy thyme, our meatloaf packs sophisticated flavor and serious tenderness. Of course, the dish wouldn't be complete without a generous smothering of homemade gravy
 
