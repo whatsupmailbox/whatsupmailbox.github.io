@@ -22,7 +22,9 @@ date: 2015-05-21 17:08:39 -08:00
 <p><b>What's in the box:</b> Fresh ingredients and recipes for the meals that you choose. Their weekly menus are posted on their website.</p>
 <p><b>Coupon:</b> Get $40 off your first box by <a href="http://www.hellofresh.com/?c=3E724E">clicking here</a>!</p>
 
-<p>This is my first time trying out a meal subscription box, so I took lots of pics! My husband and I try to cook together for date nights at home and this is absolutely perfect for that, so I decided to sign up and see what it's all about.</p>
+<p>This is my first time trying out a meal subscription box, so I took lots of pics!</p> 
+
+<p>My husband and I try to cook together for date nights at home and this is absolutely perfect for that, so I decided to sign up and see what it's all about.</p>
 
 <center><img src='/images/HelloFreshMay2015Box.jpg'></center>
 The box arrived around noontime and it was quite heavy.
