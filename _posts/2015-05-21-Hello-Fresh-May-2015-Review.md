@@ -35,7 +35,7 @@ All the ingredients were packed into this thick white plastic bag. Not sure if i
 
 <p>After removing the vegetables on top, there is another layer at the bottom that is packed with ice bags and under that was the meat.</p>
 
-<p>The recipes are displayed in a magazine and they look beautiful:</p>
+<p>They also include a magazine filled with your recipes and pictures of how the dish will look like:</p>
 
 <center><img src='/images/HelloFreshMay2015Magazine2.jpg'></center>
 <center><img src='/images/HelloFreshMay2015Magazine3.jpg'></center>
