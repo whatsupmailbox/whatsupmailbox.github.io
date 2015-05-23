@@ -34,7 +34,7 @@ They can also be from a French brand, popular in France or part of the French cu
 
 <center><img src='/images/FrenchBoxMay2015Lip.jpg'></center>
 <a href="http://www.institutkariteparis.com/boutique_us/fiche_produit.cfm?ref=IK0209&type=54&code_lg=lg_us&num=211">Institut Karite Paris Lip Gloss in Passion</a>, Full Size 15ml > 12 Euros (around $13)
-<p>I always appreciate when subscription boxes include lip products. The Passion color is a bright popping pink, but it goes on pretty sheer with a slight hint of pink. This is truly a lip gloss though, so it has that bright shine, which I'm not too fond of. I prefer more matte. The texture is not sticky, so at least I'm happy with that.</p>
+<p>I always appreciate when subscription boxes include lip products. The Passion color is a bright coral pink, but it goes on pretty sheer. This is truly a lip gloss though, so it has that bright shine, which I'm not too fond of. I prefer more matte. The texture is not sticky, so at least I'm happy with that.</p>
 
 <center><img src='/images/FrenchBoxMay2015Soap.jpg'></center>
 <a href="https://getfrenchbox.com/shop/fabco-2-perfumes-soap/">Fab & Co Soap in Honey Almond</a>, Full Size $8
