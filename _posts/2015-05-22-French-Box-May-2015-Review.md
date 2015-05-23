@@ -63,7 +63,7 @@ ensures repairing action throughout the night.
 
 <center><img src='/images/FrenchBoxMay2015VintagePostcard.jpg'></center>
 <H4>A vintage postcard of Cote D'Azure</H4>
-<p>Since this postcard is vintage, I'm not sure what value to put so I'll leave it blank. I'm not sure yet how I feel about receiving this in my box. It is in line with their theme as the postcard shows the Cote D'Azur which is where Cannes is, so I'll give them that.</p>
+<p>Since this postcard is vintage, I'm not sure what value to put so I'll leave it blank. I have mixed feelings about receiving this in my box. It is in line with their theme as the postcard shows the Cote D'Azur which is where Cannes is, so I'll give them that.</p>
 
 <center><img src='/images/FrenchBoxMay2015Keychain.jpg'></center>
 <H4>Keychain with a 35mm film insert</H4>
