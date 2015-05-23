@@ -54,8 +54,8 @@ ensures repairing action throughout the night.
 
 <p>I'm happy to discover that Marilou Bio is a French brand of organic cosmetics and they are also not tested on animals. It's strange how their full size is pretty small, but hey, it's travel friendly and I have plenty of travel makeup bags where this can fit in.</p>
 
-<p><a href="http://www.amazon.com/Payot-Corps-Gommage-Amande-Pistachio/dp/B00JFYVZRO/ref=sr_1_1?s=beauty&ie=UTF8&qid=1432352534&sr=1-1&keywords=payot+gommage">Payot Gommage Amande</a> body scrub</i>, Travel size 25ml - $3</p>
-<p><a href="http://www.payot.com/KR/en/">Payot</a> doesn't sell their products directly so I based the price from Amazon which I found to be the cheapest.</p>
+<p><a href="http://www.amazon.com/Payot-Corps-Gommage-Amande-Pistachio/dp/B00JFYVZRO/ref=sr_1_1?s=beauty&ie=UTF8&qid=1432352534&sr=1-1&keywords=payot+gommage">Payot Gommage Amande</a> <i>body scrub</i>, Travel size 25ml - $3</p>
+<p>Payot doesn't sell their products directly so I based the price from Amazon which I found to be the cheapest.</p>
 <p>This scrub smells sweet and nutty, just as they described, a body scrub with pistachio and sweet almond extracts. I prefer more of a fresh scent for my bath and body products, but it's a good travel size so I'll toss it in my gym bag and I'm sure I'll make use of it.</p>
 
 <center><img src='/images/FrenchBoxMay2015Bookmark.jpg'></center>
@@ -69,9 +69,9 @@ ensures repairing action throughout the night.
 <center><img src='/images/FrenchBoxMay2015Keychain.jpg'></center>
 <figcaption>Keychain with a 35mm film insert</figcaption>
 <p>This is another item where I can't put a price on it, so I'll leave it blank again.</p>
-<p>Each keychain has a 35mm film that was shown in French classrooms between the 1940s and 1960. You can learn more about the film you received by clicking <a href="http://getfrenchbox.com/35mm/">here. I received film number 36.</p>
+<p>Each keychain has a 35mm film that was shown in French classrooms between the 1940s and 1960. You can learn more about the film you received by <a href="http://getfrenchbox.com/35mm/">clicking here</a>. I received film number 36.</p>
 
-<p><b>VERDICT:</b> This box was a miss for me as the only product I loved was the soap. The total value is around $32, not counting the keychain and vintage postcard. For a $36 subscription box, I expect more. I know they recently went through some restructuring and raised their price do to that, but this new box doesn't seem any different than what they did before which was unsatisfactory. I'm not sure I'll continue to subscribe or if I should give them one more chance. I guess I have a few weeks to decide.</p>
+<p><b>VERDICT:</b> This box was a miss for me as the only product I loved was the soap. The total value is around $32, not counting the keychain and vintage postcard. For a $36 subscription box, I expected more. I know they recently went through some restructuring and raised their price do to that, but this new box doesn't seem any different than what they did before which was unsatisfactory. I'm not sure I'll continue to subscribe or if I should give them one more chance. I guess I have a few weeks to decide.</p>
 
 <p>Subscription to FrenchBox is on invitation only at this time, reserved for existing subscribers. Subscribers can register on <a href="https://getfrenchbox.com/subscription/">this page</a> (login required) to get the May 2015 box.</p>
 
