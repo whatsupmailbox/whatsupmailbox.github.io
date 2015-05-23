@@ -51,15 +51,15 @@ Each soap is handmade by soap makers in provence in the respect of the tradition
 and balance. Brimming with plant oils, the texture of Marilou Bio Night Cream
 ensures repairing action throughout the night. 
 
-<p>I'm happy to discover that Marilou Bio is a French brand of organic cosmetics and they are also not tested on animals. It's strange how their full size is pretty small, but hey, it's travel friendly and I have plenty of travel makeup bags where this can fit in.</p>
+<p>I'm happy to discover that Marilou Bio is a French brand of organic cosmetics and they are also not tested on animals. It's strange how their full size is pretty small, but I guess it's travel friendly.</p>
 
 <H4><a href="http://www.amazon.com/Payot-Corps-Gommage-Amande-Pistachio/dp/B00JFYVZRO/ref=sr_1_1?s=beauty&ie=UTF8&qid=1432352534&sr=1-1&keywords=payot+gommage">Payot Gommage Amande</a> <i>body scrub</i>, Travel size 25ml - $3</H4>
 <p>Payot doesn't sell their products directly so I based the price from Amazon which I found to be the cheapest.</p>
-<p>This scrub smells sweet and nutty, just as they described, a body scrub with pistachio and sweet almond extracts. I prefer more of a fresh scent for my bath and body products, but it's a good travel size so I'll toss it in my gym bag and I'm sure I'll make use of it.</p>
+<p>This scrub smells sweet and nutty, just as they described -a body scrub with pistachio and sweet almond extracts. I prefer more of a fresh scent for my bath and body products, but it's a good travel size so I'll toss it in my gym bag and I'm sure I'll make use of it.</p>
 
 <center><img src='/images/FrenchBoxMay2015Bookmark.jpg'></center>
 <H4><a href="http://www.bookfriends.kr/src/main/indexpage.php">Book Friends</a> Golden Palm Tree 18K Gold Plated Bookmark, $2.7?</H4>
-<p>I'm not sure how this relates to France, but since the Golden Palm Tree is a symbol of Happiness and Riches, I can see the connection to their Cannes theme. Unfortunately I don't read physical books anymore thanks to my Kindle, so I will be passing this along to my mother.</p>
+<p>I'm not sure how this relates to France (it's made in Korea), but since the Golden Palm Tree is a symbol of Happiness and Riches, I can see the connection to their Cannes theme. Unfortunately I don't read physical books anymore thanks to my Kindle, so I will be passing this along to my mother.</p>
 
 <center><img src='/images/FrenchBoxMay2015VintagePostcard.jpg'></center>
 <H4>A vintage postcard of Cote D'Azure</H4>
