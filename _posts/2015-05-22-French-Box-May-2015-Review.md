@@ -70,7 +70,7 @@ ensures repairing action throughout the night.
 <p>This is another item where I can't put a price on it, so I'll leave it blank again.</p>
 <p>Each keychain has a 35mm film that was shown in French classrooms between the 1940s and 1960. You can learn more about the film you received by <a href="http://getfrenchbox.com/35mm/">clicking here</a>. I received film number 36.</p>
 
-<p><b>VERDICT:</b> This box was a miss for me as the only product I loved was the soap. The total value is around $32, not counting the keychain and vintage postcard. For a $36 subscription box, I expected more. I know they recently went through some restructuring and raised their price do to that, but this new box doesn't seem any different than what they did before which was unsatisfactory. I'm not sure I'll continue to subscribe or if I should give them one more chance. I guess I have a few weeks to decide.</p>
+<p><b>VERDICT:</b> This box was a miss for me since the only product I loved was the soap. The total value is around $32, not counting the keychain and vintage postcard. For a $36 subscription box, I expected more. I know they recently went through some restructuring and raised their price to do that, but this new box doesn't seem any different than what they did before. I'm not sure I'll continue to subscribe or if I should give them one more chance. I guess I have a few weeks to decide.</p>
 
 <p><DT>Subscription to FrenchBox is on invitation only at this time, reserved for existing subscribers. Subscribers can register on <a href="https://getfrenchbox.com/subscription/">this page</a> (login required) to get their next box.</DT></p>
 
