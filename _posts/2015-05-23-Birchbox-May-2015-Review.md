@@ -18,7 +18,7 @@ date: 2015-05-23 11:27:39 -08:00
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>TATIOFFER</b></a> to get your <mark>first box for only $1</mark>!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>TATIOFFER</b></a> to get your first box for only $1!</p>
 <br>
 
 <DT>This month's curated box is Cupcakes and Cashmere <i>by Emily Schuman</i>.</DT>
