@@ -16,7 +16,7 @@ imagefeature: "FrenchBoxMay2015.jpg"
 date: 2015-05-22 20:15:00 -08:00
 ---
 
-<center><img src='/images/FrenchBox.jpg'></center>
+<center><img src='/images/FrenchBoxMay2015Box.jpg'></center>
 <p><b>The Box:</b> <a href="https://getfrenchbox.com">French Box</a></p>
 <p><b>The Cost:</b> $36 bi-monthly with Free Priority Mail shipping</p>
 <p><b>What's in the box:</b> A minimum of 5 French products in fashion, cosmetics, gourmet, accessories and other surprises. 
@@ -24,13 +24,19 @@ The products in the box are usually either produced, distributed or designed in 
 They can also be from a French brand, popular in France or part of the French culture.</p>
 <br>
 
-<p>The theme for their May 2015 relaunch box is <b>Cannes Film Festival</b>!</p>
+<center><img src='/images/FrenchBoxMay2015OpenBox.jpg'></center>
+<p>The theme for their May 2015 relaunch box is <b>Cannes Film Festival</b>.</p>
+<center><img src='/images/FrenchBoxMay2015OpenBox2.jpg'></center>
 
-<center><img src='/images/FrenchBoxMay2015Lip.jpg></center>
+<center><img src='/images/FrenchBoxMay2015Postcard1.jpg'></center>
+<center><img src='/images/FrenchBoxMay2015Postcard2.jpg'></center>
+<p><a href="https://getfrenchbox.com">French Box</a> always includes a custom postcard in each of their monthly boxes and since this month's theme is Cannes, it's only fitting that their quote is from Harry Winston.</p>
+
+<center><img src='/images/FrenchBoxMay2015Lip.jpg'></center>
 <a href="http://www.institutkariteparis.com/boutique_us/fiche_produit.cfm?ref=IK0209&type=54&code_lg=lg_us&num=211">Institut Karite Paris Lip Gloss in Passion</a>, Full Size 15ml > 12 Euros (around $13)
 <p>I always appreciate when subscription boxes include lip products. The Passion color is a bright popping pink, but it goes on pretty sheer with a slight hint of pink. This is truly a lip gloss though, so it has that bright shine, which I'm not too fond of. I prefer more matte. The texture is not sticky, so at least I'm happy with that.</p>
 
-<center><img src='/images/FrenchBoxMay2015Soap.jpg></center>
+<center><img src='/images/FrenchBoxMay2015Soap.jpg'></center>
 <a href="https://getfrenchbox.com/shop/fabco-2-perfumes-soap/">Fab & Co Soap in Honey Almond</a>, Full Size $8
 > The fragrances in FAB&CO soaps have been developed in Grasse, south of France, by well-known perfumers. Each soap combines 2 perfumes in an elegant and unique two colored shape. The scents have been carefully selected and associated to create a perfect combination.  
 Each soap is handmade by soap makers in provence in the respect of the tradition, craftsmanship and century old expertise. Enriched with organic shea butter and essential oils, our triple milled soaps will leave your skin with a luxurious and smooth feeling while lasting you longer.
@@ -38,8 +44,9 @@ Each soap is handmade by soap makers in provence in the respect of the tradition
 <p>This soap is HUGE, I love it! It smells amazing and after reading about their process in their soap production, it has me loving it even more. It's 100% organic with natural scents, so I feel safe in using this soap.</p>
 
 
-<center><img src='/images/FrenchBoxMay2015Cream.jpg></center>
-<a href="http://www.mariloubio.com/uk/soin_creme_nuit.html">Marilou Bio Creme Visage Nuit</a> <i>Night Cream</i>, Full Size 30ml - 4.95 Euros (around $5.5)
+<center><img src='/images/FrenchBoxMay2015Skincare.jpg'></center>
+
+<p><a href="http://www.mariloubio.com/uk/soin_creme_nuit.html">Marilou Bio Creme Visage Nuit</a> <i>Night Cream</i>, Full Size 30ml - 4.95 Euros (around $5.5)</p>
 
 >Nourishing night treatment. Night after night, your skin regains its suppleness 
 and balance. Brimming with plant oils, the texture of Marilou Bio Night Cream
@@ -47,23 +54,19 @@ ensures repairing action throughout the night.
 
 <p>I'm happy to discover that Marilou Bio is a French brand of organic cosmetics and they are also not tested on animals. It's strange how their full size is pretty small, but hey, it's travel friendly and I have plenty of travel makeup bags where this can fit in.</p>
 
-<center><img src='/images/FrenchBoxMay2015Scrub.jpg></center>
-<a href="http://www.amazon.com/Payot-Corps-Gommage-Amande-Pistachio/dp/B00JFYVZRO/ref=sr_1_1?s=beauty&ie=UTF8&qid=1432352534&sr=1-1&keywords=payot+gommage">Payot Gommage Amande</a> body scrub</i>, Travel size 25ml - $3
+<p><a href="http://www.amazon.com/Payot-Corps-Gommage-Amande-Pistachio/dp/B00JFYVZRO/ref=sr_1_1?s=beauty&ie=UTF8&qid=1432352534&sr=1-1&keywords=payot+gommage">Payot Gommage Amande</a> body scrub</i>, Travel size 25ml - $3</p>
 <p><a href="http://www.payot.com/KR/en/">Payot</a> doesn't sell their products directly so I based the price from Amazon which I found to be the cheapest.</p>
 <p>This scrub smells sweet and nutty, just as they described, a body scrub with pistachio and sweet almond extracts. I prefer more of a fresh scent for my bath and body products, but it's a good travel size so I'll toss it in my gym bag and I'm sure I'll make use of it.</p>
 
-<center><img src='/images/FrenchBoxMay2015Bookmark.jpg></center>
+<center><img src='/images/FrenchBoxMay2015Bookmark.jpg'></center>
 <a href="http://www.bookfriends.kr/src/main/indexpage.php">Book Friends</a> Golden Palm Tree 18K Gold Plated Bookmark, $2.7?
 <p>I'm not sure how this relates to France, but since the Golden Palm Tree is a symbol of Happiness and Riches, I can see the connection to their Cannes theme. Unfortunately I don't read physical books anymore thanks to my Kindle, so I will be passing this along to my mother.</p>
 
-<center><img src='/images/FrenchBoxMay2015Postcard.jpg></center>
-<p><a href="https://getfrenchbox.com">French Box</a> always includes a custom postcard in each of their monthly boxes and since this month's theme is Cannes, it's only fitting that their quote is from Harry Winston.</p>
-
-<center><img src='/images/FrenchBoxMay2015Postcard2.jpg></center>
+<center><img src='/images/FrenchBoxMay2015VintagePostcard.jpg'></center>
 <figcaption>A vintage postcard of Cote D'Azure</figcaption>
 <p>Since this postcard is vintage, I'm not sure what value to put so I'll leave it blank. I'm not sure yet how I feel about receiving this in my box. It is in line with their theme as the postcard shows the Cote D'Azur which is where Cannes is, so I'll give them that.</p>
 
-<center><img src='/images/FrenchBoxMay2015Keychain.jpg></center>
+<center><img src='/images/FrenchBoxMay2015Keychain.jpg'></center>
 <figcaption>Keychain with a 35mm film insert</figcaption>
 <p>This is another item where I can't put a price on it, so I'll leave it blank again.</p>
 <p>Each keychain has a 35mm film that was shown in French classrooms between the 1940s and 1960. You can learn more about the film you received by clicking <a href="http://getfrenchbox.com/35mm/">here. I received film number 36.</p>
