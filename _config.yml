@@ -71,6 +71,10 @@ paginate_path: "page:num"
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
