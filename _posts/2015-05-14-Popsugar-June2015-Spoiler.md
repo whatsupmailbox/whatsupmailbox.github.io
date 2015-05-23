@@ -13,7 +13,7 @@ type: photo
 imagefeature: "PopsugarBox.jpg"
 date: 2015-05-14 11:59:00 -08:00
 redirect_from: 
-  - /popsugar/Popsugar-June2015-Spoiler
+  - /popsugar/Popsugar-June2015-Spoiler/
 ---
 
 <CENTER><IMG SRC='/images/PopsugarBox.jpg'></CENTER>
