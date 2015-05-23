@@ -12,7 +12,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "FrenchBoxMay2015.jpg"
+imagefeature: "FrenchBoxMay2015Box.jpg"
 date: 2015-05-22 20:15:00 -08:00
 ---
 
