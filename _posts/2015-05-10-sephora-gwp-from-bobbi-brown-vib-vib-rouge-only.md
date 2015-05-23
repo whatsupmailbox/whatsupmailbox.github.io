@@ -12,6 +12,8 @@ description: "Long-wear makeup essentials"
 tags: [Sephora, Bobbi Brown, GWP, VIB, VIB Rouge]
 imagecredit: ""
 imagefeature: SephoraBobbiBrownGWPMay102015.png
+redirect_from: 
+  - /gwp/sephora-gwp-from-bobbi-brown-vib-vib-rouge-only/
 date: 2015-05-10 09:00:00 -08:00
 ---
 
