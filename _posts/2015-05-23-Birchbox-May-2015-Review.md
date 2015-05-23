@@ -22,7 +22,7 @@ date: 2015-05-23 11:27:39 -08:00
 <br>
 
 <DT>This month's curated box is Cupcakes and Cashmere <i>by Emily Schuman</i>.</DT>
-<center><img src='/images/BirchboxMay2015Collage.jpg'></center>
+<p><center><img src='/images/BirchboxMay2015Collage.jpg'></center></p>
 
 <H4>My products:</H4>
 <DL>
