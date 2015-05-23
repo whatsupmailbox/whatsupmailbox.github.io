@@ -11,6 +11,8 @@ published: true
 featured: false
 type: photo
 imagefeature: "FableticsFL2Announcement.png"
+redirect_from: 
+  - /subscription%20box%20reviews/Fabletics-FL2-Men-Announcement/
 date: 2015-05-12 11:48:39 -07:00
 ---
 ![Fabletics FL2 Announcement](/images/FableticsFL2Announcement.png)
