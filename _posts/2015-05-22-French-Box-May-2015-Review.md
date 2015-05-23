@@ -72,6 +72,6 @@ ensures repairing action throughout the night.
 
 <p><b>VERDICT:</b> This box was a miss for me as the only product I loved was the soap. The total value is around $32, not counting the keychain and vintage postcard. For a $36 subscription box, I expected more. I know they recently went through some restructuring and raised their price do to that, but this new box doesn't seem any different than what they did before which was unsatisfactory. I'm not sure I'll continue to subscribe or if I should give them one more chance. I guess I have a few weeks to decide.</p>
 
-<p><DD>Subscription to FrenchBox is on invitation only at this time, reserved for existing subscribers. Subscribers can register on <a href="https://getfrenchbox.com/subscription/">this page</a> (login required) to get their next box.</DD></p>
+<p><DT>Subscription to FrenchBox is on invitation only at this time, reserved for existing subscribers. Subscribers can register on <a href="https://getfrenchbox.com/subscription/">this page</a> (login required) to get their next box.</DT></p>
 
-<p><DD>If you're not a subscriber, sign up for the <a href="https://getfrenchbox.com/subscription/">waiting list</a> and they will let you know when the registration opens to the public.</DD></p>
+<p><DT>If you're not a subscriber, sign up for the <a href="https://getfrenchbox.com/subscription/">waiting list</a> and they will let you know when the registration opens to the public.</DT></p>
