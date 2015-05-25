@@ -9,7 +9,7 @@
     
     {% for post in site.posts %}
     <url>
-        <loc>{{ site.url }}{{ post.url | xml_escape | append:'/' | replace:'//','/' }}/</loc>
+        <loc>{{ site.url }}{{ post.url | xml_escape | append:'/' | replace:'//','/' }}</loc>
     </url>
     {% endfor %}
 </urlset>
