@@ -1,4 +1,6 @@
 ---
+sitemap:
+  exclude: 'yes'
 ---
 callback([
 {% for post in site.posts reversed | sort: title %}
