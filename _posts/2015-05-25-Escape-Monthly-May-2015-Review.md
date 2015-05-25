@@ -52,7 +52,7 @@ date: 2015-05-25 11:27:39 -08:00
 <DL>
 <DT>NAAWK - <a href="http://www.naawk.com/sunscreen/adventure-eco-pack-spf-30.html">Adventure Ecopack SPF 30 Sunscreen Pouch</a></DT>
 <DD>Full Size 2oz., $4.99</DD>
-<p>The first thing I look in sunscreens is their ingredients and since this sunscreen does not have oxybenzone listed, I'm happy I'll be using this! At first I thought this was some sort of milk in one of those reusable drink pouches (I actually have a few that’s why I thought it was one of these). But the front label revealed it to be sunscreen -I was amazed. This is such a unique product and packaging, I’ll surely be using this in my next beach or hiking trip.</p>
+<p>The first thing I look in sunscreens is their ingredients and since this sunscreen does not have oxybenzone listed, I'm happy I'll be using this! At first I thought this was some sort of juice in one of those reusable drink pouches (I actually have a few that’s why I thought it was one of these). But the front label revealed it to be sunscreen -I was amazed. This is such a unique product and packaging, I’ll surely be using this in my next beach or hiking trip.</p>
 </DL>
 <DL>
 <DT><a href="http://www.spiritgoat.com/proddetail.php?prod=aa-2cml">The Spirit Goat - Goat's Milk Lotion</a> in Bear Lake Raspberries</DT>
