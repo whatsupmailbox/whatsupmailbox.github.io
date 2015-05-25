@@ -27,15 +27,15 @@ date: 2015-05-25 11:27:39 -08:00
 
 <center><img src='/images/EscapeMonthlyMay2015Book.jpg'></center>
 <DL>
-<DT>Moon Travel Book - Montana & Wyoming</DT>
-<DD>Retail value $19.99</DD>
-<blockquote>Travel photographer don pitcher reveals the splendors of yellow- stone park and grand teton, from the sought-after vacation town of jackson and a world-class museum complex in cody to the gorgeous badlands topography of old-west dubois.</blockquote>
-<p>Escape Monthly always includes a Moon travel book in every box they send out. And since this month’s theme is Rocky Mountains, the book is about Montana & Wymoning (including Yellowstone, Grand Teton & Glacier National Park).</p>
+<DT>Collectors Addition Key Chain - Celebrating 100 years</DT>
+<DD>Made in the USA - $12.50</DD>
+<p>The keychain is stated as a collectors item since it’s made by hand to mark the 100th anniversary of the Rocky Mountains and is only made once. Because of that fact, I won’t argue on the stated retail value of this keychain, although it does seem inflated. It's not my favorite design, but I’ll happily accept another keychain to my collection.</p>
 </DL>
 <DL>
-<DT>Collectors Addition Key Chain</DT>
-<DD>Made in the USA - $12.50</DD>
-<p>The keychain is stated as a collectors item since it’s made by hand to mark the 100th anniversary of the Rocky Mountains and is only made once. Because of that fact, I won’t argue on the stated retail value of this keychain. Although not my favorite design, I’ll happily accept another keychain to my collection.</p>
+<DT>Moon Travel Book - Montana & Wyoming</DT>
+<DD>Retail value $15.72</DD>
+<blockquote>Freelance writer and editor Carter G. Walker introduces you to the best of Montana and Wyoming, from the towering pines of Montana’s Glacier Country to the art scene and high style of Jackson Hole and Cody. A longtime resident of Montana, Walker has plenty of unique trip ideas to offer, including a Seven-Day Glacier Road Trip, Native American History & Culture, and Small Town Rodeos: The Biggest Parties in the West. Whether you’re looking to see bison and elk in Yellowstone National Park or attend the Fourth of July Rodeo in Livingston, Moon Montana & Wyoming gives you the tools you need to create a more personal and memorable experience.</blockquote>
+<p>Escape Monthly always includes a Moon travel book in every box they send out. And since this month’s theme is Rocky Mountains, the book is about Montana & Wymoning (including Yellowstone, Grand Teton & Glacier National Park).</p>
 </DL>
 <center><img src='/images/EscapeMonthlyMay2015Bath.jpg'></center>
 <DL>
@@ -80,4 +80,4 @@ date: 2015-05-25 11:27:39 -08:00
 <DD>12 fl. oz., $3</DD>
 <p>This is an all natural soda company using Gluten Free, non GMO, Vegan, and Kosher ingredients. Since I do like Root Beer, I was excited to try this. The packaging looks cool and vintage, and the taste was great as well. I wonder if any of my local stores carry this brand, I will definitely be on the lookout next time I go for a grocery run.</p> 
 
-<p><b>VERDICT:</b> I was actually expecting less from this box being that the theme was The Rocky Mountains. I never expected such a great variety of food, bath products and souvenir. I would say that this is my favorite Escape Monthly box I’ve received so far. The total value added up to $ and I think that’s pretty good for a travel subscription box, especially since I only paid $40 for this. This box has inspired me to visit Montana and go hiking soon!</p>
+<p><b>VERDICT:</b> I was actually expecting less from this box being that the theme was The Rocky Mountains. I never expected such a great variety of food, bath products and souvenir. I would say that this is my favorite Escape Monthly box I’ve received so far. I found that some of the prices were inflated when calculating the actual item versus full size as well as comparing them on Amazon, so I did my own values on some of them. The total value added up to $57.75 and I think that’s pretty good for a travel subscription box, especially since it's over the $40 cost of the subscription. This box has inspired me to visit Montana and go hiking soon!</p>
