@@ -33,9 +33,9 @@ date: 2015-05-25 11:27:39 -08:00
 </DL>
 <DL>
 <DT>Moon Travel Book - Montana & Wyoming</DT>
-<DD>Retail value $15.72</DD>
+<DD>Retail Value $15.72</DD>
 <blockquote>Freelance writer and editor Carter G. Walker introduces you to the best of Montana and Wyoming, from the towering pines of Montana’s Glacier Country to the art scene and high style of Jackson Hole and Cody. A longtime resident of Montana, Walker has plenty of unique trip ideas to offer, including a Seven-Day Glacier Road Trip, Native American History & Culture, and Small Town Rodeos: The Biggest Parties in the West. Whether you’re looking to see bison and elk in Yellowstone National Park or attend the Fourth of July Rodeo in Livingston, Moon Montana & Wyoming gives you the tools you need to create a more personal and memorable experience.</blockquote>
-<p>Escape Monthly always includes a Moon travel book in every box they send out. And since this month’s theme is Rocky Mountains, the book is about Montana & Wymoning (including Yellowstone, Grand Teton & Glacier National Park).</p>
+<p>Escape Monthly always includes a Moon travel book in every box they send out. And since this month’s theme is The Rocky Mountains, the book is about Montana & Wymoning (including Yellowstone, Grand Teton & Glacier National Park).</p>
 </DL>
 <center><img src='/images/EscapeMonthlyMay2015Bath.jpg'></center>
 <DL>
