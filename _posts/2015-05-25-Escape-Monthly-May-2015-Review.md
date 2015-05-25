@@ -28,7 +28,7 @@ date: 2015-05-25 11:27:39 -08:00
 <center><img src='/images/EscapeMonthlyMay2015Book.jpg'></center>
 <DL>
 <DT>Collectors Addition Key Chain - Celebrating 100 years</DT>
-<DD>Made in the USA - $12.50</DD>
+<DD>Retail Value $12.50</DD>
 <p>The keychain is stated as a collectors item since it’s made by hand to mark the 100th anniversary of the Rocky Mountains and is only made once. Because of that fact, I won’t argue on the stated retail value of this keychain, although it does seem inflated. It's not my favorite design, but I’ll happily accept another keychain to my collection.</p>
 </DL>
 <DL>
