@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -80,4 +80,4 @@ date: 2015-05-25 11:27:39 -08:00
 <DD>12 fl. oz., $3</DD>
 <p>This is an all natural soda company using Gluten Free, non GMO, Vegan, and Kosher ingredients. Since I do like Root Beer, I was excited to try this. The packaging looks cool and vintage, and the taste was great as well. I wonder if any of my local stores carry this brand, I will definitely be on the lookout next time I go for a grocery run.</p> 
 
-<p><b>VERDICT:</b> I was actually expecting less from this box being that the theme was The Rocky Mountains. I never expected such a great variety of food, bath products and souvenir. I would say that this is my favorite Escape Monthly box I’ve received so far. I found that some of the prices were inflated when calculating the actual item versus full size as well as comparing them on Amazon, so I did my own values on some of them. The total value added up to $57.75 and I think that’s pretty good for a travel subscription box, especially since it's over the $40 cost of the subscription. This box has inspired me to visit Montana and go hiking soon!</p>
+<p><b>VERDICT:</b> I was actually expecting less from this box being that the theme was The Rocky Mountains. I never expected such a great variety of food, bath products and souvenir. I would say that this is my favorite Escape Monthly box I’ve received so far. I found that some of the prices were inflated though when calculating the actual item versus full size as well as comparing them on Amazon, so I did my own values on some of them. The total value added up to $57.75 and I think that’s pretty good for a travel subscription box, especially since it's over the $40 price of the subscription. This box has inspired me to visit Montana and go hiking soon!</p>
