@@ -46,11 +46,11 @@ date: 2015-05-25 11:27:39 -08:00
 <DL>
 <DT><a href="http://www.shopsalus.com/Bath-Bombs-s/27.htm">Salus Bath Bomb</a> - Mountain Mint</DT>
 <DD>Full Size 2 oz., $2.95</DD>
-<p>This scent is so refreshing and I could actually smell it as soon as I opened the box. It's about the same size as a golf ball. It not made with any coloring so it won't taint your tub, and it also includes great ingredients such as Organic Sunflower Oil, Cocoa Butter and Organic Shea Butter. I can’t wait to use it!</p>
+<p>This scent is so refreshing and I could actually smell it as soon as I opened the box. It's about the same size as a golf ball. It's not made with any coloring so it won't taint your tub, and it also includes great ingredients such as Organic Sunflower Oil, Cocoa Butter and Organic Shea Butter. I can’t wait to use it!</p>
 </DL>
 <center><img src='/images/EscapeMonthlyMay2015Skincare.jpg'></center>
 <DL>
-<DT>NAAWK - Adventure Ecopack SPF 30 Sunscreen Pouch</DT>
+<DT>NAAWK - <a href="http://www.naawk.com/sunscreen/adventure-eco-pack-spf-30.html">Adventure Ecopack SPF 30 Sunscreen Pouch</a></DT>
 <DD>Full Size 2oz., $4.99</DD>
 <p>The first thing I look in sunscreens is their ingredients and since this sunscreen does not have oxybenzone listed, I'm happy I'll be using this! At first I thought this was some sort of milk in one of those reusable drink pouches (I actually have a few that’s why I thought it was one of these). But the front label revealed it to be sunscreen -I was amazed. This is such a unique product and packaging, I’ll surely be using this in my next beach or hiking trip.</p>
 </DL>
