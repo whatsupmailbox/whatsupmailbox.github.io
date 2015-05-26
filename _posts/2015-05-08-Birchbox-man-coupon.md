@@ -3,7 +3,7 @@ layout: post
 title: "Birchbox Man Coupon 25% Off"
 description: "Men's lifestyle and skincare subscription"
 headline: "Birchbox Man Coupon 25% Off"
-tags: [Birchbox Man, Subscription, Box, Men, Lifestyle, Skincare]
+tags: [Birchbox Man, Subscription, Coupons]
 comments: true
 mathjax: null
 published: true
