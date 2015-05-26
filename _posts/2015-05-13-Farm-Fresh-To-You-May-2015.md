@@ -3,7 +3,7 @@ layout: post
 title: "Farm Fresh To You May 2015 Review + $10 coupon"
 description: "fruit only box"
 headline: "Farm Fresh To You May 2015 Review + $10 coupon"
-tags: [Farm Fresh To You, Organic, Fruits, Subscription]
+tags: [Farm Fresh To You, Subscriptions, Reviews]
 comments: true
 mathjax: null
 published: true
@@ -16,9 +16,9 @@ imagefeature: "FarmFreshToYouFruits.jpg"
 date: 2015-05-13 20:15:39 -08:00
 ---
 ![Farm Fresh To You Logo](/images/FarmFreshToYouLogo.jpg)
-<p><b>Subscription:</b> <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a></p>
+<p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=688636&u=1115177&m=57183&urllink=&afftrack=">Farm Fresh To You</a></p>
 <p><b>Cost:</b> Price depends on various options and sizes, I chose the Fruits only Regular size which is $33/month</p>
-<p><b>Coupon:</b> Use coupon code <b>LZRE5664</b> to get $10 off your first box</p>
+<p><b>Coupon:</b> <a href="http://www.shareasale.com/r.cfm?b=702552&u=1115177&m=57183&urllink=&afftrack=">Get $10 off your first box of organic produce delivered right to your door! Promo Code: SHAN2439</a>
 
 <b>Here are their options:</b>
 
