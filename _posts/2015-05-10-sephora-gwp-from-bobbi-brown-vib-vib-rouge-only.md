@@ -9,7 +9,7 @@ categories:
   - Coupons
 type: photo
 description: "Long-wear makeup essentials"
-tags: [Sephora, Bobbi Brown, GWP, VIB, VIB Rouge]
+tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraBobbiBrownGWPMay102015.png
 redirect_from: 
