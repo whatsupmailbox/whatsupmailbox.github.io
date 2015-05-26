@@ -3,7 +3,7 @@ layout: post
 title: "Cover FX Contour Kit Review"
 description: ""
 headline: "Cover FX Contour Kit Review"
-tags: [Cover FX, Contour Kit, Contouring, Makeup, Sephora]
+tags: [Sephora, Products]
 comments: true
 mathjax: null
 published: true
