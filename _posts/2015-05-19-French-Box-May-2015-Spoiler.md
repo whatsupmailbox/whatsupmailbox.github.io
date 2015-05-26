@@ -4,7 +4,7 @@ title: "French Box May 2015 Sneak Peek!"
 description: ""
 headline: "French Box May 2015 Sneak Peek!"
 category: Subscriptions
-tags: [French Box, Subscription, Box, Spoiler]
+tags: [French Box, Subscriptions]
 comments: true
 mathjax: null
 published: true
