@@ -3,7 +3,7 @@ layout: post
 title: "Julep Maven - Build Your Own Spring Gift for $19.99"
 description: ""
 headline: "Julep Maven - Build Your Own Spring Gift for $19.99"
-tags: [Julep, Maven, Coupon, Subscription, Box, Nail Polish]
+tags: [Julep Maven, Coupons, Subscriptions]
 comments: true
 mathjax: null
 published: true
