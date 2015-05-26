@@ -6,7 +6,7 @@ headline: "Fabletics FL2 for Men Now Available!"
 categories: 
     - Subscriptions
     - Coupons
-tags: [Fabletics, FL2, Subscription, Box, Men, Sportswear]
+tags: [Fabletics FL2, Subscriptions]
 comments: true
 mathjax: null
 published: true
