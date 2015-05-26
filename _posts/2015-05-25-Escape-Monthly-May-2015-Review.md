@@ -11,7 +11,7 @@ type: photo
 imagefeature: EscapeMonthlyMay2015Collage.jpg
 headline: Escape Monthly May 2015 Review!
 description: "Destination: The Rocky Mountains"
-tags: [Escape Monthly, Subscription, Review, May 2015]
+tags: [Escape Monthly, Subscriptions, Reviews, May 2015]
 date: 2015-05-25 11:27:39 -08:00
 ---
 
