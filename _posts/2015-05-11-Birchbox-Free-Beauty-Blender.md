@@ -3,7 +3,7 @@ layout: post
 title: "Birchbox Coupon - Free BeautyBlender with Subscription"
 description: ""
 headline: "Birchbox Coupon - Free BeautyBlender with Subscription"
-tags: [Birchbox, Coupon, Subscription, Women, Beauty Blender]
+tags: [Birchbox, Subscriptions, Coupons]
 comments: true
 mathjax: null
 published: true
