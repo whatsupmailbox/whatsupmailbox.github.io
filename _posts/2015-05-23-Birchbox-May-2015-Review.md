@@ -10,7 +10,7 @@ comments: true
 type: photo
 imagefeature: BirchboxMay2015Box.jpg
 headline: Birchbox May 2015 Review + Coupon!
-tags: [Birchbox, Subscription, Review, May 2015]
+tags: [Birchbox, Subscriptions, Reviews, May 2015]
 date: 2015-05-23 11:27:39 -08:00
 ---
 
