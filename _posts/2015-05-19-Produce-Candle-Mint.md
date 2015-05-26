@@ -10,7 +10,7 @@ categories:
   - Reviews
 type: photo
 description: "Mint Scent"
-tags: [Produce Candles, Review, Mint, Popsugar, Must Have, Soy wax, All natural]
+tags: [Products, Reviews]
 imagecredit: ""
 imagefeature: ProduceCandlesMint.jpg
 date: 2015-05-19 21:08:39 -08:00
