@@ -6,7 +6,7 @@ headline: "Luxor Box May 2015 Review!"
 categories: 
     - Subscriptions
     - Reviews
-tags: [Luxor Box, Subscription, Lifestyle, Red Carpet Kolour, Mariposa, Lisa Stewart, Chambre De Sucre, MSC SkinCare]
+tags: [Luxor Box, Subscriptions, Reviews, May 2015]
 comments: true
 mathjax: null
 published: true
