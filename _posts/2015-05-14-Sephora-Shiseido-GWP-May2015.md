@@ -8,7 +8,7 @@ headline: "Sephora GWP from Shiseido"
 category: Coupons
 type: photo
 description: "Free for Beauty Insiders"
-tags: [Sephora, Bobbi Brown, GWP, VIB, VIB Rouge, Makeup]
+tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraShiseidoGWP.png
 date: 2015-05-14 10:38:39 -08:00
