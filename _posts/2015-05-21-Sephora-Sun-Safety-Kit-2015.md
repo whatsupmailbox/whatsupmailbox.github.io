@@ -8,7 +8,7 @@ headline: "Sephora Sun Safety Kit is here!"
 category: Products
 type: photo
 description: "16-piece set and a pretty pink travel bag"
-tags: [Sephora, GWP, Gift with purchase, Fresh, Sugar, Skincare, Makeup]
+tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraSunSafetyKit2015.png
 date: 2015-05-21 13:15:39 -08:00
