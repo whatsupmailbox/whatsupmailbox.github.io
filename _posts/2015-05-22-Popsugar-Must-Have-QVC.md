@@ -3,7 +3,7 @@ layout: post
 title: "Popsugar Must Have teams up with QVC for a special box!"
 description: ""
 headline: "Popsugar Must Have teams up with QVC for a special box!"
-tags: [Popsugar, Must Have, QVC, Box]
+tags: [Popsugar Must Have, Subscriptions]
 comments: true
 mathjax: null
 published: true
