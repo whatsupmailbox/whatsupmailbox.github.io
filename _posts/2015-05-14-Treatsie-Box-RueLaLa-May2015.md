@@ -3,7 +3,7 @@ layout: post
 title: "Treatsie Box on sale at Rue La La"
 description: "A box to indulge your sweet tooth"
 headline: "Treatsie Box on sale at Rue La La"
-tags: [Treatsie, Subscription, RueLaLa, Sweets, Snacks]
+tags: [Treatsie, Subscriptions, RueLaLa]
 comments: true
 mathjax: null
 published: true
