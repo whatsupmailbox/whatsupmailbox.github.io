@@ -4,7 +4,7 @@ title: "FabFitFun Exclusive - Get a FREE ALOHA Superfood Smoothie Kit!"
 description: "Value of $19.90"
 headline: "FabFitFun Exclusive - Get a FREE ALOHA Superfood Smoothie Kit!"
 category: Coupons
-tags: [FabFitFun, Aloha, Subscription box, Women, Lifestyle, Smoothie]
+tags: [FabFitFun, Subscriptions, Coupons]
 comments: true
 mathjax: null
 published: true
