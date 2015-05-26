@@ -8,7 +8,7 @@ type: photo
 categories: 
   - Products
 headline: "Frais Hand Sanitizer Review - Small & Pocket Size"
-tags: [Products, Reviews]
+tags: [Products]
 imagefeature: Frais_hand_sanitizer_main.jpg
 description: The essentials
 ---
