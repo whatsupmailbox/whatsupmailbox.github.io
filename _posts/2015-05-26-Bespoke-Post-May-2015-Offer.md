@@ -21,4 +21,4 @@ date: 2015-05-26 11:27:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/5e44e4d3"><b>WEEKENDWARRIOR</b></a> to get a free kit valued at $50+ with your first box!</p>
 <br>
 
-<DT>This offer is good until <i>May 27th</i>.</DT>
+<DT>Note: This offer is good until <i>May 27th</i>.</DT>
