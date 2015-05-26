@@ -3,7 +3,7 @@ layout: post
 title: "Popsugar Must Have May 2015 Review + Coupon!"
 description: "Popsugar Must Have May 2015 Review + Coupon!"
 headline: "Popsugar Must Have May 2015 Review + Coupon!"
-tags: [Popsugar, Must Have, Subscription box, Lifestyle, Sisters of Los Angeles, Kitsch, Middle Kingdom, Taffy, Sage & Row]
+tags: [Popsugar Must Have, Subscriptions, Reviews]
 comments: true
 published: true
 featured: false
