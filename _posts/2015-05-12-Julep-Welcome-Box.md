@@ -4,7 +4,7 @@ title: "Julep Maven Welcome Box 50% Off"
 description: "Free shipping"
 headline: "Julep Maven Welcome Box 50% Off"
 category: Subscriptions
-tags: [Julep, Maven, Coupon, Subscription, Women, Nail Polish, Lipstick]
+tags: [Julep Maven, Coupons, Subscriptions]
 comments: true
 mathjax: null
 published: true
