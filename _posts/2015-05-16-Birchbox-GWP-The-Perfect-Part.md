@@ -3,7 +3,7 @@ layout: post
 title: "Birchbox Gift With Purchase - The Perfect Part"
 description: ""
 headline: "Birchbox Gift With Purchase - The Perfect Part"
-tags: [Birchbox Man, GWP, Coupon, Subscription, The Perfect Part]
+tags: [Birchbox Man, Coupons, Subscriptions]
 comments: true
 mathjax: null
 published: true
