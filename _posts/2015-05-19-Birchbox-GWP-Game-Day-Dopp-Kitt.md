@@ -3,7 +3,7 @@ layout: post
 title: "Birchbox Man Gift With Purchase - Game Day Dopp Kit"
 description: "a birchwood tie bar"
 headline: "Birchbox Man Gift With Purchase - Game Day Dopp Kit"
-tags: [Birchbox Man, Coupon, Subscription, Box, Game Day, Dopp kit]
+tags: [Birchbox Man, Coupons, Subscriptions]
 comments: true
 mathjax: null
 published: true
