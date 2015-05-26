@@ -3,7 +3,7 @@ layout: post
 title: "Candy Club May 2015 Review!"
 description: ""
 headline: "Candy Club May 2015 Review!"
-tags: [Candy Club, Subscription, Box, Candies, Sweet, Sour]
+tags: [Candy Club, Subscriptions, Reviews]
 comments: true
 published: true
 featured: false
