@@ -4,7 +4,7 @@ title: "Fabletics will be launching FL2 Subscription for Men!"
 description: ""
 headline: "Fabletics will be launching FL2 Subscription for Men!"
 category: Subscriptions
-tags: [Fabletics, FL2, Subscription, Men, Sportswear]
+tags: [Fabletics FL2, Subscriptions]
 comments: true
 mathjax: null
 published: true
