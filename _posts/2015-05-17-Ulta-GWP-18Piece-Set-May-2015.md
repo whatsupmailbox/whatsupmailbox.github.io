@@ -4,7 +4,7 @@ title: "Ulta Gift With Purchase - Free Clutch filled with 18 Samples!"
 description: ""
 headline: "Ulta Gift With Purchase - Free Clutch filled with 18 Samples!"
 category: Coupons
-tags: [Ulta, Gift With Purchase, GWP, Makeup, Clutch, Samples]
+tags: [Ulta]
 comments: true
 mathjax: null
 published: true
