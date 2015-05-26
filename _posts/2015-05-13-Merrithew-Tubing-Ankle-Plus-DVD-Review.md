@@ -3,7 +3,7 @@ layout: post
 title: "Merrithew Tubing Ankle + DVD Review"
 description: ""
 headline: "Merrithew Tubing Ankle + DVD Review"
-tags: [Merrithew, Tubing, Ankle, DVD, Sports, Health]
+tags: [Products, Reviews]
 comments: true
 mathjax: null
 published: true
