@@ -4,7 +4,7 @@ title: "Conscious Box on sale at Rue La La"
 description: ""
 headline: "Conscious Box on sale at Rue La La"
 category: Subscriptions
-tags: [Conscious Box, Subscription, RueLaLa, Health, Food]
+tags: [Conscious Box, Subscriptions, RueLaLa]
 comments: true
 mathjax: null
 published: true
