@@ -8,7 +8,7 @@ headline: "Sephora GWP - Choose 3 Jet Set Essentials!"
 category: Coupons
 type: photo
 description: "Long-wear makeup essentials"
-tags: [Sephora, GWP, Gift with purchase, Fresh, Sugar, Skincare, Makeup]
+tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraGWPJetSetEssentials.png
 date: 2015-05-19 09:18:39 -08:00
