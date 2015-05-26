@@ -4,7 +4,7 @@ title: "Sage and Row 20% Coupon by Popsugar Must Have!"
 description: ""
 headline: "Sage and Row 20% Coupon by Popsugar Must Have!"
 category: Coupons
-tags: [Popsugar, Must Have, Subscription, Box, Coupon, Shaving, Cream]
+tags: [Popsugar Must Have, Subscriptions, Coupons]
 comments: true
 mathjax: null
 published: true
