@@ -6,7 +6,7 @@ headline: "French Box May 2015 Review!"
 categories: 
     - Subscriptions
     - Reviews
-tags: [French Box, Subscription, Cannes, Review, May 2015]
+tags: [French Box, Subscriptions, Reviews, May 2015]
 comments: true
 mathjax: null
 published: true
