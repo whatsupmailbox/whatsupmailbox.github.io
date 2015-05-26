@@ -10,7 +10,7 @@ categories:
   - Reviews
 type: photo
 description: ""
-tags: [Hello Fresh, Subscription, Review, May 2015]
+tags: [Hello Fresh, Subscriptions, Reviews, May 2015]
 imagecredit: ""
 imagefeature: HelloFreshMay2015Collage.jpg
 date: 2015-05-21 17:08:39 -08:00
