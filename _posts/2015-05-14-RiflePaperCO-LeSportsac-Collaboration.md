@@ -4,7 +4,7 @@ title: "Rifle Paper Co. x LeSportsac Collection Now Available!"
 description: ""
 headline: "Rifle Paper Co. x LeSportsac Collection Collaboration!"
 category: Products
-tags: [Rifle Paper Co., LeSportsac, Bags, Collaboration]
+tags: [Products, Reviews]
 comments: true
 mathjax: null
 published: true
