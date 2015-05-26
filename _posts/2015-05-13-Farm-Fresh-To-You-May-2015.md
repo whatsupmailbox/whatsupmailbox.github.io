@@ -18,14 +18,14 @@ date: 2015-05-13 20:15:39 -08:00
 ![Farm Fresh To You Logo](/images/FarmFreshToYouLogo.jpg)
 <p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=688636&u=1115177&m=57183&urllink=&afftrack=">Farm Fresh To You</a></p>
 <p><b>Cost:</b> Price depends on various options and sizes, I chose the Fruits only Regular size which is $33/month</p>
-<p><b>Coupon:</b> <a href="http://www.shareasale.com/r.cfm?b=702552&u=1115177&m=57183&urllink=&afftrack=">Get $10 off your first box of organic produce delivered right to your door! Promo Code: SHAN2439</a>
+<p><b>Coupon:</b> <a href="http://www.shareasale.com/r.cfm?b=702552&u=1115177&m=57183&urllink=&afftrack=">Get $10 off your first box of organic produce delivered right to your door! Promo Code: SHAN2439</a></p>
 
 <b>Here are their options:</b>
 
 ![Farm Fresh To You Options](/images/FarmFreshToYouOptions.png)
 ![Farm Fresh To You Options2](/images/FarmFreshToYouOptions2.png)
 
-<p>I actually purchased a <a href="https://www.farmfreshtoyou.com">Farm Fresh To You</a> deal on <a href="http://www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago for $16 and finally got the chance to redeem it. $16 will get you one regular-sized box of organic produce delivery.</p>
+<p>I actually purchased a <a href="http://www.shareasale.com/r.cfm?b=688636&u=1115177&m=57183&urllink=&afftrack=">Farm Fresh To You</a> deal on <a href="http://www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a> around 2 weeks ago for $16 and finally got the chance to redeem it. $16 will get you one regular-sized box of organic produce delivery.</p>
 
 <p>If you want to take advantage of the deal, go to<a href="http://www.livingsocial.com/deals/1439040?rpi=191165374&rui=28043398"> Living Social</a>, it's still going on for another 3 weeks. *Note: Membership will auto-renew after your purchased period. You can cancel anytime after your initial delivery.</p>
 
