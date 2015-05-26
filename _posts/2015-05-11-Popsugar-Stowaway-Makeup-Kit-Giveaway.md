@@ -4,7 +4,7 @@ title: "Popsugar Free Stowaway Cosmetics Kit for 10 Lucky June Subscribers!"
 description: ""
 headline: "Popsugar Free Stowaway Cosmetics Kit for 10 Lucky June Subscribers!"
 category: Subscriptions
-tags: [Popsugar, Must Have, Stowaway Cosmetics, Sweetpstakes, Subscription, Box, Women, Lifestyle]
+tags: [Popsugar Must Have]
 comments: true
 mathjax: null
 published: true
