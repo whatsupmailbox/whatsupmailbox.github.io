@@ -17,10 +17,10 @@ Product: [Beekman 1802 Orange Fudge Sauce](http://www.littlelacebox.com/products
 
 Price: $12.99
 
-So I received this fudge sauce in my February [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM) and fell chocolaty in love that I just had to try the Orange flavor. I'm glad I did. I've always loved the combo of orange and chocolate, so I knew it was love at first sight.
+So I received this fudge sauce in my February [Little Lace Box](http://littlelacebox.com?rfsn=93842.4b16b) and fell chocolaty in love that I just had to try the Orange flavor. I'm glad I did. I've always loved the combo of orange and chocolate, so I knew it was love at first sight.
 
 ![BeekmanOrangeFudgeBox.jpg](/images/BeekmanOrangeFudgeBox.jpg)
-The box it came in from [Little Lace Box](http://r.sloyalty.com/r/ue3kAv4uhyMM).  
+The box it came in from [Little Lace Box](http://littlelacebox.com?rfsn=93842.4b16b).  
 <br>
 
 ![BeekmanOrangeFudgeOpenBox.jpg](/images/BeekmanOrangeFudgeOpenBox.jpg)
