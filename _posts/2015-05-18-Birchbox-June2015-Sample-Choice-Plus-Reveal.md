@@ -9,6 +9,8 @@ type: photo
 imagefeature: BirchboxJune2015SampleChoiceReveal.png
 headline: Birchbox June 2015 Sample Choice & Birchbox Plus Reveal + 50% Off Coupon!
 tags: [Birchbox, Subscriptions]
+redirect_from: 
+  - /birchbox/Birchbox-June2015-Sample-Choice-Plus-Reveal/
 date: 2015-05-18 17:02:39 -08:00
 ---
 
