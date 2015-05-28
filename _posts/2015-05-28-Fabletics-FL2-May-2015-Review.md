@@ -8,7 +8,7 @@ title: Fabletics FL2 for Men May 2015 Review + 50% Off!
 featured: false
 comments: true
 type: photo
-imagefeature: FL2May2015Outfit.jpg
+imagefeature: FL2May2015Items.jpg
 headline: Fabletics FL2 for Men May 2015 Review + 50% off!
 description: ""
 tags: [FL2, Subscriptions, Reviews, May 2015]
