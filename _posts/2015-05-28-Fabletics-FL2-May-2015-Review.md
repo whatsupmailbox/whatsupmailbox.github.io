@@ -1,18 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Fabletics FL2 for Men May 2015 Review!
+title: Fabletics FL2 for Men May 2015 Review + 50% Off!
 featured: false
 comments: true
 type: photo
 imagefeature: FL2May2015Outfit.jpg
-headline: Fabletics FL2 for Men May 2015 Review!
+headline: Fabletics FL2 for Men May 2015 Review + 50% off!
 description: ""
 tags: [FL2, Subscriptions, Reviews, May 2015]
-date: 2015-05-28 12:27:39 -08:00
+date: 2015-05-28 08:27:39 -08:00
 ---
 
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics FL2 for Men</a></p>
