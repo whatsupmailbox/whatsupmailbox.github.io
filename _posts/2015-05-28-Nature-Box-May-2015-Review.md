@@ -8,7 +8,7 @@ title: Nature Box Free Trial Box Offer and Review
 featured: false
 comments: true
 type: photo
-imagefeature: EscapeMonthlyMay2015Collage.jpg
+imagefeature: NatureBoxMay2015Box.jpg
 headline: Nature Box Free Trial Box Offer and Review
 description: ""
 tags: [Nature Box, Subscriptions, Reviews, May 2015]
