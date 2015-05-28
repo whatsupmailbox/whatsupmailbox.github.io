@@ -15,7 +15,7 @@ tags: [FL2, Subscriptions, Reviews, May 2015]
 date: 2015-05-28 08:27:39 -08:00
 ---
 
-<p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics FL2 for Men</a></p>
+<p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">FL2 for Men</a></p>
 <p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive outfits (2 or 3-piece) for your workout that you can choose and customize monthly</p>
 <p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a sports outfit!</p>
