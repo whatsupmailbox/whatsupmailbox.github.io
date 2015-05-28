@@ -25,7 +25,7 @@ date: 2015-05-28 12:27:39 -08:00
 <br>
 
 <DT>My husband chose the <i>Batona</i> outfit this month.</DT>
-<p><center><img src='/images/FL2May2015Batona.jpg'></center></p>
+<p><center><img src='/images/FL2May2015Batona.png'></center></p>
 
 <p>Packages came in their typical white plastic bag, exactly like the women's Fabletics.
 <center><img src='/images/FL2May2015Packaging.jpg'></center>
