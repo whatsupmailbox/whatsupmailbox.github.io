@@ -21,7 +21,7 @@ date: 2015-05-30 11:00:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>ANCHORS15</b></a> to get the “Anchors Aweigh” box — packed with nautical-inspired wares (includes a bracelet!) — as your first delivery.</p>
 <br>
 
-<DT>My husband chose <i>Happy Socks</i> for this month's Sample Choice.</DT>
+<DT>My husband chose <DT>Happy Socks</DT> for this month's Sample Choice.</DT>
 <i>You can see what other items they offered for June's sample choice <a href="http://whatsupmailbox.com/subscriptions/birchbox-man-june-2015-sample-choice-revealed-power-play-choices/">here</a></i>
 
 <p><center><img src='/images/BirchboxManJune2015Items.jpg'></center></p>
