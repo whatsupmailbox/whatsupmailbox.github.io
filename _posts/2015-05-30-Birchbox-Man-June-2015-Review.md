@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -33,7 +33,7 @@ date: 2015-05-30 11:00:39 -08:00
 <p>The size was big for a sample! This was perfect for my husband since we live in California and the heat can sometimes get to his body. It also has a tingle formula so somewhat like a cooling effect when you put it on, the bottle even says "air conditioning for the soul"!</p>
 </DL>
 <DL>
-<DT><a href="http://us.davines.com/momo-shampoo/d/1153C675?mkwid=sI2hOG0h5&pcrid=64706390677&pkw=davines%20momo%20shampoo&pmt=e&pdv=c&gclid=Cj0KEQjwv6WrBRD4gbngqe7mosYBEiQAIB5oTBr2HuPxb4LFUAiucdN-hiwxNkyjYTb947W27v9GWVcaAjYr8P8HAQ">Davines - Momo Shampoo</a></DT>
+<DT>Davines - Momo Shampoo</DT>
 <DD>Travel size 75 ml / 2.5 fl.oz., $7.50</DD>
 <p>Another item that my husband loved! Plus it's quite a substantial size again for a sample, so it'll be perfect for traveling and can last my husband for 2 weeks if needed. Their ingredients are safe and I also liked the fact that the company donates 1% of all purchases to "1% For the Planet" to support environmental charities.</p>
 </DL>
