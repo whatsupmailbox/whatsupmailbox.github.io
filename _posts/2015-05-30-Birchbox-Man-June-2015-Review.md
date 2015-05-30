@@ -17,12 +17,13 @@ date: 2015-05-30 11:00:39 -08:00
 <center><img src='/images/BirchboxManJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
 <p><b>Cost:</b> $20 / month (taxes applicable to subscribers in CA)</p>
-<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>TATIOFFER</b></a> to get your first box for only $1!</p>
+<p><b>What's in the box:</b> You'll receive 3-4 grooming samples plus a full-size product like a gadget, bar tool, or stylish accessory.</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>ANCHORS15</b></a> to get the “Anchors Aweigh” box — packed with nautical-inspired wares (includes a bracelet!) — as your first delivery.</p>
 <br>
 
 <DT>My husband chose the <i>Happy Socks</i> for this month's Sample Choice.</DT>
-<i>You can see what other items they offered for this month's sample choice <a href="">here</a></i>
+<i>You can see what other items they offered for June's sample choice <a href="http://whatsupmailbox.com/subscriptions/birchbox-man-june-2015-sample-choice-revealed-power-play-choices/">here</a></i>
+
 <p><center><img src='/images/BirchboxManJune2015Items.jpg'></center></p>
 
 <H4>The products:</H4>
@@ -54,4 +55,4 @@ date: 2015-05-30 11:00:39 -08:00
 
 <p><b>VERDICT:</b> This box was amazing and absolutely fit my husband's profile. The total value came up to $38.50 not including the bonus item. My husband will absolutely use every single item in this box and he says this was his favorite box from <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a> so far!</p>
 
-<p>Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the June box, and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>TATIOFFER</b></a> to get your first box for only $1! Note: You must be subscribed by May 24th to participate in the June Sample Choice.</p>
+<p>Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>ANCHORS15</b></a> to get the “Anchors Aweigh” box as your first delivery!</p>
