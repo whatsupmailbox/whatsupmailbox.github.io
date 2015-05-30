@@ -16,7 +16,7 @@ date: 2015-05-30 11:00:39 -08:00
 
 <center><img src='/images/BirchboxManJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
-<p><b>Cost:</b> $20 / month (taxes applicable to subscribers in CA)</p>
+<p><b>Cost:</b> $20 / month with Free Shipping (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> You'll receive 3-4 grooming samples plus a full-size product like a gadget, bar tool, or stylish accessory.</p>
 <p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>ANCHORS15</b></a> to get the “Anchors Aweigh” box — packed with nautical-inspired wares (includes a bracelet!) — as your first delivery.</p>
 <br>
