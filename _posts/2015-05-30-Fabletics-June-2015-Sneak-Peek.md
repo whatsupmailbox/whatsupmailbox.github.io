@@ -27,11 +27,13 @@ date: 2015-05-30 20:17:39 -08:00
 <DT>White Water Outfit</DT>
 </DL>
 
-<p>I think both outfits look great and will be perfect for summer. I'm still debating which one I like better. I haven't ordered shorts from them before so I might get that, but the capri has a cool summer design that too good to pass. Decisions decisions...</p>
+<p>I think both outfits look great and will be perfect for summer. I'm still debating which one I like better.</p>
+
+<p>I haven't ordered shorts from them before so I might get that, but the capri has a cool summer design that's too good to pass. Decisions decisions...</p>
 <br>
 
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> </p>
-<p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping</p>
+<p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping (taxes applicable to CA residents)</p>
 <p><b>What's in the box:</b> You'll receive workout outfits (2 or 3-piece) that you can choose and customize monthly</p>
 <p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a sports outfit!</p>
 <br>
