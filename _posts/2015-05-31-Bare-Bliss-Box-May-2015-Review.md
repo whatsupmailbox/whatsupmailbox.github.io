@@ -8,7 +8,7 @@ title: Bare Bliss Box May 2015 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: BareBlissBoxMay2015Box.jpg
+imagefeature: BareBlissBoxMay2015OpenBox.jpg
 headline: Bare Bliss Box May 2015 Review!
 tags: [Bare Bliss Box, Subscriptions, Reviews, May 2015]
 date: 2015-05-31 10:10:39 -08:00
