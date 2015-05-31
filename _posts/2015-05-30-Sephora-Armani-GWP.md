@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sephora GWP from Giorgio Armani - VIB & VIB Rouge Only"
 featured: false
 comments: true
