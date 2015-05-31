@@ -27,6 +27,7 @@ date: 2015-05-30 20:17:39 -08:00
 <DT>White Water Outfit</DT>
 </DL>
 
+<br>
 <p>I think both outfits look great and will be perfect for summer. I'm still debating which one I like better.</p>
 
 <p>I haven't ordered shorts from them before so I might get that, but the capri has a cool summer design that's too good to pass. Decisions decisions...</p>
