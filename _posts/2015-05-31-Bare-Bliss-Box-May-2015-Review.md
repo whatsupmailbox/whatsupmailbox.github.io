@@ -62,7 +62,7 @@ date: 2015-05-31 10:10:39 -08:00
 <DT><a href="http://rockislandsponge.com/index.php?route=common/home">Rock Island Sponge Company</a> - Sea Sponge</DT>
 <DD>1 sponge, $1.99?</DD>
 <p>This sponge is tiny but will be perfect for face use. From the Bare Bliss Box info sheet, it says that this sponge becomes soft as silk when wet and will gently exfoliate your skin.</p>
-<p>There's no documentation or tag that came with it, so I'm not sure what the size or product is since their website has multiple types of sponges. From Caribbean sea sponge, Mediterannean, South Pacific and many more. If I had to guess, it's probably the Caribbean Silk Sponge based on how it looks and the shape, so I based my pricing on that.</p>
+<p>There's no documentation or tag that came with it, so I'm not sure what size or type of sponge it is since their website has multiple types. From Caribbean sea sponge, Mediterannean, South Pacific and many more. If I had to guess, it's probably the Caribbean Silk Sponge based on how it looks and the shape, so I based my pricing on that.</p>
 </DL>
 
 <p><b>VERDICT:</b> I can't say if I loved this box or not, it did have some great products, I guess I'm just still disappointed in the foil packet items. The total value came up to $18.38 which is slightly below the cost of the subscription. I've had better boxes from them before and lately their curation hasn't been very great. I purchased a 6-month subscription and still have 2 months left, but I might cancel after if it continues to be below cost. Hopefully their June box will be better.</p>
