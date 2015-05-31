@@ -17,9 +17,7 @@ date: 2015-05-30 19:50:00 -08:00
 
 <center><img src='/images/SephoraArmaniGWP.png'></center>
 
-<p><a href="http://www.sephora.com">Sephora</a> has a new GWP from Giorgio Armani!</p>
-
-<i>Free with a $35 purchase</i>
+<p><a href="http://www.sephora.com">Sephora</a> has a new GWP from Giorgio Armani! <i>Free with a $35 purchase</i></p>
 
 <p>Use coupon code <b>VIBTRIO</b> in the promotion code box at checkout to receive the VIB Giorgio Armani Trio Sample Bag.
 
