@@ -18,14 +18,11 @@ date: 2015-05-30 20:17:39 -08:00
 
 <H4>And here are the outfits:</H4>
 <center><img src='/images/FableticsJune2015Highway74.png'></center>
-
 <figcaption>Highway 74 Outfit</figcaption>
 
 <br>
 <center><img src='/images/FableticsJune2015WhiteWater.png'></center>
-<DL>
-<DT>White Water Outfit</DT>
-</DL>
+<figcaption>White Water Outfit</figcaption>
 
 <br>
 <p>I think both outfits look great and will be perfect for summer. I'm still debating which one I like better.</p>
