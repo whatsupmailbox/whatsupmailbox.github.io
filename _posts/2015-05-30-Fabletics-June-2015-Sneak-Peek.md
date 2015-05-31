@@ -14,7 +14,7 @@ tags: [Fabletics, Subscriptions, June 2015]
 date: 2015-05-30 20:17:39 -08:00
 ---
 
-<H4><a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> released two outfits that will be available in your June 2015 selection!</H4>
+<DT><a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> released two outfits that will be available in your June 2015 selection!</DT>
 
 <H4>And here are the seak peek outfits:</H4>
 <center><img src='/images/FableticsJune2015Highway74.png'></center>
