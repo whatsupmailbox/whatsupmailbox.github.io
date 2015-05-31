@@ -18,9 +18,9 @@ date: 2015-05-30 20:17:39 -08:00
 
 <H4>And here are the outfits:</H4>
 <center><img src='/images/FableticsJune2015Highway74.png'></center>
-<DL>
-<DT>Highway 74 Outfit</DT>
-</DL>
+
+<figcaption>Highway 74 Outfit</figcaption>
+
 <br>
 <center><img src='/images/FableticsJune2015WhiteWater.png'></center>
 <DL>
