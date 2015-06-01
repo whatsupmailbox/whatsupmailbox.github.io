@@ -54,12 +54,12 @@ date: 2015-06-01 14:21:39 -08:00
 <DT>New York - 17th Street and 5th Avenue</DT>
 <DD>Shop top Birchbox beauty picks for summer</DD>
 <DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
-<DL>
+</DL>
 
 <br>
 
 <p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<p>
-<br>
+
 <p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p>Cost: $10 / month</p>
 <p>Coupon: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box!</p>
