@@ -39,6 +39,7 @@ Every month you get more than $40 of full-size products for just $24.99 per mont
 If you are passionate about your polish, that adds up to some amazing savings!
 </DL>
 
+<br>
 <p>If you want to save even more, take advantage of the exclusive 3-month intro offer. Get the <a href="http://www.shareasale.com/u.cfm?d=271081&m=49325&u=1115177">June Birthstone Welcome Box</a> for FREE, two additional months of Maven and FREE shipping for only $39.98.</p>
 
 *Note: You can customize your monthly box during their Maven Reveal period (20th-24th of every month). You can also send it to a friend instead or skip the month all through your online account.
