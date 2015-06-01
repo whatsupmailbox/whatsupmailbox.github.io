@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Julep Maven FREE June Birthstone Welcome Box!"
-description: "just pay $2.99 shipping"
+description: ""
 headline: "Julep Maven FREE June Birthstone Welcome Box!"
 category: Subscriptions
 tags: [Julep Maven, Coupons, Subscriptions]
