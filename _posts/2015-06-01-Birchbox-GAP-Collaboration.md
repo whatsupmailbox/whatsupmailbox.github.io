@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Birchbox and GAP Teams Up for In-Store Deals and Events!"
-description: "a birchwood tie bar"
+description: ""
 headline: "Birchbox and GAP Teams Up for In-Store Deals and Events!"
 tags: [Birchbox, Subscriptions]
 comments: true
