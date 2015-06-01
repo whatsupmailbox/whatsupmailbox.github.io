@@ -22,7 +22,8 @@ date: 2015-06-01 09:30:39 -08:00
 <br>
 
 <p>I think the new outfits look great and they named each one of them after a city in California! That's my hood!</p>
-<p>I literally wanted to get them all. Good thing my self control kicked in and I finally made my selection, but I have a feeling I might purchase another outfit once I receive mine #typical. I can't wait for it to arrive!</p>
+<p>I literally wanted to get them all. Good thing my self control kicked in and I finally made my selection, but I have a feeling I might purchase another outfit once I receive mine #typical.</p> 
+<p>I can't wait for it to arrive!</p>
 <br>
 
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> </p>
