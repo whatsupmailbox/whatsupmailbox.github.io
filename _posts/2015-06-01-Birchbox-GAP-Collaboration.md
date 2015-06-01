@@ -14,7 +14,7 @@ type: photo
 imagefeature: "BirchboxGapCollaboration.png"
 date: 2015-06-01 14:21:39 -08:00
 ---
-<center><img src='images/BirchboxGapCollaboration.png'></center>
+<center><img src='/images/BirchboxGapCollaboration.png'></center>
 <p><a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and GAP have teamed up and are offering exclusive offers in-stores as well as events in their 7 U.S. locations!</p>
 
 <H4>Here are the 7 participating locations and what they offer:</H4>
