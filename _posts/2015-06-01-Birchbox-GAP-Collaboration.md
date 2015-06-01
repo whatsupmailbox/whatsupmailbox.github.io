@@ -57,8 +57,9 @@ date: 2015-06-01 14:21:39 -08:00
 <DL>
 
 <br>
-<p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<p>
 
+<p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<p>
+<br>
 <p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p>Cost: $10 / month</p>
 <p>Coupon: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box!</p>
