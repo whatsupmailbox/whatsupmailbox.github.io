@@ -7,7 +7,7 @@ title: Bespoke Post June 2015 Selections + 25% off Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BespokePostMay2015Offer.png
+imagefeature: BespokePostJune2015Selections.jpg
 headline: Bespoke Post June 2015 Selections + 25% off Coupon!
 tags: [Bespoke Post, Subscriptions]
 date: 2015-06-01 08:27:39 -08:00
