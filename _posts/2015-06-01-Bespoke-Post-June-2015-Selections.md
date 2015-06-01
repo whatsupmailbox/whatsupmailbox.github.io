@@ -16,7 +16,7 @@ date: 2015-06-01 08:27:39 -08:00
 <h4>The June 2015 <a href="https://bespokepost.com/r/5e44e4d3">Bespoke Post</a> Selections are available and they look great!</h4>
 <center><img src='/images/BespokePostJune2015Selections.png'></center>
 
-** WHAT'S IN FRONTIER?
+** Frontier:
 
 1. Opinel - No. 8 Pocket Knife
 2. Machine Era Co. - Bottle Opener
