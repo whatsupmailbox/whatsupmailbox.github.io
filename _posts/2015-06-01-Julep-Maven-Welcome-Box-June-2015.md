@@ -25,10 +25,16 @@ date: 2015-06-01 16:17:39 -08:00
 <DL>
 <DT>Julep is better for you.</DT>
 Julep polishes have always been five-free—free of formaldehyde, toluene, dibutyl phthalate, formaldehyde resin, and camphor. Julep's beauty products are also free of parabens, and both sodium lauryl and sodium laureth sulfates.
+</DL>
+<DL>
 <DT>Julep Maven is the only customizable box of full-size, limited-run nail colors and beauty innovations.</DT>
 That means no surprises, no dupes or colors you don't like. You can see what is in your box each month and have the option of swapping out colors/products you already have or don't want.
+</DL>
+<DL>
 <DT>Julep Maven is affordable.</DT> 
 Every month you get more than $40 of full-size products for just $24.99 per month (tip - prepay for three months at a time and save $15).
+</DL>
+<DL>
 <DT>Julep Mavens get 20% off all single product purchases, free shipping, early access to secret sales.</DT> 
 If you are passionate about your polish, that adds up to some amazing savings!
 </DL>
