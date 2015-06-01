@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Birchbox and GAP Teams Up for In-Store Deals and Events!"
+description: "a birchwood tie bar"
+headline: "Birchbox and GAP Teams Up for In-Store Deals and Events!"
+tags: [Birchbox, Subscriptions]
+comments: true
+mathjax: null
+published: true
+featured: false
+categories: 
+  - Subscriptions
+type: photo
+imagefeature: "BirchboxGapCollaboration.png"
+date: 2015-06-01 14:21:39 -08:00
+---
+<center><img src='images/BirchboxGapCollaboration.png'></center>
+<p><a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> and GAP have teamed up and are offering exclusive offers in-stores as well as events in their 7 U.S. locations!</p>
+
+<H4>Here are the 7 participating locations and what they offer:</H4>
+<DL>
+<DT>San Francisco - Market Street</DT>
+<DD>Build your own Birchbox</DD>
+<DD>Shop top Birchbox beauty picks for summer</DD>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+<i>RSVP to June 10 Event <a href="http://join.birchbox.com/gap/clkn/https/gapbirchboxsummerbeautyshopsf.eventbrite.com">here</a></i>
+</DL>
+<DL>
+<DT>Houston - Houston Galleria</DT>
+<DD>Shop top Birchbox beauty picks for summer</DD>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+<i>RSVP to June 9 Event <a href="http://join.birchbox.com/gap/clkn/https/gapbirchboxsummerbeautyshophouston.eventbrite.com">here</a></i>
+</DL>
+<DL>
+<DT>Los Angeles - The Grove</DT>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+</DL>
+<DL>
+<DT>Chicago - State Street</DT>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+</DL>
+<DL>
+<DT>New York - 34th Street and Broadway</DT>
+<DD>Build your own Birchbox</DD>
+<DD>Shop top Birchbox beauty picks for summer</DD>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+<i>RSVP to June 9 Event <a href="http://join.birchbox.com/gap/clkn/https/gapbirchboxsummerbeautyshopnyc.eventbrite.com">here</a></i>
+</DL>
+<DL>
+<DT>New York - Lincoln Square</DT>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+</DL>
+<DL>
+<DT>New York - 17th Street and 5th Avenue</DT>
+<DD>Shop top Birchbox beauty picks for summer</DD>
+<DD>Purchase an exclusive 3-month Birchbox or Birchbox Man subscription</DD>
+<DL>
+
+<br>
+<mark>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<mark>
+
+<p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p>Cost: $20 / month</p>
+<p>Coupon: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box!</p>
+<p>What's in the box: Personalized assortment of grooming and style upgrades based on a profile you complete. Your monthly box includes 3-4 grooming samples and a lifestyle accessory.</p>
+<p>Subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to start receiving their monthly boxes!</p>
