@@ -57,10 +57,11 @@ date: 2015-06-01 14:21:39 -08:00
 <DL>
 
 <br>
-<mark>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<mark>
+<p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<p>
 
-<p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
-<p>Cost: $20 / month</p>
+<p>Subscription: <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
+<p>Cost: $10 / month</p>
 <p>Coupon: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox"><b>BB50OFF</b></a> to get 50% off your first box!</p>
-<p>What's in the box: Personalized assortment of grooming and style upgrades based on a profile you complete. Your monthly box includes 3-4 grooming samples and a lifestyle accessory.</p>
+<p>What's in the box: You'll receive 4-5 beauty samples that are matched with a profile you complete upon registration. You can modify this at any time.</p>
+<p>Coupon: Use coupon code <b>BBM25</b> to get 25% off your first box!
 <p>Subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to start receiving their monthly boxes!</p>
