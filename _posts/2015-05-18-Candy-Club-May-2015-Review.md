@@ -22,9 +22,8 @@ date: 2015-05-18 20:25:39 -08:00
 <p><b>What's in the box:</b> 3 lbs worth of candies in beautiful tin cans</p>
 <br>
 
-<img src="/images/CandyClubMay2015Card.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/images/CandyClubMay2015Ingredients.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+<img src="/images/CandyClubMay2015Card.jpg" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/CandyClubMay2015Ingredients.jpg" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;"><p style="clear: both;">
 <p>They include an info card in every box detailing the candies you've received as well as their ingredients.</p>
 <br>
 <br>
