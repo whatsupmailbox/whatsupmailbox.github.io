@@ -38,9 +38,8 @@ date: 2015-05-18 20:25:39 -08:00
 <li><b>Sour Power Wild Cherry Belts</b> - Sour Power's exciting new flavor of Wild Cherry is sure to thrill your senses with lip-smacking tart cherry tang in every bite. Since 1985, candy lovers of all ages have not been able to get enough of Sour Power's wildly popular, mouth-watering sour belts.</li>
 <li><b>Gimbal's Sour Gourmet Jelly Beans</b> - Gimbal's mouth-watering Sour Gourmet Jelly Beans are made with Real Fruit Juice in 12 unique and irresistible sour flavors including: blueberry, pomegranate, grapefruit, cherry, apple, mango, strawberry, lime, grape, lemon, tangerine, and watermelon.</li>
 </ul>
-<br>
 
-Splash item (the candies they filled the box with that's not in the tin):
+<H4>Splash item (the candies they filled the box with that's not in the tin):</H4>
 <ul>
 <li><b>Sweet's Salt Water Taffy</b> - Sweet Candy Company is one of the oldest family-owned and operated companies in the United States, founded in 1892 and offering its iconic salt water taffy since 1910. Instead of using the traditional Eastern shore method of pulling the taffy, Sweet's taffy is whipped to perfection. The result is an amazingly soft, non-sticky and deliciously flavorful treat.</li>
 </ul>
