@@ -31,9 +31,8 @@ date: 2015-05-18 20:25:39 -08:00
 
 ![Candy Club May 2015 Candies](/images/CandyClubMay2015Candies.jpg)
 <p>The candies are packed in these lovely tins that remind me of Dylan's candies, but without the high cost. I love it!</p>
-<br>
 
-Here are my items:
+<H4>Here are my items:</H4>
 <ul>
 <li><b>Haribo Gummi Techno Bears</b> - A new twist on Classic Gummi Bears. With vibrant, shiny colors and fruity flavors of cherry, sour raspberry, and apple.</li>
 <li><b>Sour Power Wild Cherry Belts</b> - Sour Power's exciting new flavor of Wild Cherry is sure to thrill your senses with lip-smacking tart cherry tang in every bite. Since 1985, candy lovers of all ages have not been able to get enough of Sour Power's wildly popular, mouth-watering sour belts.</li>
