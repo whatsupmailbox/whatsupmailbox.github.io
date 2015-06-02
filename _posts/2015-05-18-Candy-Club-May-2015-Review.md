@@ -25,9 +25,8 @@ date: 2015-05-18 20:25:39 -08:00
 <figure class="half">
 	<img src="/images/CandyClubMay2015Card.jpg">
 	<img src="/images/CandyClubMay2015Ingredients.jpg">
+	<figcaption>They include an info card in every box detailing the candies you've received as well as their ingredients.</figcaption>
 </figure>
-<p>They include an info card in every box detailing the candies you've received as well as their ingredients.</p>
-<br>
 <br>
 
 ![Candy Club May 2015 Candies](/images/CandyClubMay2015Candies.jpg)
