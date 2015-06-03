@@ -3,7 +3,9 @@ layout: post
 title: "Julep Maven FREE June Birthstone Welcome Box!"
 description: ""
 headline: "Julep Maven FREE June Birthstone Welcome Box!"
-category: Subscriptions
+categories: 
+    - Subscriptions
+    - Coupons
 tags: [Julep Maven, Coupons, Subscriptions]
 comments: true
 mathjax: null
