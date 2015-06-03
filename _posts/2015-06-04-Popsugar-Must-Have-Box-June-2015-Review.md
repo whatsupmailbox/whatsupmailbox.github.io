@@ -20,7 +20,7 @@ I always get excited when my <a href="http://http://popsu.gr/vdrb">Popsugar Must
 
 <p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
+<p><b>What's in the box:</b> Items curated by Popsugar Editors that are full of fun must-have products! Boxes will include full-size items that range from jewelry, fashion, beauty, home decor, fitness, and more. Each box is guaranteed to have a value of over $100.</p>
 <p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box!</p>
 <br>
 
