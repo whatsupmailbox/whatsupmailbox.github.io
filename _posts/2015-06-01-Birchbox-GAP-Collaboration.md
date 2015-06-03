@@ -58,7 +58,7 @@ date: 2015-06-01 14:21:39 -08:00
 
 <br>
 
-<p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:<p>
+<p>You don't need to be a subscriber to attend or purchase, but if you're interested in their monthly <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> subscription, here's some info about it:</p>
 
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes applicable to CA)</p>
