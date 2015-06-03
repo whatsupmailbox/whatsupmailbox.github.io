@@ -24,7 +24,7 @@ I always get excited when my <a href="http://http://popsu.gr/vdrb">Popsugar Must
 <p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box!</p>
 <br>
 
-<center><img src='/images/PopsugarMay2015OpenBox.jpg'></center>
+<center><img src='/images/PopsugarJune2015OpenBox.jpg'></center>
 This month their theme was "Yoga Warrior . Sun Kissed . Outdoor Fun . Coconut".
 <br>
 <br>
