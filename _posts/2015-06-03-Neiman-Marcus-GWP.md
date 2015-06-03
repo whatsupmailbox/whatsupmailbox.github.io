@@ -14,6 +14,7 @@ type: photo
 imagefeature: "NeimanMarcusGWPJune2015.png"
 date: 2015-06-03 10:09:39 -08:00
 ---
+
 <center><img src='/images/NeimanMarcusGWPJune2015.png'></center>
 
 <center><a href="https://www.neimanmarcus.com">Neiman Marcus</a> has a new GWP and it's yours with any $100 Cosmetic or Fragrance purchase!</center>
