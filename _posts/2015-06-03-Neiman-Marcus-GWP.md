@@ -6,7 +6,7 @@ headline: "Neiman Marcus GWP - Free Tote and Samples!"
 tags: [Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Coupons
