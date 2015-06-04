@@ -23,6 +23,7 @@ date: 2015-06-04 14:01:39 -08:00
 
 <center><img src='/images/HonestJune2015Box.jpg'></center>
 <p>Initially my delivery date was set to next week, but we ran out of a few products at home so I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference in case I run out of something, I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
+<br>
 
 <center><img src='/images/HonestJune2015OpenBox.jpg'></center>
 <p>The box was packed with air cushions, so naturally every single item arrived without a single scratch. I like companies who pay attention to their packaging.</p>
@@ -42,6 +43,8 @@ date: 2015-06-04 14:01:39 -08:00
 <p>I've been using laundry packs for years now and have never turned back. It's convenient and spill-proof. This is the first time though that I've used their laundry packs and I gotta say, this will be a staple in our house from now on. The ingreidents are free of sulfates and dye, plus I get discounted pricing by subscribing to their bundle, so it's a win win situation for me.</p>
 </DL>
 
+<br>
+
 <center><img src='/images/HonestJune2015DishBrush.jpg'></center>
 <DL>
 <DT>Suds Up - Ceramic soap dish & bamboo brush</DT>
@@ -50,6 +53,8 @@ date: 2015-06-04 14:01:39 -08:00
 <p>The ceramic base acts as a holder for liquid dish soap that you can put in (you don't need to put a lot), and in that base there's a raised blue insert with perforations so that the soap can get through to the brush. All you need to do is pump the brush up and down on that blue insert and voila, you have a perfectly soaped dish brush ready to use.</p>
 <p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste since it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink. #winning</p>
 </DL>
+
+<br>
 
 <center><img src='/images/HonestJune2015BugSprayShampoo.jpg'></center>
 <DL>
@@ -65,6 +70,8 @@ date: 2015-06-04 14:01:39 -08:00
 <p>It also didn't lather much which is a good sign for me. When shampoos don't lather or very minimal, it's probably sulfate free and doesn't contain harsh artificial chemicals in it. And this shampoo is just that, free of SLS, sulfates, parabens, phthalates, fragrances, dyes, sodium chloride, formaldehyde, MEA, DEA, TEA and most common allergens. I might actually learn to like the scent and it doesn't really linger on your hair so once this bottle is gone, I will be repurchasing.</p>
 </DL>
 
+<br>
+
 <center><img src='/images/HonestJune2015SunscreenTowel.jpg'></center>
 <DL>
 <DT>Sunscreen SPF 30</DT>
@@ -76,12 +83,13 @@ date: 2015-06-04 14:01:39 -08:00
 
 ### My add-on products:
 
-<center><img src='/images/HonestJune2015Towels.jpg'></center>
 <DL>
 <DT>Dish Towels</DT>
 <DD>2 Organic Cotton Dish Towels 12" x 24", $7.95<DD>
 <p>You can never have enough towels and this one is a great addition. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
 </DL>
+
+<br>
 
 <figure class="half">
   <img src='/images/HonestJune2015AirFreshener.jpg'>
@@ -103,8 +111,6 @@ date: 2015-06-04 14:01:39 -08:00
   <img src='/images/HonestJune2015Scrub2.jpg'>
 </figure>
 
-<br>
-
 <DL>
 <DT>Sea Salt + Sugar Body Scrub</DT>
 <DD>Lavender Vanilla 9.5 oz., $16.95<DD>
@@ -118,5 +124,7 @@ date: 2015-06-04 14:01:39 -08:00
 <DT>Organic Lip Balm</DT>
 <DD>Lavender Mint 4.2g/.15 oz., $2.98<DD>
 <p>What a surprise, and a useful one to add! I'm a self proclaimed lip product addict and this organic lip balm will get its use for sure. It's instantly moisturizing and is infused with Tahitian Tamanu oil that's rich in Omega 6 and 9 essential fatty acids to help restore skin vitality and boost moisture retention. It's slightly tingly after application due to the peppermint oil, but I love that cause it'll be great for the hot summer days. Hey, your lips needs some cooling too!</p>
+
+<br>
 
 <p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. I do wish though that their scents would be less of a dessert bakery and more of a spa, but that's just my preference in scents. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
