@@ -70,4 +70,4 @@ date: 2015-06-03 19:00:39 -08:00
 
 <p><b>VERDICT:</b> Since I bought this box for the sole purpose of obtaining the necklace, I'm happy and thought it was money well spent (especially since I used one of those coupons above!). It was curated perfectly, although they probably should have chosen a different brand for the highlighter that is more health conscious. Birchbox markets this box as having a value of $92. From researching online, my total value came up to $81.75. The difference is due to the necklace's pricing, but everything else is pretty spot on. If you love candles and love gold delicate necklaces (aka Dogeared), definitely grab this box as that's worth buying alone!</p>
 
-* <i>You don't have to be a subscriber to purchase this box, but if want to subscribe, you can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a></i></p>
+*<i>You don't have to be a subscriber to purchase this box, but if want to subscribe, you can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a></i></p>
