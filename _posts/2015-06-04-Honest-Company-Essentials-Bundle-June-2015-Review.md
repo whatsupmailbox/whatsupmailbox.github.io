@@ -17,15 +17,15 @@ date: 2015-06-04 14:01:39 -08:00
 
 <center><img src='/images/HonestJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.honest.com/refer_to/792187">Honest Company Essentials Bundle</a></p>
-<p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50</p>
+<p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
-<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE Essential discover set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
+<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
 <br>
 
-<p>Initially my delivery date was set to next week, but we ran out of a few essentials at home that I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference knowing that if I ran out of something I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
+<p>Initially my delivery date was set to next week, but we ran out of a few products at home so I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference in case I run out of something, I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
 
 <center><img src='/images/HonestJune2015OpenBox.jpg'></center>
-<p>The box was packed with air cushions, so it was not a surprise that every single item arrived without a single scratch. I like companies who pay attention to the small details.</p>
+<p>The box was packed with air cushions, so naturally every single item arrived without a single scratch. I like companies who pay attention to their packaging.</p>
 <br>
 
 <center><img src='/images/HonestJune2015Items.jpg'></center>
@@ -47,8 +47,8 @@ date: 2015-06-04 14:01:39 -08:00
 <DT>Suds Up - Ceramic soap dish & bamboo brush</DT>
 <DD>1 bamboo dish brush and ceramic base, $12.95<DD>
 <p>I am amazed with this product! Not only does it look chic and modern, it actually works pretty darn good as a dish brush. It's also pretty unique on how it works.</p>
-<p>The ceramic base acts as a holder for dish soap that you can put in (you don't need to put a lot), and in that base there's a raised blue insert with perforations so that the soap can get through to the brush. All you need to do is pump the brush up and down on that blue insert and voila, you have a perfectly soaped dish brush ready to use.</p>
-<p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste but it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink.</p>
+<p>The ceramic base acts as a holder for liquid dish soap that you can put in (you don't need to put a lot), and in that base there's a raised blue insert with perforations so that the soap can get through to the brush. All you need to do is pump the brush up and down on that blue insert and voila, you have a perfectly soaped dish brush ready to use.</p>
+<p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste since it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink. #winning</p>
 </DL>
 
 <center><img src='/images/HonestJune2015BugSprayShampoo.jpg'></center>
@@ -56,20 +56,21 @@ date: 2015-06-04 14:01:39 -08:00
 <DT>Bug Spray</DT>
 <DD>4.0 fl. oz., $12.95<DD>
 <p>Finally a safe way to repel pesky bugs without harsh chemicals, yay! I don't know what it is about me, but I attract bugs. Be it when we're camping, hiking, or enjoying the botanical garden in places we travel to, bugs always find a way to find me. It's quite annoying.</p>
-<p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! #watchoutbugs</p>
+<p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! Watch out bugs!</p>
 </DL>
 <DL>
 <DT>Shampoo + Body Wash</DT>
 <DD>Sweet Orange Vanilla 8.5 fl. oz. (250 mL), $9.95<DD>
-<p>This shampoo actually smells like sweet oranges with vanilla and boy does it smell sweet. I'm not a sweet scent person, so it wasn't my cup of tea, but scent aside, it really was a good shampoo and I did feel my hair moisturized after. It also didn't lather much which is a good sign for me. When shampoos don't lather or very minimal, it's probably sulfate free and doesn't have harsh artificial chemicals in it. And this shampoo is just that, free of SLS, sulfates, parabens, phthalates, fragrances, dyes, sodium chloride, formaldehyde, MEA, DEA, TEA & most common allergens. I might actually learn to like the scent and it doesn't really linger on your hair so once this bottle is gone, I will be repurchasing.</p>
+<p>This shampoo actually smells like sweet oranges with vanilla and boy does it smell sweet. I'm not a sweet scent person, so it wasn't my cup of tea, but scent aside, it really was a good shampoo and I did feel my hair moisturized after.</p>
+<p>It also didn't lather much which is a good sign for me. When shampoos don't lather or very minimal, it's probably sulfate free and doesn't contain harsh artificial chemicals in it. And this shampoo is just that, free of SLS, sulfates, parabens, phthalates, fragrances, dyes, sodium chloride, formaldehyde, MEA, DEA, TEA and most common allergens. I might actually learn to like the scent and it doesn't really linger on your hair so once this bottle is gone, I will be repurchasing.</p>
 </DL>
 
-<center><img src='/images/HonestEssentialsBundleJune2015SunscreenTowel.jpg'></center>
+<center><img src='/images/HonestJune2015SunscreenTowel.jpg'></center>
 <DL>
 <DT>Sunscreen SPF 30</DT>
 <DD>3.0 oz., $13.95<DD>
 <p>I actually wanted to get the sunscreen spray, but that was sold out so I opted for this instead. It's SPF 30 and water resistant for 80 mins.</p>
-<p>A naturally derived, unscented, broad-spectrum (UVA and UVB) SPF mineral sunscreen that's also oxybenzone free. When I first research this product, it actually didn't get good reviews. But Honest Co. has now improved the ingredients and this is their new + improved version.</p>
+<p>This is a naturally derived, unscented, broad-spectrum (UVA and UVB) SPF mineral sunscreen that's also oxybenzone free. When I first research this product, it actually didn't get good reviews. But Honest Co. has now improved the ingredients and this is their new + improved version.</p>
 <p>Upon application, I felt that it wasn't greasy and it was easy to apply and my skin absorbed it effortlessly. I don't like the smell though, it's a funky one, almost like smelling vegetable oil which is one of the ingredients so maybe that's why. Even though I'd prefer no fragrance than having one that's artificial, I do wish that they could add a fragrant natural essential oil to it so that it would be much more pleasant to apply for my scenses. Oh well, I guess you can't have it all.</p>
 </DL>
 
@@ -79,12 +80,12 @@ date: 2015-06-04 14:01:39 -08:00
 <DL>
 <DT>Dish Towels</DT>
 <DD>2 Organic Cotton Dish Towels 12" x 24", $7.95<DD>
-<p>You can never have enough towels and this one doesn’t disappoint. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
+<p>You can never have enough towels and this one is a great addition. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
 </DL>
 
 <figure class="half">
-  <img src='/images/HonestJune2015Freshener.jpg'>
-  <img src='/images/HonestJune2015Freshener2.jpg'>
+  <img src='/images/HonestJune2015AirFreshener.jpg'>
+  <img src='/images/HonestJune2015AirFreshener2.jpg'>
   <figcaption>Organic and natural ingredients</figcaption>
 </figure>
 
@@ -92,7 +93,7 @@ date: 2015-06-04 14:01:39 -08:00
 <DT>Air + Fabric Freshener</DT>
 <DD>Lemon Verbana 9.3 fl.oz., $6.95<DD>
 <p>This is available in 3 scents: Lavender Vanilla, Lemon Verbena & Orange Cypress. I chose Lemon Verbana because I like mostly fresh scents and try to avoid sweet smelling scents whenever possible.</p>
-<p>I like that this is both an air and fabric freshener, and appreciate that it's a natural product that uses essential oils. The fragrance is quote aroma therapeutic and have been spraying this everywhere in the house since I got my hands on it. One of my favorite things to do is to spray this on my bed right before I go to sleep.</p>
+<p>I like that this is both an air and fabric freshener, and appreciate that it's a natural product that uses essential oils. The fragrance is quote aroma therapeutic and I've been spraying this everywhere in the house since I got my hands on it. One of my favorite things to do is to spray this on my bed right before I go to sleep!</p>
 </DL>
 
 <br>
@@ -108,7 +109,7 @@ date: 2015-06-04 14:01:39 -08:00
 <DT>Sea Salt + Sugar Body Scrub</DT>
 <DD>Lavender Vanilla 9.5 oz., $16.95<DD>
 <p>Another sweet fragrance, almost like vanilla almonds. Not sure if I’m into the scent, but maybe it’ll grow on me.</p>
-<p>As far as the product goes, it goes on like a scrub initially with it's gentle exfoliating granules, but once you scrub your body with it, it starts to become more of a lotion texture with the granules melting away as you scrub. What's left as you continue scrubbing is a layer of thin moisturizing lotion and an amazed woman still figuring out how that happened while the shower is still running. After drying up, I felt my skin both exfoliated and moisturized, amazing.</p>
+<p>As far as the product goes, it goes on like a scrub initially with it's gentle exfoliating granules, but once you scrub your body with it, it starts to become more of a lotion texture with the granules melting away as you scrub. What's left as you continue scrubbing is a layer of thin moisturizing lotion and an amazed woman still figuring out how the heck did that happen while the shower is still running. Once I dried up, I felt my skin both exfoliated and moisturized, even hours after, amazing.</p>
 
 #### Bonus Item!
 
@@ -116,6 +117,6 @@ date: 2015-06-04 14:01:39 -08:00
 <DL>
 <DT>Organic Lip Balm</DT>
 <DD>Lavender Mint 4.2g/.15 oz., $2.98<DD>
-<p>What a surprise, and a useful one to add! I'm a self proclaimed lip product addict this organic lip balm will get its use for sure. It's instantly moisturizing and is infused with Tahitian Tamanu oil that's rich in Omega 6 and 9 essential fatty acids to help restore skin vitality and boost moisture retention. It's slightly tingly after application due to the peppermint oil, and I love that cause it'll be great for the hot summer days. Hey, your lips needs some cooling too!</p>
+<p>What a surprise, and a useful one to add! I'm a self proclaimed lip product addict and this organic lip balm will get its use for sure. It's instantly moisturizing and is infused with Tahitian Tamanu oil that's rich in Omega 6 and 9 essential fatty acids to help restore skin vitality and boost moisture retention. It's slightly tingly after application due to the peppermint oil, but I love that cause it'll be great for the hot summer days. Hey, your lips needs some cooling too!</p>
 
-<p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
+<p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. I do wish though that their scents would be less of a dessert bakery and more of a spa, but that's just my preference in scents. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
