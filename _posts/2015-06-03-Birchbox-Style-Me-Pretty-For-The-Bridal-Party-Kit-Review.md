@@ -37,31 +37,31 @@ date: 2015-06-03 19:00:39 -08:00
 <H4>The products:</H4>
 <DL>
 <DT><a href='http://www.dogeared.com/daughter-sideways-heart-necklace%2C-gold-dipped/MRGG100310499.html#start=14&q=heart&sz=12'>Dogeared - Gold Bridal Necklace</a></DT>
-<DD>16" chain, $54</DD>
+<DD>16" chain, Retail Value $54</DD>
 <p>This necklace is delicate, simple and gorgeous. Birchbox has this valued at $64, but I actually found the same exact necklace on Dogeared's website for $54, they call it the "Daughter sideways heart" necklace.</p>
 <p>I love Dogeared jewelries and pretty much bought this box for this necklace alone! Confession, I'm already married and won't be in a bridal party anytime soon, but this box was just too good to pass #itsanaddiction</p>
 </DL>
 <DL>
 <DT><a href='https://www.birchbox.com/shop/greenleaf-candle-tin/'>Greenleaf Candle Tin – Cashmere Kiss</a></DT>
-<DD>Travel size 6 oz. / 170 g, $10</DD>
+<DD>Travel size 6 oz. / 170 g, Retail Value $10</DD>
 <p>As picky as I am with fragrance, this candle smells romantic, feminine and showered with florals. Just like a wedding, what a perfect item to include!</p>
 <p>Although not stated on their packaging, this candle is made from a soy and vegetable wax blend for a longer, cleaner burn. I've had candles from them before thanks to Birchbox, and this is a great addition for my summer candle indulgences.</p>
 </DL>
 <DL>
 <DT><a href='https://www.birchbox.com/shop/jelly-pong-pong-glow-getter/'>Jelly Pong Pong - GLOW GETTER Highlighter</a></DT>
-<DD>Sample Size 4 ml / 0.14 fl.oz., $12.75</DD>
+<DD>Sample Size 4 ml / 0.14 fl.oz., Retail Value $12.75</DD>
 <p>I think it's a crime not to contour and highlight when wearing makeup. Including this item in the box fits the theme as it's definitely a must especially for a wedding and photo ops.</p>
 <p>I have so many highlighters and am happy to add another one to my collection, but sadly I won't be using this due to parabens in their ingredients. Such a shame since I would have loved to try it, I guess I'll be gifting this to anyone who wants it.</p>
 </DL>
 <DL>
 <DT><a href='https://www.birchbox.com/shop/jane-iredale-just-kissed-lip-and-cheek-stain/'>Jane Iredale Just Kissed Lip and Cheek Stain in Forever Pink</a></DT>
-<DD>Sample size, $3?</DD>
+<DD>Sample size, Retail Value $3?</DD>
 <p>This sample tube is tiny! I actually have one already thanks to Birchbox, and having another one is great since the size is so small.</p>
 <p>Jane Iredale is a makeup line that's healthy for your skin with ingredients that are safe for your skin. I've been using their mineral powder and foundation for years and love it.</p>
 </DL>
 <DL>
 <DT><a href='http://www.maydesigns.com'>May Designs</a> - Custom Bridesmaid Card</DT>
-<DD>1 card, $2</DD>
+<DD>1 card, Retail Value $2</DD>
 <p>This design is exclusive to Birchbox. It's simple, white with a tiny hint of pink color and a message that's clever and touching at the same time.</p>
 <p>Since I bought this box without the intention of having a wedding, I'll keep this in my greeting card collection and hopefully can give it to a friend who can make use of this.</p>
 </DL>
