@@ -82,7 +82,7 @@ date: 2015-06-04 14:01:39 -08:00
 <p>You can never have enough towels and this one doesn’t disappoint. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
 </DL>
 
-<figure class=half>
+<figure class="half">
   <img src='/images/HonestJune2015Freshener.jpg'>
   <img src='/images/HonestJune2015Freshener2.jpg'>
   <figcaption>Organic and natural ingredients</figcaption>
@@ -97,7 +97,7 @@ date: 2015-06-04 14:01:39 -08:00
 
 <br>
 
-<figure class=half>
+<figure class="half">
   <img src='/images/HonestJune2015Scrub.jpg'>
   <img src='/images/HonestJune2015Scrub2.jpg'>
 </figure>
