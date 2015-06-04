@@ -96,7 +96,7 @@ date: 2015-06-04 14:01:39 -08:00
   <img src='/images/HonestJune2015AirFreshener2.jpg'>
   <figcaption>Organic and natural ingredients</figcaption>
 </figure>
-
+<br>
 <DL>
 <DT>Air + Fabric Freshener</DT>
 <DD>Lemon Verbana 9.3 fl.oz., $6.95</DD>
