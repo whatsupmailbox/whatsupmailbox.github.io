@@ -61,7 +61,7 @@ date: 2015-06-04 14:01:39 -08:00
 <center><img src='/images/HonestJune2015BugSprayShampoo.jpg'></center>
 <DL>
 <DT>Bug Spray</DT>
-<DD>4.0 fl. oz., $12.95<DD>
+<DD>4.0 fl. oz., $12.95</DD>
 
 <p>Finally a safe way to repel pesky bugs without harsh chemicals, yay! I don't know what it is about me, but I attract bugs. Be it when we're camping, hiking, or enjoying the botanical garden in places we travel to, bugs always find a way to find me. It's quite annoying.</p>
 <p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! Watch out bugs!</p>
