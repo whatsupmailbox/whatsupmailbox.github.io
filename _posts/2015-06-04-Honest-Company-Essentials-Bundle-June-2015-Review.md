@@ -15,13 +15,13 @@ imagefeature: "HonestJune2015Items.jpg"
 date: 2015-06-04 14:01:39 -08:00
 ---
 
-<center><img src='/images/HonestJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.honest.com/refer_to/792187">Honest Company Essentials Bundle</a></p>
 <p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
 <p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
 <br>
 
+<center><img src='/images/HonestJune2015Box.jpg'></center>
 <p>Initially my delivery date was set to next week, but we ran out of a few products at home so I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference in case I run out of something, I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
 
 <center><img src='/images/HonestJune2015OpenBox.jpg'></center>
