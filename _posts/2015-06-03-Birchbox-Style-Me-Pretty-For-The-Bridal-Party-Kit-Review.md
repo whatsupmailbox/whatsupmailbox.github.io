@@ -48,7 +48,7 @@ date: 2015-06-03 19:00:39 -08:00
 <p>Although not stated on their packaging, this candle is made from a soy and vegetable wax blend for a longer, cleaner burn. I've had candles from them before thanks to Birchbox, and this is a great addition for my summer candle indulgences.</p>
 </DL>
 <DL>
-<DT><a href='https://www.birchbox.com/shop/jelly-pong-pong-glow-getter/'>Jelly Pong Pong GLOW GETTER Highlighter</a></DT>
+<DT><a href='https://www.birchbox.com/shop/jelly-pong-pong-glow-getter/'>Jelly Pong Pong - GLOW GETTER Highlighter</a></DT>
 <DD>Sample Size 4 ml / 0.14 fl.oz., $12.75</DD>
 <p>I think it's a crime not to contour and highlight when wearing makeup. Including this item in the box fits the theme as it's definitely a must especially for a wedding and photo ops.</p>
 <p>I have so many highlighters and am happy to add another one to my collection, but sadly I won't be using this due to parabens in their ingredients. Such a shame since I would have loved to try it, I guess I'll be gifting this to anyone who wants it.</p>
