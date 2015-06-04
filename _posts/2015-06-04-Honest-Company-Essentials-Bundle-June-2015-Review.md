@@ -12,41 +12,99 @@ categories:
   - Reviews
 type: photo
 imagefeature: "HonestJune2015Items.jpg"
-date: 2015-06-04 12:01:39 -08:00
+date: 2015-06-04 14:01:39 -08:00
 ---
 
 <center><img src='/images/HonestJune2015Box.jpg'></center>
-
+<p><b>Subscription:</b> <a href="http://www.honest.com/refer_to/792187">Honest Company Essentials Bundle</a></p>
+<p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50</p>
+<p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
+<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE discover set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
+<br>
 
 <p>Initially my delivery date was set to next week, but we ran out of a few essentials at home that I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference knowing that if I ran out of something I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
 
-<p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
-<p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> Items curated by Popsugar Editors that are full of fun must-have products! Boxes will include full-size items that range from jewelry, fashion, beauty, home decor, fitness, and more. Each box is guaranteed to have a value of over $100.</p>
-<p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box!</p>
+<center><img src='/images/HonestJune2015OpenBox.jpg'></center>
+<p>The box was packed with air cushions, so it was not a surprise that every single item arrived without a single scratch. I like companies who pay attention to the small details.</p>
 <br>
 
-<center><img src='/images/PopsugarJune2015OpenBox.jpg'></center>
-This month their theme was "Yoga Warrior . Sun Kissed . Outdoor Fun . Coconut".
-<br>
-<br>
-
-<center><img src='/images/PopsugarJune2015Info.jpg'></center>
-<p>They always include a fold out card that details all the items and prices. I typically read it towards the end of my unboxing, this way I don't get any spoilers and can ooohh and aaahh first, then read about them later -but that's just silly old me.</p>
+<center><img src='/images/HonestJune2015Items.jpg'></center>
+<p>I chose my 5 items based on what I needed at home, then added 3 extra items (body scrub, kitchen towel and air freshener) to my bundle that I wanted to try. I received 25% discount for the additional items plus it made the box qualify for free shipping.</p>
 <br>
 
-<center><img src='/images/PopsugarJune2015Item.jpg'></center>
+## My Essentials Bundle:
+
+<center><img src='/images/HonestJune2015LaundryPacks.jpg'></center>
 <DL>
-<DT>Dark Cocoa Nom Noms</DT>
-<DD>Mini Cocoa Oat Cookies, 3.7 oz.</DD>
-<p>These are similar to no-bake cookies where it's soft and chewy, which I love. But unfortunately I'm not a dark chocolate person, plus it had coconut which is definitely a taste I'm not too fond of. If you like dark chocolate and coconut, this is definitely for you!</p>
+<DT>4-in-1 Laundry Packs</DT>
+<DD>50 Ultra Concentrated Packs, $15.95</DD>
+<p>These are 4-in-1 because of its cleaning + stain fighting + brightening + softening power. It's also Hypoallergenic, biodegradable, non-toxic, effective in all temperatures and septic safe</p>
+<p>I've been using laundry packs for years now and have never turned back. It's convenient and spill-proof. This is the first time though that I've used their laundry packs and I gotta say, this will be a staple in our house from now on. The ingreidents are free of sulfates and dye, plus I get discounted pricing by subscribing to their bundle, so it's a win win situation for me.</p>
 </DL>
 
-<center><img src='/images/PopsugarJune2015Item.jpg'></center>
+<center><img src='/images/HonestJune2015DishBrush.jpg'></center>
 <DL>
-<DT>Sweet Blueberry Almonds</DT>
-<DD>Blueberry flavored almonds, 1 oz.<DD>
-<p>I loved this. It was sweet and almondy good, with the added bonus of blueberry flavor. Great snack for when you want something sweet and fulfilling.</p>
+<DT>Suds Up - Ceramic soap dish & bamboo brush</DT>
+<DD>1 bamboo dish brush and ceramic base, $12.95<DD>
+<p>I am amazed with this product! Not only does it look chic and modern, it actually works pretty darn good as a dish brush. It's also pretty unique on how it works.</p>
+<p>The ceramic base acts as a holder for dish soap that you can put in (you don't need to put a lot), and in that base there's a raised blue insert with perforations so that the soap can get through to the brush. All you need to do is pump the brush up and down on that blue insert and voila, you have a perfectly soaped dish brush ready to use.</p>
+<p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste but it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink.</p>
 </DL>
 
-<p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. I'm excited for the June 2015 box though since they released a <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">spoiler item</a> just a few days ago and that item alone is worth more than the subscription! Hint, it's perfect for sunny summer days. Check out my <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">Popsugar Spoiler news</a> I posted to see what it is. Here's hoping to a better box in June!</p>
+<center><img src='/images/HonestJune2015BugSpray.jpg'></center>
+<DL>
+<DT>Bug Spray</DT>
+<DD>4.0 fl. oz., $12.95<DD>
+<p>Finally a safe way to repel pesky bugs without harsh chemicals, yay! I don't know what it is about me, but I attract bugs. Be it when we're camping, hiking, or enjoying the botanical garden in places we travel to, bugs always find a way to find me. It's quite annoying.</p>
+<p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! #watchoutbugs</p>
+</DL>
+
+<center><img src='/images/HonestJune2015Shampoo.jpg'></center>
+<DL>
+<DT>Shampoo + Body Wash</DT>
+<DD>Sweet Orange Vanilla 8.5 fl. oz. (250 mL), $9.95<DD>
+<p>This shampoo actually smells like sweet oranges with vanilla and boy does it smell sweet. I'm not a sweet scent person, so it wasn't my cup of tea, but scent aside, it really was a good shampoo and I did feel my hair moisturized after. It also didn't lather much which is a good sign for me. When shampoos don't lather or very minimal, it's probably sulfate free and doesn't have harsh artificial chemicals in it. And this shampoo is just that, free of SLS, sulfates, parabens, phthalates, fragrances, dyes, sodium chloride, formaldehyde, MEA, DEA, TEA & most common allergens. I might actually learn to like the scent and it doesn't really linger on your hair so once this bottle is gone, I will be repurchasing.</p>
+</DL>
+
+<center><img src='/images/HonestJune2015Sunscreen.jpg'></center>
+<DL>
+<DT>Sunscreen SPF 30</DT>
+<DD>3.0 oz., $13.95<DD>
+<p>I actually wanted to get the sunscreen spray, but that was sold out so I opted for this instead. It's SPF 30 and water resistant for 80 mins.</p>
+<p>A naturally derived, unscented, broad-spectrum (UVA and UVB) SPF mineral sunscreen that's also oxybenzone free. When I first research this product, it actually didn't get good reviews. But Honest Co. has now improved the ingredients and this is their new + improved version.</p>
+<p>Upon application, I felt that it wasn't greasy and it was easy to apply and my skin absorbed it effortlessly. I don't like the smell though, it's a funky one, almost like smelling vegetable oil which is one of the ingredients so maybe that's why. Even though I'd prefer no fragrance than having one that's artificial, I do wish that they could add a fragrant natural essential oil to it so that it would be much more pleasant to apply for my scenses. Oh well, I guess you can't have it all.</p>
+</DL>
+
+### My add-on products:
+
+<center><img src='/images/HonestJune2015Towels.jpg'></center>
+<DL>
+<DT>Dish Towels</DT>
+<DD>2 Organic Cotton Dish Towels 12" x 24", $7.95<DD>
+<p>You can never have enough towels and this one doesn’t disappoint. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
+</DL>
+
+<center><img src='/images/HonestJune2015Freshener.jpg'></center>
+<DL>
+<DT>Air + Fabric Freshener</DT>
+<DD>Lemon Verbana 9.3 fl.oz., $6.95<DD>
+<p>This is available in 3 scents: Lavender Vanilla, Lemon Verbena & Orange Cypress. I chose Lemon Verbana because I like mostly fresh scents and try to avoid sweet smelling scents whenever possible.</p>
+<p>I like that this is both an air and fabric freshener, and appreciate that it's a natural product that uses essential oils. The fragrance is quote aroma therapeutic and have been spraying this everywhere in the house since I got my hands on it. One of my favorite things to do is to spray this on my bed right before I go to sleep.</p>
+</DL>
+
+<center><img src='/images/HonestJune2015Scrub.jpg'></center>
+<DL>
+<DT>Sea Salt + Sugar Body Scrub</DT>
+<DD>Lavender Vanilla 9.5 oz., $16.95<DD>
+<p>Another sweet fragrance, almost like vanilla almonds. Not sure if I’m into the scent, but maybe it’ll grow on me.</p>
+<p>As far as the product goes, it goes on like a scrub initially with it's gentle exfoliating granules, but once you scrub your body with it, it starts to become more of a lotion texture with the granules melting away as you scrub. What's left as you continue scrubbing is a layer of thin moisturizing lotion and an amazed woman still figuring out how that happened while the shower is still running. After drying up, I felt my skin both exfoliated and moisturized, amazing.</p>
+
+#### Bonus Item!
+
+<center><img src='/images/HonestJune2015LipBalm.jpg'></center>
+<DL>
+<DT>Organic Lip Balm</DT>
+<DD>Lavender Mint 4.2g/.15 oz., $2.98<DD>
+<p>What a surprise, and a useful one to add! I'm a self proclaimed lip product addict this organic lip balm will get its use for sure. It's instantly moisturizing and is infused with Tahitian Tamanu oil that's rich in Omega 6 and 9 essential fatty acids to help restore skin vitality and boost moisture retention. It's slightly tingly after application due to the peppermint oil, and I love that cause it'll be great for the hot summer days. Hey, your lips needs some cooling too!</p>
+
+<p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
