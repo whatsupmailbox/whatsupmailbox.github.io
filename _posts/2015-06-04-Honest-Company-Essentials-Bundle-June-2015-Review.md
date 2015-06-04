@@ -22,7 +22,7 @@ date: 2015-06-04 14:01:39 -08:00
 <br>
 
 <center><img src='/images/HonestJune2015Box.jpg'></center>
-<p>Initially my delivery date was set to next week, but we ran out of a few products at home so I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference in case I run out of something, I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
+<p>Initially my delivery date was set to next week, but we ran out of a few products at home so I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference in case I run out of something, I can just order from them knowing that it won’t take long.</p>
 <br>
 
 <center><img src='/images/HonestJune2015OpenBox.jpg'></center>
@@ -48,7 +48,7 @@ date: 2015-06-04 14:01:39 -08:00
 <center><img src='/images/HonestJune2015DishBrush.jpg'></center>
 <DL>
 <DT>Suds Up - Ceramic soap dish & bamboo brush</DT>
-<DD>1 bamboo dish brush and ceramic base, $12.95<DD>
+<DD>1 bamboo dish brush and ceramic base, $12.95</DD>
 <p>I am amazed with this product! Not only does it look chic and modern, it actually works pretty darn good as a dish brush. It's also pretty unique on how it works.</p>
 <p>The ceramic base acts as a holder for liquid dish soap that you can put in (you don't need to put a lot), and in that base there's a raised blue insert with perforations so that the soap can get through to the brush. All you need to do is pump the brush up and down on that blue insert and voila, you have a perfectly soaped dish brush ready to use.</p>
 <p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste since it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink. #winning</p>
