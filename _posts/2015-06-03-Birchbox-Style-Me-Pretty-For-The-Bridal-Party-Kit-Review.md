@@ -38,7 +38,7 @@ date: 2015-06-03 19:00:39 -08:00
 <DL>
 <DT><a href='http://www.dogeared.com/daughter-sideways-heart-necklace%2C-gold-dipped/MRGG100310499.html#start=14&q=heart&sz=12'>Dogeared - Gold Bridal Necklace</a></DT>
 <DD>16" chain, Retail Value $54</DD>
-<p>This necklace is delicate, simple and gorgeous. Birchbox has this valued at $64, but I actually found the same exact necklace on Dogeared's website for $54, it's a "Daughter sideways heart" necklace.</p>
+<p>This necklace is delicate, simple and gorgeous. Birchbox has this valued at $64, but I actually found the same exact necklace on Dogeared's website for $54, they call it the "Daughter sideways heart" necklace.</p>
 <p>I love Dogeared jewelries and pretty much bought this box for this necklace alone! Confession, I'm already married, won't be in a bridal party anytime soon, but this box was just too good to pass #itsanaddiction</p>
 </DL>
 <DL>
