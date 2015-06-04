@@ -29,6 +29,7 @@ date: 2015-06-03 19:00:39 -08:00
 <br>
 
 <DT>This is a Birchbox Exclusive box created in partnership with the wedding pros at Style Me Pretty. It’s packed with chic, thoughtful products your bridal party will absolutely love. Just in time for wedding season!</DT>
+<br>
 <p>You can gift this collection when you’re asking someone to join your bridal party, or as a thank-you on the big day. It also comes with a beautiful card that you can personalize for your recipient.</p>
 
 <br>
