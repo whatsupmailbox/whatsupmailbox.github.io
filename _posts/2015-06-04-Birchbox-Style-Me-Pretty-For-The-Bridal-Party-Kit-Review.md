@@ -2,15 +2,15 @@
 layout: post
 published: false
 categories: 
-    - Subscriptions
+    - Products
     - Reviews
-title: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review!
+title: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review + Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: BirchboxBridalPartyKitJune2015Box.jpg
-headline: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review!
-tags: [Birchbox, Subscriptions, Reviews, June 2015]
+headline: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review + Coupon!
+tags: [Birchbox, Products, Reviews, June 2015]
 date: 2015-06-04 11:00:39 -08:00
 ---
 
