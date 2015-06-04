@@ -19,7 +19,7 @@ date: 2015-06-04 14:01:39 -08:00
 <p><b>Subscription:</b> <a href="http://www.honest.com/refer_to/792187">Honest Company Essentials Bundle</a></p>
 <p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
-<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE discover set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
+<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE Essential discover set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
 <br>
 
 <p>Initially my delivery date was set to next week, but we ran out of a few essentials at home that I bumped up the date. It only took 2 days for the box to get to me, which is amazing! Also great for future reference knowing that if I ran out of something I can just order from them knowing that it won’t take long and I won’t have to settle for mediocre products from other stores due to necessity.</p>
@@ -51,22 +51,20 @@ date: 2015-06-04 14:01:39 -08:00
 <p>Before I had to pump dish soap on to my brush multiple times which seemed like a waste but it kept on getting washed away as I did the dishes, but now that's all ancient history. I'm saving money by using less soap, saving space and upgrading the look of my kitchen sink.</p>
 </DL>
 
-<center><img src='/images/HonestJune2015BugSpray.jpg'></center>
+<center><img src='/images/HonestJune2015BugSprayShampoo.jpg'></center>
 <DL>
 <DT>Bug Spray</DT>
 <DD>4.0 fl. oz., $12.95<DD>
 <p>Finally a safe way to repel pesky bugs without harsh chemicals, yay! I don't know what it is about me, but I attract bugs. Be it when we're camping, hiking, or enjoying the botanical garden in places we travel to, bugs always find a way to find me. It's quite annoying.</p>
 <p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! #watchoutbugs</p>
 </DL>
-
-<center><img src='/images/HonestJune2015Shampoo.jpg'></center>
 <DL>
 <DT>Shampoo + Body Wash</DT>
 <DD>Sweet Orange Vanilla 8.5 fl. oz. (250 mL), $9.95<DD>
 <p>This shampoo actually smells like sweet oranges with vanilla and boy does it smell sweet. I'm not a sweet scent person, so it wasn't my cup of tea, but scent aside, it really was a good shampoo and I did feel my hair moisturized after. It also didn't lather much which is a good sign for me. When shampoos don't lather or very minimal, it's probably sulfate free and doesn't have harsh artificial chemicals in it. And this shampoo is just that, free of SLS, sulfates, parabens, phthalates, fragrances, dyes, sodium chloride, formaldehyde, MEA, DEA, TEA & most common allergens. I might actually learn to like the scent and it doesn't really linger on your hair so once this bottle is gone, I will be repurchasing.</p>
 </DL>
 
-<center><img src='/images/HonestJune2015Sunscreen.jpg'></center>
+<center><img src='/images/HonestEssentialsBundleJune2015SunscreenTowel.jpg'></center>
 <DL>
 <DT>Sunscreen SPF 30</DT>
 <DD>3.0 oz., $13.95<DD>
@@ -84,7 +82,12 @@ date: 2015-06-04 14:01:39 -08:00
 <p>You can never have enough towels and this one doesn’t disappoint. It’s made with 100% organic cotton and doesn’t leave any lint on your dishes. It absorbed the water well and the pattern will go great in any kitchen.</p>
 </DL>
 
-<center><img src='/images/HonestJune2015Freshener.jpg'></center>
+<figure class=half>
+  <img src='/images/HonestJune2015Freshener.jpg'>
+  <img src='/images/HonestJune2015Freshener2.jpg'>
+  <figcaption>Organic and natural ingredients</figcaption>
+</figure>
+
 <DL>
 <DT>Air + Fabric Freshener</DT>
 <DD>Lemon Verbana 9.3 fl.oz., $6.95<DD>
@@ -92,7 +95,15 @@ date: 2015-06-04 14:01:39 -08:00
 <p>I like that this is both an air and fabric freshener, and appreciate that it's a natural product that uses essential oils. The fragrance is quote aroma therapeutic and have been spraying this everywhere in the house since I got my hands on it. One of my favorite things to do is to spray this on my bed right before I go to sleep.</p>
 </DL>
 
-<center><img src='/images/HonestJune2015Scrub.jpg'></center>
+<br>
+
+<figure class=half>
+  <img src='/images/HonestJune2015Scrub.jpg'>
+  <img src='/images/HonestJune2015Scrub2.jpg'>
+</figure>
+
+<br>
+
 <DL>
 <DT>Sea Salt + Sugar Body Scrub</DT>
 <DD>Lavender Vanilla 9.5 oz., $16.95<DD>
