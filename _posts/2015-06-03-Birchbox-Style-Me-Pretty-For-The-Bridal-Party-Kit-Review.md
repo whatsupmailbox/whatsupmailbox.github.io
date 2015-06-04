@@ -11,11 +11,16 @@ type: photo
 imagefeature: BirchboxBridalPartyKitJune2015Items.jpg
 headline: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review + Coupon!
 tags: [Birchbox, Products, Reviews, June 2015]
-date: 2015-06-04 11:00:39 -08:00
+date: 2015-06-03 19:00:39 -08:00
 ---
 
-<figure class=half>
-<center><img src='/images/BirchboxBridalPartyKitJune2015Box.jpg'></center>
+<figure class="half">
+    <img src='/images/BirchboxBridalPartyKitJune2015Box.jpg'>
+    <img src='/images/BirchboxBridalPartyKitJune2015OpenBox.jpg'>
+    <figcaption><a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a>'s signature orange shipping box and first look!</figcaption>
+</figure>
+<br>
+
 <p><b>Box:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> + Style Me Pretty "For The Bridal Party" Kit</p>
 <p><b>Cost:</b> $32 + Free Shipping (taxes applicable for CA)</p>
 <p><b>Coupon:</b> Try any of these coupon codes: TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10</p>
@@ -24,7 +29,7 @@ date: 2015-06-04 11:00:39 -08:00
 <DT>This is a Birchbox Exclusive box created in partnership with the wedding pros at Style Me Pretty. It’s packed with chic, thoughtful products your bridal party will absolutely love. Just in time for wedding season!</DT>
 <p>You can gift this collection when you’re asking someone to join your bridal party, or as a thank-you on the big day. It also comes with a beautiful card that you can personalize for your recipient.</p>
 
-<center><img src='/images/BirchboxBridalPartyKitJune2015Box.jpg'></center>
+<center><img src='/images/BirchboxBridalPartyKitJune2015Items.jpg'></center>
 
 <H4>The products:</H4>
 <DL>
@@ -60,4 +65,4 @@ date: 2015-06-04 11:00:39 -08:00
 
 <p><b>VERDICT:</b> Since I bought this box for the sole purpose of obtaining the necklace, I'm happy and thought it was money well spent (especially since I used one of those coupons above!). It was curated perfectly, although they probably should have chosen a different brand for the highlighter that is more health conscious. Birchbox markets this box as having a value of $92. From researching online, my total value came up to $81.75. The difference is due to the necklace's pricing, but everything else is pretty spot on. If you love candles and love gold delicate necklaces (aka Dogeared), definitely grab this box as that's worth buying alone!</p>
 
-<p>You don't have to be a subscriber to purchase this box, but if want to subscribe, you can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a></p>
+* You don't have to be a subscriber to purchase this box, but if want to subscribe, you can join <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a></p>
