@@ -125,7 +125,7 @@ date: 2015-06-04 14:01:39 -08:00
 <p>Another sweet fragrance, almost like vanilla almonds. Not sure if I’m into the scent, but maybe it’ll grow on me.</p>
 <p>As far as the product goes, it goes on like a scrub initially with it's gentle exfoliating granules, but once you scrub your body with it, it starts to become more of a lotion texture with the granules melting away as you scrub. What's left as you continue scrubbing is a layer of thin moisturizing lotion and an amazed woman still figuring out how the heck did that happen while the shower is still running. Once I dried up, I felt my skin both exfoliated and moisturized, even hours after, amazing.</p>
 
-#### Bonus Item!
+### Bonus Item!
 
 <center><img src='/images/HonestJune2015LipBalm.jpg'></center>
 <DL>
