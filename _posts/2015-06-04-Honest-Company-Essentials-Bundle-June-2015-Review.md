@@ -5,7 +5,7 @@ description: ""
 headline: "Honest Company Essentials Bundle June 2015 Review + Free Trial Box!"
 tags: [Honest Company, Subscriptions, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
@@ -127,4 +127,4 @@ date: 2015-06-04 14:01:39 -08:00
 
 <br>
 
-<p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. I do wish though that their scents would be less of a dessert bakery and more of a spa, but that's just my preference in scents. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
+<p><b>VERDICT:</b> I <strike>liked</strike> loved all my picks this month for my bundle and can "honestly" say that each one of them will be a staple in my household. I do wish though that their scents would be less of a bakery and more of a spa, but that's just my preference in scents. If I purchased the bundle products individually, the total would come up to $65.75 but I only paid $35.95 because of the subscription, that's almost 50% off! I'm already planning out what to get for my next bundle, so stay tuned to see what I order next month!</p>
