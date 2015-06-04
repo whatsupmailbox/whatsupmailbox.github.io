@@ -43,7 +43,7 @@ date: 2015-06-03 19:00:39 -08:00
 </DL>
 <DL>
 <DT><a href='https://www.birchbox.com/shop/greenleaf-candle-tin/'>Greenleaf Candle Tin – Cashmere Kiss</a></DT>
-<DD>Travel size 6 oz / 170 g, Retail Value $10</DD>
+<DD>Travel size 6 oz. / 170 g, Retail Value $10</DD>
 <p>As picky as I am with fragrance, this candle smells romantic, feminine and showered with florals. Just like a wedding, what a perfect item to include!</p>
 <p>Although not stated on their packaging, this candle is made from a soy and vegetable wax blend for a longer, cleaner burn. I've had candles from them before thanks to Birchbox, and this is a great addition for my summer candle indulgences.</p>
 </DL>
