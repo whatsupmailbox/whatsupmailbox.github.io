@@ -8,12 +8,13 @@ title: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review + Coupon
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxBridalPartyKitJune2015Box.jpg
+imagefeature: BirchboxBridalPartyKitJune2015Items.jpg
 headline: Birchbox + Style Me Pretty “For the Bridal Party” Kit Review + Coupon!
 tags: [Birchbox, Products, Reviews, June 2015]
 date: 2015-06-04 11:00:39 -08:00
 ---
 
+<figure class=half>
 <center><img src='/images/BirchboxBridalPartyKitJune2015Box.jpg'></center>
 <p><b>Box:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> + Style Me Pretty "For The Bridal Party" Kit</p>
 <p><b>Cost:</b> $32 + Free Shipping (taxes applicable for CA)</p>
