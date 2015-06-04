@@ -24,6 +24,7 @@ date: 2015-06-03 19:00:39 -08:00
 <p><b>Box:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> + Style Me Pretty "For The Bridal Party" Kit</p>
 <p><b>Cost:</b> $32 + Free Shipping (taxes applicable for CA)</p>
 <p><b>Coupon:</b> Try any of these coupon codes: <b>TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10</b></p>
+
 <br>
 
 <DT>This is a Birchbox Exclusive box created in partnership with the wedding pros at Style Me Pretty. It’s packed with chic, thoughtful products your bridal party will absolutely love. Just in time for wedding season!</DT>
