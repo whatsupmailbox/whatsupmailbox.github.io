@@ -37,13 +37,13 @@ date: 2015-06-03 19:00:39 -08:00
 <H4>The products:</H4>
 <DL>
 <DT><a href='http://www.dogeared.com/daughter-sideways-heart-necklace%2C-gold-dipped/MRGG100310499.html#start=14&q=heart&sz=12'>Dogeared - Gold Bridal Necklace</a></DT>
-<DD>16" chain, Retail Value $54</DD>
+<DD>16" chain, $54</DD>
 <p>This necklace is delicate, simple and gorgeous. Birchbox has this valued at $64, but I actually found the same exact necklace on Dogeared's website for $54, they call it the "Daughter sideways heart" necklace.</p>
 <p>I love Dogeared jewelries and pretty much bought this box for this necklace alone! Confession, I'm already married and won't be in a bridal party anytime soon, but this box was just too good to pass #itsanaddiction</p>
 </DL>
 <DL>
 <DT><a href='https://www.birchbox.com/shop/greenleaf-candle-tin/'>Greenleaf Candle Tin – Cashmere Kiss</a></DT>
-<DD>Travel size 6 oz. / 170 g, Retail Value $10</DD>
+<DD>Travel size 6 oz. / 170 g, $10</DD>
 <p>As picky as I am with fragrance, this candle smells romantic, feminine and showered with florals. Just like a wedding, what a perfect item to include!</p>
 <p>Although not stated on their packaging, this candle is made from a soy and vegetable wax blend for a longer, cleaner burn. I've had candles from them before thanks to Birchbox, and this is a great addition for my summer candle indulgences.</p>
 </DL>
