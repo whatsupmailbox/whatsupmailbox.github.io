@@ -61,7 +61,7 @@ date: 2015-06-03 19:00:39 -08:00
 </DL>
 <DL>
 <DT><a href='http://www.maydesigns.com'>May Designs</a> - Custom Bridesmaid Card</DT>
-<DD>1 card, Retail Value $2</DD>
+<DD>1 card with envelope, Retail Value $2</DD>
 <p>This design is exclusive to Birchbox. It's simple, white with a tiny hint of pink color and a message that's clever and touching at the same time.</p>
 <p>Since I bought this box without the intention of having a wedding, I'll keep this in my greeting card collection and hopefully can give it to a friend who can make use of this.</p>
 </DL>
