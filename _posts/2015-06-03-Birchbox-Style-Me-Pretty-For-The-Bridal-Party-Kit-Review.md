@@ -25,6 +25,7 @@ date: 2015-06-03 19:00:39 -08:00
     <img src='/images/BirchboxBridalPartyKitJune2015OpenBox.jpg'>
     <figcaption><a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a>'s signature orange shipping box and first look!</figcaption>
 </figure>
+
 <br>
 
 <DT>This is a Birchbox Exclusive box created in partnership with the wedding pros at Style Me Pretty. It’s packed with chic, thoughtful products your bridal party will absolutely love. Just in time for wedding season!</DT>
