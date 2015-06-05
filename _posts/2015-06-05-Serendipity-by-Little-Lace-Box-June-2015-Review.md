@@ -11,7 +11,7 @@ type: photo
 imagefeature: SerendipityJune2015Packaging.jpg
 headline: Serendipity by Little Lace Box June 2015 Review!
 tags: [Serendipity by LLB, Subscriptions, Reviews, June 2015]
-date: 2015-06-04 18:10:39 -08:00
+date: 2015-06-05 09:10:39 -08:00
 ---
 
 <center><H4>Serendipity is a new subscription by Little Lace Box and this review is for their first launch package!</H4></center>
