@@ -14,7 +14,7 @@ tags: [Serendipity by LLB, Subscriptions, Reviews, June 2015]
 date: 2015-06-04 18:10:39 -08:00
 ---
 
-<H4>Serendipity is a new subscription by Little Lace Box and this review is for their first launch package!</H4>
+<center><H4>Serendipity is a new subscription by Little Lace Box and this review is for their first launch package!</H4></center>
 
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b">Serendipity by Little Lace Box</a></p>
 <p><b>Cost:</b> $9.99 bi-monthly (on the off months of the Little Lace Box) with Free Shipping</p>
