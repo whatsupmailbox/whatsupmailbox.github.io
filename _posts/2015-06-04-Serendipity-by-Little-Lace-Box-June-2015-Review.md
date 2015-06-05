@@ -8,7 +8,7 @@ title: Serendipity by Little Lace Box June 2015 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: LittleLaceBoxJune2015Box.jpg
+imagefeature: SerendipityJune2015Packaging.jpg
 headline: Serendipity by Little Lace Box June 2015 Review!
 tags: [Serendipity by LLB, Subscriptions, Reviews, June 2015]
 date: 2015-06-04 18:10:39 -08:00
