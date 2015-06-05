@@ -63,8 +63,8 @@ Water resistant pencil suitable for the most sensitive eye area. It is the perfe
 <DL>
 <DT><a href="http://www.bellaink.com/shop/cc-31-cupcake-birthday-folded-note">Bella Ink - Cupcake Birthday Card</a></DT>
 <DD>1 card with envelope, Retail Value $4</DD>
-<p>This was an unexpected item, but a good one. Every subscriber got different types of card and I'm glad I got the Birthday one. It seems I'm in need of that type of card most often.</p>
 </DL>
+<p>This was an unexpected item, but a good one. Every subscriber got different types of card and I'm glad I got the Birthday one. It seems I'm in need of that type of card most often.</p>
 
 <br>
 
