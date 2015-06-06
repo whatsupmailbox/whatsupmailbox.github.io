@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have Special Edition Summer 2015 Box Review!"
 tags: [Popsugar Must Have, Products, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
@@ -39,13 +39,13 @@ date: 2015-06-05 19:01:39 -08:00
 </figure>
 <br>
 
+<H4>Here are the items:</H4>
 <center><img src='/images/PopsugarSummer2015Collage.jpg'></center>
 <figcaption>How awesome are the items for this year's Special Edition Summer Box!</figcaption>
 
 <br>
 
-<H4>Here are the products in detail:</H4>
-
+<H4>The products in detail:</H4>
 <center><img src='/images/PopsugarSummer2015Bracelet.jpg'></center>
 <DL>
 <DT>Kendra Scott - Ainsley Cuff Bracelet</DT>
