@@ -23,13 +23,14 @@ date: 2015-06-05 20:27:39 -08:00
 <br>
 
 <center><DT>I chose the <i>Palm Springs</i> outfit for this month.</DT></center>
-
+<p>
 <figure class="third">
         <img src='/images/FableticsJune2015PalmSprings.jpg'>
         <img src='/images/FableticsJune2015PalmSprings2.jpg'>
         <img src='/images/FableticsJune2015PalmSprings3.jpg'>
         <figcaption>Moorea Bra + Salar Crop</figcaption>
 </figure>
+</p>
 
 <br>
 
