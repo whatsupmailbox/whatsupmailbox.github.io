@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Birchbox Man July 2015 Sample Choice Revealed + Power Play
 featured: false
 comments: true
@@ -56,6 +56,6 @@ Here are your June 2015 Sample Choice items:
 
 <br>
 
-* Power Play Items are available to be reserved starting Monday, June 8.
+*Power Play Items are available to be reserved starting Monday, June 8.
 
 <p>Not a subscriber? You can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the July box.</p>
