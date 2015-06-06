@@ -22,8 +22,9 @@ date: 2015-06-05 20:27:39 -08:00
 <p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a sports outfit!</p>
 <br>
 
-<DT>I chose the <i>Palm Springs</i> outfit for this month.</DT>
-<figure class="half">
+<center><DT>I chose the <i>Palm Springs</i> outfit for this month.</DT></center>
+
+<figure class="third">
         <img src='/images/FableticsJune2015PalmSprings.jpg'>
         <img src='/images/FableticsJune2015PalmSprings2.jpg'>
         <img src='/images/FableticsJune2015PalmSprings3.jpg'>
