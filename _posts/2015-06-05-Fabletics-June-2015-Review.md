@@ -56,7 +56,7 @@ date: 2015-06-05 20:27:39 -08:00
 <DD>Retail Value $64.95, VIP Member Price $44.95</DD>
 </DL>
 
-<p>This print is so pretty! It also comes in a blue theme color with the same print, but my skin tone doesn't match that type of blue so I opted for this color instead. I have Salar Crops from them already and they're great. Comfortable fit with no camel toes, and a waistband that helps to eliminate muffin top.</p>
+<p>This print is so pretty! It also comes in a blue theme color with the same print, but my skin tone doesn't match that type of blue so I opted for this color instead. I have Salar Crops from them already and they're great. Comfortable fit with no camel toes and signs of your undies, plus a waistband that helps to eliminate muffin top.</p>
 
 <br>
 
