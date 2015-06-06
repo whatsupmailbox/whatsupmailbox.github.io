@@ -41,7 +41,7 @@ date: 2015-06-05 20:27:39 -08:00
 
 <center><img src='/images/FableticsJune2015Top.jpg'></center>
 <DL>
-<DT>Moorea Bra in Black/White</DT>
+<DT>Moorea Bra in <i>Black/White</i></DT>
 <DD>Retail Value $34.95, VIP Member Price $24.95</DD>
 </DL>
 
@@ -52,7 +52,7 @@ date: 2015-06-05 20:27:39 -08:00
 
 <center><img src='/images/FableticsJune2015Bottom.jpg'></center>
 <DL>
-<DT>Salar Crop in Seashell Bloom Print</DT>
+<DT>Salar Crop in <i>Seashell Bloom Print</i></DT>
 <DD>Retail Value $64.95, VIP Member Price $44.95</DD>
 </DL>
 
