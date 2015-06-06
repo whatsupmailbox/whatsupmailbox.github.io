@@ -11,7 +11,7 @@ categories:
   - Products
   - Reviews
 type: photo
-imagefeature: "PopsugarSummer2015Collage.jpg"
+imagefeature: "PopsugarSummer2015Box.jpg"
 date: 2015-06-05 19:01:39 -08:00
 ---
 
@@ -21,7 +21,7 @@ date: 2015-06-05 19:01:39 -08:00
 <p><b>What's in the box:</b> A special curation of summer's hottest essentials. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been double at the least.</p>
 <br>
 
-<H4>The theme for this summer is "Set Sail With The Season's Hottest Essentials".</H4>
+<center><H4>The theme for this summer is "Set Sail With The Season's Hottest Essentials".</H4></center>
 <br>
 
 <figure class="half">
