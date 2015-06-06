@@ -18,7 +18,7 @@ date: 2015-06-06 14:18:39 -08:00
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
 
 <p>Now on to the Sample Choice items...</p>
-<center><img src='BirchboxManSampleChoiceJuly2015Collage2.jpg')</center>
+<center><img src='/images/BirchboxManSampleChoiceJuly2015Collage2.jpg')</center>
 
 Here are your June 2015 Sample Choice items:
 <ul><li>Profound Aesthetic Genuine Raw Leather Journal Pocket Size $32.00</li>
