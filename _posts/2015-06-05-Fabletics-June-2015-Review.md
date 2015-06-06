@@ -12,7 +12,7 @@ imagefeature: FableticsJune2015Items.jpg
 headline: Fabletics June 2015 Review + 50% Off!
 description: "Outfit: Palm Springs"
 tags: [Fabletics, Subscriptions, Reviews, June 2015]
-date: 2015-06-05 20:27:39 -08:00
+date: 2015-06-05 18:27:39 -08:00
 ---
 
 <center><img src='/images/FableticsJune2015Packaging.jpg'></center>
