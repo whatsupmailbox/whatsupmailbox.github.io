@@ -51,6 +51,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Kendra Scott - Ainsley Cuff Bracelet</DT>
 <DD>Size: 2.5"H, Retail Value $120<DD>
 </DL>
+
 <p>OMG, this bracelet is gorgeous and I’ve always wanted a cuff bracelet, and now I have one! It’s 14K gold plated on brass and is a favorite by many celebrities. It’s also still currently being sold in many high-end department stores at full price.</p>
 
 <p>Initially this bracelet was too big for my small wrists and it kept sliding in and out, but as usual I was determined to wear it so I slightly squeezed the bracelet together to make it smaller and voila, it fits perfectly now!</p>
@@ -62,6 +63,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Baggu - Weekend Bag in Sailor Stripe</DT>
 <DD>Retail Value $74<DD>
 </DL>
+
 <p>Whoa mama, this bag is huge! When I first saw the bag from it’s plastic packaging, I thought okay, this is a big bag. But then I started unfolding the bag and then I realized, it’s not big, it’s huge. I love it!</p>
 
 <p>Baggu is most popular for their bright colored reusable bags that can be folded into a pouch. I see more and more people wearing them now and it’s not just for groceries. This bag’s pattern is simple and matches their sailing theme, and seems very sturdy. Its made out of canvas, has two sets of handles (one for your hands and the longer one for your shoulders), an exterior pocket, zippered top, plus a zippered inside pocket. Summary: A great weekend bag.</p>
@@ -73,6 +75,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Omorovicza - Gold Shimmer Oil</DT>
 <DD>3.4 fl.oz./100 ml., Retail Value $80<DD>
 </DL>
+
 <p>This actually has gold in their ingredients and is supposed to give you a golden glow while also improving skin elasticity and softening rough patches.</p>
 
 <blockquote>
@@ -87,6 +90,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Sunnylife - Beach Paddles in Bronte</DT>
 <DD>A set of 2 paddles & 2 balls, Retail Value $26</DD>
 </DL>
+
 <p>What a fun item to include! The paddles are big and forgiving so you don't really need to be a pro in sports to use this. Plus this matches perfectly with the Baggu bag and fits in it too. I can't wait to try this out on the beach this weekend. #soexcited</p>
 
 <br>
@@ -96,6 +100,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Fringe Studio - Vintage Love Anchors Glass Tray</DT>
 <DD>Size: 4" x 5.75", Retail Value $16<DD>
 </DL>
+
 <p>This tray can be used for your jewelries, trinkets or to add a cool beachy vibe to your decor. The size is also great for your bedside table since it's neither too big or too small, its just right to store a few jewelry pieces. The glass does seem pretty thin and fragile to me though, so I might use this as a decor instead.</p>
 
 <br>
@@ -105,6 +110,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DT>Savannah Bee Company - Honey For Cheese and Old Fashioned Honey Dipper</DT>
 <DD>1 small jar 85g/3oz. & a wooden dipper, Retail Value $7.50<DD>
 </DL>
+
 <p>I typically don't like sweet and salty together, but I'm willing to try this honey out. I'm going to try their suggestions of pairing this honey with creamy Roquefort or salty Manchego cheese, that'll be interesting. Now I just need to figure out what wine will go with this pairing, hmmm time to research. And btw, the wooder dipper is so cute and a nice addition.</p>
 
 <br>
