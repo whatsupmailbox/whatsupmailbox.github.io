@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -17,7 +17,7 @@ date: 2015-06-05 20:27:39 -08:00
 
 <center><img src='/images/FableticsJune2015Packaging.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
-<p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping</p>
+<p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you get to choose an outfit (2 or 3-piece) for your workout and you can also skip any month if needed.</p>
 <p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a sports outfit!</p>
 <br>
