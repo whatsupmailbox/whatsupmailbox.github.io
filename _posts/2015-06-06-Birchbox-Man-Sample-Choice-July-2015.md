@@ -18,17 +18,16 @@ date: 2015-06-06 14:18:39 -08:00
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
 
 <p>Now on to the Sample Choice items...</p>
+<center><img src='/images/BirchboxManSampleChoiceJuly2015Collage2.jpg'></center>
 
-<center><img src='/images/BirchboxManSampleChoiceJuly2015Collage2.jpg')</center>
-
-<p>Here are your June 2015 Sample Choice items:</p>
+Here are your June 2015 Sample Choice items:
 <ul><li>Profound Aesthetic Genuine Raw Leather Journal Pocket Size $32.00</li>
 <li>Ten One Design Mountie $24.95</li>
 <li>Adopted Leather Wrap Case for iPhone 6 $39.95</li>
 </ul>
 
 <p>Instead of the samples choices, you can also opt to get a featured box to replace your entire box.</p>
-<center><img src='/images/BirchboxManSampleChoiceJuly2015FeaturedBox.jpg')</center>
+<center><img src='/images/BirchboxManSampleChoiceJuly2015FeaturedBox.jpg'></center>
 <figcaption>American Heritage Featured Box</figcaption>
 
 <br>
