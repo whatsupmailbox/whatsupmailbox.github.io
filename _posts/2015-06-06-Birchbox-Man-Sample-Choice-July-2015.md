@@ -32,7 +32,7 @@ Here are your June 2015 Sample Choice items:
 
 <br>
 
-*Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around July 8, prompting them to choose from the selection featured in this video. For early access to Sample Choice, log in and share your box page on Facebook or Twitter on or before May 11; you’ll get to choose your item an entire day early.
+*Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around June 10, prompting them to choose from the selection featured in this video. For early access to Sample Choice, just log in and refer a friend to join Birchbox on or before June 8; you’ll get to choose your item an entire day early.
 
 <br>
 
@@ -43,7 +43,7 @@ Here are your June 2015 Sample Choice items:
 
 <br>
 
-<center><img src='/images/BirchboxManPowerPlayJuly2015Sunglasses.png'></center>
+<center><img src='/images/BirchboxManPowerPlayJuly2015Tote.png'></center>
 <figcaption>Stone + Cloth Simple Tote</figcaption>
 
 <br>
@@ -56,6 +56,6 @@ Here are your June 2015 Sample Choice items:
 
 <br>
 
-<p>What will you be choosing this month?</p>
+* Power Play Items are available to be reserved starting Monday, June 8.
 
-Not a subscriber? You can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the July box.
+<p>Not a subscriber? You can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the July box.</p>
