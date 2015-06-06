@@ -52,7 +52,7 @@ date: 2015-06-05 19:01:39 -08:00
 <DD>Size: 2.5"H, Retail Value $120</DD>
 </DL>
 
-<p>OMG, this bracelet is gorgeous and I’ve always wanted a cuff bracelet, and now I have one! It’s 14K gold plated on brass and is a favorite by many celebrities. It’s also still currently being sold in many high-end department stores at full price.</p>
+<p>OMG, this bracelet is gorgeous! I’ve always wanted a cuff bracelet, and now I have one! It’s 14K gold plated on brass and is a favorite by many celebrities. It’s also still currently being sold in many high-end department stores at full price.</p>
 
 <p>Initially this bracelet was too big for my small wrists and it kept sliding in and out, but as usual I was determined to wear it so I slightly squeezed the bracelet together to make it smaller and voila, it fits perfectly now!</p>
 
