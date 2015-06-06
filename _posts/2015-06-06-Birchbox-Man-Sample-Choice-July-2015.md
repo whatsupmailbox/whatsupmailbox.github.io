@@ -26,6 +26,8 @@ Here are your June 2015 Sample Choice items:
 <li>Adopted Leather Wrap Case for iPhone 6 $39.95</li>
 </ul>
 
+<br>
+
 <p>Instead of the samples choices, you can also opt to get a featured box to replace your entire box.</p>
 <center><img src='/images/BirchboxManSampleChoiceJuly2015FeaturedBox.jpg'></center>
 <figcaption>American Heritage Featured Box</figcaption>
