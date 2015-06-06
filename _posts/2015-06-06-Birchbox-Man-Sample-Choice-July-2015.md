@@ -18,7 +18,7 @@ date: 2015-06-06 14:18:39 -08:00
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
 
 <p>Now on to the Sample Choice items...</p>
-<center><img src='/images/BirchboxManSampleChoiceJuly2015Collage.jpg)</center>
+<center><img src='/images/BirchboxManSampleChoiceJuly2015Collage2.jpg')</center>
 
 Here are your June 2015 Sample Choice items:
 <ul><li>Profound Aesthetic Genuine Raw Leather Journal Pocket Size $32.00</li>
@@ -26,9 +26,9 @@ Here are your June 2015 Sample Choice items:
 <li>Adopted Leather Wrap Case for iPhone 6 $39.95</li>
 </ul>
 
-<p>Instead of the samples choices, you can also opt to get a curated box:
-<center><img src='/images/BirchboxManSampleChoiceJuly2015Curated.jpg)</center>
-<figcaption>Curated Box by Simple & Thread</figcaption>
+<p>Instead of the samples choices, you can also opt to get a featured box to replace your entire box.</p>
+<center><img src='/images/BirchboxManSampleChoiceJuly2015FeaturedBox.jpg')</center>
+<figcaption>American Heritage Featured Box</figcaption>
 
 <br>
 
@@ -36,12 +36,26 @@ Here are your June 2015 Sample Choice items:
 
 <br>
 
-<center><img src='/images/BirchboxManPowerPlayJuly2015.jpg'></center>
-<H4>Power Play items (items you can add-on to your box at a discounted rate):</H4>
-<ul><li>Native Union JUMP Cable $38.00 (SOLD OUT!)</li>
-<li>Quirky Switch Multitool $48.00</li>
-</ul>
+<H4>Here are July's Power Play items:</H4>
+<i>items you can add-on to your box at a discounted price</i>
+<center><img src='/images/BirchboxManPowerPlayJuly2015Sunglasses.png'></center>
+<figcaption>Toms Traveler X Sunglasses in Black or Brown</figcaption>
+
+<br>
+
+<center><img src='/images/BirchboxManPowerPlayJuly2015Sunglasses.png'></center>
+<figcaption>Stone + Cloth Simple Tote</figcaption>
+
+<br>
+
+<figure class="half">
+      <img src='/images/BirchboxManPowerPlayJuly2015Tee.png'></center>
+      <img src='/images/BirchboxManPowerPlayJuly2015Tee2.png'></center>
+      <figcaption>Alternative V-Neck Tee in Blue or Black</figcaption>
+</figure>
+
+<br>
 
 <p>What will you be choosing this month?</p>
 
-Not a subscriber? You can join <a href="https://www.birchbox.com/invite/whatsupmailbox">now</a> to receive the July box.
+Not a subscriber? You can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the July box.
