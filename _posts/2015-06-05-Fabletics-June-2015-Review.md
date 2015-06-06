@@ -8,13 +8,14 @@ title: Fabletics June 2015 Review + 50% Off!
 featured: false
 comments: true
 type: photo
-imagefeature: FL2May2015Items.jpg
+imagefeature: FableticsJune2015Items.jpg
 headline: Fabletics June 2015 Review + 50% Off!
 description: "Outfit: Palm Springs"
 tags: [Fabletics, Subscriptions, Reviews, June 2015]
 date: 2015-06-05 20:27:39 -08:00
 ---
 
+<center><img src='/images/FableticsJune2015Packaging.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a></p>
 <p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping</p>
 <p><b>What's in the box:</b> Every month you get to choose an outfit (2 or 3-piece) for your workout and you can also skip any month if needed.</p>
@@ -23,30 +24,38 @@ date: 2015-06-05 20:27:39 -08:00
 
 <DT>I chose the <i>Palm Springs</i> outfit for this month.</DT>
 <figure class="half">
-        <img src='/images/FableticsJune2015PalmSprings.png'>
-        <img src='/images/FableticsJune2015PalmSprings2.png'>
-        <img src='/images/FableticsJune2015PalmSprings3.png'>
+        <img src='/images/FableticsJune2015PalmSprings.jpg'>
+        <img src='/images/FableticsJune2015PalmSprings2.jpg'>
+        <img src='/images/FableticsJune2015PalmSprings3.jpg'>
         <figcaption>Moorea Bra + Salar Crop</figcaption>
 </figure>
 
 <br>
 
-<p><center><img src='/images/FL2May2015Batona.png'></center></p>
+<H4>And here are the items:</H4>
+<center><img src='/images/FableticsJune2015Items.jpg'></center>
 
-<p>Packages came in their typical white plastic bag, exactly like the women's Fabletics.
-<center><img src='/images/FL2May2015Bag.jpg'></center>
 <br>
 
-<H4>And here are the items:</H4>
-<center><img src='/images/FL2May2015Items.jpg'></center>
+<center><img src='/images/FableticsJune2015Top.jpg'></center>
 <DL>
-<DT>Hagen Tee in Heather/Black</DT>
-<DD>Retail Value $39.95, VIP Member Price $29.95</DD>
-<p>This shirt is perfect in every way! It has side mesh panels which is great for those sweaty workouts, then it has reflective details so you can be seen in the dark. The texture is soft and it stretches for comfort. My husband absolutely loved it!</p>
+<DT>Moorea Bra in Black/White</DT>
+<DD>Retail Value $34.95, VIP Member Price $24.95</DD>
 </DL>
-<DL>
-<DT>Forster Short in Black/Shale</DT>
-<DD>Retail Value $64.95, VIP Member Price $49.95</DD>
-<p>And another great item! These pants also have side mesh panels, a built in liner, and zippered pockets... perfect. My husband loved them so much that I'll be buying the blue color version next month.</p>
 
-<p><b>VERDICT:</b> The Batona outfit was such a great hit for my husband that although he was hesitant to have a subscription for activewear, he has now been converted and will continue to subscribe. The total value of the outfit came up to $104.90 in retail value, and with VIP membership pricing it goes down to $79.90. But since I have their FL2 subscription, I only paid $59.95 which is a great deal for these 2 amazing items. Hopefully they add more items such as these to the men's collection.</p>
+<p>This bra is so sporty yet sexy! I can see myself wearing this not only to the gym but everyday. I even saw Kate Hudson wear this top at a Fabletics party this week! She paired it with a black maxi skirt, so uber chic.</p>
+<p>This top has a built-in bra with removable cups which is convenient, and the fabric feels soft and breathable. Sizing was perfect as I didn't need to size up or down.</p>
+
+<br>
+
+<center><img src='/images/FableticsJune2015Bottom.jpg'></center>
+<DL>
+<DT>Salar Crop in Seashell Bloom Print</DT>
+<DD>Retail Value $64.95, VIP Member Price $49.95</DD>
+</DL>
+
+<p>This print is so pretty! It also comes in a blue color with the same print, but my skin tone doesn't match that type of blue so I opted for this color instead. I have Salar Crops from them already and they're great. Comfortable fit with no camel toes, and a waistband that helps to eliminate muffin top.</p>
+
+<br>
+
+<p><b>VERDICT:</b> I'm so happy with my outfit, it looks amazing and comfortable at the same time. The crop print alone is gorgeous, and the top, well it's so versatile that its a wine for me. The total value of the outfit came up to $104.90 in retail value, and with VIP membership pricing it goes down to $79.90. But since I have their FL2 subscription, I only paid $59.95 which is a great deal for these 2 amazing items. Hopefully they add more items such as these to the men's collection.</p>
