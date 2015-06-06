@@ -33,8 +33,8 @@ date: 2015-06-05 19:01:39 -08:00
 <br>
 
 <figure class="half">
-        <img src='/images/PopsugarSummer2015Info.jpg'>
         <img src='/images/PopsugarSummer2015Info2.jpg'>
+        <img src='/images/PopsugarSummer2015Info.jpg'>
         <figcaption>They always include a fold out card that details all the items and prices.</figcaption>
 </figure>
 <br>
