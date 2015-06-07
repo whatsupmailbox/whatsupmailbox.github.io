@@ -76,7 +76,9 @@ date: 2015-06-05 19:01:39 -08:00
 <DD>3.4 fl.oz./100 ml., Retail Value $80</DD>
 </DL>
 
-<p>This actually has gold in their ingredients and is supposed to give you a golden glow while also improving skin elasticity and softening rough patches.</p>
+<p>This actually has real gold in the ingredients and is supposed to give you a golden glow while also improving skin elasticity and softening rough patches.</p>
+
+<p>'Infused with coconut, rice germ, apricot seed and calendula oils for deep hydration, and tiny flecks of gold for subtle but unmistakable sheen. In the body oil category, it's the season's hands-down winner.' -O, The Oprah Magazine</p>
 
 <blockquote>
   About Omorovicza:
