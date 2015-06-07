@@ -56,6 +56,6 @@ date: 2015-06-06 14:18:39 -08:00
 
 <br>
 
-*Power Play Items are available to be reserved starting Monday, June 8.
+Note: Power Play Items are available to be reserved starting Monday, June 8.
 
 <p>Not a subscriber? You can subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to receive the July box.</p>
