@@ -37,7 +37,7 @@ Here are your June 2015 Sample Choice items:
 *Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around June 10, prompting them to choose from the selection featured in this video. For early access to Sample Choice, just log in and refer a friend to join Birchbox on or before June 8; you’ll get to choose your item an entire day early.
 
 <H4>Here are July's Power Play items:</H4>
-<i>items you can add-on to your box at a discounted price</i>
+items you can add-on to your box at a discounted price
 <center><img src='/images/BirchboxManPowerPlayJuly2015Sunglasses.png'></center>
 <figcaption>Toms Traveler X Sunglasses in Black or Brown</figcaption>
 
