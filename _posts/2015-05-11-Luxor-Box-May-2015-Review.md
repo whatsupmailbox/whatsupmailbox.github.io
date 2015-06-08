@@ -90,4 +90,4 @@ Details of the items are included in these cards. One side gives information on 
 
 <p>I've actually tried their fancy sugars before and absolutely love them! I feel so fancy and proper when I use these for my tea. And I think the name of the set is perfect and would be great for gifting a newlywed or couples who love tea/coffee.</p>
 
-<p><b>VERDICT:</b> I absolutely LOVED their first box and thought that they curated the items pretty spot on. The value of the box is $255.95 which is double the actual cost. I'll be using every single item in this box, and the value is definitely there for me so I'm satisfied and will continue to subscribe. I can't wait to see what their second box will offer!</p>
+<p><b>VERDICT:</b> I absolutely LOVED their first box and thought that they curated the items pretty spot on. The total value came up to $255.95 which is double the actual cost! I'll be using every single item in this box, and the value is definitely there for me so I'm satisfied and will continue to subscribe. I can't wait to see what their second box will offer!</p>
