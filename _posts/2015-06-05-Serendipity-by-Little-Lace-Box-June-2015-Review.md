@@ -58,6 +58,8 @@ Water resistant pencil suitable for the most sensitive eye area. It is the perfe
 <p>Wow, this lip gloss is dark red, and I mean dark. The info card says that it goes on sheer, but um no, it's pretty rich in color. It might be a bit too dramatic or even gothic for some, but I think it would look great on a glammed up night. Perhaps a 1920s or Burlesque theme party? Definitely not one to be used daily unless that's your look.</p>
 <p>Color aside, the gloss doesn't feel sticky and has the shine of a lip gloss but not overly shiny. I'm glad I'm being introduced to more OFRA products now thanks to subscription boxes, and so far I have no complaints.</p>
 
+<br>
+
 <center><img src='/images/SerendipityJune2015GreetingCard.jpg'></center>
 
 <DL>
