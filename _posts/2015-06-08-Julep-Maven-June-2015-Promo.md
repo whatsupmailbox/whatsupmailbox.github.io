@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Julep $20 off $40 or more!"
-description: "Free shipping"
+description: "Happy Best Friend Day!"
 headline: "Julep $20 off $40 or more!"
 category: Subscriptions
 tags: [Julep Maven, Coupons, Subscriptions]
