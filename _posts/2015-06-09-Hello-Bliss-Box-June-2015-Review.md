@@ -58,7 +58,7 @@ date: 2015-06-09 11:10:39 -08:00
 
 <p>The scent reminds me of a sweet margarita, so very tropical and great for summer.</p>
 
-<i class="icon-long-arrow-right"></i> I've actually never heard of Perfectly Posh before and if you haven't also, they're a beauty company that belives in natural ingredients and sells their products directly or through beauty consultants. So almost like the Avon selling model.</p> 
+<i class="icon-long-arrow-right"></i> I've actually never heard of Perfectly Posh before and if you haven't also, they're a beauty company that belives in natural ingredients and sells their products directly or through beauty consultants. So almost like the Avon selling model.
 
 <br>
 
