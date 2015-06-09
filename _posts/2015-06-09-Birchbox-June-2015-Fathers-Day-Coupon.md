@@ -24,8 +24,8 @@ date: 2015-06-09 08:20:39 -08:00
 
 ## What's Birchbox Man? 
 
-<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
-<p><b>Cost:</b> $10 / month (taxes applicable to CA)</p>
-<p><b>What's in the box:</b> You'll receive 4-5 beauty samples that are matched with a profile you complete upon registration. You can modify this at any time.</p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p><b>Cost:</b> $20 / month (taxes apply to CA)</p>
+<p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare. These items are chosen for you based on a profile you complete. You can modify your online profile to suit your current needs at any time.</p>
 
-<p>Subscribe <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> to start receiving their monthly boxes!</p>
+<p>Get a gift subscription just in time for Father's Day <a href="https://www.birchbox.com/invite/whatsupmailbox">here</a> and don't forget to use <b>DAD100</b> so you can score $10 to buy anything in the Birchbox store!</p>
