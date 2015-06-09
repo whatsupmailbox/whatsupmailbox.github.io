@@ -122,7 +122,7 @@ Druzy is the glittering effect of tiny crystals over top a colorful mineral. One
 <DD>Retail Value $5?</DD>
 </DL>
 
-<p>There's no information about this item besides on the included info sheet which is what I included above. Prices are not included and no website either, so I'm basing the price on the value of other quote prints out there.</p>
+<p>There's no additional information about this item besides who it's made by. Prices are not included and no website either (plus I did a quick search and found nothing), so I'm basing the price on the value of other quote prints out there.</p>
 <p>The quote is inspirational, the paper is thick card stock and the small star icon made it tie in with the rest of the items for the theme.</p>
 
 <br>
