@@ -95,7 +95,7 @@ Druzy is the glittering effect of tiny crystals over top a colorful mineral. One
 <DD>3 elastic headbands, Retail Value $5?</DD>
 </DL>
 
-<p>Since the headbands are not sold in her shop (maybe its exclusive to <a href="https://helloblissbox.refersion.com/c/7dece">Hello! Bliss Box</a> or maybe not sold in her shop yet), I based the price on the elastic hair ties that they sell. Although it's more in quantity (5 versus 3), hair ties require less fabric so it should amount to the same in the end.</p>
+<p>Since the headbands are not sold in her shop (maybe its exclusive to <a href="https://helloblissbox.refersion.com/c/7dece">Hello! Bliss Box</a> or maybe not sold in the shop yet), I based the price on the elastic hair ties that they sell. Although it's more in quantity (5 versus 3), hair ties require less fabric so it should amount to the same in the end.</p>
 
 <p>Everyone got the same patterns for this item. These headbands are comfortable and fit me very well! I just tried on the red with gold stars one and paired that with the blue druzy earrings and bam! what a combo. It'll look great with an all white attire to complete the red, white and blue =)</p>
 
