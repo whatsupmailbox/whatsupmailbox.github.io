@@ -51,7 +51,7 @@ date: 2015-06-09 11:10:39 -08:00
 
 <DL>
 <DT><a href="https://www.perfectlyposh.com/we-put-de-lime-de-coconut-body-scrub">Perfectly Posh - Body Scrub in <i>We Put De Lime In De Coconut</i></a></DT>
-<DD>Sample Size,?</DD>
+<DD>Sample Size, $?</DD>
 </DL>
 
 <p>This sample is tiny so it'll be hard to actually see any results from it, but I appreciate the addition. I'm definitely noticing a trend with their product names, and there's more on their website that just made me laugh!</p>
