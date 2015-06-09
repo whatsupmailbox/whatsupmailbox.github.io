@@ -47,7 +47,7 @@ date: 2015-06-09 11:10:39 -08:00
 <DD>Sample Size 1 oz, Retail Value $1.29</DD>
 </DL>
 
-<p>This smells fresh and the size is great for travelling. It's made with shea butter, peppermint and rosemary leaves. The leaves are in small little pieces and is good for gentle exfoliation.</p>
+<p>This smells fresh and the size is great for travelling. Its made with shea butter, peppermint and rosemary leaves. The leaves are in small little pieces and is good for gentle exfoliation.</p>
 
 <DL>
 <DT><a href="https://www.perfectlyposh.com/we-put-de-lime-de-coconut-body-scrub">Perfectly Posh - Body Scrub in <i>We Put De Lime In De Coconut</i></a></DT>
