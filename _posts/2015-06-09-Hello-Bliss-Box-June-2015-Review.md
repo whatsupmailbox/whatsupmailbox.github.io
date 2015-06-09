@@ -74,7 +74,7 @@ date: 2015-06-09 11:10:39 -08:00
 
 <DL>
 <DT><a href="https://www.etsy.com/listing/236094226/blue-green-chunky-druzy-earring-posts?ref=shop_home_active_1">Styled Simplicity - Blue Green Druzy Earrings</a></DT>
-<DD>1 pair, Retail Value $9/DD>
+<DD>1 pair, Retail Value $9</DD>
 </DL>
 
 <p>I might be the minority here, but I actually didn't know what druzy means so I had to look it up.</p>
