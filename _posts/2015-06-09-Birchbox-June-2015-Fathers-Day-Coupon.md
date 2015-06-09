@@ -6,7 +6,7 @@ headline: "Birchbox Coupon - Extra 100 Points with a Men's Gift Subscription!"
 tags: [Birchbox, Subscriptions, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
@@ -20,7 +20,7 @@ date: 2015-06-09 08:20:39 -08:00
 
 <p>Get 100 extra <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> points with a men's gift subscription, that's $10 back to you!</p>
 
-<p>Use coupon code <b>DAD100</b> during checkout!</p>
+<p>Use coupon code <b>DAD100</b> during checkout.</p>
 
 ## What's Birchbox Man? 
 
