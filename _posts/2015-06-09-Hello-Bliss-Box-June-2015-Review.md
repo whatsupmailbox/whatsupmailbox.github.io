@@ -19,7 +19,7 @@ date: 2015-06-09 11:10:39 -08:00
 <p><b>Subscription:</b> <a href="https://helloblissbox.refersion.com/c/7dece">Hello! Bliss Box</a></p>
 <p><b>Cost:</b> $28.95 /month + Free Shipping</p>
 <p><b>Products:</b> You'll receive 3-5 items that's a mix of fashion, food, beauty, skincare, crafting, home decor, jewelry  or just products that make you feel good and celebrate both moms & women.</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://littlelacebox.com?rfsn=93842.4b16b">MAILBOX5</a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://helloblissbox.refersion.com/c/7dece">MAILBOX5</a> to get $5 off your first box!</p>
 <br>
 
 <center><img src='/images/HelloBlissBoxJune2015OpenBox.jpg'></center>
