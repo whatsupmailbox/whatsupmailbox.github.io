@@ -19,10 +19,8 @@ date: 2015-06-11 11:21:39 -08:00
 <figure class="half">
       <img src='/images/FreshLotusSetPackaging.jpg'>
       <img src='/images/FreshLotusSetBag.jpg'>
-      <figcaption><a href="http://www.fresh.com/US/gift-sets/lotus-youth-preserve-skincare%3A-daily-moisture-%26-radiance/H00003509.html#q=set&start=1&cgid=null">Fresh Lotus Youth Preserve Skincare Kit $45</a></figcaption>
+      <figcaption>Fresh Lotus Youth Preserve Skincare Kit $45</figcaption>
 </figure>
-
-</br>
 
 <p>This set is available on <a href="http://www.fresh.com/US/gift-sets/lotus-youth-preserve-skincare%3A-daily-moisture-%26-radiance/H00003509.html#q=set&start=1&cgid=null">Fresh.com</a> or <a href="http://www.sephora.com/lotus-youth-preserve-skincare-kit-P393326?skuId=1685882">Sephora.com</a></p>
 
