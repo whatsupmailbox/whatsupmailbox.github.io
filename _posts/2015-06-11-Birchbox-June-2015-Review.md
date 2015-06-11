@@ -15,11 +15,11 @@ date: 2015-06-11 15:30:39 -08:00
 ---
 
 <center><img src='/images/BirchboxJune2015OutsideBox.jpg'></center>
-<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a></p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox">THETIG15</a> and your first box will be the Tig “Ready, Set Summer” box, inspired by Meghan Markle's lifestyle site, The Tig. It's filled with must-try brands like Oribe, Davines, and more.
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">THETIG15</a> and your first box will be the Tig “Ready, Set Summer” box, inspired by Meghan Markle's lifestyle site, The Tig. It's filled with must-try brands like Oribe, Davines, and more.
 * Shoping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 <br>
 
@@ -28,7 +28,7 @@ date: 2015-06-11 15:30:39 -08:00
 <figcaption>First look at the box</figcaption>
 
 <p>This box screams beach and summer to me, love it!</p>
-<p>Plus this time around they included a sweepstake in each box. You see that first card that says "You've got big plans..."? Well that's the sweepstake card and behind it is a code that you enter on their website to see what your prize is.</p>
+<p>Plus this time around they included a sweepstake in each box. You see that first card that says "You've got big plans..."? Well that's the sweepstake card and behind it is a code that you enter on their website to see what your prize is. You can enter your code <a href="www.birchbox.com/sayyes" target="_blank">here</a> and tell me what you won, I'm curious!</p>
 <p>I entered my code and got a 20% off coupon which is kind of a bummer since I get those codes quite frequently anyway, but better something than nothing right?</p>
 
 <DT>On a happier note, let's move on to the products inside!</DT>
@@ -80,4 +80,4 @@ date: 2015-06-11 15:30:39 -08:00
 
 <p>What a surprise to get this in a Birchbox! Bonus items I've received are typically foil packets so I sure am happy to get this, and I have long hair so I'll be putting this to good use for sure!</p>
 
-<p><b>VERDICT:</b> This box had a summer theme going on and perfume sample aside, I'll be using every item in it. I've already put all the items (beside the perfume) into my travel beauty bag so that it's all ready for me to use when I decide to head off to the beach or go on a vacay to somewhere sunny and tropical. The total value of this box came up to $24.40, that's if my calculations on the perfume sample are correct. But even if it's off by a dollar or two, the value is still double the cost so I'm happy with that, plus Birchbox got brownie points for including the hair tie as a bonus item!</p>
+<p><b>VERDICT:</b> This box had a summer theme going on and perfume sample aside, I'll be using every item in it. I've already put all the items (beside the perfume) into my travel beauty bag so that it's all ready for me to use when I decide to head off to the beach or go on a vacay to somewhere sunny and tropical. The total value of this box came up to $24.40, that's if my calculations on the perfume sample are correct. But even if it's off by a dollar or two, the value is still double the cost so I'm happy with that, plus <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> got brownie points for including the hair tie as a bonus item!</p>
