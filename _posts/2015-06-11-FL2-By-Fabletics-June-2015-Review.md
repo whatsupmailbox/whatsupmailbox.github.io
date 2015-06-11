@@ -40,11 +40,15 @@ date: 2015-06-11 09:27:39 -08:00
 <DL>
 <DT>Northgate Tee in Chili Heather</DT>
 <DD>Retail Value $39.95, VIP Member Price $29.95</DD>
-<p>This shirt is fitted but its still true to size. My husband wears a Medium and this was a perfect fit. The color is a nice bright red and will go great with either dark or light bottoms.</p>
 </DL>
+
+<p>This shirt is fitted but its still true to size. My husband wears a Medium and this was a perfect fit. The color is a nice bright red and will go great with either dark or light bottoms.</p>
+
 <DL>
 <DT>Forster Short in Shale/Chili</DT>
 <DD>Retail Value $64.95, VIP Member Price $49.95</DD>
+</DL>
+
 <p>My husband chose these shorts last month in the black color, and he liked it so much that he just had to get another one. These pants have side mesh panels, a built in liner, and zippered pockets. Hubby plays racquetball for 3 hours straight and this came back with very minimal sweat or odor, definitely passed the test in my book!</p>
 
 <br>
