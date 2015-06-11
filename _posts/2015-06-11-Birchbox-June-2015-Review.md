@@ -34,7 +34,7 @@ date: 2015-06-11 15:30:39 -08:00
 
 <DT>On a happier note, let's move on to the products inside!</DT>
 
-<center><img src='/images/BirchboxJune2015Items.jpg'></center>
+<p><center><img src='/images/BirchboxJune2015Items.jpg'></center></p>
 <H4>My products:</H4>
 <DL>
 <DT>Marcelle - BB Cream Golden Glow</DT>
