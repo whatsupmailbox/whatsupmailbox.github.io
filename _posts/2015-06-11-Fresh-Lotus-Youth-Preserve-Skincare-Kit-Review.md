@@ -19,23 +19,25 @@ date: 2015-06-11 11:21:39 -08:00
 <figure class="half">
       <img src='/images/FreshLotusSetPackaging.jpg'>
       <img src='/images/FreshLotusSetBag.jpg'>
-      <figcaption>Fresh Lotus Youth Preserve Skincare Kit $45</figcaption>
+      <figcaption><a href="http://www.fresh.com/US/gift-sets/lotus-youth-preserve-skincare%3A-daily-moisture-%26-radiance/H00003509.html#q=set&start=1&cgid=null">Fresh Lotus Youth Preserve Skincare Kit $45</a></figcaption>
 </figure>
+
+<p>This set is available on <a href="http://www.fresh.com/US/gift-sets/lotus-youth-preserve-skincare%3A-daily-moisture-%26-radiance/H00003509.html#q=set&start=1&cgid=null">Fresh.com</a> or <a href="http://www.sephora.com/lotus-youth-preserve-skincare-kit-P393326?skuId=1685882">Sephora.com</a></p>
 
 ## And here are the amazing products inside:
 <p><center><img src='/images/FreshLotusSet.jpg'></center></p>
 
 <H4>This set contains:</H4>
 <DL>
-<DT><a href="http://www.sephora.com/soy-face-cleanser-P7880?keyword=FRESH%20Soy%20Face%20Cleanser%20P7880&skuId=487694&_requestid=53646">Soy Face Cleanser</a> - 1.7 oz</DT>
+<DT><a href="http://www.fresh.com/US/cleanser/soy-face-cleanser/H00000002.html#q=soy%2Bcleanser&start=1&cgid=null">Soy Face Cleanser</a> - 1.7 oz</DT>
 <DD>Their best selling cleanser that instantly whisks away impurities and makeup (even mascara!) and is the first product that Fresh pioneered the use of soy in skincare!</DD>
 </DL>
 <DL>
-<DT><a href="http://www.sephora.com/lotus-youth-preserve-face-cream-with-super-7-complex-P377123?skuId=1488352">Lotus Youth Preserve Face Cream With Super 7 Complex</a> - 1 oz</DT>
+<DT><a href="http://www.fresh.com/US/moisturizer/lotus-youth-preserve-face-cream/H00002669.html">Lotus Youth Preserve Face Cream With Super 7 Complex</a> - 1 oz</DT>
 <DD>"A lightweight, daily age-defying moisturizer for all skin types proven to minimize and prevent signs of aging, deliver intense hydration, and improve elasticity. It is formulated with Fresh’s proprietary Super 7 Complex—an age-defying, hydrating, and radiance-boosting blend of seven super-charged ingredients to defend against wrinkles, preserve collagen, promote the production of hyaluronic acid, seal in moisture, and soften the skin."</DD>
 </DL>
 <DL>
-<DT><a href="http://www.sephora.com/lotus-eye-gel-P54100?skuId=718270">Lotus Eye Gel</a>  - 0.25 oz</DT>
+<DT><a href="http://www.fresh.com/US/eye-care/lotus-eye-gel/H00000572.html#q=lotus%2Beye&start=2&cgid=null">Lotus Eye Gel</a>  - 0.25 oz</DT>
 <DD>This amazing eye gel features a unique combination of preventative botanicals: "Lotus flower extract, a powerful antioxidant packed with polyphenols, defends against wrinkle-causing free radicals. Stimulating soft orange extract and ginko biloba reduce puffiness. Antioxidant-rich grapeseed polyphenols and jojoba help to protect the skin. Soothing cucumber fruit extract helps to revive tired eyes."</DD>
 </DL>
 
