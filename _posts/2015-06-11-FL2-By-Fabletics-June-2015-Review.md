@@ -25,7 +25,8 @@ date: 2015-06-11 09:27:39 -08:00
 <p>Current <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> subscribers can use their existing VIP membership to buy for men, or you can create a new account <a href="http://www.fabletics.com/invite/whatsupmailbox/">here</a> to subscribe to <a href="http://www.fabletics.com/invite/whatsupmailbox/">FL2</a> and get <b>50% off</b> your first outfit!</p>
 <br>
 
-<DT>My husband chose the <big>Etna</big> outfit this month.</DT>
+<p><DT>My husband chose the <big>Etna</big> outfit this month.</DT></p>
+
 <figure class="half">
       <img src='/images/FL2June2015Etna.jpg'>
       <img src='/images/FL2June2015Etna2.jpg'>
