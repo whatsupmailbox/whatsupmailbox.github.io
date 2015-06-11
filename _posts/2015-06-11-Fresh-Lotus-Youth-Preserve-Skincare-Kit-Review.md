@@ -31,15 +31,15 @@ date: 2015-06-11 11:21:39 -08:00
 
 <H4>This set contains:</H4>
 <DL>
-<DT><a href="http://www.fresh.com/US/cleanser/soy-face-cleanser/H00000002.html#q=soy%2Bcleanser&start=1&cgid=null">Soy Face Cleanser</a> - 1.7 oz</DT>
+<DT><a href="http://www.fresh.com/US/cleanser/soy-face-cleanser/H00000002.html#q=soy%2Bcleanser&start=1&cgid=null" target="_blank">Soy Face Cleanser</a> - 1.7 oz</DT>
 <DD>Their best selling cleanser that instantly whisks away impurities and makeup (even mascara!) and is the first product that Fresh pioneered the use of soy in skincare!</DD>
 </DL>
 <DL>
-<DT><a href="http://www.fresh.com/US/moisturizer/lotus-youth-preserve-face-cream/H00002669.html">Lotus Youth Preserve Face Cream With Super 7 Complex</a> - 1 oz</DT>
+<DT><a href="http://www.fresh.com/US/moisturizer/lotus-youth-preserve-face-cream/H00002669.html" target="_blank">Lotus Youth Preserve Face Cream With Super 7 Complex</a> - 1 oz</DT>
 <DD>"A lightweight, daily age-defying moisturizer for all skin types proven to minimize and prevent signs of aging, deliver intense hydration, and improve elasticity. It is formulated with Fresh’s proprietary Super 7 Complex—an age-defying, hydrating, and radiance-boosting blend of seven super-charged ingredients to defend against wrinkles, preserve collagen, promote the production of hyaluronic acid, seal in moisture, and soften the skin."</DD>
 </DL>
 <DL>
-<DT><a href="http://www.fresh.com/US/eye-care/lotus-eye-gel/H00000572.html#q=lotus%2Beye&start=2&cgid=null">Lotus Eye Gel</a>  - 0.25 oz</DT>
+<DT><a href="http://www.fresh.com/US/eye-care/lotus-eye-gel/H00000572.html#q=lotus%2Beye&start=2&cgid=null" target="_blank">Lotus Eye Gel</a>  - 0.25 oz</DT>
 <DD>This amazing eye gel features a unique combination of preventative botanicals: "Lotus flower extract, a powerful antioxidant packed with polyphenols, defends against wrinkle-causing free radicals. Stimulating soft orange extract and ginko biloba reduce puffiness. Antioxidant-rich grapeseed polyphenols and jojoba help to protect the skin. Soothing cucumber fruit extract helps to revive tired eyes."</DD>
 </DL>
 
