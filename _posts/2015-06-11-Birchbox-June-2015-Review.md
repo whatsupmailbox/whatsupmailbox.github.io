@@ -26,6 +26,7 @@ date: 2015-06-11 15:30:39 -08:00
 <center><img src='/images/BirchboxJune2015Box.jpg'></center>
 <center><img src='/images/BirchboxJune2015OpenBox.jpg'></center>
 <figcaption>First look at the box</figcaption>
+<br>
 
 <p>This box screams beach and summer to me, love it!</p>
 <p>Plus this time around they included a sweepstake in each box. You see that first card that says "You've got big plans..."? Well that's the sweepstake card and behind it is a code that you enter on their website to see what your prize is. You can enter your code <a href="www.birchbox.com/sayyes" target="_blank">here</a> and tell me what you won, I'm curious!</p>
