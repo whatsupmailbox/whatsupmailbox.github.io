@@ -15,7 +15,7 @@ type: photo
 imagefeature: "JulepMavenSummer2015Promo.jpg"
 date: 2015-06-12 12:53:39 -08:00
 ---
-<a target="_blank" href="http://shareasale.com/r.cfm?b=729302&amp;u=1115177&amp;m=49325&amp;urllink=&amp;afftrack="><img src="http://static.shareasale.com/image/49325/summerbrights-banner_og_500x500.jpg" border="0" alt="Summer Brights Welcome Box Offer" /></a>
+<center><a target="_blank" href="http://shareasale.com/r.cfm?b=729302&amp;u=1115177&amp;m=49325&amp;urllink=&amp;afftrack="><img src="http://static.shareasale.com/image/49325/summerbrights-banner_og_500x500.jpg" border="0" alt="Summer Brights Welcome Box Offer" /></a></center>
 
 <p><a href="http://www.shareasale.com/u.cfm?d=267020&m=49325&u=1115177">Join Julep Maven</a> and get the Summer Brights Welcome Box FREE ($62 value) - just pay $2.99 shipping!</p> 
 
