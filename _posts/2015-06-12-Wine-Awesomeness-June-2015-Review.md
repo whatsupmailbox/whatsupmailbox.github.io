@@ -65,7 +65,7 @@ date: 2015-06-12 10:30:39 -08:00
 <DL>
 <DT>2013 Bernreiter Gruner Veltliner</DT>
 <DD><i>Gruner Veltliner</i></DD>
-<DD>Vienna, Austria<DD>
+<DD>Vienna, Austria</DD>
 </DL>
 
 <p>I actually didn't know this till I read it from the Wine Awesomeness magazine, but Vienna literally means "wine"! How did I not know that!</p>
