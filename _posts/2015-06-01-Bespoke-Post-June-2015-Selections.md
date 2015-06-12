@@ -13,7 +13,7 @@ tags: [Bespoke Post, Subscriptions]
 date: 2015-06-01 08:27:39 -08:00
 ---
 
-<h4>The June 2015 <a href="https://bespokepost.com/r/5e44e4d3">Bespoke Post</a> Selections are available and they look great!</h4>
+<h4>The June 2015 <a href="http://bespoke.evyy.net/c/164125/70438/1804">Bespoke Post</a> Selections are available and they look great!</h4>
 <center><img src='/images/BespokePostJune2015Selections.jpg'></center>
 
 <DT>FRONTIER:</DT>
@@ -45,8 +45,7 @@ date: 2015-06-01 08:27:39 -08:00
 3. Vapur - Water Bottle
 
 <br>
-<p><b>Subscription:</b> <a href="https://bespokepost.com/r/5e44e4d3">Bespoke Post</a></p>
+<p><b>Subscription:</b> <a href="http://bespoke.evyy.net/c/164125/70438/1804">Bespoke Post</a></p>
 <p><b>Cost:</b> $45 / month with Free Shipping</p>
 <p><b>What's in the box:</b> Every month you'll get to choose a themed box curated by them with products that may include gadgets, sportswear, accessories and more.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/5e44e4d3"><b>ALONE</b></a> to get 25% off your first box!</p>
-
+<p><b>Coupon:</b> Use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804"><b>ALONE</b></a> to get 25% off your first box!</p>
