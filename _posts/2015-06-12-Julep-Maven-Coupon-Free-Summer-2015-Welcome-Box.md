@@ -23,6 +23,9 @@ date: 2015-06-12 12:53:39 -08:00
 
 *This offer is good until July 31st, 2015 and is for New Maven subscribers only.
 
+<center><img src="/images/JulepLogo.jpg"></center>
+<br>
+
 ## Who's Julep?
 <p>For those of you who are not familiar with Julep, they're an innovative and health conscious makeup company that specializes in beauty products including cosmetics, nail color, and skincare. 
 They also have a wildly popular Julep Maven subscription program, the first fully customizable monthly beauty box!</p>
