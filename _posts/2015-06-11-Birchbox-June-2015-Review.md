@@ -32,7 +32,11 @@ date: 2015-06-11 15:30:39 -08:00
 <p>Plus this time around they included a sweepstake in each box. You see that first card that says "You've got big plans..."? Well that's the sweepstake card and behind it is a code that you enter on their website to see what your prize is. You can enter your code <a href="http://www.birchbox.com/sayyes" target="_blank">here</a> and tell me what you won, I'm curious!</p>
 <p>I entered my code and got a 20% off coupon which is kind of a bummer since I get those codes quite frequently anyway, but better something than nothing right?</p>
 
-<DT>On a happier note, let's move on to the products inside!</DT>
+<center><img src='/images/BirchboxJune2015Info.jpg'></center>
+<figcaption>The info card listing all the items inside the box</figcaption>
+<br>
+
+<DT>Now let's move on to the products inside!</DT>
 
 <p><center><img src='/images/BirchboxJune2015Items.jpg'></center></p>
 <H4>My products:</H4>
