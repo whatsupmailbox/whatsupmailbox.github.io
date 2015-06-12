@@ -56,7 +56,7 @@ date: 2015-06-12 10:30:39 -08:00
 
 <DL>
 <DT>Törley Fortuna NV</DT>
-<DD><i>Mukcat</i></DD>
+<DD><i>Muscat</i></DD>
 <DD>Etyek-Buda, Hungary</DD>
 </DL>
 
