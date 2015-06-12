@@ -71,4 +71,9 @@ date: 2015-06-12 10:30:39 -08:00
 
 <p>This wine is very fresh and fruity with just a tiny bit of sweetness. With aromas of peach and citrus, it was smooth and well balanced on the palate. Definitely would go well with just about anything.</p>
 
+<H4><i class="icon-gift"></i> Bonus item:</H4>
+<center><img src='/images/WineAwesomenessJune2015Bonus.jpg'></center>
+
+<p>They included a pack of Starbucks Guatemala Laguna de Ayarza ground coffee, which was a nice surprise. Plus there's a $2 coupon inside that's good for 1 bag of Starbucks coffee, not bad.</p>
+
 <p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> Living in California, we're spoiled with the bountiful selection of local wines that are top notch. But because there's so many of them, its hard to explore and find hidden treasures amongst all of them, let alone find great wines that are produced elsewhere. I find that this subscription allows me to do that and I love how they curate it around a theme and include a very information magazine as well. I've had other wine subscsriptions, but I think this one is pretty unique in what it delivers. And although I didn't really like one of the wines in my box, the other two were really great that it made up for it. I wonder what theme they'll come up with next month!</p>
