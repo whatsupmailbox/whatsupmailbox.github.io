@@ -4,12 +4,12 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Wine Awesomeness June 2015 Review + Coupon!
+title: Wine Awesomeness June 2015 Review + Free Box!
 featured: false
 comments: true
 type: photo
 imagefeature: WineAwesomenessJune2015Box.jpg
-headline: Wine Awesomeness June 2015 Review + Coupon!
+headline: Wine Awesomeness June 2015 Review + Free Box!
 tags: [Wine Awesomeness, Subscriptions, Reviews, June 2015]
 date: 2015-06-12 10:30:39 -08:00
 ---
