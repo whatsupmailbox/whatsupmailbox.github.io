@@ -77,7 +77,7 @@ date: 2015-06-11 15:30:39 -08:00
 <p>Fragrance samples never excite me. I get way too many from my online beauty purchases as free gifts, plus I think scents are so personal that its hard to please anyone, especially me since I'm very picky with my fragrances.</p>
 <p>"This scent from fashion designer Catherine Malandrino hits all the right notes with a playful yet sophisticated oriental fragrance mixed with fun fruits (think: Italian Mandarin, ruby red grapefruit, and Nashi pear). Like her renowned, sought-after designs, it’s the perfect blend of chic Parisian style and the infectious energy of New York City."</p>
 
-<i class="icon-gift"></i><H4>Bonus item:</H4>
+<i class="icon-gift"></i><H4> Bonus item:</H4>
 <DL>
 <DT>L. Erickson - Grab & Go Ponytail Holder</DT>
 <DD>1 elastic band, $1.20</DD>
@@ -85,4 +85,4 @@ date: 2015-06-11 15:30:39 -08:00
 
 <p>What a surprise to get this in a Birchbox! Bonus items I've received are typically foil packets so I sure am happy to get this, and I have long hair so I'll be putting this to good use for sure!</p>
 
-<p><i class="icon-exclamation-sign"></i><b>VERDICT:</b> This box had a summer theme going on and perfume sample aside, I'll be using every item in it. I've already put all the items (beside the perfume) into my travel beauty bag so that it's all ready for me to use when I decide to head off to the beach or go on a vacay to somewhere sunny and tropical. The total value of this box came up to $24.40, that's if my calculations on the perfume sample are correct. But even if it's off by a dollar or two, the value is still double the cost so I'm happy with that, plus <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> got brownie points for including the hair tie as a bonus item!</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> This box had a summer theme going on and perfume sample aside, I'll be using every item in it. I've already put all the items (beside the perfume) into my travel beauty bag so that it's all ready for me to use when I decide to head off to the beach or go on a vacay to somewhere sunny and tropical. The total value of this box came up to $24.40, that's if my calculations on the perfume sample are correct. But even if it's off by a dollar or two, the value is still double the cost so I'm happy with that, plus <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> got brownie points for including the hair tie as a bonus item!</p>
