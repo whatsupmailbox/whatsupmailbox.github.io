@@ -30,7 +30,7 @@ date: 2015-06-12 10:30:39 -08:00
 
 <p>Love the colors and prints on the box! And more importantly, the wines were packed neatly and safely inside.</p>
 
-<p>This month we chose <big><b>The Eastern Bloc Party</b></big> box and its filled with 3 wines from Eastern Europe.</p>
+<p>This month we chose the <big><b>Eastern Bloc Party</b></big> box and its filled with 3 wines from Eastern Europe.</p>
 
 <figure class="third">
       <img src='/images/WineAwesomenessJune2015Magazine.jpg'>
