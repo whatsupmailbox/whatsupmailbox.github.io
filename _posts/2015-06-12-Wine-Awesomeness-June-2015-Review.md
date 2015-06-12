@@ -17,7 +17,7 @@ date: 2015-06-12 10:30:39 -08:00
 <center><img src='/images/WineAwesomenessJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://curebit.com/x/9FH49O" target="_blank">Wine Awesomeness</a></p>
 <p><b>Cost:</b> $45 for 3 bottles or $75 for 6 bottles. You can have this delivered monthly, bi-monthly, quarterly or just about any interval that fits you best.</p>
-<p><b>What's in the box:</b> Wines that are curated around a theme -could be region or season or just about anything they artfully decide on. Their curatorial team is led by a Food & Wine Somm of the Year and the wines you'll find in the box are those that you won't be able to get at your local stores. You will need to be home to receive this though, as someone over the age of 21 will need to sign the delivery.</p>
+<p><b>What's in the box:</b> Wines that are curated around a theme -could be region or season or janything they artfully decide on. Their curatorial team is led by a Food & Wine Somm of the Year and the wines you'll find in the box are those that you won't be able to get at your local stores. You will need to be home to receive this though, as someone over the age of 21 will need to sign the delivery.</p>
 <p><b>Coupon:</b> <a href="http://curebit.com/x/9FH49O" target="_blank">Click here to get your first wine box FREE!</a> Just pay a $20 shipping & handling fee.</p>
 <br>
 
@@ -38,8 +38,9 @@ date: 2015-06-12 10:30:39 -08:00
       <img src='/images/WineAwesomenessJune2015Magazine3.jpg'>
       <figcaption>The Wine Awesomeness magazine</figcaption>
 </figure>
+<br>
 
-<p>They always include a small magazine that details the theme they chose, the wines, recipes that pair well with each wine and some small fun facts that relates to the theme.</p>
+<p>They always include a small magazine that details the theme, the wines, recipes that pair well with each wine and some small fun facts that relates to the theme.</p>
 
 <DT>And here are the wines:</DT>
 
