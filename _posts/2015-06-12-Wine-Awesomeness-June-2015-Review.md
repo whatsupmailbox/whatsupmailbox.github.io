@@ -47,15 +47,15 @@ date: 2015-06-12 10:30:39 -08:00
 <p><center><img src='/images/WineAwesomenessJune2015Items.jpg'></center></p>
 <H4>My products:</H4>
 <DL>
-<DT>2013 Santomas Refosk</DT>
-<DD><i>Refosk</i></DD>
-<DD>Stejerska, Slovenia</DD>
+<DT>2013 Santomas Refošk</DT>
+<DD><i>Refošk</i></DD>
+<DD>Štajerska, Slovenia</DD>
 </DL>
 
 <p>This was the least favorite out of all three for me. It was too dry, tart and did not go down smooth at all for me. If you like Spanish wines that are dry and tart, this might be for you. I tried drinking it both room temperature and cold, and neither really did it for me, so sadly this was a miss.</p>
 
 <DL>
-<DT>Torley Fortuna NV</DT>
+<DT>Törley Fortuna NV</DT>
 <DD><i>Mukcat</i></DD>
 <DD>Etyek-Buda, Hungary</DD>
 </DL>
@@ -63,8 +63,8 @@ date: 2015-06-12 10:30:39 -08:00
 <p>Now this wine I loved! It was bubbly, not overly sweet and fruity. Not just any fruit too, it tasted very tropical and fresh. This without a doubt was my favorite wine from the box! I want more!</p>
 
 <DL>
-<DT>2013 Bernreiter Gruner Veltliner</DT>
-<DD><i>Gruner Veltliner</i></DD>
+<DT>2013 Bernreiter Grüner Veltliner</DT>
+<DD><i>Grüner Veltliner</i></DD>
 <DD>Vienna, Austria</DD>
 </DL>
 
