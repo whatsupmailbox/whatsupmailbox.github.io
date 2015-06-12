@@ -78,6 +78,9 @@ date: 2015-06-11 15:30:39 -08:00
 <p>"This scent from fashion designer Catherine Malandrino hits all the right notes with a playful yet sophisticated oriental fragrance mixed with fun fruits (think: Italian Mandarin, ruby red grapefruit, and Nashi pear). Like her renowned, sought-after designs, it’s the perfect blend of chic Parisian style and the infectious energy of New York City."</p>
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
+
+<center><img src='/images/BirchboxJune2015BonusItem.jpg'></center>
+
 <DL>
 <DT>L. Erickson - Grab & Go Ponytail Holder</DT>
 <DD>1 elastic band, $1.20</DD>
