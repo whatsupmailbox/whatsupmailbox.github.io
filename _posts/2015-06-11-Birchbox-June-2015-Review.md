@@ -77,7 +77,7 @@ date: 2015-06-11 15:30:39 -08:00
 <p>Fragrance samples never excite me. I get way too many from my online beauty purchases as free gifts, plus I think scents are so personal that its hard to please anyone, especially me since I'm very picky with my fragrances.</p>
 <p>"This scent from fashion designer Catherine Malandrino hits all the right notes with a playful yet sophisticated oriental fragrance mixed with fun fruits (think: Italian Mandarin, ruby red grapefruit, and Nashi pear). Like her renowned, sought-after designs, it’s the perfect blend of chic Parisian style and the infectious energy of New York City."</p>
 
-<i class="icon-gift"></i><H4> Bonus item:</H4>
+<H4><i class="icon-gift"></i> Bonus item:</H4>
 <DL>
 <DT>L. Erickson - Grab & Go Ponytail Holder</DT>
 <DD>1 elastic band, $1.20</DD>
