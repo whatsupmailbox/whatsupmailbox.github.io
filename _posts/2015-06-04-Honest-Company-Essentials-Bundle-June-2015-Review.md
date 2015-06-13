@@ -15,10 +15,10 @@ imagefeature: "HonestJune2015Items.jpg"
 date: 2015-06-04 14:01:39 -08:00
 ---
 
-<p><b>Subscription:</b> <a href="http://www.honest.com/refer_to/792187">Honest Company Essentials Bundle</a></p>
+<p><b>Subscription:</b> <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.124&type=3&subid=0&LSNSUBSITE=adgid" >Honest Company Essentials Bundle</a></p>
 <p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
-<p><b>Deal:</b> Get a <a href="http://www.honest.com/refer_to/792187">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
+<p><b>Deal:</b> Get a <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
 <br>
 
 <center><img src='/images/HonestJune2015Box.jpg'></center>
@@ -37,7 +37,7 @@ date: 2015-06-04 14:01:39 -08:00
 
 <center><img src='/images/HonestJune2015LaundryPacks.jpg'></center>
 <DL>
-<DT>4-in-1 Laundry Packs</DT>
+<DT><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.153&type=3&subid=0&LSNSUBSITE=adgid" >4-in-1 Laundry Packs</a></DT>
 <DD>50 Ultra Concentrated Packs, $15.95</DD>
 </DL>
 <p>These are 4-in-1 because of its cleaning + stain fighting + brightening + softening power. It's also Hypoallergenic, biodegradable, non-toxic, effective in all temperatures and septic safe</p>
@@ -64,7 +64,7 @@ date: 2015-06-04 14:01:39 -08:00
 <p>Finally a safe way to repel pesky bugs without harsh chemicals, yay! I don't know what it is about me, but I attract bugs. Be it when we're camping, hiking, or enjoying the botanical garden in places we travel to, bugs always find a way to find me. It's quite annoying.</p>
 <p>I've always bought the store brand products to help me with this problem, but when I saw Honest Company had this bug spray, I knew I had to have it. Now I am armed and can't wait to test this baby out! Watch out bugs!</p>
 <DL>
-<DT>Shampoo + Body Wash</DT>
+<DT><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.112&type=3&subid=0&LSNSUBSITE=adgid">Shampoo + Body Wash</a></DT>
 <DD>Sweet Orange Vanilla 8.5 fl. oz. (250 mL), $9.95</DD>
 </DL>
 <p>This shampoo actually smells like sweet oranges with vanilla and boy does it smell sweet. I'm not a sweet scent person, so it wasn't my cup of tea, but scent aside, it really was a good shampoo and I did feel my hair moisturized after.</p>
@@ -98,7 +98,7 @@ date: 2015-06-04 14:01:39 -08:00
 </figure>
 <br>
 <DL>
-<DT>Air + Fabric Freshener</DT>
+<DT><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.75&type=3&subid=0&LSNSUBSITE=adgid">Air + Fabric Freshener</a></DT>
 <DD>Lemon Verbana 9.3 fl.oz., $6.95</DD>
 </DL>
 <p>This is available in 3 scents: Lavender Vanilla, Lemon Verbena & Orange Cypress. I chose Lemon Verbana because I like mostly fresh scents and try to avoid sweet smelling scents whenever possible.</p>
@@ -112,7 +112,7 @@ date: 2015-06-04 14:01:39 -08:00
 </figure>
 
 <DL>
-<DT>Sea Salt + Sugar Body Scrub</DT>
+<DT><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.97&type=3&subid=0&LSNSUBSITE=adgid">Sea Salt + Sugar Body Scrub</a></DT>
 <DD>Lavender Vanilla 9.5 oz., $16.95</DD>
 </DL>
 <p>Another sweet fragrance, almost like vanilla almonds. Not sure if I’m into the scent, but maybe it’ll grow on me.</p>
