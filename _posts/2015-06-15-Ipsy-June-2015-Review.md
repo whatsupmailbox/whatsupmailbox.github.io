@@ -41,77 +41,77 @@ date: 2015-06-15 12:50:39 -08:00
 
 <p><center><img src='/images/IpsyJune2015Items2.jpg'></center></p>
 <DL>
-<DT></DT>
-<DD>Retail Value $14.50</DD>
+<DT>Aurora Intensive Eyeliner Pen in <i>Blackberry</i></DT>
+<DD>Retail Value $7.99</DD>
 </DL>
 
-<p>These are mid-calf socks and are locally produced in North Carolina. The socks came in 2 variations for all subscribers and the other one had red, white and blue as the colors while this one only has red and dark blue. I think the stripes are also thinner on the other variation versus this one. My husband loves collecting socks that are all types of patterns and colors, so he was happy to add this.</p>
+<p>Blackberry is their name for Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
 
 <DL>
-<DT>tresStique Mini Shadow Crayon in <i>COLOR</i></DT>
+<DT>tresStique Mini Shadow Crayon in <i>Venetian Gold</i></DT>
 <DD>Retail Value $10</DD>
 </DL>
 
-<p>This neck tie is 100% silk and the color + pattern is quite universal where it'll go with just about anything. There are 2 variations of the tie; the other one has a thicker stripe with mostly red, blue and silver for the colors. It did seem like the other pattern was more of a match for my husband's style, but he'll still be able to use this one so its not a total lost for him.</p>
+<p>At first I thought this pencil had no lid on it but then it was just the packaging that made it look like that, silly me. I liked the color which came out to a soft metallic gold, and application was smooth. The color will go great for day or night look, at least for my olive skin tone, and I love eye shadows where you can directly apply without a brush -makes it easy for touch ups. This shadow is also free of d5, parabens, talc, synthetic fragrances, petro chemicals and is cruelty free.</p>
 
 <p><center><img src='/images/IpsyJune2015Items3.jpg'></center></p>
 <DL>
-<DT>Paul Evans Shoehorn</DT>
-<DD>Retail Value $18</DD>
+<DT>J. Cat Beauty Liptitude 24/7 Hydrating Lip Stain in <i>Hikilicious</i></DT>
+<DD>Retail Value $5.99</DD>
 </DL>
 
-<p>What a coincidence, just the other day my husband was complaining and struggling to put his shoes on and couldn't find his shoehorn. This one is fancy and luxurious too since its made of leather. So long cheap plastic shoehorns and hello Paul Evans!</p>
+<p>I liked the color but not so much the packaging. At first I thought it was a nail polish until I saw the lips on it and knew it wasn't. Since we women like to apply and re-apply our lip colors and most of the times we do that while we're out and about, packaging is important. I love whipping out my super luxurious Guerlain lipstick, it makes me feel glamorous and chic. But this I'm not so sure. I might have to just apply this at home. But, the color was good so at least I'm happy with that.</p>
 
 <DL>
-<DT>DHA1 Pocket Square</DT>
-<DD>Retail Value $15</DD>
+<DT>Altchek MD Eye Gel Pads</DT>
+<DD>2 treatments, Retail Value $4</DD>
 </DL>
 
-<p>This pocket square is classy and the herringbone pattern can go with just about anything. I also like the fact that DHA1's mission is "an eye for fashion" where a portion of all profits go to fund eye surgeries for the blind across the world. I applaud that.</p>
+<p>I'm a sucker for eye pads and was super happy to get 2 treatments. I work late and am constantly staring at the computer for both my job and blog, so my eyes need all the help they can get. Plus I love doing impromptu spa days at home and this is perfect for that.</p>
 
 <DL>
-<DT>Marvis Toothpaste</DT>
-<DD>Sample Size, Retail Value $1.32</DD>
+<DT>Smashbox Photo Finish Foundation Primer</DT>
+<DD>Deluxe Sample Size, Retail Value $8</DD>
 </DL>
 
-<p>I've tried this toothpaste before thanks to other subscription boxes. It's minty fresh, has a cool packaging and the size is great for travelling.</p>
+<p>I've tried this primer before (also sample sized) and it was good for my combination skin. The oil-free formula was much appreciated and as you know, you don't really need to use much primer with every application so this size will go a long way for me, plus it's great for travelling too!</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> Every item in this box was quality, useful and will definitely bump up your style. The value was definitely there too, it came up to $83.82 which is almost triple the cost! My husband and I definitely recommend this box if you love to accessorize or you're looking to upgrade your style. Hubby is happy with this box and will continue to subscribe.</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think Ipsy did a great job in matching the items this month to my profile. The bag was cute and is supposed to be floatable on water which I thought was pretty unique. The total value came up to $35.98 which is great for a $10 subscription, and especially when every single item in this bag is useful to me.</p>
 
 <TABLE  BORDER="5">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>ITEMS IN THE BOX</center></H3>
+         <H3><BR><center>My Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>American Trench Socks</TD>
-      <TD>$14.50</TD>
+      <TD>Aurora Eyeliner Pen</TD>
+      <TD>$7.99</TD>
    </TR>
    <TR>
-      <TD>Mosaic Menswear Neck Tie</TD>
-      <TD>$35</TD>
+      <TD>tresStique Mini Shadow Crayon</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Paul Evans Leather Shoehorn</TD>
-      <TD>$18</TD>
+      <TD>J. Cat Beauty Liptitude Lip Stain</TD>
+      <TD>$5.99</TD>
    </TR>
     <TR>
-      <TD>DHA1 Pocket Square</TD>
-      <TD>$15</TD>
+      <TD>Altchek MD Eye Gel Pads</TD>
+      <TD>$4</TD>
    </TR>
     <TR>
-      <TD>Marvis Toothpaste Sample Tube</TD>
-      <TD>$1.32</TD>
+      <TD>Smashbox Photo Finish Foundation Primer</TD>
+      <TD>$8</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$83.82</big></b></TD>
+      <TD><b><big>$35.98</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$28</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
    </TR>
 </TABLE>
