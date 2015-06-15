@@ -85,7 +85,7 @@ date: 2015-06-15 09:32:39 -08:00
 <TABLE  BORDER="5">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR>ITEMS IN THE BOX</H3>
+         <H3><BR><center>ITEMS IN THE BOX</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
