@@ -91,3 +91,49 @@ Details of the items are included in these cards. One side gives information on 
 <p>I've actually tried their fancy sugars before and absolutely love them! I feel so fancy and proper when I use these for my tea. And I think the name of the set is perfect and would be great for gifting a newlywed or couples who love tea/coffee.</p>
 
 <p><b>VERDICT:</b> I absolutely LOVED their first box and thought that they curated the items pretty spot on. The total value came up to $255.95 which is double the actual cost! I'll be using every single item in this box, and the value is definitely there for me so I'm satisfied and will continue to subscribe. I can't wait to see what their second box will offer!</p>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR>ITEMS IN THE BOX</H3>
+      </TH>
+   </TR>
+      <TH>Name</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Lisa Stewart Earrings</TD>
+      <TD>$85</TD>
+   </TR>
+   <TR>
+      <TD>Mariposa Tea Light</TD>
+      <TD>$25</TD>
+   </TR>
+    <TR>
+      <TD>Red Carper Kolour Body Glow</TD>
+      <TD>$49.95</TD>
+   </TR>
+    <TR>
+      <TD>MSC Skin Care Sugar Scrub</TD>
+      <TD>$33</TD>
+   </TR>
+    <TR>
+      <TD>MSC Skin Care Body Oil</TD>
+      <TD>$30</TD>
+   </TR>
+    <TR>
+      <TD>MSC Skin Care Lip Balm</TD>
+      <TD>$7</TD>
+   </TR>
+    <TR>
+      <TD>Chambre De Sucre Sugar Balls Set</TD>
+      <TD>$26</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$255.95</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$125</big></i></TD>
+   </TR>
+</TABLE>
