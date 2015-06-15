@@ -8,7 +8,7 @@ title: Sprezza Box June 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: SprezzaBoxJune2015OpenBox.jpg
+imagefeature: SprezzaBoxJune2015Box.jpg
 headline: Sprezza Box June 2015 Review + Coupon!
 tags: [Sprezza Box, Subscriptions, Reviews, June 2015]
 date: 2015-06-15 09:32:39 -08:00
