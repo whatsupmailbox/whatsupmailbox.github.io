@@ -98,7 +98,7 @@ Details of the items are included in these cards. One side gives information on 
          <H3><BR>ITEMS IN THE BOX</H3>
       </TH>
    </TR>
-      <TH>Name</TH>
+      <TH>Product</TH>
       <TH>Price</TH>
   <TR>
       <TD>Lisa Stewart Earrings</TD>
