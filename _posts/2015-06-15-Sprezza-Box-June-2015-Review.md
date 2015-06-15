@@ -27,11 +27,10 @@ date: 2015-06-15 09:32:39 -08:00
 <p>The June 2015 box is titled the <big>Liberty Box</big>.</p>
 <br>
 
-<figure class="half">
-      <img src='/images/SprezzaBoxJune2015Info.jpg'>
-      <img src='/images/SprezzaBoxJune2015Info2.jpg'>
-      <figcaption>Info card detailing the products inside</figcaption>
-</figure>
+<center><img src='/images/SprezzaBoxJune2015Info.jpg'></center>
+<center><img src='/images/SprezzaBoxJune2015Info2.jpg'></center>
+<figcaption>Info card detailing the products inside</figcaption>
+
 <br>
 
 <p>My initial reaction of unboxing was that everything seemed simple and classy. Box and packaging was all white with the inclusion of their logo.</p>
