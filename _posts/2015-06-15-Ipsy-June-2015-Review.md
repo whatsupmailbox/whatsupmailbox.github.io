@@ -14,7 +14,6 @@ tags: [Ipsy, Subscriptions, Reviews, June 2015]
 date: 2015-06-15 12:50:39 -08:00
 ---
 
-<center><img src='/images/IpsyJune2015Package.jpg'></center>
 <p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
 <p><b>Cost:</b> $10 / month + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive 4-5 full size or deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
@@ -24,7 +23,11 @@ date: 2015-06-15 12:50:39 -08:00
 <p>They come packaged in a padded pink envelope, and not just any pink, bright pink!</p>
 <br>
 
-<H4>And here are the items inside:</H4>
+<p>Ipsy is very similar to Birchbox where all subscribers receive different variations in their bag. They try to give you products that match your needs and concerns so not everyone will get the same items.</p>
+
+<p>This review is for my profile so its just one of the many variations that they sent out.</p>
+
+<H4>And here are my items:</H4>
 <center><img src='/images/IpsyJune2015Items.jpeg'></center>
 <p>The June 2015 box is themed "Swim into beauty"</big>. and it's a great theme for summer!</p>
 <br>
