@@ -76,7 +76,10 @@ date: 2015-06-15 12:50:39 -08:00
 
 <p>I've tried this primer before (also sample sized) and it was good for my combination skin. The oil-free formula was much appreciated and as you know, you don't really need to use much primer with every application so this size will go a long way for me, plus it's great for travelling too!</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think Ipsy did a great job in matching the items this month to my profile. The bag was cute and is supposed to be floatable on water which I thought was pretty unique. The total value came up to $35.98 which is great for a $10 subscription, and especially when every single item in this bag is useful to me.</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile. The bag was cute and is supposed to be floatable on water which I thought was pretty unique. The total value came up to $35.98 which is great for a $10 subscription, and especially when every single item in this bag is useful to me.</p>
+
+<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe here</big></a> to start receiving their monthly goodies!</p>
+<br>
 
 <TABLE  BORDER="5">
    <TR>
