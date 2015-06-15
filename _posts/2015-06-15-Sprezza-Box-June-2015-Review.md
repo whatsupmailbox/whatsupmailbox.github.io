@@ -24,6 +24,7 @@ date: 2015-06-15 09:32:39 -08:00
 <center><img src='/images/SprezzaBoxJune2015OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 
+<p>The June 2015 box is titled the Liberty Box.</p>
 <br>
 
 <figure class="half">
