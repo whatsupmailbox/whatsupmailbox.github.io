@@ -15,7 +15,7 @@ date: 2015-06-15 12:50:39 -08:00
 ---
 
 <center><img src='/images/IpsyJune2015Package.jpg'></center>
-<p><b>Subscription:</b> <a href="http://www.sprezzabox.com" target="_blank">Sprezza Box</a></p>
+<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
 <p><b>Cost:</b> $10 / month + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive 4-5 full size or deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
 <br>
