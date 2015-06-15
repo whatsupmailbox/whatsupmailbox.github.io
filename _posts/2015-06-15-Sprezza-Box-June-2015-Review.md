@@ -115,7 +115,7 @@ date: 2015-06-15 09:32:39 -08:00
       <TD><b><big>$83.82</big></b></TD>
    </TR>
    <TR>
-      <TD><i><small>Subscription Cost</small></i></TD>
-      <TD><i><small>$28</small></i></TD>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$28</big></i></TD>
    </TR>
 </TABLE>
