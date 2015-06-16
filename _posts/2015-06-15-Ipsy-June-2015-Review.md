@@ -37,7 +37,7 @@ date: 2015-06-15 12:50:39 -08:00
 <p><center><img src='/images/IpsyJune2015EyelinerOpen.jpg'></center></p>
 <DL>
 <DT>Aurora Intensive Eyeliner Pen in <i>Blackberry</i></DT>
-<DD>Retail Value $7.99</DD>
+<DD>Full Size, Retail Value $7.99</DD>
 </DL>
 
 <p>Blackberry is their version of Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
@@ -47,7 +47,7 @@ date: 2015-06-15 12:50:39 -08:00
 <p><center><img src='/images/IpsyJune2015EyeshadowOpen.jpg'></center></p>
 <DL>
 <DT>tresStique Mini Shadow Crayon in <i>Marimoto Pink Pearl</i></DT>
-<DD>Retail Value $10</DD>
+<DD>Mini Size, Retail Value $10.67</DD>
 </DL>
 
 <p>At first I thought this pencil had no lid on it but then it was just the packaging that made it look like that, silly me. I liked the color which came out to a pinky-nude with a subtle pearl finish, and application was smooth. The color will go great as an allover color or base,  and I love eye shadows where you can directly apply without a brush -makes it easy for touch ups. This shadow is also free of d5, parabens, talc, synthetic fragrances, petro chemicals and is cruelty free.</p>
@@ -77,7 +77,7 @@ date: 2015-06-15 12:50:39 -08:00
 
 <p>I'm a sucker for eye pads and was super happy to get 2 treatments. I work late and am constantly staring at the computer for both my job and blog, so my eyes need all the help they can get. Plus I love doing impromptu spa days at home and this is perfect for that.</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile, not a single item that was off for me. My least favorite item would have to be the bag -I thought it was just okay, nothing special. The total value came up to $35.98 which is great for a $10 subscription, and especially when every single item in this bag is useful to me. Here's to hoping they get it right again next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile, not a single item that was off for me. My least favorite item would have to be the bag -I thought it was just okay, nothing special. The total value came up to $36.65 which is great for a $10 subscription, and especially when every single item in this bag is useful to me. Here's to hoping they get it right again next month!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe here</big></a> to start receiving their monthly goodies!</p>
 <br>
@@ -96,7 +96,7 @@ date: 2015-06-15 12:50:39 -08:00
    </TR>
    <TR>
       <TD>tresStique Mini Shadow Crayon</TD>
-      <TD>$10</TD>
+      <TD>$10.67</TD>
    </TR>
     <TR>
       <TD>J. Cat Beauty Liptitude Lip Stain</TD>
@@ -112,7 +112,7 @@ date: 2015-06-15 12:50:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$35.98</big></b></TD>
+      <TD><b><big>$36.65</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
