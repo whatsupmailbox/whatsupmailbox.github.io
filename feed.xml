@@ -22,7 +22,7 @@
 
   {% if site.owner.name %}
     <author>
-      <name>{{ site.owner.name }}</name>
+      <name>{{ site.owner.name | xml_escape}}</name>
     </author>
   {% endif %}
 
