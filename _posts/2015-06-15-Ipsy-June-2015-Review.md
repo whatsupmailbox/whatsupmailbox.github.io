@@ -66,7 +66,7 @@ date: 2015-06-15 12:50:39 -08:00
 <DD>Full Size .42 oz., Retail Value $5.99</DD>
 </DL>
 
-<p>I liked the color but not so much the packaging. At first I thought it was a nail polish until I saw the lips on it and knew it wasn't. Since we women like to apply and re-apply our lip colors and most of the times we do that while we're out and about, packaging is important. I love whipping out my super luxurious Guerlain lipstick, it makes me feel glamorous and chic. But this I'm not so sure. I might have to just apply this at home. But, the color was good so at least I'm happy with that.</p>
+<p>Wow, this lip stain is packed with color! There's no sheerness to this and if you want more of a natural look, this might not be the product for you unless you tone it down with another color or smudge it. I on the other hand love it. I also liked the color but not so much the packaging. At first I thought it was a nail polish until I saw the lips on it and knew it wasn't. Since we women like to apply and re-apply our lip colors and most of the times we do that while we're out and about, packaging is important. I love whipping out my super luxurious Guerlain lipstick, it makes me feel glamorous and chic. But this I'm not so sure. I might have to just apply this at home. But, the product itself and the color was good so I'm happy with that.</p>
 <br>
 
 <center><img src='/images/IpsyJune2015Eyepads.jpg'></center>
