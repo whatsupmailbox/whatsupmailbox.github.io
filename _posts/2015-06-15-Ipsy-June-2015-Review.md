@@ -32,36 +32,37 @@ date: 2015-06-15 12:50:39 -08:00
 <p>The June 2015 box is themed "Swim into beauty"</big>. and it's a great theme for summer!</p>
 <br>
 
-<center><img src='/images/IpsyJune2015Info.jpg'></center>
-<center><img src='/images/IpsyJune2015Info2.jpg'></center>
-<figcaption>Info card detailing the products inside</figcaption>
-<br>
-
 <H4>Items in Detail:</H4>
 
-<p><center><img src='/images/IpsyJune2015Items2.jpg'></center></p>
+<p><center><img src='/images/IpsyJune2015Eyeliner.jpg'></center></p>
+<p><center><img src='/images/IpsyJune2015EyelinerOpen.jpg'></center></p>
 <DL>
 <DT>Aurora Intensive Eyeliner Pen in <i>Blackberry</i></DT>
 <DD>Retail Value $7.99</DD>
 </DL>
 
 <p>Blackberry is their name for Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
+<br>
 
+<center><img src='/images/IpsyJune2015Eyeshadow.jpg'></center>
 <DL>
-<DT>tresStique Mini Shadow Crayon in <i>Venetian Gold</i></DT>
+<DT>tresStique Mini Shadow Crayon in <i>Marimoto Pink Pearl</i></DT>
 <DD>Retail Value $10</DD>
 </DL>
 
-<p>At first I thought this pencil had no lid on it but then it was just the packaging that made it look like that, silly me. I liked the color which came out to a soft metallic gold, and application was smooth. The color will go great for day or night look, at least for my olive skin tone, and I love eye shadows where you can directly apply without a brush -makes it easy for touch ups. This shadow is also free of d5, parabens, talc, synthetic fragrances, petro chemicals and is cruelty free.</p>
+<p>At first I thought this pencil had no lid on it but then it was just the packaging that made it look like that, silly me. I liked the color which came out to a pinky-nude with a subtle pearl finish, and application was smooth. The color will go great as an allover color or base,  and I love eye shadows where you can directly apply without a brush -makes it easy for touch ups. This shadow is also free of d5, parabens, talc, synthetic fragrances, petro chemicals and is cruelty free.</p>
+<br>
 
-<p><center><img src='/images/IpsyJune2015Items3.jpg'></center></p>
+<center><img src='/images/IpsyJune2015Items2.jpg'></center>
 <DL>
-<DT>J. Cat Beauty Liptitude 24/7 Hydrating Lip Stain in <i>Hikilicious</i></DT>
+<DT>J. Cat Beauty Liptitude 24/7 Hydrating Lip Stain in <i>Blow Your Mind</i></DT>
 <DD>Retail Value $5.99</DD>
 </DL>
 
 <p>I liked the color but not so much the packaging. At first I thought it was a nail polish until I saw the lips on it and knew it wasn't. Since we women like to apply and re-apply our lip colors and most of the times we do that while we're out and about, packaging is important. I love whipping out my super luxurious Guerlain lipstick, it makes me feel glamorous and chic. But this I'm not so sure. I might have to just apply this at home. But, the color was good so at least I'm happy with that.</p>
+<br>
 
+<center><img src='/images/IpsyJune2015Eyepads.jpg'></center>
 <DL>
 <DT>Altchek MD Eye Gel Pads</DT>
 <DD>2 treatments, Retail Value $4</DD>
