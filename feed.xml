@@ -20,9 +20,9 @@
     <subtitle>{{ site.description | xml_escape }}</subtitle>
   {% endif %}
 
-  {% if site.author %}
+  {% if site.owner.name %}
     <author>
-      <name>{{ site.author }}</name>
+      <name>{{ site.owner.name }}</name>
     </author>
   {% endif %}
 
