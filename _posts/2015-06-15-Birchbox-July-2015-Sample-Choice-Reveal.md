@@ -24,10 +24,11 @@ date: 2015-06-15 20:02:39 -08:00
 <center><img src='/images/BirchboxJuly2015SampleChoiceStila.png'></center>
 <p>Birchbox is doing something different in July where all subscribers will receive the Stila Stay All Day Liquid Lipstick, but you do get to choose which color you want.</p>
 The choices are:
-* Bella - a hot pink color
-* Venezia - a coral color
-* Beso - a bold red color
-<br>
+<ul>
+<li>Bella - a hot pink color</li>
+<li>Venezia - a coral color</li>
+<li>Beso - a bold red color</li>
+</ul>
 
 <p>You can also opt to choose the featured box of the month instead, and for July it's "Beachy and Bright".</p>
 
