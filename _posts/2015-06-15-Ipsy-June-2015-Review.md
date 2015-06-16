@@ -37,7 +37,7 @@ date: 2015-06-15 12:50:39 -08:00
 <p><center><img src='/images/IpsyJune2015EyelinerOpen.jpg'></center></p>
 <DL>
 <DT>Aurora Intensive Eyeliner Pen in <i>Blackberry</i></DT>
-<DD>Full Size, Retail Value $7.99</DD>
+<DD>Full Size 1 ml, Retail Value $7.99</DD>
 </DL>
 
 <p>Blackberry is their version of Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
@@ -56,14 +56,14 @@ date: 2015-06-15 12:50:39 -08:00
 <center><img src='/images/IpsyJune2015Items2.jpg'></center>
 <DL>
 <DT>Smashbox Photo Finish Foundation Primer</DT>
-<DD>Deluxe Sample Size, Retail Value $8</DD>
+<DD>Deluxe Sample Size .25 fl.oz., Retail Value $8</DD>
 </DL>
 
 <p>I've tried this primer before (also sample sized) and it was good for my combination skin. The oil-free formula was much appreciated and as you know, you don't really need to use much primer with every application so this size will go a long way for me, plus it's great for travelling too!</p>
 
 <DL>
 <DT>J. Cat Beauty Liptitude 24/7 Hydrating Lip Stain in <i>Blow Your Mind</i></DT>
-<DD>Retail Value $5.99</DD>
+<DD>Full Size .42 oz., Retail Value $5.99</DD>
 </DL>
 
 <p>I liked the color but not so much the packaging. At first I thought it was a nail polish until I saw the lips on it and knew it wasn't. Since we women like to apply and re-apply our lip colors and most of the times we do that while we're out and about, packaging is important. I love whipping out my super luxurious Guerlain lipstick, it makes me feel glamorous and chic. But this I'm not so sure. I might have to just apply this at home. But, the color was good so at least I'm happy with that.</p>
