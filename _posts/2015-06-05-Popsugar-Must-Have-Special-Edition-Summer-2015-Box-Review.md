@@ -16,7 +16,7 @@ date: 2015-06-05 19:01:39 -08:00
 ---
 
 <center><img src='/images/PopsugarSummer2015Box.jpg'></center>
-<p><b>Box:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
+<p><b>Box:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
 <p><b>Cost:</b> $100 with Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> A special curation of summer's hottest essentials. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been double at the least.</p>
 <br>
@@ -119,4 +119,4 @@ date: 2015-06-05 19:01:39 -08:00
 
 <p><b>VERDICT:</b> I loved every single item from this box and I'm so glad I bought it (I was contemplating since the last Special Edition box was less than stellar). Everything is perfect for summer and definitely fits in with their sailing theme. The total value came up to $323.5 which is triple the cost of this box! The bag and bracelet alone made this a win for me. I think Popsugar nailed it this time.</p>
 
-*The POPSUGAR Special Edition Must Have Summer Box is now sold out, but if you're interested in getting the monthly <a href="http://http://popsu.gr/vdrb">POPSUGAR Must Have Box</a> subscription you can subscribe <a href="http://http://popsu.gr/vdrb">here</a> and use coupon code "MUSTHAVE5" to save $5 off your first box!
+*The POPSUGAR Special Edition Must Have Summer Box is now sold out, but if you're interested in getting the monthly <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">POPSUGAR Must Have Box</a> subscription you can subscribe <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">here</a> and use coupon code "MUSTHAVE5" to save $5 off your first box!
