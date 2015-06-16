@@ -15,7 +15,7 @@ date: 2015-06-16 11:19:39 -07:00
 ---
 
 <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BeautyDNARuelala.jpg" border="0" style="border:none;max-width:100%;" alt="Beauty DNA on sale at RueLaLa!" />
+<img src="/images/BeautyDNARuelala.jpg" border="0" style="border:none;max-width:100%;" />
 </a>
 
 <center><img src='/images/BeautyDNARuelala.jpg'></center>
