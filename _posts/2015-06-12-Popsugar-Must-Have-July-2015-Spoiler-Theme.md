@@ -15,17 +15,17 @@ date: 2015-06-12 09:29:00 -08:00
 ---
 
 <CENTER><IMG SRC='/images/PopsugarBox.jpg'></CENTER>
-<p><b>The Box:</b> <a href="http://popsu.gr/vdrb">Popsugar Must Have Box</a></p>
+<p><b>The Box:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
 <p><b>Coupon:</b> Enter coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
 <br>
 
-<p>The <a href="http://popsu.gr/vdrb">Popsugar</a> July 2015 Theme has been revealed, and its perfect for July!</p>
+<p>The <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar</a> July 2015 Theme has been revealed, and its perfect for July!</p>
 
 <CENTER><IMG SRC='/images/PopsugarJuly2015Theme.png'></CENTER>
 <p>The themes are: Beach Days, Fourth of July, Easy Travel, and Summer Heat.</p>
 
 <p>I'm most excited about the Beach Days and Easy Travel and I'm hoping for a hat or a beach mat, but that's just my wishful thinking ;)</p>
 
-<p>If you haven't subscribed yet, July boxes are still available. <a href="http://popsu.gr/vdrb">Subscribe here to Popsugar Must Have</a> and use coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
+<p>If you haven't subscribed yet, July boxes are still available. <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Subscribe here to Popsugar Must Have</a> and use coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
