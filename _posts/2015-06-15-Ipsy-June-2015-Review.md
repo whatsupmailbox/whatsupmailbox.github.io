@@ -44,7 +44,8 @@ date: 2015-06-15 12:50:39 -08:00
 <p>Blackberry is their name for Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
 <br>
 
-<center><img src='/images/IpsyJune2015Eyeshadow.jpg'></center>
+<p><center><img src='/images/IpsyJune2015Eyeshadow.jpg'></center></p>
+<p><center><img src='/images/IpsyJune2015EyeshadowOpen.jpg'></center></p>
 <DL>
 <DT>tresStique Mini Shadow Crayon in <i>Marimoto Pink Pearl</i></DT>
 <DD>Retail Value $10</DD>
@@ -54,6 +55,13 @@ date: 2015-06-15 12:50:39 -08:00
 <br>
 
 <center><img src='/images/IpsyJune2015Items2.jpg'></center>
+<DL>
+<DT>Smashbox Photo Finish Foundation Primer</DT>
+<DD>Deluxe Sample Size, Retail Value $8</DD>
+</DL>
+
+<p>I've tried this primer before (also sample sized) and it was good for my combination skin. The oil-free formula was much appreciated and as you know, you don't really need to use much primer with every application so this size will go a long way for me, plus it's great for travelling too!</p>
+
 <DL>
 <DT>J. Cat Beauty Liptitude 24/7 Hydrating Lip Stain in <i>Blow Your Mind</i></DT>
 <DD>Retail Value $5.99</DD>
@@ -69,13 +77,6 @@ date: 2015-06-15 12:50:39 -08:00
 </DL>
 
 <p>I'm a sucker for eye pads and was super happy to get 2 treatments. I work late and am constantly staring at the computer for both my job and blog, so my eyes need all the help they can get. Plus I love doing impromptu spa days at home and this is perfect for that.</p>
-
-<DL>
-<DT>Smashbox Photo Finish Foundation Primer</DT>
-<DD>Deluxe Sample Size, Retail Value $8</DD>
-</DL>
-
-<p>I've tried this primer before (also sample sized) and it was good for my combination skin. The oil-free formula was much appreciated and as you know, you don't really need to use much primer with every application so this size will go a long way for me, plus it's great for travelling too!</p>
 
 <p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile. The bag was cute and is supposed to be floatable on water which I thought was pretty unique. The total value came up to $35.98 which is great for a $10 subscription, and especially when every single item in this bag is useful to me.</p>
 
