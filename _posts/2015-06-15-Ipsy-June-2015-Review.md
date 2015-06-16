@@ -21,7 +21,6 @@ date: 2015-06-15 12:50:39 -08:00
 
 <center><img src='/images/IpsyJune2015Package.jpg'></center>
 <p>They come packaged in a padded pink envelope, and not just any pink, bright pink!</p>
-<br>
 
 <p>Ipsy is very similar to Birchbox where all subscribers receive different variations in their bag. They try to give you products that match your needs and concerns so not everyone will get the same items.</p>
 
