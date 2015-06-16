@@ -11,7 +11,7 @@ type: photo
 imagefeature: IpsyJune2015Items.jpg
 headline: Ipsy June 2015 Review
 tags: [Ipsy, Subscriptions, Reviews, June 2015]
-date: 2015-06-15 12:50:39 -08:00
+date: 2015-06-16 09:38:39 -08:00
 ---
 
 <p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
