@@ -23,19 +23,19 @@ date: 2015-06-15 20:02:39 -08:00
 <p>And July's Sample Choice item is...</p>
 <center><img src='/images/BirchboxJuly2015SampleChoiceStila.png'></center>
 <p>Birchbox is doing something different in July where all subscribers will receive the Stila Stay All Day Liquid Lipstick, but you do get to choose which color you want.</p>
-The choices are:
+<p>The choices are:
 <ul>
 <li>Bella - a hot pink color</li>
 <li>Venezia - a coral color</li>
 <li>Beso - a bold red color</li>
 </ul>
-<br>
+</p>
 
 <p>You can also opt to choose the featured box of the month instead, and for July it's "Beachy and Bright".</p>
 
 <p><center><img src='/images/BirchboxJuly2015BeachyAndBright.png'></center></p>
 
-Inside the Beachy and Bright Box:
+<p>Inside the Beachy and Bright Box:
 <ul>
 <li>TheBalm Cosmetics Balm Desert Bronzer/Blush</li>
 <li>Stila Stay All Day Liquid Lipstick in Bella</li>
@@ -43,6 +43,7 @@ Inside the Beachy and Bright Box:
 <li>Supergoop! Anti-Aging City Sunscreen Serum SPF 30</li>
 <li>Juara Enzyme Radiance Scrub</li>
 </ul>
+</p>
 
 # Birchbox Plus
 <p>Every month, <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox</a> also gives the option to add items from their shop to your monthly box at a discounted price, this is called <b>Birchbox Plus</b>.</p>
