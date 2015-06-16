@@ -17,8 +17,6 @@ date: 2015-06-16 11:19:39 -07:00
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BeautyDNARuelala.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<center><img src='/images/BeautyDNARuelala.jpg'></center>
 <p><b>Subscription:</b><a href="https://beautydna.com" target="_blank"> Beauty DNA</a></p>
 <p><b>Cost:</b> $25 / month + Free Shipping</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> and get 2 months for only $29 plus a bonus item!</p>
