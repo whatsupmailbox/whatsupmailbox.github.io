@@ -40,7 +40,7 @@ date: 2015-06-15 12:50:39 -08:00
 <DD>Retail Value $7.99</DD>
 </DL>
 
-<p>Blackberry is their name for Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
+<p>Blackberry is their version of Black and you can never have enough black eyeliner, so I'm happy I got this. It also contains German ink technology that ensures a flawless even line with the ultra-thin felt tip. And I love that this eyeliner is alcohol, paraben and perfume free. I would have liked it even more if it was waterproof, and it would've also been more in line with their "Swim into beauty" theme, but that's just something minor.</p>
 <br>
 
 <p><center><img src='/images/IpsyJune2015Eyeshadow.jpg'></center></p>
