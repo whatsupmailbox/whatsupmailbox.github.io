@@ -29,7 +29,7 @@ date: 2015-06-15 12:50:39 -08:00
 
 <H4>And here are my items:</H4>
 <center><img src='/images/IpsyJune2015Items.jpg'></center>
-<p>The June 2015 box is themed "Swim into beauty"</big>. and it's a great theme for summer!</p>
+<p>The June 2015 box is themed "Swim into beauty"</big> and it's a great theme for summer!</p>
 <br>
 
 <H4>Items in Detail:</H4>
