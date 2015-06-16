@@ -18,7 +18,7 @@ date: 2015-06-16 08:32:39 -08:00
 <p><b>Subscription:</b> <a href="https://fivefourclothing.com/new/club/getstarted/referrer/RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60 / month (taxes apply to CA)</p>
 <p><b>What do you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> Use <a href="http://curebit.com/x/9FH49O" target="_blank">coupon code RT30OFF</a> and get your first package for only $30!</p>
+<p><b>Coupon:</b> Use <a href="http://curebit.com/x/9FH49O" target="_blank">coupon code RMN15OFF</a> and get $15 off your first package!</p>
 <br>
 
 <p>I decided to sign my husband up for this service to see how well their products and styling service are.</p>
