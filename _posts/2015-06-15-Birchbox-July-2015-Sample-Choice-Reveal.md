@@ -29,6 +29,7 @@ The choices are:
 <li>Venezia - a coral color</li>
 <li>Beso - a bold red color</li>
 </ul>
+<br>
 
 <p>You can also opt to choose the featured box of the month instead, and for July it's "Beachy and Bright".</p>
 
