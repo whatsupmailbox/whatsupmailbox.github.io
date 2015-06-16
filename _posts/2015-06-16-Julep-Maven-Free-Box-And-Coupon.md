@@ -16,7 +16,7 @@ imagefeature: "JulepMavenPoolsideBeautyBox.jpg"
 date: 2015-06-16 12:34:39 -08:00
 ---
 
-<i><font size="1">Disclosure: This post contains affiliate links</font></i>
+<i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
 # Julep Maven Free Box
 
