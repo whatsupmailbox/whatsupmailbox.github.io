@@ -16,12 +16,12 @@ date: 2015-05-16 9:01:39 -08:00
 ---
 
 ![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
-My May 2015 <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
+My May 2015 <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
-<p><b>Subscription:</b> <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <b>MUSTHAVE5</b> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 ![Popsugar Must Have May 2015 Open Box](/images/PopsugarMay2015OpenBox.jpg)
@@ -65,7 +65,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 <a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
-<p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
+<p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
 <br>
 
 <p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. I'm excited for the June 2015 box though since they released a <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">spoiler item</a> just a few days ago and that item alone is worth more than the subscription! Hint, it's perfect for sunny summer days. Check out my <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">Popsugar Spoiler news</a> I posted to see what it is. Here's hoping to a better box in June!</p>
