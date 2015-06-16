@@ -77,7 +77,7 @@ date: 2015-06-15 12:50:39 -08:00
 
 <p>I'm a sucker for eye pads and was super happy to get 2 treatments. I work late and am constantly staring at the computer for both my job and blog, so my eyes need all the help they can get. Plus I love doing impromptu spa days at home and this is perfect for that.</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile, not a single item that was off for me. My least favorite item would have to be the bag -I thought it was just okay, nothing special. The total value came up to $36.65 which is great for a $10 subscription, and especially when every single item in this bag is useful to me. Here's to hoping they get it right again next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile. My least favorite item would have to be the bag -I thought it was just okay, nothing special. The total value came up to $36.65 which is great for a $10 subscription, especially when every single item in this bag is useful to me. When compared to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a>, I think Ipsy has something different to deliver -they send out a lot of full size items and a free bag. I subscribe to both and will continue to do so. Here's to hoping they get it right again next month!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe here</big></a> to start receiving their monthly goodies!</p>
 <br>
