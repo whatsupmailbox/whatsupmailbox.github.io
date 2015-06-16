@@ -19,7 +19,7 @@ date: 2015-06-11 15:30:39 -08:00
 <p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">THETIG15</a> and your first box will be the Tig “Ready, Set Summer” box, inspired by Meghan Markle's lifestyle site, The Tig. It's filled with must-try brands like Oribe, Davines, and more.
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty. Perfect for brides, bridesmaids, and guests, this box is packed with products to prep for the big day—and use long after.
 * Shoping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 <br>
 
