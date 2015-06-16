@@ -28,7 +28,7 @@ date: 2015-06-15 12:50:39 -08:00
 <p>This review is for my profile so its just one of the many variations that they sent out.</p>
 
 <H4>And here are my items:</H4>
-<center><img src='/images/IpsyJune2015Items.jpeg'></center>
+<center><img src='/images/IpsyJune2015Items.jpg'></center>
 <p>The June 2015 box is themed "Swim into beauty"</big>. and it's a great theme for summer!</p>
 <br>
 
