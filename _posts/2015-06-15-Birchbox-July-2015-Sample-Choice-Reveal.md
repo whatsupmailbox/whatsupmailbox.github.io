@@ -17,7 +17,7 @@ date: 2015-06-15 20:02:39 -08:00
 <p><b>Cost:</b> $10 / month + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples customized to your profile. You complete the profile when you join and can modify it at any time. You also get to choose one of your items through the Sample Choice option that they release the month prior, or choose a curated box that will replace your box completely.</p>
 
-<p>Their theme for July is "Go Bold", and its the perfect theme for summer since we wear colors that are brighter and bold!</p>
+<p>The theme for July is "Go Bold", and it's the perfect theme for summer since we wear colors that are brighter and bold!</p>
 
 # Sample Choice
 <p>And July's Sample Choice item is...</p>
@@ -29,7 +29,7 @@ The choices are:
 * Beso - a bold red color
 <br>
 
-<p>You can also opt to choose the featured box of the month instead, and for July its "Beachy and Bright".</p>
+<p>You can also opt to choose the featured box of the month instead, and for July it's "Beachy and Bright".</p>
 
 <p><center><img src='/images/BirchboxJuly2015BeachyAndBright.png'></center></p>
 
