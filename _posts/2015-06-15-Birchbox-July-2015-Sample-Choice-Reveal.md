@@ -69,6 +69,6 @@ For your July box, here are the Birchbox Plus items you can add on:
 
 <p>Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around June 25th to choose either the sample choice or the featured box. If you’d rather not choose a sample or the curated box, they'll create a box for you based on your Beauty Profile.</p>
 
-Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box. Note: You must be subscribed by June 23rd to participate in the July Sample Choice.
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box. Note: You must be subscribed by June 23rd to participate in the July Sample Choice.</p>
 
 <p>What will you be choosing this month?</p>
