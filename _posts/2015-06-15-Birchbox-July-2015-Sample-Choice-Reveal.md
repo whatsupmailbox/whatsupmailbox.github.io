@@ -72,3 +72,5 @@ For your July box, here are the Birchbox Plus items you can add on:
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box. Note: You must be subscribed by June 23rd to participate in the July Sample Choice.</p>
 
 <p>What will you be choosing this month?</p>
+
+<a href="http://www.bloglovin.com/blog/14064175/?claim=9wpmk56j24c">Follow my blog with Bloglovin</a>
