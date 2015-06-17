@@ -104,7 +104,7 @@ date: 2015-06-17 09:30:39 -08:00
 </DL>
 
 <p>I added this on to my Birchbox because it was just too good (and pretty) to pass up and I'm so glad I did, I'm in love with this watch! The color is pastel light pink, and it looks gorgeous on my wrist, and at a value price too! I've been wearing it on ever since I opened the box today and can't seem to take it off, my wrist just doesn't want to part with it. #truestory</p>
-<p>I have really small wrists so I was concerned it would be too big for me, but it fits perfectly on the very last hole with some room for movement.</p>
+<p>I have really small wrists so at first I was concerned it would be too big for me, but it fits perfectly on the very last hole with some room for movement. Phew!</p>
 <p>I'm already planning on expanding my collection of rumbaTime watches. Next up, the <a href="https://www.birchbox.com/shop/rumbatime-orchard-gem" target="_blank">Orchard Gem in Black</a> (and maybe White too).
 
 <p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box came up to $24.60 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
