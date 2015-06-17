@@ -15,6 +15,9 @@ date: 2015-06-17 09:30:39 -08:00
 ---
 
 <center><img src='/images/BirchboxJune2015BPackage.jpg'></center>
+<figcaption>Because this shipment included a Birchbox Plus item that I added on, the shipment box is different</figcaption>
+<br>
+
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
@@ -37,8 +40,12 @@ date: 2015-06-17 09:30:39 -08:00
 
 <DT>Now let's move on to the products inside!</DT>
 
+<p><center><img src='/images/BirchboxJune2015BOpenBox.jpg'></center></p>
+
+<H4>Items in detail:</H4>
+
 <p><center><img src='/images/BirchboxJune2015BItems2.jpg'></center></p>
-<H4>My products:</H4>
+
 <DL>
 <DT>Skyn Iceland - Hydro Cool Firming Eye Gels</DT>
 <DD>1 treatment, Value $3.75</DD>
