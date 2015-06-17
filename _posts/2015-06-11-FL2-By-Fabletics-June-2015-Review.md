@@ -51,6 +51,6 @@ date: 2015-06-11 09:27:39 -08:00
 
 <p>My husband chose these shorts last month in the black color, and he liked it so much that he just had to get another one. These pants have side mesh panels, a built in liner, and zippered pockets. Hubby plays racquetball for 3 hours straight and this came back with very minimal sweat or odor, definitely passed the test in my book!</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> The Etna outfit was another great hit for my husband, especially since it included the Forster Short. The total value of the outfit came up to $104.90 in retail value, and with VIP membership pricing it goes down to $79.90. With their FL2 subscription, I only paid $59.95 which is a great deal for these 2 items. I'm hoping for more items with mesh side panels next month since we're right in the middle of summer and any ventilation helps, especially for men.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> The Etna outfit was another great hit for my husband, especially since it included the Forster Short. The total value of the outfit came up to $104.90 in retail value, and with VIP membership pricing it goes down to $79.90. With their FL2 subscription, I only paid $59.95 which is a great deal for these 2 items. I'm hoping for more items with mesh side panels next month since we're right in the middle of summer and any ventilation helps, especially for men.</p>
 
 <p>What did you choose for yourself (or for your other half)? Let me know!</p>
