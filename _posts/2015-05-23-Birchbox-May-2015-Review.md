@@ -51,7 +51,7 @@ date: 2015-05-23 11:27:39 -08:00
 <p>I actually use Living Proof products but haven't tried this one, so I'm happy this was in my box and I can't wait to try it. Their products always deliver so I'm sure I'll love it.</p>
 </DL>
 
-<p><b>VERDICT:</b> Perfume sample aside, I actually loved this box and thought it was well curated. The total value came up to $31.95 which is great for a $10 subscription, especially when I'll be using most of the items. Definitely one of the better boxes I've received from Birchbox so far!</p>
+<p><b>My Thoughts:</b> Perfume sample aside, I actually loved this box and thought it was well curated. The total value came up to $31.95 which is great for a $10 subscription, especially when I'll be using most of the items. Definitely one of the better boxes I've received from Birchbox so far!</p>
 
 <p>The June 2015 Sample Choice will open next week on May 27th, read my post about it <a href="http://whatsupmailbox.com/subscriptions/Birchbox-June2015-Sample-Choice-Plus-Reveal/">here</a> so you don't miss out on choosing your sample choice or Birchbox Plus item(s).</p>
 
