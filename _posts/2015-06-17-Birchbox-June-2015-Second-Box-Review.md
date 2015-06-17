@@ -75,11 +75,21 @@ date: 2015-06-17 09:30:39 -08:00
 
 <p>I've had this in my Birchbox before and although the scent is not for me, it does its job in detangling, moisturizing and heat protection. It’s also sulfate and paraben free which makes it totally safe for color treated hair.</p>
 
+<H4><i class="icon-gift"></i> Bonus item:</H4>
 
+<center><img src='/images/BirchboxJune2015BonusItem.jpg'></center>
+
+<DL>
+<DT>Emi Jay Solid Hair Tie in <i>Blue</i></DT>
+<DD>1 hair tie, $2.20</DD>
+</DL>
+
+<p>I got a different of hair tie last week in my first Birchbox for this month, and I'm happy I got a different type! I'm beginning to sense that my items have a "blue" theme to it since my eyeliner was blue, the coola is blue, and now this hair tie too.</p>
+<p>I love hair ties like this since it looks chic and doesn't snag or tangle my hair. I also love the fact that Emi-Jay donates 20% of all profitct to charity, plus its made in LA, my hometown!</p>
 
 # Birchbox Plus Item
 
-<center><img src='/images/BirchboxJune2015PlusItem.jpg'></center>
+<center><img src='/images/BirchboxJune2015BPlusItem.jpg'></center>
 
 <DL>
 <DT>rumbaTIME Orchard Gloss in Rose Smoke</DT>
