@@ -40,41 +40,42 @@ date: 2015-06-17 09:30:39 -08:00
 <p><center><img src='/images/BirchboxJune2015BItems2.jpg'></center></p>
 <H4>My products:</H4>
 <DL>
-<DT>Skyn Iceland Hydro Cool Firming Eye Gels</DT>
+<DT>Skyn Iceland - Hydro Cool Firming Eye Gels</DT>
 <DD>1 treatment, Value $3.75</DD>
 </DL>
 
 <p>Eye gels are a life saver for my tired eyes and I've tried this specific one before thanks to Birchbox and it was ultra refreshing, so I'm happy I got it again.</p>
 
 <DL>
-<DT>Supergoop! - Everyday Sunscreen SPF 50</DT>
-<DD>Deluxe sample 0.34 fl.oz./10 ml, $2.69</DD>
+<DT>Marcelle - BB Cream Golden Glow</DT>
+<DD>Deluxe sample 0.24 oz/7 ml, $4.05</DD>
 </DL>
 
-<p>I have Supergoop! products but I'm happy to add more to my collection especially in these small travel friendly tubes, they're so convenient. This sunscreen can be used for both body and face and is oil-free, plus it's free of oxybenzone.</p>
+<p>So I got this in my first Birchbox last week and based on pictures I saw on Instagram, it seems like a lot of subscribers got this specific item. I kind of wished I got something else since I already have this, but oh well, another one doesn't hurt.</p>
+<p>Here's what I said about this item in my review last week: I love BB creams because it cuts my makeup routine in half by being an all-in-one moisturizer and foundation. This cream promises to hydrate and calm skin, evens tone, control shine, lightly masks imperfections, and infuse skin with a radiance glow (thanks to tiny flecks of light-reflecting pigments). I also like that its paraben free and oil free which is 2 things I absolutely require for my skincare.</p>
 
 <DL>
-<DT>Number 4 - Super Comb Prep & Protect</DT>
-<DD>Deluxe sample 30 ml/1 fl.oz., $4.80</DD>
+<DT>COOLA - Classic SPF 30 Cucumber Moisturizer for Face</DT>
+<DD>Deluxe sample 0.24 fl.oz./7 ml, $4.52</DD>
 </DL>
 
-<p>I just got this 2 months ago from Birchbox so I think it might be time for me to update my profile. This sulfate-free leave-in conditioner will protect your hair from heat damage and it also doubles as a color protector and UV shield. The size of the bottle is also travel friendly and perfect to bring to the beach or poolside.</p>
+<p>Coola and Supergoop are my go-tos for sunscreen -their both oxybenzone free (which is a must for me). This sunblock is made with 70 percent certified organic ingredients and protects from both UVA and UVB rays. The scent smells like fresh cucumbers which is refreshing on a hot summer day, plus it goes on smooth and not thick, another reason why I love this sunscreen.</p>
 
 <DL>
-<DT>Marcelle - Waterproof Eyeliner in <i>Indigo</i></DT>
+<DT>Marcelle - Waterproof Eyeliner in <i>Electric Blue</i></DT>
 <DD>Deluxe Sample Size (2/3 of the full size pencil) 0.8g, $7.33</DD>
 </DL>
 
-<p>I'm glad that the color of this eyeliner is dark and although not black (it's like a dark blue), it still fits me well. It still looks black on me with a tiny hint of blue but very slightly. I also appreciate that this is waterproof and almost full size (2/3 of full size).</p>
+<p>Wow, this color is definitely electric blue. Although I have blue eyeliners in my collection, it's not my favorite color to wear especially when its not dark, so I'm not sure I'll be using this anytime soon. I liked the color in my other box which was dark blue, but sadly this one was a miss for me.</p>
 
 <DL>
-<DT>Catherine Malandrino - Style de Paris Eau de Parfum</DT>
-<DD>Deluxe Sample Spray 2ml?, $4.33?</DD>
+<DT>Beauty Protector - Protect & Detangle</DT>
+<DD>Deluxe sample 1 oz., $2.75</DD>
 </DL>
 
-<i><small>There was no information on size for this item, so my calculations are based on average perfume sample spray sizes.</small></i>
-<p>Fragrance samples never excite me. I get way too many from my online beauty purchases as free gifts, plus I think scents are so personal that its hard to please anyone, especially me since I'm very picky with my fragrances.</p>
-<p>"This scent from fashion designer Catherine Malandrino hits all the right notes with a playful yet sophisticated oriental fragrance mixed with fun fruits (think: Italian Mandarin, ruby red grapefruit, and Nashi pear). Like her renowned, sought-after designs, it’s the perfect blend of chic Parisian style and the infectious energy of New York City."</p>
+<p>I've had this in my Birchbox before and although the scent is not for me, it does its job in detangling, moisturizing and heat protection. It’s also sulfate and paraben free which makes it totally safe for color treated hair.</p>
+
+
 
 # Birchbox Plus Item
 
