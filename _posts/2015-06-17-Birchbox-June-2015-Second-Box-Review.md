@@ -29,7 +29,6 @@ date: 2015-06-17 09:29:39 -08:00
 
 <p>I currently have 2 subscriptions for Birchbox so this review is for the second box that I received this month. Read my <a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-June-2015-Review/" target="_blank">review of the first box here</a>.</p>
 
-# Birchbox Items
 <center><img src='/images/BirchboxJune2015BBox.jpg'></center>
 
 <p>This box has motivated me to plan my next vacation and fill it with adventure! I've already narrowed down my destination to two places, so its progress =)</p>
