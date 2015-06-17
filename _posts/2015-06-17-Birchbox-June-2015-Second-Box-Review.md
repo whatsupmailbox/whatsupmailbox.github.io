@@ -68,6 +68,8 @@ date: 2015-06-17 09:30:39 -08:00
 
 <p>Coola and Supergoop are my go-tos for sunscreen -their both oxybenzone free (which is a must for me). This sunblock is made with 70 percent certified organic ingredients and protects from both UVA and UVB rays. The scent smells like fresh cucumbers which is refreshing on a hot summer day, plus it goes on smooth and not thick, another reason why I love this sunscreen.</p>
 
+<p><center><img src='/images/BirchboxJune2015BItems.jpg'></center></p>
+
 <DL>
 <DT>Marcelle - Waterproof Eyeliner in <i>Electric Blue</i></DT>
 <DD>Deluxe Sample Size (2/3 of the full size pencil) 0.8g, $7.33</DD>
@@ -84,15 +86,13 @@ date: 2015-06-17 09:30:39 -08:00
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
-<center><img src='/images/BirchboxJune2015BonusItem.jpg'></center>
-
 <DL>
 <DT>Emi Jay Solid Hair Tie in <i>Blue</i></DT>
 <DD>1 hair tie, $2.20</DD>
 </DL>
 
-<p>I got a different of hair tie last week in my first Birchbox for this month, and I'm happy I got a different type! I'm beginning to sense that my items have a "blue" theme to it since my eyeliner was blue, the coola is blue, and now this hair tie too.</p>
-<p>I love hair ties like this since it looks chic and doesn't snag or tangle my hair. I also love the fact that Emi-Jay donates 20% of all profitct to charity, plus its made in LA, my hometown!</p>
+<p>The hair tie I received last week in my other Birchbox was more of an elastic band, so I'm happy I got a different type! I'm beginning to sense that my items have a "blue" color theme to it since my eyeliner is blue, the coola is blue, and now this hair tie too.</p>
+<p>I love hair ties like this since it looks chic and doesn't snag or tangle my hair. I also love the fact that Emi-Jay donates 20% of all profit to charity, plus its made in LA, my hometown!</p>
 
 # Birchbox Plus Item
 
@@ -103,8 +103,9 @@ date: 2015-06-17 09:30:39 -08:00
 <DD>$28 to add on ($45 value)</DD>
 </DL>
 
-<p>I'm in love with this watch! The color is pastel light pink, and it looks gorgeous on my wrist, and at a value price too! I've been wearing it on ever since I opened the box today and can't seem to take it off, my wrist just doesn't want to part with it #truestory.</p>
+<p>I added this on to my Birchbox because it was just too good (and pretty) to pass up and I'm so glad I did, I'm in love with this watch! The color is pastel light pink, and it looks gorgeous on my wrist, and at a value price too! I've been wearing it on ever since I opened the box today and can't seem to take it off, my wrist just doesn't want to part with it. #truestory</p>
 <p>I have really small wrists so I was concerned it would be too big for me, but it fits perfectly on the very last hole with some room for movement.</p>
-<p>I'm already planning on expanding my collection of rumbaTime watches. Next target, the <a href="https://www.birchbox.com/shop/rumbatime-orchard-gem" target="_blank">Orchard Gem in Black</a> (and maybe White too).
+<p>I'm already planning on expanding my collection of rumbaTime watches. Next up, the <a href="https://www.birchbox.com/shop/rumbatime-orchard-gem" target="_blank">Orchard Gem in Black</a> (and maybe White too).
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> This box had a summer theme going on and perfume sample aside, I'll be using every item in it. I've already put all the items (beside the perfume) into my travel beauty bag so that it's all ready for me to use when I decide to head off to the beach or go on a vacay to somewhere sunny and tropical. The total value of this box came up to $24.40, that's if my calculations on the perfume sample are correct. But even if it's off by a dollar or two, the value is still double the cost so I'm happy with that, plus <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> got brownie points for including the hair tie as a bonus item!</p>
+<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box came up to $24.60 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
+
