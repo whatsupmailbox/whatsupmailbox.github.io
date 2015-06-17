@@ -125,7 +125,7 @@ date: 2015-06-17 09:29:39 -08:00
       <TD>$3.75</TD>
    </TR>
    <TR>
-      <TD>Marcelle - BB Cream</TD>
+      <TD>Marcelle BB Cream</TD>
       <TD>$4.05</TD>
    </TR>
     <TR>
