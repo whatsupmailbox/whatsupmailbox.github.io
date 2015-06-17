@@ -80,7 +80,7 @@ date: 2015-06-15 09:32:39 -08:00
 
 <p>I've tried this toothpaste before thanks to other subscription boxes. It's minty fresh, has a cool packaging and the size is great for travelling.</p>
 
-<p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> Every item in this box was quality, useful and will definitely bump up your style. The value was definitely there too, it came up to $83.82 which is almost triple the cost! My husband and I definitely recommend this box if you love to accessorize or you're looking to upgrade your style. Hubby is happy with this box and will continue to subscribe.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Every item in this box was quality, useful and will definitely bump up your style. The value was definitely there too, it came up to $83.82 which is almost triple the cost! My husband and I definitely recommend this box if you love to accessorize or you're looking to upgrade your style. Hubby is happy with this box and will continue to subscribe.</p>
 
 <TABLE  BORDER="5">
    <TR>
