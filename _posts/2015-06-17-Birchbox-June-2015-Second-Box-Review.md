@@ -111,3 +111,40 @@ date: 2015-06-17 09:30:39 -08:00
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty.</p>
 
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Aurora Eyeliner Pen</TD>
+      <TD>$7.99</TD>
+   </TR>
+   <TR>
+      <TD>tresStique Mini Shadow Crayon</TD>
+      <TD>$10.67</TD>
+   </TR>
+    <TR>
+      <TD>J. Cat Beauty Liptitude Lip Stain</TD>
+      <TD>$5.99</TD>
+   </TR>
+    <TR>
+      <TD>Altchek MD Eye Gel Pads</TD>
+      <TD>$4</TD>
+   </TR>
+    <TR>
+      <TD>Smashbox Photo Finish Foundation Primer</TD>
+      <TD>$8</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$36.65</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
+   </TR>
+</TABLE>
