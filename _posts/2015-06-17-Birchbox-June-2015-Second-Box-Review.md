@@ -24,10 +24,10 @@ date: 2015-06-17 09:29:39 -08:00
 <p><b>Coupon:</b></p>
 * Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty. Perfect for brides, bridesmaids, and guests, this box is packed with products to prep for the big day and use long after.
 * Shoping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
+
 <br>
 
 # Birchbox Items
-
 <center><img src='/images/BirchboxJune2015BBox.jpg'></center>
 
 <p>This box has motivated me to plan my next vacation and fill it with adventure! I've already narrowed down my destination to two places, so its progress =)</p>
