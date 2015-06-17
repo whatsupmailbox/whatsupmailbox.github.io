@@ -120,28 +120,32 @@ date: 2015-06-17 09:30:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Aurora Eyeliner Pen</TD>
-      <TD>$7.99</TD>
+      <TD>Skyn Iceland Eye Gels</TD>
+      <TD>$3.75</TD>
    </TR>
    <TR>
-      <TD>tresStique Mini Shadow Crayon</TD>
-      <TD>$10.67</TD>
+      <TD>Marcelle - BB Cream</TD>
+      <TD>$4.05</TD>
    </TR>
     <TR>
-      <TD>J. Cat Beauty Liptitude Lip Stain</TD>
-      <TD>$5.99</TD>
+      <TD>COOLA SPF 30 Moisturizer</TD>
+      <TD>$4.52</TD>
    </TR>
     <TR>
-      <TD>Altchek MD Eye Gel Pads</TD>
-      <TD>$4</TD>
+      <TD>Marcelle Eyeliner</TD>
+      <TD>$7.33</TD>
    </TR>
     <TR>
-      <TD>Smashbox Photo Finish Foundation Primer</TD>
-      <TD>$8</TD>
+      <TD>Beauty Protector Protect & Detangle</TD>
+      <TD>$2.75</TD>
+   </TR>
+   <TR>
+      <TD>Emi Jay Solid Hair Tie</TD>
+      <TD>$2.20</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$36.65</big></b></TD>
+      <TD><b><big>$24.60</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
