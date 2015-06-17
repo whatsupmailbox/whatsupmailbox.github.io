@@ -97,7 +97,7 @@ date: 2015-06-17 09:30:39 -08:00
 # Birchbox Plus Item
 
 <center><img src='/images/BirchboxJune2015BPlusItem.jpg'></center>
-
+<center><img src='/images/BirchboxJune2015BPlusItem2.jpg'></center>
 <DL>
 <DT>rumbaTIME Orchard Gloss in Rose Smoke</DT>
 <DD>$28 to add on ($45 value)</DD>
