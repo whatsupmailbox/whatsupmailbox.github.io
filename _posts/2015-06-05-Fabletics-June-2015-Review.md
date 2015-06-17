@@ -60,4 +60,4 @@ date: 2015-06-05 18:27:39 -08:00
 
 <br>
 
-<p><b>VERDICT:</b> I'm so happy with my outfit, it looks amazing and comfortable at the same time. The crop print is gorgeous, and the top, well it's so versatile that its a win for me. The total value of the outfit came up to $99.90 in retail value, and with VIP membership pricing it goes down to $69.90. But since I have their subscription, I only paid $59.95 and that's a <strike>deal</strike> steal!</p>
+<p><b>My Thoughts:</b> I'm so happy with my outfit, it looks amazing and comfortable at the same time. The crop print is gorgeous, and the top, well it's so versatile that its a win for me. The total value of the outfit came up to $99.90 in retail value, and with VIP membership pricing it goes down to $69.90. But since I have their subscription, I only paid $59.95 and that's a <strike>deal</strike> steal!</p>
