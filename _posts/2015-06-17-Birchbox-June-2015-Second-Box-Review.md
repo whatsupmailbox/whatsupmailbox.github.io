@@ -109,3 +109,4 @@ date: 2015-06-17 09:30:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> VERDICT:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box came up to $24.60 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
 
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty.</p>
