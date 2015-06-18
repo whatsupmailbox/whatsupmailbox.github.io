@@ -14,6 +14,7 @@ type: photo
 imagefeature: "HonestJune2015Items.jpg"
 date: 2015-06-04 14:01:39 -08:00
 ---
+<i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
 <p><b>Subscription:</b> <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.124&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">Honest Company Essentials Bundle</a></p>
 <p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
