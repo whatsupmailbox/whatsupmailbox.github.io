@@ -23,7 +23,7 @@ date: 2015-06-18 09:09:39 -08:00
 
 <p>You can see her jewelries on celebrities, <a href="http://robynrhodes.com/celebrities.html/" target="_blank">click here to see pics of celebrities wearing them</a>, and there's quite a list.</p>
 
-<p>I'm happy to see they've included a jewelry item again (I'm hoping its a trend here) since the last box had earrings that are my go-to for accessorizing now. The prices on the jewelries I've seen so far have also been quite a high value so that's a good sign. I'm not sure they'll release another spoiler, but if they do I will definitely post it!</p>
+<p>I'm happy to see they've included a jewelry item again (I'm hoping its a trend here) since the last box had earrings that are my go-to for accessorizing now. You can read <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-May-2015-Review/" target="_blank">my review of their previous (launch) box here</a>. The prices on the jewelries I've seen so far have also been quite a high value so that's a good sign. I'm not sure they'll release another spoiler, but if they do I will definitely post it!</p>
 
 ## What's Luxor Box?
 
