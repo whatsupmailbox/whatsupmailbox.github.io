@@ -89,7 +89,7 @@ date: 2015-06-17 09:29:39 -08:00
 
 <DL>
 <DT>Emi Jay Solid Hair Tie in <i>Blue</i></DT>
-<DD>1 hair tie, $2.20</DD>
+<DD>1 hair tie, $2</DD>
 </DL>
 
 <p>The hair tie I received last week in my other Birchbox was more of an elastic band, so I'm happy I got a different type! I'm beginning to sense that my items have a "blue" color theme to it since my eyeliner is blue, the coola is blue, and now this hair tie too.</p>
@@ -108,7 +108,7 @@ date: 2015-06-17 09:29:39 -08:00
 <p>I have really small wrists so at first I was concerned it would be too big for me, but it fits perfectly on the very last hole with some room for movement. Phew!</p>
 <p>I'm already planning on expanding my collection of rumbaTime watches. Next up, the <a href="https://www.birchbox.com/shop/rumbatime-orchard-gem" target="_blank">Orchard Gem in Black</a> (and maybe White too).
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box (not counting the Birchbox Plus item) came up to $24.60 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box (not counting the Birchbox Plus item) came up to $24.40 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty.</p>
 
@@ -142,11 +142,11 @@ date: 2015-06-17 09:29:39 -08:00
    </TR>
    <TR>
       <TD>Emi Jay Solid Hair Tie</TD>
-      <TD>$2.20</TD>
+      <TD>$2</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$24.60</big></b></TD>
+      <TD><b><big>$24.40</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
