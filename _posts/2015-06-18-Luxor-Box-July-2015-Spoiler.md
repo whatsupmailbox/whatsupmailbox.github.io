@@ -11,7 +11,7 @@ mathjax: null
 published: false
 featured: false
 type: photo
-imagefeature: "LuxorBoxJuly2015Spoiler.png"
+imagefeature: "LuxorBox.jpeg"
 date: 2015-06-18 09:09:39 -08:00
 ---
 
