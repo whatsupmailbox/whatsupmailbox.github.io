@@ -31,7 +31,7 @@ date: 2015-06-18 09:09:39 -08:00
 
 <p>So if you're not a subscriber yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe here</big</a> to get the July 2015 box.</p>
 
-<p>Checkout my <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-May-2015-Review/" target="_blank">May 2015 Luxor Box review</a> to see what was in their previous box (their launch box).</p>
+<p>Read my <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-May-2015-Review/" target="_blank">May 2015 Luxor Box review</a> to see what was in their previous box (their launch box).</p>
 
 <p><b>Subscription:</b> <a href="http://www.luxorbox.com" target="_blank">Luxor Box</a></p>
 <p><b>Cost:</b> $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
