@@ -19,9 +19,13 @@ date: 2015-06-18 09:09:39 -08:00
 
 <center><img src="/images/LuxorBoxJuly2015Spoiler.png"></center>
 
-<p>I looked into <a href="http://robynrhodes.com" target="_blank">Robyn Rhodes website</a> and her jewelries are very boho chic. It's a great style to wear during spring or summer, and I'm definitely hoping its gold since I'm not a silver person.</p>
+<p>I looked into <a href="http://robynrhodes.com" target="_blank">Robyn Rhodes website</a> and her jewelries are very boho chic. It's a great style to wear during spring or summer, and based on what I saw, I'm hoping its a bracelet or necklace and gold please since I'm not a silver person.</p>
 
 <p>You can see her jewelries on celebrities, <a href="http://robynrhodes.com/celebrities.html/" target="_blank">click here to see pics of celebrities wearing them</a>, and there's quite a list.</p>
+
+<p>I'm happy to see they've included a jewelry item again (I'm hoping its a trend here) since the last box had earrings that are my go-to for accessorizing now. The prices on the jewelries I've seen so far have also been quite a high value so that's a good sign. I'm not sure they'll release another spoiler, but if they do I will definitely post it!</p>
+
+## What's Luxor Box?
 
 <p>Luxor Box is an exclusive limited subscription that only allows a certain amount of members to subscribe so there was a waiting list if you wanted to subscribe before. But good news, they have just recently increased their USA member base and re-opened the sign-up page for a limited time! The membership page will close once all the new available memberships are sold or at 11:59pm EST on June 24th (whichever comes first).</p>
 
@@ -31,5 +35,4 @@ date: 2015-06-18 09:09:39 -08:00
 
 <p><b>Subscription:</b> <a href="http://www.luxorbox.com" target="_blank">Luxor Box</a></p>
 <p><b>Cost:</b> $125 every-other-month for US deliveries, and $155 every-other-month for Canada deliveries.</p>
-<p>*Boxes are sold out and membership is now on waiting list only. If you you want to join their waiting list, <a href="http://www.luxorbox.com/#!membership-wait-list/c3bo">click here</a> and fill out their form. They'll notify you by email once a membership is available. Per Luxor Box, the wait can be anywhere from one month to well over a year.</p>
 <p><b>What’s in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. All deliveries will always have a $250+ value!</b></p>
