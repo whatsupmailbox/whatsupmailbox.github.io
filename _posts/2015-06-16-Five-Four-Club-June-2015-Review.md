@@ -15,10 +15,10 @@ date: 2015-06-16 08:32:39 -08:00
 ---
 
 <center><img src='/images/FiveFourClubJune2015Package.jpg'></center>
-<p><b>Subscription:</b> <a href="https://fivefourclothing.com/new/club/getstarted/referrer/RE731318" target="_blank">Five Four Club</a></p>
+<p><b>Subscription:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60 / month (taxes apply to CA)</p>
 <p><b>What do you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> Use <a href="http://curebit.com/x/9FH49O" target="_blank">coupon code RMN15OFF</a> and get $15 off your first package!</p>
+<p><b>Coupon:</b> Use <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">coupon code OW15OFF</a> and get $15 off your first package!</p>
 <br>
 
 <p>I decided to sign my husband up for this service to see how well their products and styling service are.</p>
@@ -48,6 +48,8 @@ date: 2015-06-16 08:32:39 -08:00
 <p>The material is made of 98% cotton and 2% elastane. Again... perfect. Because it stretches, it makes these pants comfortable to wear even though it's slim fit and you feel like you're moving with the pants and not that stiff material feeling.</p>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Although the colors were mostly dark, hubby actually loved both items and both he and I were glad the fit was accurate. The quality is definitely there and the style on trend. Both items totaled up to $139.52 (with taxes), but with the subscription it only costs $65.40 which is pretty fair for a shirt and pants. I think this is a great subscription for men who are busy and don't have time to shop, or for those who need an outside intervention to their daily wardrobe. I'll continue to subscribe for my husband and I'm curious to see if they'll brighten up the colors for next month's package. I sure hope so, it's summer after all!</p>
+
+<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
 
 <TABLE  BORDER="5">
    <TR>
