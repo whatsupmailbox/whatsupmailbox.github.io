@@ -8,7 +8,7 @@ categories:
 tags: [Luxor Box, Subscriptions]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBox.jpeg"
