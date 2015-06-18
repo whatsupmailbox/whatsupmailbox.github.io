@@ -25,7 +25,7 @@ date: 2015-06-18 09:09:39 -08:00
 
 <p>Another thing I found interesting is that they offer a <a href="http://robynrhodes.com/mbox-1907.html" target="_blank">Mystery Box</a>. For $69 you get 3 mystery jewelry pieces, that's a pretty good deal considering one of her necklaces alone can cost more than that. And the good part is that you can choose gold or silver for your box.</p>
 
-<p>I'm happy to see they've included a jewelry item again (I'm hoping its a trend here) since the last box had earrings that are my go-to for accessorizing now. You can read <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-May-2015-Review/" target="_blank">my review of their previous (launch) box here</a>. The prices on the jewelries I've seen so far have also been quite a high value so that's a good sign. I'm not sure they'll release another spoiler, but if they do I will definitely post it!</p>
+<p>I'm happy to see Luxor Box including a jewelry item again (I'm hoping its a trend here) since the last box had earrings that are my go-to for accessorizing now. You can read <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-May-2015-Review/" target="_blank">my review of their previous (launch) box here</a>. The prices on the jewelries I've seen so far have also been quite a high value so that's a good sign. I'm not sure they'll release another spoiler, but if they do I will definitely post it!</p>
 
 ## What's Luxor Box?
 
