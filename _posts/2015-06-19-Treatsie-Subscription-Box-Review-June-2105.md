@@ -45,7 +45,7 @@ date: 2015-06-19 15:32:39 -08:00
 </DL>
 
 <p>I love thin cookies and the packaging is cute and travel friendly. My cookies won't get squished in my bag.</p>
-<p>It's made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
+<p>These cookies are not overly sweet, in fact I would say they're slightly sweet which I like. It's made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
 <br>
 
 <p><center><img src='/images/TreatsieJune2015Nutwhats.jpg'></center></p>
@@ -62,16 +62,16 @@ date: 2015-06-19 15:32:39 -08:00
 <p><center><img src='/images/TreatsieJune2015Popcorn.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Banana Foster with Darm Rum and Almond</p>
+<DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Bananas Foster with Dark Rum and Vanilla Bean Cocoa Nib</p>
 <DD>4 small packs, Value $4 each</DD>
 </DL>
 
 <p>I love popcorn, its my all time favorite snack and I can eat them anywhere, not just theaters. I even love the popcorn flavored Jelly Beans, that's how much I love em!</p>
-<p>The Banana Foster with Dark Rum was the bomb, like literally exploded with intoxicating flavors that accompany each other well, amazing. After that flavor, the Vanilla one had no chance -I should have started with the less intense flavor first, my bad.</p>
-<p>The Art of Caramel actually has many unique flavors available on their website and its also packaged in a cool glass jar, ooohh, must have. I'm eyeing the Kentucky Bourbon Black Pepper flavor, that's gotta be amazing too.</p>
+<p>The Bananas Foster with Dark Rum was the bomb, like literally exploded with intoxicating flavors that accompany each other well, amazing. After that flavor, the Vanilla one had no chance -I should have started with the less intense flavor first, my bad.</p>
+<p>The Art of Caramel has a variety of unique flavors available on their website and its also packaged in a cool glass jar, ooohh, must have. I'm eyeing the Kentucky Bourbon Black Pepper flavor, that's gotta be amazing too.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I was confused at first if I got the wrong box (Standard versus Double) since the info card stated that the value of my box totaled to $21. Well I reached out to their customer service and I in fact received the Double Sweets box so all is well. The way to know is if you received double the items, duh! The info card just threw me off, so based on my items, the total value came up to $41.98 which is over the $31.95 subscription cost. Although the snacks were interesting and unique, I'm not sure the cost versus value is great so if you're looking for that, this may not be the subscription for you. It is great if you don't have access to stores that have unique treats close by or if you just love amazing treats delivered monthly.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I was confused at first if I got the wrong box (Standard versus Double) since the info card stated that the value of my box totaled to $21. Well I reached out to their customer service and I in fact received the Double Sweets box, so all is well. The way to know is if you received double the items, duh! The info card just threw me off, so based on my items, the total value came up to $41.98 which is over the $31.95 subscription cost. Although the snacks were interesting and unique, I'm not sure the cost versus value is great. So if you're looking for that, this may not be the subscription for you. It is great if you don't have access to stores that have unique treats close by or if you just love to have amazing treats delivered monthly.</p>
 
 <p>If you want to try them out, you can take advantage of their <a href="http://www.shareasale.com/r.cfm?b=728073&u=1115177&m=51428&urllink=&afftrack=" target="_blank">Buy One, Get one FREE deal</a> by <a href="http://www.shareasale.com/r.cfm?b=728073&u=1115177&m=51428&urllink=&afftrack=" target="_blank">clicking on this link</a>.</p>
 
