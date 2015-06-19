@@ -114,7 +114,7 @@ date: 2015-06-18 15:01:39 -08:00
 <p>This headband is quite wide (4" wide) and feels so soft thanks to the organic cotton. It's also multi purpose; you can use it to hold back your hair, as a wrist band, or cover your eyes during Savasana -a yoga pose of total relaxation where you close your eyes.</p>
 
 <DL>
-<DT><a href="https://www.snapsupercandy.com/supercandy/" target="_blank">SNAP Infusion - Supercandy in <i>Gummy</i> and <i>Sour Gummy</i></DT>
+<DT><a href="https://www.snapsupercandy.com/supercandy/" target="_blank">SNAP Infusion - Supercandy in <i>Gummy</i> and <i>Sour Gummy</i></a></DT>
 <DD>2 packs, Retail Value $4</DD>
 </DL>
 
