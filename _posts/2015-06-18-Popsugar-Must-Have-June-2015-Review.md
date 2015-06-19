@@ -36,41 +36,116 @@ date: 2015-06-18 15:01:39 -08:00
 <p>They always include a fold out card that details all the items and prices.</p>
 <br>
 
-<H4>And here are the items!</H4>
-<center><img src='/images/PopsugarJune2015Items.jpg'></center>
+<DT>And here are the items!</DT>
+<p><center><img src='/images/PopsugarJune2015Items.jpg'></center></p>
 
-<a href="http://www.mykitsch.com/trid-true-y-shaped-necklace/">Kitsch Tri'd & True Y-Shaped Necklace</a>, $32
+<H4>Items in detail:</H4>
 
-<p>This was an item they revealed prior but it seemed so long ago that I forgot all about it. But sadly, my necklace arrived broken. It looks fine from the front, but behind the display where the necklace actually gathers, it broke hence unwearable. I reached out to their customer service (email is their only method) and we'll see what they have to say about it.</p>
+<p><center><img src='/images/BirchboxJune2015BItems2.jpg'></center></p>
 
-<p>It does make me believe that the necklace itself is such a delicate piece and I'm not sure about the quality if it can break so easily. It's also long, 36 inches long. Plus I'm more of a gold person so this necklace failed to impress me.</p>
-<br>
+<DL>
+<DT>Skyn Iceland - Hydro Cool Firming Eye Gels</DT>
+<DD>1 treatment, Value $3.75</DD>
+</DL>
 
-<center><img src='/images/PopsugarMay2015Box.jpg'></center>
-<a href="http://www.mkporcelain.com">Middle Kingdom</a> Mini Plum Vase in Coral Red, $20
-<p>Omg, this vase is so cute, I love it! It's a little bit smaller than my iPhone 6 Plus, which makes it perfect to display a single stem of flower. And the color is poppin red, which will brighten up any room.</p>
-<p><a href="http://www.mkporcelain.com">Middle Kingdom</a> is all about reviving Chinese porcelain traditions for a modern audience, and I can definitely see it being represented well in this vase. I looked at where I can buy some more (they don't sell it on their website) and there's a trend of it being sold in Art Museums, that's definitely a good sign.</p>
-<br>
+<p>Eye gels are a life saver for my tired eyes and I've tried this specific one before thanks to Birchbox and it was ultra refreshing, so I'm happy I got it again.</p>
 
-![Popsugar Box May 2015 SistersOfLosAngeles Towel](/images/PopsugarMay2015SistersOfLosAngelesTowel.jpg)
-![Popsugar Box May 2015 SistersOfLosAngeles Towel2](/images/PopsugarMay2015SistersOfLosAngelesTowel2.jpg)
-<a href="http://www.sistersoflosangeles.com">Sisters of Los Angeles</a> Beach Towel in Surf Sand Love design, $40
-<p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.</p>
+<DL>
+<DT>Marcelle - BB Cream Golden Glow</DT>
+<DD>Deluxe sample 0.24 oz/7 ml, $4.05</DD>
+</DL>
 
-<p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
-<br>
+<p>So I got this in my first Birchbox last week and based on pictures I saw on Instagram, it seems like a lot of subscribers got this specific item. I kind of wished I got something else since I already have this, but oh well, another one doesn't hurt.</p>
+<p>Here's what I said about this item in my review last week: I love BB creams because it cuts my makeup routine in half by being an all-in-one moisturizer and foundation. This cream promises to hydrate and calm skin, evens tone, control shine, lightly masks imperfections, and infuse skin with a radiance glow (thanks to tiny flecks of light-reflecting pigments). I also like that its paraben free and oil free which is 2 things I absolutely require for my skincare.</p>
 
-![Popsugar Box May 2015 Batiste SageRow](/images/PopsugarMay2015BatisteSage.jpg)
-<a href="http://www.batistehair.com/fragrance-cherry.aspx">Batiste Dry Shampoo in Cherry Fragrance</a> - 50ml (deluxe sample size, 1/4 of the full size), $4
-<p>I have tons of dry shampoo and I like to keep it that way due to my oily hair, so I'm happy to add another one to my stash. I've had <a href="http://www.batistehair.com/fragrance-original.aspx">Batiste Dry Shampoos</a> before and their great. I've never had the Cherry fragrance though and it truly does smell like bunches of cherries. At first I wasn't too sure about the smell, but it's starting to grow on me.</p>
+<DL>
+<DT>COOLA - Classic SPF 30 Cucumber Moisturizer for Face</DT>
+<DD>Deluxe sample 0.24 fl.oz./7 ml, $4.52</DD>
+</DL>
 
-<a href="http://www.sageandrow.com/products/bare-shave-cream">Sage & Row Bare Shave Cream</a> - FULL SIZE, $17
-<p>I don't really have a need for shaving creams since my asian heritage has blessed me with the lack of hair in certain areas. But I do see that they are made with natural and organic ingredients such as shea butter, aloe, lavender and some essential oils. And the tube itself looks quite classy so it'll be great to insert into a spa themed gift, which is exactly what I'll be doing.</p>
-<br>
+<p>Coola and Supergoop are my go-tos for sunscreen -their both oxybenzone free (which is a must for me). This sunblock is made with 70 percent certified organic ingredients and protects from both UVA and UVB rays. The scent smells like fresh cucumbers which is refreshing on a hot summer day, plus it goes on smooth and not thick, another reason why I love this sunscreen.</p>
 
-![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
-<a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
-<p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
-<br>
+<p><center><img src='/images/BirchboxJune2015BItems.jpg'></center></p>
 
-<p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. I'm excited for the June 2015 box though since they released a <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">spoiler item</a> just a few days ago and that item alone is worth more than the subscription! Hint, it's perfect for sunny summer days. Check out my <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">Popsugar Spoiler news</a> I posted to see what it is. Here's hoping to a better box in June!</p>
+<DL>
+<DT>Marcelle - Waterproof Eyeliner in <i>Electric Blue</i></DT>
+<DD>Deluxe Sample Size (2/3 of the full size pencil) 0.8g, $7.33</DD>
+</DL>
+
+<p>Wow, this color is definitely electric blue. Although I have blue eyeliners in my collection, it's not my favorite color to wear especially when its not dark, so I'm not sure I'll be using this anytime soon. I liked the color in my other box which was dark blue, but sadly this one was a miss for me.</p>
+
+<DL>
+<DT>Beauty Protector - Protect & Detangle</DT>
+<DD>Deluxe sample 1 oz., $2.75</DD>
+</DL>
+
+<p>I've had this in my Birchbox before and although the scent is not for me, it does its job in detangling, moisturizing and heat protection. It’s also sulfate and paraben free which makes it totally safe for color treated hair.</p>
+
+<H4><i class="icon-gift"></i> Bonus item:</H4>
+
+<DL>
+<DT>Emi Jay Solid Hair Tie in <i>Blue</i></DT>
+<DD>1 hair tie, $2</DD>
+</DL>
+
+<p>The hair tie I received last week in my other Birchbox was more of an elastic band, so I'm happy I got a different type! I'm beginning to sense that my items have a "blue" color theme to it since my eyeliner is blue, the coola is blue, and now this hair tie too.</p>
+<p>I love hair ties like this since it looks chic and doesn't snag or tangle my hair. I also love the fact that Emi-Jay donates 20% of all profit to charity, plus its made in LA, my hometown!</p>
+
+# Birchbox Plus Item
+
+<center><img src='/images/BirchboxJune2015BPlusItem.jpg'></center>
+<center><img src='/images/BirchboxJune2015BPlusItem2.jpg'></center>
+<DL>
+<DT>rumbaTIME Orchard Gloss in Rose Smoke</DT>
+<DD>$28 to add on ($45 value)</DD>
+</DL>
+
+<p>I added this on to my Birchbox because it was just too good (and pretty) to pass up and I'm so glad I did, I'm in love with this watch! The color is pastel light pink, and it looks gorgeous on my wrist, and at a value price too! I've been wearing it on ever since I opened the box today and can't seem to take it off, my wrist just doesn't want to part with it. #truestory</p>
+<p>I have really small wrists so at first I was concerned it would be too big for me, but it fits perfectly on the very last hole with some room for movement. Phew!</p>
+<p>I'm already planning on expanding my collection of rumbaTime watches. Next up, the <a href="https://www.birchbox.com/shop/rumbatime-orchard-gem" target="_blank">Orchard Gem in Black</a> (and maybe White too).
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box (not counting the Birchbox Plus item) came up to $24.40 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
+
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty.</p>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Skyn Iceland Eye Gels</TD>
+      <TD>$3.75</TD>
+   </TR>
+   <TR>
+      <TD>Marcelle BB Cream</TD>
+      <TD>$4.05</TD>
+   </TR>
+    <TR>
+      <TD>COOLA SPF 30 Moisturizer</TD>
+      <TD>$4.52</TD>
+   </TR>
+    <TR>
+      <TD>Marcelle Eyeliner</TD>
+      <TD>$7.33</TD>
+   </TR>
+    <TR>
+      <TD>Beauty Protector Protect & Detangle</TD>
+      <TD>$2.75</TD>
+   </TR>
+   <TR>
+      <TD>Emi Jay Solid Hair Tie</TD>
+      <TD>$2</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$24.40</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
+   </TR>
+</TABLE>
