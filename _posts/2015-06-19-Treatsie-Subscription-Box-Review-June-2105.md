@@ -26,12 +26,14 @@ date: 2015-06-19 15:32:39 -08:00
 <p>When you subscribe, you'll answer a few questions on your sweets preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
 
 <H4>Here are my treats:</H4>
+
 <p><center><img src='/images/TreatsieJune2015Items.jpg'></center></p>
 <br>
 
 <H4>Items in detail:</H4>
 
 <p><center><img src='/images/TreatsieJune2015Cookies.jpg'></center></p>
+<br>
 
 <DL>
 <DT><a href="http://www.salembaking.com/item/le988927/s-moravian-cookies-meyer-lemon/" target="_blank">Salem Baking - Meyer Lemon Moravian Cookies</a></DT>
@@ -42,6 +44,7 @@ date: 2015-06-19 15:32:39 -08:00
 <p>Its made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
 
 <p><center><img src='/images/TreatsieJune2015Nutwhats.jpg'></center></p>
+<br>
 
 <DL>
 <DT><a href="http://www.nutwhats.com" target="_blank">Nutwhats</a> in Peanut Butter Crunch and Almond</p>
@@ -51,6 +54,7 @@ date: 2015-06-19 15:32:39 -08:00
 <p>What a funny name! Since I'm not a big fan of peanut butter, I preferred the Almond flavor more. These are bite sized treats that are soft, buttery and very nutty.</p>
 
 <p><center><img src='/images/TreatsieJune2015Popcorn.jpg'></center></p>
+<br>
 
 <DL>
 <DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Banana Foster with Darm Rum and Almond</p>
