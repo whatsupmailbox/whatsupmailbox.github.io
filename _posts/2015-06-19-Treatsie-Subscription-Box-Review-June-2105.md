@@ -25,10 +25,14 @@ date: 2015-06-19 15:32:39 -08:00
 
 <p>When you subscribe, you'll answer a few questions on your sweets preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
 
-<H4>Here are my treats:</H4>
-
-<p><center><img src='/images/TreatsieJune2015Items.jpg'></center></p>
+<p><center><img src='/images/TreatsieJune2015OpenBox.jpg'></center></p>
+<figcaption>First look at unboxing</figcaption>
 <br>
+
+<center><img src='/images/TreatsieJune2015Info.jpg'></center>
+<p>The info card that lists the items plus value</p>
+
+<p>It seems the value listed on the card does not match the amount of items I received, so I'm guessing this info card was meant for the Standard Box.</p>
 
 <H4>Items in detail:</H4>
 
@@ -44,6 +48,7 @@ date: 2015-06-19 15:32:39 -08:00
 <p>Its made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
 
 <p><center><img src='/images/TreatsieJune2015Nutwhats.jpg'></center></p>
+<p><center><img src='/images/TreatsieJune2015Nutwhats2.jpg'></center></p>
 <br>
 
 <DL>
