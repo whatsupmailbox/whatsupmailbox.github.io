@@ -45,7 +45,7 @@ date: 2015-06-19 15:32:39 -08:00
 </DL>
 
 <p>I love thin cookies and the packaging is cute and travel friendly. My cookies won't get squished in my bag.</p>
-<p>Its made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
+<p>It's made from grated Meyer lemon zest and cold pressed lemon oil for maximum flavor. Pure cane sugar, finely milled wheat flour and whole eggs complete this treasured recipe.</p>
 <br>
 
 <p><center><img src='/images/TreatsieJune2015Nutwhats.jpg'></center></p>
