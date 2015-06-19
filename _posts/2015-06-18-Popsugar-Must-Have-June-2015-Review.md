@@ -90,7 +90,7 @@ date: 2015-06-18 15:01:39 -08:00
 
 <p>These eye shadows are infused with coconut water which gives it a velvety, cream-like finish. The coconut water acts as a skin balancer while soothing and softening. Plus it creates a creamy, crease-free application that's also long wear.</p>
 
-<p>And most importantly, Pacifica is a 100% vegan and cruelty free company. <i class="icon-thumbs-up"></i>
+<p>And most importantly, Pacifica is a 100% vegan and cruelty free company. <i class="icon-thumbs-up"></i></p>
 <br>
 
 <p><center><img src='/images/PopsugarJune2015Book.jpg'></center></p>
