@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pink Fraise June 2015 Review"
+title: "Pink Fraise Subscription Box Review - June 2015"
 description: ""
-headline: "Pink Fraise June 2015 Review"
+headline: "Pink Fraise Subscription Box Review - June 2015"
 tags: [Pink Fraise, Subscriptions, Reviews]
 comments: true
 published: false
@@ -15,7 +15,7 @@ imagefeature: "PinkFraiseJune2015Box.jpg"
 date: 2015-06-20 09:01:39 -08:00
 ---
 
-<center><img src='/images/PopsugarJune2015Box.jpg'></center>
+<center><img src='/images/PinkFraiseJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="https://pinkfraise.cratejoy.com" target="_blank">Pink Fraise</a></p>
 <p><b>Cost:</b> $21.99 monthly + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive handmade lifestyle items that can range from housewares to bath & body to jewelry.</p>
