@@ -136,7 +136,7 @@ date: 2015-06-18 15:01:39 -08:00
 
 <p>Before the items go on sale on their website, they carefully clean each piece by hand or by ultra sonic cleaner, then finish it by triple plating them so it doesn't tarnish easily. It'll be all pretty and new again.</p>
 
-<p>I find this company quite interesting and am happy to support any independent businesses.</p> 
+<p>I find this company quite interesting and am happy to support any independent businesses. And FYI, the gift cards have unique codes for each subscriber.</p> 
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> When I looked at the spoilers last month, I was really excited about the sunglasses and now that I have it on hand, it'll be my go-to for sunglasses this summer. The only item I disliked was the book, and maybe I'm not alone here, but I'm not sure how a book inclusion fits with the Popsugar Must Have theme this month. The total value came up to $129.77 (that's with the gift card and using Amazon's price for the book) and that's not a bad value for a $39.95 subscription. Even without the book I would have felt like I got double my money's worth so I'm content. Next month's theme is "Beach Days, Fourth of July, Easy Travel, and Summer Heat", <a href="http://whatsupmailbox.com/subscriptions/Popsugar-Must-Have-July-2015-Spoiler-Theme/" targe="_blank"> see my post about it here </a>, and I can't wait to see some spoilers!</p>
 
