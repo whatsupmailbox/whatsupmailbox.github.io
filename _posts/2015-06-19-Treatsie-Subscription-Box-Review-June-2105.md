@@ -21,7 +21,7 @@ date: 2015-06-19 15:32:39 -08:00
 <p><b>Coupon:</b> <a href="http://www.shareasale.com/r.cfm?b=728073&u=1115177&m=51428&urllink=&afftrack=">Click here for a Buy One, Get one FREE deal!</a> That's 2 boxes for the price of one!</p>
 <br>
 
-<p>This review is for the Double Sweets Box.</p>
+<p><i class="icon-arrow-right"></i>This review is for the Double Sweets Box.</p>
 
 <p>When you subscribe, you'll answer a few questions on your sweets preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
 
