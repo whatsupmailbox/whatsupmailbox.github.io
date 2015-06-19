@@ -41,7 +41,7 @@ date: 2015-06-19 15:32:39 -08:00
 
 <DL>
 <DT><a href="http://www.salembaking.com/item/le988927/s-moravian-cookies-meyer-lemon/" target="_blank">Salem Baking - Meyer Lemon Moravian Cookies</a></DT>
-<DD>2 Small Tubes 2.75 oz. each, Value $10</DD>
+<DD>2 x 2.75 oz. Small Tubes, Value $4.99 each</DD>
 </DL>
 
 <p>I love thin cookies and the packaging is cute and travel friendly. My cookies won't get squished in my bag.</p>
@@ -53,7 +53,7 @@ date: 2015-06-19 15:32:39 -08:00
 
 <DL>
 <DT><a href="http://www.nutwhats.com" target="_blank">Nutwhats</a> in Peanut Butter Crunch and Almond</p>
-<DD>2 packs of each, Value $16</DD>
+<DD>4 small packs, Value $4 each</DD>
 </DL>
 
 <p>What a funny name! Since I'm not a big fan of peanut butter, I preferred the Almond flavor more. These are bite sized treats that are soft, buttery and very nutty.</p>
@@ -63,7 +63,7 @@ date: 2015-06-19 15:32:39 -08:00
 
 <DL>
 <DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Banana Foster with Darm Rum and Almond</p>
-<DD>2 packs of each, Value $16</DD>
+<DD>4 small packs, Value $4 each</DD>
 </DL>
 
 <p>I love popcorn, its my all time favorite snack and I can eat them anywhere, not just theaters. I even love the popcorn flavored Jelly Beans, that's how much I love em!</p>
