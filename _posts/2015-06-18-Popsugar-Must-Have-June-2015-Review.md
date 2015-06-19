@@ -11,7 +11,7 @@ categories:
   - Subscriptions
   - Reviews
 type: photo
-imagefeature: "PopsugarJune2015Box.jpg"
+imagefeature: "PopsugarJune2015OpenBox.jpg"
 date: 2015-06-18 15:01:39 -08:00
 ---
 
@@ -22,18 +22,23 @@ date: 2015-06-18 15:01:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
-<p>This month their theme is "Sun-Kissed, Soft Skin, Papaya, Outdoor Fun, Coconut, and Yoga Warrior".</p>
+<p>This month's theme is "Sun-Kissed, Soft Skin, Papaya, Outdoor Fun, Coconut, and Yoga Warrior".</p>
 <br>
 
 <center><img src='/images/PopsugarJune2015OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
+<p>When I first opened the box, I could smell something wonderful and sweet coming from inside -yep, that's a good sign, I'm already happy.</p>
+
 <center><img src='/images/PopsugarJune2015Info.jpg'></center>
+<center><img src='/images/PopsugarJune2015Info2.jpg'></center>
 <p>They always include a fold out card that details all the items and prices.</p>
 <br>
 
-<center><img src='/images/PopsugarJune2015.jpg'></center>
+<H4>And here are the items!</H4>
+<center><img src='/images/PopsugarJune2015Items.jpg'></center>
+
 <a href="http://www.mykitsch.com/trid-true-y-shaped-necklace/">Kitsch Tri'd & True Y-Shaped Necklace</a>, $32
 
 <p>This was an item they revealed prior but it seemed so long ago that I forgot all about it. But sadly, my necklace arrived broken. It looks fine from the front, but behind the display where the necklace actually gathers, it broke hence unwearable. I reached out to their customer service (email is their only method) and we'll see what they have to say about it.</p>
