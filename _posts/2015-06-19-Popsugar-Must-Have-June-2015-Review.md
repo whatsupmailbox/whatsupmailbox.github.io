@@ -30,6 +30,7 @@ date: 2015-06-19 09:01:39 -08:00
 <br>
 
 <p>When I first opened the box, I could smell something wonderful and sweet coming from inside -yep, that's a good sign, I'm already happy.</p>
+<br>
 
 <center><img src='/images/PopsugarJune2015Info.jpg'></center>
 <center><img src='/images/PopsugarJune2015Info2.jpg'></center>
