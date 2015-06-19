@@ -56,17 +56,19 @@ date: 2015-06-18 15:01:39 -08:00
 <p>You see how simple the design is, no overly bling or big "in-your-face" logo, just two silver dots. Nice.</p>
 
 <p>I'm more than happy that Popsugar decided to include sunglasses this month, just in time for the sunny summer days. I know that probably not everyone is happy getting this since sunglasses require specific preference and depends on shape of face, but they did pick a style that's more universal when compared to Q/A's other styles, which I love by the way and am already eyeing a few that needs to be in my posession asap!</p>
+<br>
 
 <p><center><img src='/images/PopsugarJune2015Spongelle.jpg'></center></p>
 
 <DL>
-<DT><a href="http://spongelle.com/collections/spongelle/products/fleur-en-boite-boxed-flowers" target="_blank">Spongelle - Boxed Flowers-Fleur En Boîte</DT>
+<DT><a href="http://spongelle.com/collections/spongelle/products/fleur-en-boite-boxed-flowers" target="_blank">Spongelle - Boxed Flowers-Fleur En Boîte</a></DT>
 <DD>Retail Value $16</DD>
 </DL>
 
 <p>This is what was giving that amazing scent when I opened the box, smells so heavenly. They have the exact scent in a lotion too, I just might have to get that.</p>
 
 <p>This sponge is a body wash and buffer that promises to cleanse, exfoliate, hydrate and massage as you use it. You use it exactly like a body sponge, but with the added bonus that it already has a cleanser and lotion infused into it.</p>
+<br>
 
 <p><center><img src='/images/PopsugarJune2015Eyeshadow.jpg'></center></p>
 
@@ -89,6 +91,7 @@ date: 2015-06-18 15:01:39 -08:00
 <p>These eye shadows are infused with coconut water which gives it a velvety, cream-like finish. The coconut water acts as a skin balancer while soothing and softening. Plus it creates a creamy, crease-free application that's also long wear.</p>
 
 <p>And most importantly, Pacifica is a 100% vegan and cruelty free company. <i class="icon-thumbs-up"></i>
+<br>
 
 <p><center><img src='/images/PopsugarJune2015Book.jpg'></center></p>
 <DL>
@@ -99,6 +102,7 @@ date: 2015-06-18 15:01:39 -08:00
 <p>I found this book cheaper at Amazon so I'm using their prices for value.</p>
 
 <p>This is my least favorite item in the box since I have a Kindle and my preference in books are more in the science fiction and non-fiction genre. I'll probably end up gifting this to someone.</p>
+<br>
 
 <p><center><img src='/images/PopsugarJune2015HairbandCandy.jpg'></center></p>
 
