@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have June 2015 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
