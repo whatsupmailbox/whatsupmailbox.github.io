@@ -12,7 +12,7 @@ categories:
   - Reviews
 type: photo
 imagefeature: "PopsugarJune2015OpenBox.jpg"
-date: 2015-06-18 15:01:39 -08:00
+date: 2015-06-19 09:01:39 -08:00
 ---
 
 <center><img src='/images/PopsugarJune2015Box.jpg'></center>
