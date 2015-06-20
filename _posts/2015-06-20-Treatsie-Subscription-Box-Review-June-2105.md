@@ -33,6 +33,7 @@ date: 2015-06-20 09:40:39 -08:00
 
 <center><img src='/images/TreatsieJune2015Info.jpg'></center>
 <figcaption>The info card that lists the items plus value</figcaption>
+<br>
 
 <p>It seems the value listed on the card doesn't match the amount of items I received, so I'm guessing this info card was meant for the Standard Box.</p>
 
