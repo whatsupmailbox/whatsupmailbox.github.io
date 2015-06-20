@@ -35,6 +35,10 @@ date: 2015-06-19 15:32:39 -08:00
 
 <p>It seems the value listed on the card doesn't match the amount of items I received, so I'm guessing this info card was meant for the Standard Box.</p>
 
+<H4>And here are my treats:</H4>
+
+<p><center><img src='/images/TreatsieJune2015Items.jpg'></center></p>
+
 <H4>Items in detail:</H4>
 
 <p><center><img src='/images/TreatsieJune2015Cookies.jpg'></center></p>
