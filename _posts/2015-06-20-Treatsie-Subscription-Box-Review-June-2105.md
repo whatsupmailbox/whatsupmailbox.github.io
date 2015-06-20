@@ -26,13 +26,18 @@ date: 2015-06-20 09:40:39 -08:00
 <p>When you subscribe, you'll answer a few questions on your treats preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
 <br>
 
-<center><img src='/images/TreatsieJune2015OpenBox.jpg'></center>
-<figcaption>First look at unboxing</figcaption>
+<figure>
+        <img src='/images/TreatsieJune2015OpenBox.jpg'>
+        <figcaption>First look at unboxing</figcaption>
+</figure>
 
 <br>
 
-<center><img src='/images/TreatsieJune2015Info.jpg'></center>
-<figcaption>The info card that lists the items plus value</figcaption>
+<figure>
+        <img src='/images/TreatsieJune2015Info.jpg'>
+        <figcaption>The info card that lists the items plus value</figcaption>
+</figure>
+
 <br>
 
 <p>It seems the value listed on the card doesn't match the amount of items I received, so I'm guessing this info card was meant for the Standard Box.</p>
