@@ -24,6 +24,7 @@ date: 2015-06-20 09:40:39 -08:00
 <p><i class="icon-arrow-right"></i>This review is for the Double Sweets Box.</p>
 
 <p>When you subscribe, you'll answer a few questions on your treats preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
+<br>
 
 <p><center><img src='/images/TreatsieJune2015OpenBox.jpg'></center></p>
 <figcaption>First look at unboxing</figcaption>
