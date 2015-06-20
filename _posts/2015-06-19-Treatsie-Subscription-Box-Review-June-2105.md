@@ -39,6 +39,8 @@ date: 2015-06-19 15:32:39 -08:00
 
 <p><center><img src='/images/TreatsieJune2015Items.jpg'></center></p>
 
+<p>Note that because this is the Double Sweets Box, I actually have 2 of each item shown. You'll see them in the details below.</p>
+
 <H4>Items in detail:</H4>
 
 <p><center><img src='/images/TreatsieJune2015Cookies.jpg'></center></p>
