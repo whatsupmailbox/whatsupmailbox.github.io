@@ -59,7 +59,7 @@ date: 2015-06-20 09:40:39 -08:00
 <center><img src='/images/TreatsieJune2015Nutwhats2.jpg'></center>
 
 <DL>
-<DT><a href="http://www.nutwhats.com" target="_blank">Nutwhats</a> in Peanut Butter Crunch and Almond</p>
+<DT><a href="http://www.nutwhats.com" target="_blank">Nutwhats</a> in Peanut Butter Crunch and Almond</DT>
 <DD>4 small packs, Value $4 each</DD>
 </DL>
 
