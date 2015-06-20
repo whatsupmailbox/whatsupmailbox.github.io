@@ -26,7 +26,7 @@ date: 2015-06-20 09:40:39 -08:00
 <p>When you subscribe, you'll answer a few questions on your treats preference. Such as milk chocolate versus dark chocolate, or if you like coffee or not, and they use this to determine what products to send.</p>
 <br>
 
-<p><center><img src='/images/TreatsieJune2015OpenBox.jpg'></center></p>
+<center><img src='/images/TreatsieJune2015OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 
 <br>
@@ -44,7 +44,7 @@ date: 2015-06-20 09:40:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<p><center><img src='/images/TreatsieJune2015Cookies.jpg'></center></p>
+<center><img src='/images/TreatsieJune2015Cookies.jpg'></center>
 
 <DL>
 <DT><a href="http://www.salembaking.com/item/le988927/s-moravian-cookies-meyer-lemon/" target="_blank">Salem Baking - Meyer Lemon Moravian Cookies</a></DT>
@@ -56,7 +56,7 @@ date: 2015-06-20 09:40:39 -08:00
 <br>
 
 <p><center><img src='/images/TreatsieJune2015Nutwhats.jpg'></center></p>
-<p><center><img src='/images/TreatsieJune2015Nutwhats2.jpg'></center></p>
+<center><img src='/images/TreatsieJune2015Nutwhats2.jpg'></center>
 
 <DL>
 <DT><a href="http://www.nutwhats.com" target="_blank">Nutwhats</a> in Peanut Butter Crunch and Almond</p>
@@ -66,7 +66,7 @@ date: 2015-06-20 09:40:39 -08:00
 <p>What a funny name! Since I'm not a big fan of peanut butter, I preferred the Almond flavor more. These are bite sized treats that are soft, buttery and very nutty.</p>
 <br>
 
-<p><center><img src='/images/TreatsieJune2015Popcorn.jpg'></center></p>
+<center><img src='/images/TreatsieJune2015Popcorn.jpg'></center>
 
 <DL>
 <DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Bananas Foster with Dark Rum and Vanilla Bean Cocoa Nib</p>
