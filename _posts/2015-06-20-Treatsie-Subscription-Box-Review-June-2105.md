@@ -75,7 +75,7 @@ date: 2015-06-20 09:40:39 -08:00
 <center><img src='/images/TreatsieJune2015Popcorn.jpg'></center>
 
 <DL>
-<DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Bananas Foster with Dark Rum and Vanilla Bean Cocoa Nib</p>
+<DT><a href="http://www.theartofcaramel.com" target="_blank">The Art of Caramel</a> in Bananas Foster with Dark Rum and Vanilla Bean Cocoa Nib</DT>
 <DD>4 small packs, Value $4 each</DD>
 </DL>
 
