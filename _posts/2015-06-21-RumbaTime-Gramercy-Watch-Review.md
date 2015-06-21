@@ -17,6 +17,7 @@ date: 2015-06-21 09:32:39 -08:00
 <center><img src='/images/RumbatimeGramercy.jpeg'></center>
 <p><b>Product:</b> <a href="http://rumbatime.com/collections/gramercy/products/gramercy-sand" target="_blank">rumbaTime Gramercy Watch in <i>Sand</i></a></p>
 <p><b>Price:</b> $70 + Free US Shipping</p>
+<p><b>Where?</b>: <a href="http://rumbatime.com" target="_blank">www.rumbatime.com</a>
 <br>
 
 <p>So I got my first rumbaTime watch by adding it on to my Birchbox for this month and I was instantly in love. <a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-June-2015-Second-Box-Review/" target="_blank">(Read my review of that watch here)</a>. And I knew I had to add more to my collection, especially when I went to their website and saw so many gorgeous styles.</p>
