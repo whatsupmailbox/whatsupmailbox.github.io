@@ -14,7 +14,7 @@ tags: [rumbaTime, Products, Reviews]
 date: 2015-06-21 09:32:39 -08:00
 ---
 
-<center><img src='/images/RumbatimeGramercy.jpg'></center>
+<center><img src='/images/RumbatimeGramercy.jpeg'></center>
 <p><b>Product:</b> <a href="http://rumbatime.com/collections/gramercy/products/gramercy-sand" target="_blank">rumbaTime Gramercy Watch in <i>Sand</i></a></p>
 <p><b>Price:</b> $70 + Free US Shipping</p>
 <br>
@@ -26,10 +26,10 @@ date: 2015-06-21 09:32:39 -08:00
 <p>I wasn't quite sure how the watch can stay put without sliding off since I really couldn't tell how you adjust and lock this watch from their details or pictures, but now that I have it on hand, it's actually easy and quite genius. All you have to do is put it on your wrist, pull the braided band to your comfort and voila, it stays put and doesn't budge. To take it off, you just pull the braided band and it comes off. So easy!</p>
 
 <H4>Here's a picture of the toggle up close:</H4>
-<center><img src='/images/RumbatimeGramercy2.jpg'></center>
+<center><img src='/images/RumbatimeGramercy2.jpeg'></center>
 
 <p>Another cool thing about this watch is the inconspicuous small knob to adjust the time. It's located above the watch and is somewhat hidden by braided band. See picture below.</p>
 
-<center><img src='/images/RumbatimeGramercy3.jpg'></center>
+<center><img src='/images/RumbatimeGramercy3.jpeg'></center>
 
-<p> <b>My Thoughts:</b> So there you have it, a beautiful watch by rumbaTime -simple, cool yet uber chic.</p>
+<p><i class="icon-exclamation-sign"></i><b>My Thoughts:</b> This watch is not only beautiful in design, it's also convenient and quick to put on. I love the simple face watch, the inconspicuous adjustment knob, and the toggle that magically makes the band stay put. The $70 price is also super reasonable for such quality and design, and I'd gladly pay more. I'm more than happy to have added this watch to my collection. So there you have it, a beautiful watch by rumbaTime -simple, cool yet uber chic.</p>
