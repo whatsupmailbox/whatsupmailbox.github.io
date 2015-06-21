@@ -28,10 +28,15 @@ date: 2015-06-21 09:32:39 -08:00
 
 <H4>Here's a picture of the toggle up close:</H4>
 <center><img src='/images/RumbatimeGramercy2.jpeg'></center>
+<br>
 
 <p>Another cool thing about this watch is the inconspicuous small knob to adjust the time. It's located above the watch (right above 12 o'clock) and is somewhat hidden by braided band. See picture below.</p>
 
-<center><img src='/images/RumbatimeGramercy3.jpeg'></center>
+<figure>
+        <img src='/images/RumbatimeGramercy3.jpeg'>
+        <figcaption>the knob is right above 12 o'clock</figcaption>
+</figure>
+<br>
 
 <p>When I first unboxed the watch and tried to adjust the time, I was somewhat perplexed, but I found it shortly after so all was well. I think that's the perfect place to put the knob in, especially since there's just enough room for it and it makes the face watch even more simple and sleek.</p>
 
