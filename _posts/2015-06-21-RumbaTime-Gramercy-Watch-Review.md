@@ -8,13 +8,13 @@ title: rumbaTime Gramercy Watch Review
 featured: false
 comments: true
 type: photo
-imagefeature: RumbaTimeGramercy.jpg
+imagefeature: RumbaTimeGramercya.jpg
 headline: rumbaTime Gramercy Watch Review
 tags: [rumbaTime, Products, Reviews]
 date: 2015-06-21 09:32:39 -08:00
 ---
 
-<center><img src='/images/RumbatimeGramercy.jpg'></center>
+<center><img src='/images/RumbatimeGramercya.jpg'></center>
 <p><b>Product:</b> <a href="http://rumbatime.com/collections/gramercy/products/gramercy-sand" target="_blank">rumbaTime Gramercy Watch in <i>Sand</i></a></p>
 <p><b>Price:</b> $70 + Free US Shipping</p>
 <p><b>Where</b>: <a href="http://rumbatime.com" target="_blank">www.rumbatime.com</a>
@@ -27,13 +27,13 @@ date: 2015-06-21 09:32:39 -08:00
 <p>I wasn't quite sure how the watch would stay put without it sliding off since I really couldn't tell how you adjust and lock this watch from their website, but now that I have it on hand, it's actually easy and quite genius. All you have to do is put it on your wrist, pull the braided band to your comfort and voila, it stays put and doesn't budge. To take it off, you just pull the braided band and it comes off. So easy!</p>
 
 <H4>Here's a picture of the toggle up close:</H4>
-<center><img src='/images/RumbatimeGramercy2.jpg'></center>
+<center><img src='/images/RumbatimeGramercy2a.jpg'></center>
 <br>
 
 <p>Another cool thing about this watch is the inconspicuous small knob to adjust the time. It's located above the watch (right above 12 o'clock) and is somewhat hidden by braided band. See picture below.</p>
 
 <figure>
-        <img src='/images/RumbatimeGramercy3.jpg'>
+        <img src='/images/RumbatimeGramercy3a.jpg'>
         <figcaption>the knob is right above 12 o'clock</figcaption>
 </figure>
 <br>
