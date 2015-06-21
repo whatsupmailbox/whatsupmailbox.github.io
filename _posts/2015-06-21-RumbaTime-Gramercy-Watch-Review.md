@@ -8,7 +8,7 @@ title: rumbaTime Gramercy Watch Review
 featured: false
 comments: true
 type: photo
-imagefeature: RumbaTimeGramercy.jpg
+imagefeature: RumbatimeGramercy.jpg
 headline: rumbaTime Gramercy Watch Review
 tags: [rumbaTime, Products, Reviews]
 date: 2015-06-21 09:32:39 -08:00
