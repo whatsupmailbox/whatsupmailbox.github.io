@@ -24,7 +24,7 @@ date: 2015-06-21 09:32:39 -08:00
 
 <p>Since I have (and wear) a lot of sliding knot type of bracelets, I knew I had to have the Gramercy watch the moment I laid eyes on her. This would perfect to layer with my bracelets! And in Gold too, yes please!</p>
 
-<p>I wasn't quite sure how the watch can stay put without sliding off since I really couldn't tell how you adjust and lock this watch from their details or pictures, but now that I have it on hand, it's actually easy and quite genius. All you have to do is put it on your wrist, pull the braided band to your comfort and voila, it stays put and doesn't budge. To take it off, you just pull the braided band and it comes off. So easy!</p>
+<p>I wasn't quite sure how the watch can stay put without it sliding off since I really couldn't tell how you adjust and lock this watch from their details or pictures, but now that I have it on hand, it's actually easy and quite genius. All you have to do is put it on your wrist, pull the braided band to your comfort and voila, it stays put and doesn't budge. To take it off, you just pull the braided band and it comes off. So easy!</p>
 
 <H4>Here's a picture of the toggle up close:</H4>
 <center><img src='/images/RumbatimeGramercy2.jpeg'></center>
