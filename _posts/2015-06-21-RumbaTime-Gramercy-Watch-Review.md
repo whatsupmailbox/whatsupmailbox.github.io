@@ -8,7 +8,7 @@ title: rumbaTime Gramercy Watch Review
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourClubJune2015Items.jpg
+imagefeature: RumbaTimeGramercy.jpeg
 headline: rumbaTime Gramercy Watch Review
 tags: [rumbaTime, Products, Reviews]
 date: 2015-06-21 09:32:39 -08:00
@@ -28,8 +28,10 @@ date: 2015-06-21 09:32:39 -08:00
 <H4>Here's a picture of the toggle up close:</H4>
 <center><img src='/images/RumbatimeGramercy2.jpeg'></center>
 
-<p>Another cool thing about this watch is the inconspicuous small knob to adjust the time. It's located above the watch and is somewhat hidden by braided band. See picture below.</p>
+<p>Another cool thing about this watch is the inconspicuous small knob to adjust the time. It's located above the watch (right above 12 o'clock) and is somewhat hidden by braided band. See picture below.</p>
 
 <center><img src='/images/RumbatimeGramercy3.jpeg'></center>
+
+<p>When I first unboxed the watch and tried to adjust the time, I was somewhat perplexed, but I found it shortly after so all was well. I think that's the perfect place to put the knob in, especially since there's just enough room for it and it makes the face watch even more simple and sleek.</p>
 
 <p><i class="icon-exclamation-sign"></i><b>My Thoughts:</b> This watch is not only beautiful in design, it's also convenient and quick to put on. I love the simple face watch, the inconspicuous adjustment knob, and the toggle that magically makes the band stay put. The $70 price is also super reasonable for such quality and design, and I'd gladly pay more. I'm more than happy to have added this watch to my collection. So there you have it, a beautiful watch by rumbaTime -simple, cool yet uber chic.</p>
