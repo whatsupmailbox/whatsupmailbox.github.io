@@ -100,7 +100,7 @@ date: 2015-06-22 15:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This was a great box! My husband needs coffee -everyday, every morning- and not just once, but multiple times throughout the day. So convenience is important but taste as well. This whole set is perfect for that and the items are great in both quality and design. The total value of this box came up to $66.95 which is a great deal for the $45 price I paid as a subsriber. I love Bespoke Post because it exposes us to great brands and tools that we might not have known otherwise and at a discounted price too! That's a win for me.</p>
 
-<p>Not a subscriber yet? You can <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and start choosing one of their cool and awesome themed boxes! Don't forget to use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">ALONE</a> to get 25% off your first box!</p>
+<p>Not a subscriber or want to get a one-time box? You can <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><big>subscribe or buy here</big></a> and start choosing one of their cool and awesome themed boxes! Don't forget to use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">ALONE</a> to get 25% off your first box!</p>
 
 <br>
 
