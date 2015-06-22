@@ -24,7 +24,6 @@ date: 2015-06-22 09:01:39 -08:00
 <p>Pink Fraise is a new subscription box that just launched last month, and this June box is their first shipment.</p>
 
 <p>I subscribed because its a lifestyle subscription and those are my favorite type! I was so excited to receive this box finally.</p>
-<br>
 
 <p>They ship their boxes through FedEx Ground and it took 4 days for it to arrive on my doorsteps in California.</p>
 <br>
