@@ -30,10 +30,13 @@ date: 2015-06-22 15:01:39 -08:00
       <figcaption>First look at unboxing</figcaption>
 </figure>
 
+<br>
+
 <figure>
       <img src='/images/BespokePostJune2015OpenBox2.jpg'>
       <figcaption>Second look at unboxing</figcaption>
 </figure>
+
 <br>
 
 <p>The items inside were packaged very well, everything came in perfect condition. They were wrapped in bubble wrap, put inside another box or tighter wrap to ensure minimal movement, and finished with a black tissue paper.</p>
