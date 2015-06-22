@@ -21,7 +21,7 @@ date: 2015-06-22 09:01:39 -08:00
 <p><b>What's in the box:</b> You'll receive handmade lifestyle items that can range from housewares, bath & body and jewelry.</p>
 <br>
 
-<p>Pink Fraise is a new subscription box that just launched last month, and the June box is their first shipment.</p>
+<p>Pink Fraise is a new subscription box that just launched last month, and this June box is their first shipment.</p>
 
 <p>I subscribed because its a lifestyle subscription and those are my favorite type! I was so excited to receive this box finally.</p>
 <br>
