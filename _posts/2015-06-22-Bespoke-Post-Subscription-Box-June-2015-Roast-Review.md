@@ -90,7 +90,7 @@ date: 2015-06-22 15:01:39 -08:00
 <center><img src='/images/BespokePostJune2015Coffee.jpg'></center>
 
 <DL>
-<DT><a href="https://squareup.com/market/dapper-and-wise-roasters" target="_blank">Dapper & Wise Roasters Coffee Bean in Brazil - Fazenda Silvestre</a></DT>
+<DT><a href="https://squareup.com/market/dapper-and-wise-roasters" target="_blank">Dapper & Wise Roasters Coffee Bean in "Brazil - Fazenda Silvestre"</a></DT>
 <DD>12 oz., Value $14</DD>
 </DL>
 
