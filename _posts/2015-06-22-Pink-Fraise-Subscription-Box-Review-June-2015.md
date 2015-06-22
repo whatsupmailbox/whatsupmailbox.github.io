@@ -28,10 +28,11 @@ date: 2015-06-22 08:01:39 -08:00
 <p>They ship their boxes through FedEx Ground and it took 4 days for it to arrive on my doorsteps in California.</p>
 <br>
 
-<figure>
+<p><figure>
     <img src='/images/PinkFraiseJune2015OpenBox.jpg'>
     <figcaption>First look at unboxing</figcaption>
 </figure>
+</p>
 
 <br>
 
@@ -40,6 +41,7 @@ date: 2015-06-22 08:01:39 -08:00
       <img src='/images/PinkFraiseJune2015Info2.jpg'>
       <figcaption>They've included an info card detailing the items inside.</figcaption>
 </figure>
+
 <br>
 
 <DT>And here are the items!</DT>
