@@ -70,7 +70,7 @@ date: 2015-06-22 15:01:39 -08:00
 
 <DL>
 <DT><a href="http://www.waterbobble.com/silver-stainless-steel-coffee-press#.VYh03GC210s" target="_blank">Bobble - Presse Stainless Steel Coffee Press in Silver</a></DT>
-<DD>Retail Value $29.95</DD>
+<DD>Value $29.95</DD>
 </DL>
 
 <p>What a cool looking coffee press! It'll brew your coffee and you can take it on the go as well, how awesome is that.</p>
