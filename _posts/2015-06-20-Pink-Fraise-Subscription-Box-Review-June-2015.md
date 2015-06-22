@@ -127,7 +127,7 @@ date: 2015-06-22 09:01:39 -08:00
    </TR>
     <TR>
       <TD>Smart Soap in Summer Soap</TD>
-      <TD>$16.77</TD>
+      <TD>$4</TD>
    </TR>
     <TR>
       <TD>Pink Fraise Earrings</TD>
