@@ -42,9 +42,9 @@ date: 2015-06-22 08:01:39 -08:00
 <DT>And here are the items!</DT>
 <p><center><img src='/images/PinkFraiseJune2015Items.jpg'></center></p>
 
-<H4>Items in detail:</H4>
+<p><H4>Items in detail:</H4></p>
 
-<p><center><img src='/images/PinkFraiseJune2015Candle.jpg'></center></p>
+<center><img src='/images/PinkFraiseJune2015Candle.jpg'></center>
 
 <DL>
 <DT><a href="http://www.gypsywitchmagick.com" target="_blank">Gypsy Witch Magick - Soy Candle in Honolua Bay</a></DT>
@@ -56,7 +56,7 @@ date: 2015-06-22 08:01:39 -08:00
 
 <p><center><img src='/images/PinkFraiseJune2015Magnet.jpg'></center></p>
 <p><center><img src='/images/PinkFraiseJune2015Magnet2.jpg'></center></p>
-<p><center><img src='/images/PinkFraiseJune2015Magnet3.jpg'></center></p>
+<center><img src='/images/PinkFraiseJune2015Magnet3.jpg'></center>
 
 <DL>
 <DT><a href="https://www.etsy.com/listing/218450048/cute-orange-bottlecap-magnet-with-retro?ref=shop_home_active_4&ga_search_query=hula" target="_blank">Little Miss Made It - Cute Orange Bottlecap Magnet with Retro Hawaiian Girl Design</a></DT>
@@ -68,7 +68,7 @@ date: 2015-06-22 08:01:39 -08:00
 <p>Little Miss Made It sells items through Etsy and everything is handmade with a focus on quirky, vintage, kitsch and kawaii items. There's a ton of other designs for the magnets in the shop and it could make as cute little gifts.</p>
 <br>
 
-<p><center><img src='/images/PinkFraiseJune2015Lotion.jpg'></center></p>
+<center><img src='/images/PinkFraiseJune2015Lotion.jpg'></center>
 
 <DL>
 <DT><a href="https://www.etsy.com/shop/coragene" target="_blank">Cora's Creations - Golden Sun Juice SPF 30</a></DT>
@@ -80,7 +80,7 @@ date: 2015-06-22 08:01:39 -08:00
 <p>It's so hard to read anything below the name of the product on the label. I had to maximize my eyesight ability to read the ingredients and so far I could only read olive oil, coconut oil, and shea butter. I would say the scent is heavily shea butter and when I applied it on my skin, it seemed quite oily at first and did not absorb quickly, but once it did, it gave my skin a nice glow.</p>
 <br>
 
-<p><center><img src='/images/PinkFraiseJune2015Soap.jpg'></center></p>
+<center><img src='/images/PinkFraiseJune2015Soap.jpg'></center>
 
 <DL>
 <DT><a href="https://www.etsy.com/listing/230948443/summer-soap-handcrafted-cold-process?ref=shop_home_active_6" target="_blank">Smart Soap - Summer Soap</a></DT>
@@ -92,7 +92,7 @@ date: 2015-06-22 08:01:39 -08:00
 <p>I totally need this since for some reason mosquitoes love me, plus it'll be great for those summer camping trips. I'm ready for you mosquitoes!</p>
 <br>
 
-<p><center><img src='/images/PinkFraiseJune2015Earrings.jpg'></center></p>
+<center><img src='/images/PinkFraiseJune2015Earrings.jpg'></center>
 
 <DL>
 <DT>Pearl Earrings by Pink Fraise</DT>
