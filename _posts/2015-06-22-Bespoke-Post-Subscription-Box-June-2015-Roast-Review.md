@@ -92,7 +92,7 @@ date: 2015-06-22 13:01:39 -08:00
 <p>Dapper & Wise is based in Portland, Oregon and they have a tasting room as well as a cafe for you to experience their coffee in person.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband needs coffee -everyday, every morning- and not just once, but multiple times during the day. So convenience is important but taste as well. This whole set is perfect for that and the items are great in quality and design. The total value of this box came up to $73.95 which is a great deal for the $45 price I paid as a subsriber. I love Bespoke Post because it exposes us to great brands and tools that we might not have known otherwise and at a discounted price too! That's a win for me.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This was a great box! My husband needs coffee -everyday, every morning- and not just once, but multiple times during the day. So convenience is important but taste as well. This whole set is perfect for that and the items are great in quality and design. The total value of this box came up to $73.95 which is a great deal for the $45 price I paid as a subsriber. I love Bespoke Post because it exposes us to great brands and tools that we might not have known otherwise and at a discounted price too! That's a win for me.</p>
 
 <p>Not a subscriber yet? You can <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and start choosing one of their cool and awesome curations! Don't forget to use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">ALONE</a> to get 25% off your first box!</p>
 
@@ -105,39 +105,23 @@ date: 2015-06-22 13:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Quay Australia Sunglasses</TD>
-      <TD>$45</TD>
-   </TR>
-   <TR>
-      <TD>Spongelle Boxed Flower Sponge</TD>
-      <TD>$16</TD>
-   </TR>
-    <TR>
-      <TD>Pacifica Eye Shadow Palette</TD>
-      <TD>$14</TD>
-   </TR>
-    <TR>
-      <TD>Judy Blume's In the Unlikely Event Novel</TD>
-      <TD>$16.77</TD>
-   </TR>
-    <TR>
-      <TD>Yogitoes Headband</TD>
-      <TD>$4</TD>
-   </TR>
-   <TR>
-      <TD>SNAP Infusion Supercandy</TD>
-      <TD>$4</TD>
-   </TR>
-   <TR>
-      <TD>Sweet & Spark Gift Card</TD>
+      <TD>Bespoke Post - Manual Coffee Grinder</TD>
       <TD>$30</TD>
    </TR>
    <TR>
+      <TD>Bobble - Presse Stainless Steel Coffee Press</TD>
+      <TD>$29.95</TD>
+   </TR>
+    <TR>
+      <TD>Dapper & Wise Roasters Coffee Bean</TD>
+      <TD>$14</TD>
+   </TR>
+   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$129.77</big></b></TD>
+      <TD><b><big>$73.95</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$39.95</big></i></TD>
+      <TD><i><big>$45</big></i></TD>
    </TR>
 </TABLE>
