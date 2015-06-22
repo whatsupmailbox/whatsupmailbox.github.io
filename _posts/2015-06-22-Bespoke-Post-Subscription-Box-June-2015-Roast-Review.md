@@ -86,11 +86,12 @@ date: 2015-06-22 13:01:39 -08:00
 <center><img src='/images/BespokePostJune2015Coffee.jpg'></center>
 
 <DL>
-<DT><a href="http://spongelle.com/collections/spongelle/products/fleur-en-boite-boxed-flowers" target="_blank">Spongelle - Boxed Flowers-Fleur En Boîte</a></DT>
-<DD>Retail Value $16</DD>
+<DT><a href="https://squareup.com/market/dapper-and-wise-roasters" target="_blank">Dapper & Wise Roasters Coffee Bean in Brazil - Fazenda Silvestre</a></DT>
+<DD>12 oz., Value $14</DD>
 </DL>
 
-<p>This is what was giving that amazing scent when I opened the box, smells so heavenly. They have the exact scent in a lotion too, I just might have to get that.</p>
+<p>This coffee is sweet & nutty with a light acidity and cacao chocolate finish. It has notes of milk chocolate, honey, and citrus. The coffee beans are roasted on a Diedrich 12 kilo drum roaster in a small-batch artisan fashion and my package states that it was roasted in June 2015 so its as fresh as you can get!</p>
+<p>Dapper & Wise is based in Portland, Oregon and they have a tasting room as well as a cafe for you to experience their products in person.</p>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> When I looked at the spoilers last month, I was really excited about the sunglasses and now that I have it on hand, it'll be my go-to for sunglasses this summer. The only item I disliked was the book, and maybe I'm not alone here, but I'm not sure how a book inclusion fits with the Popsugar Must Have theme this month. The total value came up to $129.77 (that's with the gift card and using Amazon's price for the book) and that's not a bad value for a $39.95 subscription. Even without the book I would have felt like I got double my money's worth so I'm content. Next month's theme is "Beach Days, Fourth of July, Easy Travel, and Summer Heat", <a href="http://whatsupmailbox.com/subscriptions/Popsugar-Must-Have-July-2015-Spoiler-Theme/" targe="_blank"> see my post about it here </a>, and I can't wait to see some spoilers!</p>
 
