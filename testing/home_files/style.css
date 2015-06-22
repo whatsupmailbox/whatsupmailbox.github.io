@@ -3846,7 +3846,7 @@ body {
 
 /*      End-Setting     */
 
-button#slide{
+.menu-button#slide{
     position:fixed;
     display:block;
     width:40px;
@@ -3860,14 +3860,14 @@ button#slide{
     z-index:31
     }
 
-button#slide:hover{
+.menu-button#slide:hover{
     background:#39c492
     }
 
-button#slide.slide{
+.menu-button#slide.slide{
     position:absolute;
     top:11px;
-    left:50%;
+    left:30px;
     width:40px;
     height:40px;
     margin:0 0 0 -20px;

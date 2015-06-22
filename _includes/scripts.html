@@ -9,12 +9,12 @@
 
 /*      Slides       */
 
-$("a#slide").click(function(){
-    $("#sidebar,body,a#slide,#fade").addClass("slide")
+$("button#slide").click(function(){
+    $("#sidebar,body,button#slide,#fade").addClass("slide")
 });
 
 $("#fade,#header,#posts-container").click(function(){
-    $("#sidebar,body,a#slide,#fade").removeClass("slide")
+    $("#sidebar,body,button#slide,#fade").removeClass("slide")
 });
 
 $("a#click-filter").click(function(){
