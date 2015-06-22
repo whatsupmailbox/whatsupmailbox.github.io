@@ -91,7 +91,7 @@ date: 2015-06-22 15:01:39 -08:00
 
 <DL>
 <DT><a href="https://squareup.com/market/dapper-and-wise-roasters" target="_blank">Dapper & Wise Roasters Coffee Bean in "Brazil - Fazenda Silvestre"</a></DT>
-<DD>12 oz., Value $14</DD>
+<DD>6 oz., Value $7</DD>
 </DL>
 
 <p>This coffee is sweet & nutty with a light acidity and cacao chocolate finish. It has notes of milk chocolate, honey, and citrus. The coffee beans are roasted on a Diedrich 12 kilo drum roaster in a small-batch artisan fashion and my package states that it was roasted in June 2015 so its as fresh as you can get!</p>
