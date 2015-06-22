@@ -18,7 +18,7 @@ date: 2015-06-22 13:01:39 -08:00
 <center><img src='/images/BespokePostJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">Bespoke Post</a></p>
 <p><b>Cost:</b> $45 monthly or $55 for one-time purchases + Free Shipping.</p>
-<p><b>What's in the box:</b> Each box is a limited-edition, themed collection of men's lifestyle gear from up-and-coming brands. It can range from tools, accessories, grooming, fashion and skincare. Skip any month if needed (must be done prior to the 5th of that month) and cancellation can be done by emailing them.</p>
+<p><b>What's in the box:</b> Each box is a limited-edition, themed collection of men's lifestyle gear from up-and-coming brands. It can range from tools, accessories, grooming, fashion and skincare. They have a collection of themed boxes that are available for you to choose, plus new boxes are released every month. You can skip any month if needed (must be done prior to the 5th of that month) and cancellation can be done by emailing them.</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><b>ALONE</b></a> to get 25% off your first box!</p>
 <br>
 
