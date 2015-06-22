@@ -5,25 +5,42 @@
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <div id="fade"></div>
-    <button class="menu-button animated fade" id="slide">
-        <span class="glyphicon glyphicon-menu-hamburger"/>
-    </button>
-<aside id="sidebar">
-    <nav id="navigation">
-    <h2>MENU</h2>
-    <hr>
-{% for link in site.links %}
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed navbar-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <button type="button" class="dosearchf navbar-btn collapsed navbar-toggle navbar-right" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+ {% for link in site.links %}
             <li>{% if link.external %}
                     <a href="{{ link.url }}">{{ link.title }}</a>
                 {% else %}
                     <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
                 {% endif %} </li>
+                <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
 {% endfor %}            
-           <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-    </nav>
-    
-    
-</aside>
+      </ul>
+      
+      <form class="navbar-form navbar-right" role="search">
+  <button type="submit" class="menu-button animated fade dosearch dosearchf">
+      <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+  </button>
+</form>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 {% if page.imagefeature %}<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ page.imagefeature }})" itemscope itemtype="http://schema.org/Organization">
 {% else %}
 <header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ site.default_bg }})" itemscope itemtype="http://schema.org/Organization">

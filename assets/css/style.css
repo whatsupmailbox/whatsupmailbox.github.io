@@ -2383,6 +2383,8 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     border-radius: 4px;
 }
 
+.dosearchf {color: #fff;}
+
 .search-form {
     position: relative;
     top: 0;
@@ -3789,7 +3791,7 @@ ol.CodeRay li {
 
 button.menu-button {
   position: absolute;
-  top: 10px;
+ /* top: 10px;*/
   right: 10px;
   width: 40px;
   height: 40px;
@@ -3956,7 +3958,11 @@ body {
 #sidebar #navigation #slide-filter li:last-child{
     margin:0
     }
-
+    
+ .navbar-inverse {background-color: black; border-color: transparent;}
+.navbar-fixed-top {margin-bottom: 0px;}
+body { padding-top: 50px; }
+.navbar-left {float: left}
 
 /*      End-Sidebar     */
 

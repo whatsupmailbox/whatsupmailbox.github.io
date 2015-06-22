@@ -65,10 +65,11 @@
 
 
 <div id="fade" class=""></div>
+<!--
     <button class="menu-button animated fade" id="slide">
         <span class="glyphicon glyphicon-menu-hamburger"/>
     </button>
-    
+-->
     <!--
 <a id="slide" class="animated fade">
     <span class="glyphicon glyphicon-menu-hamburger"/>
@@ -101,13 +102,47 @@
     
 </aside>
 
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed navbar-left" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <button type="button" class="dosearchf navbar-btn collapsed navbar-toggle navbar-right" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Subscriptions</a></li>
+        <li><a href="#">Reviews</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Coupons</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+      
+      <form class="navbar-form navbar-right" role="search">
+  <button type="submit" class="menu-button animated fade dosearch dosearchf">
+      <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+  </button>
+</form>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
 <header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom animation-on" style="background-image: url(http://whatsupmailbox.com/images/default_bg1.jpg)" itemscope="" itemtype="http://schema.org/Organization">
-
-
+    <!--
     <button class="menu-button animated fade dosearch">
         <i class="icon-search"></i>
     </button>
-
+    -->
 
     <div class="inner">
         <div class="container">
@@ -1003,6 +1038,7 @@
 <script src="./home_files/scripts.min.js"></script>
 <script type="text/javascript" src="./home_files/waypoints.min.js"></script>
 <script type="text/javascript" src="./home_files/script.js"></script>
+<script type="text/javascript" src="./home_files/bootstrap.min.js"></script>
 <script type="text/javascript">$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
 
 <script type="text/javascript">
@@ -1049,7 +1085,7 @@ $("a#click-pages").click(function(){
           close: $(".icon-remove-sign"),
           searchform: $(".search-form"),
           canvas: $("body"),
-          dothis: $('.dosearch')
+          dothis: $('.dosearchf')
       };
     
     bs.dothis.on('click', function() {
