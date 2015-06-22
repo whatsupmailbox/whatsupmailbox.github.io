@@ -53,12 +53,16 @@ links:
     url: /
     external: false
     icon: home
+  - title: Subscriptions
+    url: /categories/#subscriptions
+  - title: Reviews
+    url: /categories/#reviews
+  - title: Products
+    url: /categories/#products
+  - title: Coupons
+    url: /categories/#coupons
   - title: About
     url: /about/
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
