@@ -467,7 +467,7 @@ html {
 }
 /* - Brand - */
 .brand img {
-  max-height: 220px;
+  max-height: 280px;
 }
 /* - Blog title and description - */
 .blog-title {
@@ -491,7 +491,7 @@ html {
 }
 @media (max-width: 480px) {
   .brand img {
-    max-height: 60px;
+    max-height: 120px;
   }
   .blog-title {
     font-size: 24px;
