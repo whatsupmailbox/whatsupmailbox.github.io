@@ -60,8 +60,11 @@ date: 2015-06-22 08:01:39 -08:00
 <br>
 
 <p><center><img src='/images/PinkFraiseJune2015Magnet.jpg'></center></p>
-<p><center><img src='/images/PinkFraiseJune2015Magnet2.jpg'></center></p>
-<center><img src='/images/PinkFraiseJune2015Magnet3.jpg'></center>
+
+<figure class="half">
+	<img src="/images/PinkFraiseJune2015Magnet2.jpg">
+	<img src='/images/PinkFraiseJune2015Magnet3.jpg'>
+</figure>
 
 <DL>
 <DT><a href="https://www.etsy.com/listing/218450048/cute-orange-bottlecap-magnet-with-retro?ref=shop_home_active_4&ga_search_query=hula" target="_blank">Little Miss Made It - Cute Orange Bottlecap Magnet with Retro Hawaiian Girl Design</a></DT>
