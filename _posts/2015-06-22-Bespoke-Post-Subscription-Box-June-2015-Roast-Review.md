@@ -53,7 +53,7 @@ date: 2015-06-22 13:01:39 -08:00
 <DD>Value $30</DD>
 </DL>
 
-<p>This manual grinder is so cool and easy to use. And yes, there is truth that freshly ground coffee tastes better than pre-ground and since we actually don't have a coffee grinder, this is a great addition to our house! Plus the size is conveninet and travel friendly, and the handle on top can be detached so you can pack it easier too.</p>
+<p>This manual grinder is so cool and easy to use. And yes, there is truth that freshly ground coffee tastes better than pre-ground and since we actually don't have a coffee grinder, this is a great addition to our house! Plus the size is convenient and travel friendly, and the handle on top can be detached so you can pack it easier too.</p>
 <p>I tried grinding some coffee beans this morning and although it was easy to use, it did take quite a bit of energy to grind. Using the handle and rotating it clockwise was easy, but holding the actual grinder with my other hand so it doesn't move or topple over as you grind got to be a bit harder than I thought. But the end result was perfectly ground coffee. See picture below.</p> 
 
 <center><img src='/images/BespokePostJune2015Grinder2.jpg'></center>
