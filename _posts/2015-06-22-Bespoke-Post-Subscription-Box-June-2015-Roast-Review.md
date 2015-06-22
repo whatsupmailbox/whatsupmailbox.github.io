@@ -37,7 +37,7 @@ date: 2015-06-22 13:01:39 -08:00
 <br>
 
 <center><img src='/images/BespokePostJune2015Info.jpg'></center>
-<center><img src='/images/BespokePoseJune2015Info2.jpg'></center>
+<center><img src='/images/BespokePostJune2015Info2.jpg'></center>
 <p>The info card detailing the items inside and how to use them.</p>
 <br>
 
@@ -46,7 +46,7 @@ date: 2015-06-22 13:01:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<p><center><img src='/images/BespokePostJune2015Sunglasses.jpg'></center></p>
+<p><center><img src='/images/BespokePostJune2015Grinder.jpg'></center></p>
 
 <DL>
 <DT><a href="http://www.quayaustralia.com/us/shop/116-day-breaker.html" target="_blank">Quay Australia - Mandate Sunglasses</a></DT>
@@ -56,14 +56,14 @@ date: 2015-06-22 13:01:39 -08:00
 <p>OMG, these sunglasses are so cool and fit me perfectly! I love that its light, fits my Asian nose (thank goodness!), and is simple yet uber cool. #soinlove</p>
 
 <p>Here's a view of the sunglasses from the side:</p>
-<center><img src='/images/BespokePostJune2015Sunglasses2.jpg'></center>
+<center><img src='/images/BespokePostJune2015Tumbler.jpg'></center>
 
 <p>You see how simple the design is, no overly bling or big "in-your-face" logo, just two silver dots. Nice.</p>
 
 <p>I'm more than happy that Popsugar decided to include sunglasses this month, just in time for the sunny summer days. I know that probably not everyone is happy getting this since sunglasses require specific preference and depends on shape of face, but they did pick a style that's more universal when compared to Q/A's other styles, which I love by the way and am already eyeing a few that needs to be in my posession asap!</p>
 <br>
 
-<p><center><img src='/images/PopsugarJune2015Spongelle.jpg'></center></p>
+<p><center><img src='/images/PopsugarJune2015Coffee.jpg'></center></p>
 
 <DL>
 <DT><a href="http://spongelle.com/collections/spongelle/products/fleur-en-boite-boxed-flowers" target="_blank">Spongelle - Boxed Flowers-Fleur En Boîte</a></DT>
