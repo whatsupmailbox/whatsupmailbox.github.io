@@ -33,7 +33,7 @@ date: 2015-06-22 13:01:39 -08:00
 </figure>
 <br>
 
-<p>The items inside were packaged very well and secure as you can see from the pictures above. They were wrapped in bubble wrap, put inside another box or tighter wrap to ensure minimal movement, and finished with a black tissue paper.</p>
+<p>The items inside were packaged very well, everything came in perfect condition. They were wrapped in bubble wrap, put inside another box or tighter wrap to ensure minimal movement, and finished with a black tissue paper.</p>
 <br>
 
 <center><img src='/images/BespokePostJune2015Info.jpg'></center>
