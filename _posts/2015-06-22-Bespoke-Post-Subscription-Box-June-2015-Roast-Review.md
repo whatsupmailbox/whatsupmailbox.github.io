@@ -28,6 +28,7 @@ date: 2015-06-22 15:01:39 -08:00
 <figure>
       <img src='/images/BespokePostJune2015OpenBox.jpg'>
       <figcaption>First look at unboxing</figcaption>
+      <br>
       <img src='/images/BespokePostJune2015OpenBox2.jpg'>
       <figcaption>Second look at unboxing</figcaption>
 </figure>
