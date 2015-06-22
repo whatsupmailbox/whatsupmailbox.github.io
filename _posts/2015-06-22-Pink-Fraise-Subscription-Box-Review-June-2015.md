@@ -32,6 +32,7 @@ date: 2015-06-22 08:01:39 -08:00
     <img src='/images/PinkFraiseJune2015OpenBox.jpg'>
     <figcaption>First look at unboxing</figcaption>
 </figure>
+
 <br>
 
 <figure>
