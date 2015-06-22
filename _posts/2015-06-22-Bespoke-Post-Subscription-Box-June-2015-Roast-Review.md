@@ -22,7 +22,7 @@ date: 2015-06-22 13:01:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><b>ALONE</b></a> to get 25% off your first box!</p>
 <br>
 
-<p>Because of my husband's <strike>addiction</strike> love for coffee, he chose the "Roast" box for June. See what other boxes were released for June 2015 in <a href="http://whatsupmailbox.com/subscriptions/Bespoke-Post-June-2015-Selections/" target="_blank">my previous post</a>.</p>
+<p>Because of my husband's <strike>addiction</strike> love for coffee, he chose the "Roast" box for June. See what other boxes were released this month in <a href="http://whatsupmailbox.com/subscriptions/Bespoke-Post-June-2015-Selections/" target="_blank">my previous post</a>.</p>
 <br>
 
 <figure>
