@@ -56,10 +56,8 @@ date: 2015-06-22 13:01:39 -08:00
 <p>This manual grinder is so cool and easy to use. And yes, there is truth that freshly ground coffee tastes better than pre-ground and since we actually don't have a coffee grinder, this is a great addition to our house! Plus the size is conveninet and travel friendly, and the handle on top can be detached so you can pack it easier too.</p>
 <p>I tried grinding some coffee beans this morning and although it was easy to use, it did take quite a bit of energy to grind. Using the handle and rotating it clockwise was easy, but holding the actual grinder with my other hand so it doesn't move or topple over as you grind got to be a bit harder than I thought. But the end result was perfectly ground coffee. See picture below.</p> 
 
-<figure>
-      <img src='/images/BespokePostJune2015Grinder2.jpg'>
-      <figcaption>Ground coffee using the Manual Burr Grinder</figcaption>
-</figure>
+<center><img src='/images/BespokePostJune2015Grinder2.jpg'></center>
+<p>See how fine the coffee ground is, and this was done manually! #gogreen</p>
 <br>
 
 <center><img src='/images/BespokePostJune2015Tumbler.jpg'></center>
@@ -91,7 +89,7 @@ date: 2015-06-22 13:01:39 -08:00
 </DL>
 
 <p>This coffee is sweet & nutty with a light acidity and cacao chocolate finish. It has notes of milk chocolate, honey, and citrus. The coffee beans are roasted on a Diedrich 12 kilo drum roaster in a small-batch artisan fashion and my package states that it was roasted in June 2015 so its as fresh as you can get!</p>
-<p>Dapper & Wise is based in Portland, Oregon and they have a tasting room as well as a cafe for you to experience their products in person.</p>
+<p>Dapper & Wise is based in Portland, Oregon and they have a tasting room as well as a cafe for you to experience their coffee in person.</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband needs coffee -everyday, every morning- and not just once, but multiple times during the day. So convenience is important but taste as well. This whole set is perfect for that and the items are great in quality and design. The total value of this box came up to $73.95 which is a great deal for the $45 price I paid as a subsriber. I love Bespoke Post because it exposes us to great brands and tools that we might not have known otherwise and at a discounted price too! That's a win for me.</p>
