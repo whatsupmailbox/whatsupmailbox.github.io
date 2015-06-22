@@ -17,8 +17,8 @@ date: 2015-06-22 13:01:39 -08:00
 
 <center><img src='/images/BespokePostJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">Bespoke Post</a></p>
-<p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> Cool gears, accessories or other products that are curated in a themed box!</p>
+<p><b>Cost:</b> $45 monthly or $55 for one time purchases + Free Shipping.</p>
+<p><b>What's in the box:</b> Each box is a limited-edition, themed collection of men's lifestyle gear from up-and-coming brands. It can range from tools, accessories, grooming, fashion and skincare. Skip any month if needed (must be done prior to the 5th of that month) and cancellation can be done by emailing them.</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><b>ALONE</b></a> to get 25% off your first box!</p>
 <br>
 
@@ -92,8 +92,9 @@ date: 2015-06-22 13:01:39 -08:00
 
 <p>This coffee is sweet & nutty with a light acidity and cacao chocolate finish. It has notes of milk chocolate, honey, and citrus. The coffee beans are roasted on a Diedrich 12 kilo drum roaster in a small-batch artisan fashion and my package states that it was roasted in June 2015 so its as fresh as you can get!</p>
 <p>Dapper & Wise is based in Portland, Oregon and they have a tasting room as well as a cafe for you to experience their products in person.</p>
+<br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> When I looked at the spoilers last month, I was really excited about the sunglasses and now that I have it on hand, it'll be my go-to for sunglasses this summer. The only item I disliked was the book, and maybe I'm not alone here, but I'm not sure how a book inclusion fits with the Popsugar Must Have theme this month. The total value came up to $129.77 (that's with the gift card and using Amazon's price for the book) and that's not a bad value for a $39.95 subscription. Even without the book I would have felt like I got double my money's worth so I'm content. Next month's theme is "Beach Days, Fourth of July, Easy Travel, and Summer Heat", <a href="http://whatsupmailbox.com/subscriptions/Popsugar-Must-Have-July-2015-Spoiler-Theme/" targe="_blank"> see my post about it here </a>, and I can't wait to see some spoilers!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband needs coffee -everyday, every morning- and not just once, but multiple times during the day. So convenience is important but taste as well. This whole set is perfect for that and the items are great in quality and design. The total value of this box came up to $73.95 which is a great deal for the $45 price I paid as a subsriber. I love Bespoke Post because it exposes us to great brands and tools that we might not have known otherwise and at a discounted price too! That's a win for me.</p>
 
 <p>Not a subscriber yet? You can <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and start choosing one of their cool and awesome curations! Don't forget to use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">ALONE</a> to get 25% off your first box!</p>
 
