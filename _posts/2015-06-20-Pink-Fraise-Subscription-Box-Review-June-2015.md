@@ -92,7 +92,7 @@ date: 2015-06-22 09:01:39 -08:00
 <p>I totally need this since for some reason mosquitoes love me, plus it'll be great for those summer camping trips. I'm ready for you mosquitoes!</p>
 <br>
 
-<p><center><img src='/images/PinkFraiseJune2015Soap.jpg'></center></p>
+<p><center><img src='/images/PinkFraiseJune2015Earrings.jpg'></center></p>
 
 <DL>
 <DT>Pearl Earrings by Pink Fraise</DT>
