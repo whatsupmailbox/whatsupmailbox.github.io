@@ -72,12 +72,12 @@ date: 2015-06-22 13:01:39 -08:00
 <p>What a cool looking coffee press! It'll brew your coffee and you can take it on the go as well, how awesome is that.</p>
 <p>Here's just some of the cool features this press has:
 <ul>
-<li>- Makes up to 13 oz. of coffee!</li>
-<li>- 6" tall, 3.375" diameter (approximate)</li>
-<li>- Unique micro-filter separates grounds from finished coffee and traps them at the bottom to stop brewing immediately when pressed.</li>
-<li>- 3 layers of insulation to keep your coffee hot and yet the outside remains cool, plus a silicone heat-resistant lid!</li>
-<li>- It only takes 3 minutes to brew your cofee. Once pressed, just add the lid and your coffee is ready to roll.</li>
-<li>- Easy to clean. No flimsy screen that gets clogged with coffee grounds, no worries about breaking the glass part of your press. Just use soap & warm water, and it's ready to brew the next cup.</li>
+<li> Makes up to 13 oz. of coffee!</li>
+<li> 6" tall, 3.375" diameter (approximate)</li>
+<li> Unique micro-filter separates grounds from finished coffee and traps them at the bottom to stop brewing immediately when pressed.</li>
+<li> 3 layers of insulation to keep your coffee hot and yet the outside remains cool, plus a silicone heat-resistant lid!</li>
+<li> It only takes 3 minutes to brew your cofee. Once pressed, just add the lid and your coffee is ready to roll.</li>
+<li> Easy to clean. No flimsy screen that gets clogged with coffee grounds, no worries about breaking the glass part of your press. Just use soap & warm water, and it's ready to brew the next cup.</li>
 </ul>
 </p>
 
