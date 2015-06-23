@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Popsugar Must Have July 2015 Spoiler Item!"
+title: "Popsugar Must Have July 2015 Spoiler Item + Coupon!"
 description: ""
-headline: "Popsugar Must Have July 2015 Spoiler Item!"
+headline: "Popsugar Must Have July 2015 Spoiler Item + Coupon!"
 tags: [Popsugar Must Have, Subscriptions]
 comments: true
 mathjax: null
