@@ -37,6 +37,7 @@ date: 2015-06-24 14:29:39 -08:00
 
 <br>
 
+<p>The info card:</p>
 <p><center><img src='/images/AdoreBoxJune2015Info.jpg'></center></p>
 <center><img src='/images/AdoreBoxJune2015Info2.jpg'></center>
 
