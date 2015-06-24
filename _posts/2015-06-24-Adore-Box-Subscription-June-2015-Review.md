@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -25,7 +25,7 @@ date: 2015-06-24 14:29:39 -08:00
 
 <center><img src='/images/AdoreBoxJune2015Box.jpg'></center>
 
-<p>See what I mean. But after I opened the box of course the first thing I saw was the info sheet with Adore Box displayed on top. Mystery solved.</p>
+<p>See what I mean. But after I opened the box, of course the first thing I saw was the info sheet with Adore Box displayed on top. Mystery solved.</p>
 
 <figure>
       <img src='/images/AdoreBoxJune2015OpenBox.jpg'>
@@ -38,7 +38,7 @@ date: 2015-06-24 14:29:39 -08:00
 <center><img src='/images/AdoreBoxJune2015Info.jpg'></center>
 <center><img src='/images/AdoreBoxJune2015Info2.jpg'></center>
 
-<p>I'm kind of disappointed to see that their info card was printed on a regular paper then folded in half, it gives it a cheap feeling and I'm already thinking to myself "if the info card is cheap, what will the products be?"</p>
+<p>I'm kind of disappointed to see that their info card was printed on a regular paper and folded in half, it gives it a cheap feeling and I'm already thinking to myself "if the info card is cheap, what will the products be?"</p>
 
 <br>
 
@@ -52,11 +52,11 @@ date: 2015-06-24 14:29:39 -08:00
 
 <DL>
 <DT>MAC - False Lashes Mascara</DT>
-<DD>small sample tube, Value $2?</DD>
+<DD>Small Sample Tube, Value $2?</DD>
 </DL>
 
-<p>This sample is tiny and I actually get these type of mascara samples for free from Sephora or other beauty stores, so disappointing.</p>
-<p>The mascara itself is alright, not my favorite since it really doesn't curl or lengthen my eyelashes as much as other brands do, so I probably won't be buying this in full size anytime soon.</p>
+<p>This sample is tiny and I actually get these type of mascara samples for free from Sephora or other beauty stores, so it was quite disappointing.</p>
+<p>The mascara itself is alright, not my favorite since it really doesn't curl or lengthen my eyelashes as much as other brands do. I probably won't be buying this in full size anytime soon.</p>
 <br>
 
 <center><img src='/images/AdoreBoxJune2015Eyeshadow.jpg'></center>
@@ -76,14 +76,14 @@ date: 2015-06-24 14:29:39 -08:00
 <DD>Sample Size, $2?</DD>
 </DL>
 
-<p>Okay, I can live with this brand and product, so finally something that's acceptable. The scent is refreshing and invigorating, perfect as a body wash and will be great for when I'm traveling next momth for my vacation.</p>
+<p>Okay, I can live with this brand and product, finally something that's acceptable. The scent is refreshing and invigorating, perfect as a body wash and will be great for when I'm traveling next month for my vacation.</p>
 
 <DL>
 <DT>Listerine - Zero Mouthwash</DT>
 <DD>Sample Size, Value $1?</DD>
 </DL>
 
-<p>What an odd thing to receive in a subscription box that describes itself as a beauty and lifestyle box. Although I can surely use this, I'm not yet quite sure on how I feel about receiving it.</p>
+<p>What an odd thing to receive in a subscription box that describes itself as a beauty and lifestyle box. Although I can surely use this, I'm not yet quite sure on how I feel about receiving it. Hmmm.</p>
 <br>
 
 <center><img src='/images/AdoreBoxJune2015Acne.jpg'></center>
@@ -93,7 +93,7 @@ date: 2015-06-24 14:29:39 -08:00
 <DD>Value $5.99</DD>
 </DL>
 
-<p>I'm using the value they stated since there's no branding or info on where it came from, but the actual item itself feels like it could have come from a 99 cents store. Although I do need one of these to add to my skincare tools, I'm not so sure I'll be using this item per say due to the quality of it. I might just give it a try.</p>
+<p>I'm using the value they stated since there's no branding or info on where it came from, but the actual item itself feels like it could have come from a 99 cents store. Although I do need one of these to add to my skincare tools, I'm not so sure I'll be using this item per say due to the quality of it. But who knows, I might just give it a try.</p>
 <br>
 
 <center><img src='/images/AdoreBoxJune2015Cutler.jpg'></center>
@@ -103,7 +103,7 @@ date: 2015-06-24 14:29:39 -08:00
 <DD>Value $6</DD>
 </DL>
 
-<p>Again, I'm using the value they stated since I couldn't find this brand at all. But what I did find is that the company that produces it is called Erwyn and when I looked at their website, it turns out that their a Hotel Industry’s supplier of guest room and guest bathroom accessories as well as personal guest amenities. That was a shock. So most likely this item is found in a hotel room somewhere complimentary, ugh, disappointing again.</p> 
+<p>Again, I'm using the value they stated since I couldn't find this brand at all. But what I did find is that the company that produces it is called Erwyn and when I looked at their website, it turns out that they're a Hotel Industry’s supplier of guest room and guest bathroom accessories as well as personal guest amenities. That was a shock. So most likely this item is found in a hotel room somewhere, complimentary. Ugh, disappointing again.</p> 
 <br>
 
 <center><img src='/images/AdoreBoxJune2015Packets.jpg'></center>
@@ -120,7 +120,7 @@ date: 2015-06-24 14:29:39 -08:00
 <DD>1 packet, Value $.50</DD>
 </DL>
 
-<p>This is a headache relief product that's in a form of powder and you take it as it is, directly poured into your mouth. I'm not so sure that's convenient versus a pill, I'm imagining powder splattered all over the face if you don't pour it right. Because this product has caffeine in its ingredient, I won't be able to try it out unless its early in the morning cause I have sensitivity with caffeine. I think I prefer my medicine in tablet form for the sake of convenience.</p>
+<p>This is a headache relief product that's in a form of powder and you take it as it is -directly poured into your mouth. I'm not so sure that's convenient versus a pill, I'm imagining powder splattered all over the face if you don't pour it right. Because this product has caffeine in its ingredient, I won't be able to try it out unless its early in the morning cause I have sensitivity with caffeine. I think I prefer my medicine in tablet form for the sake of convenience.</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I hate writing bad reviews but this one was really disappointing, especially since its my first box with them. And frankly, I'm a little confused as to what this subscription is supposed to be. Its got drugstore brands, sample packets and a blemish lancer, so random. Without counting the blemish lancer and eyeshadow, the rest of the items seems like something I would get for free when I check into a hotel, that's not good. I think I'll only be using 3 out of the 8 items so I'm not happy about that, and right now I'm not so sure I want to keep on subscribing. I would probably advise on looking through instagram for future boxes to see if they improve prior to signing up. The total value came up to $21.48 using my estimates on the sample sizes and packets, and although it exceeds the $15 subscription cost, the items were all over the board and low quality that I would put the value much lower than what it is. I hate saying this, but I didn't adore this box and was hoping for more.</p>
