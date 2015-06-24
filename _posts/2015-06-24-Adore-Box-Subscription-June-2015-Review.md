@@ -28,7 +28,8 @@ date: 2015-06-24 14:29:39 -08:00
 <p>See what I mean. But after I opened the box of course the first thing I saw was the info sheet with Adore Box displayed on top. Mystery solved.</p>
 
 <figure>
-      <center><img src='/images/AdoreBoxJune2015OpenBox.jpg'></center>
+      <img src='/images/AdoreBoxJune2015OpenBox.jpg'>
+      <img src='/images/AdoreBoxJune2015OpenBox2.jpg'>
       <figcaption>First look at unboxing</figcaption>
 </figure>
 
