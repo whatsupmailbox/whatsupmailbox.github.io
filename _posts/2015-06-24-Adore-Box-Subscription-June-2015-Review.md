@@ -35,8 +35,8 @@ date: 2015-06-24 14:29:39 -08:00
 
 <br>
 
-<center><img src='/images/AdoreBoxJune2015BInfo.jpg'></center>
-<center><img src='/images/AdoreBoxJune2015BInfo2.jpg'></center>
+<center><img src='/images/AdoreBoxJune2015Info.jpg'></center>
+<center><img src='/images/AdoreBoxJune2015Info2.jpg'></center>
 
 <p>I'm kind of disappointed to see that their info card was printed on a regular paper then folded in half, it gives it a cheap feeling and I'm already thinking to myself "if the info card is cheap, what will the products be?"</p>
 
