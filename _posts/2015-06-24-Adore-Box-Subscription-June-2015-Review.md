@@ -113,12 +113,15 @@ date: 2015-06-24 14:29:39 -08:00
 <DD>2 packets, Value $.50? each</DD>
 </DL>
 
-<p>I'm never happy when I receive sample packets especially when its included as one of the box items, and this one stands true. The product itself seems like a great sunscreen to try out, and I'm sure I will since the ingredients are natural with zinc oxide so that part is great. I just wish it wasn't in sample packets and if it were it should count as a bonus item.</p>
+<p>I'm never happy when I receive sample packets especially when its included as one of the box items, and this one stands true. The product itself seems like a great sunscreen to try out, and I'm sure I will since the ingredients are natural with zinc oxide so that part is great. I just wish it wasn't in sample packets.</p>
 
 <DL>
 <DT>Urgent RX - Headache Relief To-Go</DT>
 <DD>1 packet, Value $.50</DD>
 </DL>
+
+<p>This is a headache relief product that's in a form of powder and you take it as it is, directly poured into your mouth. I'm not so sure that's convenient versus a pill, I'm imagining powder splattered all over the face if you don't pour it right. Because this product has caffeine in its ingredient, I won't be able to try it out unless its early in the morning cause I have sensitivity with caffeine. I think I prefer my medicine in tablet form for the sake of convenience.</p>
+<br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I hate writing bad reviews but this one was really disappointing, especially since its my first box with them. And frankly, I'm a little confused as to what this subscription is supposed to be. Its got drugstore brands, sample packets and a blemish lancer, so random. Without counting the blemish lancer and eyeshadow, the rest of the items seems like something I would get for free when I check into a hotel, that's not good. I think I'll only be using 3 out of the 8 items so I'm not happy about that, and right now I'm not so sure I want to keep on subscribing. I would probably advise on looking through instagram for future boxes to see if they improve prior to signing up. The total value came up to $21.48 using my estimates on the sample sizes and packets, and although it exceeds the $15 subscription cost, the items were all over the board and low quality that I would put the value much lower than what it is. I hate saying this, but I didn't adore this box and was hoping for more.</p>
 <br>
