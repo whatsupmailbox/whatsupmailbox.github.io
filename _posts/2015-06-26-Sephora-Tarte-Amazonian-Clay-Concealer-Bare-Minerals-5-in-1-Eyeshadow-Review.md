@@ -20,7 +20,7 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>I'm such a beauty whore and Sephora is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
 
-<H4>Here are the items I purchased online and received this week:</p>
+<H4>Here are the items I purchased online and received this week:</H4>
 <DL>
 <DT><a href="http://www.sephora.com/smooth-operator-amazonian-clay-waterproof-concealer-P290629?skuId=1345248" target="_blank">Tarte Amazonian Clay Waterproof 12-Hour Concealer in Tan</a></DT>
 <DD>SIZE 0.07 oz, $23</DD>
