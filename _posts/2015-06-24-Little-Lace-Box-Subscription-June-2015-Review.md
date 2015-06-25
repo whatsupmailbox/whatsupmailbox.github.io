@@ -45,11 +45,11 @@ date: 2015-06-05 08:10:39 -08:00
 <center><img src='/images/LLBJune2015Hat.jpg'></center>
 
 <DL>
-<DT><a href="http://www.sandiegohat.com/store/womens/spring-summer/packable/womens-mixed-ultrabraid-lg-brim-visor.html?color=mixed-black" target="_blank">San Diego Hat Co. - The Packable Summer Hat in Black & White Stripes</a></DT>
+<DT><a href="http://www.sandiegohat.com/store/women-s-ultrabraid-large-brim-visor.html" target="_blank">San Diego Hat Co. - The Packable Summer Hat in Black & White Stripes</a></DT>
 <DD>Value $28</DD>
 </DL>
 
-<p><i>FYI, subscribers either got the hat in Grey, Brown or Black & White stripes.</i></p>
+<p><i>FYI, as far as I know for now, subscribers either got the hat in Brown or Black & White stripes.</i></p>
 
 <p>I had to grab this item first as I was unboxing, it just looked gorgeous and classy, so Coco Chanel... she would definitely wear this.</p> 
 
