@@ -456,7 +456,7 @@ html {
   width: 100%;
   height: 60%;
   padding: 24px 0;
-  margin-bottom: 72px;
+  margin-bottom: 12px;
   box-sizing: border-box;
 }
 #masthead.align-left {
@@ -469,6 +469,11 @@ html {
 .brand img {
   max-height: 320px;
 }
+
+.post-template .brand img {
+  max-height: 120px;
+}
+
 /* - Blog title and description - */
 .blog-title {
   font-size: 36px;
