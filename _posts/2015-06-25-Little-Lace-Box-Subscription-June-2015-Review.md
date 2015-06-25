@@ -16,10 +16,10 @@ date: 2015-06-25 09:10:39 -08:00
 
 <center><img src='/images/LLBJune2015Box.jpg'></center>
 
-<p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">>Little Lace Box</a></p>
+<p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a></p>
 <p><b>Cost:</b> $59.99/bi-monthly + Free Shipping</p>
 <p><b>What's in the box:</b> Little Lace Box is a subscription lifestyle box for women who know they're worth it. Each box will be filled with high quality items from unique or designer brands that range from beauty, jewelry, accessories, home products and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><b>REDLACE</b></a> for $10 off your subscription!</p>
+<p><b>Coupon:</b> Use coupon code <b>REDLACE</b> for $10 off your subscription!</p>
 <br>
 
 <p>This is one of my favorite subscription boxes that I subscribe to, so I always get excited when it arrives! And this month I'm extra excited since the theme is a quote by Coco Chanel (a quote that I live by) "A girl should be two things, classy & fabulous". Anything that has to do with the great madame Coco Chanel is a win already in my book!</p>
