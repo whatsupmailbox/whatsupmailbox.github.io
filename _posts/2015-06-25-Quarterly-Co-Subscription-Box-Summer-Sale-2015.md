@@ -25,7 +25,6 @@ date: 2015-06-25 12:36:00 -08:00
 <center><a href="http://www.bestofquarterly.com/shop/spring-clearing-box-from-rosario-dawson" target="_blank">
 <img src="/images/RosarioDawsonSpring2015Items.png" border="0" style="border:none;max-width:100%;" alt="Rosario Dawson Spring Clearing Box Sale!" />
 </a></center>
-<br>
 
 <p>I've been eyeing that box since it came out and boy am I glad I waited since now I get to save 50% off of that box, yay!</p>
 
