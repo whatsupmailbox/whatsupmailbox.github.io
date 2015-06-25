@@ -28,7 +28,7 @@ date: 2015-06-25 12:36:00 -08:00
 
 <p>I've been eyeing that box since it came out and boy am I glad I waited since now I get to save 50% off of that box, yay!</p>
 
-<p>If you're not aware of Quarterly Co., they curate unique boxes quarterly and the items were chosen by people we care about such as celebrities or icons. Their boxes are themed in multiple categories such as beauty, technology, art, food, home and many more!</p>
+<p>If you're not aware of Quarterly Co., they offer unique boxes quarterly and the items are curated by people we care about such as celebrities or icons. Their boxes are themed in multiple categories such as beauty, technology, art, food, home and many more!</p>
 
 <p><b>The Subscription:</b> <a href="https://quarterly.co" target="_blank">Quarterly Co.</a></p>
 <p><b>The Cost:</b> Ranges from $50 - $100 quarterly + $8 Shipping & Handling fee (additional taxes apply to CA)</p>
