@@ -53,4 +53,43 @@ date: 2015-06-25 14:15:39 -08:00
 <p>These are sweet and tart, and although I'm okay with those two flavors together, they were the least favorite from my box. My husband loved them though so at least I'm happy one of us enjoyed it.</p>
 </DL>
 
-<p><b>My Thoughts:</b> This was a great trial box and an even greater introduction to their snacks. We snack a lot in our house and having ones that are healthy is important, so I'll be keeping this subscription because of the quality, selection and convenience it offers. I also like that you can choose which snacks to get as well as skip any month you need to. I've already made my selections for next month, so stay tuned for my next <a href="https://naturebox.com">Nature Box</a> review!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I thoroughly enjoyed all my three snacks and they were not only tasty but felt healthy(er) than other snacks that I can be guilty of eating. I'm so glad they have some spicy snacks as options (I love everything spicy!) and hope that they'll add more. Perhaps some ghost pepper anything? ;)</p>
+<br>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>MY ITEMS</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>San Diego Hat Co. - Packable Hat</TD>
+      <TD>$28</TD>
+   </TR>
+   <TR>
+      <TD>Little Lace Box - Pour Some Sugar Scrub</TD>
+      <TD>$19.99</TD>
+   </TR>
+   <TR>
+      <TD>Watercolor Print Silk Scarf exclusively made for LLB</TD>
+      <TD>$45.99</TD>
+   </TR>
+   <TR>
+      <TD>Kitsch - Ring with Amethyst stone</TD>
+      <TD>$24.99</TD>
+   </TR>
+   <TR>
+      <TD>Lucy B. Cosmetics - Nail Lacquer in Starlet</TD>
+      <TD>$13</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$131.97</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$59.99</big></i></TD>
+   </TR>
+</TABLE>
