@@ -16,7 +16,7 @@ date: 2015-06-25 14:15:39 -08:00
 ---
 
 <center><img src='/images/NatureBoxJune2015Box.jpg'></center>
-<p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">>Nature Box</a></p>
+<p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Nature Box</a></p>
 <p><b>Cost:</b> 3 snacks for $13.95 or 5 snacks for $19.95 / month + Free Shipping</p>
 <p><b>What's in the box:</b> Three or Five full-sized packages of healthy snacks that you can choose from their selections monthly.</p>
 <p><b>Coupon:</b> Get a <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank"><b>Free Trial Box</b></a> of 1 full-sized plus 4 trial-sized package of healthy snacks. Only pay $2 shipping. Or <a href="http://www.shareasale.com/u.cfm?d=109178&m=41415&u=1115177" target="_blank">subscribe here</a> and use coupon code <b>SPECIAL25</b> to get $5 off your first order!</p>
@@ -25,7 +25,10 @@ date: 2015-06-25 14:15:39 -08:00
 <DT>This review is for the <i>Taste Snacker Box (3 snacks)</i>.</DT>
 <p><center><img src='/images/NatureBoxJune2015OpenBox.jpg'></center></p>
 
+# My Snacks:
+
 <center><img src='/images/NatureBoxJune2015Items.jpg'></center>
+
 <DL>
 <DT>Dark Cocoa Nom Noms</DT>
 <DD>Mini Cocoa Oat Cookies, 3.7 oz.</DD>
