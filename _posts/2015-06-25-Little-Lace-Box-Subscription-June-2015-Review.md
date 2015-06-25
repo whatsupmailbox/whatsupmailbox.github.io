@@ -105,7 +105,7 @@ date: 2015-06-25 09:10:39 -08:00
 
 <p><b>My Thoughts:</b> I am wowed again by <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a> and I can tell that they put a lot of thought into curating this box with the theme. I could actually wear every single item in this box together! If that isn't a perfectly themed box, I don't know what is. My favorite item of the box has got to be the hat and I'm already trying to secure another color asap. The total value came up to $131.97 which is an amazing value for a $59.99 subscription -that's more than double the cost! Plus every item inside is quality and totally on par for a lifestyle subscription. If you haven't subscribed and you're looking for a great lifestyle subscription, I totally recommend this box -it's hands down one of my favorite subscriptions!</p>
 
-<p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in August and the theme for that box is "Elizabeth and Mr. Darcy". And don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
+<p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in August, and the theme for that box is "Elizabeth and Mr. Darcy". And don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
 
 <br>
 
