@@ -4,14 +4,14 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Little Lace Box June 2015 Review!
+title: Little Lace Box June 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: LLBJune2015Box.jpg
-headline: Little Lace Box June 2015 Review!
+headline: Little Lace Box June 2015 Review + Coupon!
 tags: [Little Lace Box, Subscriptions, Reviews, June 2015]
-date: 2015-06-05 08:10:39 -08:00
+date: 2015-06-25 09:10:39 -08:00
 ---
 
 <center><img src='/images/LLBJune2015Box.jpg'></center>
