@@ -62,4 +62,4 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>If you haven't heard about Ebates, they're the leaders of online cash back shopping where they pay members cash back every time they shop online as well as provide them with the best coupons and deals online. All you have to do is click through the Sephora link on their website and that's it, you get a percentage of what you purchased back to you in cash. So easy.</p>
 
-<p>You can <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=26471" target="_blank"><big>sign up with Ebates here</big></a> to start earning cash back on all your online (or Sephora) shopping, I've earned so much money back, it's just a smart thing to do ;)</p>
+<p>You can <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=26471" target="_blank"><big>sign up with Ebates here</big></a> to start earning cash back on all your online (or Sephora) purchases. I've earned so much money back, it's just a smart thing to do ;)</p>
