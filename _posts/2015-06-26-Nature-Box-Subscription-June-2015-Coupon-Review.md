@@ -18,7 +18,7 @@ date: 2015-06-26 14:15:39 -08:00
 <center><img src='/images/NatureBoxJune2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Nature Box</a></p>
 <p><b>Cost:</b> 3 snacks for $13.95 or 5 snacks for $19.95 / month + Free Shipping</p>
-<p><b>What's in the box:</b> Every month you get to choose 3 or 5 full-sized packages of healthy snacks from their selections. You can also schedule the delivery to any date or frequency you prefer through your online account, and cancelling can be done online as well.</p>
+<p><b>What's in the box:</b> Every month you get to choose 3 or 5 full-sized packages of healthy snacks from their ever changing selections. You can also schedule the delivery to any date or frequency you prefer through your online account, and cancelling can be done online as well.</p>
 <p><b>Coupon:</b> Get a <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Free Trial Box</a> of 1 full-sized plus 4 trial-sized package of healthy snacks. Only pay $2 shipping. OR, <a href="http://www.shareasale.com/u.cfm?d=109178&m=41415&u=1115177" target="_blank">subscribe here</a> and use coupon code <b>SPECIAL25</b> to get $5 off your first order!</p>
 <br>
 
