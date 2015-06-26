@@ -49,7 +49,7 @@ date: 2015-06-26 14:15:39 -08:00
 <DL>
 <DT>Kung Pao Pretzels</DT>
 <DD>Net Wt. 4 oz<DD>
-<p>Wow, these pretzels are amazing. I can never go back to plain pretzels after this. They taste exactly like kung pao flavor from the famous chinese dish, and since that's one of my husband's favorite dish, I have the urge to hide this from him and keep it to myself =P</p>
+<p>Wow, these pretzels are amazing. I can never go back to plain pretzels again! They taste exactly like kung pao flavor from the famous chinese dish, and since that's one of my husband's favorite dish, I have the urge to hide this from him and keep it all to myself =P</p>
 </DL>
 
 <br>
