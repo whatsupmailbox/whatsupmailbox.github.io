@@ -20,6 +20,8 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>I'm such a beauty whore and Sephora is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
 
+<p>I buy a lot of my beauty supplies at <a href="http://www.sephora.com/" target="_blank">Sephora</a>. Partly because of convenience but mostly due to their stellar return and customer service. If I ever have any issues and need a return or exchange, it gets taken care of without a lot of resistance or questioning like other stores would. They make you feel appreciated as a customer even if you're returning or exchanging an item. That's applaudable.</p>
+
 <H4>Here are the items I purchased online and received this week:</H4>
 <DL>
 <DT><a href="http://www.sephora.com/smooth-operator-amazonian-clay-waterproof-concealer-P290629?skuId=1345248" target="_blank">Tarte Amazonian Clay Waterproof 12-Hour Concealer in Tan</a></DT>
