@@ -4,12 +4,12 @@ published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Nature Box June 2015 Review + Coupon!
+title: NatureBox June 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: NatureBoxJune2015Box.jpg
-headline: Nature Box June 2015 Review + Coupon!
+headline: NatureBox June 2015 Review + Coupon!
 description: ""
 tags: [Nature Box, Subscriptions, Reviews, June 2015]
 date: 2015-06-26 14:15:39 -08:00
