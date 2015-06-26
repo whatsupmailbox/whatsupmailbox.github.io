@@ -47,7 +47,7 @@ date: 2015-06-26 12:36:00 -08:00
 <p>So here's the free items I got from Sephora with my purchase:</p>
 <center><img src="/images/SephoraJune2015FreshGWP.jpg"></center>
 
-<p>The 3 free Fresh Items I received were:</p>
+<p>The 3 Fresh items I chose were:</p>
 <ul>
 <li><a href="http://www.sephora.com/sugar-advanced-therapy-lip-treatment-P302103?skuId=1378215" target="_blank">Sugar Advanced Therapy Lip Treatment</a></li>
 <li><a href="http://www.sephora.com/sugar-lip-treatment-spf-15-P57002?skuId=1190529" target="_blank">Sugar Lip Treatment Sunscreen SPF 15 in Rose</a></li>
@@ -56,7 +56,7 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>Those 3 samples alone are worth $40! Total win!</p>
 
-<p>And for the usual 3 Free Samples that Sephora gives out with every purchase, I chose perfume samples and that Marc Jacobs Mod Noir was a great new discovery -floral, slightly sweet and extra bold.</p>
+<p>For the usual 3 Free Samples that Sephora gives out with every purchase, I chose perfume samples and that Marc Jacobs Mod Noir was a great new discovery -floral, slightly sweet and extra bold.</p>
 
 <p><i class="icon-usd"></i> And to give this purchase an extra savings boost, I also purchased through Ebates which gave me 8% back in cash. I use Ebates for just about everything I can and have earned so much $$$ back! #truestory.</p>
 
