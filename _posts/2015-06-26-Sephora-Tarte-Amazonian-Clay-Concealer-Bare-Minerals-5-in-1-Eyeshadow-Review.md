@@ -18,11 +18,11 @@ date: 2015-06-26 12:36:00 -08:00
 
 <center><img src="/images/SephoraJune2015Haul.jpg"></center>
 
-<p>I'm such a beauty whore and Sephora is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
+<p>I'm such a beauty whore and <a href="http://www.sephora.com/" target="_blank">Sephora</a> is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
 
 <p>I buy a lot of my beauty supplies at <a href="http://www.sephora.com/" target="_blank">Sephora</a>. Partly because of convenience but mostly due to their stellar return and customer service. If I ever have any issues and need a return or exchange, it gets taken care of without a lot of resistance or questioning like other stores would. They make you feel appreciated as a customer even if you're returning or exchanging an item. That's applaudable.</p>
 
-<H4>Here are the items I purchased online and received this week:</H4>
+<H4>Here are the items I received this week:</H4>
 <DL>
 <DT><a href="http://www.sephora.com/smooth-operator-amazonian-clay-waterproof-concealer-P290629?skuId=1345248" target="_blank">Tarte Amazonian Clay Waterproof 12-Hour Concealer in Tan</a></DT>
 <DD>SIZE 0.07 oz, $23</DD>
@@ -42,9 +42,9 @@ date: 2015-06-26 12:36:00 -08:00
 <p>I got a sample of this a couple of months back and it just wowed me. The staying power was amazing and I like that it's an all-in-one product; a shadow, primer, brightener and spf 15 coverage all in one compact tube. Typically I have to use eye primer whenever I want to use any type of eye makeup or else the colors will crease within a few hours thanks to my asian eyelids and oily combination skin. But with this product surprisingly I don't have to. It just stays put, love it! I do wish it come in more shades though, currently there's only 5 shades available (mostly neutral colored), but this Elegant Taupe color is perfect for everyday and can be buildable to a darker shade.</p>
 
 <p><i class="icon-gift"></i><H4> Gift With Purchase:</H4></p>
-<p>Since I'm a loyal customer of Sephora, my contributions to their store has earned me the VIB Rouge status (basically a member level if you spend at least $1000 annually) and with that comes perks. I got an email last weekend about a GWP from Fresh if you spend $25 or more and I just had to bite. It's Fresh - one of my favorite brands - plus it included the Sugar Lip Treatments that's a staple in my beauty regime, that was an instant yes.</p>
+<p>Since I'm a loyal customer of <a href="http://www.sephora.com/" target="_blank">Sephora</a>, my contributions to their store has earned me the VIB Rouge status (basically a member level if you spend at least $1000 annually) and with that comes perks. I got an email last weekend about a GWP from Fresh if you spend $25 or more and I just had to bite. It's Fresh - one of my favorite brands - plus it included the Sugar Lip Treatments that's a staple in my beauty regime, that was an instant yes.</p>
 
-<p>The GWP deal was you get to choose 3 items from a list of Fresh deluxe samples, plus 3 extra samples that you get typically with every Sephora purchase. More freebies, more fun!</p>
+<p>This GWP deal was only for VIB or VIB Rouge, and if you are, you get to choose 3 items from a list of Fresh deluxe samples. Plus you can also select 3 extra samples that you get automatically with every Sephora purchase. More freebies, more fun!</p>
 
 <p>So here's the free items I got from Sephora with my purchase:</p>
 <center><img src="/images/SephoraJune2015FreshGWP.jpg"></center>
