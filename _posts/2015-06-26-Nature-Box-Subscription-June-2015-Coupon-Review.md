@@ -55,6 +55,5 @@ date: 2015-06-26 14:15:39 -08:00
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved all my 3 snack choices this month and it'll be hard to try anything else that can top this. Everything was so tasty and I can feel somewhat better knowing that I'm snacking on healthy(er) snacks. Each package had a good amount in them and the bag is resealable making it travel friendly. Paying $13.99 for all three of these snacks is totally acceptable, especially since the flavors are pretty unique. I'm already planning a mix of sweet and savory snacks for next month.</p>
-<br>
 
 <p>If you want to try them out, take advantage of the <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Free Trial Box through this link</a> and only pay for $2 shipping!</p>
