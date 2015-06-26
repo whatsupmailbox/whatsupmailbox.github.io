@@ -37,6 +37,7 @@ date: 2015-06-26 14:15:39 -08:00
 <DD>Net Wt. 5.1 oz</DD>
 </DL>
 <p>These are guacamole-flavored corn sticks and as soon as I took my first bite, I could taste lime right off the bat. So naturally I looked into the ingredients and yep, it's made with corn, spinach, garlic powder, avocado flavor, parsley and LIME! It gives a zesty kick to this corn snack and I like it.</p>
+<br>
 
 <center><img src='/images/NatureBoxJune2015Cashews.jpg'></center>
 <DL>
@@ -44,6 +45,7 @@ date: 2015-06-26 14:15:39 -08:00
 <DD>Net Wt. 4 oz</DD>
 </DL>
 <p>I love everything and anything that's with Sriracha so it was an easy decision to include this for this month's box. The cashews are generously coated and flavored as you can see from the picture, and they taste great! Slight sweet and in my opinion not spicy at all, so it'll be safe enough to eat even for those who are not into spicy food.</p>
+<br>
 
 <center><img src='/images/NatureBoxJune2015Pretzels.jpg'></center>
 <DL>
