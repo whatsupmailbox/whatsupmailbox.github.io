@@ -28,9 +28,9 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>It's been years since I first used this magic wand and I can't stop using it. The color is a perfect match to my tanned olive skin and I actually have this in Medium color as well -I use it when I get lighter during the winter.</p>
 
-<p>This twist-up concealer stick delivers a thin, buildable and oil-free, matte coverage to minimize the look of hyperpigmentation, blemishes, and redness. And I love the Tarte line because their products are Parabens and Phthalates free.</p>
+<p>This twist-up concealer stick delivers a thin, buildable and oil-free, matte coverage to minimize the look of hyperpigmentation, blemishes, and redness. And I love the Tarte line because their products are Paraben and Phthalate free.</p>
 
-<p>I use this mainly to cover any imperfections or redness on my face and it works great with flawless results. The only area I wouldn't use this on is for the under eyes. I found that when I conceal my dark under eye circles after a long night, the product tends to cake up and creases making it quite visible which is the opposite of what you want, so as long as you're using it to cover blemishes or redness, it's an amazing concealer.</p> 
+<p>I use this mainly to cover any imperfections or redness on my face and it works great with flawless results. The only area I wouldn't use this on is for the under eyes. I found that when I conceal my dark under eyes after a long night, the product tends to cake up and crease making it quite visible which is the opposite of what you want. So as long as you're using it to cover blemishes or redness, it's an amazing concealer.</p> 
 
 <DL>
 <DT><a href="http://www.sephora.com/bareminerals-5-in-1-bb-advanced-performance-cream-eyeshadow-P388020?skuId=1641182" target="_blank">bareMinerals 5 in 1 BB Advanced Performance Cream Eyeshadow in Elegant Taupe</a></DT>
@@ -40,14 +40,23 @@ date: 2015-06-26 12:36:00 -08:00
 <p>I got a sample of this a couple of months back and it just wowed me. The staying power was amazing and I like that it's an all-in-one product; a shadow, primer, brightener and spf 15 coverage all in one compact tube. Typically I have to use eye primer whenever I want to use any type of eye makeup or else the colors will crease within a few hours thanks to my asian eyelids and oily combination skin. But with this product surprisingly I don't have to. It just stays put, love it! I do wish it come in more shades though, currently there's only 5 shades available (mostly neutral colored), but this Elegant Taupe color is perfect for everyday and can be buildable to a darker shade.</p>
 
 <p><i class="icon-gift"></i><H4> Gift With Purchase</H4>:</p>
-<p>Since I'm a loyal customer of Sephora, my contributions to their store has earned me the VIB Rouge status (basically a member level if you spend at least $1000 annually) and with that comes perks. I got an email last weekend about a GWP from Fresh if you spend $25 or more and I just had to bite. It's Fresh - one of my favorite brands - plus it included the Sugar Lip Balms that's a staple in my beauty regime, that was an instant yes.</p>
+<p>Since I'm a loyal customer of Sephora, my contributions to their store has earned me the VIB Rouge status (basically a member level if you spend at least $1000 annually) and with that comes perks. I got an email last weekend about a GWP from Fresh if you spend $25 or more and I just had to bite. It's Fresh - one of my favorite brands - plus it included the Sugar Lip Treatments that's a staple in my beauty regime, that was an instant yes.</p>
 
 <p>The GWP deal was you get to choose 3 items from a list of Fresh deluxe samples, plus 3 extra samples that you get typically with every Sephora purchase. More freebies, more fun!</p>
 
 <p>So here's the free items I got from Sephora with my purchase:</p>
 <center><img src="/images/SephoraJune2015FreshGWP.jpg"></center>
 
-<p>Considering my current Tarte concealer stick was about almost done, this was a perfect time to restock plus I got extra items for free. What a great purchase!</p>
+<p>The 3 free Fresh Items I received were:</p>
+<ul>
+<li><a href="http://www.sephora.com/sugar-advanced-therapy-lip-treatment-P302103?skuId=1378215" target="_blank">Sugar Advanced Therapy Lip Treatment</a></li>
+<li><a href="http://www.sephora.com/sugar-lip-treatment-spf-15-P57002?skuId=1190529" target="_blank">Sugar Lip Treatment Sunscreen SPF 15 in Rose</a></li>
+<li><a href="http://www.sephora.com/black-tea-age-delay-eye-concentrate-P384778?keyword=fresh%20black%20tea%20eye&skuId=1585983&_requestid=116271" target="_blank">Black Tea Age-Delay Eye Concentrate</a></li>
+</ul>
+
+<p>Those 3 samples alone are worth $40! Total win!</p>
+
+<p>And for the usual 3 Free Samples that Sephora gives out with every purchase, I chose perfume samples and that Marc Jacobs Mod Noir was a great new discovery -floral, slightly sweet and extra bold.</p>
 
 <p><i class="icon-usd"></i> And to give this purchase an extra savings boost, I also purchased through Ebates which gave me 8% back in cash. I use Ebates for just about everything I can and have earned so much $$$ back! #truestory.</p>
 
