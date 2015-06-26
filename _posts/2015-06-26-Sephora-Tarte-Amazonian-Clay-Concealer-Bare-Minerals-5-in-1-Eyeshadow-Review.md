@@ -58,7 +58,7 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>For the usual 3 Free Samples that Sephora gives out with every purchase, I chose perfume samples and that Marc Jacobs Mod Noir was a great new discovery -floral, slightly sweet and extra bold.</p>
 
-<p><i class="icon-usd"></i> And to give this purchase an extra savings boost, I also purchased through Ebates which gave me 8% back in cash. I use Ebates for just about everything I can and have earned so much $$$ back! #truestory.</p>
+<p><i class="icon-usd"></i> And to give this purchase an extra savings boost, I also purchased through Ebates which gave me 8% back in cash. I use Ebates for just about everything I can and have earned so much $$$ back! #truestory</p>
 
 <p>If you haven't heard about Ebates, they're the leaders of online cash back shopping where they pay members cash back every time they shop online as well as provide them with the best coupons and deals online. All you have to do is click through the Sephora link on their website and that's it, you get a percentage of what you purchased back to you in cash. So easy.</p>
 
