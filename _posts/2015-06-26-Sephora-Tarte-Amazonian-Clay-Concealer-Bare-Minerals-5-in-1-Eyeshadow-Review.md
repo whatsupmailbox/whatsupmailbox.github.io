@@ -54,7 +54,7 @@ date: 2015-06-26 12:36:00 -08:00
 <li><a href="http://www.sephora.com/black-tea-age-delay-eye-concentrate-P384778?keyword=fresh%20black%20tea%20eye&skuId=1585983&_requestid=116271" target="_blank">Black Tea Age-Delay Eye Concentrate</a></li>
 </ul>
 
-<p>Those 3 samples alone are worth $40! Total win!</p>
+<p>Those samples alone are worth $40! Total win!</p>
 
 <p>For the usual 3 Free Samples that Sephora gives out with every purchase, I chose perfume samples and that Marc Jacobs Mod Noir was a great new discovery -floral, slightly sweet and extra bold.</p>
 
