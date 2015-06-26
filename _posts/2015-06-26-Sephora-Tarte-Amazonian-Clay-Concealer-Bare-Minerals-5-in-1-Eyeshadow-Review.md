@@ -47,7 +47,7 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>This GWP deal was only for VIB or VIB Rouge, and if you are, you get to choose 3 items from a list of Fresh deluxe samples. Plus you can also select 3 extra samples that you get automatically with every Sephora purchase. More freebies, more fun!</p>
 
-<p>So here's the free items I got from Sephora with my purchase:</p>
+<p>So here's the free items I got from <a href="http://www.sephora.com/" target="_blank">Sephora</a> with my purchase:</p>
 <center><img src="/images/SephoraJune2015FreshGWP.jpg"></center>
 
 <p>The 3 Fresh items I chose were:</p>
