@@ -13,7 +13,7 @@ categories:
   - Reviews
 type: photo
 imagefeature: "SephoraJune2015Haul.jpg"
-date: 2015-06-26 12:36:00 -08:00
+date: 2015-06-27 10:36:00 -08:00
 ---
 
 <center><H1>My Recent Sephora Purchase</H1></center>
