@@ -24,7 +24,7 @@ date: 2015-06-27 10:36:00 -08:00
 
 <H4>Here are the items I received this week:</H4>
 <DL>
-<DT><a href="http://www.sephora.com/smooth-operator-amazonian-clay-waterproof-concealer-P290629?skuId=1345248" target="_blank">Tarte Amazonian Clay Waterproof 12-Hour Concealer in Tan</a></DT>
+<DT><a href="http://www.sephora.com/smooth-operator-amazonian-clay-waterproof-concealer-P290629?skuId=1345248" target="_blank"><i>Tarte Amazonian Clay Waterproof 12-Hour Concealer in Tan</i></a></DT>
 <DD>SIZE 0.07 oz, $23</DD>
 </DL>
 
@@ -35,7 +35,7 @@ date: 2015-06-27 10:36:00 -08:00
 <p>I use this mainly to cover any imperfections or redness on my face and it works great with flawless results. The only area I wouldn't use this on is for the under eyes. I found that when I conceal my dark under eyes after a long night, the product tends to cake up and crease making it quite visible which is the opposite of what you want. So as long as you're using it to cover blemishes or redness, it's an amazing concealer.</p> 
 
 <DL>
-<DT><a href="http://www.sephora.com/bareminerals-5-in-1-bb-advanced-performance-cream-eyeshadow-P388020?skuId=1641182" target="_blank">bareMinerals 5 in 1 BB Advanced Performance Cream Eyeshadow in Elegant Taupe</a></DT>
+<DT><a href="http://www.sephora.com/bareminerals-5-in-1-bb-advanced-performance-cream-eyeshadow-P388020?skuId=1641182" target="_blank"><i>bareMinerals 5 in 1 BB Advanced Performance Cream Eyeshadow in Elegant Taupe</i></a></DT>
 <DD>SIZE 0.1 oz, $18</DD>
 </DL>
 
