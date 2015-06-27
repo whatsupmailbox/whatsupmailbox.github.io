@@ -42,7 +42,7 @@ date: 2015-06-27 10:36:00 -08:00
 <p>I got a sample of this a couple of months back and it just wowed me. The staying power was amazing and I like that it's an all-in-one product; a shadow, primer, brightener and spf 15 coverage all in one compact tube.</p> 
 <p>Typically I have to use eye primer whenever I want to use any type of eye makeup or else the colors will crease within a few hours, thanks to my asian eyelids and oily combination skin. But with this product surprisingly I don't have to. It just stays put! I do wish it came in more shades though, currently there's only 5 shades available (mostly neutral colored), but this Elegant Taupe color is perfect for everyday and can be buildable to a darker shade.</p>
 
-<p><i class="icon-gift"></i><H4> Gift With Purchase:</H4></p>
+<p><H4><i class="icon-gift"></i> Gift With Purchase:</H4></p>
 <p>Since I'm a loyal customer of <a href="http://www.sephora.com/" target="_blank">Sephora</a>, my contributions to their store has earned me the VIB Rouge status (basically a member level if you spend at least $1000 annually) and with that comes perks. I got an email last weekend about a GWP from Fresh if you spend $25 or more and I just had to bite. It's Fresh - one of my favorite brands - plus it included the Sugar Lip Treatments that's a staple in my beauty regime, that was an instant yes.</p>
 
 <p>This GWP deal was only for VIB or VIB Rouge, and if you are, you get to choose 3 items from a list of Fresh deluxe samples. Plus you can also select 3 extra samples that you get automatically with every Sephora purchase. More freebies, more fun!</p>
