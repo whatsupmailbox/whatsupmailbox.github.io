@@ -6,7 +6,7 @@ headline: "Tarte Amazonian Clay Concealer + bareMinerals 5-in-1 Cream Eyeshadow 
 tags: [Products, Reviews]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
   - Products
@@ -22,7 +22,7 @@ date: 2015-06-26 12:36:00 -08:00
 
 <p>I'm such a beauty whore and <a href="http://www.sephora.com/" target="_blank">Sephora</a> is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
 
-<p>I buy a lot of my beauty supplies at <a href="http://www.sephora.com/" target="_blank">Sephora</a>. Partly because of convenience but mostly due to their stellar return and customer service. If I ever have any issues and need a return or exchange, it gets taken care of without a lot of resistance or questioning like other stores would. They make you feel appreciated as a customer even if you're returning or exchanging an item. That's applaudable.</p>
+<p>I buy a lot of my beauty supplies at <a href="http://www.sephora.com/" target="_blank">Sephora</a>. Partly because of convenience but mostly due to their stellar return and customer service. If I ever have any issues and need a return or exchange, it gets taken care of without a lot of resistance or questioning like some other stores would. They make you feel appreciated as a customer even if you're returning or exchanging an item. That's applaudable.</p>
 
 <H4>Here are the items I received this week:</H4>
 <DL>
