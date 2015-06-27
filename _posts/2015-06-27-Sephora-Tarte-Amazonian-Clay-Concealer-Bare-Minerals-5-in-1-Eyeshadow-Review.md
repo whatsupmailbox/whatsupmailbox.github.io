@@ -16,8 +16,6 @@ imagefeature: "SephoraJune2015Haul.jpg"
 date: 2015-06-27 10:36:00 -08:00
 ---
 
-<center><H1>My Recent Sephora Purchase</H1></center>
-
 <center><img src="/images/SephoraJune2015Haul.jpg"></center>
 
 <p>I'm such a beauty whore and <a href="http://www.sephora.com/" target="_blank">Sephora</a> is my enabler, but hey, its a win-win situation for me! <i class="icon-smile"></i></p>
