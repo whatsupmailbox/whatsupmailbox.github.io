@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
 title: Fabletics July 2015 Sneak Peek + 50% Off!
@@ -11,7 +11,7 @@ imagefeature: FableticsJuly2015SneakPeek.jpg
 headline: Fabletics July 2015 Sneak Peek + 50% Off!
 description: ""
 tags: [Fabletics, Subscriptions, July 2015]
-date: 2015-06-27 20:17:39 -08:00
+date: 2015-06-27 18:15:39 -08:00
 ---
 
 <DT><a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> released two outfits that will be available in your July 2015 selection!</DT>
@@ -32,5 +32,5 @@ date: 2015-06-27 20:17:39 -08:00
 <p><b>Subscription:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Fabletics</a> </p>
 <p><b>Cost:</b> Outfits start at $49.95 / month with Free Shipping (taxes applicable to CA residents)</p>
 <p><b>What's in the box:</b> You'll receive a workout outfit (2 or 3-piece) that you can choose and customize monthly</p>
-<p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a sports outfit!</p>
+<p><b>Coupon:</b> <a href="http://www.fabletics.com/invite/whatsupmailbox/">Click this link</a> to get your first outfit at <b>50% off</b>, that's as low as $25 for a complete outfit!</p>
 <br>
