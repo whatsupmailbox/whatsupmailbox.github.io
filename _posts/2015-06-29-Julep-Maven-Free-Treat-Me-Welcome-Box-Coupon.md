@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Julep Maven New Treat Me Welcome Box Free!"
+title: "Julep Maven Treat Me Welcome Box Free!"
 description: ""
-headline: "Julep Maven $10 Coupon + Get The Poolside Beauty Box Free!"
+headline: "Julep Maven Treat Me Welcome Box Free!"
 categories: 
     - Subscriptions
     - Coupons
 tags: [Julep Maven, Coupons, Subscriptions]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "JulepMavenPoolsideBeautyBox.jpg"
+imagefeature: "JulepMavenTreatMeBox.jpg"
 date: 2015-06-29 12:34:39 -08:00
 ---
 
