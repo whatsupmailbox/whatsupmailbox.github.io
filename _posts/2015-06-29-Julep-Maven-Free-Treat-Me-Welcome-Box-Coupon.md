@@ -43,4 +43,4 @@ They also have a wildly popular Julep Maven subscription program, the first full
 <p><b>What's in the box:</b> An assortment of nail polish and other beauty products such as mascara, lipstick or skincare by Julep. 
 You can customize your monthly box during their Maven Reveal period (20th-24th of every month). 
 You can also send it to a friend instead or skip the month all through your online account.</p>
-<p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=274296&m=49325&u=1115177" target="_blank">Join Julep Maven</a> and use coupon code <a href="http://www.shareasale.com/u.cfm?d=274296&m=49325&u=1115177" target="_blank">SUMMER</a> to get the Poolside Beauty Box FREE ($78 value) - just pay $2.99 shipping!</p>
+<p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=274296&m=49325&u=1115177" target="_blank">Join Julep Maven</a> and use coupon code <a href="http://www.shareasale.com/u.cfm?d=274296&m=49325&u=1115177" target="_blank">TREATME</a> to get the Treat Me Welcome Box FREE ($50+ value) - just pay $2.99 shipping!</p>
