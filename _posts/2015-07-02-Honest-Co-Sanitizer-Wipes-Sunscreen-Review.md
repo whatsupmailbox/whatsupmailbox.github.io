@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Honest Company Product Review + Free Trial Box!"
+title: "Honest Company Product Review + Free Trial Box & Coupon!"
 description: ""
-headline: "Honest Company Product Review + Free Trial Box!"
+headline: "Honest Company Product Review + Free Trial Box & Coupon!"
 tags: [Honest Company, Products, Reviews]
 comments: true
 published: false
