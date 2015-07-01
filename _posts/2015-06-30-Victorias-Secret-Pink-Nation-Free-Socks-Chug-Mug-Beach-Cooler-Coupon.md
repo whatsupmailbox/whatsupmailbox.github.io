@@ -4,12 +4,12 @@ published: false
 categories: 
     - Products
     - Coupons
-title: Victoria's Secret Pink Nation - FREE Socks and Chug Mug!
+title: Victoria's Secret Pink Nation - FREE Socks, Chug Mug and Beach Cooler Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: PinkNationFreeSocksChugMug.png
-headline: Victoria's Secret Pink Nation - FREE Socks and Chug Mug!
+headline: Victoria's Secret Pink Nation - FREE Socks, Chug Mug and Beach Cooler Coupon!
 description: ""
 tags: [Victoria's Secret, Coupons]
 date: 2015-06-30 17:13:39 -08:00
