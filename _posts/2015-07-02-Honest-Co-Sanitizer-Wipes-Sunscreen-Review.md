@@ -29,7 +29,7 @@ date: 2015-07-02 12:01:39 -08:00
 
 ## My Items:
 
-<center><img src='/images/HonestJulu2015Purchase.jpg'></center>
+<center><img src='/images/HonestJuly2015Purchase.jpg'></center>
 
 <p>I wanted to try out their facial wipes (a new item they released last month) and hand sanitizer spray, so I thought I better buy some now before I go on vacation and take it with me to my tropical getaway. And sunscreen is always a must, so why not try their sunscreen stick.</p>
 
