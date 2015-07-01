@@ -6,7 +6,7 @@ headline: "Popsugar Must Have Regrammed My Picture, yay!"
 tags: [Popsugar Must Have, Subscriptions]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 category: Subscriptions
 type: photo
