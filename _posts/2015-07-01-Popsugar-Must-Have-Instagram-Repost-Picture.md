@@ -15,6 +15,8 @@ date: 2015-07-01 11:09:00 -08:00
 ---
 
 <H4>Popsugar reposted my Instagram picture of their June 2015 box, what an honor!</H4>
+<br>
+
 <CENTER><IMG SRC='/images/PopsugarJune2015WhatsupmailboxRegram.png'></CENTER>
 
 <p>Don't forget to follow me on <a href="https://instagram.com/whatsupmailbox/" target="_blank">Instagram</a>!</p>
