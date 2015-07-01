@@ -17,7 +17,7 @@ date: 2015-07-01 10:27:39 -08:00
 
 <p><small>Reminder: You have until Jul 5 at 11 pm to opt-out or edit your selection</small></p>
 
-<DT>VIBES:</DT>
+<H2>VIBES:</H2>
 <center><img src='/images/BespokePostVibes.png'></center>
 
 1. <a href="http://lstnsound.co/products/cherry-on-ear" target="_blank">LSTN</a> - Fillmore Headphones
@@ -26,8 +26,8 @@ date: 2015-07-01 10:27:39 -08:00
 *This has a customization item where you can choose the color of your headphones. Unfortunately as of current the only non sold-out color is Zebra, the color shown in the picture above.
 
 <br>
+<H2>CHEERS:</H2>
 <center><img src='/images/BespokePostCheers.png'></center>
-<DT>CHEERS:</DT>
 
 1. <a href="https://www.bespokepost.com/store/brands/rastal" target="_blank>Rastal</a> - Teku Beer Glasses, 14.2oz / 42.5cl
 2. <a href="https://www.graf-lantz.com/" target="_blank">Graf and Lantz</a> - Ash Brown Felt Coasters, Set of 4
@@ -37,16 +37,16 @@ date: 2015-07-01 10:27:39 -08:00
 6. <a href="http://www.finbackbrewery.com/" target="_blank">Finback Brewery</a> - Shard Tool
 
 <br>
+<H2>BASK:</H2>
 <center><img src='/images/BespokePostBask.png'></center>
-<DT>BASK:</DT>
 
 1. <a href="http://www.go-throw.com/collections/gothrow" target="_blank">Go Throw</a> - Oversized Linen Blanket, 6.5' x 4.5'
 2. <a href="http://www.neutrogena.com/" target="_blank">Neutrogena</a> - CoolDry Sport Sunscreen Lotion Broad Spectrum SPF 30
 3. <a href="http://www.theory11.com/" target="_blank">Theory11</a> - Playing Cards
 
 <br>
+<H2>CARRY:</H2>
 <center><img src='/images/BespokePostCarry.png'></center>
-<DT>CARRY:</DT>
 
 1. <a href="https://www.bespokepost.com/store/brands/line-of-trade" target="_blank">Line of Trade</a> - Slim Leather Wallet
 2. <a href="http://fisherspacepen.com/" target="_blank">Fisher</a> - Raw Brass Bullet Space Pen
