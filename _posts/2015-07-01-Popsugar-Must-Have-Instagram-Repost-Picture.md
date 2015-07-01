@@ -10,12 +10,12 @@ published: false
 featured: false
 category: Subscriptions
 type: photo
-imagefeature: "PopsugarJuly2015Spoiler.png"
+imagefeature: "PopsugarJune2015WhatsupmailboxRegram.png"
 date: 2015-07-01 11:09:00 -08:00
 ---
 
 <H4>Popsugar reposted my Instagram picture of their June 2015 box, what an honor!</H4>
-<CENTER><IMG SRC='/images/PopsugarJune2015BoxRegram.png'></CENTER>
+<CENTER><IMG SRC='/images/PopsugarJune2015WhatsupmailboxRegram.png'></CENTER>
 
 <p>Don't forget to follow me on <a href="https://instagram.com/whatsupmailbox/" target="_blank">Instagram</a>!</p>
 <br>
