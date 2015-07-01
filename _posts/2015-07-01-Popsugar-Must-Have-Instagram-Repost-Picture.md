@@ -20,7 +20,7 @@ date: 2015-07-01 11:09:00 -08:00
 <p>Don't forget to follow me on <a href="https://instagram.com/whatsupmailbox/" target="_blank">Instagram</a>!</p>
 <br>
 
-<H4>What is Popsugar Must Have?</a>
+<H4>What is Popsugar Must Have?</H4>
 <p><b>The Box:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
