@@ -60,7 +60,7 @@ date: 2015-07-02 12:01:39 -08:00
 
 <H2>What's Honest Co. Bundles?</H2>
 <p><b>Subscription:</b> <a href="http://click.linksynergy.com/link?id=E8Cf336JUvc&offerid=281968.12&type=2&murl=https%3A%2F%2Fwww.honest.com%2Fbath-and-body%2Ffamily-essentials-bundle%3Fsid%3D10025%26cid%3D%7Bifnotmobile%3Agoogle%7D%7Bifmobile%3Agoogle_mobile%7D%26mid%3Dsearch%26aid%3DPLA%3A%7Bproduct_partition_id%7D%3A%7Bproduct_id%7D%3Apla%26pid%3D%7Badtype%7D&LSNSUBSITE=adgid">Honest Company Essentials Bundles</a></p>
-<p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
+<p><b>Cost:</b> $35.95/monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
 <p><b>Deal:</b> Get a <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
 <p><b>Coupon:</b><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.141&type=3&subid=0&LSNSUBSITE=adgid" > $10 off a minimum purchase of $25 with promo code <b>AMBASSADOR10</b> at checkout</a> (first time customers only)</p>
