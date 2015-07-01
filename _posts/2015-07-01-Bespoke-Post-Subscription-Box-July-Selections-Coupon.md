@@ -15,7 +15,7 @@ date: 2015-07-01 10:27:39 -08:00
 
 <h4>The July 2015 <a href="http://bespoke.evyy.net/c/164125/70438/1804">Bespoke Post</a> Selections are available starting today!</h4>
 
-<p><small>Reminder: You have until Jul 5 at 11 pm to edit your selection</small></p>
+<p><small>Reminder: You have until Jul 5 at 11 pm to opt-out or edit your selection</small></p>
 
 <center><img src='/images/BespokePostVibes.png'></center>
 <DT>VIBES:</DT>
