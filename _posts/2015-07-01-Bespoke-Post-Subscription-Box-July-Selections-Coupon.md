@@ -17,8 +17,8 @@ date: 2015-07-01 10:27:39 -08:00
 
 <p><small>Reminder: You have until Jul 5 at 11 pm to opt-out or edit your selection</small></p>
 
-<center><img src='/images/BespokePostVibes.png'></center>
 <DT>VIBES:</DT>
+<center><img src='/images/BespokePostVibes.png'></center>
 
 1. <a href="http://lstnsound.co/products/cherry-on-ear" target="_blank">LSTN</a> - Fillmore Headphones
 2. <a href="http://www.anticafarmacista.com/diffuser-manhattan" target="_blank">Antica Farmacista</a> - Manhattan-scented Reed Diffuser
