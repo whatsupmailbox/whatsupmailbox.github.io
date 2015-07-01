@@ -5,14 +5,14 @@ description: ""
 headline: "Honest Company Product Review + Free Trial Box & Coupon!"
 tags: [Honest Company, Products, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
   - Reviews
 type: photo
 imagefeature: "HonestJuly2015Purchase.jpg"
-date: 2015-07-02 12:01:39 -08:00
+date: 2015-07-01 16:01:39 -08:00
 ---
 <i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
