@@ -15,7 +15,7 @@ tags: [Victoria's Secret, Coupons]
 date: 2015-06-30 17:13:39 -08:00
 ---
 
-<DT><a href="https://www.victoriassecret.com/pink">Victoria's Secret Pink Nation</a> is having 2 exclusive FREEBIES starting today!</DT>
+<DT><a href="https://www.victoriassecret.com/pink">Victoria's Secret - Pink Nation</a> is having 2 exclusive FREEBIES starting today!</DT>
 
 <center><img src='/images/PinkNationFreeSocksChugMug.png'></center>
 
