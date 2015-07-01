@@ -63,5 +63,5 @@ date: 2015-07-02 12:01:39 -08:00
 <p><b>Cost:</b> $35.95 monthly. You can fully control the delivery date to whichever date you want and cancel anytime. Shipping is Free with purchases over $50.</p>
 <p><b>What's in the box:</b> You can choose any 5 items from their line of personal care & home cleaning essentials. Additionally, you can add 3 extra products to your bundle at a 25% discounted price.</p>
 <p><b>Deal:</b> Get a <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">FREE Essentials Discover Set</a> filled with 5 travel-sized essential family items made with non-toxic, natural, and safe ingredients, valued at $13.95!</p>
-<p><b>Coupon:</b><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.141&type=3&subid=0&LSNSUBSITE=adgid" > $10 off a minimum purchase of $25 with promo code <b>AMBASSADOR10</b> at checkout (first time customers only, may only be used once per new user)</a></p>
+<p><b>Coupon:</b><a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.141&type=3&subid=0&LSNSUBSITE=adgid" > $10 off a minimum purchase of $25 with promo code <b>AMBASSADOR10</b> at checkout</a> (first time customers only, may only be used once per new user)</p>
 <br>
