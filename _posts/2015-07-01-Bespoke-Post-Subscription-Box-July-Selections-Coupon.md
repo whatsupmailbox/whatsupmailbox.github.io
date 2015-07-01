@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
 title: Bespoke Post July 2015 Selections + 25% off Coupon!
@@ -52,7 +52,7 @@ date: 2015-07-01 10:27:39 -08:00
 2. <a href="http://fisherspacepen.com/" target="_blank">Fisher</a> - Raw Brass Bullet Space Pen
 3. <a href="http://www.gerbergear.com/" target="_blank">Gerber</a> - Shard Tool
 
-*The wallet can be customized and you can choose your colors - Mapple, Brown or Sage.
+*The wallet can be customized by choosing the color - Mapple, Brown or Sage.
 
 <br>
 <p><b>Subscription:</b> <a href="http://bespoke.evyy.net/c/164125/70438/1804">Bespoke Post</a></p>
