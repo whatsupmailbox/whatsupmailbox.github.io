@@ -16,7 +16,7 @@ date: 2015-07-02 12:01:39 -08:00
 ---
 <i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
-<p>This review is for products purchased from Honest Co. and not their Essentials Bundle Subscription. You can read the <a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank">review of my June 2015 Essentials Bundle Box</a> to see what I received last month.</p>
+<p>I was in need of some products for my upcoming vacation so I made an offset emergency purchase. This review is for products purchased from Honest Co. and not their Essentials Bundle Subscription. You can read the <a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank">review of my June 2015 Essentials Bundle Box</a> to see what I received last month.</p>
 <br>
 
 <center><img src='/images/HonestJuly2015PurchaseBox.jpg'></center>
