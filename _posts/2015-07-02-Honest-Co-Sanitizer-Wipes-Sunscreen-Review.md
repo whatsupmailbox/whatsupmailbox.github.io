@@ -16,7 +16,8 @@ date: 2015-07-02 12:01:39 -08:00
 ---
 <i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
-<p>I was in need of some products for my upcoming vacation so I made an offset emergency purchase. This review is for products purchased from Honest Co. and not their Essentials Bundle Subscription. You can read the <a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank">review of my June 2015 Essentials Bundle Box</a> to see what I received last month.</p>
+<p>I was in need of some products for my upcoming vacation so I made an offset emergency purchase. My bundle box is coming later this month but these are low priced items that I didn't want to use as part of the items in the bundle. You can read about what bundles are at the end of this post.</p>
+<p>This review is for products purchased from Honest Co. and not their Essentials Bundle Subscription. You can read the <a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank">review of my June 2015 Essentials Bundle Box</a> to see what I received last month.</p>
 <br>
 
 <center><img src='/images/HonestJuly2015PurchaseBox.jpg'></center>
@@ -31,7 +32,7 @@ date: 2015-07-02 12:01:39 -08:00
 
 <center><img src='/images/HonestJuly2015Purchase.jpg'></center>
 
-<p>I wanted to try out their facial wipes (a new item they released last month) and hand sanitizer spray, so I thought I better buy some now before I go on vacation and take it with me to my tropical getaway. And sunscreen is always a must, so why not try their sunscreen stick.</p>
+<p>I wanted to try out their facial wipes (a new item they released last month) and hand sanitizer spray, so I thought I better buy some now before I go on vacation and take it with me to my tropical getaway. And sunscreen is always a must, so might as well add the sunscreen stick. Good thing I didn't have time to browse some more or else I might have convinced myself in adding more must have items, lol.</p>
 
 
 <DL>
