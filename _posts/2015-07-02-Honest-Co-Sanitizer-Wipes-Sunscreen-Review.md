@@ -16,7 +16,7 @@ date: 2015-07-02 12:01:39 -08:00
 ---
 <i><font size="2">Disclosure: This post contains affiliate links</font></i>
 
-<p>I was in need of some products for my upcoming vacation so I made an offset emergency purchase. My bundle box is coming later this month but since these items are low priced, I didn't want to use them as part of the bundle -yes, I think in price versus value whenever I can, it's in my genes. You can read about what bundles are and how much they cost at the end of this post.</p>
+<p>I was in need of some products for my upcoming vacation so I made an offset emergency purchase. My bundle box is coming later this month but since these items are low priced, I didn't want to use them as part of the bundle -yes, I think in price versus value whenever I can, it's in my genes! You can read about what bundles are and how much they cost at the end of this post.</p>
 <p>This review is for products purchased from <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" >The Honest Company</a> and not their Essentials Bundle Subscription. You can read the <a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank">review of my June 2015 Essentials Bundle Box</a> to see what I received last month.</p>
 <br>
 
