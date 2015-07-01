@@ -29,7 +29,7 @@ date: 2015-07-01 10:27:39 -08:00
 <H2>CHEERS:</H2>
 <center><img src='/images/BespokePostCheers.png'></center>
 
-1. <a href="https://www.bespokepost.com/store/brands/rastal" target="_blank>Rastal</a> - Teku Beer Glasses, 14.2oz / 42.5cl
+1. <a href="https://www.bespokepost.com/store/brands/rastal" target="_blank">Rastal</a> - Teku Beer Glasses, 14.2oz / 42.5cl
 2. <a href="https://www.graf-lantz.com/" target="_blank">Graf and Lantz</a> - Ash Brown Felt Coasters, Set of 4
 3. <a href="http://westmark.de/" target="_blank">Hermetus by Westmark</a> - Bottle Opener & Re-sealer
 4. <a href="http://www.gildednut.com/" target="_blank">The Gilded Nut Snack Co.</a> - Original Blend Pistachios, 2.25oz
