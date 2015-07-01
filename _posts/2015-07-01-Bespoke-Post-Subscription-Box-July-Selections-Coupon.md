@@ -17,7 +17,7 @@ date: 2015-07-01 10:27:39 -08:00
 
 <p><small>Reminder: You have until Jul 5 at 11 pm to edit your selection</small></p>
 
-<center><img src='/images/BespokePostVibes.jpg'></center>
+<center><img src='/images/BespokePostVibes.png'></center>
 <DT>VIBES:</DT>
 
 1. <a href="http://lstnsound.co/products/cherry-on-ear" target="_blank">LSTN</a> - Fillmore Headphones
@@ -26,7 +26,7 @@ date: 2015-07-01 10:27:39 -08:00
 *This has a customization item where you can choose the color of your headphones. Unfortunately as of current the only non sold-out color is Zebra, the color shown in the picture above.
 
 <br>
-<center><img src='/images/BespokePostCheers.jpg'></center>
+<center><img src='/images/BespokePostCheers.png'></center>
 <DT>CHEERS:</DT>
 
 1. <a href="https://www.bespokepost.com/store/brands/rastal" target="_blank>Rastal</a> - Teku Beer Glasses, 14.2oz / 42.5cl
@@ -37,7 +37,7 @@ date: 2015-07-01 10:27:39 -08:00
 6. <a href="http://www.finbackbrewery.com/" target="_blank">Finback Brewery</a> - Shard Tool
 
 <br>
-<center><img src='/images/BespokePostBask.jpg'></center>
+<center><img src='/images/BespokePostBask.png'></center>
 <DT>BASK:</DT>
 
 1. <a href="http://www.go-throw.com/collections/gothrow" target="_blank">Go Throw</a> - Oversized Linen Blanket, 6.5' x 4.5'
@@ -45,7 +45,7 @@ date: 2015-07-01 10:27:39 -08:00
 3. <a href="http://www.theory11.com/" target="_blank">Theory11</a> - Playing Cards
 
 <br>
-<center><img src='/images/BespokePostCarry.jpg'></center>
+<center><img src='/images/BespokePostCarry.png'></center>
 <DT>CARRY:</DT>
 
 1. <a href="https://www.bespokepost.com/store/brands/line-of-trade" target="_blank">Line of Trade</a> - Slim Leather Wallet
