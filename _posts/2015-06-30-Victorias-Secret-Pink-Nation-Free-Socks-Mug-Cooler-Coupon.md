@@ -40,6 +40,8 @@ date: 2015-06-30 17:13:39 -08:00
 * Clearance (items with prices ending in $.99), gift cards, gift wrap & kits, store and previous purchases do not qualify toward offer eligibility.
 <br>
 
-<H2><i class="icon-exclamation-sign"></i> You can get both FREEBIES with a single purchase, just make sure you have at least $65 in your purchase/cart, include a swim item and a PINK item and the coupon codes should work. I got both FREE items today by purchasing in-store so I can vouch for it!</H2>
+<H2><i class="icon-exclamation-sign"></i> You can get both FREEBIES with a single purchase!</H2> 
+
+<big>Just make sure you have at least $65 in your purchase/cart, include a swim item and a PINK item and the coupon codes should work. I got both FREE items today by purchasing in-store so I can vouch for it!</big>
 
 <big>Don't you just love getting FREE stuff? I do!!!</big>
