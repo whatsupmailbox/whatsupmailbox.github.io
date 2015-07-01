@@ -49,7 +49,7 @@ date: 2015-07-02 12:01:39 -08:00
 <p>I like sunscreen sticks to cover targeted areas that may require more protection such as scars, face or certain areas that may be sensitive to the sun. I use it on my face that have sun damage and because I'm correcting it with peels and laser, I need the extra sun protection in those areas. This stick does what it's supposed to do and in a healthy way, that's always important.</p>
 
 <DL>
-<DT><a href="https://www.honest.com/bath-and-body/facial-towelettes" target="_blank">3-in-1 facial towelettes</DT>
+<DT><a href="https://www.honest.com/bath-and-body/facial-towelettes" target="_blank">3-in-1 facial towelettes</a></DT>
 <DD>30 pre-moistened towelettes 7.6” x 7”, $6.95</DD>
 </DL>
 <p>Ultra-soft wipes effectively remove dirt, oil and all traces of makeup.</p>
