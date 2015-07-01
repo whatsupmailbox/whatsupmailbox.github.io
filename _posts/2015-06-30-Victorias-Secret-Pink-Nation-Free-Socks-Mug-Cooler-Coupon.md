@@ -15,17 +15,17 @@ tags: [Victoria's Secret, Coupons]
 date: 2015-06-30 17:13:39 -08:00
 ---
 
-<DT><a href="https://www.victoriassecret.com/pink">Victoria's Secret - Pink Nation</a> is having 2 exclusive FREEBIES starting today!</DT>
+<DT><a href="https://www.victoriassecret.com/pink" target="_blank">Victoria's Secret - Pink Nation</a> is having 2 exclusive FREEBIES starting today!</DT>
 <br>
 
 <center><img src='/images/PinkNationFreeSocksChugMug.png'></center>
 
-<p>You have to be a member of Pink Nation (it's free and easy to sign up) to take advantage of this offer, then you can download and print the coupon through their app, or you can just head on to their stores and sign up in person.</p>
+<p>You have to be a member of Pink Nation (it's free and easy to sign up) to take advantage of this offer. If you're not a member yet, you can <a href="https://pink.victoriassecret.com/uam/pages/createUserProfile?cm_re=130129-_-global_login-_-join_pink_nation&sourcePage=http%3A%2F%2Fpink.victoriassecret.com%2F" target="_blank">sign up here</a>. Then just download the Pink Nation app (iPhone & Android only) and print or show the coupon. Or to make it easier, you can just head on to their stores and sign up in person.</p>
 <p>The Chug Mug retails for $12.95 and is actually pretty big and durable. It also keeps drinks hot and cold and is dishwasher safe. The socks are cute as well and both are perfect for 4th of July!</p>
 
 <H4>Another Freebie!</H4>
 
-<p><a href="https://www.victoriassecret.com/">Victoria's Secret</a> is also having a promo where you'll get a FREE Beach Cooler with a $65 purchase!</p>
+<p><a href="https://www.victoriassecret.com/" target="_blank">Victoria's Secret</a> is also having a promo where you'll get a FREE Beach Cooler with a $65 purchase!</p>
 
 <center><img src='/images/VictoriasSecretFreeBeachCooler.png'></center>
 
