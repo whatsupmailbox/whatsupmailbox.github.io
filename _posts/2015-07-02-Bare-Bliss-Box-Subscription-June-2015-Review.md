@@ -31,7 +31,6 @@ date: 2015-07-02 12:10:39 -08:00
 
 <H4>And here are the items:</H4>
 <p><center><img src='/images/BareBlissBoxJune2015OpenBox.jpg'></center></p>
-<p><center><img src='/images/BareBlissBoxJune2015Items.jpg'></center></p>
 
 <H4>Products in detail:</H4>
 
