@@ -14,7 +14,6 @@ tags: [Birchbox, Subscriptions, Coupons]
 date: 2015-07-02 08:30:39 -08:00
 ---
 
-<H2>Birchbox is having a sale of their 4th of July picks, get 20% off or 30% off for Aces!</H2>
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJuly2015Sale.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA on sale at RueLaLa!" />
 </a></center>
