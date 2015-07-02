@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -62,7 +62,7 @@ date: 2015-07-02 12:10:39 -08:00
 <DL>
 <DT><a href="http://www.bohemianjewellerytats.com" target="_blank">Bohemian Jewellery Tattoos</a></DT>
 <DD>1 sheet, $6.50</DD>
-<p>I hope the trend of temporary tattoos in subscription boxes is not coming back because I have a bunch already from the past and I haven't even used them yet. I'm quite disappointed that they included this item when the it's supposed to be a natural and organic box, not sure how this fits in.</p>
+<p>I hope the trend of temporary tattoos in subscription boxes is not coming back because I have a bunch already from the past and I haven't even used them yet. I'm quite disappointed that they included this item when it's supposed to be a natural and organic box, not sure how this fits in.</p>
 </DL>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> To be honest, I'm quite disappointed in this box, I think its the least favorite one I've received from them and I'm glad that my 6-month subscription has ended. I don't think the value is there for me and lately neither have the products. Although I like the theme of their subscription, natural and organic products, I think they need to step up their game in the variety and value area in order to get me to subscribe again.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> To be honest, I'm quite disappointed in this box, I think its the least favorite one I've received from them and I'm glad that my 6-month subscription has ended. I don't think the value is there for me and lately neither have the products. Although I like the theme of their subscription - natural and organic products - I think they need to step up their game in the variety and value area in order to get me to subscribe again.</p>
