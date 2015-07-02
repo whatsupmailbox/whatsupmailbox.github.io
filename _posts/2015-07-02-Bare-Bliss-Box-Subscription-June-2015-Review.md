@@ -21,7 +21,12 @@ date: 2015-07-02 12:10:39 -08:00
 <br>
 
 <center><img src='/images/BareBlissBoxJune2015OpenBox2.jpg'></center>
-<p>Their boxes are 100% recycled and always comes with an informational card.</p>
+<p>Their boxes are 100% recycled and shipped USPS First Class Mail.</p>
+<br>
+
+<center><img src='/images/BareBlissBoxJune2015Info.jpg'></center>
+<p>The info card detailing items inside and prices.</p> 
+<p>For some reason the info card is a bit blurry and hard to read. The font is quite small, but I think it may either be the printing or the image source not being good enough. Just something I noticed as I'm squinting my eyes to read it.</p>
 <br>
 
 <H4>And here are the items:</H4>
@@ -32,42 +37,33 @@ date: 2015-07-02 12:10:39 -08:00
 
 <p><center><img src='/images/BareBlissBoxJune2015Nailpolish.jpg'></center></p>
 <DL>
-<DT><a href="http://www.biorepublic.com/products/cucumber-sheet-mask">Bio Republic - Cucumber Breeze Soothing Sheet Mask</a></DT>
-<DD>1 mask, $4.99</DD>
-<blockquote>
-** An ultra-soothing facial mask infused with natural cucumber extract, plant collagen, and vitamin e:
-
-1. Soothes stressed skin and improves complexion.
-2. Tightens pores and reduces appearance of fine lines.
-3. For calm, rejuvenated, spring-fresh skin.
-</blockquote>
-<p>I like how this mask is biodegradable, made without Parabens, Sulfates, Pthalates, and Triclosan, and no animal testing.</p>
+<DT><a href="http://lillianeve.com/product-category/nail-polish/">Lillian Eve - Nail Polish in Bliss</a></DT>
+<DD>Full Size 15ml/.5 fl.oz., $12</DD>
+<p>I'm not sure why but the color Bliss on their website is completely off to what I received. The one I have is a light pastel pink color, while the Bliss color in their shop is purple. So strange. Are my eyes getting old?</p>
+<p>Lillian Eve is a 5-free vegan & toxin-free nail polish that's made in the USA. This nail polish goes on opaque with a glossy finish. It does easily chip though so I would recommend a top coat.</p> 
 </DL>
 
 <p><center><img src='/images/BareBlissBoxJune2015Cleanser.jpg'></center></p>
 <DL>
-<DT><a href="http://www.ellovi.com">Ellovi</a> - Tinted Lip Butter</DT>
-<DD>Full Size .15 oz, $5</DD>
-<p>I always love getting lip products in my subscriptions so I was happy to see this and tried it on immediately. You can definitely smell the shea butter which I love, and it was instantly moisturizing and gave a very pretty soft hint of red to your lips.</p>
-<p>The color is made by infusing a Mediterranean flower called Alkanet and it's also a "lead-free color so pure that you can eat it"!</p>
-<p>The oval shape is also convenient for your pocket and applies better versus a round shape (at least for me). I'm finding more and more lip products come in this oval shape now. I love this so much that I will be getting their original version as well!</p>
+<DT><a href="https://www.etsy.com/listing/195365608/cleansing-grains-detox-skin-clearing?ref=shop_home_active_1">Urban Organics - Cleansing Grains</DT>
+<DD>Small Jar 2 oz, $5.50</DD>
+<p>I've never tried cleansers that are in grain form before, but after researching a little about it, it seems like it can be healthier and safer.</p>
+<p><blockquote>When liquid is introduced to skin care products, they can easily grow mold and bacteria. Therefore, commercial products contain a wide spectrum of preservatives to give them a longer shelf life. By giving you these ingredients in the dry form, it allows for you to have a completely natural cleanser, perfect for oily and acne-prone skin.</blockquote></p>
+<p>The way to use this is by taking a small amount of the cleanser grains then add a few drops of water (or liquid of your choice) and massage onto wet skin. Instead of water, you can even use coconut water or olive oil, I just might try that!</p>
 </DL>
 
 <p><center><img src='/images/BareBlissBoxJune2015Argan.jpg'></center></p>
 <DL>
-<DT><a href="http://www.goddessgarden.com">Goddess Garden Organics</a> - Sunny Body Natural Sunscreen</DT>
-<DD>Travel Size 1 oz./29.6 ml, $4.40</DD>
-<blockquote>Made with plant-based ingredients and natural minerals. With its sheer, non-greasy application, this certified organic, reef safe, and biodegradable sunscreen is good for you and the world around you.</blockquote>
-<p>I've seen this brand in Whole Foods and was also recommended to use it by my aesthetician due to it's natural and safe ingredients. I'm happy that I will finally be trying this and just in time for summer too!</p>
-<p>Side note, from their website I see that they've changed their whole product packaging and it's completely different than the one I have. So I immediately checked to see if this was coming from an old stock, and based on the stated expiration date it's good till January 2017.</p>
+<DT><a href="http://www.organicaah.com/cart/index.php?route=product/product&product_id=50">Organic Aah - Argan Oil</a></DT>
+<DD>Sample Size .3 oz?, Value $4?</DD>
+<p>I estimated the size and value due to lack of information. Although beneficial, I'm not that big into Argan oil. I'll use it on my hair, but that's about it. The bottle has no branding on it, probably because it's sample sized, but I would have appreciated some type of label on the actual bottle so I don't get confused as to what's inside when it gets lost in my skincare stash.</p>
 </DL>
 
 <p><center><img src='/images/BareBlissBoxJune2015Tattoo.jpg'></center></p>
 <DL>
-<DT><a href="https://www.alaffia.com/store/pc/Neem-Shea-Butter-Skin-Recovery-Face-Cream-10p121.htm">Alaffia - Neem & Shea Butter Skin Recovery Face Cream</a></DT>
-<DD>2 sample packets, $1 each?</DD>
-<p>I'm always disappointed when I see foil packets in a subscription box, especially when it's counted as one of the items and not a bonus item. At least they included 2 packets, so I can try it more than once to see the benefits of it.</p>
-<p>I do like that it's for problem or acne prone skin, and since I have oily/combination skin, this is right up my alley. This cream is recommended to be used when your skin is in need of intensive moisturizing treatment. Neem leaf extracts and kpangnan butter are ingredients in this product and will add toning and antioxidant properties to restore your skin's natural luminosity.</p>
+<DT><a href="http://www.bohemianjewellerytats.com" target="_blank">Bohemian Jewellery Tattoos</a></DT>
+<DD>1 sheet, $6.50</DD>
+<p>I hope the trend of temporary tattoos in subscription boxes is not coming back because I have a bunch already from the past and I haven't even used them yet. I'm quite disappointed that they included this item when the it's supposed to be a natural and organic box, not sure how this fits in.</p>
 </DL>
 
 <p><b>VERDICT:</b> I can't say if I loved this box or not, it did have some great products, I guess I'm just still disappointed in the foil packet items. The total value came up to $18.38 which is slightly below the cost of the subscription. I've had better boxes from them before and lately their curation hasn't been very great. I purchased a 6-month subscription and still have 2 months left, but I might cancel after if it continues to be below cost. Hopefully their June box will be better.</p>
