@@ -15,7 +15,7 @@ date: 2015-07-02 08:30:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJuly2015Sale.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA on sale at RueLaLa!" />
+<img src="/images/BirchboxJuly2015Sale.png" border="0" style="border:none;max-width:100%;" alt="Birchbox 4th of July Sale!" />
 </a></center>
 
 <p>Take 20% off their 4th of July picks with coupon code <b>STARSNSTRIPES</b> at checkout through July 6, 2015.</p>
