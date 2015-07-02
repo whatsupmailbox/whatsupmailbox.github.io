@@ -69,4 +69,39 @@ date: 2015-07-02 12:10:39 -08:00
 <p>I hope the trend of temporary tattoos in subscription boxes is not coming back because I have a bunch already from the past and I haven't even used them yet. I'm quite disappointed that they included this item when it's supposed to be a natural and organic box, not sure how this fits in.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> To be honest, I'm quite disappointed in this box, I think its the least favorite one I've received from them and I'm glad that my 6-month subscription has ended. I don't think the value is there for me and lately neither have the products. Although I like the theme of their subscription - natural and organic products - I think they need to step up their game in the variety and value area in order to get me to subscribe again.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> To be honest, I'm quite disappointed in this box, I think its the least favorite one I've received from them and I'm glad that my 6-month subscription has ended. The total value added up to $28 but I think the value of the tattoo is less for me personally plus the argan oil was an estimate so it might be off. I don't think the value is there for me and lately neither have the products. Although I like the theme of their subscription - natural and organic products - I think they need to step up their game in the variety and value area in order to get me to subscribe again.</p>
+<br>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>ITEMS IN THE BOX</center></H3>
+      </TH>
+   </TR>
+      <TH>Name</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Lillian Eve - Nail Polish</TD>
+      <TD>$12</TD>
+   </TR>
+   <TR>
+      <TD>Urban Organics - Cleansing Grains</TD>
+      <TD>$5.5</TD>
+   </TR>
+   <TR>
+      <TD>Organic Aah - Argan Oil</TD>
+      <TD>$4?</TD>
+   </TR>
+   <TR>
+      <TD>Bohemian Jewellery Tattooss</TD>
+      <TD>$6.5</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$28</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$19.99</big></i></TD>
+   </TR>
+</TABLE>
