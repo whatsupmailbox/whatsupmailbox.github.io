@@ -45,7 +45,7 @@ date: 2015-07-02 12:10:39 -08:00
 
 <p><center><img src='/images/BareBlissBoxJune2015Cleanser.jpg'></center></p>
 <DL>
-<DT><a href="https://www.etsy.com/listing/195365608/cleansing-grains-detox-skin-clearing?ref=shop_home_active_1">Urban Organics - Cleansing Grains</DT>
+<DT><a href="https://www.etsy.com/listing/195365608/cleansing-grains-detox-skin-clearing?ref=shop_home_active_1">Urban Organics - Cleansing Grains</a></DT>
 <DD>Small Jar 2 oz, $5.50</DD>
 <p>I've never tried cleansers that are in grain form before, but after researching a little about it, it seems like it can be healthier and safer.</p>
 <p><blockquote>When liquid is introduced to skin care products, they can easily grow mold and bacteria. Therefore, commercial products contain a wide spectrum of preservatives to give them a longer shelf life. By giving you these ingredients in the dry form, it allows for you to have a completely natural cleanser, perfect for oily and acne-prone skin.</blockquote></p>
@@ -66,4 +66,4 @@ date: 2015-07-02 12:10:39 -08:00
 <p>I hope the trend of temporary tattoos in subscription boxes is not coming back because I have a bunch already from the past and I haven't even used them yet. I'm quite disappointed that they included this item when the it's supposed to be a natural and organic box, not sure how this fits in.</p>
 </DL>
 
-<p><b>VERDICT:</b> I can't say if I loved this box or not, it did have some great products, I guess I'm just still disappointed in the foil packet items. The total value came up to $18.38 which is slightly below the cost of the subscription. I've had better boxes from them before and lately their curation hasn't been very great. I purchased a 6-month subscription and still have 2 months left, but I might cancel after if it continues to be below cost. Hopefully their June box will be better.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> To be honest, I'm quite disappointed in this box, I think its the least favorite one I've received from them and I'm glad that my 6-month subscription has ended. I don't think the value is there for me and lately neither have the products. Although I like the theme of their subscription, natural and organic products, I think they need to step up their game in the variety and value area in order to get me to subscribe again.</p>
