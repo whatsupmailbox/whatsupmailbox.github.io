@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Rifle Paper Co. 4th of July Sale - 15% Sitewide!"
+title: "Rifle Paper Co. 4th of July Sale - 15% Off Sitewide!"
 description: ""
-headline: "Rifle Paper Co. 4th of July Sale - 15% Sitewide!"
+headline: "Rifle Paper Co. 4th of July Sale - 15% Off Sitewide!"
 tags: [Rifle Paper Co., Products]
 comments: true
 mathjax: null
