@@ -17,7 +17,7 @@ date: 2015-07-03 08:36:00 -08:00
 ---
 
 <center><img src="/images/RosarioDawsonSpring2015Box.jpg"></center>
-<p><b>The Subscription:</b> <a href="https://quarterly.co" target="_blank">Rosario Dawson Quarterly Co.</a></p>
+<p><b>The Subscription:</b> <a href="https://quarterly.co/?sid=whatsupmailbox" target="_blank">Rosario Dawson Quarterly Co.</a></p>
 <p><b>The Cost:</b> $50/quarterly + $8 Shipping & Handling fee (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every 3 months, Rosario will send you beautiful, creative works that are meant to inspire.</p>
 
@@ -137,6 +137,8 @@ date: 2015-07-03 08:36:00 -08:00
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was amazing, especially for the price I paid! From the brands, quality and variation of products, I think the curation was a job well done! Plus most of the products had some charity association so you're also supporting them and you know it's going to a good cause. The total value adds up to $172.85 which is amazing for a $50 subscription (and even more amazing since I paid $25!). I'm excited to see what's in plans for the next box!</p>
+
+<p>If you're not a subscriber, you can <a href="https://quarterly.co/?sid=whatsupmailbox" target="_blank"><big>subscribe here</big></a> to start receiving awesome products by Rosario Dawson, I totally recommend it!</p>
 <br>
 
 <TABLE  BORDER="5">
