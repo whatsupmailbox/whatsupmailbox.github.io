@@ -73,7 +73,7 @@ date: 2015-06-25 12:36:00 -08:00
 <DT><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> Socks</DT>
 <DD>One pair, Value $8.50</DD>
 </DL>
-<p>Unique is one word to describe these socks. I love the color pink so that's a good start, but the design I'm not so sure. But I'm happy to wear these socks at home.</p>
+<p>Unique is one word to describe these socks. I love the color pink so that's a good start, but the design I'm not so sure. I'll certainly wear these, but maybe just at home.</p>
 <p><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> is a (funkly and cool) sock subscription that sends out 1 or 2 pairs of socks monthly. And for every subscription, they donate a pair of socks to the homeless -they've donated 10,000+ socks so far!</p>
 
 <DL>
