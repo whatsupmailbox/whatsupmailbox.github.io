@@ -105,7 +105,7 @@ date: 2015-07-03 08:36:00 -08:00
 <DT><a href="http://www.ceedproject.com/shop/blue-silver/" target="_blank">CEED Beads in Blue & Silver</a></DT>
 <DD>Value $40</DD>
 <p>Although the value seems pretty high (I don't think I would ever pay $40 for a bracelet like this), it does go towards creating jobs for women in Africa. CEED employs local village women in Ghana to make these popular and unique CEED Beads. So with that knowledge, I'm happy to have received this.</p>
-<p>Each box had a different color of CEED beads, and although blue is not my favorite color, at least it's dark blue so I can wear it. Here's what Blue symbolizes from their website: Blue – symbolizes knowledge, healing, peace, truth and harmony. Blue is a cooling color that encourages faith, devotion and deep insight.</p>
+<p>Each subscriber received a different color of CEED beads, and although blue is not my favorite color, at least it's dark blue so I can wear it. Here's what Blue symbolizes from their website: Blue – symbolizes knowledge, healing, peace, truth and harmony. Blue is a cooling color that encourages faith, devotion and deep insight.</p>
 <br>
 
 <center><img src="/images/RosarioDawsonSpring2015PoprocksSeed.jpg"></center>
