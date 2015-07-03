@@ -17,9 +17,9 @@ date: 2015-06-25 12:36:00 -08:00
 ---
 
 <center><img src="/images/RosarioDawsonSpring2015Box.jpg"></center>
-<p><b>The Subscription:</b> <a href="https://quarterly.co" target="_blank">Quarterly Co.</a></p>
-<p><b>The Cost:</b> Ranges from $50 - $100 quarterly + $8 Shipping & Handling fee (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> Unique items curated by the people you care about such as celebrities or icons.</p>
+<p><b>The Subscription:</b> <a href="https://quarterly.co" target="_blank">Rosario Dawson Quarterly Co.</a></p>
+<p><b>The Cost:</b> $50/quarterly + $8 Shipping & Handling fee (additional taxes apply to CA)</p>
+<p><b>What's in the box:</b> Every 3 months, Rosario will send you beautiful, creative works that are meant to inspire.</p>
 
 <p>I purchased the "Spring Clearing box from Rosario Dawson" during their wharehouse sale which means I got it for 50% off, steal!</p>
 <p>Ever since it came out I was contemplating yet secretly wanting to get the box, and I'm glad I was tardy because now I saved some cash. #winning</p>
@@ -37,7 +37,7 @@ date: 2015-06-25 12:36:00 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><img src="/images/RosarioDawsonSpring2015Pillow.jpg"></center>
+<center><img src="/images/RosarioDawsonSpring2015Pillowcase.jpg"></center>
 <DL>
 <DT><a href="http://studiooneeightynine.com" target="_blank">Studio One Eighty Nine</a> Pillow Case</DT>
 <DD>Value $75</DD>
