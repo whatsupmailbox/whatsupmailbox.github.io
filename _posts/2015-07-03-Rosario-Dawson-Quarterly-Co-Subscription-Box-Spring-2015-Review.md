@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Quarterly Co. Rosario Dawson Spring 2015 Box Review!"
+title: "Rosario Dawson Quarterly Co. Spring 2015 Box Review!"
 description: ""
-headline: "Quarterly Co. Rosario Dawson Spring 2015 Box Review!"
+headline: "Rosario Dawson Quarterly Co. Spring 2015 Box Review!"
 tags: [Quarterly Co., Subscriptions, Reviews]
 comments: true
 mathjax: null
@@ -106,7 +106,31 @@ date: 2015-06-25 12:36:00 -08:00
 <DT><a href="http://urbanyogafoundation.org" target="_blank">Urban Yoga Foundation - Morning Meditation Tea</a></DT>
 <DD>One sachet of loose tea, Value $2?</DD>
 </DL>
-<p>I'm so happy that this is an herbal tea! This tea is a blend of Lemon Myrtle, Vebena, Mint, Rooibos and Roses. Because I'm sensitive to caffeine, Rooibos has been my go-to tea in the morning and this blend is perfect for me. It ta</p>
+<p>I'm so happy that this is an herbal tea! This tea is a blend of Lemon Myrtle, Vebena, Mint, Rooibos and Roses. Because I'm sensitive to caffeine, Rooibos has been my go-to tea in the morning and this blend is perfect for me.</p>
 <br>
+
+<center><img src="/images/RosarioDawsonSpring2015PopRocks.jpg"></center>
+<DL>
+<DT><a href="http://www.amazon.com/Pop-Rocks-Strawberry-Candy-Packs/dp/B002IM3Q0Y" target="_blank">Pop Rocks Strawberry Flavor</a></DT>
+<DD>1 packet, Value $1</DD>
+</DL>
+<p>Pop Rocks aren't really my thing but this item was included to encourage you to have fun, smile and be happy. It's suggested to sprinkle some on cereal, ice cream or plain old straight up.</p>
+<p>I haven't had these in a long time. I had them growing up, and it was fun to feel them crack and pop inside your mouth, but it kind of grew old for me, at least that's what I remember. I'm happy to try them again and I'm reminded of how fun these are. I think I'll try putting them in frozen yoghurt next time.</p>
+<br>
+
+<center><img src="/images/RosarioDawsonSpring2015Bath.jpg"></center>
+<DL>
+<DT><a href="http://www.tarasmith.com" target="_blank">Tara Smith</a> - Haircare Set</DT>
+<DD>Set of 4 travel bottles 40ml/each, Value $10?</DD>
+<p>This set includes the following products:</p>
+* <a href="http://www.tarasmith.com/products/shine-on-shampoo" target="_blank">Shine on Shampoo</a>
+* <a href="http://www.tarasmith.com/products/shine-on-conditioner" target="_blank">Shine on Conditioner</a>
+* Soften Up Body Lotion
+* Wash Up Shower Gel
+
+<p>These are great for travelling and the whole set pretty much sets you up for a complete travel essential.</p>
+<p>Tara Smith products are tested on film stars but not on animals. What I found interesting is that Conrad Hotels, an international brand of luxury hotels and resorts owned and operated by Hilton, carries her products for their guest amenities.</p>
+<br>
+
 
 <p>If you're not aware of Quarterly Co., they offer unique boxes quarterly and the items are curated by people we care about such as celebrities or icons. Their boxes are themed in multiple categories such as beauty, technology, art, food, home and many more!</p>
