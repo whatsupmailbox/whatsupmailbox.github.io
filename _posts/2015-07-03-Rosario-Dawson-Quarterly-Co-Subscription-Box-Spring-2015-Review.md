@@ -90,7 +90,7 @@ date: 2015-06-25 12:36:00 -08:00
 <DD>One Tea Cup, Value $5</DD>
 </DL>
 <p>This is another item that I wish it came in pairs. I'm happy with the one, but I don't think I can use it with company in case jealousy might arise. So, naturally I shall be buying another cup (or two or three) to complete the set.</p>
-<p>This tea cup is free of toxic heavy metals such as lead oxide, cadmium, glass and boric oxide which are commonly used in modern pottery. Only natural materials such as wood, herb and tea ash, weathering stone, surface clay and limestone are used in our 100% natural glazes.</p>
+<p>This tea cup is free of toxic heavy metals such as lead oxide, cadmium, glass and boric oxide which are commonly used in modern pottery. Only natural materials such as wood, herb and tea ash, weathering stone, surface clay and limestone are used in theirr 100% natural glazes.</p>
 <p>The only drawback is that it's hand wash only and you can't use soap or detergent on it, and no microwave as well. I hope I remember that and not accidently wash it or nuke it. Fingers crossed.</p>
 <br>
 
