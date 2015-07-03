@@ -23,6 +23,7 @@ date: 2015-06-25 12:36:00 -08:00
 
 <p>I purchased the "Spring Clearing box from Rosario Dawson" during their wharehouse sale which means I got it for 50% off, steal!</p>
 <p>Ever since it came out I was contemplating yet secretly wanting to get the box, and I'm glad I was tardy because now I saved some cash. #winning</p>
+<br>
 
 <center><img src="/images/RosarioDawsonSpring2015OpenBox.jpg"></center>
 <p>First look at unboxing.</p>
