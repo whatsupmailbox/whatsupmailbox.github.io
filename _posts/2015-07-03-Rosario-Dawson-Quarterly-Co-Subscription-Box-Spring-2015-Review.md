@@ -21,6 +21,8 @@ date: 2015-06-25 12:36:00 -08:00
 <p><b>The Cost:</b> $50/quarterly + $8 Shipping & Handling fee (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every 3 months, Rosario will send you beautiful, creative works that are meant to inspire.</p>
 
+<p>"Spring Box #18903 is all about spring clearing - your winter induced cabin fever has broken and as you mine your wares to make way for the new you budding forth don’t forget to clear your senses with the same care and rigor as when you clear your closet...!”</p>
+
 <p>I purchased the "Spring Clearing box from Rosario Dawson" during their wharehouse sale which means I got it for 50% off, steal!</p>
 <p>Ever since it came out I was contemplating yet secretly wanting to get the box, and I'm glad I was tardy because now I saved some cash. #winning</p>
 <br>
@@ -54,7 +56,7 @@ date: 2015-06-25 12:36:00 -08:00
 <DD>Value $23.40</DD>
 </DL>
 <p>Not only do I love this necklace, I love what it represents and supports -to never give up and to support research for cancer.</p>
-<p>The multi-colored tone of silver, gold and rose gold plating reminds me that we are all uniquely different and yet we can stand together for one purpose. I think this is a great necklace to be included in this box as it reminds us that while we are spring cleaning, we too must revisit our inner self and cleanse of our negativity and move towards a positive and meaningful future. But don't mind me, that's just what I thought of this necklace ;)</p>
+<p>The multi-colored tone of silver, gold and rose gold plating reminds me that we are all uniquely different and yet we can stand together for one purpose. I think this is a great necklace to be included in this box as it reminds us that while we are spring clearing, we too must revisit our inner self and cleanse of our negativity and move towards a positive and meaningful future. But don't mind me, that's just what I thought of this necklace ;)</p>
 <br>
 
 <center><img src="/images/RosarioDawsonSpring2015Candle.jpg"></center>
