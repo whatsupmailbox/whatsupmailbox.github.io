@@ -44,7 +44,7 @@ date: 2015-06-25 12:36:00 -08:00
 <DD>Value $75</DD>
 </DL>
 <p>I love the pattern of this pillow case! I only wished there was a pair, so I'm working on getting another one to make it a set, but in the meantime, it's already on my bed and it looks so urban cool.</p>
-<p>This pillow case was designed and Handmade in Ghana using traditional African Wax, how cool is that. A great product that's also doing great in the world.</p>
+<p>This pillow case was designed and handmade in Ghana using traditional African wax, how cool is that. A great product that's also doing great in the world.</p>
 <p>Although I wouldn't necessarily pay $75 for this, I'm happy this was included in the box and I would never have obtained one if it weren't for it, so for that I'm grateful.</p>
 <br>
 
