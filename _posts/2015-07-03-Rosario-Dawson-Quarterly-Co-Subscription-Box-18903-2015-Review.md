@@ -126,6 +126,7 @@ date: 2015-07-03 08:36:00 -08:00
 <DL>
 <DT><a href="http://www.tarasmith.com" target="_blank">Tara Smith</a> - Haircare Set</DT>
 <DD>Set of 4 travel bottles 40ml/each, Value $10?</DD>
+</DL>
 <p>This set includes the following products:</p>
 * <a href="http://www.tarasmith.com/products/shine-on-shampoo" target="_blank">Shine on Shampoo</a>
 * <a href="http://www.tarasmith.com/products/shine-on-conditioner" target="_blank">Shine on Conditioner</a>
