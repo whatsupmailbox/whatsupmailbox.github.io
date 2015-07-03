@@ -128,10 +128,12 @@ date: 2015-07-03 08:36:00 -08:00
 <DD>Set of 4 travel bottles 40ml/each, Value $10?</DD>
 </DL>
 <p>This set includes the following products:</p>
-* <a href="http://www.tarasmith.com/products/shine-on-shampoo" target="_blank">Shine on Shampoo</a>
-* <a href="http://www.tarasmith.com/products/shine-on-conditioner" target="_blank">Shine on Conditioner</a>
-* Soften Up Body Lotion
-* Wash Up Shower Gel
+<ul>
+<li><a href="http://www.tarasmith.com/products/shine-on-shampoo" target="_blank">Shine on Shampoo</a></li>
+<li><a href="http://www.tarasmith.com/products/shine-on-conditioner" target="_blank">Shine on Conditioner</a></li>
+<li>Soften Up Body Lotion</li>
+<li>Wash Up Shower Gel</li>
+</ul>
 
 <p>These are great for travelling and the whole set pretty much sets you up for a complete travel essential.</p>
 <p>Tara Smith products are tested on film stars but not on animals. What I found interesting is that Conrad Hotels, an international brand of luxury hotels and resorts owned and operated by Hilton, carries her products for their guest amenities.</p>
