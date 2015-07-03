@@ -65,7 +65,14 @@ date: 2015-06-25 12:36:00 -08:00
 <p>Made with soy wax then blended with essential oils and an all cotton-wick makes this candle a slam dunk for me.</p>
 <br>
 
-<center><img src="/images/RosarioDawsonSpring2015Spray.jpg"></center>
+<center><img src="/images/RosarioDawsonSpring2015SockAir.jpg"></center>
+<DL>
+<DT><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> Socks</DT>
+<DD>One pair, Value $8.50</DD>
+</DL>
+<p>Unique is one word to describe these socks. I love the color pink so that's a good start, but the design I'm not so sure. But I'm happy to wear these socks at home.</p>
+<p><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> is a (funkly and cool) sock subscription that sends out 1 or 2 pairs of socks monthly. And for every subscription, they donate a pair of socks to the homeless -they've donated 10,000+ socks so far!</p>
+
 <DL>
 <DT><a href="http://click.linksynergy.com/link?id=E8Cf336JUvc&offerid=281968.142&type=2&murl=https%3A%2F%2Fwww.honest.com%2Fcleaning%2Fair-fabric-freshener%3Fsid%3D10025%26cid%3D%7Bifnotmobile%3Agoogle%7D%7Bifmobile%3Agoogle_mobile%7D%26mid%3Dsearch%26aid%3DPLA%3A%7Bproduct_partition_id%7D%3A%7Bproduct_id%7D%3Apla%26pid%3D%7Badtype%7D&LSNSUBSITE=adgid">Honest Co. - Air + Fabric Freshener in Orange Cypress</a></DT>
 <DD>9.3 fl. oz., Value $6.95</DD>
@@ -84,16 +91,13 @@ date: 2015-06-25 12:36:00 -08:00
 <p>The only drawback is that it's hand wash only and you can't use soap or detergent on it, and no microwave as well. I hope I remember that and not accidently wash it or nuke it. Fingers crossed.</p>
 <br>
 
-<center><img src="/images/RosarioDawsonSpring2015Socks.jpg"></center>
+<center><img src="/images/RosarioDawsonSpring2015TeaCeed.jpg"></center>
 <DL>
-<DT><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> Socks</DT>
-<DD>One pair, Value $8.50</DD>
+<DT><a href="http://urbanyogafoundation.org" target="_blank">Urban Yoga Foundation - Morning Meditation Tea</a></DT>
+<DD>One sachet of loose tea, Value $2?</DD>
 </DL>
-<p>Unique is one word to describe these socks. I love the color pink so that's a good start, but the design I'm not so sure. But I'm happy to wear these socks at home.</p>
-<p><a href="http://www.shareasale.com/r.cfm?b=728614&u=1115177&m=54558&urllink=&afftrack=" target="_blank">Sock Panda</a> is a (funkly and cool) sock subscription that sends out 1 or 2 pairs of socks monthly. And for every subscription, they donate a pair of socks to the homeless -they've donated 10,000+ socks so far!</p>
-<br>
+<p>I'm so happy that this is an herbal tea! This tea is a blend of Lemon Myrtle, Vebena, Mint, Rooibos and Roses. Because I'm sensitive to caffeine, Rooibos has been my go-to tea in the morning and this blend is perfect for me.</p>
 
-<center><img src="/images/RosarioDawsonSpring2015Ceed.jpg"></center>
 <DL>
 <DT><a href="http://www.ceedproject.com/shop/blue-silver/" target="_blank">CEED Beads in Blue & Silver</DT>
 <DD>Value $40</DD>
@@ -101,21 +105,18 @@ date: 2015-06-25 12:36:00 -08:00
 <p>Each box had a different color of CEED beads, and although blue is not my favorite color, at least it's dark blue so I can wear it. Here's what Blue symbolizes from their website: Blue – symbolizes knowledge, healing, peace, truth and harmony. Blue is a cooling color that encourages faith, devotion and deep insight.</p>
 <br>
 
-<center><img src="/images/RosarioDawsonSpring2015Tea.jpg"></center>
-<DL>
-<DT><a href="http://urbanyogafoundation.org" target="_blank">Urban Yoga Foundation - Morning Meditation Tea</a></DT>
-<DD>One sachet of loose tea, Value $2?</DD>
-</DL>
-<p>I'm so happy that this is an herbal tea! This tea is a blend of Lemon Myrtle, Vebena, Mint, Rooibos and Roses. Because I'm sensitive to caffeine, Rooibos has been my go-to tea in the morning and this blend is perfect for me.</p>
-<br>
-
-<center><img src="/images/RosarioDawsonSpring2015PopRocks.jpg"></center>
+<center><img src="/images/RosarioDawsonSpring2015PoprocksSeed.jpg"></center>
 <DL>
 <DT><a href="http://www.amazon.com/Pop-Rocks-Strawberry-Candy-Packs/dp/B002IM3Q0Y" target="_blank">Pop Rocks Strawberry Flavor</a></DT>
 <DD>1 packet, Value $1</DD>
 </DL>
 <p>Pop Rocks aren't really my thing but this item was included to encourage you to have fun, smile and be happy. It's suggested to sprinkle some on cereal, ice cream or plain old straight up.</p>
 <p>I haven't had these in a long time. I had them growing up, and it was fun to feel them crack and pop inside your mouth, but it kind of grew old for me, at least that's what I remember. I'm happy to try them again and I'm reminded of how fun these are. I think I'll try putting them in frozen yoghurt next time.</p>
+
+<DL>
+<DT><a href="http://www.girlsclub.org" target="_blank">Lower Eastside Girls Club of New York</a> - Seed Bomb</DT>
+<DD>Value $1?</DD>
+<p>This item was a collaboration between LESGC and Studio 189. You're supposed to spread these seeds in empty lots, barren hillsides, or ugly road dividers. Interesting idea and I will definitely try it.</p>
 <br>
 
 <center><img src="/images/RosarioDawsonSpring2015Bath.jpg"></center>
