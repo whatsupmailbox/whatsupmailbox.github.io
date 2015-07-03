@@ -102,7 +102,7 @@ date: 2015-06-25 12:36:00 -08:00
 <p>I'm so happy that this is an herbal tea! This tea is a blend of Lemon Myrtle, Vebena, Mint, Rooibos and Roses. Because I'm sensitive to caffeine, Rooibos has been my go-to tea in the morning and this blend is perfect for me.</p>
 
 <DL>
-<DT><a href="http://www.ceedproject.com/shop/blue-silver/" target="_blank">CEED Beads in Blue & Silver</DT>
+<DT><a href="http://www.ceedproject.com/shop/blue-silver/" target="_blank">CEED Beads in Blue & Silver</a></DT>
 <DD>Value $40</DD>
 <p>Although the value seems pretty high (I don't think I would ever pay $40 for a bracelet like this), it does go towards creating jobs for women in Africa. CEED employs local village women in Ghana to make these popular and unique CEED Beads. So with that knowledge, I'm happy to have received this.</p>
 <p>Each box had a different color of CEED beads, and although blue is not my favorite color, at least it's dark blue so I can wear it. Here's what Blue symbolizes from their website: Blue – symbolizes knowledge, healing, peace, truth and harmony. Blue is a cooling color that encourages faith, devotion and deep insight.</p>
