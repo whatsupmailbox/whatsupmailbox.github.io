@@ -136,7 +136,7 @@ date: 2015-06-25 12:36:00 -08:00
 <p>Tara Smith products are tested on film stars but not on animals. What I found interesting is that Conrad Hotels, an international brand of luxury hotels and resorts owned and operated by Hilton, carries her products for their guest amenities.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was amazing, especially for the price I paid! From the brands, quality and variation of products, I think the curation was a job well done! Plus most of the products had some charity association so you're also supporting them and you know it's going to a good cause. The total value adds up to $ which is amazing for a $50 subscription (and even more amazing since I paid $25!). I'm excited to see what's in plans for the next box!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was amazing, especially for the price I paid! From the brands, quality and variation of products, I think the curation was a job well done! Plus most of the products had some charity association so you're also supporting them and you know it's going to a good cause. The total value adds up to $172.85 which is amazing for a $50 subscription (and even more amazing since I paid $25!). I'm excited to see what's in plans for the next box!</p>
 
 <p>If you're not aware of Quarterly Co., they offer unique boxes quarterly and the items are curated by people we care about such as celebrities or icons. Their boxes are themed in multiple categories such as beauty, technology, art, food, home and many more!</p>
 <br>
