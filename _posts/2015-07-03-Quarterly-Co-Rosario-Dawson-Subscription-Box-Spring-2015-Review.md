@@ -26,6 +26,12 @@ date: 2015-06-25 12:36:00 -08:00
 
 <center><img src="/images/RosarioDawsonSpring2015OpenBox.jpg"></center>
 <p>First look at unboxing and Rosario Dawson is saying "Hello".</p>
+<br>
+
+<center><img src="/images/RosarioDawsonSpring2015Info.jpg"></center>
 <p>Quarterly Co. is different where they don't just include an info card, they actually provide a personal letter type of info card where the curator explains the choices in the box and what they mean to the theme. I like it, it's both informational and personal, nice touch!</p>
+
+<H4>And here are the items:</H4>
+<center><img src="/images/RosarioDawsonSpring2015Items.jpg"></center>
 
 <p>If you're not aware of Quarterly Co., they offer unique boxes quarterly and the items are curated by people we care about such as celebrities or icons. Their boxes are themed in multiple categories such as beauty, technology, art, food, home and many more!</p>
