@@ -25,7 +25,7 @@ date: 2015-06-25 12:36:00 -08:00
 <p>Ever since it came out I was contemplating yet secretly wanting to get the box, and I'm glad I was tardy because now I saved some cash. #winning</p>
 
 <center><img src="/images/RosarioDawsonSpring2015OpenBox.jpg"></center>
-<p>First look at unboxing and Rosario Dawson is saying "Hello".</p>
+<p>First look at unboxing.</p>
 <br>
 
 <center><img src="/images/RosarioDawsonSpring2015Info.jpg"></center>
