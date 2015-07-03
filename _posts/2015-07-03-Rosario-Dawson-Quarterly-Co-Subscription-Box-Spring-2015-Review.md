@@ -81,7 +81,7 @@ date: 2015-06-25 12:36:00 -08:00
 <DD>9.3 fl. oz., Value $6.95</DD>
 </DL>
 <p>Naturally eliminate odors & refresh fabrics without the use of harsh, synthetic chemicals or masking agents. Leaves nothing behind but the refreshing scent of essential oils & botanicals!</p>
-<p>I'm subscribed to their Essentials Bundle (<a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank"> you can read my June 2015 review here</a>), and I actually ordered the Lemon Verbana scent in my last box so I was happy to get another scent. I love this air freshener because it's natural which is important for something that you put into the air you breathe. The scent is sweet yet refreshing and I'm happy that I have 2 now!</p>
+<p>I'm subscribed to their Essentials Bundle (<a href="http://whatsupmailbox.com/subscriptions/reviews/Honest-Company-Essentials-Bundle-June-2015-Review/" target="_blank"> you can read my June 2015 review here</a>), and I actually ordered the Lemon Verbena scent in my last box so I was happy to get another scent. I love this air freshener because it's natural which is important for something that you put into the air you breathe. The scent is sweet yet refreshing and I'm happy that I have 2 now!</p>
 <br>
 
 <center><img src="/images/RosarioDawsonSpring2015Cup.jpg"></center>
