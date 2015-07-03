@@ -6,7 +6,7 @@ headline: "Five Four Button-Down Shirts Package Sale + Coupon!"
 tags: [Products]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 category: Products
 type: photo
