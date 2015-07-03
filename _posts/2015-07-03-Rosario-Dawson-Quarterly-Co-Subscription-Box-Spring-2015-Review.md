@@ -150,27 +150,55 @@ date: 2015-06-25 12:36:00 -08:00
       <TH>Name</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Lillian Eve - Nail Polish</TD>
-      <TD>$12</TD>
+      <TD>Studio 189 Pillowcase</TD>
+      <TD>$75</TD>
    </TR>
    <TR>
-      <TD>Urban Organics - Cleansing Grains</TD>
-      <TD>$5.5</TD>
+      <TD>Stella and Dot - "Hope" Necklace</TD>
+      <TD>$23.40</TD>
    </TR>
    <TR>
-      <TD>Organic Aah - Argan Oil</TD>
-      <TD>$4?</TD>
+      <TD>Illume Candle</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
-      <TD>Bohemian Jewellery Tattooss</TD>
-      <TD>$6.5</TD>
+      <TD>Sock Panda - Socks</TD>
+      <TD>$8.50</TD>
+   </TR>
+    <TR>
+      <TD>Honest Co. - Air + Fabric Freshener</TD>
+      <TD>$6.95</TD>
+   </TR>
+    <TR>
+      <TD>Thai Celadon Tea Cup</TD>
+      <TD>$5</TD>
+   </TR>
+    <TR>
+      <TD>Urban Yoga Foundation Tea</TD>
+      <TD>$2?</TD>
+   </TR>
+    <TR>
+      <TD>CEED Beads</TD>
+      <TD>$40</TD>
+   </TR>
+    <TR>
+      <TD>Pop Rocks Candy</TD>
+      <TD>$1</TD>
+   </TR>
+    <TR>
+      <TD>Seed Bomb</TD>
+      <TD>$1?</TD>
+   </TR>
+    <TR>
+      <TD>Tara Smith - Haircare Set</TD>
+      <TD>$10?</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$28</big></b></TD>
+      <TD><b><big>$172.85</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$19.99</big></i></TD>
+      <TD><i><big>$50</big></i></TD>
    </TR>
 </TABLE>
