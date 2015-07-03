@@ -12,7 +12,7 @@ categories:
       - Subscriptions
       - Reviews
 type: photo
-imagefeature: "RosarioDawsonSpring2015OpenBox.jpg"
+imagefeature: "RosarioDawsonSpring2015Items.jpg"
 date: 2015-06-25 12:36:00 -08:00
 ---
 
