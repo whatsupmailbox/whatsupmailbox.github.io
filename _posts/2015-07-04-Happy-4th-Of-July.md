@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Happy 4th of July!"
-description: "Instagram Love"
+description: ""
 headline: "Happy 4th of July!"
 tags: []
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 category: Subscriptions
 type: photo
