@@ -16,7 +16,7 @@ date: 2015-07-04 09:32:39 -08:00
 
 <center><img src='/images/FiveFourClubJuly2015Package.jpg'></center>
 <p><b>Subscription:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a></p>
-<p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
+<p><b>Cost:</b> $60/monthly + Free Shipping</p>
 <p><b>What do you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
 <p><b>Coupon:</b> Use <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">coupon code OW15OFF</a> and get $15 off your first package!</p>
 <br>
@@ -97,15 +97,11 @@ date: 2015-07-04 09:32:39 -08:00
       <TD>$60</TD>
    </TR>
    <TR>
-      <TD>CA Taxes</TD>
-      <TD>$11.52</TD>
-   </TR>
-   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
       <TD><b><big>$150</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$65.40</big></i></TD>
+      <TD><i><big>$60</big></i></TD>
    </TR>
 </TABLE>
