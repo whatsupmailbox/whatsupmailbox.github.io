@@ -8,7 +8,7 @@ comments: true
 mathjax: null
 published: true
 featured: false
-category: Subscriptions
+category: Reviews
 type: photo
 imagefeature: "July4thCollage.jpg"
 date: 2015-07-04 13:09:00 -08:00
