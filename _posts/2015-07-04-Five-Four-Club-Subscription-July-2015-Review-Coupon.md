@@ -65,7 +65,7 @@ date: 2015-07-04 09:32:39 -08:00
 <DD>Retail Value $35</DD>
 </DL>
 
-<p>This is our first T-Shirt from them and the quality feels great. I like how it's not just a plain shirt with some graphics on it (my husband has too many of those!), the zippered pocket with red lining made this different and fashion forward in my opinion.</p>
+<p>This is our first T-Shirt from them and the quality feels great, soft and 100% cotton. I like how it's not just a plain t-shirt with some graphics on it, my husband has too many of those!. The zippered pocket with red lining made this different and fashion forward in my opinion.</p>
 <figure>
       <center><img src='/images/FiveFourClubJuly2015Tshirtpocket.jpg'></center>
       <figcaption>Pocket in detail.</figcaption>
