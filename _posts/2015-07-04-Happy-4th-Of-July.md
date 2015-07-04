@@ -18,7 +18,7 @@ date: 2015-07-04 13:09:00 -08:00
 
 <CENTER><IMG SRC='/images/July4thCollage.jpg'></CENTER>
 
-<p>Just sharing my outfit today in celebration of Independence Day, hope you're having fun, staying cool, and feeling great on this beautiful 4th of July day!</p>
-<p align="center">xoxo, Loretta</p>
+<p>Just sharing my outfit today in celebration of Independence Day. Hope you're having fun, staying cool, and feeling great on this beautiful 4th of July day!</p>
+<p align="left">xoxo, Loretta</p>
 
 <p>Don't forget to follow me on <a href="https://instagram.com/whatsupmailbox/" target="_blank">Instagram</a>!</p>
