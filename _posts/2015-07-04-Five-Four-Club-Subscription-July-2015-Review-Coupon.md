@@ -25,7 +25,7 @@ date: 2015-07-04 09:32:39 -08:00
 
 <p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant and rich colors, and pants that are slim fit.</p>
 
-<p>Quick note: So our original July package had an item with a manufacturer flaw on it (some sewing was off), but a quick and simple email to their customer service easily resolved that problem. They replied by saying that they'll be sending a replacement and I don't have to return the previous flawed item, so easy. If you ever have any issues, don't be afraid to contact them and make sure to send pictures too.</p>
+<p>Quick note: So our original July package had an item with a manufacturer flaw on it (some sewing was off), but a quick and simple email to their customer service easily resolved that problem. It did take a couple of days for them to reply though, but they did notify me that it could take as much as 2-3 business days for a response during high volume times. Once they replied, they told me that they'll be sending a replacement and I don't have to return the previous flawed item, so that was easy. If you ever have any issues, don't be afraid to contact them and make sure to send pictures too.</p>
 
 <H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
 <p><center><img src='/images/FiveFourClubJuly2015Items.jpg'></center></p>
