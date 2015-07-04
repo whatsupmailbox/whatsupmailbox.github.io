@@ -39,8 +39,7 @@ date: 2015-07-04 09:32:39 -08:00
 <DD>Retail Value $55</DD>
 </DL>
 
-<p>This shirt was part of the original package that came with a matching jacket that had the flaw. I'm so glad this one is nothing but perfect and the short sleeves will be great for summer.</p>
-<p>Made with 100% cotton which hubby totally appreciated. The patterns and colors work well for summer too.</p>
+<p>This shirt was part of the original package that came with a matching jacket that had the flaw. I'm so glad this one is nothing but perfect and the short sleeves will be great for summer. The patterns and colors work well, plus the hidden buttons added a nice touch. This will be great by itself or under a cool summer jacket.</p>
 
 <center><img src='/images/FiveFourClubJuly2015Shirt1b.jpg'></center>
 <p>The camouflage inside gave this piece a unique touch.</p>
@@ -54,7 +53,6 @@ date: 2015-07-04 09:32:39 -08:00
 </DL>
 
 <p>A good classy long sleeve shirt is essential for any wardrobe and this one was a hit as well with my husband. I do feel like this shirt is more classy than fashion forward, but maybe that's just me.</p> 
-<p>The material is made of 98% cotton and 2% elastane. Again... perfect.</p>
 
 <center><img src='/images/FiveFourClubJuly2015Shirt2Inside.jpg'></center>
 <p>The inside of this shirt matches the classy outside pattern.</p>
