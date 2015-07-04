@@ -8,8 +8,8 @@ title: Five Four Club July 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourClubJune2015Items.jpg
-headline: Five Four Club Jult 2015 Review + Coupon!
+imagefeature: FiveFourClubJuly2015Items.jpg
+headline: Five Four Club July 2015 Review + Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, July 2015]
 date: 2015-07-04 09:32:39 -08:00
 ---
@@ -25,48 +25,51 @@ date: 2015-07-04 09:32:39 -08:00
 
 <p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant and rich colors, and pants that are slim fit.</p>
 
-<p>Our original package had an item with a manufacturer flaw on it (some sewing was off), and a quick and simple email resolved that problem. They replied by saying that they'll be sending a replacement and I don't have to return the previous flawed item. If you ever have any issues, contact them and make sure to send pictures too, it'll resolve your issue sooner.</p>
+<p>So our original July package had an item with a manufacturer flaw on it (some sewing was off), but with a quick and simple email to their customer service easily resolved that problem. They replied by saying that they'll be sending a replacement and I don't have to return the previous flawed item, so easy. If you ever have any issues, don't be afraid to contact them and make sure to send pictures too.</p>
 
 <H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
 <p><center><img src='/images/FiveFourClubJuly2015Items.jpg'></center></p>
 <br>
 
 <H4>Items in detail:</H4>
-<p><center><img src='/images/FiveFourClubJuly2015Shirt.jpg'></center></p>
+<p><center><img src='/images/FiveFourClubJuly2015Shirt1.jpg'></center></p>
+<center><img src='/images/FiveFourClubJuly2015Shirt1.jpg'></center>
 <DL>
-<DT>Kemp Shirt in <i>Dark Blue</i></DT>
-<DD>Retail Value $60</DD>
+<DT>Garner Shirt in <i>Red</i></DT>
+<DD>Retail Value $55</DD>
 </DL>
 
 <p>This shirt was part of the original package that came with a matching jacket that had the flaw. I'm so glad this one is nothing but perfect and the short sleeves will be great for summer.</p>
 <p>Made with 100% cotton which hubby totally appreciated. The patterns and colors work well for summer too.</p>
 
-<center><img src='/images/FiveFourClubJuly2015ShirtInside.jpg'></center>
+<center><img src='/images/FiveFourClubJuly2015Shirt1b.jpg'></center>
 <p>The camouflage inside gave this piece a unique touch.</p>
 <br>
 
 <center><img src='/images/FiveFourClubJuly2015Shirt2.jpg'></center>
+<center><img src='/images/FiveFourClubJuly2015Shirt2Spread.jpg'></center>
 <DL>
-<DT>Hite pants in <i>Navy</i></DT>
-<DD>Retail Value $68</DD>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
 </DL>
 
 <p>A good classy long sleeve shirt is essential for any wardrobe and this one was a hit as well with my husband. I do feel like this shirt is more classy than fashion forward, but maybe that's just me.</p> 
 <p>The material is made of 98% cotton and 2% elastane. Again... perfect.</p>
 
-<center><img src='/images/FiveFourClubJuly2015ShirtInside.jpg'></center>
+<center><img src='/images/FiveFourClubJuly2015Shirt2Inside.jpg'></center>
 <p>The inside of this shirt matches the classy outside pattern.</p>
 <br>
 
-<p><center><img src='/images/FiveFourClubJuly2015Tshirt.jpg'></center></p>
+<p><center><img src='/images/FiveFourClubJuly2015Tshirt1.jpg'></center></p>
+<center><img src='/images/FiveFourClubJuly2015Tshirt.jpg'></center>
 <DL>
-<DT>Kemp Shirt in <i>Dark Blue</i></DT>
-<DD>Retail Value $60</DD>
+<DT>Hamilton T-Shirt in <i>White</i></DT>
+<DD>Retail Value $35</DD>
 </DL>
 
 <p>This is our first T-Shirt from them and the quality feels great. I like how it's not just a plain shirt with some graphics on it (my husband has too many of those!), the zippered pocket with red lining made this different and fashion forward in my opinion.</p>
 <figure>
-      <center><img src='/images/FiveFourClubJuly2015Tshirt.jpg'></center>
+      <center><img src='/images/FiveFourClubJuly2015Tshirtpocket.jpg'></center>
       <figcaption>Pocket in detail.</figcaption>
 </figure>
 <br>
