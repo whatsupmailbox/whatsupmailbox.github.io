@@ -33,7 +33,7 @@ date: 2015-07-04 09:32:39 -08:00
 
 <H4>Items in detail:</H4>
 <p><center><img src='/images/FiveFourClubJuly2015Shirt1.jpg'></center></p>
-<center><img src='/images/FiveFourClubJuly2015Shirt1.jpg'></center>
+<center><img src='/images/FiveFourClubJuly2015Shirt.jpg'></center>
 <DL>
 <DT>Garner Shirt in <i>Red</i></DT>
 <DD>Retail Value $55</DD>
