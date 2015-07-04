@@ -76,9 +76,9 @@ date: 2015-07-04 11:32:39 -08:00
 
 <p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" style="width:100%">
    <TR>
-      <TH COLSPAN="4">
+      <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
       </TH>
    </TR>
