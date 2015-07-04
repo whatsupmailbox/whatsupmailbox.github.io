@@ -11,7 +11,7 @@ type: photo
 imagefeature: FiveFourClubJuly2015Items.jpg
 headline: Five Four Club July 2015 Review + Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, July 2015]
-date: 2015-07-04 09:32:39 -08:00
+date: 2015-07-04 11:32:39 -08:00
 ---
 
 <center><img src='/images/FiveFourClubJuly2015Package.jpg'></center>
