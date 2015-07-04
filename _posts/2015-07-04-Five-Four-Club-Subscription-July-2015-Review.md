@@ -78,7 +78,7 @@ date: 2015-07-04 11:32:39 -08:00
 
 <TABLE  BORDER="5">
    <TR>
-      <TH COLSPAN="2">
+      <TH COLSPAN="4">
          <H3><BR><center>My Items</center></H3>
       </TH>
    </TR>
