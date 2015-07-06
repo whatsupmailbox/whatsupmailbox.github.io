@@ -17,9 +17,9 @@ date: 2015-07-06 11:43:00 -08:00
 
 <center><img src="/images/SephoraVIBRougeGWPYSL.png"></center>
 
-<p>A new <a href="http://www.sephora.com" target="_blank">Sephora</a> GWP from Yves Saint Laurent for VIB & VIB Rouge only!</p>
+<p><H2>A new <a href="http://www.sephora.com" target="_blank">Sephora</a> GWP from Yves Saint Laurent for VIB & VIB Rouge only!</H2></p>
 
-<p>Get it FREE with any online purchase of $25 or more by using coupon code <b>VIBBLUR</b></p>
+<p><H2>Get it FREE with any online purchase of $25 or more by using coupon code <b>VIBBLUR</b></H2></p>
 <br>
 
 **This Mini Set Includes:**
