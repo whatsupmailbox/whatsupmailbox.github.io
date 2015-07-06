@@ -17,6 +17,7 @@ date: 2015-07-06 13:38:39 -08:00
 <p><b>Cost:</b> $20 / month (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
 <p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get 50 extra Birchbox Points with your subscription, that's $5 to use in their shop!</p>
+<br>
 
 <p>Now on to the Sample Choice items...</p>
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
