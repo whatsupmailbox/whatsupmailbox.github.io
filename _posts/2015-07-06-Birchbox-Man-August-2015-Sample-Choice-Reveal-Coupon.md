@@ -33,13 +33,14 @@ date: 2015-07-06 13:38:39 -08:00
       <figcaption>You can stuff the entire backpack into the pocket, and zip it closed!</figcaption>
 </figure>
 <br>
+<br>
 
 <center><img src="/images/BirchboxManAugust2015SampleChoiceKey.png"></center>
 <center><img src="/images/BirchboxManAugust2015SampleChoiceKey2.png"></center>
 <H4>Native Union Key Cable Lightning Cord, Value $29.99</H4>
 <br>
 
-<center><img src="/images/BirchboxManAugust2015SampleChoiceKey.png"></center>
+<center><img src="/images/BirchboxManAugust2015SampleChoiceMug.png"></center>
 <H4>W&P Enamelware Camp Mug Set, Value $25</H4>
 <br>
 
