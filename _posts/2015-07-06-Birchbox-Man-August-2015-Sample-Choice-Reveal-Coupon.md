@@ -5,7 +5,7 @@ title: Birchbox Man August 2015 Sample Choice Revealed + Power Play Choices
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxManAugust2015SampleChoiceCollage.png
+imagefeature: BirchboxManAugust2015SampleChoiceCollage.jpg
 categories: 
   - Subscriptions
 headline: Birchbox Man August 2015 Sample Choice Revealed + Power Play Choices
