@@ -51,6 +51,7 @@ date: 2015-07-06 11:32:39 -08:00
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015Poopourri.jpg'></center>
+<center><img src='/images/ConsciousBoxJune2015Poopourri2.jpg'></center>
 <DL>
 <DT>Hamilton T-Shirt in <i>White</i></DT>
 <DD>Retail Value $35</DD>
@@ -77,7 +78,7 @@ date: 2015-07-06 11:32:39 -08:00
 <p>Tissue.</p> 
 <br>
 
-<center><img src='/images/ConsciousBoxJune2015Tissue.jpg'></center>
+<center><img src='/images/ConsciousBoxJune2015CandyTissue.jpg'></center>
 <DL>
 <DT>Serrano Shirt in <i>Blue</i></DT>
 <DD>Retail Value $60</DD>
