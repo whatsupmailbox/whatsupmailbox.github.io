@@ -13,9 +13,10 @@ tags: [Birchbox Man, Subscriptions]
 date: 2015-07-06 13:38:39 -08:00
 ---
 
-<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox">Birchbox Man</a></p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a></p>
 <p><b>Cost:</b> $20 / month (taxes applicable to subscribers in CA)</p>
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get 50 extra Birchbox Points with your subscription, that's $5 to use in their shop!</p>
 
 <p>Now on to the Sample Choice items...</p>
 <center><img src='/images/BirchboxManAugust2015SampleChoiceCollage.jpg'></center>
@@ -61,4 +62,4 @@ date: 2015-07-06 13:38:39 -08:00
 
 Note: Power Play Items are available to be reserved starting July 8.
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox">subscribe here</a> before July 12th to receive the August box.</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox">subscribe here</a> before July 12th to receive the August box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get 50 extra Birchbox Points with your subscription, that's $5 to use in their shop!.</p>
