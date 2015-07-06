@@ -44,7 +44,6 @@ date: 2015-07-06 13:38:39 -08:00
 
 <p>Instead of the samples choices, you can also opt to get a featured box to replace your entire box.</p>
 <center><img src='/images/BirchboxManAugust2015FieldForestBox.png'></center>
-<figcaption>Field & Forest Box</figcaption>
 
 <p>The Field & Forest Box contains the following items:</p>
 <ul>
