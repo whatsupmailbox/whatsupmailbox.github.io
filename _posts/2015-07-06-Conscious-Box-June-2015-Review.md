@@ -31,16 +31,17 @@ date: 2015-07-06 11:32:39 -08:00
 <br>
 
 <H4>Items in detail:</H4>
-<p><center><img src='/images/ConsciousBoxJune2015.jpg'></center></p>
+<p><center><img src='/images/ConsciousBoxJune2015Shea.jpg'></center></p>
+<center><img src='/images/ConsciousBoxJune2015Shea2.jpg'></center>
 <DL>
-<DT>Garner Shirt in <i>Red</i></DT>
-<DD>Retail Value $55</DD>
+<DT>Coaster Scents Shea Butter</DT>
+<DD>2 sample sizes</DD>
 </DL>
 
 <p>This shirt was part of the original package that came with a matching jacket that had the flaw. I'm so glad this one is nothing but perfect and the short sleeves will be great for summer. The patterns and colors work well, plus the hidden buttons added a nice touch. This will be great by itself or under a cool summer jacket.</p>
 <br>
 
-<center><img src='/images/ConsciousBoxJune2015.jpg'></center>
+<center><img src='/images/ConsciousBoxJune2015Snacks.jpg'></center>
 <DL>
 <DT>Serrano Shirt in <i>Blue</i></DT>
 <DD>Retail Value $60</DD>
@@ -49,17 +50,58 @@ date: 2015-07-06 11:32:39 -08:00
 <p>A good classy long sleeve shirt is essential for any wardrobe and this one was a hit as well with my husband. I do feel like this shirt is more classy than fashion forward, but maybe that's just me.</p> 
 <br>
 
-<center><img src='/images/ConsciousBoxJune2015.jpg'></center>
+<center><img src='/images/ConsciousBoxJune2015Poopourri.jpg'></center>
 <DL>
 <DT>Hamilton T-Shirt in <i>White</i></DT>
 <DD>Retail Value $35</DD>
 </DL>
 
 <p>This is our first T-Shirt from them and the quality feels great, soft and 100% cotton. I like how it's not just a plain t-shirt with some graphics on it, my husband has too many of those!. The zippered pocket with red lining made this different and fashion forward in my opinion.</p>
-<figure>
-      <center><img src='/images/FiveFourClubJuly2015Tshirtpocket.jpg'></center>
-      <figcaption>Pocket in detail.</figcaption>
-</figure>
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015EnergyDrink.jpg'></center>
+<DL>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
+</DL>
+
+<p>Tissue.</p> 
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Packets.jpg'></center>
+<DL>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
+</DL>
+
+<p>Tissue.</p> 
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Tissue.jpg'></center>
+<DL>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
+</DL>
+
+<p>Tissue.</p> 
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015SugarEnzyme.jpg'></center>
+<DL>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
+</DL>
+
+<p>Tissue.</p> 
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Vaska.jpg'></center>
+<DL>
+<DT>Serrano Shirt in <i>Blue</i></DT>
+<DD>Retail Value $60</DD>
+</DL>
+
+<p>Tissue.</p> 
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy that their customer service is exemplary based on my personal experience, and that we received 3 items this month! I really liked the items they sent last month too (you can read my <a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-June-2015-Review/" target="_blank">June 2015 review here</a>), so 2 good months in a row makes me a happy subscriber. I'd love to see more colors for summer and maybe some shorts or a summer jacket for my next shipments. I'm finding myself excited for my husband every month to see what he gets, how strange is that =) For the $60 subscription cost, these three items are totally worth it and their values add up to $150 which is higher than last month. I totally recommend this subscription if you're a guy looking to upgrade your wardrobe or just don't have time to shop.</p>
