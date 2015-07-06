@@ -26,7 +26,7 @@ date: 2015-07-06 13:38:39 -08:00
 
 <H4>Here are your June 2015 Sample Choice items:</H4>
 <center><img src="/images/BirchboxManAugust2015SampleChoiceBackpack.png"></center>
-<p>Coalatree Nomad Backpack, Value $29.99</p>
+<H4>Coalatree Nomad Backpack, Value $29.99</H4>
 <figure class="half">
       <img src='/images/BirchboxManAugust2015SampleChoiceBackpack2.png'>
       <img src='/images/BirchboxManAugust2015SampleChoiceBackpack3.png'>
@@ -36,11 +36,11 @@ date: 2015-07-06 13:38:39 -08:00
 
 <center><img src="/images/BirchboxManAugust2015SampleChoiceKey.png"></center>
 <center><img src="/images/BirchboxManAugust2015SampleChoiceKey2.png"></center>
-<p>Native Union Key Cable Lightning Cord, Value $29.99</p>
+<H4>Native Union Key Cable Lightning Cord, Value $29.99</H4>
 <br>
 
 <center><img src="/images/BirchboxManAugust2015SampleChoiceKey.png"></center>
-<p>W&P Enamelware Camp Mug Set, Value $25</p>
+<H4>W&P Enamelware Camp Mug Set, Value $25</H4>
 <br>
 
 <p>Instead of the samples choices, you can also opt to get a featured box to replace your entire box.</p>
