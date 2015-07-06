@@ -22,6 +22,7 @@ date: 2015-07-06 13:38:39 -08:00
 <p>Now on to the Sample Choice items...</p>
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxManAugust2015SampleChoiceCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man August 2015 Power Play Choices!" /></a></center>
+<p>I love the choices for August, so outdoorsy and it's totally inspiring me to go camping!</p>
 <br>
 
 <H4>Here are your June 2015 Sample Choice items:</H4>
