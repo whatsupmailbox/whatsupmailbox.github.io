@@ -63,6 +63,6 @@ date: 2015-07-06 13:38:39 -08:00
 <img src="/images/BirchboxManAugust2015PowerPlayChoices.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Man August 2015 Power Play Choices!" /></a></center>
 <br>
 
-Note: Power Play Items are available to be reserved starting July 8.
+<p>Note: Power Play Items are available to be reserved starting July 8.</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox">subscribe here</a> before July 12th to receive the August box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get 50 extra Birchbox Points with your subscription, that's $5 to use in their shop!.</p>
