@@ -107,7 +107,7 @@ date: 2015-07-06 11:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy that their customer service is exemplary based on my personal experience, and that we received 3 items this month! I really liked the items they sent last month too (you can read my <a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-June-2015-Review/" target="_blank">June 2015 review here</a>), so 2 good months in a row makes me a happy subscriber. I'd love to see more colors for summer and maybe some shorts or a summer jacket for my next shipments. I'm finding myself excited for my husband every month to see what he gets, how strange is that =) For the $60 subscription cost, these three items are totally worth it and their values add up to $150 which is higher than last month. I totally recommend this subscription if you're a guy looking to upgrade your wardrobe or just don't have time to shop.</p>
 
-<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
+<p>If you're not a subscriber, you can <a href="http://shop.pe/v3T5B" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>FRIENDFREE</b></a> to get your first box FREE, just pay $6.95 shipping!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
