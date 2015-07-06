@@ -8,7 +8,7 @@ headline: "Sephora GWP from YSL - VIB & VIB Rouge Only"
 categories: 
   - Coupons
 type: photo
-description: "TOUCHE ÉCLAT"
+description: ""
 tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPYSL.png
