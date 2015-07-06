@@ -19,7 +19,8 @@ date: 2015-07-06 13:38:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get 50 extra Birchbox Points with your subscription, that's $5 to use in their shop!</p>
 
 <p>Now on to the Sample Choice items...</p>
-<center><img src='/images/BirchboxManAugust2015SampleChoiceCollage.jpg'></center>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxManAugust2015SampleChoiceCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man August 2015 Power Play Choices!" /></a></center>
 <br>
 
 <H4>Here are your June 2015 Sample Choice items:</H4>
@@ -57,7 +58,8 @@ date: 2015-07-06 13:38:39 -08:00
 *Sample choice is limited to a first-come, first-serve basis. Subscribers will get an email on or around July 14, prompting them to choose from the selection featured in this video. For early access to Sample Choice, just log in and refer a friend to join Birchbox on or before June 8; you’ll get to choose your item an entire day early.
 
 <H4>Here are July's Power Play items:</H4>
-<center><img src="/images/BirchboxManAugust2015PowerPlayChoices.png"></center>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxManAugust2015PowerPlayChoices.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Man August 2015 Power Play Choices!" /></a></center>
 <br>
 
 Note: Power Play Items are available to be reserved starting July 8.
