@@ -54,7 +54,7 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>1.6 Ounce, Value $1.2</DD>
 </DL>
 
-<p>I was so excited when I saw this bar in the box. I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. Although it was slightly sweet, I would say this bar is more savory which is awesome. It did have the heat as you would expect from jalapenos, but it wasn't overwhelming. The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars and because of that I can see the ingredients in whole with nothing hidden, that's a big plus in my book. I've found a new favorite protein bar!</p>
+<p>I was so excited when I saw this bar in the box. I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. This bar is definitely savory and so good too! There might be some heat from the jalapenos, but very slightly (or none for me at all, I'm used to spicy). The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars and because of that I can see the ingredients in whole with nothing hidden, that's a big plus in my book. I've found a new favorite protein bar!</p>
 
 <DL>
 <DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Back to Nature Fruit Punch</a></DT>
