@@ -1,17 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Conscious Box June 2015 Review!
+title: Conscious Box June 2015 Review + Free Box Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: ConsciousBoxJune2015Items.jpg
-headline: Conscious Box June 2015 Review!
+headline: Conscious Box June 2015 Review + Free Box Coupon!
 tags: [Conscious Box, Subscriptions, Reviews, June 2015]
-date: 2015-07-08 11:32:39 -08:00
+date: 2015-07-08 16:25:39 -08:00
 ---
 
 <center><img src='/images/ConsciousBoxJune2015Box.jpg'></center>
@@ -150,7 +150,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p>I currently use <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">Honest Co.</a> products for my detergent and dishwasher so I'm curious to see if these can compare. The dishwasher tablet contains no phosphates or chlorine and promises to clean your dishes naturally without compromise. The detergent claims to leave no stains, residue, toxins, irritants, pollutant or chemicals. Neither in your clothes or environment.</p> 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. At $19.99 a month and the promise of full-sized items, this was a complete fail and the total value of all the items were $16.36 based on my calculations of the samples which falls short of the subscription price. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box might be for you. But I wouldn't advise getting the Plus Box as the cost versus value is way off in my opinion.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. At $19.99 a month and the promise of full-sized items, this was a complete fail and the total value of all the items were $16.36 based on my calculations of the samples. That falls short of the subscription price. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box might be for you. But I wouldn't advise getting the Plus Box as the cost versus value is way off in my opinion.</p>
 
 <p>If you want to try them out, you can get your first box FREE by <a href="http://shop.pe/v3T5B" target="_blank"><big>joining here</big></a> and using coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>FRIENDFREE</b></a>, you only need to pay $6.95 shipping.</p>
 <br>
