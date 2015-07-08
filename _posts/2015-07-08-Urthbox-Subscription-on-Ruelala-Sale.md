@@ -32,7 +32,7 @@ date: 2015-07-08 09:50:39 -07:00
 <li>6 months $65</li>
 </ul>
 
-<i>This deal will end in 5 days, so if you want to try them out, better hurry before it closes!</p>
+<i>This deal will end in 5 days, so if you want to try them out, better hurry before it closes!</i>
 
 <p>THIS PACKAGE INCLUDES: The Small Part-Time Box subscription. Small Part-Time Boxes contain 12 full-sized snacks and you'll have the option to select either classic, vegan, gluten-free, or diet for your box type.</p> 
 
