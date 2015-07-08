@@ -7,7 +7,7 @@ category: Subscriptions
 tags: [Urthbox, Subscriptions, RueLaLa]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "UrthboxRuelala.jpg"
@@ -18,7 +18,7 @@ date: 2015-07-08 09:50:39 -07:00
 <img src="/images/UrthboxRuelalaSale.png" border="0" style="border:none;max-width:100%;" alt="Urthbox on sale at RueLaLa!" />
 </a></center>
 
-<H4>Urthbox is on sale at Rue La La!</H4>
+<H2>Urthbox is on sale at Rue La La!</H2>
 <p><a href="http://www.shareasale.com/r.cfm?b=700297&u=1115177&m=47975&urllink=&afftrack=" target="_blank"> Urthbox</a> is a monthly collection of healthy snacks, beverages and more. They focus on Non-GMO, Organic and All Natural products.</p>
 
 <p>If you've never tried them or would like to have some healthy snacks and/or beverages delivered to you monthly, this deal is a great way to try them out.</p>
