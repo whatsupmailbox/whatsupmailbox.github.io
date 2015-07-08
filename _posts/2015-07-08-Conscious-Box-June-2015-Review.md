@@ -69,7 +69,7 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015Poopourri2.jpg'></center>
 <DL>
 <DT><a href="http://www.poopourri.com/product-cat/all/" target="_blank">Poo-Pourri in Original Scent</a></DT>
-<DD>Value $5</DD>
+<DD>1 sample vial, 4ml/.13 fl.oz., Value $5</DD>
 </DL>
 
 <p>I was introduced to Poo-Pourri 3 years ago and it's a must for our house, when we travel, and in my purse! It really does what it's supposed to do and the scents I've had so far are amazing. All you gotta do is spray some in the throne prior to no.2, and voila, no stink at all. Plus it's all natural so you can breathe, freely. I absolutely love their titles too, and the poetry that goes on every bottle, hillarious! For example, here's the one for the Original scent: "spritz the bowl before-you-go and no one else will ever know!" You gotta check them out and if you've never tried them, I totally recommend it.</p>
