@@ -50,7 +50,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p>I love popchips and they're one of my favorite snacks so I was happy to get this in the box, yum! I've never tried the veggie chips though, but if you've ever had the veggie chips from Trader Joe's, it tastes pretty similar. Don't let the name fool you though, it's still made from dried potatoes. And the veggie part? Well it's in the form of beet powder, spinach powder, tomato powder, kale powder... you get the whole drill. So don't let that fool you from thinking, "this is so healthy I can eat the whole bag!"</p> 
 
 <DL>
-<DT><a href="http://www.amazon.com/STRONG-KIND-Roasted-Jalapeno-Ounce/dp/B00JA9LDH6" target="_blank">STRONG & KIND Roasted Jalapeno Bar</DT>
+<DT><a href="http://www.amazon.com/STRONG-KIND-Roasted-Jalapeno-Ounce/dp/B00JA9LDH6" target="_blank">STRONG & KIND Roasted Jalapeno Bar</a></DT>
 <DD>1.6 Ounce, Value $1.2</DD>
 </DL>
 
