@@ -21,7 +21,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p><b>Coupon:</b> <a href="http://shop.pe/v3T5B" target="_blank">Click this link</a> or use coupon code <b>FRIENDFREE</b> to get your first box FREE, just pay $6.95 shipping!</p>
 <br>
 
-<p>This review is for the Gluten Free Plus Box.</p>
+<p>This review is for the Gluten Free PLUS Box.</p>
 
 <p><center><img src='/images/ConsciousBoxJune2015OpenBox.jpg'></center></p>
 <p>First look at unboxing.</p>
