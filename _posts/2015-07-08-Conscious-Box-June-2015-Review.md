@@ -129,7 +129,7 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>2 sample packets, Value $.50?</DD>
 </DL>
 
-<p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these sample packets plus they're tiny. I'll still try it since it is Vegan, 100% Sugar Free, Gluten Free and Non-GMO but tastes just like sugar. But because of the sample sizes, it might not be enough for me to build an opinion on it so this is another fail.</p> 
+<p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these sample packets plus they're tiny. I'll still try it since it's Vegan, 100% Sugar Free, Gluten Free and Non-GMO but tastes just like sugar.</p> 
 
 <DL>
 <DT><a href="http://www.florahealth.com/product_conditions_usa.cfm?conditions_id=6&prod_id=295" target="_blank">Flora - Enzyme Blend</a></DT>
