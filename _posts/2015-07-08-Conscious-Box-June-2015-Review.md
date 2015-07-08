@@ -44,7 +44,7 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015Snacks.jpg'></center>
 <DL>
 <DT><a href="http://www.amazon.com/Popchips-Veggie-Chips-Salt-Ounce/dp/B00EDAPECC/ref=sr_1_4?ie=UTF8&qid=1409086530&sr=8-4&keywords=veggie+popchips" target="_blank">popchips - Sea Salt Veggie Chips</a></DT>
-<DD>0.8 oz bag, Value $1.30?</DD>
+<DD>0.8 oz bag, Value $1?</DD>
 </DL>
 
 <p>I love popchips and they're one of my favorite snacks so I was happy to get this in the box, yum! I've never tried the veggie chips though, but if you've ever had the veggie chips from Trader Joe's, it tastes pretty similar. Don't let the name fool you though, it's still made from dried potatoes. And the veggie part? Well it's in the form of beet powder, spinach powder, tomato powder, kale powder... you get the whole drill. So don't let that fool you from thinking, "this is so healthy I can eat the whole bag!"</p> 
@@ -69,7 +69,7 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015Poopourri2.jpg'></center>
 <DL>
 <DT><a href="http://www.poopourri.com/product-cat/all/" target="_blank">Poo-Pourri in Original Scent</a></DT>
-<DD>1 sample vial, 4ml/.13 fl.oz., Value $5</DD>
+<DD>1 sample vial, 4ml/.13 fl.oz., Value $.65</DD>
 </DL>
 
 <p>I was introduced to Poo-Pourri 3 years ago and it's a must for our house, when we travel, and in my purse! It really does what it's supposed to do and the scents I've had so far are amazing. All you gotta do is spray some in the throne prior to no.2, and voila, no stink at all. Plus it's all natural so you can breathe, freely. I absolutely love their titles too, and the poetry that goes on every bottle, hillarious! For example, here's the one for the Original scent: "spritz the bowl before-you-go and no one else will ever know!" You gotta check them out and if you've never tried them, I totally recommend it.</p>
@@ -126,7 +126,7 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015SugarEnzyme.jpg'></center>
 <DL>
 <DT><a href="http://www.lakanto.com/products/lakanto-classic-individual-packs/" target="_blank">Lakanto Classic Sweeteners</a></DT>
-<DD>2 sample packets, Value $.5?</DD>
+<DD>2 sample packets, Value $.50?</DD>
 </DL>
 
 <p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these sample packets plus they're tiny. I'll still try it since it is Vegan, 100% Sugar Free, Gluten Free and Non-GMO but tastes just like sugar. But because of the sample sizes, it might not be enough for me to build an opinion on it so this is another fail.</p> 
@@ -150,7 +150,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p>I currently use <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">Honest Co.</a> products for my detergent and dishwasher so I'm curious to see if these can compare. The dishwasher tablet contains no phosphates or chlorine and promises to clean your dishes naturally without compromise. The detergent claims to leave no stains, residue, toxins, irritants, pollutant or chemicals. Neither in your clothes or environment.</p> 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. At $19.99 a month and the promise of full-sized items, this was a complete fail. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box might be for you, but I wouldn't advise getting the Plus Box as the cost versus value is way off in my opinion.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. At $19.99 a month and the promise of full-sized items, this was a complete fail and the total value of all the items were $16.36 based on my calculations of the samples which falls short of the subscription price. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box might be for you. But I wouldn't advise getting the Plus Box as the cost versus value is way off in my opinion.</p>
 
 <p>If you want to try them out, you can get your first box FREE by <a href="http://shop.pe/v3T5B" target="_blank"><big>joining here</big></a> and using coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>FRIENDFREE</b></a>, you only need to pay $6.95 shipping.</p>
 <br>
@@ -169,7 +169,7 @@ date: 2015-07-08 11:32:39 -08:00
    </TR>
    <TR>
       <TD>popchips</TD>
-      <TD>$1.30</TD>
+      <TD>$1</TD>
    </TR>
    <TR>
       <TD>STRONG & KIND Roasted Jalapeno Bar</TD>
@@ -221,7 +221,7 @@ date: 2015-07-08 11:32:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$21.01</big></b></TD>
+      <TD><b><big>$16.36</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
