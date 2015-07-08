@@ -164,23 +164,67 @@ date: 2015-07-08 11:32:39 -08:00
       <TH>Name</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Garner Shirt</TD>
-      <TD>$55</TD>
+      <TD>oastal Scents Unrefined Shea Butter</TD>
+      <TD>$.50</TD>
    </TR>
    <TR>
-      <TD>Hamilton T-Shirt</TD>
-      <TD>$35</TD>
+      <TD>popchips</TD>
+      <TD>$1.30</TD>
    </TR>
    <TR>
-      <TD>Serrano Shirt</TD>
-      <TD>$60</TD>
+      <TD>STRONG & KIND Roasted Jalapeno Bar</TD>
+      <TD>$1.2</TD>
+   </TR>
+   <TR>
+      <TD>Back to Nature Fruit Punch</TD>
+      <TD>$.96</TD>
+   </TR>
+   <TR>
+      <TD>Poo-Pourri</TD>
+      <TD>$.65</TD>
+   </TR>
+   <TR>
+      <TD>Gaia Herbs Herbal Energy</TD>
+      <TD>$6.48</TD>
+   </TR>
+   <TR>
+      <TD>Egyptian Magic All Purpose Skin Cream</TD>
+      <TD>$.50</TD>
+   </TR>
+   <TR>
+      <TD>Nordic Naturals Omega Boost</TD>
+      <TD>$.50</TD>
+   </TR>
+   <TR>
+      <TD>Vibrant Health - Super Natural Calcium</TD>
+      <TD>$.50</TD>
+   </TR>
+   <TR>
+      <TD>Snap Infusion Supercandy</TD>
+      <TD>$2</TD>
+   </TR>
+   <TR>
+      <TD>Emerald Brand - Facial Tissue Pack</TD>
+      <TD>$.47</TD>
+   </TR>
+   <TR>
+      <TD>Lakanto Classic Sweeteners</TD>
+      <TD>$.50</TD>
+   </TR>
+   <TR>
+      <TD>Flora - Enzyme Blend</TD>
+      <TD>$.10</TD>
+   </TR>
+   <TR>
+      <TD>Vaska - Detergent and Dishwasher tablets</TD>
+      <TD>$1</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$150</big></b></TD>
+      <TD><b><big>$21.01</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$60</big></i></TD>
+      <TD><i><big>$19.99</big></i></TD>
    </TR>
 </TABLE>
