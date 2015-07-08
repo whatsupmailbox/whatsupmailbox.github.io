@@ -26,7 +26,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p><center><img src='/images/ConsciousBoxJune2015OpenBox.jpg'></center></p>
 <p>First look at unboxing.</p>
 
-<H4>And on to the items:</H4>
+<H4>And here are the items:</H4>
 <p><center><img src='/images/ConsciousBoxJune2015Items.jpg'></center></p>
 <br>
 
@@ -35,10 +35,10 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015Shea2.jpg'></center>
 <DL>
 <DT><a href="http://www.coastalscents.com/natural-products/butter/bw-002.html" target="_blank">Coastal Scents Unrefined Shea Butter</a></DT>
-<DD>2 sample tubs, .2oz each, Value $.50 cents?</DD>
+<DD>2 sample jars, .2oz each, Value $.50 cents?</DD>
 </DL>
 
-<p>This Unrefined Shea Butter is 100% natural and is targeted to moisturize dry skin. Some reviews said that the smell is bad, but I didn't find that true at all, at least with my 2 samples. They smell like shea butter, period. I'm happy that they included 2, but a full size product would have been more appreciated, especially since the value is low and I purchased the Plus Box, just saying.</p>
+<p>This Unrefined Shea Butter is 100% natural and is targeted to moisturize dry skin. Some reviews said that the smell is bad, but I didn't find that true at all, at least with my 2 samples. They smell like shea butter, period. I'm happy that they included 2, but a full sized product would have been more appreciated, especially since the value is low and I purchased the Plus Box, just saying.</p>
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015Snacks.jpg'></center>
@@ -57,8 +57,8 @@ date: 2015-07-08 11:32:39 -08:00
 <p>I was so excited when I saw this bar in the box. I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. This bar is definitely savory and so good too! There might be some heat from the jalapenos, but very slightly (or none for me at all, I'm used to spicy). The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars and because of that I can see the ingredients in whole with nothing hidden, that's a big plus in my book. I've found a new favorite protein bar!</p>
 
 <DL>
-<DT<a href="" target="_blank">Back to Nature Fruit Punch</a></DT>
-<DD>1 pouch 6 fl.oz., Value $1?</DD>
+<DT<a href="http://www.vinemarket.com/p/back-to-nature-juice-fruit-punch-6-oz-1040593" target="_blank">Back to Nature Fruit Punch</a></DT>
+<DD>1 pouch 6 fl.oz., Value $.96</DD>
 </DL>
 
 <p>Right off the bat I noticed that the juice is from concentrate which is not my favorite type. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? I feel like a kid again with a lunch box.</p>
@@ -81,58 +81,58 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>2 bottles at 2 fl.oz. each, Value $6.48</DD>
 </DL>
 
-<p>I'm not an energy drink consumer but since it's made with natural ingredients such as Ginger root, Ginseng, Black Elderberry Berries, and Green tea to name a few, I decided to try it. It's also 99.9% caffeine free, so that made the choice easier. The taste is sweet yet tart, and I found it a bit hard to finish the bottle. Maybe it's because I'm just not used to drinking energy drinks, they seem so concentrated. But if I was a constant consumer of these type of drinks, I'd totally go the natural route and these seem like the healthy choice to get. FYI, these two bottles have an expiration date of 08/15 so I guess I'll be drinking the second one soon.</p> 
+<p>I'm not an energy drink consumer but this one is made with natural ingredients such as Ginger root, Ginseng, Black Elderberry Berries, and Green tea to name a few. It's also 99.9% caffeine free for those of you who are like me and are sensitive to caffeine. My two bottles have an expiration date that is next month, so I guess I'll be trying this soon.</p> 
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015Packets.jpg'></center>
 <DL>
-<DT>Egyptian Magic All Purpose Skin Cream</DT>
+<DT><a href="http://egyptianmagic.com" target="_blank">Egyptian Magic All Purpose Skin Cream</a></DT>
 <DD>Value $.50?</DD>
 </DL>
 
-<p>Oh how I dislike receiving foil packets in sub boxes. It just makes the box seem cheap and desperate and I'm a high maintenance gal that wants to be wowed and pampered. Especially when money has been spent. So no, this did not make me happy. I did try the product for the sake of this review though and since I wanted to be safe, I used it on my hands. The packets says to rub a moderate amount in your palms until it takes the form of oil, then apply on your skin. I don't like anything oily, so I can't say I'm in love with this moisturizer.</p> 
+<p>Oh how I dislike receiving foil packets in sub boxes. It just makes the box seem cheap and desperate and I'm a high maintenance gal that wants to be wowed and pampered. Especially when money has been spent. So no, this did not make me happy. That aside, this product is actually available on <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> and got great reviews. I myself found it to be a bit greasy for my taste, but that's just me. The packets says to rub a moderate amount in your palms until it takes the form of oil, then apply on your skin.</p> 
 
 <DL>
-<DT>Nordic Naturals - Omega Boost in Creamy Lemon</DT>
+<DT><a href="http://www.nordicnaturals.com/en/Products/Product_Details/514/?ProdID=1711" target="_blank">Nordic Naturals - Omega Boost in Creamy Lemon</a></DT>
 <DD>Value $.50?</DD>
 </DL>
 
-<p>I grew up having to take fish oil as my parents believed it to be the magic elixir that will make you smart and healthy, mostly smart though. I wish they had this when I was younger, this tastes much better than fish oil. I'm not sure I'd be diligent enough to take this everyday though. I take gummy vitamins daily and it's so convenient and not to mention fun to eat and because of that I never forget to take them.</p> 
+<p>I grew up having to take fish oil as my parents believed it to be the magic elixir that will make you smart and healthy, mostly smart though. I wish they had this when I was younger, this tastes much better than fish oil. I'm not sure I'd be diligent enough to take this everyday though.</p> 
 
 <DL>
-<DT>Vibrant Health - Super Natural Calcium</DT>
+<DT><a href="https://www.vibranthealth.com/super-natural-calcium/product-pages/super-natural-calcium" target="_blank">Vibrant Health - Super Natural Calcium</a></DT>
 <DD>Value $.50?</DD>
 </DL>
 
-<p>So this is in powder form and you're supposed to mix it into your beverage or food of choice. Again, I feel as though there are more convenient ways to take your daily needed calcium. Powder just seems too complicated to do in my busy mornings that I'll just end up forgetting or skipping it altogether.</p>
+<p>So this is in powder form and you're supposed to mix it into your beverage or food of choice. I feel as though there are more convenient ways to take your daily needed calcium. Powder just seems too complicated to do in my busy mornings that I'll just end up forgetting or skipping it altogether. They do have this in tablet form if you're interested.</p>
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015CandyTissue.jpg'></center>
 <DL>
-<DT>Supercandy - Bean flavored</DT>
+<DT><a href="https://www.snapsupercandy.com/store/#BEAN" target="_blank">Snap Infusion - Supercandy in Bean flavored</a></DT>
 <DD>Value $2</DD>
 </DL>
 
 <p>I've tried this in last month's Popsugar Must Have and they were good. This serves as a quick snack and is made from natural ingredients with functional benefits. I'm not sure about "Bean flavored" though, seems like an odd flavor to have.</p>
 
 <DL>
-<DT>Tissue</DT>
-<DD>Value $1?</DD>
+<DT><a href="http://www.emeraldbrand.com/facial-tissue/" target="_blank">Emerald Brand - Facial Tissue Pack</a></DT>
+<DD>Value $.47</DD>
 </DL>
 
-<p>Tissue packs are a necessity because I'm such a germaphobe, so I'm happy to try this brand. I find the tissues soft and didn't break easily.</p>
+<p>These tissues are soft and made with bagasse and bamboo, so no trees here! I have bamboo sheets and they are amazing so I'm happy to try bamboo tissues. I just might have to buy some more!</p>
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015SugarEnzyme.jpg'></center>
 <DL>
-<DT>Sugar Packets</DT>
-<DD>Value $.10?</DD>
+<DT><a href="http://www.lakanto.com/products/lakanto-classic-individual-packs/" target="_blank">Lakanto Classic Sweeteners</DT>
+<DD>2 sample packets, Value $.5?</DD>
 </DL>
 
-<p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these packet samples plus these are tiny. Even though I'll still try it, it might not be enough for me to build an opinion on it so this is another fail.</p> 
+<p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these sample packets plus they're tiny. I'll still try it since it is Vegan, 100% Sugar Free, Gluten Free and Non-GMO but tastes just like sugar. But because of the sample sizes, it might not be enough for me to build an opinion on it so this is another fail.</p> 
 
 <DL>
-<DT>Flora - Enzyme Blend</DT>
+<DT><a href="http://www.florahealth.com/product_conditions_usa.cfm?conditions_id=6&prod_id=295" target="_blank">Flora - Enzyme Blend</a></DT>
 <DD>A packet of 3 capsules, Value $.10?</DD>
 </DL>
 
@@ -143,11 +143,11 @@ date: 2015-07-08 11:32:39 -08:00
 
 <center><img src='/images/ConsciousBoxJune2015Vaska.jpg'></center>
 <DL>
-<DT>Vaska - Detergent and Dishwasher tablets</DT>
+<DT><a href="http://vaskahome.com/products/" target="_blank">Vaska - Detergent and Dishwasher tablets</a></DT>
 <DD>1 tablet each, Value $1?</DD>
 </DL>
 
-<p>I currently use Honest Co. products for my detergent and dishwasher so I'm curious to see if these can compare. The dishwasher tablet contains no phosphates or chlorine and claims to clean dishses naturally without compromise.</p> 
+<p>I currently use <a href="http://click.linksynergy.com/fs-bin/click?id=E8Cf336JUvc&offerid=281968.138&type=3&subid=0&LSNSUBSITE=adgid" target="_blank">Honest Co.</a> products for my detergent and dishwasher so I'm curious to see if these can compare. The dishwasher tablet contains no phosphates or chlorine and promises to clean your dishes naturally without compromise. The detergent claims to leave no stains, residue, toxins, irritants, pollutant or chemicals. Neither in your clothes or environment.</p> 
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. At $19.99 a month and the promise of full-sized items, this was a complete fail. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box might be for you, but I wouldn't advise getting the Plus Box as the cost versus value is way off in my opinion.</p>
