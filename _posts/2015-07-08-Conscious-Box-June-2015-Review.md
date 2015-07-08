@@ -1,0 +1,186 @@
+---
+layout: post
+published: false
+categories: 
+    - Subscriptions
+    - Reviews
+title: Conscious Box June 2015 Review!
+featured: false
+comments: true
+type: photo
+imagefeature: ConsciousBoxJune2015Items.jpg
+headline: Conscious Box June 2015 Review!
+tags: [Conscious Box, Subscriptions, Reviews, June 2015]
+date: 2015-07-08 11:32:39 -08:00
+---
+
+<center><img src='/images/ConsciousBoxJune2015Box.jpg'></center>
+<p><b>Subscription:</b> <a href="http://shop.pe/v3T5B" target="_blank">Conscious Box</a></p>
+<p><b>Cost:</b> $9.95/monthly for the Taster Box OR $19.95/monthly for the Plus Box + Free Shipping</p>
+<p><b>What's in the box:</b> With the Taster Box, you'll receive sample sized products that are natural and healthy ranging from home, skincare and food items. The Plus Box will include full-sized products.</p>
+<p><b>Coupon:</b> <a href="http://shop.pe/v3T5B" target="_blank">Click this link</a> or use coupon code <b>FRIENDFREE</b> to get your first box FREE, just pay $6.95 shipping!</p>
+<br>
+
+<p>This review is for the Gluten Free Plus Box.</p>
+
+<p><center><img src='/images/ConsciousBoxJune2015OpenBox.jpg'></center></p>
+<p>First look at unboxing.</p>
+
+<H4>Here are the items for a Gluten-Free Plus Box:</H4>
+<p><center><img src='/images/ConsciousBoxJune2015Items.jpg'></center></p>
+<br>
+
+<H4>Items in detail:</H4>
+<p><center><img src='/images/ConsciousBoxJune2015Shea.jpg'></center></p>
+<center><img src='/images/ConsciousBoxJune2015Shea2.jpg'></center>
+<DL>
+<DT><a href="http://www.coastalscents.com/natural-products/butter/bw-002.html" target="_blank">Coastal Scents Unrefined Shea Butter</a></DT>
+<DD>2 sample tubs, .2oz each, Value $.50 cents?</DD>
+</DL>
+
+<p>This Unrefined Shea Butter is 100% natural and is excellent for moisturizing dry skin. Some reviews said that the smell is bad, but I didn't find that true at all, at least with my 2 samples. They smell like shea butter period. I'm happy that they included 2, but a full size product would have been more appreciated, especially since the value is low and I purchased the Plus Box, just saying.</p>
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Snacks.jpg'></center>
+<DL>
+<DT><a href="http://www.amazon.com/Popchips-Veggie-Chips-Salt-Ounce/dp/B00EDAPECC/ref=sr_1_4?ie=UTF8&qid=1409086530&sr=8-4&keywords=veggie+popchips" target="_blank">popchips - Sea Salt Veggie Chips</a></DT>
+<DD>0.8 oz bag, Value $1.30?</DD>
+</DL>
+
+<p>I love popchips and they're one of my favorite snacks so I was happy to get this in the box, yum! I've never tried the veggie chips though and if you've ever had any veggie chips from Trader Joe's, it tastes almost the same. It's still made from dried potatoes, and the veggie part is just beet powder, spinach powder, tomato powder, kale powder... you get the whole drill. So don't let that fool you from thinking, "this is so healthy I can eat the whole bag!" ;)</p> 
+
+<DL>
+<DT><a href="http://www.amazon.com/STRONG-KIND-Roasted-Jalapeno-Ounce/dp/B00JA9LDH6" target="_blank">STRONG & KIND Roasted Jalapeno Bar</DT>
+<DD>1.6 Ounce, Value $1.2</DD>
+</DL>
+
+<p>I was so excited when I saw this bar in the box, I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. Although it was slightly sweet, I would say this bar is more savory which is awesome. It did have the heat as you would expect from jalapenos, but it wasn't overwhelming. The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars, and because of that, it allowed me to taste the ingredients individually. I've found a new favorite protein bar!</p>
+
+<DL>
+<DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Back to Nature Fruit Punch</a></DT>
+<DD>1 pouch 6 fl.oz., Value $1?</DD>
+</DL>
+
+<p>Right off the bat I noticed that the juice is from concentrate which is a fail for me. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? Sorry, this was a fail for me.</p>
+
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Poopourri.jpg'></center>
+<center><img src='/images/ConsciousBoxJune2015Poopourri2.jpg'></center>
+<DL>
+<DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Poo-Pourri in Original Scent</a></DT>
+<DD>Value $5</DD>
+</DL>
+
+<p>I was introduced to Poo-Pourri 3 years ago and it's a must for our house, when we travel, and in my purse! It really does what it's supposed to do and the scents I've had so far are amazing. All you gotta do is spray some in the throne prior to no.2, and voila, no stink at all. Plus it's all natural so you can breathe, literally. I absolutely love their titles too, and the poetry that goes on every bottle, hillarious! For example, here's the one for the Original scnet: "spritz the bowl before-you-go and no one else will ever know!" You gotta check them out and if you've never tried them, I totally recommend it.</p>
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015EnergyDrink.jpg'></center>
+<DL>
+<DT><a href="http://www.swansonvitamins.com/gaia-herbs-herbal-energy-plus-immune-support-2-fl-oz-liquid?SourceCode=INTL405&CAWELAID=530002460000017807&catargetid=530002460000099578&cadevice=c&mkwid=61hZvixh&pcrid=80480685367&gclid=CjwKEAjwlPOsBRCWq5_e973PzTgSJACMiEp2IMYFTH1YFNTsxO9LTPTMy8qhKVg_IjwRUqV7sHd5FhoCG-zw_wcB" target="_blank">Gaia Herbs - Herbal Energy Plus Immune Support</a></DT>
+<DD>2 bottles at 2 fl.oz. each, Value $6.48</DD>
+</DL>
+
+<p>I'm not an energy drink consumer but since it's made with natural ingredients such as Ginger root, Ginseng, Black Elderberry Berries, and Green tea to name a few, I decided to try it. It's also 99.9% caffeine free, so that made the choice easier. The taste is sweet yet tart, and I found it a bit hard to finish the bottle. Maybe it's because I'm just not used to drinking energy drinks, they seem so concentrated. But if I was a constant consumer of these type of drinks, I'd totally go the natural route and these seem like the healthy choice to get. FYI, these two bottles have an expiration date of 08/15 so I guess I'll be drinking the second one soon.</p> 
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Packets.jpg'></center>
+<DL>
+<DT>Egyptian Magic All Purpose Skin Cream</DT>
+<DD>Value $.50?</DD>
+</DL>
+
+<p>Oh how I dislike receiving foil packets in sub boxes. It just makes the box seem cheap and desperate and I'm a high maintenance gal that wants to be wowed and pampered. Especially when money has been spent. So no, this did not make me happy. I did try the product for the sake of this review though and since I wanted to be safe, I used it on my hands. The packets says to rub a moderate amount in your palms until it takes the form of oil, then apply on your skin. I don't like anything oily, so I can't say I'm in love with this moisturizer.</p> 
+
+<DL>
+<DT>Nordic Naturals - Omega Boost in Creamy Lemon</DT>
+<DD>Value $.50?</DD>
+</DL>
+
+<p>I grew up having to take fish oil as my parents believed it to be the magic elixir that will make you smart and healthy, mostly smart though. I wish they had this when I was younger, this tastes much better than fish oil. I'm not sure I'd be diligent enough to take this everyday though. I take gummy vitamins daily and it's so convenient and not to mention fun to eat and because of that I never forget to take them.</p> 
+
+<DL>
+<DT>Vibrant Health - Super Natural Calcium</DT>
+<DD>Value $.50?</DD>
+</DL>
+
+<p>So this is in powder form and you're supposed to mix it into your beverage or food of choice. Again, I feel as though there are more convenient ways to take your daily needed calcium. Powder just seems too complicated to do in my busy mornings that I'll just end up forgetting or skipping it altogether.</p>
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015CandyTissue.jpg'></center>
+<DL>
+<DT>Supercandy - Bean flavored</DT>
+<DD>Value $2</DD>
+</DL>
+
+<p>I've tried this in last month's Popsugar Must Have and they were good. This serves as a quick snack and is made from natural ingredients with functional benefits. I'm not sure about "Bean flavored" though, seems like an odd flavor to have.</p>
+
+<DL>
+<DT>Tissue</DT>
+<DD>Value $1?</DD>
+</DL>
+
+<p>Tissue packs are a necessity because I'm such a germaphobe, so I'm happy to try this brand. I find the tissues soft and didn't break easily.</p>
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015SugarEnzyme.jpg'></center>
+<DL>
+<DT>Sugar Packets</DT>
+<DD>Value $.10?</DD>
+</DL>
+
+<p>Sugar packets, really? Sigh. I'm not sure I can write more on how disappointed I am on these packet samples plus these are tiny. Even though I'll still try it, it might not be enough for me to build an opinion on it so this is another fail.</p> 
+
+<DL>
+<DT>Flora - Enzyme Blend</DT>
+<DD>A packet of 3 capsules, Value $.10?</DD>
+</DL>
+
+<p>This is a dietary supplement that consist of 7 enzymes including lactase, which breaks down lactose and supports the relief of discomforts associated with dairy intolerance, plus protease to aid in the digestion of proteins. It also contains the enzymes required to break down and metabolize fat, carbs, soluble fiber, starch, milk sugar, and complex sugars. And in addition to that, it also helps to reduce gas and bloating following meals rich in carbs.</p>
+<p>Being a woman, we have those days where we wake up all puffy and feeling fat due to bloating, and this might be great for that. I also feel that constipation happens more frequently when I'm traveling because of the difference in food and ingredients each country offers, so I'll totally be taking this with me when I'm going on my vacation later this week. I'm hoping it'll help and if it does, it just might be a staple in our medicine cabinet.</p>
+
+<br>
+
+<center><img src='/images/ConsciousBoxJune2015Vaska.jpg'></center>
+<DL>
+<DT>Vaska - Detergent and Dishwasher tablets</DT>
+<DD>1 tablet each, Value $1?</DD>
+</DL>
+
+<p>I currently use Honest Co. products for my detergent and dishwasher so I'm curious to see if these can compare. The dishwasher tablet contains no phosphates or chlorine and claims to clean dishses naturally without compromise.</p> 
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I don't know yet how I fully feel about this box. I'm disappointed in the many sample packets that's included, and I'm not sure I find the full sized items which I assume to be the protein bar and energy drink to be satisfactory for a Plus Box. Although I do tend to keep a healthy and natural home, I think I'd rather spend my money on actual products rather than samples which I won't fully be able to assess due to the size. Sadly I don't think this box is for me. I just can't justify spending money on items that I could get free by visiting my local Whole Foods or Sprouts. They give out free samples frequently and in large amounts, at least mine does. If you're looking to find new and healthy products to try for your home, health or beauty, and don't mind trying it in small samples form, then perhaps this box is for you. It just wasn't for me.</p>
+
+<p>If you're not a subscriber, you can <a href="http://shop.pe/v3T5B" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>FRIENDFREE</b></a> to get your first box FREE, just pay $6.95 shipping!</p>
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Name</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Garner Shirt</TD>
+      <TD>$55</TD>
+   </TR>
+   <TR>
+      <TD>Hamilton T-Shirt</TD>
+      <TD>$35</TD>
+   </TR>
+   <TR>
+      <TD>Serrano Shirt</TD>
+      <TD>$60</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$150</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$60</big></i></TD>
+   </TR>
+</TABLE>
