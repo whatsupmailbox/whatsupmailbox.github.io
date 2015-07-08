@@ -125,7 +125,7 @@ date: 2015-07-08 11:32:39 -08:00
 
 <center><img src='/images/ConsciousBoxJune2015SugarEnzyme.jpg'></center>
 <DL>
-<DT><a href="http://www.lakanto.com/products/lakanto-classic-individual-packs/" target="_blank">Lakanto Classic Sweeteners</DT>
+<DT><a href="http://www.lakanto.com/products/lakanto-classic-individual-packs/" target="_blank">Lakanto Classic Sweeteners</a></DT>
 <DD>2 sample packets, Value $.5?</DD>
 </DL>
 
