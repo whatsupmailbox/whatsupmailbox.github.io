@@ -26,7 +26,7 @@ date: 2015-07-08 11:32:39 -08:00
 <p><center><img src='/images/ConsciousBoxJune2015OpenBox.jpg'></center></p>
 <p>First look at unboxing.</p>
 
-<H4>Here are the items:</H4>
+<H4>And on to the items:</H4>
 <p><center><img src='/images/ConsciousBoxJune2015Items.jpg'></center></p>
 <br>
 
