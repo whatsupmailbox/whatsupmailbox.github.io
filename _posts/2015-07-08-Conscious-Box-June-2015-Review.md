@@ -68,7 +68,7 @@ date: 2015-07-08 11:32:39 -08:00
 <center><img src='/images/ConsciousBoxJune2015Poopourri.jpg'></center>
 <center><img src='/images/ConsciousBoxJune2015Poopourri2.jpg'></center>
 <DL>
-<DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Poo-Pourri in Original Scent</a></DT>
+<DT><a href="http://www.poopourri.com/product-cat/all/" target="_blank">Poo-Pourri in Original Scent</a></DT>
 <DD>Value $5</DD>
 </DL>
 
