@@ -38,7 +38,7 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>2 sample tubs, .2oz each, Value $.50 cents?</DD>
 </DL>
 
-<p>This Unrefined Shea Butter is 100% natural and is excellent for moisturizing dry skin. Some reviews said that the smell is bad, but I didn't find that true at all, at least with my 2 samples. They smell like shea butter period. I'm happy that they included 2, but a full size product would have been more appreciated, especially since the value is low and I purchased the Plus Box, just saying.</p>
+<p>This Unrefined Shea Butter is 100% natural and is targeted to moisturize dry skin. Some reviews said that the smell is bad, but I didn't find that true at all, at least with my 2 samples. They smell like shea butter, period. I'm happy that they included 2, but a full size product would have been more appreciated, especially since the value is low and I purchased the Plus Box, just saying.</p>
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015Snacks.jpg'></center>
@@ -47,21 +47,21 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>0.8 oz bag, Value $1.30?</DD>
 </DL>
 
-<p>I love popchips and they're one of my favorite snacks so I was happy to get this in the box, yum! I've never tried the veggie chips though and if you've ever had any veggie chips from Trader Joe's, it tastes almost the same. It's still made from dried potatoes, and the veggie part is just beet powder, spinach powder, tomato powder, kale powder... you get the whole drill. So don't let that fool you from thinking, "this is so healthy I can eat the whole bag!" ;)</p> 
+<p>I love popchips and they're one of my favorite snacks so I was happy to get this in the box, yum! I've never tried the veggie chips though, but if you've ever had the veggie chips from Trader Joe's, it tastes pretty similar. Don't let the name fool you though, it's still made from dried potatoes. And the veggie part? Well it's in the form of beet powder, spinach powder, tomato powder, kale powder... you get the whole drill. So don't let that fool you from thinking, "this is so healthy I can eat the whole bag!"</p> 
 
 <DL>
 <DT><a href="http://www.amazon.com/STRONG-KIND-Roasted-Jalapeno-Ounce/dp/B00JA9LDH6" target="_blank">STRONG & KIND Roasted Jalapeno Bar</DT>
 <DD>1.6 Ounce, Value $1.2</DD>
 </DL>
 
-<p>I was so excited when I saw this bar in the box, I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. Although it was slightly sweet, I would say this bar is more savory which is awesome. It did have the heat as you would expect from jalapenos, but it wasn't overwhelming. The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars, and because of that, it allowed me to taste the ingredients individually. I've found a new favorite protein bar!</p>
+<p>I was so excited when I saw this bar in the box. I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. Although it was slightly sweet, I would say this bar is more savory which is awesome. It did have the heat as you would expect from jalapenos, but it wasn't overwhelming. The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars and because of that I can see the ingredients in whole with nothing hidden, that's a big plus in my book. I've found a new favorite protein bar!</p>
 
 <DL>
 <DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Back to Nature Fruit Punch</a></DT>
 <DD>1 pouch 6 fl.oz., Value $1?</DD>
 </DL>
 
-<p>Right off the bat I noticed that the juice is from concentrate which is a fail for me. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? Sorry, this was a fail for me.</p>
+<p>Right off the bat I noticed that the juice is from concentrate which is not my favorite types. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? Sorry, this was a fail for me.</p>
 
 <br>
 
@@ -72,7 +72,7 @@ date: 2015-07-08 11:32:39 -08:00
 <DD>Value $5</DD>
 </DL>
 
-<p>I was introduced to Poo-Pourri 3 years ago and it's a must for our house, when we travel, and in my purse! It really does what it's supposed to do and the scents I've had so far are amazing. All you gotta do is spray some in the throne prior to no.2, and voila, no stink at all. Plus it's all natural so you can breathe, literally. I absolutely love their titles too, and the poetry that goes on every bottle, hillarious! For example, here's the one for the Original scnet: "spritz the bowl before-you-go and no one else will ever know!" You gotta check them out and if you've never tried them, I totally recommend it.</p>
+<p>I was introduced to Poo-Pourri 3 years ago and it's a must for our house, when we travel, and in my purse! It really does what it's supposed to do and the scents I've had so far are amazing. All you gotta do is spray some in the throne prior to no.2, and voila, no stink at all. Plus it's all natural so you can breathe, freely. I absolutely love their titles too, and the poetry that goes on every bottle, hillarious! For example, here's the one for the Original scent: "spritz the bowl before-you-go and no one else will ever know!" You gotta check them out and if you've never tried them, I totally recommend it.</p>
 <br>
 
 <center><img src='/images/ConsciousBoxJune2015EnergyDrink.jpg'></center>
