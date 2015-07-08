@@ -57,11 +57,11 @@ date: 2015-07-08 11:32:39 -08:00
 <p>I was so excited when I saw this bar in the box. I love everything spicy and to finally see a protein bar that is both savory and spicy, how perfect! I couldn't help but to try it right away. This bar is definitely savory and so good too! There might be some heat from the jalapenos, but very slightly (or none for me at all, I'm used to spicy). The ingredients are: almonds, pumpkin and hemp seeds, honey, non-GMO glucose, and pea crisps, jalapeno chili, onion powder, garlic powder, smoked sea salt and sunflower lecithin. The nuts and seeds are completely whole, not mashed like some other bars and because of that I can see the ingredients in whole with nothing hidden, that's a big plus in my book. I've found a new favorite protein bar!</p>
 
 <DL>
-<DT<a href="http://www.poopourri.com/product-cat/all/" target="_blank">Back to Nature Fruit Punch</a></DT>
+<DT<a href="" target="_blank">Back to Nature Fruit Punch</a></DT>
 <DD>1 pouch 6 fl.oz., Value $1?</DD>
 </DL>
 
-<p>Right off the bat I noticed that the juice is from concentrate which is not my favorite types. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? Sorry, this was a fail for me.</p>
+<p>Right off the bat I noticed that the juice is from concentrate which is not my favorite type. Plus I think it's quite odd to add a juice pack into a sub box. I mean a bottle maybe, and something that's new and healthy, but a juice pack? I feel like a kid again with a lunch box.</p>
 
 <br>
 
