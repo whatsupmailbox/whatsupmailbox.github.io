@@ -18,6 +18,7 @@ date: 2015-07-08 09:50:39 -07:00
 <img src="/images/UrthboxRuelalaSale.png" border="0" style="border:none;max-width:100%;" alt="Urthbox on sale at RueLaLa!" />
 </a></center>
 
+<H4>Urthbox is on sale at Rue La La!</p>
 <p><a href="http://www.shareasale.com/r.cfm?b=700297&u=1115177&m=47975&urllink=&afftrack=" target="_blank"> Urthbox</a> is a monthly collection of healthy snacks, beverages and more. They focus on Non-GMO, Organic and All Natural products.</p>
 
 <p>If you've never tried them or would like to have some healthy snacks and/or beverages delivered to you monthly, this deal is a great way to try them out.</p>
@@ -31,7 +32,11 @@ date: 2015-07-08 09:50:39 -07:00
 <li>6 months $65</li>
 </ul>
 
-<p>THIS PACKAGE INCLUDES: The Small Part-Time Box subscription. Small Part-Time Boxes contain 12 full-sized snacks and you'll have the option to select either classic, vegan, gluten-free, or diet for your box type.</p>
+<i>This deal will end in 5 days, so if you want to try them out, better hurry before it closes!</p>
+
+<p>THIS PACKAGE INCLUDES: The Small Part-Time Box subscription. Small Part-Time Boxes contain 12 full-sized snacks and you'll have the option to select either classic, vegan, gluten-free, or diet for your box type.</p> 
+
+<p>Validity: July 8 through October 8, 2015</p>
 
 <p>*Note: You will be enrolled in their monthly subscription plan afterwards. If you don't plan on keeping the subscription, cancelling can be done by emailing them. Just make sure to email your cancellation request before the 1st of the month.</p>
 
