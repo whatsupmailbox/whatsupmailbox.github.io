@@ -26,9 +26,9 @@ date: 2015-07-09 11:32:39 -08:00
 
 <p>Their next box is 1.4 Escape to the French Riviera and boxes will start shipping out mid July and will continue to ship thru the end of July. That's coming up soon, yay! #soexcited</p>
 
-<p><center><img src='/images/OuiPleaseEscapetoTheFrenchRiviera.jpg'></center></p>
+<p><center><img src='/images/OuiPleaseEscapeTotheFrenchRiviera.jpg'></center></p>
 
-<p>Doesn't the French Riviera look so inviting! I visited France exactly 1 year ago and I wish I was there again... definitely next year, it's a plan ;)</p>
+<p>Doesn't the French Riviera look so inviting! I visited France exactly 1 year ago and I wish I was there again, oh la belle vie... definitely next year, it's a plan ;)</p>
 
 <p>And just to tease you, here are a couple of spoilers that they've released so far:</p>
 
