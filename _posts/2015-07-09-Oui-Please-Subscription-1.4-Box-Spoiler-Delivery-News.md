@@ -37,8 +37,11 @@ date: 2015-07-09 11:32:39 -08:00
 <p>An item from Kingies Paris. That bag will go perfectly with my Homies hat!</p>
 <br>
 
-<center><img src='/images/OuiPleaseSothysParis.png'></center>
-<p>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's pictured, so take note on that.</p>
+<figure class="half">
+        <img src='/images/OuiPleaseSothys.png'>
+        <img src='/images/OuiPleaseParisSothys.png'>
+        <figcaption>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's            pictured, so take note on that.</figcaption>
+</figure>
 <br>
 
 <figure class="half">
@@ -51,7 +54,7 @@ date: 2015-07-09 11:32:39 -08:00
 <center><img src='/images/OuiPleaseObjetsObscurs.png'></center>
 <p>Stack up with summer treasures from Objets Obscurs</p>
 
-<center><img src='/images/OuiPleaseluluenprovence.png'></center>
+<center><img src='/images/OuiPleaseLuluEnProvence.png'></center>
 <p>Secure beach necessities with Lulu En Provence waterproof goodies.</p>
 
 <p>I'm so excited about 1.4 Escape to the French Riviera box, so many goodies and I hope I get them all! #wishfulthinking</p>
