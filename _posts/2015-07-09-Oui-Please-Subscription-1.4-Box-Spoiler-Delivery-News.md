@@ -24,7 +24,7 @@ date: 2015-07-09 11:32:39 -08:00
 
 <p>I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
 
-<p>Their next box is 1.4 Escape to the French Riviera and boxes will start shipping out mid July and will continue to ship thru the end of July. That's coming up soon, yay! #soexcited</p>
+<p><i class="icon-dropbox"></i> Their next box is "1.4 Escape to the French Riviera" and boxes will start shipping out mid July and will continue to ship thru the end of July. That's coming up soon, yay! #soexcited</p>
 
 <p><center><img src='/images/OuiPleaseEscapeTotheFrenchRiviera.jpg'></center></p>
 
