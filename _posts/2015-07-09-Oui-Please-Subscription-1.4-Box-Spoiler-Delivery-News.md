@@ -39,7 +39,7 @@ date: 2015-07-09 11:32:39 -08:00
 
 <center><img src='/images/OuiPleaseSothys.png'></center>
 <center><img src='/images/OuiPleaseParisSothys.png'></center>
-<p>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's pictured, so take note on that.</p>
+<p>ParisSothys is a line of advanced skincare powered by marine & botanical actives. You might not get what's pictured, so take note on that.</p>
 <br>
 
 <figure class="half">
