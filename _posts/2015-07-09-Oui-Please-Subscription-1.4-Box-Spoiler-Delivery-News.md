@@ -8,7 +8,7 @@ title: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: OuiPleaseSpoiler.jpg
+imagefeature: Oui Please Spoiler - Escape to The French Riviera.png
 headline: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 tags: [Oui Please, Subscriptions]
 date: 2015-07-09 11:32:39 -08:00
@@ -18,91 +18,41 @@ date: 2015-07-09 11:32:39 -08:00
 <p><b>Subscription:</b> <a href="http://ouiplease.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple versions that subscribers will be receiving with different values. Items will include beauty, jewelry, accessories, apparel, home and epicure.</p>
-<p><b>Coupon:</b> Use <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">coupon code OUIWHATSUP</a> and get 20% off your first package!</p>
+<p><b>Coupon:</b> Use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription!</p>
 <br>
 
-<p><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra help in their wardrobe. I find their products to be high quality and their style on point.</p>
+<p>I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
 
-<p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant and rich colors, and pants that are slim fit.</p>
+<p>Their next box is 1.4 Escape to the French Riviera and boxes will start shipping out mid July and will continue to ship thru the end of July. That's coming up soon, yay! #soexcited</p>
 
-<p>Quick note: So our original July package had an item with a manufacturer flaw on it (some sewing was off), but a quick and simple email to their customer service easily resolved that problem. It did take a couple of days for them to reply though, but they did notify me that it could take as much as 2-3 business days for a response during high volume times. Once they replied, they told me that they'll be sending a replacement and I don't have to return the previous flawed item, so that was easy. If you ever have any issues, don't be afraid to contact them and make sure to send pictures too.</p>
+<p><center><img src='/images/Oui-Please-Escape To the French Riviera.jpg'></center></p>
 
-<H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
-<p><center><img src='/images/FiveFourClubJuly2015Items.jpg'></center></p>
+<p>Doesn't the French Riviera look so inviting! I visited France exactly 1 year ago and I wish I was there again... definitely next year, it's a plan ;)</p>
+
+<p>And just to tease you, here are a couple of spoilers that they've released so far:</p>
+
+<center><img src='/images/Oui Please Spoiler - Escape to The French Riviera.png'></center>
+<p><center><img src='/images/OuiPleaseKingiesParis.png'></center></p>
+<p>An item from Kingies Paris. That bag will go perfectly with my Homies hat!</p>
 <br>
 
-<H4>Items in detail:</H4>
-<p><center><img src='/images/FiveFourClubJuly2015Shirt1.jpg'></center></p>
-<center><img src='/images/FiveFourClubJuly2015Shirt.jpg'></center>
-<DL>
-<DT>Garner Shirt in <i>Red</i></DT>
-<DD>Retail Value $55</DD>
-</DL>
-
-<p>This shirt was part of the original package that came with a matching jacket that had the flaw. I'm so glad this one is nothing but perfect and the short sleeves will be great for summer. The patterns and colors work well, plus the hidden buttons added a nice touch. This will be great by itself or under a cool summer jacket.</p>
-
-<center><img src='/images/FiveFourClubJuly2015Shirt1b.jpg'></center>
-<p>The camouflage inside gave this piece a unique touch.</p>
+<center><img src='/images/OuiPleaseSothysParis.png'></center>
+<p>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's pictured, so take note on that.</p>
 <br>
 
-<center><img src='/images/FiveFourClubJuly2015Shirt2.jpg'></center>
-<center><img src='/images/FiveFourClubJuly2015Shirt2Spread.jpg'></center>
-<DL>
-<DT>Serrano Shirt in <i>Blue</i></DT>
-<DD>Retail Value $60</DD>
-</DL>
-
-<p>A good classy long sleeve shirt is essential for any wardrobe and this one was a hit as well with my husband. I do feel like this shirt is more classy than fashion forward, but maybe that's just me.</p> 
-
-<center><img src='/images/FiveFourClubJuly2015Shirt2Inside.jpg'></center>
-<p>The inside of this shirt matches the classy outside pattern.</p>
-<br>
-
-<p><center><img src='/images/FiveFourClubJuly2015Tshirt1.jpg'></center></p>
-<center><img src='/images/FiveFourClubJuly2015Tshirt.jpg'></center>
-<DL>
-<DT>Hamilton T-Shirt in <i>White</i></DT>
-<DD>Retail Value $35</DD>
-</DL>
-
-<p>This is our first T-Shirt from them and the quality feels great, soft and 100% cotton. I like how it's not just a plain t-shirt with some graphics on it, my husband has too many of those!. The zippered pocket with red lining made this different and fashion forward in my opinion.</p>
-<figure>
-      <center><img src='/images/FiveFourClubJuly2015Tshirtpocket.jpg'></center>
-      <figcaption>Pocket in detail.</figcaption>
+<figure class="half">
+        <img src='/images/OuiPleaseLittleWomanJewelry.png'>
+        <img src='/images/OuiPleaseLittleWomanJewelry2.png'>
+        <figcaption>Little Woman jewelry is inspired by the bright colors and organic shapes found in nature</figcaption>
 </figure>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy that their customer service is exemplary based on my personal experience, and that we received 3 items this month! I really liked the items they sent last month too (you can read my <a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-June-2015-Review/" target="_blank">June 2015 review here</a>), so 2 good months in a row makes me a happy subscriber. I'd love to see more colors for summer and maybe some shorts or a summer jacket for my next shipments. I'm finding myself excited for my husband every month to see what he gets, how strange is that =) For the $60 subscription cost, these three items are totally worth it and their values add up to $150 which is higher than last month. I totally recommend this subscription if you're a guy looking to upgrade your wardrobe or just don't have time to shop.</p>
+<center><img src='/images/OuiPleaseObjetsObscurs.png'></center>
+<p>Stack up with summer treasures from Objets Obscurs</p>
 
-<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
-<br>
+<center><img src='/images/OuiPleaseluluenprovence.png'></center>
+<p>Secure beach necessities with Lulu En Provence waterproof goodies.</p>
 
-<TABLE  BORDER="5" style="width:50%">
-   <TR>
-      <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
-      </TH>
-   </TR>
-      <TH>Name</TH>
-      <TH>Price</TH>
-  <TR>
-      <TD>Garner Shirt</TD>
-      <TD>$55</TD>
-   </TR>
-   <TR>
-      <TD>Hamilton T-Shirt</TD>
-      <TD>$35</TD>
-   </TR>
-   <TR>
-      <TD>Serrano Shirt</TD>
-      <TD>$60</TD>
-   </TR>
-   <TR>
-      <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$150</big></b></TD>
-   </TR>
-   <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$60</big></i></TD>
-   </TR>
-</TABLE>
+<p>I'm so excited about 1.4 Escape to the French Riviera box, so many goodies and I hope I get them all! #wishfulthinking</p>
+
+<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a great time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
