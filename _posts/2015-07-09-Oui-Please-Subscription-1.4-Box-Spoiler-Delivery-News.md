@@ -8,7 +8,7 @@ title: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: Oui Please Spoiler - Escape to The French Riviera.png
+imagefeature: OuiPleaseSpoilerEscapetoTheFrenchRiviera.png
 headline: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 tags: [Oui Please, Subscriptions]
 date: 2015-07-09 11:32:39 -08:00
@@ -25,13 +25,13 @@ date: 2015-07-09 11:32:39 -08:00
 
 <p>Their next box is 1.4 Escape to the French Riviera and boxes will start shipping out mid July and will continue to ship thru the end of July. That's coming up soon, yay! #soexcited</p>
 
-<p><center><img src='/images/Oui-Please-Escape To the French Riviera.jpg'></center></p>
+<p><center><img src='/images/OuiPleaseEscapetoTheFrenchRiviera.jpg'></center></p>
 
 <p>Doesn't the French Riviera look so inviting! I visited France exactly 1 year ago and I wish I was there again... definitely next year, it's a plan ;)</p>
 
 <p>And just to tease you, here are a couple of spoilers that they've released so far:</p>
 
-<center><img src='/images/Oui Please Spoiler - Escape to The French Riviera.png'></center>
+<center><img src='/images/OuiPleaseSpoilerEscapetoTheFrenchRiviera.png'></center>
 <p><center><img src='/images/OuiPleaseKingiesParis.png'></center></p>
 <p>An item from Kingies Paris. That bag will go perfectly with my Homies hat!</p>
 <br>
