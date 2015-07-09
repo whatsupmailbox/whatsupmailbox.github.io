@@ -57,6 +57,6 @@ date: 2015-07-09 11:32:39 -08:00
 <center><img src='/images/OuiPleaseLuluEnProvence.png'></center>
 <p>Secure beach necessities with Lulu En Provence waterproof goodies.</p>
 
-<p>I'm so excited about 1.4 Escape to the French Riviera box, so many goodies and I hope I get them all! #wishfulthinking</p>
+<p><i class="icon-exclamation-sign"></i> I'm so excited about 1.4 Escape to the French Riviera box, so many goodies and I hope I get them all! #wishfulthinking</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a great time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
