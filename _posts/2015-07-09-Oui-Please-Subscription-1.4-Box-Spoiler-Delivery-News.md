@@ -37,26 +37,25 @@ date: 2015-07-09 11:32:39 -08:00
 <p>An item from Kingies Paris. That bag will go perfectly with my Homies hat!</p>
 <br>
 
-<figure class="half">
-        <img src='/images/OuiPleaseSothys.png'>
-        <img src='/images/OuiPleaseParisSothys.png'>
-        <figcaption>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's            pictured, so take note on that.</figcaption>
-</figure>
+<center><img src='/images/OuiPleaseSothys.png'></center>
+<center><img src='/images/OuiPleaseParisSothys.png'></center>
+<p>ParisSothys is a line of advanced skincare powered by marine & botanical actives. It might not be what's pictured, so take note on that.</p>
 <br>
 
 <figure class="half">
         <img src='/images/OuiPleaseLittleWomanJewelry.png'>
         <img src='/images/OuiPleaseLittleWomanJewelry2.png'>
-        <figcaption>Little Woman jewelry is inspired by the bright colors and organic shapes found in nature</figcaption>
 </figure>
+<p>Little Woman jewelry is inspired by the bright colors and organic shapes found in nature</p>
 <br>
 
 <center><img src='/images/OuiPleaseObjetsObscurs.png'></center>
-<p>Stack up with summer treasures from Objets Obscurs</p>
+<p>Stack up with summer treasures from Objets Obscurs.</p>
+<br>
 
 <center><img src='/images/OuiPleaseLuluEnProvence.png'></center>
-<p>Secure beach necessities with Lulu En Provence waterproof goodies.</p>
+<p>Secure beach necessities with Lulu En Provence waterproof goodies. OMG, I so want one of those bags, pretty please!</p>
 
-<p><i class="icon-exclamation-sign"></i> I'm so excited about 1.4 Escape to the French Riviera box, so many goodies and I hope I get them all! #wishfulthinking</p>
+<p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a great time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
