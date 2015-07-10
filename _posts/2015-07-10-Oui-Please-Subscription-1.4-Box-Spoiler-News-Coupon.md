@@ -14,7 +14,9 @@ tags: [Oui Please, Subscriptions]
 date: 2015-07-10 07:32:39 -08:00
 ---
 
-<center><img src='/images/OuiPleaseLogo.jpg'></center>
+<center><a href="http://ouiplease.com" target="_blank">
+<img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
+</a></center>
 <br>
 <p><b>Subscription:</b> <a href="http://ouiplease.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
@@ -58,6 +60,7 @@ date: 2015-07-10 07:32:39 -08:00
 
 <center><img src='/images/OuiPleaseLadiesAndBees.png'></center>
 <p>Delicate, feminine staples from Ladies and Bees bring the beauty of honeycombs straight to your jewel box.</p>
+<br>
 
 <p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
 
