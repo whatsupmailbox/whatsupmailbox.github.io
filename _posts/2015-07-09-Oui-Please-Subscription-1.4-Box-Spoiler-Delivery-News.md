@@ -28,7 +28,7 @@ date: 2015-07-09 11:32:39 -08:00
 
 <p><center><img src='/images/OuiPleaseEscapeTotheFrenchRiviera2.jpg'></center></p>
 
-<p>Doesn't the French Riviera look so inviting! I visited France exactly 1 year ago and I wish I was there again, oh la belle vie... definitely next year, it's a plan ;)</p>
+<p>Doesn't the French Riviera look so inviting! I visited France last summer and I wish I was there again, oh la belle vie... definitely next year, it's a plan ;)</p>
 
 <p>And just to tease you, here are a couple of spoilers that they've released so far:</p>
 
