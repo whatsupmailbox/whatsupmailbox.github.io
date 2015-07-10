@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
-    - Reviews
+    - Coupons
 title: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 featured: false
 comments: true
@@ -11,7 +11,7 @@ type: photo
 imagefeature: OuiPleaseSpoilerEscapetoTheFrenchRiviera.png
 headline: Oui Please 1.4 Box Spoiler, Delivery Date + 20% Coupon!
 tags: [Oui Please, Subscriptions]
-date: 2015-07-09 11:32:39 -08:00
+date: 2015-07-10 07:32:39 -08:00
 ---
 
 <center><img src='/images/OuiPleaseLogo.jpg'></center>
@@ -61,4 +61,4 @@ date: 2015-07-09 11:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
 
-<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a great time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
+<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
