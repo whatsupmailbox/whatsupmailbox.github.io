@@ -57,6 +57,7 @@ date: 2015-07-10 07:32:39 -08:00
 
 <center><img src='/images/OuiPleaseLuluEnProvence.png'></center>
 <p>Secure beach necessities with Lulu En Provence waterproof goodies. OMG, I so want one of those bags, pretty please!</p>
+<br>
 
 <center><img src='/images/OuiPleaseLadiesAndBees.png'></center>
 <p>Delicate, feminine staples from Ladies and Bees bring the beauty of honeycombs straight to your jewel box.</p>
