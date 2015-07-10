@@ -18,7 +18,7 @@ date: 2015-07-10 08:19:39 -08:00
 <img src="/images/HamptonsLaneRuelala.jpg" border="0" style="border:none;max-width:100%;" alt="Hamptons Lane Subscription Box on sale at RueLaLa!" />
 </a></center>
 <p><b>Subscription:</b> Hamptons Lane</p>
-<p><b>Cost:</b> $47 / month + Free Shipping</p>
+<p><b>Cost:</b> $47/monthly + Free Shipping</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> to save some $$$!</p>
 <p><b>What's in the box:</b> Each month, Hamptons Lane curates an amazing box of artisan foods, kitchen tools, and serveware for the food lover.</p>
 
