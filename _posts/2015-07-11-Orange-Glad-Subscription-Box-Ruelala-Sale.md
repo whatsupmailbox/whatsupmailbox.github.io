@@ -10,7 +10,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "OrangeGladRuelala.jpg"
+imagefeature: "OrangeGladRuelala.png"
 date: 2015-07-11 08:19:39 -08:00
 ---
 
