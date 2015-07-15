@@ -18,6 +18,8 @@ date: 2015-07-15 08:05:39 -08:00
 <img src="/images/FabFitFunRuelalaSummer2015.jpg" border="0" style="border:none;max-width:100%;" alt="FabFitFun Subscription Box on sale at RueLaLa!" />
 </a></center>
 <figcaption>FabFitFun Summer 2015 Box</figcaption>
+<br>
+
 <p><b>Subscription:</b> FabFitFun</p>
 <p><b>Cost:</b> $49.99/quarterly + Free shipping. (Taxes apply to CA)</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> and get 2 extra items Free! OR, you can <a href="http://xo.fff.me/cwUVT" target="_blank">click here</a> to get $10 off your first box!</p>
