@@ -15,12 +15,12 @@ date: 2015-07-15 08:05:39 -08:00
 ---
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/OrangeGladRuelala.png" border="0" style="border:none;max-width:100%;" alt="Orange Glad Subscription Box on sale at RueLaLa!" />
+<img src="/images/FabFitFunRuelala.png" border="0" style="border:none;max-width:100%;" alt="FabFitFun Subscription Box on sale at RueLaLa!" />
 </a></center>
 <p><b>Subscription:</b> FabFitFun</p>
-<p><b>Cost:</b> $49.99/monthly + Free shipping. (Taxes apply to CA)</p>
+<p><b>Cost:</b> $49.99/quarterly + Free shipping. (Taxes apply to CA)</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> to save some $$$! OR, you can <a href="http://xo.fff.me/cwUVT" target="_blank">click here</a> to get $10 off your first box!</p>
-<p><b>What's in the box:</b> Each month you'll receive gourmet baked goods curated by food experts.</p>
+<p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the new most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
 <p>I'm already subscribed to them but I just had to buy another box with this deal, it's too good to pass up!</p>
 
@@ -33,7 +33,7 @@ date: 2015-07-15 08:05:39 -08:00
 <p><i>Validity: July 11 through October 11, 2015</i></p>
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/OrangeGladRuelalaOptions.png" border="0" style="border:none;max-width:100%;" alt="Orange Glad Subscription Box on sale at RueLaLa!" />
+<img src="/images/FabFitFunRuelalaOptions.png" border="0" style="border:none;max-width:100%;" alt="FabFitFun Subscription Box on sale at RueLaLa!" />
 </a></center>
 
 <p>*Note: You will be enrolled in their monthly subscription plan afterwards, so make sure to cancel prior if you don't plan on keeping the subscription. You can skip any month or cancel permanently through your online account, easy.</p>
