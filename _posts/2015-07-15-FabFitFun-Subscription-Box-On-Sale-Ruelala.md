@@ -33,7 +33,7 @@ date: 2015-07-15 08:05:39 -08:00
 
 <p>You can purchase the Summer 2015 Box on <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Rue La La</a> for $49 and here's what you get:
 <ul>
-<li>Summer Box Bundle featuring a Wren 14K gold necklace with a black sapphire, tarte lip gloss, a FabFitFun Everyday Wireless Speaker, Inkling Scents Sultry perfume, and more (valued at more than $200).</li>
+<li>Summer Box Bundle featuring a Wren 14K gold necklace with a black sapphire, tarte lip gloss, a FabFitFun Everyday Wireless Speaker, Inkling Scents Sultry perfume, and more (valued at more than $200). See first picture above.</li>
 <li>pur~lisse SPF 30 moisturizer.</li>
 <li>A BPA-free, flavor-infusing water bottle.</li>
 </ul>
