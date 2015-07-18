@@ -99,7 +99,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm at awe of how great this box was! The watch was a pleasant surprise and everything else complemented each other well. The total value came up to $108 and what a great value for a $28 subscription box! Sprezza Box continues to amaze both my husband and I, keep it up Sprezza! And if I had to be honest, I'm secretly jealous of my husband for having such an awesome ;)</p>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE BOX</center></H3>
