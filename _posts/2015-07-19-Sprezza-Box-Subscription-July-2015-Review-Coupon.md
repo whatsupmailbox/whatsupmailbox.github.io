@@ -97,7 +97,7 @@ date: 2015-07-19 09:32:39 -08:00
 <p>This balm can be used on hands, feet, elbows, lips and more. It's made from all natural ingredients like chamomile, shea butter, lavender, and sea kelp to heal irritated or chapped skin. No animal testing, no petroleum based ingredients and paraben free.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm at awe of how great this box was! The watch was a pleasant surprise and everything else complemented each other well. The total value came up to $108 and what a great value for a $28 subscription box! Sprezza Box continues to amaze both my husband and I, keep it up Sprezza! And if I had to be honest, I'm secretly jealous of my husband for having such an awesome ;)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm at awe of how great this box was! The watch was a pleasant surprise and I'm still happily in shock at the inclusion of such an amazing item in this box! Everything else was great quality and complemented each other well. The total value came up to $108 and what a great value for a $28 subscription box! Sprezza Box continues to amaze both my husband and I, keep it up Sprezza! And if I had to be honest, I'm secretly jealous of my husband for having such an awesome ;) This is my favorite box from them so far and I can't wait to see what they're planning for next month!</p>
 
 <TABLE  BORDER="5" style="width:50%">
    <TR>
