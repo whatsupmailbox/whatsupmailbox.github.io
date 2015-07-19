@@ -18,7 +18,10 @@ date: 2015-07-19 13:32:39 -08:00
 
 <p>Since I put my mail on hold and for the post office to deliver everything after I'm back, I was excited yesterday to finally receive all my mail. Little did I know how much mail I got in only 1 week's time...</p>
 
-<center><img src='/images/AfterVacationMailJuly2015.jpg'></center>
-<figcaption>Look at all my goodies!</figcaption>
+<figure>
+        <img src='/images/AfterVacationMailJuly2015.jpg'>
+        <figcaption>Look at all my goodies!</figcaption>
+</figure>
+<br>
 
 <p>I'm so excited to be opening all these boxes up and can't wait to share with you my reviews -it's coming soon!</p>
