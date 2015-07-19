@@ -12,6 +12,7 @@ headline: Back from vacation!
 tags: [July 2015]
 date: 2015-07-19 13:32:39 -08:00
 ---
+<br>
 
 <p>So I've been out of the country on vacation for about a week and although it was amazing and oh-so-relaxing, I'm happy to be back in LA and can't wait to post all the goodies I got while I was away!</p>
 
