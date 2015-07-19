@@ -14,7 +14,7 @@ date: 2015-07-19 13:32:39 -08:00
 ---
 <br>
 
-<p>So I've been out of the country on vacation for about a week and although it was amazing and oh-so-relaxing, I'm happy to be back in LA and can't wait to post all the goodies I got while I was away!</p>
+<p><i class="icon-plane"></i> So I've been out of the country on vacation for about a week and although it was amazing and oh-so-relaxing, I'm happy to be back in LA and can't wait to post all the goodies I got while I was away!</p>
 
 <p>Since I put my mail on hold and for the post office to deliver everything after I'm back, I was excited yesterday to finally receive all my mail. Little did I know how much mail I got in only 1 week's time...</p>
 
