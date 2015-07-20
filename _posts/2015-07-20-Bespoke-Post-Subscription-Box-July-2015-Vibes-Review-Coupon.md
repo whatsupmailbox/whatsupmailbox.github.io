@@ -92,7 +92,7 @@ date: 2015-07-20 13:01:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
