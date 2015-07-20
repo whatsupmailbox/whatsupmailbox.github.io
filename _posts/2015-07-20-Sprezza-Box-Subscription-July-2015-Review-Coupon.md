@@ -99,7 +99,7 @@ date: 2015-07-20 08:45:39 -08:00
 
 <center><img src='/images/SprezzaBoxJuly2015Balm.jpg'></center>
 <DL>
-<DT><a href="http://www.novascotiafisherman.com/collections/all/products/nova-scotia-fisherman-rescue-balm" target="_blank">Nova Scotia Rescue Balm</a></DT>
+<DT><a href="http://www.novascotiafisherman.com/collections/all/products/nova-scotia-fisherman-rescue-balm" target="_blank">Nova Scotia Fisherman - Rescue Balm</a></DT>
 <DD>Travel Size 0.35 oz, Value $4</DD>
 </DL>
 
