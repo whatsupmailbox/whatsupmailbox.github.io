@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,10 +11,10 @@ type: photo
 imagefeature: SprezzaBoxJuly2015Box.jpg
 headline: Sprezza Box July 2015 Review + Coupon!
 tags: [Sprezza Box, Subscriptions, Reviews, July 2015]
-date: 2015-07-20 09:32:39 -08:00
+date: 2015-07-20 08:45:39 -08:00
 ---
 
-<center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxJuly2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box" />
 </a></center>
 <p><b>Subscription:</b> <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">Sprezza Box</a></p>
@@ -39,8 +39,8 @@ date: 2015-07-20 09:32:39 -08:00
 
 <DT>And here are the items:</DT>
 
-<p><center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/SprezzaBoxJuly2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box" />
+<p><center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxJuly2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box July 2015 Items" />
 </a></center></p>
 <br>
 
