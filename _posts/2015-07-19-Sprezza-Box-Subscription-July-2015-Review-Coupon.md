@@ -16,7 +16,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <center><img src='/images/SprezzaBoxJuly2015Box.jpg'></center>
 <p><b>Subscription:</b> <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">Sprezza Box</a></p>
-<p><b>Cost:</b> $28 / month + Free Shipping</p>
+<p><b>Cost:</b> $28/monthly + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive 4-5 lifestyle items plus a grooming product. Items have included ties, socks, pockets squares and all things to make you dress like a dapper man!</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://www.sprezzabox.com" target="_blank"><big>WHATSUPMAILBOX</big></a> and receive 10% off your first box!</p>
 <br>
