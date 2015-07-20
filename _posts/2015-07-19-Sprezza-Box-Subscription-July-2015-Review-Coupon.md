@@ -44,7 +44,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <p><center><img src='/images/SprezzaBoxJuly2015Watch.jpg'></center></p>
 <DL>
-<DT>Arvo Watch</DT>
+<DT><a href="http://www.arvowear.com/watches/" target="_blank">Arvo Watch</a></DT>
 <DD>Retail Value $64.99</DD>
 </DL>
 
@@ -60,7 +60,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <center><img src='/images/SprezzaBoxJuly2015PocketSquare.jpg'></center>
 <DL>
-<DT>Grunion Run Pocket Square</DT>
+<DT><a href="http://www.thegrunionrun.com/inc/sdetail/10824" target="_blank">Grunion Run - White Polka Dot Pocket Square</a></DT>
 <DD>Retail Value $15</DD>
 </DL>
 
@@ -69,7 +69,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <center><img src='/images/SprezzaBoxJuly2015Socks.jpg'></center>
 <DL>
-<DT>Jimmy Lion Socks</DT>
+<DT><a href="http://www.jimmylion.com/shop/mens-dots-sock" target="_blank">Jimmy Lion Dots Sock</a></DT>
 <DD>Retail Value $14</DD>
 </DL>
 
@@ -95,7 +95,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <center><img src='/images/SprezzaBoxJuly2015Balm.jpg'></center>
 <DL>
-<DT>Nova Scotia Rescue Balm</DT>
+<DT><a href="http://www.novascotiafisherman.com/collections/all/products/nova-scotia-fisherman-rescue-balm" target="_blank">Nova Scotia Rescue Balm</a></DT>
 <DD>Travel Size 0.35 oz, Value $4</DD>
 </DL>
 
