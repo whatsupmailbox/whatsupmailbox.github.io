@@ -33,7 +33,7 @@ date: 2015-07-19 09:32:39 -08:00
 
 <br>
 
-<p>After receiving my first Sprezza Box last month which was awesome, I couldn't wait to open this baby up!</p>
+<p>After receiving my first Sprezza Box last month, which was awesome by the way, I couldn't wait to open this baby up!</p>
 
 <DT>And here are the items:</DT>
 
@@ -54,7 +54,8 @@ date: 2015-07-19 09:32:39 -08:00
 <p>I love the details on this watch, and my husband likes everything that is clean and simple in design so this was a perfect match.</p>
 
 <center><img src='/images/SprezzaBoxJuly2015Watch3.jpg'></center>
-<p>The back of the watch is pretty cool too. The words on it was fun and playful.</p>
+<center><img src='/images/SprezzaBoxJuly2015Watch4.jpg'></center>
+<p>The back of the watch is pretty cool too. The words on it is fun and playful.</p>
 <br>
 
 <center><img src='/images/SprezzaBoxJuly2015PocketSquare.jpg'></center>
@@ -77,15 +78,19 @@ date: 2015-07-19 09:32:39 -08:00
 <p>These socks match the pocket square and will go perfectly together in an outfit. I love how Sprezza Box includes items that go well together, so convenient and thoughtful!</p>
 <br>
 
-<center><img src='/images/SprezzaBoxJuly2015MoneyClip.jpg'></center>
+<center><img src='/images/SprezzaBoxJuly2015Clip.jpg'></center>
 <DL>
 <DT>Dappered Man Money Clip</DT>
 <DD>Retail Value $10</DD>
 </DL>
 
-<p>Ever since I introduced money clips to my husband, he rarely wears his regular wallet. This one is a great addition to his money clip collection. Yes it's simple in design, but I think that's great because this way it'll match any outfit.</p>
+<p>Ever since I introduced money clips to my husband, he rarely wears his regular wallet. This one is a great addition. Probably not one to use everyday, but good for when you're wearing suits.</p>
 
-<p>FYI, wallets shouldn't be placed in suit pants or you can stretch out the pockets. Invest in a money clip so you can keep your dapper suits in shape =)</p>
+<p>FYI, wallets shouldn't be placed in suit pants or you can stretch out the pockets. Use money clips instead so you can keep your dapper suits in shape =)</p>
+
+<center><img src='/images/SprezzaBoxJuly2015Clip2.jpg'></center>
+<center><img src='/images/SprezzaBoxJuly2015Clip3.jpg'></center>
+<p>It's simple in design, but I think that's great because this way it'll match any outfit.</p>
 <br>
 
 <center><img src='/images/SprezzaBoxJuly2015Balm.jpg'></center>
