@@ -64,7 +64,7 @@ date: 2015-07-19 09:32:39 -08:00
 <DD>Retail Value $15</DD>
 </DL>
 
-<p>Thanks to Sprezza Box, my husband now loves wearing pocket squares for that extra dapper to complete any outfit. The design on this one is modern yet cool, and I think it will go well with dark or light jackets, pretty versatile so this was a great item.</p>
+<p>Thanks to Sprezza Box, my husband now loves wearing pocket squares for that extra dapper to complete any outfit. The design on this one is modern yet cool, and I think it will go well with summer jackets, but also pretty versatile for any occasion.</p>
 <br>
 
 <center><img src='/images/SprezzaBoxJuly2015Socks.jpg'></center>
