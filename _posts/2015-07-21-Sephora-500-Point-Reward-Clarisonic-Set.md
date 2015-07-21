@@ -27,15 +27,15 @@ date: 2015-07-21 14:43:00 -08:00
 <center><img src="/images/Sephora500RewardClarisonic.png"></center>
 
 **Clarisonic Sonic Radiance Brightening Solution Kit:**
+<ul>
+<li>Clarisonic – Radiance Brush Head</li>
 
-1. Clarisonic – Radiance Brush Head
+<li>Clarisonic – Sonic Radiance™ Brightening Solution Skin Illuminating Cleanser (1.0 oz)</li>
 
-2. Clarisonic – Sonic Radiance™ Brightening Solution Skin Illuminating Cleanser (1.0 oz)
+<li>Clarisonic – Sonic Radiance™ Brightening Solution Skin Renewing Peel Wash (1.0 oz)</li>
 
-3. Clarisonic – Sonic Radiance™ Brightening Solution Skin Renewing Peel Wash (1.0 oz)
-
-4. Clarisonic – Sonic Radiance™ Brightening Solution Brightening Activator Serum (0.14 oz) 
-
+<li>Clarisonic – Sonic Radiance™ Brightening Solution Brightening Activator Serum (0.14 oz)</li>
+</ul>
 <br>
 
 * Select this 500-point offer on the Beauty Insider Rewards page during checkout, and it will be added to your shopping basket. Limited quantities are available, so once this product is gone, it’s gone.
