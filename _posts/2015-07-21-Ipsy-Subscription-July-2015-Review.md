@@ -91,7 +91,7 @@ date: 2015-07-21 09:38:39 -08:00
 <p>This cleanser is for oily or blemish-prone skin. I fall in that category so this was a match for me. I also appreciate that it's soap-free since my skin is also sensitive, and being soap-free makes it possible to cleanse without stripping the skin.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job again this month in matching the items to my profile. I absolutely loved every single item and will definitely be using them asap. The total value came up to $33.49 which is great for a $10 subscription, especially since I'll be using every single item. I think this might be my favorite bag so far from them!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job again this month in matching the items to my profile. I absolutely loved every single item and will definitely be using them asap. The total value came up to $33.49 which is great for a $10 subscription. I think this might be my favorite bag so far from them!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
 <br>
