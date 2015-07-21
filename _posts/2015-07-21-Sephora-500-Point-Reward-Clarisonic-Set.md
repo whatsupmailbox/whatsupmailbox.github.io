@@ -38,4 +38,4 @@ date: 2015-07-21 14:43:00 -08:00
 </ul>
 <br>
 
-* Select this 500-point offer on the Beauty Insider Rewards page during checkout, and it will be added to your shopping basket. Limited quantities are available, so once this product is gone, it’s gone.
+*Select this 500-point offer on the Beauty Insider Rewards page during checkout, and it will be added to your shopping basket. Limited quantities are available, so once this product is gone, it’s gone.
