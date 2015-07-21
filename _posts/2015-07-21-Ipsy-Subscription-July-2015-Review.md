@@ -26,10 +26,10 @@ date: 2015-07-21 09:38:39 -08:00
 
 <p>This review is for my profile so it's just one of the many variations that they sent out.</p>
 
-<p>Every month Ipsy sends their items in makeup bags that they produce exclusively, and lately the bags have been getting better and better both in quality and design. Keep it up Ipsy!</p>
-
 <center><img src='/images/IpsyJuly2015Bag.jpg'></center>
 <center><img src='/images/IpsyJuly2015Bag2.jpg'></center>
+
+<p>Every month Ipsy sends their items in makeup bags that they produce exclusively, and lately the bags have been getting better and better both in quality and design. Keep it up Ipsy!</p>
 <br>
 
 <H4>And here are my items:</H4>
@@ -68,7 +68,7 @@ date: 2015-07-21 09:38:39 -08:00
 <p>Another item that I can never have enough of, lip balms!</p>
 
 <center><img src='/images/IpsyJuly2015Lip2.jpg'></center>
-<p>The color I received is Ruby which is a bright true red, love it.</p>
+<p>The color I received is Ruby which is a bright true red, but the color goes on pretty sheer, so not too heavy -love it.</p>
 <br>
 
 <center><img src='/images/IpsyJuly2015Bronzer.jpg'></center>
@@ -78,18 +78,20 @@ date: 2015-07-21 09:38:39 -08:00
 <DD>Travel Size 3 g/.11 oz, Value $10</DD>
 </DL>
 
-<p>I'm already a huge Tarte fan and I actually have this bronzer in full size, so I was ecstatic to get a travel size version of this. </p>
+<p>I'm already a huge Tarte fan and I actually have this bronzer in full size, so I was more than happy to get a travel size version of this.</p>
+<p>This bronzer does have a bit of sparkle for that glow, and I have combination skin so I typically shy away from anything that glitters, but this bronzer gives just the right amount of glow so rest assure it'll be fine even on oily/combination skin.</p>
 <br>
 
-<center><img src='/images/IpsyJune2015Eyepads.jpg'></center>
+<center><img src='/images/IpsyJuly2015Cleanser.jpg'></center>
 <DL>
-<DT>Altchek MD Eye Gel Pads</DT>
-<DD>2 treatments, Retail Value $4</DD>
+<DT><a href="http://www.aveneusa.com/products/categories/cleansers/cleanance-gel-soapless-cleanser-1" target="_blank">Avene Cleanance Gel Soapless Cleanser</a></DT>
+<DD>Deluxe Sample Size 25ml, Value $2.50</DD>
 </DL>
 
-<p>I'm a sucker for eye pads and was super happy to get 2 treatments. I work late and am constantly staring at the computer for both my job and blog, so my eyes need all the help they can get. Plus I love doing impromptu spa days at home and this is perfect for that.</p>
+<p>This cleanser is for oily or blemish-prone skin. I fall in that category so this was a match for me. I also appreciate that it's soap-free since my skin is also sensitive, and being soap-free makes it possible to cleanse without stripping the skin.</p>
+<br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job in matching the items this month to my profile. My least favorite item would have to be the bag -I thought it was just okay, nothing special. The total value came up to $36.65 which is great for a $10 subscription, especially when every single item in this bag is useful to me. When compared to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a>, I think Ipsy has something different to deliver -they send out a lot of full size items and a free bag. I subscribe to both and will continue to do so. Here's to hoping they get it right again next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job again this month in matching the items to my profile. I absolutely loved every single item and will definitely be using them asap. The total value came up to $36.65 which is great for a $10 subscription, especially when every single item in this bag is useful to me. When compared to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a>, I think Ipsy has something different to deliver -they send out a lot of full size items and a free bag. I subscribe to both and will continue to do so. Here's to hoping they get it right again next month!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly goodies!</p>
 <br>
@@ -103,28 +105,28 @@ date: 2015-07-21 09:38:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Aurora Eyeliner Pen</TD>
-      <TD>$7.99</TD>
+      <TD>Coolway Beachy Salt Spray</TD>
+      <TD>$2</TD>
    </TR>
    <TR>
-      <TD>tresStique Mini Shadow Crayon</TD>
-      <TD>$10.67</TD>
+      <TD>Nicka K New York QUAD EYESHADOW</TD>
+      <TD>$4.99</TD>
    </TR>
     <TR>
-      <TD>J. Cat Beauty Liptitude Lip Stain</TD>
-      <TD>$5.99</TD>
+      <TD>Be a Bombshell Lip Balm</TD>
+      <TD>$14</TD>
    </TR>
     <TR>
-      <TD>Altchek MD Eye Gel Pads</TD>
-      <TD>$4</TD>
+      <TD>Tarte Amazonian Clay Waterproof Bronzer</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Smashbox Photo Finish Foundation Primer</TD>
-      <TD>$8</TD>
+      <TD>Avene Cleanance Gel Soapless Cleanser</TD>
+      <TD>$2.50</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$36.65</big></b></TD>
+      <TD><b><big>$33.49</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
