@@ -20,7 +20,7 @@ date: 2015-07-21 09:38:39 -08:00
 <br>
 
 <center><img src='/images/IpsyJuly2015Packaging.jpg'></center>
-<p>Ipsy always ships their bags in bright neon pink padded envelops. You can see them a mile away! ;)</p>
+<p>Ipsy always ships their bags in bright neon pink padded envelops. You can see them a mile away!</p>
 
 <p>Ipsy is very similar to Birchbox where all subscribers receive different variations in their bag, and is mostly dependant on your preferences. They try to give you products that match your needs and concerns so not everyone will get the same items.</p>
 
@@ -34,7 +34,7 @@ date: 2015-07-21 09:38:39 -08:00
 
 <H4>And here are my items:</H4>
 <center><img src='/images/IpsyJuly2015Items.jpg'></center>
-<p>For July, their theme is <big>"Summer Lovin"</big></p>
+<p>July's theme is "Summer Lovin" and all the items look perfect for a day in St. Tropez ;)</p>
 <br>
 
 <H4>Items in Detail:</H4>
@@ -91,9 +91,9 @@ date: 2015-07-21 09:38:39 -08:00
 <p>This cleanser is for oily or blemish-prone skin. I fall in that category so this was a match for me. I also appreciate that it's soap-free since my skin is also sensitive, and being soap-free makes it possible to cleanse without stripping the skin.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job again this month in matching the items to my profile. I absolutely loved every single item and will definitely be using them asap. The total value came up to $36.65 which is great for a $10 subscription, especially when every single item in this bag is useful to me. When compared to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a>, I think Ipsy has something different to deliver -they send out a lot of full size items and a free bag. I subscribe to both and will continue to do so. Here's to hoping they get it right again next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> did a great job again this month in matching the items to my profile. I absolutely loved every single item and will definitely be using them asap. The total value came up to $33.49 which is great for a $10 subscription, especially since I'll be using every single item. I think this might be my favorite bag so far from them!</p>
 
-<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly goodies!</p>
+<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
 <br>
 
 <TABLE  BORDER="5">
