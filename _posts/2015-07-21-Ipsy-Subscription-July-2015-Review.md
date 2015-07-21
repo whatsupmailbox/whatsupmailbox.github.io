@@ -4,12 +4,12 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Ipsy Jult 2015 Review
+title: Ipsy July 2015 Review!
 featured: false
 comments: true
 type: photo
 imagefeature: IpsyJuly2015B.jpg
-headline: Ipsy July 2015 Review
+headline: Ipsy July 2015 Review!
 tags: [Ipsy, Subscriptions, Reviews, July 2015]
 date: 2015-07-21 09:38:39 -08:00
 ---
