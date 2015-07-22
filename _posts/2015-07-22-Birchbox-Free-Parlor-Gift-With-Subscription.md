@@ -18,7 +18,7 @@ date: 2015-07-22 11:50:39 -08:00
 <img src="/images/BirchboxParlorGWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox FREE Parlor Sea Salt Spray with Subscription!" />
 </a></center>
 
-<p>If you sign up for a Birchbox subscription right now you'll get a free deluxe-sized sample of PARLOR by Jeff Chastain Moisturizing Sea Salt Spray (a Birchbox customer fave!) with your first box!</p>
+<p>If you sign up for a Birchbox subscription right now you'll receive a free deluxe-sized sample of PARLOR by Jeff Chastain Moisturizing Sea Salt Spray (a Birchbox customer fave!) with your first box!</p>
 <p>Use coupon code <b>PARLORGWS</b> at checkout.</p>
 <br>
 
