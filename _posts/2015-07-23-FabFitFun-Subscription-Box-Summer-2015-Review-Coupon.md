@@ -50,3 +50,47 @@ date: 2015-07-23 09:05:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><img src="/images/FabFitFunSummer2015Jumprope.jpg"></center>
+
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail scratch-ons, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward for their Fall box!</p>
+
+<p>If you haven't joined yet, you can <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank"><big>subscribe to FabFitFun here</big></a> and start receiving their quarterly lifestyle boxes filled with amazing goodies!</p>
+<br>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Coolway Beachy Salt Spray</TD>
+      <TD>$2</TD>
+   </TR>
+   <TR>
+      <TD>Nicka K New York QUAD EYESHADOW</TD>
+      <TD>$4.99</TD>
+   </TR>
+    <TR>
+      <TD>Be a Bombshell Lip Balm</TD>
+      <TD>$14</TD>
+   </TR>
+    <TR>
+      <TD>Tarte Amazonian Clay Waterproof Bronzer</TD>
+      <TD>$10</TD>
+   </TR>
+    <TR>
+      <TD>Avene Cleanance Gel Soapless Cleanser</TD>
+      <TD>$2.50</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$33.49</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
+   </TR>
+</TABLE>
