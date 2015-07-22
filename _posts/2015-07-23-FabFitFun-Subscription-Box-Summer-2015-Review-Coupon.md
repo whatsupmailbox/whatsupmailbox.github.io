@@ -27,11 +27,11 @@ date: 2015-07-23 09:05:39 -08:00
 <p>I love my FabFitFun subscription, it's always a treat to open this baby up! I do wish they'd bump it up and become a monthly box instead, that way I get to repeat this happy feeling every month instead of waiting till next season for the next box. Pretty please!</p>
 
 
-<center><img src="/images/FabFitFunSummer2015OpenBox2.jpg"></center>
+<center><img src="/images/FabFitFunSpring2015OpenBox2.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><img src="/images/FabFitFunSummer2015OpenBox.jpg"></center>
+<center><img src="/images/FabFitFunSpring2015OpenBox.jpg"></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
