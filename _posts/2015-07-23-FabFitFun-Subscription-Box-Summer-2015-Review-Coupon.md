@@ -62,7 +62,7 @@ date: 2015-07-23 09:05:39 -08:00
 <br>
 
 <center><img src="/images/FabFitFunSummer2015Jumprope.jpg"></center>
-<p>So it's been quite a long time since I've actually used jump ropes, I think the last time was when I was in elementary, yikes! But I guess now is a good time as any to start using them again, especially since they're pink, I just can't say no to pink stuff -it's my kryptonite. I'm also super happy that these ropes match my speakers, so using them both together will make me look fashionably coordinated, yay!</p>
+<p>So it's been quite a long time since I've actually used jump ropes, I think the last time was when I was in elementary, yikes! But I guess now is a good time as any to start using them again, especially since they're pink. I just can't say no to pink stuff, it's my kryptonite. I'm also super happy that these ropes match my speakers, so using them both together will make me look fashionably coordinated, yay!</p>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail scratch-ons, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward for their Fall box!</p>
 
