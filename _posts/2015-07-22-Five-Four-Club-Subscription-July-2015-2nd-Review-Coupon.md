@@ -45,7 +45,7 @@ date: 2015-07-04 11:32:39 -08:00
 <p>Look at those duckies, how awesome is that. I love it when classic gets mixed with a modern twist, it's my favorite combo.</p>
 
 <center><img src='/images/FiveFourClubJuly2015BShirt3.jpg'></center>
-<figcaption>Details of the branding and collaboration on the pocket</figcaption>
+<figcaption>Details of Mark McNairy's collaboration branding on the pocket</figcaption>
 
 <center><img src='/images/FiveFourClubJuly2015BShirt4.jpg'></center>
 <p>I found it interesting that there's two buttons to close the collar. This shirt is getting more unique as I look closer, love it.</p>
