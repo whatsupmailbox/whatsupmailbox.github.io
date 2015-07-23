@@ -8,7 +8,7 @@ title: Five Four Club July 2015 (2nd) Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourClubJuly2015BItems.jpg
+imagefeature: FiveFourClubJuly2015BCollage.jpg
 headline: Five Four Club July 2015 (2nd) Review + Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, July 2015]
 date: 2015-07-04 11:32:39 -08:00
