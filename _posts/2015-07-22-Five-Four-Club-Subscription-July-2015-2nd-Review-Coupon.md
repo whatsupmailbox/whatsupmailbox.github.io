@@ -26,7 +26,9 @@ date: 2015-07-04 11:32:39 -08:00
 <p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant and rich colors, and pants that are slim fit.</p>
 
 <H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
-<p><center><img src='/images/FiveFourClubJuly2015BItems.jpg'></center></p>
+<p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<img src="/images/FiveFourClubJuly2015BItems.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club x Mark McNairy July 2015 Items" />
+</a></center></p>
 <br>
 
 <H4>Items in detail:</H4>
@@ -81,16 +83,14 @@ date: 2015-07-04 11:32:39 -08:00
 <br>
 
 <p>Here's another look at all the items Five Four Club sent this month:</p>
-<center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
+<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubJuly2015BCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club x Mark McNairy July 2015" />
 </a></center>
-
-<center><img src='/images/FiveFourClubJuly2015BCollage.jpg'></center>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that Five Four Club heard my silent whispers of sending us shorts, yay! My husband is not quite sold on the shorts yet, but he loves the shirt and the socks. The total value comes up to $137. I paid $60 (+tax) and for a pair of shorts, shirts and socks, I think that's a pretty good deal. Especially since it's from a Five Four x Mark McNairy collaboration, so unique. Here's to more collaborations, they're so fun!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> heard my silent whispers of sending us shorts, yay! My husband is not quite sold on the shorts yet, but he loves the shirt and the socks. The total value comes up to $137. I paid $60 (+tax) and for a pair of shorts, shirts and socks, I think that's a pretty good deal. Especially since it's from a Five Four x Mark McNairy collaboration, so unique. Here's to more collaborations, they're so fun!</p>
 
-<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>click here to join</big></a> and through that link you'll be getting $30 off your first package, that's 50% off!</p>
+<p>If you're not a subscriber, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank"><big>click here to join</big></a> and through that link you'll be getting $30 off your first package, that's 50% off!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
