@@ -4,12 +4,12 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Five Four Club July 2015 (2nd) Review + Coupon!
+title: Five Four Club x Mark McNairy July 2015 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: FiveFourClubJuly2015BCollage.jpg
-headline: Five Four Club July 2015 (2nd) Review + Coupon!
+headline: Five Four Club x Mark McNairy July 2015 Review + 50% Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, July 2015]
 date: 2015-07-04 11:32:39 -08:00
 ---
@@ -90,7 +90,7 @@ date: 2015-07-04 11:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that Five Four Club heard my silent whispers of sending us shorts, yay! My husband is not quite sold on the shorts yet, but he loves the shirt and the socks. The total value comes up to $137. I paid $60 (+tax) and for a pair of shorts, shirts and socks, I think that's a pretty good deal. Especially since it's from a Five Four x Mark McNairy collaboration, so unique. Here's to more collaborations, they're so fun!</p>
 
-<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
+<p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>click here to join</big></a> and through that link you'll be getting $30 off your first package, that's 50% off!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
