@@ -80,6 +80,10 @@ date: 2015-07-04 11:32:39 -08:00
 </figure>
 <br>
 
+<p>Here's another look at all the items Five Four Club sent this month:</p>
+<center><img src='/images/FiveFourClubJuly2015BCollage.jpg'></center>
+<br>
+
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that Five Four Club heard my silent whispers of sending us shorts, yay! My husband is not yet quite sold on the items, but I totally am and I can't wait for him to wear it. The total value comes up to $137. I paid $60 which I think is a great deal for a pair of shorts, shirts and socks, especially since it's from Five Four making it a bit more exclusive where you won't go out and about and see 10 other guys wearing the same shirt. Here's to more collaborations, they're so fun!</p>
 
 <p>If you're not a subscriber, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><big>join here</big></a> and don't forget to use coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank"><b>OW15OFF</b></a> to get $15 off your first package!</p>
