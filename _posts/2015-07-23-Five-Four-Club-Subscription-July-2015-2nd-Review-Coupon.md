@@ -61,6 +61,7 @@ date: 2015-07-23 08:33:39 -08:00
 
 <center><img src='/images/FiveFourClubJuly2015BShorts2.jpg'></center>
 <figcaption>The back view of the shorts</figcaption>
+<br>
 
 <center><img src='/images/FiveFourClubJuly2015BShorts3.jpg'></center>
 <p>OMG, the inside of the shorts have the same duckies! I'm speechless. Of course when I showed my husband about my discovery he just looked at me like "what's the big deal?" sigh, men.</p>
