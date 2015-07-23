@@ -76,7 +76,7 @@ date: 2015-07-23 08:33:39 -08:00
 <DD>Value $12</DD>
 </DL>
 
-<p>My husband loves it when he gets socks in a subscription (he can never have too many socks) so this was a nice surprise especially since Five Four Club has never sent socks to us before. The design is simple yet cool and since it's a no-show type of socks, it can be used with pretty much any outfit. The only issue I have is the branding on the socks, "Five Four x Mark McNairy" was put on the socks using stick-on type of material that seems to already be coming off. See picture above and pay attention to the letter "V". I'm okay if it all comes off, but I just thought I would point that out.</p>
+<p>My husband loves it when he gets socks in a subscription (he can never have too many socks) so this was a nice surprise especially since Five Four Club has never sent socks to us before. The design is simple yet cool and since it's a no-show type of socks, it can be used with pretty much any outfit. The only issue I have is the branding on the socks, the one that says "Five Four x Mark McNairy". It looks as if it was put on the socks using a stick-on type of material and it seems to already be coming off. See picture above and pay attention to the letter "V". I'm okay if it all comes off, but I just thought I would point that out.</p>
 <figure>
       <center><img src='/images/FiveFourClubJuly2015BSocks2.jpg'></center>
       <figcaption>The back of the socks</figcaption>
