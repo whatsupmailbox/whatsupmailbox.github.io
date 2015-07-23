@@ -55,6 +55,9 @@ date: 2015-07-23 09:05:39 -08:00
 <center><img src="/images/FabFitFunSummer2015Speakers2.jpg"></center>
 <p>I love listening to music wherever I go and whatever I do, it just keeps me sane and happy. I don't think people will appreciate me otherwise. Plus these speakers are in pink, totally me and totally in love with it. I tested it out right away and the sound quality is pretty good considering the price point. Of course I wasn't expecting Bose sound quality (and neither should you), but it does a pretty good job in terms of bluetooth music streaming.</p>
 <p>Pairing was super easy and I also like the fact that you can charge through the included usb cable (no batteries needed here). The only thing I had a wee bit of issue with was that everytime you turn it on there would be an announcement from the device itself and it's actually pretty loud. It's a female voice that says "Bluetooth On!" You can change the volume setting for your music of course, just not the announcement which again is pretty loud. So that's my only gripe about it, nothing too big.</p>
+
+<center><img src="/images/FabFitFunSummer2015Speakers2.jpg"></center>
+<p>I brought this to my recent Mexican trip and it was nice to have these speakers while I was laying on the beach versus using my iPhone. Saved the battery plus it didn't overheat the phone. Passed my test indeed!</p>
 <br>
 
 <center><img src="/images/FabFitFunSummer2015Sponge.jpg"></center>
