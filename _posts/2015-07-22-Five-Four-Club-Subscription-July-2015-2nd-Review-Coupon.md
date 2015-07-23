@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -18,12 +18,12 @@ date: 2015-07-04 11:32:39 -08:00
 <p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What do you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> Use <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">coupon code OW15OFF</a> and get $30 off your first package!</p>
+<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Click here</a> to get $30 off your first package, that's 50% off!</p>
 <br>
 
-<p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra help in their wardrobe. I find their products to be high quality and their style on point.</p>
+<p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their wardrobe. I find their products to be of high quality and their style on trend.</p>
 
-<p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant and rich colors, and pants that are slim fit.</p>
+<p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband is in the "Fashion Forward" category with a preference in vibrant rich colors and pants that are slim fit.</p>
 
 <H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
 <p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
@@ -88,9 +88,9 @@ date: 2015-07-04 11:32:39 -08:00
 </a></center>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> heard my silent whispers of sending us shorts, yay! My husband is not quite sold on the shorts yet, but he loves the shirt and the socks. The total value comes up to $137. I paid $60 (+tax) and for a pair of shorts, shirts and socks, I think that's a pretty good deal. Especially since it's from a Five Four x Mark McNairy collaboration, so unique. Here's to more collaborations, they're so fun!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the collaboration they did with Mark McNairy and I'm so happy that <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> heard my silent whispers of sending us shorts, yay! My husband is not quite sold on the shorts yet mainly because of the clip, but he loves the shirt and the socks. The total value came up to $137. I paid $60 (+tax) and for a pair of shorts, shirts and socks, I think that's a pretty good deal. Especially since it's from a Five Four x Mark McNairy collaboration, so unique. And because of that, I decided to add another subscription so we can get more items from this collection. Here's to more collaborations, they're so fun!</p>
 
-<p>If you're not a subscriber, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank"><big>click here to join</big></a> and through that link you'll be getting $30 off your first package, that's 50% off!</p>
+<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank"><big>click here to join</big></a> and through that link you'll be getting $30 off your first package, that's 50% off!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
