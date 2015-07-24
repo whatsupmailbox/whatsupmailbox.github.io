@@ -24,7 +24,7 @@ date: 2015-07-24 15:05:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">SUMMER20</a> to get $20 off the Summer 2015 box!</p>
 <p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the newest most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
-<p>I love my FabFitFun subscription, and the fact that they ship super fast, Priority Mail 1-day! It's always a treat to open this baby up and find what goodies lies within. I do wish they'd bump it up and become a monthly box instead, that way I get to repeat this happy feeling every month instead of waiting till next season for the next box. Pretty please!</p>
+<p>I love my FabFitFun subscription, and this month they shipped super fast, Priority Mail 1-day! It's always a treat to open this baby up and find what goodies lies within. I do wish they'd bump it up and become a monthly box instead, that way I get to repeat this happy feeling every month instead of waiting till next season for the next box. Pretty please!</p>
 
 
 <center><img src="/images/FabFitFunSpring2015OpenBox2.jpg"></center>
