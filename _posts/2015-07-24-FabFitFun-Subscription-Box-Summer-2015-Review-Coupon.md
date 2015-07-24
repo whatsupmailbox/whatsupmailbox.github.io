@@ -44,7 +44,7 @@ date: 2015-07-24 15:05:39 -08:00
 <br>
 
 <H4>And here are the items inside:</H4>
-<center><img src="/images/FabFitFunSummer2015Items.jpg"></center>
+<center><img src="/images/FabFitFunSummer2015ItemsCopy.jpg"></center>
 <br>
 
 <p>These items are sooo perfect for summer and a day on the beach, in the park, or wherever your summer heart leads you. Love it!</p>
@@ -70,7 +70,7 @@ date: 2015-07-24 15:05:39 -08:00
 <p>I love listening to music wherever I go and whatever I do, it just keeps me sane and happy. I don't think people will appreciate me otherwise. Plus these speakers are in pink, totally me and totally in love with it. I tested it out right away and the sound quality is pretty good considering the price point. Of course I wasn't expecting Bose sound quality (and neither should you), but it does a pretty good job in terms of bluetooth music streaming.</p>
 <p>Pairing was super easy and I also like the fact that you can charge through the included usb cable (no batteries needed here). The only thing I had a wee bit of issue with was that everytime you turn it on there would be an announcement from the device itself and it's actually pretty loud. It's a female voice that says "Bluetooth On!" You can change the volume setting for your music of course, just not the announcement which again is pretty loud. So that's my only gripe about it, nothing too big.</p>
 
-<center><img src="/images/FabFitFunSummer2015Speakers2.jpg"></center>
+<center><img src="/images/FabFitFunSummer2015Speakers2Copy.jpg"></center>
 <p>I brought this to my recent Mexican trip and it was nice to have these speakers while I was laying on the beach versus using my iPhone. Saved the battery plus it didn't overheat the phone. Passed my test indeed!</p>
 <br>
 
@@ -82,6 +82,9 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p>This was another item that they revealed earlier and I was most excited about. You would too if you knew you were getting a $100 necklace in a $40 box, yippee. Plus this 14 karat gold dipped necklace has a black sapphire on it as well, how cool is that.</p>
 <p>I didn't pre-select my necklace since I wanted a surprise. If you're an annual subscriber, you can select from 3 designs; heart, moon, or horseshoe. You can also select to have it in either gold or rose gold.</p>
+
+<p>Here's a closer look at the necklace:</p>
+<center><img src="/images/FabFitFunSummer2015Necklace2.jpg"></center>
 <p>I don't own a lot of rose gold jewelry, mainly because it's not my favorite, but I actually love this necklace. I wore it throughout my vacation and find myself grabbing for it when I'm accessorizing a relaxed type of outfit. It's so dainty and cute, it goes perfect as the last finishing touch to your ensemble. And did I mention it's valued at $100? Score!</p>
 
 <p><center><img src="/images/FabFitFunSummer2015Sponge.jpg"></center></p>
