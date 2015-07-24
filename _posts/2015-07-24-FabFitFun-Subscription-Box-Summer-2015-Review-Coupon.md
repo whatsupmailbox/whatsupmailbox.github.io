@@ -37,7 +37,7 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p>Did I tell you how much I love opening my FabFitFun boxes, it brings out the giddy child in me!</p>
 
-<p>I've seen some spoilers prior to receiving this box (one of them being the speakers), but even after that fact, it's a different feeling when you have it on hand. It's almost as if you never saw the spoiler (well somewhat), if you get what I mean.</p>
+<p>I've seen some spoilers prior to receiving this box (one of them being the speakers), but even after that fact, it's a different feeling when you actually have it on hand. It's almost as if you never saw the spoiler (well somewhat), if you get what I mean.</p>
 
 <center><img src="/images/FabFitFunSummer2015Info.jpg"></center>
 <figcaption>The info card</figcaption>
@@ -147,31 +147,43 @@ date: 2015-07-24 15:05:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Coolway Beachy Salt Spray</TD>
-      <TD>$2</TD>
+      <TD>The Everyday Wireless Speaker</TD>
+      <TD>$29.99</TD>
    </TR>
    <TR>
-      <TD>Nicka K New York QUAD EYESHADOW</TD>
-      <TD>$4.99</TD>
+      <TD>WREN Necklace</TD>
+      <TD>$100</TD>
    </TR>
     <TR>
-      <TD>Be a Bombshell Lip Balm</TD>
+      <TD>Hello Konjac Cleansing Sponge</TD>
+      <TD>$12</TD>
+   </TR>
+    <TR>
+      <TD>FabFitFun Jump Rope</TD>
       <TD>$14</TD>
    </TR>
     <TR>
-      <TD>Tarte Amazonian Clay Waterproof Bronzer</TD>
-      <TD>$10</TD>
+      <TD>Gorge Daily Hair Spray</TD>
+      <TD>$24.95</TD>
    </TR>
     <TR>
-      <TD>Avene Cleanance Gel Soapless Cleanser</TD>
-      <TD>$2.50</TD>
+      <TD>Vaseline Intensive Care Spray Moisturizer</TD>
+      <TD>$7.99</TD>
+   </TR>
+    <TR>
+      <TD>Inkling Scents Roll-On Oil Perfume</TD>
+      <TD>$25</TD>
+   </TR>
+    <TR>
+      <TD>Scratch Nail Wraps</TD>
+      <TD>$8</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$33.49</big></b></TD>
+      <TD><b><big>$221.93</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$10</big></i></TD>
+      <TD><i><big>$49.99</big></i></TD>
    </TR>
 </TABLE>
