@@ -22,7 +22,7 @@ date: 2015-07-24 15:05:39 -08:00
 <p><b>Subscription:</b> <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">FabFitFun</a></p>
 <p><b>Cost:</b> $49.99/quarterly + Free shipping. (Taxes apply to CA)</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">SUMMER20</a> to get $20 off the Summer 2015 box!</p>
-<p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the new most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
+<p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the newest most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
 <p>I love my FabFitFun subscription, and the fact that they ship super fast, Priority Mail 1-day! It's always a treat to open this baby up and find what goodies lies within. I do wish they'd bump it up and become a monthly box instead, that way I get to repeat this happy feeling every month instead of waiting till next season for the next box. Pretty please!</p>
 
@@ -58,36 +58,30 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p><center><img src="/images/FabFitFunSummer2015Speakers.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
+<DT>The Everyday Wireless Speaker by FabFitFun in <i>Pink</i></DT>
+<DD>Value $29.99</DD>
 </DL>
 
 <p>I love listening to music wherever I go and whatever I do, it just keeps me sane and happy. I don't think people will appreciate me otherwise. Plus these speakers are in pink, totally me and totally in love with it. I tested it out right away and the sound quality is pretty good considering the price point. Of course I wasn't expecting Bose sound quality (and neither should you), but it does a pretty good job in terms of bluetooth music streaming.</p>
 <p>Pairing was super easy and I also like the fact that you can charge through the included usb cable (no batteries needed here). The only thing I had a wee bit of issue with was that everytime you turn it on there would be an announcement from the device itself and it's actually pretty loud. It's a female voice that says "Bluetooth On!" You can change the volume setting for your music of course, just not the announcement which again is pretty loud. So that's my only gripe about it, nothing too big.</p>
-<br>
 
-<p><center><img src="/images/FabFitFunSummer2015Speakers2.jpg"></center></p>
-<DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
-</DL>
-
+<center><img src="/images/FabFitFunSummer2015Speakers2.jpg"></center>
 <p>I brought this to my recent Mexican trip and it was nice to have these speakers while I was laying on the beach versus using my iPhone. Saved the battery plus it didn't overheat the phone. Passed my test indeed!</p>
 <br>
 
 <p><center><img src="/images/FabFitFunSummer2015Necklace.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
+<DT><a href="http://wrenstudio.com/collections/accessories/products/rose-gold-luna-charm-necklace" target="_blank">WREN X FFF Rose Gold Luna Charm Necklace</a></DT>
+<DD>Value $100</DD>
 </DL>
 
-<p>This was another item that they revealed earlier and I was most excited about. You would too if you knew you were getting a $100 necklace in a $40 box, yippee.</p>
+<p>This was another item that they revealed earlier and I was most excited about. You would too if you knew you were getting a $100 necklace in a $40 box, yippee. Plus this 14 karat gold dipped necklace has a black sapphire on it as well, how cool is that.</p>
 <p>I didn't pre-select my necklace since I wanted a surprise. If you're an annual subscriber, you can select from 3 designs; heart, moon, or horseshoe. You can also select to have it in either gold or rose gold.</p>
 <p>I don't own a lot of rose gold jewelry, mainly because it's not my favorite, but I actually love this necklace. I wore it throughout my vacation and find myself grabbing for it when I'm accessorizing a relaxed type of outfit. It's so dainty and cute, it goes perfect as the last finishing touch to your ensemble. And did I mention it's valued at $100? Score!</p>
 
 <p><center><img src="/images/FabFitFunSummer2015Sponge.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
+<DT>Hello Konjac Cleansing Sponge</DT>
 <DD>Value $12</DD>
 </DL>
 
@@ -96,31 +90,47 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p><center><img src="/images/FabFitFunSummer2015Jumprope.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
+<DT>FabFitFun x <a href="http://www.cosmobody.com" target="_blank">CosmoBody</a> Jump Rope</DT>
+<DD>Value $14</DD>
 </DL>
 
 <p>So it's been quite a long time since I've actually used jump ropes, I think the last time was when I was in elementary, yikes! But I guess now is a good time as any to start using them again, especially since they're pink. I just can't say no to pink stuff, it's my kryptonite. I'm also super happy that these ropes match my speakers, so using them both together will make me look fashionably coordinated, yay!</p>
 
 <p><center><img src="/images/FabFitFunSummer2015Bottles.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
+<DT><a href="http://gorgehair.com/products/i-ll-make-you-look-amazing-daily-spray" target="_blank">Gorge - I’ll make you look amazing daily spray</a></DT>
+<DD>Full Size 4 oz, Value $24.95</DD>
 </DL>
 
-<p>OMG, this hair product is amazing! My hair is long, colored and pretty worked out. Leave-in hair conditioners are a must and since I rarely blow dry my hair, I need one that takes the frizz out without much effort from my end. This does it all and then some more! I use it after washing my hair and just let it air dry. Et voila, gorgeous hair! I also use it on dry hair for touch ups to make it shiny again a.k.a. revive it, and it works just as well without making my hair oily. I'm already trying to secure some more so if you have one that you don't need, hit me up ;)</p>
+<p>OMG, this hair product is amazing! My hair is long, colored and pretty worked out. Leave-in hair conditioners are a must and since I rarely blow dry my hair, I need one that takes the frizz out without much effort from my end. This does it all and then some more! I use it after washing my hair and just let it air dry. Et voila, gorgeous hair! I also use it on dry hair for touch ups to make it shiny again a.k.a. revive it, and it works just as well without making my hair oily.</p>
 
-<p>At first I wasn't too excited about getting a Vaseline product in my box, mostly because it's a drugstore brand, but after I tried it on I can honestly say I'm impressed and will be buying more! The scent is heavenly and the spray is of good quality too. It sprays the product in a mist type of way, therefore distributing the lotion quite well wherever you direct it. Again, impressed with the quality. My only suggestion if they're taking any, is to make the bottle smaller. It's pretty tall and not travel friendly in my opinion. If they made this in a smaller size, I'd totally bring it with me everywhere. Just sayin.</p>
+<p>When you go to their website, the $24.95 price is actually a subscription price (they send you a bottle of this every month). If you want to just buy one bottle without the subscription, it actually costs $29.95. Just though I'd mention that.</p>
+
+<DL>
+<DT><a href="http://www.vaseline.us/product/intensive-care/aloe-vera-moisturizing-spray.html" target="_blank">Vaseline Intensive Care Aloe Soothe Spray Moisturizer</a></DT>
+<DD>Full Size 6.5 oz, Value $7.99</DD>
+</DL>
+
+<p>This is a sponsored item and at first I wasn't too excited about getting a Vaseline product in my box, mostly because it's a drugstore brand, but after I tried it on I can honestly say I'm impressed and will be buying more! The scent is heavenly and the spray is of good quality too. It sprays the product in a mist type of way, therefore distributing the lotion quite well wherever you direct it. Again, impressed with the quality. My only suggestion if they're taking any, is to make the bottle smaller. It's pretty tall and not travel friendly in my opinion. If they made this in a smaller size, I'd totally bring it with me everywhere. Just sayin.</p>
 
 <p><center><img src="/images/FabFitFunSummer2015PerfumeNail.jpg"></center></p>
 <DL>
-<DT>Darren Socks in <i>Blue</i></DT>
-<DD>Value $12</DD>
+<DT><a href="http://www.inklingscents.com/#!shop/c199t" target="_blank">Inkling Scents Roll-On Oil Perfume in <i>Sultry</i></DT>
+<DD>Full Size .3 oz, Value $25</DD>
 </DL>
 
-<p>Although I'm not a big fan on receiving perfumes in my subscription boxes, I actually loved this scent. It's floral, fresh and has just the right amount of sweetness. Very tropical and spring/summery in my opinion. Perfect for this box and thankfully perfect for me.</p>
+<p>Although I'm not a big fan of receiving perfumes in my subscription boxes, I actually loved this scent. It's floral, fresh and has just the right amount of sweetness. Very tropical and spring/summery in my opinion. Perfect for this box and thankfully perfect for me.</p>
 
-<p>Okay, so these nail wraps are not my type of thing. I used to do a lot of Minx Nails back in the day, but that's only when a professional applied them on and the holographic designs were cool and not achievable any other way. These are kind of meh. I wish they'd just include a nail polish instead, but I appreciate their effort and I'm sure there are people out there that love these. I think I know one so I'll be passing these along to her.</p>
+<p>Also, if you go to their website you'll see they have unique bottles for their scents. One is a perfume type bottle with a feather quill to dip it in and put on your skin, how unique! I'm so getting one of those!</p>
+
+<DL>
+<DT><a href="https://www.goscratch.it" target="_blank">Scratch Nail Wraps</DT>
+<DD>Value $8</DD>
+</DL>
+
+<p>Right now Scratch has special summer prices where all their nail wraps are priced at $8 versus $12, so I used the lesser amount for my value. These nail wraps are cool and they have so many other amazing designs on their website.</p>
+
+<p>They also have a monthly subscription called the "Monthly Mani Box" or MMB for short. It costs $30/monthly and you'll get 3 nail wraps, accents + extras, and a surprise gift in your box. Sounds interesting and if these nail wraps work well on my petite fingers, I just might subscribe/<p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail wraps, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
