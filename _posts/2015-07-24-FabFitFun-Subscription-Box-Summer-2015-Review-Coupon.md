@@ -86,6 +86,7 @@ date: 2015-07-24 15:05:39 -08:00
 <p>Here's a closer look at the necklace:</p>
 <center><img src="/images/FabFitFunSummer2015Necklace2.jpg"></center>
 <p>I don't own a lot of rose gold jewelry, mainly because it's not my favorite, but I actually love this necklace. I wore it throughout my vacation and find myself grabbing for it when I'm accessorizing a relaxed type of outfit. It's so dainty and cute, it goes perfect as the last finishing touch to your ensemble. And did I mention it's valued at $100? Score!</p>
+<br>
 
 <p><center><img src="/images/FabFitFunSummer2015Sponge.jpg"></center></p>
 <DL>
@@ -103,6 +104,7 @@ date: 2015-07-24 15:05:39 -08:00
 </DL>
 
 <p>So it's been quite a long time since I've actually used jump ropes, I think the last time was when I was in elementary, yikes! But I guess now is a good time as any to start using them again, especially since they're pink. I just can't say no to pink stuff, it's my kryptonite. I'm also super happy that these ropes match my speakers, so using them both together will make me look fashionably coordinated, yay!</p>
+<br>
 
 <p><center><img src="/images/FabFitFunSummer2015Bottles.jpg"></center></p>
 <DL>
@@ -120,6 +122,7 @@ date: 2015-07-24 15:05:39 -08:00
 </DL>
 
 <p>This is a sponsored item and at first I wasn't too excited about getting a Vaseline product in my box, mostly because it's a drugstore brand, but after I tried it on I can honestly say I'm impressed and will be buying more! The scent is heavenly and the spray is of good quality too. It sprays the product in a mist type of way, therefore distributing the lotion quite well wherever you direct it. Again, impressed with the quality. My only suggestion if they're taking any, is to make the bottle smaller. It's pretty tall and not travel friendly in my opinion. If they made this in a smaller size, I'd totally bring it with me everywhere. Just sayin.</p>
+<br>
 
 <p><center><img src="/images/FabFitFunSummer2015PerfumeNail.jpg"></center></p>
 <DL>
@@ -148,6 +151,7 @@ date: 2015-07-24 15:05:39 -08:00
 </DL>
 
 <p>Headspace is an online meditation program that will help you train your mind. They have many different programs to address various needs you may have so that you can focus more, worry less, sleep better, eat better... well you get the drift. Plus according to Neuroscientists, the practice of meditating your brain will physically change and reshapes the brain itself in a positive way to help you gain your balance back. Sounds interesting and I'll definitely give this a try.</p>
+<br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail wraps, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
 
