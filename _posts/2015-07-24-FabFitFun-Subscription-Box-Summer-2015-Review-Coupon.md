@@ -14,14 +14,14 @@ imagefeature: "FabFitFunSummer2015Box.jpg"
 date: 2015-07-24 15:05:39 -08:00
 ---
 
-<center><a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">
+<center><a href="http://xo.fff.me/cwUVT" target="_blank">
 <img src="/images/FabFitFunSummer2015Box2.jpg" border="0" style="border:none;max-width:100%;" alt="FabFitFun Subscription Box" />
 </a></center>
 <br>
 
-<p><b>Subscription:</b> <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">FabFitFun</a></p>
+<p><b>Subscription:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a></p>
 <p><b>Cost:</b> $49.99/quarterly + Free shipping. (Taxes apply to CA)</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank">SUMMER20</a> to get $20 off the Summer 2015 box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://xo.fff.me/cwUVT" target="_blank">SUMMER20</a> to get $20 off the Summer 2015 box!</p>
 <p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the newest most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
 <p>I love my FabFitFun subscription, and this month they shipped super fast, Priority Mail 1-day! It's always a treat to open this baby up and find what goodies lies within. I do wish they'd bump it up and become a monthly box instead, that way I get to repeat this happy feeling every month instead of waiting till next season for the next box. Pretty please!</p>
@@ -148,7 +148,7 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail wraps, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
 
-<p>If you haven't joined yet, you can <a href="http://fabfitfun-vip.evyy.net/c/164125/63686/1731" target="_blank"><big>subscribe to FabFitFun here</big></a> and start receiving their quarterly lifestyle boxes filled with amazing goodies!</p>
+<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that bring the cost down to $29.99 for this amazing box! I even took advantage and ordered a second box! =P</p>
 <br>
 
 <TABLE  BORDER="5">
