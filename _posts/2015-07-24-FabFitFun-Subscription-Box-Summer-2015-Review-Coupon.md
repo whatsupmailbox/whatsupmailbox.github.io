@@ -52,6 +52,11 @@ date: 2015-07-24 15:05:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><img src="/images/FabFitFunSummer2015Lip.jpg"></center>
+<DL>
+<DT><a href="http://tartecosmetics.com/tarte-item-lipsurgence-lip-gloss" target="_blank">Tarte LipSurgence Lip Gloss</a> in <i>True Love</i></DT>
+<DD>Value $19</DD>
+</DL>
+
 <p>I'm a Tarte fan, been for years and will be for years to come. They're a great cosmetic brand with healthy ingredients which is a must for me. I already own a lot of their lip products so I was happy to receive another one and in a color that I don't have too, thanks FabFitFun!</p>
 <p>This lip gloss is in the color of "True Love" and it gives a pretty rich bright red color that's both semi-sheer and glossy. It does have a bit of a sting sensation upon application, but I love it since it let's me know that it's puckering my lips to a plumped up look, which is always welcomed.</p>
 <br>
@@ -124,7 +129,7 @@ date: 2015-07-24 15:05:39 -08:00
 <p>Also, if you go to their website you'll see they have unique bottles for their scents. One is a perfume type bottle with a feather quill to dip it in and put on your skin, how unique! I'm so getting one of those!</p>
 
 <DL>
-<DT><a href="https://www.goscratch.it" target="_blank">Scratch Nail Wraps</DT>
+<DT><a href="https://www.goscratch.it" target="_blank">Scratch Nail Wraps</a></DT>
 <DD>Value $8</DD>
 </DL>
 
@@ -132,6 +137,14 @@ date: 2015-07-24 15:05:39 -08:00
 
 <p>They also have a monthly subscription called the "Monthly Mani Box" or MMB for short. It costs $30/monthly and you'll get 3 nail wraps, accents + extras, and a surprise gift in your box. Sounds interesting and if these nail wraps work well on my petite fingers, I just might subscribe/<p>
 <br>
+
+<p><center><img src="/images/FabFitFunSummer2015Headspace.jpg"></center></p>
+<DL>
+<DT><a href="https://www.headspace.com" target="_blank">Headspace 3-month Subscription</a></DT>
+<DD>Value $38.85</DD>
+</DL>
+
+<p>Headspace is an online meditation program that will help you train your mind. They have many different programs to address various needs you may have so that you can focus more, worry less, sleep better, eat better... well you get the drift. Plus according to Neuroscientists, the practice of meditating your brain will physically change and reshapes the brain itself in a positive way to help you gain your balance back. Sounds interesting and I'll definitely give this a try.</p>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail wraps, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
 
@@ -146,6 +159,10 @@ date: 2015-07-24 15:05:39 -08:00
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
+  <TR>
+      <TD>Tarte Lip Gloss</TD>
+      <TD>$19</TD>
+   </TR>
   <TR>
       <TD>The Everyday Wireless Speaker</TD>
       <TD>$29.99</TD>
@@ -178,9 +195,13 @@ date: 2015-07-24 15:05:39 -08:00
       <TD>Scratch Nail Wraps</TD>
       <TD>$8</TD>
    </TR>
+    <TR>
+      <TD>Headspace 3-month Subscription</TD>
+      <TD>$38.85</TD>
+   </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$221.93</big></b></TD>
+      <TD><b><big>$279.78</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
