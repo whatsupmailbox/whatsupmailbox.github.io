@@ -1,0 +1,199 @@
+---
+layout: post
+title: "Luxor Box July 2015 Review"
+description: ""
+headline: "Luxor Box July 2015 Review"
+category: Subscriptions
+tags: [Luxor Box, Subscriptions, Reviews, July 2015]
+comments: true
+mathjax: null
+published: false
+featured: false
+type: photo
+imagefeature: "LuxorBoxJuly2015Box.jpg"
+date: 2015-07-26 09:05:39 -08:00
+---
+
+<center><a href="http://xo.fff.me/cwUVT" target="_blank">
+<img src="/images/LuxorBoxJuly2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box" />
+</a></center>
+<br>
+
+<p><b>Subscription:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">Luxor Box</a></p>
+<p><b>Cost:</b> $125/bi-monthly for the Luxor Box (6-9 items) OR $39.95/bi-monthly for the Petite Box (3-4 items) + Free shipping.</p>
+<p><b>What's in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. Starting in September, every shipment will have a $275+ value (raised from $250)!</p>
+
+<p>This is the second box from Luxor Box ever since it premiered in May, so I was anxiously waiting for this box to arrive. It actually arrived while I was away on vacation about 1.5 weeks ago, and I finally had time to review it today.</p>
+
+<center><img src="/images/LuxorBoxJuly2015Packaging.jpg"></center>
+<p>Luxor Box ships in unmarked white boxes so that it's safe from prying eyes.</p>
+<br>
+
+<center><img src="/images/LuxorBoxJuly2015Box.jpg"></center>
+<figcaption>First look at unboxing</figcaption>
+<br>
+
+<center><img src="/images/LuxorBoxJuly2015Box2.jpg"></center>
+<figcaption>Second look at unboxing</figcaption>
+<br>
+
+<p>Opening this box feels like opening a gift from a high end brand name or department store, it's such a luxurious feeling!</p>
+<br>
+
+<center><img src="/images/LuxorBoxJuly2015InfoCards.jpg"></center>
+<figcaption>The info cards</figcaption>
+<br>
+
+<p>A couple of spoilers were released prior, but Luxor Box is different in a way where they only release the brand name and you get to dream up all sorts of guesses or wishes as to what the actual item may be. So it still gets to be a surprise. I actually like that since you still get to be excited about the product without really knowing what it is. Oh the suspense.</p>
+<br>
+
+<H4>And here are the items inside:</H4>
+<center><img src="/images/LuxorBoxJuly2015Items.jpg"></center>
+<br>
+
+<p>So in love with everything and what a great mix of home decor, skincare, beauty plus jewelry!</p>
+
+<H4>Items in detail:</H4>
+
+<center><img src="/images/LuxorBoxJuly2015MakeupBag.jpg"></center>
+<DL>
+<DT><a href="http://tartecosmetics.com/tarte-item-lipsurgence-lip-gloss" target="_blank">Tarte LipSurgence Lip Gloss</a> in <i>True Love</i></DT>
+<DD>Value $18</DD>
+</DL>
+
+<p>Although I have more makeup bags than I'll ever need, this one is different and a great addition. It's classy and looks so chic, I can definitely use it as a clutch! That'll be so handy when I'm traveling or on vacation and can't bring my 20+ bag collection for my daily fashion ensemble. #iwish</p>
+<br>
+
+<p><center><img src="/images/LuxorBoxJuly2015Container.jpg"></center></p>
+<DL>
+<DT>The Everyday Wireless Speaker by FabFitFun in <i>Pink</i></DT>
+<DD>Value $29.99</DD>
+</DL>
+
+<p>I'm such a sucker for luxury home decor. This container is made of great quality (real wood and steel lid), and it matches my style completely.</p>
+
+<center><img src="/images/LuxorBoxJuly2015Container2.jpg"></center>
+<p>I'll be using this on my vanity table to store my cotton swabs, at least for now. It can be used in multiple ways, I just might change it up in the future.</p>
+<br>
+
+<p><center><img src="/images/LuxorBoxJuly2015Necklace.jpg"></center></p>
+<DL>
+<DT><a href="http://robynrhodes.com/jerry.html" target="_blank">Robyn Rhodes - Jerry Necklace</a></DT>
+<DD>Value $89</DD>
+</DL>
+
+<p>The designer suggests wearing this necklace in 5 different ways.</p>
+
+<p>Here's a closer look at the necklace:</p>
+<center><img src="/images/LuxorBoxJuly2015Necklace2.jpg"></center>
+<p>I'm not that big a fan of two tone jewelries, but since this necklace is pretty unique in the multiple ways to wear it, I will definitely be experimenting with each method. I like receiving accessories that are different and new, that's why I signed up for subscription boxes in the first place. Plus this necklace is made of high quality and valued at $89, that's a great item for this box!</p>
+<br>
+
+<p><center><img src="/images/LuxorBoxJuly2015Scarf.jpg"></center></p>
+<DL>
+<DT><a href="http://julessmithdesigns.com/collections/scarves/products/distressed-infinity-scarf" target="_blank">Jules Smith - Distressed Infinity Scarf in <i>White</i></DT>
+<DD>Value $45</DD>
+</DL>
+
+<p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I have currently. I got the color "White" and I think that's perfect for summer. The material is so soft too, I just want to cuddle with it lol.</p>
+<br>
+
+<p><center><img src="/images/LuxorBoxJuly2015BSkincare.jpg"></center></p>
+<DL>
+<DT><a href="http://www.co-pur.com/products/all-in-one-pure-moisture" target="_blank">Co Pur - Moisturizer + Makeup Remover</DT>
+<DD>Value $20</DD>
+</DL>
+
+<p>I've never heard of this brand before so I had to look them up and I'm happy to report that this brand uses only natural ingredients.</p>
+
+<p>"This product doubles as a light moisturizer and makeup remover. Our grape seed oil and vitamin E formula is fabulous for your skin! Use 2 to 3 squirts on a cotton ball to remove make-up. Use 1 to 2 squirts to moisturize your face. This product can even be used as a all over body moisturizer or aftershave."</p>
+
+<DL>
+<DT><a href="http://www.co-pur.com/products/facial-scrub-mask-two-in-one" target="_blank">Co Pur - Facial Scrub & Mask Two-In-One</DT>
+<DD>Value $24</DD>
+</DL>
+<p>"This combination scrub and mask is ideal for light exfoliation. It also serves as a antioxidant rich mask that does not dry your skin out. It leaves skin feeling soft and looking radiant. Simply shake quarter size amount into palm of your hand. Add a small amount of water to form a paste. Massage gently on face, avoid eyes. Let dry for 15 minutes. Rinse with clean water."</p>
+<br>
+
+<p><center><img src="/images/LuxorBoxJuly2015NailPolish.jpg"></center></p>
+<p>I already own a couple of nail polishes from them thanks to subscription boxes, and I love them so I was happy to find two of them in this box, yay! The colors that I received totally matched my style so I'm double happy. Plus Habit is a 5-free brand so you can rest assure that your nails are getting the right ingredients as well.</p>
+
+<DL>
+<DT><a href="http://www.habitcosmetics.com/collections/colors/products/09-creature-of-the-night" target="_blank">Habit Nail Polish in <i>09 Creature of the Night</i></a></DT>
+<DD>Full Size 4 oz, Value $18</DD>
+</DL>
+
+<p>"A WARM, DARK PURPLE WITH ELECTRIC BLUE SHIMMER. FOR THOSE WHO DARE."</p>
+<p>This color is in the purple family and although I rarely wear purple, this nail polish goes on dark so it's not that noticable. It pretty much looks like black but when the light hits it, then you'll see a mix of purple and blue color with shimmer. Great color for a night out.</p>
+
+<DL>
+<DT><a href="http://www.habitcosmetics.com/collections/colors/products/10-voodoo" target="_blank">Habit Nail Polish in <i>10 Voodoo</i></a></DT>
+<DD>Full Size 4 oz, Value $18</DD>
+</DL>
+
+<p>"A DEEP BROWNISH RED WITH BRONZE SHIMMER."</p>
+<p>I love this color. It looks more like a dark brown with hints of red and slight shimmer. 
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box more than their first launch box, it's that good! The home decor this month is way better and more functional than the previous one and everything else just screams luxury. The total value came up to $250 and they recently announced that starting in September, all boxes will now have a value of $275+, how awesome is that! I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
+
+<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that bring the cost down to $29.99 for this amazing box! I even took advantage and ordered a second box! =P</p>
+<br>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Tarte Lip Gloss</TD>
+      <TD>$19</TD>
+   </TR>
+  <TR>
+      <TD>The Everyday Wireless Speaker</TD>
+      <TD>$29.99</TD>
+   </TR>
+   <TR>
+      <TD>WREN Necklace</TD>
+      <TD>$100</TD>
+   </TR>
+    <TR>
+      <TD>Hello Konjac Cleansing Sponge</TD>
+      <TD>$12</TD>
+   </TR>
+    <TR>
+      <TD>FabFitFun Jump Rope</TD>
+      <TD>$14</TD>
+   </TR>
+    <TR>
+      <TD>Gorge Daily Hair Spray</TD>
+      <TD>$24.95</TD>
+   </TR>
+    <TR>
+      <TD>Vaseline Intensive Care Spray Moisturizer</TD>
+      <TD>$7.99</TD>
+   </TR>
+    <TR>
+      <TD>Inkling Scents Roll-On Oil Perfume</TD>
+      <TD>$25</TD>
+   </TR>
+    <TR>
+      <TD>Scratch Nail Wraps</TD>
+      <TD>$8</TD>
+   </TR>
+    <TR>
+      <TD>Headspace 3-month Subscription</TD>
+      <TD>$38.85</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$279.78</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$49.99</big></i></TD>
+   </TR>
+</TABLE>
