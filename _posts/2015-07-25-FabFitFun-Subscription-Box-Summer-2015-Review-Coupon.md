@@ -4,14 +4,14 @@ title: "FabFitFun Summer 2015 Box Review + $20 Coupon!"
 description: ""
 headline: "FabFitFun Summer 2015 Box Review + $20 Coupon!"
 category: Subscriptions
-tags: [FabFitFun, Subscriptions, Reviews]
+tags: [FabFitFun, Subscriptions, Reviews, July 2015]
 comments: true
 mathjax: null
 published: false
 featured: false
 type: photo
 imagefeature: "FabFitFunSummer2015Box.jpg"
-date: 2015-07-24 15:05:39 -08:00
+date: 2015-07-25 09:05:39 -08:00
 ---
 
 <center><a href="http://xo.fff.me/cwUVT" target="_blank">
