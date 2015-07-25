@@ -81,7 +81,7 @@ date: 2015-07-24 15:05:39 -08:00
 </DL>
 
 <p>This was another item that they revealed earlier and I was most excited about. You would too if you knew you were getting a $100 necklace in a $40 box, yippee. Plus this 14 karat gold dipped necklace has a black sapphire on it as well, how cool is that.</p>
-<p>I didn't pre-select my necklace since I wanted a surprise. If you're an annual subscriber, you can select from 3 designs; heart, moon, or horseshoe. You can also select to have it in either gold or rose gold.</p>
+<p>I didn't pre-select my necklace since I wanted a surprise. FYI, if you're an annual subscriber you can select prior to shipment from the 3 available designs; heart, moon, or horseshoe. You can also select to have it in either gold or rose gold.</p>
 
 <p>Here's a closer look at the necklace:</p>
 <center><img src="/images/FabFitFunSummer2015Necklace2.jpg"></center>
