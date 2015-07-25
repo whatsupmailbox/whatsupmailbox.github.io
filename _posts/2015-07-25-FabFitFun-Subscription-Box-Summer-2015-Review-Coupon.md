@@ -195,7 +195,7 @@ date: 2015-07-25 09:05:39 -08:00
       <TD>$24.95</TD>
    </TR>
     <TR>
-      <TD>Vaseline Intensive Care Spray Moisturizer</TD>
+      <TD>Vaseline Spray Moisturizer</TD>
       <TD>$7.99</TD>
    </TR>
     <TR>
