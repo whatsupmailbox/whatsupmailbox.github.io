@@ -91,7 +91,7 @@ date: 2015-07-26 09:05:39 -08:00
 
 <p><center><img src="/images/LuxorBoxJuly2015Scarf.jpg"></center></p>
 <DL>
-<DT><a href="http://julessmithdesigns.com/collections/scarves/products/distressed-infinity-scarf" target="_blank">Jules Smith - Distressed Infinity Scarf in <i>White</i></DT>
+<DT><a href="http://julessmithdesigns.com/collections/scarves/products/distressed-infinity-scarf" target="_blank">Jules Smith - Distressed Infinity Scarf in <i>White</i></a></DT>
 <DD>Value $45</DD>
 </DL>
 
@@ -100,7 +100,7 @@ date: 2015-07-26 09:05:39 -08:00
 
 <p><center><img src="/images/LuxorBoxJuly2015BSkincare.jpg"></center></p>
 <DL>
-<DT><a href="http://www.co-pur.com/products/all-in-one-pure-moisture" target="_blank">Co Pur - Moisturizer + Makeup Remover</DT>
+<DT><a href="http://www.co-pur.com/products/all-in-one-pure-moisture" target="_blank">Co Pur - Moisturizer + Makeup Remover</a></DT>
 <DD>Value $20</DD>
 </DL>
 
@@ -109,7 +109,7 @@ date: 2015-07-26 09:05:39 -08:00
 <p>"This product doubles as a light moisturizer and makeup remover. Our grape seed oil and vitamin E formula is fabulous for your skin! Use 2 to 3 squirts on a cotton ball to remove make-up. Use 1 to 2 squirts to moisturize your face. This product can even be used as a all over body moisturizer or aftershave."</p>
 
 <DL>
-<DT><a href="http://www.co-pur.com/products/facial-scrub-mask-two-in-one" target="_blank">Co Pur - Facial Scrub & Mask Two-In-One</DT>
+<DT><a href="http://www.co-pur.com/products/facial-scrub-mask-two-in-one" target="_blank">Co Pur - Facial Scrub & Mask Two-In-One</a></DT>
 <DD>Value $24</DD>
 </DL>
 <p>"This combination scrub and mask is ideal for light exfoliation. It also serves as a antioxidant rich mask that does not dry your skin out. It leaves skin feeling soft and looking radiant. Simply shake quarter size amount into palm of your hand. Add a small amount of water to form a paste. Massage gently on face, avoid eyes. Let dry for 15 minutes. Rinse with clean water."</p>
