@@ -85,7 +85,7 @@ date: 2015-07-25 09:05:39 -08:00
 
 <p>Here's a closer look at the necklace:</p>
 <center><img src="/images/FabFitFunSummer2015Necklace2.jpg"></center>
-<p>I don't own a lot of rose gold jewelry, mainly because it's not my favorite, but I actually love this necklace. I wore it throughout my vacation and find myself grabbing for it when I'm accessorizing a relaxed type of outfit. It's so dainty and cute, it goes perfect as the last finishing touch to your ensemble. And did I mention it's valued at $100? Score!</p>
+<p>I don't own a lot of rose gold jewelry, mainly because it's not my favorite, but I actually love this necklace. I wore it throughout my vacation and I find myself grabbing for it more and more when I'm accessorizing a relaxed type of outfit. It's so dainty and cute, it goes perfect as the last finishing touch to your ensemble. And did I mention it's valued at $100? Score!</p>
 <br>
 
 <p><center><img src="/images/FabFitFunSummer2015Sponge.jpg"></center></p>
