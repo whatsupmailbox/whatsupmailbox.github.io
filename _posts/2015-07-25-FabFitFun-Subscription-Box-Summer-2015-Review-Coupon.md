@@ -7,7 +7,7 @@ category: Subscriptions
 tags: [FabFitFun, Subscriptions, Reviews, July 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "FabFitFunSummer2015Box.jpg"
@@ -134,16 +134,16 @@ date: 2015-07-25 09:05:39 -08:00
 
 <p>Although I'm not a big fan of receiving perfumes in my subscription boxes, I actually loved this scent. It's floral, fresh and has just the right amount of sweetness. Very tropical and spring/summery in my opinion. Perfect for this box and thankfully perfect for me.</p>
 
-<p>Also, if you go to their website you'll see they have unique bottles for their scents. One is a perfume type bottle with a feather quill to dip it in and put on your skin, how unique! I'm so getting one of those!</p>
+<p>Also, if you go to their website you'll see they have unique bottles for their scents. One is a classic perfume type bottle with a feather quill to dip it in and put on your skin, how unique! I'm so getting one of those!</p>
 
 <DL>
 <DT><a href="https://www.goscratch.it" target="_blank">Scratch Nail Wraps</a></DT>
 <DD>Value $8</DD>
 </DL>
 
-<p>Right now Scratch has special summer prices where all their nail wraps are priced at $8 versus $12, so I used the lesser amount for my value. These nail wraps are cool and they have so many other amazing designs on their website.</p>
+<p>Right now Scratch has special summer prices where all their nail wraps are priced at $8 versus $12, so I used the lesser amount for my value. These nail wraps are cool and they have so many other amazing designs on their website. I've used similar products in the past and they didn't work well on my petite fingers (it took a lot of work to get them to fit) so I'm not sure these are any different, but I'll give it a try.</p>
 
-<p>They also have a monthly subscription called the "Monthly Mani Box" or MMB for short. It costs $30/monthly and you'll get 3 nail wraps, accents + extras, and a surprise gift in your box. Sounds interesting and if these nail wraps work well on my petite fingers, I just might subscribe/<p>
+<p>They also have a monthly subscription called the "Monthly Mani Box" or MMB for short. It costs $30/monthly and you'll get 3 nail wraps, accents + extras, and a surprise gift in your box. If these nail wraps work for you, this subscription sounds mighty interesting.<p>
 <br>
 
 <p><center><img src="/images/FabFitFunSummer2015Headspace.jpg"></center></p>
@@ -152,12 +152,12 @@ date: 2015-07-25 09:05:39 -08:00
 <DD>Value $38.85</DD>
 </DL>
 
-<p>Headspace is an online meditation program that will help you train your mind. They have many different programs to address various needs you may have so that you can focus more, worry less, sleep better, eat better... well you get the drift. Plus according to Neuroscientists, the practice of meditating your brain will physically change and reshapes the brain itself in a positive way to help you gain your balance back. Sounds interesting and I'll definitely give this a try.</p>
+<p>Headspace is an online meditation program that will help you train your mind. They have many different programs to address various needs you may have so that you can focus more, worry less, sleep better, eat better... well you get the drift. Plus according to Neuroscientists, the practice of meditating your brain will physically change and reshape the brain in a positive way to help you gain your balance back. Sounds interesting and I'll definitely give this a try.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme pretty well. The only item I wasn't too impressed with were the nail wraps, but that's just me and I might speak for the minority here. Everything else I loved and will be using till they can't be used anymore. The total value came up to $XXX and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved this box! I think it's a great combination of beauty, fitness, and lifestyle, plus it matched the summer theme really well. The only item I wasn't too impressed with were the nail wraps, but that's just me. Everything else I loved and will be using till they can't be used anymore. The total value came up to a whopping $279.78 and I'm super happy with that value. I think they've been stepping up their game lately with the items and I'm looking forward to their Fall box!</p>
 
-<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that bring the cost down to $29.99 for this amazing box! I even took advantage and ordered a second box! =P</p>
+<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that brings the cost down to $29.99 for this amazing box!</p>
 <br>
 
 <TABLE  BORDER="5">
