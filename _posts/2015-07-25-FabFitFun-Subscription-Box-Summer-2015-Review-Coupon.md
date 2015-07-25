@@ -3,7 +3,9 @@ layout: post
 title: "FabFitFun Summer 2015 Box Review + $20 Coupon!"
 description: ""
 headline: "FabFitFun Summer 2015 Box Review + $20 Coupon!"
-category: Subscriptions
+categories: 
+      - Subscriptions
+      - Reviews
 tags: [FabFitFun, Subscriptions, Reviews, July 2015]
 comments: true
 mathjax: null
