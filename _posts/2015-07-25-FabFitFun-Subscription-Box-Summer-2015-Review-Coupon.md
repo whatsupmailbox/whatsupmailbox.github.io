@@ -129,7 +129,7 @@ date: 2015-07-25 09:05:39 -08:00
 
 <p><center><img src="/images/FabFitFunSummer2015PerfumeNail.jpg"></center></p>
 <DL>
-<DT><a href="http://www.inklingscents.com/#!shop/c199t" target="_blank">Inkling Scents Roll-On Oil Perfume in <i>Sultry</i></DT>
+<DT><a href="http://www.inklingscents.com/#!shop/c199t" target="_blank">Inkling Scents Roll-On Oil Perfume in <i>Sultry</i></a></DT>
 <DD>Full Size .3 oz, Value $25</DD>
 </DL>
 
