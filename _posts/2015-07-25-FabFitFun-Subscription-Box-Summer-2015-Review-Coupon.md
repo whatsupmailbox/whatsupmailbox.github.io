@@ -116,7 +116,8 @@ date: 2015-07-25 09:05:39 -08:00
 
 <p>OMG, this hair product is amazing! My hair is long, colored and pretty worked out. Leave-in hair conditioners are a must and since I rarely blow dry my hair, I need one that takes the frizz out without much effort from my end. This does it all and then some more! I use it after washing my hair and just let it air dry. Et voila, gorgeous hair! I also use it on dry hair for touch ups to make it shiny again a.k.a. revive it, and it works just as well without making my hair oily.</p>
 
-<p>When you go to their website, the $24.95 price is actually a subscription price (they send you a bottle of this every month). If you want to just buy one bottle without the subscription, it actually costs $29.95. Just though I'd mention that.</p>
+<p>When you go to their website, the $24.95 price is actually a subscription price (they send you a bottle of this every month). If you want to just buy one bottle without the subscription, it actually costs $29.95. Just thought I'd mention that.</p>
+<br>
 
 <DL>
 <DT><a href="http://www.vaseline.us/product/intensive-care/aloe-vera-moisturizing-spray.html" target="_blank">Vaseline Intensive Care Aloe Soothe Spray Moisturizer</a></DT>
@@ -135,6 +136,7 @@ date: 2015-07-25 09:05:39 -08:00
 <p>Although I'm not a big fan of receiving perfumes in my subscription boxes, I actually loved this scent. It's floral, fresh and has just the right amount of sweetness. Very tropical and spring/summery in my opinion. Perfect for this box and thankfully perfect for me.</p>
 
 <p>Also, if you go to their website you'll see they have unique bottles for their scents. One is a classic perfume type bottle with a feather quill to dip it in and put on your skin, how unique! I'm so getting one of those!</p>
+<br>
 
 <DL>
 <DT><a href="https://www.goscratch.it" target="_blank">Scratch Nail Wraps</a></DT>
