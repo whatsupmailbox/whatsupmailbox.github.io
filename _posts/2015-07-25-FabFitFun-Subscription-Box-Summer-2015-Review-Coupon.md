@@ -162,7 +162,7 @@ date: 2015-07-25 09:05:39 -08:00
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that brings the cost down to $29.99 for this amazing box!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:75%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
