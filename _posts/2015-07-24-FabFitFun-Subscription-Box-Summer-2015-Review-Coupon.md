@@ -95,6 +95,8 @@ date: 2015-07-24 15:05:39 -08:00
 </DL>
 
 <p>I've been getting quite a lot of sponges in my subscription boxes lately. I'm not surprised since they are the "it" tool right now for skin cleansing. I like that it's a konjac sponge, I find the benefits matching my skin's needs so I'm happy to use this.</p>
+
+<p>"Konjac root is an Asian-cultivated, root-based vegetable that the Japanese have traditionally used as a detoxifying dietary staple, and as a calming, exfoliating sponge for delicate skin. It is naturally alkaline and balances the acidity of the skin’s impurities and oils while being enriched with protein, carbohydrate, iron, phosphorus, copper, zinc, vitamin A, vitamin E, vitamin D, vitamin B1, vitamin B2, vitamin B6, vitamin B12, vitamin C, and folic acid."</p>
 <br>
 
 <p><center><img src="/images/FabFitFunSummer2015Jumprope.jpg"></center></p>
