@@ -94,10 +94,15 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Value $89</DD>
 </DL>
 
-<p>The designer suggests wearing this necklace in 5 different ways.</p>
+<p>The designer suggests wearing this necklace in 5 different ways:</p>
+<ul>
+<li>Tie like a scarf: cross the two strands like an "x" and pull one of the strands around and over. Tighten to desired length.</li>
+<li>Put one geometric shape into the other to create a "Y" necklace affect.</li>
+<li>Wear it as a bracelet. Wrap the lariat around your wrist until both ends meet and insert one geometric shape into the other and tighten.</li>
+<li>Cover your rubber-band on a pony tail by wrapping the lariat around it until both ends meet, then insert one geometric shape into the other and tighten.</li>
+<li>When wearing an open low back dress, wear this necklace backwards so the chains hang behind.</li>
+</ul>
 
-<p>Here's a closer look at the necklace:</p>
-<center><img src="/images/LuxorBoxJuly2015Necklace2.jpg"></center>
 <p>I'm not that big a fan of two tone jewelries, but since this necklace is pretty unique in the multiple ways to wear it, I will definitely be experimenting with each method. I like receiving accessories that are different and new, that's why I signed up for subscription boxes in the first place. Plus this necklace is made of high quality and valued at $89, that's a great item for this box!</p>
 <br>
 
@@ -107,7 +112,7 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Value $45</DD>
 </DL>
 
-<p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I have currently. I got the color "White" and I think that's perfect for summer. The material is so soft too, I just want to cuddle with it lol.</p>
+<p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I already have. I got the color "White" and I think that's perfect for summer. The material is soft, but it's 100% polyester, not cotton. I'm a bit disappointed in that, but I'll still be using this.</p>
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015Bottles.jpg"></center></p>
