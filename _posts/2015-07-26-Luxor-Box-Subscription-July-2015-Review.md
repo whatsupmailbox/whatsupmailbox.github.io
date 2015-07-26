@@ -112,7 +112,7 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Value $45</DD>
 </DL>
 
-<p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I already have. I got the color "White" and I think that's perfect for summer. The material is soft, but it's 100% polyester, not cotton. I'm a bit disappointed in that, but I'll still be using this.</p>
+<p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I already have. I got the color "White" and I think that's perfect for summer. The material is soft and light, definitely a great scarf to accesorize a casual-chic apparel.</p>
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015Bottles.jpg"></center></p>
