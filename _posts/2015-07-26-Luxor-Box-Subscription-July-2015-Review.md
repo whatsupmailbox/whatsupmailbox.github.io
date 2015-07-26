@@ -121,6 +121,8 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Value $24</DD>
 </DL>
 
+<p>I've never heard of this brand before so I had to look them up and I'm happy to report that this brand uses only natural ingredients.</p>
+
 <p>"This combination scrub and mask is ideal for light exfoliation. It also serves as a antioxidant rich mask that does not dry your skin out. It leaves skin feeling soft and looking radiant. Simply shake quarter size amount into palm of your hand. Add a small amount of water to form a paste. Massage gently on face, avoid eyes. Let dry for 15 minutes. Rinse with clean water."</p>
 <br>
 
@@ -129,9 +131,9 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Value $20</DD>
 </DL>
 
-<p>I've never heard of this brand before so I had to look them up and I'm happy to report that this brand uses only natural ingredients.</p>
-
 <p>"This product doubles as a light moisturizer and makeup remover. Our grape seed oil and vitamin E formula is fabulous for your skin! Use 2 to 3 squirts on a cotton ball to remove make-up. Use 1 to 2 squirts to moisturize your face. This product can even be used as a all over body moisturizer or aftershave."</p>
+
+<p>I'm not a big fan of applying oil products on my face because of my oily/combination skin. I find that products like these work better on normal to dry skin, so I'll be passing this along to someone who will benefit more from this than me.</p>
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015NailPolish2.jpg"></center></p>
