@@ -65,6 +65,7 @@ date: 2015-07-26 09:05:39 -08:00
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015Container.jpg"></center></p>
+<center><img src="/images/LuxorBoxJuly2015Container2.jpg"></center>
 <DL>
 <DT>The Everyday Wireless Speaker by FabFitFun in <i>Pink</i></DT>
 <DD>Value $29.99</DD>
@@ -72,7 +73,7 @@ date: 2015-07-26 09:05:39 -08:00
 
 <p>I'm such a sucker for luxury home decor. This container is made of great quality (real wood and steel lid), and it matches my style completely.</p>
 
-<center><img src="/images/LuxorBoxJuly2015Container2.jpg"></center>
+<center><img src="/images/LuxorBoxJuly2015Container3.jpg"></center>
 <p>I'll be using this on my vanity table to store my cotton swabs, at least for now. It can be used in so many ways, I'll definitely change it up in the future for other purposes.</p>
 <br>
 
