@@ -58,29 +58,37 @@ date: 2015-07-26 09:05:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><img src="/images/LuxorBoxJuly2015MakeupBag.jpg"></center>
+<p><center><img src="/images/LuxorBoxJuly2015MakeupBag.jpg"></center></p>
+<center><img src="/images/LuxorBoxJuly2015MakeupBag1.jpg"></center>
 <DL>
-<DT><a href="http://tartecosmetics.com/tarte-item-lipsurgence-lip-gloss" target="_blank">Tarte LipSurgence Lip Gloss</a> in <i>True Love</i></DT>
-<DD>Value $18</DD>
+<DT><a href="http://www.puraproducts.com/product/essentials-pouch/" target="_blank">Pura Botanica - Essentials Pouch in <i>Tan</i></a></DT>
+<DD>5 ½ x 7 ½ inches, Value $18</DD>
 </DL>
 
 <p>Although I have more makeup bags than I'll ever need, this one is different and a great addition. It's classy and looks so chic, I can definitely use it as a clutch! That'll be so handy when I'm traveling or on vacation and can't bring my 20+ bag collection for my daily fashion ensemble. #iwish</p>
+
+<center><img src="/images/LuxorBoxJuly2015MakeupBag2.jpg"></center>
+<p>The fleur-de-lis is part of their logo so it makes sense to put it on the zipper too, which I think is a nice touch to add. Much better than just a regular zipper and definitely adds to making this usable as a clutch.</p>
+
+<center><img src="/images/LuxorBoxJuly2015MakeupBag3.jpg"></center>
+<p>The inside is a fabric material that might not be liquid friendly, so take note on that.</p>
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015Container.jpg"></center></p>
 <center><img src="/images/LuxorBoxJuly2015Container2.jpg"></center>
 <DL>
-<DT>The Everyday Wireless Speaker by FabFitFun in <i>Pink</i></DT>
-<DD>Value $29.99</DD>
+<DT><a href="http://maryjurekdesign.com/kenya-indian-rosewood-round-box-w-crocodile-lid" target="_blank">Mary Jurek Design - Kenya Indian Rosewood Round Box w/Crocodile Lid</a></DT>
+<DD>Size: 4½", Value $50</DD>
 </DL>
 
-<p>I'm such a sucker for luxury home decor. This container is made of great quality (real wood and steel lid), and it matches my style completely.</p>
+<p>I'm such a sucker for luxury home decor, and this container screams luxury to me. Such great quality from hand carved Rosewood and stainless steel lid, and the style totally matches my decor. Love it!</p>
 
 <center><img src="/images/LuxorBoxJuly2015Container3.jpg"></center>
 <p>I'll be using this on my vanity table to store my cotton swabs, at least for now. It can be used in so many ways, I'll definitely change it up in the future for other purposes.</p>
 <br>
 
 <p><center><img src="/images/LuxorBoxJuly2015Necklace.jpg"></center></p>
+<center><img src="/images/LuxorBoxJuly2015Necklace2.jpg"></center>
 <DL>
 <DT><a href="http://robynrhodes.com/jerry.html" target="_blank">Robyn Rhodes - Jerry Necklace</a></DT>
 <DD>Value $89</DD>
@@ -102,7 +110,7 @@ date: 2015-07-26 09:05:39 -08:00
 <p>I've received a Jules Smith scarf from FabFitFun in the past, but I'm happy this design is less busy and more classy compared to the one I have currently. I got the color "White" and I think that's perfect for summer. The material is so soft too, I just want to cuddle with it lol.</p>
 <br>
 
-<p><center><img src="/images/LuxorBoxJuly2015BSkincare.jpg"></center></p>
+<p><center><img src="/images/LuxorBoxJuly2015Bottles.jpg"></center></p>
 <DL>
 <DT><a href="http://www.co-pur.com/products/all-in-one-pure-moisture" target="_blank">Co Pur - Moisturizer + Makeup Remover</a></DT>
 <DD>Value $20</DD>
@@ -111,6 +119,7 @@ date: 2015-07-26 09:05:39 -08:00
 <p>I've never heard of this brand before so I had to look them up and I'm happy to report that this brand uses only natural ingredients.</p>
 
 <p>"This product doubles as a light moisturizer and makeup remover. Our grape seed oil and vitamin E formula is fabulous for your skin! Use 2 to 3 squirts on a cotton ball to remove make-up. Use 1 to 2 squirts to moisturize your face. This product can even be used as a all over body moisturizer or aftershave."</p>
+<br>
 
 <DL>
 <DT><a href="http://www.co-pur.com/products/facial-scrub-mask-two-in-one" target="_blank">Co Pur - Facial Scrub & Mask Two-In-One</a></DT>
