@@ -30,10 +30,13 @@ date: 2015-07-26 09:05:39 -08:00
 <br>
 
 <center><img src="/images/LuxorBoxJuly2015Packaging2.jpg"></center>
+<p>And voila, the Luxor Box is inside and in perfect condition.</p>
+
+<center><img src="/images/LuxorBoxJuly2015OpenBox.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><img src="/images/LuxorBoxJuly2015Box2.jpg"></center>
+<center><img src="/images/LuxorBoxJuly2015OpenBox2.jpg"></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
