@@ -29,7 +29,7 @@ date: 2015-07-26 09:05:39 -08:00
 <p>Luxor Box ships in unmarked white boxes so that it's safe from prying eyes.</p>
 <br>
 
-<center><img src="/images/LuxorBoxJuly2015Box.jpg"></center>
+<center><img src="/images/LuxorBoxJuly2015Packaging2.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
@@ -115,7 +115,8 @@ date: 2015-07-26 09:05:39 -08:00
 <p>"This combination scrub and mask is ideal for light exfoliation. It also serves as a antioxidant rich mask that does not dry your skin out. It leaves skin feeling soft and looking radiant. Simply shake quarter size amount into palm of your hand. Add a small amount of water to form a paste. Massage gently on face, avoid eyes. Let dry for 15 minutes. Rinse with clean water."</p>
 <br>
 
-<p><center><img src="/images/LuxorBoxJuly2015NailPolish.jpg"></center></p>
+<p><center><img src="/images/LuxorBoxJuly2015NailPolish2.jpg"></center></p>
+<center><img src="/images/LuxorBoxJuly2015NailPolish.jpg"></center>
 <p>I already own a couple of nail polishes from them thanks to subscription boxes, and I love them so I was happy to find two of them in this box, yay! The colors that I received totally matched my style so I'm double happy. Plus Habit is a 5-free brand so you can rest assure that your nails are getting the right ingredients as well.</p>
 
 <DL>
