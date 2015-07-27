@@ -14,12 +14,12 @@ imagefeature: "LuxorBoxJuly2015Box.jpg"
 date: 2015-07-26 09:05:39 -08:00
 ---
 
-<center><a href="http://xo.fff.me/cwUVT" target="_blank">
+<center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
 <img src="/images/LuxorBoxJuly2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box" />
 </a></center>
 <br>
 
-<p><b>Subscription:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">Luxor Box</a></p>
+<p><b>Subscription:</b> <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">Luxor Box</a></p>
 <p><b>Cost:</b> $125/bi-monthly for the Luxor Box (6-9 items) OR $39.95/bi-monthly for the Petite Box (3-4 items) + Free shipping.</p>
 <p><b>What's in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. Starting in September, every shipment will have a $275+ value (raised from $250)!</p>
 
@@ -157,9 +157,9 @@ date: 2015-07-26 09:05:39 -08:00
 <p>I love this color. It looks more like a dark brown with hints of red and slight shimmer. I don't have a color like this in my collection yet, so I'm happy to add this and can't wait to wear it.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box more than their first launch box, it's that good! The home decor this month is way better and more functional than the previous one and everything else just screams luxury. The total value came up to $250 and they recently announced that starting in September, all boxes will now have a value of $275+, how awesome is that! I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box more than their first launch box, it's that good! The home decor this month is way better and more functional than the previous one. The total value came up to $282 for this box and everything felt luxurious. I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
 
-<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here</big></a> and use coupon code <b>SUMMER20</b> to get $20 off the Summer 2015 box, that bring the cost down to $29.99 for this amazing box! I even took advantage and ordered a second box! =P</p>
+<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Enrollment was closed last month due to boxes being sold out, but enrollment has now re-opened. Limited amount of new memberships are available, but only while supplies last, so if you want to try them out, now is a good time or else you may have to get on a waiting list. </p>
 <br>
 
 <TABLE  BORDER="5">
@@ -171,51 +171,43 @@ date: 2015-07-26 09:05:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Tarte Lip Gloss</TD>
-      <TD>$19</TD>
+      <TD>Pura Botanica - Essentials Pouch</TD>
+      <TD>$18</TD>
    </TR>
   <TR>
-      <TD>The Everyday Wireless Speaker</TD>
-      <TD>$29.99</TD>
+      <TD>Mary Jurek Design - Kenya Indian Rosewood Round Box</TD>
+      <TD>$50</TD>
    </TR>
    <TR>
-      <TD>WREN Necklace</TD>
-      <TD>$100</TD>
+      <TD>Robyn Rhodes - Jerry Necklace</TD>
+      <TD>$89</TD>
    </TR>
     <TR>
-      <TD>Hello Konjac Cleansing Sponge</TD>
-      <TD>$12</TD>
+      <TD>Jules Smith - Distressed Infinity Scarf</TD>
+      <TD>$45</TD>
    </TR>
     <TR>
-      <TD>FabFitFun Jump Rope</TD>
-      <TD>$14</TD>
+      <TD>Co Pur - Facial Scrub & Mask</TD>
+      <TD>$24</TD>
    </TR>
     <TR>
-      <TD>Gorge Daily Hair Spray</TD>
-      <TD>$24.95</TD>
+      <TD>Co Pur - Moisturizer + Makeup Remover</TD>
+      <TD>$20</TD>
    </TR>
     <TR>
-      <TD>Vaseline Intensive Care Spray Moisturizer</TD>
-      <TD>$7.99</TD>
+      <TD>Habit Nail Polish</TD>
+      <TD>$18</TD>
    </TR>
     <TR>
-      <TD>Inkling Scents Roll-On Oil Perfume</TD>
-      <TD>$25</TD>
-   </TR>
-    <TR>
-      <TD>Scratch Nail Wraps</TD>
-      <TD>$8</TD>
-   </TR>
-    <TR>
-      <TD>Headspace 3-month Subscription</TD>
-      <TD>$38.85</TD>
+      <TD>Habit Nail Polish</TD>
+      <TD>$18</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$279.78</big></b></TD>
+      <TD><b><big>$282</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$49.99</big></i></TD>
+      <TD><i><big>$125</big></i></TD>
    </TR>
 </TABLE>
