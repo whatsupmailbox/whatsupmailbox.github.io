@@ -23,7 +23,7 @@ date: 2015-07-26 09:05:39 -08:00
 <p><b>Cost:</b> $125/bi-monthly for the Luxor Box (6-9 items) OR $39.95/bi-monthly for the Petite Box (3-4 items) + Free shipping.</p>
 <p><b>What's in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. Starting in September, every shipment will have a $275+ value (raised from $250)!</p>
 
-<p>This is the second box from Luxor Box ever since it premiered in May, so I was anxiously waiting for this box to arrive. It actually arrived while I was away on vacation about 1.5 weeks ago, and I finally had time to review it today.</p>
+<p>This is the second shipment from Luxor Box ever since it premiered in May, so I was anxiously waiting for this box to arrive. It actually arrived while I was away on vacation a couple of weeks ago, and I finally had time to review it today.</p>
 
 <center><img src="/images/LuxorBoxJuly2015Packaging.jpg"></center>
 <p>Luxor Box ships in unmarked white boxes so that it's safe from prying eyes.</p>
