@@ -81,7 +81,7 @@ date: 2015-07-26 09:05:39 -08:00
 <DD>Size: 4½", Value $50</DD>
 </DL>
 
-<p>I'm such a sucker for luxury home decor, and this container screams luxury to me. Such great quality from hand carved Rosewood and stainless steel lid, and the style totally matches my decor. Love it!</p>
+<p>I'm such a sucker for luxury home decor, and this container screams luxury to me. Such great quality from hand carved Rosewood to the stainless steel lid, this style totally matches my decor. Love it!</p>
 
 <center><img src="/images/LuxorBoxJuly2015Container3.jpg"></center>
 <p>I'll be using this on my vanity table to store my cotton swabs, at least for now. It can be used in so many ways, I'll definitely change it up in the future for other purposes.</p>
