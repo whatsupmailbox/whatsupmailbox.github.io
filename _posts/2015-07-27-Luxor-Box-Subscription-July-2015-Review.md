@@ -141,6 +141,7 @@ date: 2015-07-27 09:05:39 -08:00
 <p><center><img src="/images/LuxorBoxJuly2015NailPolish2.jpg"></center></p>
 <center><img src="/images/LuxorBoxJuly2015NailPolish.jpg"></center>
 <p>I already own a couple of nail polishes from them thanks to subscription boxes, and I love them so I was happy to find two of them in this box, yay! The colors that I received totally matched my style so I'm double happy. Plus Habit is a 5-free brand so you can rest assure that your nails are getting the right ingredients as well.</p>
+<br>
 
 <DL>
 <DT><a href="http://www.habitcosmetics.com/collections/colors/products/09-creature-of-the-night" target="_blank">Habit Nail Polish in <i>09 Creature of the Night</i></a></DT>
