@@ -146,7 +146,7 @@ date: 2015-07-26 09:05:39 -08:00
 </DL>
 
 <p>"A WARM, DARK PURPLE WITH ELECTRIC BLUE SHIMMER. FOR THOSE WHO DARE."</p>
-<p>This color is in the purple family and although I rarely wear purple, this nail polish goes on dark so it's not that noticable. It pretty much looks like black but when the light hits it, then you'll see a mix of purple and blue color with shimmer. Great color for a night out.</p>
+<p>This color is in the purple family and although I rarely wear purple, this nail polish goes on dark so it's not that noticable. It pretty much looks like black but when the light hits it, you'll see a mix of purple and blue color with shimmer. It'll be great for a night out.</p>
 
 <DL>
 <DT><a href="http://www.habitcosmetics.com/collections/colors/products/10-voodoo" target="_blank">Habit Nail Polish in <i>10 Voodoo</i></a></DT>
@@ -154,7 +154,7 @@ date: 2015-07-26 09:05:39 -08:00
 </DL>
 
 <p>"A DEEP BROWNISH RED WITH BRONZE SHIMMER."</p>
-<p>I love this color. It looks more like a dark brown with hints of red and slight shimmer. 
+<p>I love this color. It looks more like a dark brown with hints of red and slight shimmer. I don't have a color like this in my collection yet, so I'm happy to add this and can't wait to wear it.</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box more than their first launch box, it's that good! The home decor this month is way better and more functional than the previous one and everything else just screams luxury. The total value came up to $250 and they recently announced that starting in September, all boxes will now have a value of $275+, how awesome is that! I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
