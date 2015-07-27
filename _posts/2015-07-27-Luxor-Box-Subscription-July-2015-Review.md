@@ -3,15 +3,17 @@ layout: post
 title: "Luxor Box July 2015 Review"
 description: ""
 headline: "Luxor Box July 2015 Review"
-category: Subscriptions
+categories: 
+      - Subscriptions
+      - Reviews
 tags: [Luxor Box, Subscriptions, Reviews, July 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxJuly2015Box.jpg"
-date: 2015-07-26 09:05:39 -08:00
+date: 2015-07-27 09:05:39 -08:00
 ---
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
@@ -157,12 +159,12 @@ date: 2015-07-26 09:05:39 -08:00
 <p>I love this color. It looks more like a dark brown with hints of red and slight shimmer. I don't have a color like this in my collection yet, so I'm happy to add this and can't wait to wear it.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box more than their first launch box, it's that good! The home decor this month is way better and more functional than the previous one, and this time around they included 8 items versus 7, so I'm super happy about that too. The total value came up to $282 and everything felt luxurious. I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think I love this box way more than their first launch box, it's that good! The home decor this month is better and more functional than the previous one, and this time around they included 8 items versus 7, so I'm super happy about that too. The total value came up to $282 and everything felt luxurious. I can't wait to see some brand spoilers for the next box, and judging by how well they've been curating their boxes, I'm pretty sure it'll be amazing again. Can't wait!</p>
 
-<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Enrollment was closed last month due to boxes being sold out, but enrollment has now re-opened. Limited amount of new memberships are available, but only while supplies last, so if you want to try them out, now is a good time or else you may have to get on a waiting list. </p>
+<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Enrollment was closed last month due to boxes being sold out, but enrollment has now re-opened. Limited amount of new memberships are available, but only while supplies last. So if you want to try them out, now is a good time or else you may have to get on a waiting list. </p>
 <br>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" style="width:75%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
