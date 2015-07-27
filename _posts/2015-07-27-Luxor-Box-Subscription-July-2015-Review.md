@@ -150,6 +150,7 @@ date: 2015-07-27 09:05:39 -08:00
 
 <p>"A WARM, DARK PURPLE WITH ELECTRIC BLUE SHIMMER. FOR THOSE WHO DARE."</p>
 <p>This color is in the purple family and although I rarely wear purple, this nail polish goes on dark so it's not that noticable. It pretty much looks like black but when the light hits it, you'll see a mix of purple and blue color with shimmer. It'll be great for a night out.</p>
+<br>
 
 <DL>
 <DT><a href="http://www.habitcosmetics.com/collections/colors/products/10-voodoo" target="_blank">Habit Nail Polish in <i>10 Voodoo</i></a></DT>
