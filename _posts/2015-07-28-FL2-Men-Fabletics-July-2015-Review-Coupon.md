@@ -32,11 +32,8 @@ date: 2015-07-28 09:12:39 -08:00
 
 <p><DT>My husband chose the <big>Rio Grande</big> outfit this month.</DT></p>
 
-<figure>
-      <img src='/images/FL2July2015Collage.jpg'>
-      <figcaption>Mariner Tee + Freeport Short</figcaption>
-</figure>
-
+<center><img src='/images/FL2July2015Collage.jpg'></center>
+<figcaption>Mariner Tee + Freeport Short</figcaption>
 <br>
 
 <p><center><img src='/images/FL2July2015Choice.jpg'></center></p>
