@@ -60,4 +60,32 @@ date: 2015-07-28 09:27:39 -08:00
 
 <p>These shorts are pretty cool, plus it has a liner which is a must for my husband. The waistband has a two material type of look so it gives these shorts a unique look and style. There's also a back pocket that's zippered so he can put his wallet or money holder and feel safe that it won't fall out. Great item!</p>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Every outfit my husband picked so far has been a hit and although the shirt this month was a bit too warm for his athletic needs, it was still comfortable and will be put to better use during fall/winter. The total value came up to $The first of the month has now become an exciting time since that's when we both get to choose our Fabletics/FL2 outfits lol. </p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Every outfit my husband picked so far has been a hit and although the shirt this month was a bit too warm for his athletic needs, it was still comfortable and will be put to better use during fall/winter. The first of the month has now become an exciting time for us since that's when we both get to choose our Fabletics/FL2 outfits lol. </p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Mariner Tee</TD>
+      <TD>$44.95</TD>
+   </TR>
+  <TR>
+      <TD>Freeport Shorts</TD>
+      <TD>$64.95</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$109.90</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$59.95</big></i></TD>
+   </TR>
+</TABLE>
