@@ -28,6 +28,8 @@ date: 2015-07-28 09:27:39 -08:00
 <center><img src='/images/FL2July2015Package2.jpg'></center>
 <p>Items always come individually packed.</p>
 
+<p>Every month you get to choose your outfit from a selection that they have. New outfits are released on the 1st of every month and by purchasing outfits, you get to save money as well versus buying them individually.</p>
+
 <p><DT>My husband chose the <big>Rio Grande</big> outfit this month.</DT></p>
 
 <figure class="half">
@@ -48,8 +50,8 @@ date: 2015-07-28 09:27:39 -08:00
 <DD>Retail Value $44.95, VIP Member Price $34.95</DD>
 </DL>
 
-<p>This shirt has a baseball tee type of style where the sleeves are just slightly longer than regular short sleeves type. It's also states as a relaxed fit, but my husband still chose his regular Medium size and it wasn't too baggy for him. Slightly fitted but with room if that makes sense.</p>
-<p>He did mention that after wearing this shirt for 3 hours straight playing racquetball, it felt quite warm so I would recommend wearing this shirt in the cooler weathers versus during the hot summer heat.</p>
+<p>This shirt has a baseball tee type of style where the sleeves are just slightly longer than regular short sleeves type. It's also stated as a relaxed fit, but my husband still chose his regular Medium size and it wasn't too baggy for him. Slightly fitted but with room if that makes sense.</p>
+<p>He did mention that after wearing this shirt for 3 hours straight playing racquetball, it felt quite warm so I would recommend wearing this shirt in cooler weather versus during the hot summer heat.</p>
 <br>
 
 <p><center><img src='/images/FL2July2015Short.jpg'></center></p>
@@ -59,9 +61,9 @@ date: 2015-07-28 09:27:39 -08:00
 </DL>
 
 <p>These shorts are pretty cool, plus it has a liner which is a must for my husband. The waistband has a two material type of look so it gives these shorts a unique look and style. There's also a back pocket that's zippered so he can put his wallet or money holder and feel safe that it won't fall out. Great item!</p>
+<br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Every outfit my husband picked so far has been a hit and although the shirt this month was a bit too warm for his athletic needs, it was still comfortable and will be put to better use during fall/winter. The first of the month has now become an exciting time for us since that's when we both get to choose our Fabletics/FL2 outfits lol. </p>
-
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Every outfit my husband picked so far has been a hit and although the shirt this month was a bit too warm for his athletic needs, it was still comfortable and will be put to better use during fall/winter. The first of the month has now become an exciting time for us since that's when we both get to choose our Fabletics/FL2 outfits lol.</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
