@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -12,7 +12,7 @@ imagefeature: FL2July2015Collage.jpg
 headline: FL2 Men by Fabletics July 2015 Review + 50% off!
 description: ""
 tags: [FL2, Subscriptions, Reviews, July 2015]
-date: 2015-07-28 09:27:39 -08:00
+date: 2015-07-28 09:12:39 -08:00
 ---
 
 <center><img src='/images/FL2July2015Package.jpg'></center>
