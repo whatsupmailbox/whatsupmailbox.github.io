@@ -94,4 +94,34 @@ date: 2015-07-29 08:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first box from Oui Please and I can honestly say...</p>
+
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Mariner Tee</TD>
+      <TD>$44.95</TD>
+   </TR>
+  <TR>
+      <TD>Freeport Shorts</TD>
+      <TD>$64.95</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$109.90</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$59.95</big></i></TD>
+   </TR>
+</TABLE>
