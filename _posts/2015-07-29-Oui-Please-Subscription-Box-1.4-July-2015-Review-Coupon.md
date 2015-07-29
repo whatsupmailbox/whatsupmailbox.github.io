@@ -11,7 +11,7 @@ type: photo
 imagefeature: OuiPlease14Box.jpg
 headline: Oui Please 1.4 Box Review + 20% Coupon!
 tags: [Oui Please, Subscriptions, Reviews, July 2015]
-date: 2015-07-29 08:32:39 -08:00
+date: 2015-07-29 12:32:39 -08:00
 ---
 
 <center><a href="http://ouiplease.com" target="_blank">
@@ -47,7 +47,7 @@ date: 2015-07-29 08:32:39 -08:00
 <p>So far so good and I can't wait to start digging in to see these beauties up close and personal!</p>
 
 <p><center><img src='/images/OuiPlease14Catalog.jpg'></center></p>
-<p>Oui Please always includes a catalog magazine that lists all the items that may be in the box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
+<p>Oui Please always includes a catalog magazine that lists all the items that may be in Volume 1.4 box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
 <br>
 
 <figure class="third">
@@ -59,42 +59,48 @@ date: 2015-07-29 08:32:39 -08:00
 
 <br>
 
+<p><center><img src='/images/OuiPlease14Shirt.jpg'></center></p>
+<DL>
+<DT>Kingies Paris - Life is Beautiful Shirt</DT>
+<DD>Value $40</DD>
+</DL>
 
-
-<p>And just to tease you, here are a couple of spoilers that they've released so far:</p>
-
-<center><img src='/images/OuiPleaseSpoilerEscapetoTheFrenchRiviera.png'></center>
-<p><center><img src='/images/OuiPleaseKingiesParis.png'></center></p>
-<p>An item from Kingies Paris. That bag will go perfectly with my Homies hat!</p>
+<p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was in Small based on my profile (that's the smallest size they have). But the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
 <br>
 
-<center><img src='/images/OuiPleaseSothys.png'></center>
-<center><img src='/images/OuiPleaseParisSothys.png'></center>
-<p>Sothys Paris is a line of advanced skincare powered by marine & botanical actives. You might not get what's pictured, so take note on that.</p>
+<p><center><img src='/images/OuiPlease14Lulu.jpg'></center></p>
+<center><img src='/images/OuiPlease14Bag.jpg'></center>
+<DL>
+<DT>Lulu En Provence - Makeup Bag</DT>
+<DD>Value $40</DD>
+</DL>
+
+<p>Rêveuse means Dreamy in French, how appropriate for me ;) The size is medium (not too small, yet not too big) and the material is canvas which makes it quite rugged and heavy duty. I love this bag, but I think I secretly wish I got the larger beach bag instead =P</p>
 <br>
 
-<figure class="half">
-        <img src='/images/OuiPleaseLittleWomanJewelry.png'>
-        <img src='/images/OuiPleaseLittleWomanJewelry2.png'>
-</figure>
-<p>Little Woman jewelry is inspired by the bright colors and organic shapes found in nature</p>
+<p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
+<center><img src='/images/OuiPlease14Bracelet.jpg'></center>
+<DL>
+<DT>Shake Your Bowtie - Shell Bracelet</DT>
+<DD>Value $50</DD>
+</DL>
+
+<p>This bracelet is cute and beachy. Aesthetically it might have been better to include more than just one shell (3 perhaps), one just seems a bit off, but it's still pretty and maybe I'll love it more as I wear it.</p> 
+
+<p>There were a few more jewelry options in the catalog from other makers, and Objets Obscurs kind of caught my eye since I'll be going to Hawaii next week and the magazine noted that Hawaii is the inspiration for her current collection, Pink Flamingo. So I went to their website and guess what, they're having a summer sale of 50% off everything, how awesome! I'm totally eyeing the headband and some earrings, and since shipping is only 8 Euros, I think I'll be adding these jewels into my collection. Oh why did I have to find out about this sale, sigh.</p>
 <br>
 
-<center><img src='/images/OuiPleaseObjetsObscurs.png'></center>
-<p>Stack up with summer treasures from Objets Obscurs.</p>
+<p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
+<center><img src='/images/OuiPlease14Bracelet.jpg'></center>
+<DL>
+<DT>Shake Your Bowtie - Shell Bracelet</DT>
+<DD>Value $50</DD>
+</DL>
+
+<p></p>
 <br>
 
-<center><img src='/images/OuiPleaseLuluEnProvence.png'></center>
-<p>Secure beach necessities with Lulu En Provence waterproof goodies. OMG, I so want one of those bags, pretty please!</p>
-<br>
-
-<center><img src='/images/OuiPleaseLadiesAndBees.png'></center>
-<p>Delicate, feminine staples from Ladies and Bees bring the beauty of honeycombs straight to your jewel box.</p>
-<br>
-
-<p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
-
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first box from Oui Please and I can honestly say...</p>
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I know that people tend to complain about this subscription especially in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and tres beau, I can't stop looking at it with love! I'm super happy I subscribed and I totally can't wait for their 1.5 box!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
