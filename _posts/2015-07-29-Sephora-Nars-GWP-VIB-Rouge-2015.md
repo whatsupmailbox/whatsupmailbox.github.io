@@ -21,7 +21,7 @@ date: 2015-07-29 11:23:00 -08:00
 
 <p><H2>A new <a href="http://www.sephora.com" target="_blank">Sephora</a> GWP from NARS for VIB & VIB Rouge only!</H2></p>
 
-<p><H2>Get it FREE with any online purchase of $35 or more by using coupon code <b>NARSVIB</b></H2></p>
+<p><H4>Get it FREE with any online purchase of $35 or more by using coupon code <b>NARSVIB</b></H4></p>
 <br>
 
 <center><a href="http://www.sephora.com" target="_blank">
