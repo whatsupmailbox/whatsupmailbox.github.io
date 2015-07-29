@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPNARS.jpg
-date: 2015-07-29 11:43:00 -08:00
+date: 2015-07-29 11:23:00 -08:00
 ---
 
 <center><a href="http://www.sephora.com" target="_blank">
