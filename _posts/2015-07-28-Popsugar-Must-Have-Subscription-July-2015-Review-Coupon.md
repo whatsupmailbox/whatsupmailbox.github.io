@@ -92,6 +92,7 @@ date: 2015-07-28 10:01:39 -08:00
 <br>
 
 <p><center><img src='/images/PopsugarJuly2015Supergoop.jpg'></center></p>
+<center><img src='/images/PopsugarJuly2015Supergoop2.jpg'></center>
 <DL>
 <DT><a href="http://www.supergoop.com/shop/defense-refresh-setting-mist-spf-50/" target="_blank">Supergoop - Defense Refresh Setting Mist SPF 50</a></DT>
 <DD>Retail Value $28</DD>
