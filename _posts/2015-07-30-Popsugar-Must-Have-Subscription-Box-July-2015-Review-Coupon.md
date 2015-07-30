@@ -70,7 +70,7 @@ date: 2015-07-30 14:01:39 -08:00
 <DD>Retail Value $19.99</DD>
 </DL>
 
-<p>I'm super happy that Popsugar decided to include a portable toothbrush and an electric one too! I travel quite frequently so I can totally use this. Currently I use a Sonic electric toothbrush, but it can be a bit heavy and bulky to travel. Now I don't need to and can use this instead, yay!</p>
+<p>I'm super happy that Popsugar decided to include a portable toothbrush and an electric one too! I travel quite frequently so I can totally use this. Currently I use a Philips Sonicare electric toothbrush, but it can be a bit heavy and bulky to travel. Now I don't need to and can use this instead, yay!</p>
 
 <center><img src='/images/PopsugarJuly2015Toothbrush2.jpg'></center>
 
