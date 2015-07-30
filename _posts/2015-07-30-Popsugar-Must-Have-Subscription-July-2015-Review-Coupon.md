@@ -5,14 +5,14 @@ description: ""
 headline: "Popsugar Must Have July 2015 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, July 2015]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
   - Reviews
 type: photo
-imagefeature: "PopsugarJune2015OpenBox.jpg"
-date: 2015-07-28 10:01:39 -08:00
+imagefeature: "PopsugarJuly2015OpenBox.jpg"
+date: 2015-07-30 14:01:39 -08:00
 ---
 
 <center><img src='/images/PopsugarJuly2015Box.jpg'></center>
