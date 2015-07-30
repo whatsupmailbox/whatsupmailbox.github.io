@@ -86,7 +86,7 @@ date: 2015-07-28 10:01:39 -08:00
 
 <p>I love card holders, it's so convenient and fits well in my small clutches versus my big fat wallet. I have one in brown that I use frequently, so this red color is a great addition.</p>
 
-<p>View of the back of the card holder:</p>
+<p>The back of the card holder:</p>
 <center><img src='/images/PopsugarJuly2015Sorial2.jpg'></center>
 <p>The slots on the back is different where you'll get to insert more cards there versus the individual slots that's in front. They also included a coupon code for future purchases, yay.</p>
 <br>
