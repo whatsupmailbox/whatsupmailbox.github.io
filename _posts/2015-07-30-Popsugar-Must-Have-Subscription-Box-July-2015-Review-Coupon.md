@@ -74,7 +74,7 @@ date: 2015-07-30 14:01:39 -08:00
 
 <center><img src='/images/PopsugarJuly2015Toothbrush2.jpg'></center>
 
-<p>They also included a battery so you can use this right away, how thoughtful!</p>
+<p>They also included a battery so you can use this right away, plus an extra toothbrush head (one is already attached inside the cap) how thoughtful!</p>
 <br>
 
 <p><center><img src='/images/PopsugarJuly2015Sorial.jpg'></center></p>
