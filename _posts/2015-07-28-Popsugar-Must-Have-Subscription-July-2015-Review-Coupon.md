@@ -29,11 +29,9 @@ date: 2015-07-28 10:01:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<p>When I first opened the box, I could smell something wonderful and sweet coming from inside -yep, that's a good sign, I'm already happy.</p>
-<br>
-
 <center><img src='/images/PopsugarJuly2015Info.jpg'></center>
 <center><img src='/images/PopsugarJuly2015Info2.jpg'></center>
+<center><img src='/images/PopsugarJuly2015Info3.jpg'></center>
 <p>Fold out Info card that details all the items and prices.</p>
 <br>
 
@@ -45,8 +43,8 @@ date: 2015-07-28 10:01:39 -08:00
 <p><center><img src='/images/PopsugarJuly2015Bag.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.quayaustralia.com/us/shop/116-day-breaker.html" target="_blank">Quay Australia - Mandate Sunglasses</a></DT>
-<DD>Retail Value $45</DD>
+<DT><a href="http://www.henribendel.com/signature-stripe-canvas-small-dopp-kit-27876711510193.html?cgid=travel_cosmetic&start=23" target="_blank">Henri Bendel - Signature Stripe Canvas Small Dopp Kit</a></DT>
+<DD>Retail Value $28</DD>
 </DL>
 
 <p>This makeup bag was revealed as one of the items earlier so I knew I was getting this and it looks even better in person. This bag also opens up like a doctor's bag so you can fit more items inside. The design reminds me a bit of Sephora though (must be the black and white stripes) but it really is beautiful and chic.</p>
@@ -60,74 +58,79 @@ date: 2015-07-28 10:01:39 -08:00
 <p><center><img src='/images/PopsugarJuly2015Toothbrush.jpg'></center></p>
 
 <DL>
-<DT><a href="http://spongelle.com/collections/spongelle/products/fleur-en-boite-boxed-flowers" target="_blank">Spongelle - Boxed Flowers-Fleur En Boîte</a></DT>
-<DD>Retail Value $16</DD>
+<DT><a href="https://popdental.com/product/silver-portable-sonic-toothbrush/" target="_blank">PopDental - Silver Portable Sonic Toothbrush</a></DT>
+<DD>Retail Value $19.99</DD>
 </DL>
 
-<p>I'm super happy that Popsugar decided to include a portable toothbrush and an electric one too! I can totally use this. I currently use a Sonic electric toothbrush, but it can be a bit heavy and bulky to travel. Now I don't need to and can use this instead, yay!</p>
+<p>I'm super happy that Popsugar decided to include a portable toothbrush and an electric one too! I travel quite frequently so I can totally use this. Currently I use a Sonic electric toothbrush, but it can be a bit heavy and bulky to travel. Now I don't need to and can use this instead, yay!</p>
 <p>They also included a battery so you can use this right away, how thoughtful!</p>
 <br>
 
 <p><center><img src='/images/PopsugarJuly2015Sorial.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.pacificabeauty.com/makeup/eyes/enlighten-eye-brightening-shadow-palette?id=422" target="_blank">Pacifica - Enlighten Eye Brightening Shadow Palette</a></DT>
-<DD>Retail Value $14</DD>
+<DT><a href="http://www.pacificabeauty.com/makeup/eyes/enlighten-eye-brightening-shadow-palette?id=422" target="_blank">Sorial - Card Case</a></DT>
+<DD>Retail Value $28</DD>
 </DL>
 
 <p>I love card holders, it's so convenient and fits well in my small clutches versus my big fat wallet. I have one in brown that I use frequently, so this red color is a great addition.</p>
 
 <p>View of the back of the card holder:</p>
 <center><img src='/images/PopsugarJuly2015Sorial.jpg'></center>
-<p>The slots on the back is different where you'll get to insert more cards there versus the individual slots that's in front. They also included a coupon code for future purchases.</p>
+<p>The slots on the back is different where you'll get to insert more cards there versus the individual slots that's in front. They also included a coupon code for future purchases, yay.</p>
 <br>
 
 <p><center><img src='/images/PopsugarJuly2015Supergoop.jpg'></center></p>
 <DL>
-<DT><a href="http://www.amazon.com/In-Unlikely-Event-Judy-Blume/dp/1101875046" target="_blank">Judy Blume - In the Unlikely Event</a></DT>
-<DD>Retail Value $16.77</DD>
+<DT><a href="http://www.supergoop.com/shop/defense-refresh-setting-mist-spf-50/" target="_blank">Supergoop - Defense Refresh Setting Mist SPF 50</a></DT>
+<DD>Retail Value $28</DD>
 </DL>
 
-<p>I use Supergoop for my suncare needs so I know they're a good brand and I was happy to see that they included a product from them.</p>
-
-<p>This is my least favorite item in the box since I have a Kindle and my preference in books are more in the science fiction and non-fiction genre. I'll probably end up gifting this to someone.</p>
+<p>I use Supergoop for my suncare needs so I know they're a good brand and I was happy to see that they included a product from them. This spray is both a makeup setting spray and a sunscreen, how awesome is that. It definitely cuts my beauty regimen by one step less plus it'll be easy to reapply sunscreen without undoing your makeup, genius!</p>
 <br>
 
-<p><center><img src='/images/PopsugarJune2015HairbandCandy.jpg'></center></p>
+<p><center><img src='/images/PopsugarJuly2015Wipes.jpg'></center></p>
 
 <DL>
-<DT><a href="http://yogitoes.com/hband-headbands/hband-organic/peacock-organic-hband" target="_blank">Yogitoes - Organic hBand in <i>Peacock</i></a></DT>
-<DD>Retail Value $4</DD>
+<DT><a href="http://www.yestocarrots.com/product/yes-to-blueberries-cleansing-facial-wipes--25ct?product_id=7331102" target="_blank">Yes To - Blueberries Cleansing Facial Wipes</a></DT>
+<DD>25 ct, Value $5.99</DD>
 </DL>
 
-<p>This headband is quite wide (4" wide) and feels so soft thanks to the organic cotton. It's also multi purpose; you can use it to hold back your hair, as a wrist band, or cover your eyes during Savasana -a yoga pose of total relaxation where you close your eyes.</p>
+<p>I have products for "Yes To" and have grown to like them due to their natural ingredients. Plus they're available at Target making it convenient if I need to grab some more on a last minute. These are great for refreshing your face when you're travelling or out on the beach, or late at night when you're too tired to wash your face.</p>
+
+<p>These wipes are formulated with blueberry and apple extracts, and it'll cleanse, remove makeup and moisturize all in one!</p>
+<br>
+
+<p><center><img src='/images/PopsugarJuly2015Bar.jpg'></center></p>
 
 <DL>
-<DT><a href="https://www.snapsupercandy.com/supercandy/" target="_blank">SNAP Infusion - Supercandy in <i>Gummy</i> and <i>Sour Gummy</i></a></DT>
-<DD>2 packs, Retail Value $4</DD>
+<DT><a href="https://www.snapsupercandy.com/supercandy/" target="_blank">The Good Bean - Fruit & No Nut Bar in <i>Chocolate Berry</i></a></DT>
+<DD>1 bar, Value $1.99</DD>
 </DL>
 
-<p>This is interesting. It's an energy bar, drink and vitamin all in one.</p>
+<p>A protein bar that uses chickpeas instead of nuts, interesting. It's also vegan, non-GMO, and gluten free.</p>
 
-<quote>SUPERCANDY® is packed with b vitamins to boost your energy, antioxidants to keep your immune system strong, and electrolytes to help you stay hydrated.</quote>
+<p>I rely on protein bars when I'm outdoors and being active, they are a quick and convenient way to boost my energy. I have no problem with nuts in my protein bar, but I find this to be very helpful for those who are alergic to nuts, great idea.</p>
+<br>
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
-<p><center><img src='/images/PopsugarJune2015GiftCard.jpg'></center></p>
-<p><center><img src='/images/PopsugarJune2015GiftCard2.jpg'></center></p>
+<p><center><img src='/images/PopsugarJuly2015Cards.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.sweetandspark.com" target="_blank">Sweet & Spark</a> Gift Card</DT>
-<DD>Value $30</DD>
+<DT><a href="http://www.sweetandspark.com" target="_blank">Hallmark</a> Greeting Cards</DT>
+<DD>3 cards, Total Value $18.97</DD>
 </DL>
 
-<p>Sweet & Spark is a father-daughter team that searches flea markets and antique stores for unique vintage jewelry. Because of that, all items on their site only has 1 available. Prices range from $50 and can go up to $300.</p>
+<p>I was just about to buy some more greeting cards to add to my collection, so thanks Popsugar for reading my mind. These greeting cards are of high quality and the fact that they included 3, well that's awesome.</p>
 
-<p>Before the items go on sale on their website, they carefully clean each piece by hand or by ultra sonic cleaner, then finish it by triple plating them so it doesn't tarnish easily. It'll be all pretty and new again.</p>
+<center><img src='/images/PopsugarJuly2015GiftCard1.jpg'></center>
+<center><img src='/images/PopsugarJuly2015GiftCard2.jpg'></center>
 
-<p>I find this company quite interesting and am happy to support any independent businesses. And FYI, the gift cards have unique codes for each subscriber.</p> 
+<p>This card is so unique, it's modern and colorful design adds to the 3 dimensional shape making is uber cool. This card would be great to give to someone who's in the art industry or perhaps architecture. It look pretty cool so hmmm, maybe I'll just frame it lol.</p>
+<br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> When I looked at the spoilers last month, I was really excited about the sunglasses and now that I have it on hand, it'll be my go-to for sunglasses this summer. The only item I disliked was the book, and maybe I'm not alone here, but I'm not sure how a book inclusion fits with the Popsugar Must Have theme this month. The total value came up to $129.77 (that's with the gift card and using Amazon's price for the book) and that's not a bad value for a $39.95 subscription. Even without the book I would have felt like I got double my money's worth so I'm content. Next month's theme is "Beach Days, Fourth of July, Easy Travel, and Summer Heat", <a href="http://whatsupmailbox.com/subscriptions/Popsugar-Must-Have-July-2015-Spoiler-Theme/" targe="_blank"> see my post about it here </a>, and I can't wait to see some spoilers!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I always love getting my Popsugar boxes every month, it's such a treat. This month was focused more on items for travelling and since I do travel frequently, it was such a hit for me. It goes without saying that I'll definitely be using every single item, and the coupons too for that matter. The total value came up to $130.94, another amazing value for a $39.95 subscription. As of yet, there hasn't been any spoilers for next month (August), not even a theme spoiler too, so I'm totally itching for them to release one soon! Will they still stick to Summer themes or will they start with Fall? Either way I'll keep you posted!</p>
 
 <p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
@@ -140,36 +143,36 @@ date: 2015-07-28 10:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Quay Australia Sunglasses</TD>
-      <TD>$45</TD>
+      <TD>Henri Bendel Dopp Kit</TD>
+      <TD>$28</TD>
    </TR>
    <TR>
-      <TD>Spongelle Boxed Flower Sponge</TD>
-      <TD>$16</TD>
+      <TD>Supergoop Defense Refresh Setting Mist</TD>
+      <TD>$28</TD>
    </TR>
     <TR>
-      <TD>Pacifica Eye Shadow Palette</TD>
-      <TD>$14</TD>
+      <TD>Sorial Card Case</TD>
+      <TD>$28</TD>
    </TR>
     <TR>
-      <TD>Judy Blume's In the Unlikely Event Novel</TD>
-      <TD>$16.77</TD>
+      <TD>PopDental Portable Toothbrush</TD>
+      <TD>$19.99</TD>
    </TR>
     <TR>
-      <TD>Yogitoes Headband</TD>
-      <TD>$4</TD>
+      <TD>Yes To Blueberries Facial Wipes</TD>
+      <TD>$5.99</TD>
    </TR>
    <TR>
-      <TD>SNAP Infusion Supercandy</TD>
-      <TD>$4</TD>
+      <TD>The Good Bean Protein Bar</TD>
+      <TD>$1.99</TD>
    </TR>
    <TR>
-      <TD>Sweet & Spark Gift Card</TD>
-      <TD>$30</TD>
+      <TD>Hallmark Greeting Cards</TD>
+      <TD>$18.97</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$129.77</big></b></TD>
+      <TD><b><big>$130.94</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
