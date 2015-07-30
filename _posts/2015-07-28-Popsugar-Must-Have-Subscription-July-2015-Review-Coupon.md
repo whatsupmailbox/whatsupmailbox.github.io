@@ -53,6 +53,14 @@ date: 2015-07-28 10:01:39 -08:00
 <center><img src='/images/PopsugarJuly2015Bag2.jpg'></center>
 
 <p>The inside is lined with plastic material so it's liquid friendly, and you can see how the bag actually opens up.</p>
+
+<figure class="half">
+      <img src="/images/PopsugarJuly2015HenriBendelCoupon1.jpg">
+      <img src="/images/PopsugarJuly2015HenriBendelCoupon.jpg">
+</figure>
+
+<p>They also included a 20% off coupon for future purchases!</p>
+
 <br>
 
 <p><center><img src='/images/PopsugarJuly2015Toothbrush.jpg'></center></p>
@@ -76,7 +84,7 @@ date: 2015-07-28 10:01:39 -08:00
 <p>I love card holders, it's so convenient and fits well in my small clutches versus my big fat wallet. I have one in brown that I use frequently, so this red color is a great addition.</p>
 
 <p>View of the back of the card holder:</p>
-<center><img src='/images/PopsugarJuly2015Sorial.jpg'></center>
+<center><img src='/images/PopsugarJuly2015Sorial2.jpg'></center>
 <p>The slots on the back is different where you'll get to insert more cards there versus the individual slots that's in front. They also included a coupon code for future purchases, yay.</p>
 <br>
 
@@ -104,13 +112,13 @@ date: 2015-07-28 10:01:39 -08:00
 <p><center><img src='/images/PopsugarJuly2015Bar.jpg'></center></p>
 
 <DL>
-<DT><a href="https://www.snapsupercandy.com/supercandy/" target="_blank">The Good Bean - Fruit & No Nut Bar in <i>Chocolate Berry</i></a></DT>
+<DT><a href="http://www.thegoodbean.com/bars/" target="_blank">The Good Bean - Fruit & No Nut Bar in <i>Chocolate Berry</i></a></DT>
 <DD>1 bar, Value $1.99</DD>
 </DL>
 
 <p>A protein bar that uses chickpeas instead of nuts, interesting. It's also vegan, non-GMO, and gluten free.</p>
 
-<p>I rely on protein bars when I'm outdoors and being active, they are a quick and convenient way to boost my energy. I have no problem with nuts in my protein bar, but I find this to be very helpful for those who are alergic to nuts, great idea.</p>
+<p>I rely on protein bars when I'm outdoors and being active, they are a quick and convenient way to boost my energy. I have no problem with nuts in my protein bar so it's not something that's a must for me, but I find this to be very helpful for those who are alergic to nuts, great idea.</p>
 <br>
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
@@ -118,16 +126,24 @@ date: 2015-07-28 10:01:39 -08:00
 <p><center><img src='/images/PopsugarJuly2015Cards.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.sweetandspark.com" target="_blank">Hallmark</a> Greeting Cards</DT>
+<DT><a href="http://www.hallmark.com" target="_blank">Hallmark</a> Greeting Cards</DT>
 <DD>3 cards, Total Value $18.97</DD>
 </DL>
 
 <p>I was just about to buy some more greeting cards to add to my collection, so thanks Popsugar for reading my mind. These greeting cards are of high quality and the fact that they included 3, well that's awesome.</p>
 
-<center><img src='/images/PopsugarJuly2015GiftCard1.jpg'></center>
-<center><img src='/images/PopsugarJuly2015GiftCard2.jpg'></center>
+<p>Here's a closer look at all 3 cards:</p>
+<center><img src='/images/PopsugarJuly2015Card1.jpg'></center>
+<center><img src='/images/PopsugarJuly2015Card2.jpg'></center>
 
-<p>This card is so unique, it's modern and colorful design adds to the 3 dimensional shape making is uber cool. This card would be great to give to someone who's in the art industry or perhaps architecture. It look pretty cool so hmmm, maybe I'll just frame it lol.</p>
+<p>This card is so unique, it's modern and colorful design adds to the 3 dimensional shape making it uber cool. This card would be great to give to someone who's in the art industry or perhaps architecture. It look pretty cool so hmmm, maybe I'll just frame it lol.</p>
+
+<center><img src='/images/PopsugarJuly2015Card4.jpg'></center>
+<p>The picture doesn't do the card justice, it's actually a lovely lace that's all white and it reminds me of a wedding dress. So naturally this is a Wedding card and I don't have a lot of those so I'm glad to add this to my collection.</p>
+
+<center><img src='/images/PopsugarJuly2015Card3.jpg'></center>
+<p>This is a birthday card that's feminine and intended for a lady. I think this is my least favorite in design yet most useful as Birthday parties are more common for us to attend.</p>
+
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I always love getting my Popsugar boxes every month, it's such a treat. This month was focused more on items for travelling and since I do travel frequently, it was such a hit for me. It goes without saying that I'll definitely be using every single item, and the coupons too for that matter. The total value came up to $130.94, another amazing value for a $39.95 subscription. As of yet, there hasn't been any spoilers for next month (August), not even a theme spoiler too, so I'm totally itching for them to release one soon! Will they still stick to Summer themes or will they start with Fall? Either way I'll keep you posted!</p>
@@ -147,16 +163,16 @@ date: 2015-07-28 10:01:39 -08:00
       <TD>$28</TD>
    </TR>
    <TR>
-      <TD>Supergoop Defense Refresh Setting Mist</TD>
-      <TD>$28</TD>
+      <TD>PopDental Portable ToothbrushSupergoop Defense Refresh Setting Mist</TD>
+      <TD>$19.99</TD>
    </TR>
     <TR>
       <TD>Sorial Card Case</TD>
       <TD>$28</TD>
    </TR>
     <TR>
-      <TD>PopDental Portable Toothbrush</TD>
-      <TD>$19.99</TD>
+      <TD>Supergoop Defense Refresh Setting Mist</TD>
+      <TD>$28</TD>
    </TR>
     <TR>
       <TD>Yes To Blueberries Facial Wipes</TD>
