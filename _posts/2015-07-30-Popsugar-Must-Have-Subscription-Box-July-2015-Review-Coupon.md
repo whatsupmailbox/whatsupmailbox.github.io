@@ -143,7 +143,7 @@ date: 2015-07-30 14:01:39 -08:00
 <p>This card is so unique, it's modern and colorful design adds to the 3 dimensional shape making it uber cool. This card would be great to give to someone who's in the art industry or perhaps architecture. It look pretty cool so hmmm, maybe I'll just frame it lol.</p>
 
 <center><img src='/images/PopsugarJuly2015Card4.jpg'></center>
-<p>The picture doesn't do the card justice, it's actually a lovely lace that's all white and it reminds me of a wedding dress. So naturally this is a Wedding card and I don't have a lot of those so I'm glad to add this to my collection.</p>
+<p>The picture doesn't do the card justice, it's actually a lovely white material with sewing details that's all white and it reminds me of a wedding dress. So naturally this is a Wedding card and I don't have a lot of those so I'm glad to add this to my collection.</p>
 
 <center><img src='/images/PopsugarJuly2015Card3.jpg'></center>
 <p>This is a birthday card that's feminine and intended for a lady. I think this is my least favorite in design yet most useful as Birthday parties are more common for us to attend.</p>
