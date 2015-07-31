@@ -69,7 +69,7 @@ date: 2015-07-29 12:32:39 -08:00
 <DD>Value $40</DD>
 </DL>
 
-<p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was in Small based on my profile (that's the smallest size they have). But the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
+<p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was a Small because that's the smallest size they have. But I think the size actually runs small so the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Lulu.jpg'></center></p>
