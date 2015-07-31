@@ -24,14 +24,14 @@ date: 2015-07-29 12:32:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://ouiplease.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
-<p>I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
+<p>As I mentioned in my previous post, I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
 
 <center><img src='/images/OuiPlease14Box.jpg'></center>
 <p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Box2.jpg'></center></p>
-<p>Their boxes are BIG and so sturdy, it definitely feels like a quality box and you just know something luxurious is inside!</p>
+<p>Their boxes are so BIG and sturdy, it definitely feels like a quality box and you just know something luxurious is inside. And I usually throw away boxes afterwards, but not this, I'm keeping this for sure!</p>
 
 <p>Now let's open this baby up!</p>
 <br>
@@ -40,14 +40,18 @@ date: 2015-07-29 12:32:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 <br>
 
+<p>What a nice big sign and it's made with a pretty thick cardstock too, I'm totally keeping this. And I know the perfect place to display it. "Plonge" means Plunge in French so I'll be framing this and displaying it outside in my backyard since I have a pool, how appropriate! I'm already happy and I haven't even gotten to the items yet!</p>
+
+<br>
+
 <p><center><img src='/images/OuiPlease14OpenBox2.jpg'></center></p>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>So far so good and I can't wait to start digging in to see these beauties up close and personal!</p>
+<p>And my happiness just doubled. I can't wait to start digging in to see these beauties up close and personal!</p>
 
 <p><center><img src='/images/OuiPlease14Catalog.jpg'></center></p>
-<p>Oui Please always includes a catalog magazine that lists all the items that may be in Volume 1.4 box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
+<p>Oui Please always includes a catalog magazine listing all the items that may be in Volume 1.4 box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
 <br>
 
 <figure class="third">
@@ -100,7 +104,20 @@ date: 2015-07-29 12:32:39 -08:00
 <p></p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I know that people tend to complain about this subscription especially in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and tres beau, I can't stop looking at it with love! I'm super happy I subscribed and I totally can't wait for their 1.5 box!</p>
+<p><center><img src='/images/OuiPlease14Coasters.jpg'></center></p>
+<center><img src='/images/OuiPlease14Coasters2.jpg'></center>
+<DL>
+<DT>Shake Your Bowtie Coasters</DT>
+<DD>Value $20</DD>
+</DL>
+
+<p>These coasters are made of paper and quite thin too, so I wouldn't really recommend using them as coasters. But they're so pretty that I just couldn't put them away to never ever be used, so creative me found a way to display them into a cool art display, see below:</p>
+
+<center><img src='/images/OuiPlease14Coasters3.jpg'></center>
+<p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
+<br>
+
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) I know that people tend to complain about this subscription specifically in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and french, I can't stop looking at it with love! I totally can't wait for their 1.5 box!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
