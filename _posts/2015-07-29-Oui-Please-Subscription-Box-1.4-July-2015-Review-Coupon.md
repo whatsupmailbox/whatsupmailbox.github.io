@@ -41,7 +41,10 @@ date: 2015-07-29 12:32:39 -08:00
 <br>
 
 <p>What a nice big sign and it's made with a pretty thick cardstock too, I'm totally keeping this. And I know the perfect place to display it. "Plonge" means Plunge in French so I'll be framing this and displaying it outside in my backyard since I have a pool, how appropriate! I'm already happy and I haven't even gotten to the items yet!</p>
+<br>
 
+<p><center><img src='/images/OuiPlease14ThankYou.jpg'></center></p>
+<figcaption>They also included a thank you note</figcaption>
 <br>
 
 <p><center><img src='/images/OuiPlease14OpenBox2.jpg'></center></p>
@@ -54,19 +57,26 @@ date: 2015-07-29 12:32:39 -08:00
 <p>Oui Please always includes a catalog magazine listing all the items that may be in Volume 1.4 box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
 <br>
 
-<figure class="third">
-      <img src='/images/OuiPlease14Catalog1.jpg'></center>
-      <img src='/images/OuiPlease14Catalog2.jpg'></center>
+<figure class="half">
       <img src='/images/OuiPlease14Catalog3.jpg'></center>
+      <img src='/images/OuiPlease14Catalog2.jpg'></center>
       <figcaption>Some pages from inside the catalog</figcaption>
 </figure>
 
 <br>
 
+<H4>And here are the items in my box:</H4>
+<p><center><img src='/images/OuiPlease14Items.jpg'></center></p>
+<br>
+
+<p>Before I move on to the individual items, I just want to point out that with every subscription box, they state the value of each item in their info card or catalog magazine in this case. I don't always go by what's stated as I do my own search, so I'll list both the stated value and current price based on my own personal search for your reference. And due to the exchange rate, I typically round up the pennies so that it get's less complicated to compare.</p>
+<br>
+
+<H4>Items in detail:</H4>
 <p><center><img src='/images/OuiPlease14Shirt.jpg'></center></p>
 <DL>
-<DT>Kingies Paris - Life is Beautiful Shirt</DT>
-<DD>Value $40</DD>
+<DT><a href="http://www.kingies.fr/en/women/59-life-is-beau.html" target="_blank">Kingies Paris - LIFE IS BEAU Shirt</a></DT>
+<DD>Stated Value $40 (current price $24)</DD>
 </DL>
 
 <p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was a Small because that's the smallest size they have. But I think the size actually runs small so the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
@@ -75,8 +85,8 @@ date: 2015-07-29 12:32:39 -08:00
 <p><center><img src='/images/OuiPlease14Lulu.jpg'></center></p>
 <center><img src='/images/OuiPlease14Bag.jpg'></center>
 <DL>
-<DT>Lulu En Provence - Makeup Bag</DT>
-<DD>Value $40</DD>
+<DT><a href="https://www.luluenprovence.com/pochettes/ecru-reveuse.html" target="_blank">Lulu En Provence - Pochette Ecru "Rêveuse"</a></DT>
+<DD>Stated Value $40 (current price $25)</DD>
 </DL>
 
 <p>Rêveuse means Dreamy in French, how appropriate for me ;) The size is medium (not too small, yet not too big) and the material is canvas which makes it quite rugged and heavy duty. I love this bag, but I think I secretly wish I got the larger beach bag instead =P</p>
@@ -85,13 +95,27 @@ date: 2015-07-29 12:32:39 -08:00
 <p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
 <center><img src='/images/OuiPlease14Bracelet.jpg'></center>
 <DL>
-<DT>Shake Your Bowtie - Shell Bracelet</DT>
-<DD>Value $50</DD>
+<DT><a href="http://shakeyourbowtie.bigcartel.com" target="_blank">Shake Your Bowtie</a> - Shell Bracelet</DT>
+<DD>Stated Value $50</DD>
 </DL>
 
-<p>This bracelet is cute and beachy. Aesthetically it might have been better to include more than just one shell (3 perhaps), one just seems a bit off, but it's still pretty and maybe I'll love it more as I wear it.</p> 
+<p>Their website doesn't have this bracelet listed so I'm guessing it might be an exclusive design made just for Oui Please. But based on the prices of other bracelets, it sounds about right so I used the stated value.</p>
 
-<p>There were a few more jewelry options in the catalog from other makers, and Objets Obscurs kind of caught my eye since I'll be going to Hawaii next week and the magazine noted that Hawaii is the inspiration for her current collection, Pink Flamingo. So I went to their website and guess what, they're having a summer sale of 50% off everything, how awesome! I'm totally eyeing the headband and some earrings, and since shipping is only 8 Euros, I think I'll be adding these jewels into my collection. Oh why did I have to find out about this sale, sigh.</p>
+<p>This bracelet is cute and beachy. At first I was worried that it won't fit my petite hands, but this bracelet is adjustable and fits me just fine. There were a few more jewelry options in the catalog from other makers, and Objets Obscurs kind of caught my eye since I'll be going to Hawaii next week and the magazine noted that Hawaii is the inspiration for her current collection, Pink Flamingo. So I went to their website and guess what, they're having a summer sale of 50% off everything, how awesome! I'm totally eyeing the headband and some earrings, and since shipping is only 8 Euros, I think I'll be adding these jewels into my collection. Oh why did I have to find out about this sale, sigh.</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14Coasters1.jpg'></center></p>
+<center><img src='/images/OuiPlease14Coasters2.jpg'></center>
+<DL>
+<DT><a href="http://www.betchysketch.com/shop/" target="_blank">Betchy Sketch</a> Coasters</DT>
+<DD>4 Coasters, Stated Value $20</DD>
+</DL>
+
+<p>These coasters were made exlusively for Oui Please as you can see, and although $20 is quite pricey for paper coasters, I believe the value is in the art which I appreciate. Because these coasters are made of paper and are quite thin too, I wouldn't really recommend using them as coasters. I know that defeats the purpose and I think it should have given us a postcard type of art display instead. But they're pretty nevertheless and I just couldn't put them away to never ever be used, so creative old me found a way to display them, see pictures below:</p>
+
+<center><img src='/images/OuiPlease14Coasters4.jpg'></center>
+<center><img src='/images/OuiPlease14Coasters5.jpg'></center>
+<p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
@@ -102,19 +126,6 @@ date: 2015-07-29 12:32:39 -08:00
 </DL>
 
 <p></p>
-<br>
-
-<p><center><img src='/images/OuiPlease14Coasters.jpg'></center></p>
-<center><img src='/images/OuiPlease14Coasters2.jpg'></center>
-<DL>
-<DT>Shake Your Bowtie Coasters</DT>
-<DD>Value $20</DD>
-</DL>
-
-<p>These coasters are made of paper and quite thin too, so I wouldn't really recommend using them as coasters. But they're so pretty that I just couldn't put them away to never ever be used, so creative me found a way to display them into a cool art display, see below:</p>
-
-<center><img src='/images/OuiPlease14Coasters3.jpg'></center>
-<p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) I know that people tend to complain about this subscription specifically in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and french, I can't stop looking at it with love! I totally can't wait for their 1.5 box!</p>
