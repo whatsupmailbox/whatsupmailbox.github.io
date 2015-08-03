@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-categories: 
+category: 
     - Subscriptions
 title: Ipsy August 2015 Sneak Peek!
 featured: false
