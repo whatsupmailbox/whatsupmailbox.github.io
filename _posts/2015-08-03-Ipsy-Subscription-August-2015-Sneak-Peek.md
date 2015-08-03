@@ -15,7 +15,7 @@ date: 2015-08-03 14:28:39 -08:00
 
 <p></p>
 
-<H4>Ipsy released a few Sneak Peeks for next month!</H4>
+<center><H4>Ipsy released a few Sneak Peeks for next month!</H4></center>
 <center><img src='/images/IpsyAug2015SneakPeek.png'></center>
 <center><img src='/images/IpsyAug2015SneakPeek2.png'></center>
 <br>
