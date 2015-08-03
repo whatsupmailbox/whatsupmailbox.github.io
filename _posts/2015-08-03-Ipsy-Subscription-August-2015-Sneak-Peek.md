@@ -7,7 +7,7 @@ title: Ipsy August 2015 Sneak Peek!
 featured: false
 comments: true
 type: photo
-imagefeature: IpsyAug2015SneakPeek.jpg
+imagefeature: IpsyAug2015SneakPeek3.png
 headline: Ipsy August 2015 Sneak Peek!
 tags: [Ipsy, Subscriptions, August 2015]
 date: 2015-08-03 14:28:39 -08:00
