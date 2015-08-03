@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
 title: Ipsy August 2015 Sneak Peek!
@@ -10,7 +10,7 @@ type: photo
 imagefeature: IpsyAug2015SneakPeek.jpg
 headline: Ipsy August 2015 Sneak Peek!
 tags: [Ipsy, Subscriptions, August 2015]
-date: 2015-08-03 15:38:39 -08:00
+date: 2015-08-03 14:28:39 -08:00
 ---
 
 <p></p>
