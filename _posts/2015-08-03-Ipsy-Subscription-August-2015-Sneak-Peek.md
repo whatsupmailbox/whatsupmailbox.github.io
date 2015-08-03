@@ -18,9 +18,9 @@ date: 2015-08-03 14:28:39 -08:00
 <center><H4>Ipsy released a few Sneak Peeks for next month!</H4></center>
 <center><img src='/images/IpsyAug2015SneakPeek.png'></center>
 <center><img src='/images/IpsyAug2015SneakPeek2.png'></center>
-<br>
 
 <p>I'm so excited about the Tarte and Cover FX products, those are one of my favorite brands so I hope to receive them (fingers crossed).</p>
+<br>
 
 <p>And here's a look at next month's bag as well:</p>
 <center><img src='/images/IpsyAug2015SneakPeek3.png'></center>
