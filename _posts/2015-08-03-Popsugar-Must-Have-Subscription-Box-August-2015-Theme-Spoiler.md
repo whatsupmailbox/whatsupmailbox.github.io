@@ -13,8 +13,9 @@ type: photo
 imagefeature: "PopsugarAugust2015Spoiler.png"
 date: 2015-08-03 15:01:00 -08:00
 ---
+<p></p>
 
-<p>The theme for Popsugar's August 2015 box was released today!</p>
+<center><H4>The theme for Popsugar's August 2015 box was released today!</H4></center>
 
 <center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarAugust2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have August 2015 Theme Spoiler!" />
