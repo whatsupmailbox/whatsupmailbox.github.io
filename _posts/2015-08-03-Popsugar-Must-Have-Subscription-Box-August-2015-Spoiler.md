@@ -23,7 +23,7 @@ date: 2015-08-03 15:01:00 -08:00
 
 <p>Ooooh, organization, that totally got my attention and I'm hoping maybe a Whitney English Day Designer perhaps? ;)</p>
 
-<p>If you haven't subscribed yet, July boxes are still available. <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Subscribe here to Popsugar Must Have</a> and use coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
+<p>If you haven't subscribed yet, you can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">subscribe here to Popsugar Must Have</a> and use coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
 
 <H4>What's Popsugar?</H4>
 <CENTER><IMG SRC='/images/PopsugarBox.jpg'></CENTER>
