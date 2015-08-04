@@ -34,7 +34,7 @@ date: 2015-07-29 12:32:39 -08:00
 <p>Once you open it, you can see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14ThankYou.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14Merci.jpg'></center></p>
 <figcaption>They also included a thank you note, how sweet!</figcaption>
 <br>
 
