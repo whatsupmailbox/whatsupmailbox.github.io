@@ -26,7 +26,7 @@ date: 2015-08-04 09:32:39 -08:00
 
 <p>As I mentioned in my previous post, I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
 
-<H4>Oui Please VOL. 1.4: Escape to the French Riviera</H4
+<center><H4>Oui Please VOL. 1.4: Escape to the French Riviera</H4></center>
 
 <br>
 
