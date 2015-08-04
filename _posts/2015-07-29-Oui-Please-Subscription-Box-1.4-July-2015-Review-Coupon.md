@@ -104,14 +104,15 @@ date: 2015-07-29 12:32:39 -08:00
 <p>There's no lining so it's not very liquid friendly, but I still love it and will probably use it as a makeup bag or a clutch for my beachy vacations.</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
-<center><img src='/images/OuiPlease14Bracelet.jpg'></center>
+<p><center><img src='/images/OuiPlease14Bracelet.jpg'></center></p>
 <DL>
 <DT><a href="http://shakeyourbowtie.bigcartel.com" target="_blank">Shake Your Bowtie</a> - Shell Bracelet</DT>
 <DD>Stated Value $50</DD>
 </DL>
 
 <p>Their website doesn't have this bracelet listed so I'm guessing it might be an exclusive design made just for Oui Please. But based on the prices of other bracelets, it sounds about right so I used the stated value.</p>
+
+<center><img src='/images/OuiPlease14Bracelet2.jpg'></center>
 
 <p>This bracelet is cute and beachy. At first I was worried that it won't fit my petite hands, but this bracelet is adjustable and fits me just fine. There were a few more jewelry options in the catalog from other makers, and Objets Obscurs kind of caught my eye since I'll be going to Hawaii next week and the magazine noted that Hawaii is the inspiration for her current collection, Pink Flamingo. So I went to their website and guess what, they're having a summer sale of 50% off everything, how awesome! I'm totally eyeing the headband and some earrings, and since shipping is only 8 Euros, I think I'll be adding these jewels into my collection. Oh why did I have to find out about this sale, sigh.</p>
 <br>
