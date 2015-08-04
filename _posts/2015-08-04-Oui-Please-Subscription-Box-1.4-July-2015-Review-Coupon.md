@@ -134,7 +134,7 @@ date: 2015-08-04 09:32:39 -08:00
 <p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Body1.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14Body.jpg'></center></p>
 <center><img src='/images/OuiPlease14Body2.jpg'></center>
 <DL>
 <DT><a href="http://www.pierauge.com/body-balm-caresse-agrumes-with-essential-oil-of-grapefruit-all-skin-types-boutique-4-14-116.html" target="_blank">Pier Auge - Body Balm CARESSE AGRUMES</a></DT>
