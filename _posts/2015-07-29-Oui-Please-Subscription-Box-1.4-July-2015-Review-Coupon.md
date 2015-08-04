@@ -58,7 +58,7 @@ date: 2015-07-29 12:32:39 -08:00
 <p>Everything is packaged so beautifully, I'm slowly melting into happiness...</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14OpenBox1.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14OpenBox2.jpg'></center></p>
 <p>And my happiness just doubled. I can't wait to start digging in to see these beauties up close and personal!</p>
 <br>
 
