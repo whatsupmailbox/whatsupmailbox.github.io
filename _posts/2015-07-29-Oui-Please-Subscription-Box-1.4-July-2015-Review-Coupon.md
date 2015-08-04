@@ -30,6 +30,14 @@ date: 2015-07-29 12:32:39 -08:00
 <p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
 <br>
 
+<center><img src='/images/OuiPlease14Box3.jpg'></center>
+<p>Once you open it, you can see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14ThankYou.jpg'></center></p>
+<figcaption>They also included a thank you note, how sweet!</figcaption>
+<br>
+
 <p><center><img src='/images/OuiPlease14Box2.jpg'></center></p>
 <p>Their boxes are so BIG and sturdy, it definitely feels like a quality box and you just know something luxurious is inside. And I usually throw away boxes afterwards, but not this, I'm keeping this for sure!</p>
 
@@ -43,15 +51,16 @@ date: 2015-07-29 12:32:39 -08:00
 <p>What a nice big sign and it's made with a pretty thick cardstock too, I'm totally keeping this. And I know the perfect place to display it. "Plonge" means Plunge in French so I'll be framing this and displaying it outside in my backyard since I have a pool, how appropriate! I'm already happy and I haven't even gotten to the items yet!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14ThankYou.jpg'></center></p>
-<figcaption>They also included a thank you note, how sweet!</figcaption>
-<br>
-
-<p><center><img src='/images/OuiPlease14OpenBox2.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14OpenBox1.jpg'></center></p>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
+<p>Everything is packaged so beautifully, I'm slowly melting into happiness...</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14OpenBox1.jpg'></center></p>
 <p>And my happiness just doubled. I can't wait to start digging in to see these beauties up close and personal!</p>
+<br>
 
 <p><center><img src='/images/OuiPlease14Catalog.jpg'></center></p>
 <p>Oui Please always includes a catalog magazine listing all the items that may be in Volume 1.4 box. I think it's great and so informational, plus their made with such good quality, I'm totally keeping mine.</p>
