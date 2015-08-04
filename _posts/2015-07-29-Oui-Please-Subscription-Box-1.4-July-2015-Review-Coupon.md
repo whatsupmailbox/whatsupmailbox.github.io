@@ -91,14 +91,17 @@ date: 2015-07-29 12:32:39 -08:00
 <p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was a Small because that's the smallest size they have. But I think the size actually runs small so the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Lulu.jpg'></center></p>
-<center><img src='/images/OuiPlease14Bag.jpg'></center>
+<p><center><img src='/images/OuiPlease14Bag.jpg'></center></p>
 <DL>
 <DT><a href="https://www.luluenprovence.com/pochettes/ecru-reveuse.html" target="_blank">Lulu En Provence - Pochette Ecru "Rêveuse"</a></DT>
 <DD>Stated Value $40 (current price $25)</DD>
 </DL>
 
 <p>Rêveuse means Dreamy in French, how appropriate for me ;) The size is medium (not too small, yet not too big) and the material is canvas which makes it quite rugged and heavy duty. I love this bag, but I think I secretly wish I got the larger beach bag instead =P</p>
+
+<p>Here's a look at the inside of the bag:</p>
+<center><img src='/images/OuiPlease14Bag2.jpg'></center>
+<p>There's no lining so it's not very liquid friendly, but I still love it and will probably use it as a makeup bag or a clutch for my beachy vacations.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
