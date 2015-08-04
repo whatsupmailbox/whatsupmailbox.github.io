@@ -70,8 +70,8 @@ date: 2015-08-04 09:32:39 -08:00
 <br>
 
 <figure class="half">
-      <img src='/images/OuiPlease14Catalog3.jpg'></center>
       <img src='/images/OuiPlease14Catalog2.jpg'></center>
+      <img src='/images/OuiPlease14Catalog3.jpg'></center>
       <figcaption>Some pages from inside the catalog</figcaption>
 </figure>
 
