@@ -210,7 +210,7 @@ date: 2015-08-04 09:32:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:75%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
