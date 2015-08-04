@@ -154,7 +154,7 @@ date: 2015-07-30 14:01:39 -08:00
 
 <p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" style="width:75%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
