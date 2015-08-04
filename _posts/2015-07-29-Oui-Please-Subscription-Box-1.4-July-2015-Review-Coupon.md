@@ -139,16 +139,46 @@ date: 2015-07-29 12:32:39 -08:00
 <p>"Enriched in pastel oil, with a rich and dense texture, this face and body balm intensely nourishes and regenerates the skin. It brings an immediate comfort to dry, sensitive and damaged skins and provides a better protection against external aggressions."</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Rose.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14BodyHand.jpg'></center></p>
 <DL>
-<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/20-face-and-body-butter/" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
-<DD>Stated Value $50 (current price $36)</DD>
+<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/21-hand-cream/" target="_blank">Grain de Pastel - Hand Cream</a></DT>
+<DD>Stated Value $40 (current price $16)</DD>
 </DL>
 
-<p>I actually use a Rose Water tonic by Fresh and I love it to calm my skin down after a long day in the sun or after some intensive mask/skin treatment.</p>
+<p>I can never have too many hand creams. I always put one in every single bag I have so that it's always on hand when I need them. This one doesn't disappoint either, great addition!</p>
 
+<p>"This unctuous hand cream penetrates easily and quickly. Thanks to its nourishing formula rich in pastel oil, this hand cream leaves a protective film and protects the most exposed skins. As its formula is very concentrated, a knob is enough to leave the hands soft, with a pleasant fragrance."</p>
+<br>
 
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) I know that people tend to complain about this subscription specifically in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and french, I can't stop looking at it with love! I totally can't wait for their 1.5 box!</p>
+<p><center><img src='/images/OuiPlease14Rose.jpg'></center></p>
+<DL>
+<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
+<DD>Stated Value $40 (current price $21)</DD>
+</DL>
+
+<p>I actually use a Rose Water toner by Fresh and I love it to calm my skin down after a long day in the sun or after some intensive mask/skin treatment, so I was happy to receive a Rose Water mist to add to my skincare collection. I'll probably use it for the same purposes as well.</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14Lavender1.jpg'></center></p>
+<center><img src='/images/OuiPlease14Lavender2.jpg'></center>
+<DL>
+<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Lavender Flowers</a></DT>
+<DD>Stated Value $40 (current price $21)</DD>
+</DL>
+
+<p>It's suggested to put these in sachets and place them in your closet to give your clothes an added lavender fragrance. Or, you can include them in your bath routine to create a calm and relaxing atmosphere as you're soaking away. I just might try the latter as putting these in sachets might be too complicated for me ;)</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14Nougat.jpg'></center></p>
+<DL>
+<DT><a href="http://www.lesnougatsstanislas.com/fr/accueil.html" target="_blank">Stanislas</a> Nougat in <i>Lemon</i></DT>
+<DD>Stated Value $40</DD>
+</DL>
+
+<p>I love nougat and this bar is pretty big. It'll definitely satisfy my sweet cravings and then some =)</p>
+<br>
+
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) There were a lot of skincare products, more than I need, so hopefully next month it'll be more even in terms of the type of products I receive. I saw some pictures in Instagram on other variations of the box, and although there were some that had almost the exact items, I did notice one or two that had better versions; they got the shirt, a jewelry item, a makeup pouch plus a beach bag! Oh how I wish I got the beach bag too! Aside from that, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and French, I can't stop looking at it with love =) I can't wait to see what 1.5 will offer!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
