@@ -127,7 +127,7 @@ date: 2015-08-04 09:32:39 -08:00
 <DD>4 Coasters, Stated Value $20</DD>
 </DL>
 
-<p>These coasters were made exlusively for Oui Please as you can see, and although $20 is quite pricey for paper coasters, I believe the value is in the art which I appreciate. Because these coasters are made of paper and are quite thin too, I wouldn't really recommend using them as coasters. I know that defeats the purpose and I think it should have given us a postcard type of art display instead. But they're pretty nevertheless and I just couldn't put them away to never ever be used, so creative old me found a way to display them, see pictures below:</p>
+<p>These coasters were made exlusively for Oui Please as you can see, and although $20 is quite pricey for paper coasters, I believe the value is in the art which I appreciate. Because these coasters are made of paper and are quite thin too, I wouldn't really recommend using them as coasters. I know that defeats the purpose and I think a postcard type of art display would have been better than coasters. But they're pretty nevertheless and I just couldn't put them away to never ever be used, so creative old me found a way to display them, see pictures below:</p>
 
 <center><img src='/images/OuiPlease14Coasters4.jpg'></center>
 <center><img src='/images/OuiPlease14Coasters5.jpg'></center>
