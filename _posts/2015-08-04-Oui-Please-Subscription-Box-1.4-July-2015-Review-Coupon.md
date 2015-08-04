@@ -25,10 +25,9 @@ date: 2015-08-04 09:32:39 -08:00
 <br>
 
 <p>As I mentioned in my previous post, I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
-
-<center><H4>Oui Please VOL. 1.4: Escape to the French Riviera</H4></center>
-
 <br>
+
+<center><H2>Oui Please VOL. 1.4: Escape to the French Riviera</H2></center>
 
 <center><img src='/images/OuiPlease14Box.jpg'></center>
 <p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
