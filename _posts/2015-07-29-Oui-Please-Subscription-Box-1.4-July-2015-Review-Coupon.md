@@ -31,11 +31,11 @@ date: 2015-07-29 12:32:39 -08:00
 <br>
 
 <center><img src='/images/OuiPlease14Box3.jpg'></center>
-<p>Once you open it, you can see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
+<p>Once you open it, you can see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme. There's also a white envelope on top of it which I'm guessing is a note from them.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Merci.jpg'></center></p>
-<figcaption>They also included a thank you note, how sweet!</figcaption>
+<p>And yes it is, they included a thank you note with a quote that matches the Plonge sign, how sweet!</figcaption>
 <br>
 
 <p><center><img src='/images/OuiPlease14Box2.jpg'></center></p>
