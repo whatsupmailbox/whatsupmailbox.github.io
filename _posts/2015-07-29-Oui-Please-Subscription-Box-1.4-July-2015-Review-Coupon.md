@@ -134,10 +134,10 @@ date: 2015-07-29 12:32:39 -08:00
 <p><center><img src='/images/OuiPlease14Sothys.jpg'></center></p>
 <DL>
 <DT><a href="http://www.skin-beauty.com/sothys-medium-tanning-body-lotion.html" target="_blank">Sothys Cellu-guard Tanning Body Lotion SPF 20</a></DT>
-<DD>Stated Value $50 (current price $52)</DD>
+<DD>Value $52</DD>
 </DL>
 
-<p>This was undervalued slightly which is a pleasant surprise. Unfortuntaely I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. Also, I didn't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
+<p>The Sothys product listed in the catalog magazine was a different type, it was an SPF 30 sunscreen and I got a tanning lotion instead. Unfortunately I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. Also, I didn't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14BodyBalm1.jpg'></center></p>
@@ -155,7 +155,7 @@ date: 2015-07-29 12:32:39 -08:00
 <p><center><img src='/images/OuiPlease14BodyHand.jpg'></center></p>
 <DL>
 <DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/21-hand-cream/" target="_blank">Grain de Pastel - Hand Cream</a></DT>
-<DD>Stated Value $40 (current price $16)</DD>
+<DD>Stated Value $30 (current price $16)</DD>
 </DL>
 
 <p>I can never have too many hand creams. I always put one in every single bag I have so that it's always on hand when I need them. This one doesn't disappoint either, great addition!</p>
