@@ -118,15 +118,23 @@ date: 2015-07-29 12:32:39 -08:00
 <p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Bowties.jpg'></center></p>
-<center><img src='/images/OuiPlease14Bracelet.jpg'></center>
+<p><center><img src='/images/OuiPlease14Sothys.jpg'></center></p>
 <DL>
 <DT>Shake Your Bowtie - Shell Bracelet</DT>
 <DD>Value $50</DD>
 </DL>
 
-<p></p>
+<p>So I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. I don't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
 <br>
+
+<p><center><img src='/images/OuiPlease14BodyBalm1.jpg'></center></p>
+<center><img src='/images/OuiPlease14BodyBalm2.jpg'></center>
+<DL>
+<DT>Shake Your Bowtie - Shell Bracelet</DT>
+<DD>Value $50</DD>
+</DL>
+
+<p>This body balm jar is huge! </p>
 
 <p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) I know that people tend to complain about this subscription specifically in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and french, I can't stop looking at it with love! I totally can't wait for their 1.5 box!</p>
 
