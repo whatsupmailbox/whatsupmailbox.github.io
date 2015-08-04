@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
-    - Coupons
+    - Reviews
 title: Oui Please Vol. 1.4 Box Review + 20% Coupon!
 featured: false
 comments: true
