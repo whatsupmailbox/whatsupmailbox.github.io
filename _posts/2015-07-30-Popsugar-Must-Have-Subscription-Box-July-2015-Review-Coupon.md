@@ -167,7 +167,7 @@ date: 2015-07-30 14:01:39 -08:00
       <TD>$28</TD>
    </TR>
    <TR>
-      <TD>PopDental Portable ToothbrushSupergoop Defense Refresh Setting Mist</TD>
+      <TD>PopDental Portable Toothbrush</TD>
       <TD>$19.99</TD>
    </TR>
     <TR>
