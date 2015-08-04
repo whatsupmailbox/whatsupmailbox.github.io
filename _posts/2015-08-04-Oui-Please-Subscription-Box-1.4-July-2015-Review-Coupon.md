@@ -4,14 +4,14 @@ published: false
 categories: 
     - Subscriptions
     - Coupons
-title: Oui Please 1.4 Box Review + 20% Coupon!
+title: Oui Please Vol. 1.4 Box Review + 20% Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: OuiPlease14Box.jpg
-headline: Oui Please 1.4 Box Review + 20% Coupon!
-tags: [Oui Please, Subscriptions, Reviews, July 2015]
-date: 2015-07-29 12:32:39 -08:00
+headline: Oui Please Vol. 1.4 Box Review + 20% Coupon!
+tags: [Oui Please, Subscriptions, Reviews]
+date: 2015-08-04 09:32:39 -08:00
 ---
 
 <center><a href="http://ouiplease.com" target="_blank">
@@ -25,6 +25,10 @@ date: 2015-07-29 12:32:39 -08:00
 <br>
 
 <p>As I mentioned in my previous post, I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
+
+<H4>Oui Please VOL. 1.4: Escape to the French Riviera</H4
+
+<br>
 
 <center><img src='/images/OuiPlease14Box.jpg'></center>
 <p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
