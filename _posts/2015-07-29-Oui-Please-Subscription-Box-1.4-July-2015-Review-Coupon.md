@@ -44,7 +44,7 @@ date: 2015-07-29 12:32:39 -08:00
 <br>
 
 <p><center><img src='/images/OuiPlease14ThankYou.jpg'></center></p>
-<figcaption>They also included a thank you note</figcaption>
+<figcaption>They also included a thank you note, how sweet!</figcaption>
 <br>
 
 <p><center><img src='/images/OuiPlease14OpenBox2.jpg'></center></p>
@@ -120,21 +120,33 @@ date: 2015-07-29 12:32:39 -08:00
 
 <p><center><img src='/images/OuiPlease14Sothys.jpg'></center></p>
 <DL>
-<DT>Shake Your Bowtie - Shell Bracelet</DT>
-<DD>Value $50</DD>
+<DT><a href="http://www.skin-beauty.com/sothys-medium-tanning-body-lotion.html" target="_blank">Sothys Cellu-guard Tanning Body Lotion SPF 20</a></DT>
+<DD>Stated Value $50 (current price $52)</DD>
 </DL>
 
-<p>So I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. I don't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
+<p>This was undervalued slightly which is a pleasant surprise. Unfortuntaely I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. Also, I didn't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14BodyBalm1.jpg'></center></p>
 <center><img src='/images/OuiPlease14BodyBalm2.jpg'></center>
 <DL>
-<DT>Shake Your Bowtie - Shell Bracelet</DT>
-<DD>Value $50</DD>
+<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/20-face-and-body-butter/" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
+<DD>Stated Value $50 (current price $36)</DD>
 </DL>
 
-<p>This body balm jar is huge! </p>
+<p>This body balm jar is huge! It looks luxurious and smells great too, can't wait to use it!</p>
+
+<p>"Enriched in pastel oil, with a rich and dense texture, this face and body balm intensely nourishes and regenerates the skin. It brings an immediate comfort to dry, sensitive and damaged skins and provides a better protection against external aggressions."</p>
+<br>
+
+<p><center><img src='/images/OuiPlease14Rose.jpg'></center></p>
+<DL>
+<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/20-face-and-body-butter/" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
+<DD>Stated Value $50 (current price $36)</DD>
+</DL>
+
+<p>I actually use a Rose Water tonic by Fresh and I love it to calm my skin down after a long day in the sun or after some intensive mask/skin treatment.</p>
+
 
 <p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. I just wished I subscribed earlier but better late than never right ;) I know that people tend to complain about this subscription specifically in regards to box envy, but hey, it's the nature of this box to have variations and you're aware about this prior to signing up. Do I wish I got other items that others may have received, sure, that's just human nature to be envious. But, the items I received myself are just as good even though it may not be higher in value or a perfect match. I'm okay with that and aside from the items themselves, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and french, I can't stop looking at it with love! I totally can't wait for their 1.5 box!</p>
 
