@@ -165,7 +165,7 @@ date: 2015-08-04 09:32:39 -08:00
 <p>"Enriched in pastel oil, with a rich and dense texture, this face and body balm intensely nourishes and regenerates the skin. It brings an immediate comfort to dry, sensitive and damaged skins and provides a better protection against external aggressions."</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14BodyHand.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14Hand.jpg'></center></p>
 <DL>
 <DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/21-hand-cream/" target="_blank">Grain de Pastel - Hand Cream</a></DT>
 <DD>Stated Value $30 (current price $16)</DD>
