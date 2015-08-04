@@ -131,6 +131,16 @@ date: 2015-07-29 12:32:39 -08:00
 <p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
+<p><center><img src='/images/OuiPlease14Body1.jpg'></center></p>
+<center><img src='/images/OuiPlease14Body2.jpg'></center>
+<DL>
+<DT><a href="http://www.pierauge.com/body-balm-caresse-agrumes-with-essential-oil-of-grapefruit-all-skin-types-boutique-4-14-116.html" target="_blank">Pier Auge - Body Balm CARESSE AGRUMES</a></DT>
+<DD>Stated Value $80 (current price $44)</DD>
+</DL>
+
+<p>Wow, this body balm jar is huge! The texture is creamy and the scent is both fruity and fresh, and that's due to the Grapefruit essential oils added into this lotion. I like this and it will certainly last me awhile.</p>
+<br>
+
 <p><center><img src='/images/OuiPlease14Sothys.jpg'></center></p>
 <DL>
 <DT><a href="http://www.skin-beauty.com/sothys-medium-tanning-body-lotion.html" target="_blank">Sothys Cellu-guard Tanning Body Lotion SPF 20</a></DT>
@@ -147,7 +157,7 @@ date: 2015-07-29 12:32:39 -08:00
 <DD>Stated Value $50 (current price $36)</DD>
 </DL>
 
-<p>This body balm jar is huge! It looks luxurious and smells great too, can't wait to use it!</p>
+<p>Another body lotion and it's pretty big in size as well! It looks luxurious and smells great too, can't wait to use it!</p>
 
 <p>"Enriched in pastel oil, with a rich and dense texture, this face and body balm intensely nourishes and regenerates the skin. It brings an immediate comfort to dry, sensitive and damaged skins and provides a better protection against external aggressions."</p>
 <br>
@@ -160,13 +170,13 @@ date: 2015-07-29 12:32:39 -08:00
 
 <p>I can never have too many hand creams. I always put one in every single bag I have so that it's always on hand when I need them. This one doesn't disappoint either, great addition!</p>
 
-<p>"This unctuous hand cream penetrates easily and quickly. Thanks to its nourishing formula rich in pastel oil, this hand cream leaves a protective film and protects the most exposed skins. As its formula is very concentrated, a knob is enough to leave the hands soft, with a pleasant fragrance."</p>
+<p>"Thanks to its nourishing formula rich in pastel oil, this hand cream leaves a protective film and protects the most exposed skins. As its formula is very concentrated, a knob is enough to leave the hands soft, with a pleasant fragrance."</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Rose.jpg'></center></p>
 <DL>
-<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
-<DD>Stated Value $40 (current price $21)</DD>
+<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Doux Me - Rose Mist</a></DT>
+<DD>Stated Value $35 (current price $21)</DD>
 </DL>
 
 <p>I actually use a Rose Water toner by Fresh and I love it to calm my skin down after a long day in the sun or after some intensive mask/skin treatment, so I was happy to receive a Rose Water mist to add to my skincare collection. I'll probably use it for the same purposes as well.</p>
@@ -175,17 +185,17 @@ date: 2015-07-29 12:32:39 -08:00
 <p><center><img src='/images/OuiPlease14Lavender1.jpg'></center></p>
 <center><img src='/images/OuiPlease14Lavender2.jpg'></center>
 <DL>
-<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Lavender Flowers</a></DT>
-<DD>Stated Value $40 (current price $21)</DD>
+<DT><a href="http://lafare1789.com/en/" target="_blank">La Fare 1789</a> - Lavender Flower Jar</DT>
+<DD>Stated Value $20</DD>
 </DL>
 
-<p>It's suggested to put these in sachets and place them in your closet to give your clothes an added lavender fragrance. Or, you can include them in your bath routine to create a calm and relaxing atmosphere as you're soaking away. I just might try the latter as putting these in sachets might be too complicated for me ;)</p>
+<p>It's suggested to put these in sachets and place them in your cabinets or drawers to give your clothes an added lavender fragrance. Or, you can include them in your bath routine to create a calm and relaxing atmosphere as you're soaking away. I just might try the latter as putting these in sachets might be too complicated for me ;)</p>
 <br>
 
 <p><center><img src='/images/OuiPlease14Nougat.jpg'></center></p>
 <DL>
-<DT><a href="http://www.lesnougatsstanislas.com/fr/accueil.html" target="_blank">Stanislas</a> Nougat in <i>Lemon</i></DT>
-<DD>Stated Value $40</DD>
+<DT><a href="http://www.lesnougatsstanislas.com/fr/accueil.html" target="_blank">Confiserie Stanislas</a> Nougat Lemon</DT>
+<DD>Stated Value $20</DD>
 </DL>
 
 <p>I love nougat and this bar is pretty big. It'll definitely satisfy my sweet cravings and then some =)</p>
@@ -206,19 +216,55 @@ date: 2015-07-29 12:32:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Mariner Tee</TD>
-      <TD>$44.95</TD>
+      <TD>Kingies Paris Shirt</TD>
+      <TD>$24</TD>
    </TR>
   <TR>
-      <TD>Freeport Shorts</TD>
-      <TD>$64.95</TD>
+      <TD>Lulu En Provence Pochette</TD>
+      <TD>$25</TD>
+   </TR>
+  <TR>
+      <TD>Shake Your Bowtie Bracelet</TD>
+      <TD>$50</TD>
+   </TR>
+  <TR>
+      <TD>Betchy Sketch Coasters</TD>
+      <TD>$20</TD>
+   </TR>
+  <TR>
+      <TD>Pier Auge Body Balm</TD>
+      <TD>$44</TD>
+   </TR>
+  <TR>
+      <TD>Sothys Tanning Lotion</TD>
+      <TD>$52</TD>
+   </TR>
+  <TR>
+      <TD>Grain de Pastel - Face & Body Butter</TD>
+      <TD>$36</TD>
+   </TR>
+  <TR>
+      <TD>Grain de Pastel - Hand Cream</TD>
+      <TD>$16</TD>
+   </TR>
+  <TR>
+      <TD>Doux Me - Rose Mist</TD>
+      <TD>$21</TD>
+   </TR>
+  <TR>
+      <TD>La Fare 1789 - Lavender Flower Jar</TD>
+      <TD>$20</TD>
+   </TR>
+  <TR>
+      <TD>Confiserie Stanislas - Nougat Lemon</TD>
+      <TD>$20</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$109.90</big></b></TD>
+      <TD><b><big>$328</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$59.95</big></i></TD>
+      <TD><i><big>$150</big></i></TD>
    </TR>
 </TABLE>
