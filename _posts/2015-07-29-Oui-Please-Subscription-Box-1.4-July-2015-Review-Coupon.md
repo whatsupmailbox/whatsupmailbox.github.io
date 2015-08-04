@@ -39,7 +39,7 @@ date: 2015-07-29 12:32:39 -08:00
 <br>
 
 <p><center><img src='/images/OuiPlease14Box2.jpg'></center></p>
-<p>Their boxes are so BIG and sturdy, it definitely feels like a quality box and you just know something luxurious is inside. And I usually throw away boxes afterwards, but not this, I'm keeping this for sure!</p>
+<p>How pretty is the box! It's so BIG and sturdy, it definitely feels like a quality box made from high quality materials and you just know something luxurious is inside. I usually throw away boxes afterwards, but not this, I'm keeping this for sure!</p>
 
 <p>Now let's open this baby up!</p>
 <br>
