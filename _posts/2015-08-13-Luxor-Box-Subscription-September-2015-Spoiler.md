@@ -8,16 +8,18 @@ categories:
 tags: [Luxor Box, Subscriptions]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBox.jpeg"
-date: 2015-07-13 13:57:39 -08:00
+date: 2015-08-13 13:57:39 -08:00
 ---
 
 # First Spoiler for Luxor Box!
 
-<center><img src="/images/LuxorBoxSep2015Spoiler.png"></center>
+<center><a href="http://www.luxorbox.com" target="_blank">
+<img src="/images/LuxorBoxSep2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Luxor Box September 2015 Spoiler!" />
+</a></center>
 
 <p>I love jewelry and it seems that Luxor Box has been including a jewelry piece with every box so far. Their first box included an earring, the second box had a necklace and now a bracelet, yay!</p>
 
