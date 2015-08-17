@@ -28,7 +28,7 @@ date: 2015-08-17 12:20:39 -08:00
 </ul>
 <p><i>Validity: Promotional value expires 90 days after purchase. Amount paid never expires.</i></p>
 
-<b>Use Coupon Code EXTRA for an additional 20% off!!!</b>
+<p><b>Use Coupon Code EXTRA for an additional 20% off!!!</b></p>
 
 <p>This is the best deal I've seen so far for Bespoke Post, so if you've always wanted to try them or even if you're already subscribed, I totally recommend getting this deal cause it's just too good to pass! =)</p>
 
