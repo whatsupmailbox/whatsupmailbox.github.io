@@ -7,7 +7,7 @@ category: Subscriptions
 tags: [BeautyDNA, Subscriptions, Ideel]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNAIdeel.png"
