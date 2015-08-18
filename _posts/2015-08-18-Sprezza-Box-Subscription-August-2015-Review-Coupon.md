@@ -91,7 +91,7 @@ date: 2015-08-18 13:22:39 -08:00
 
 <center><img src='/images/SprezzaBoxAugust2015TieClip.jpg'></center>
 <DL>
-<DT><a href="http://www.weekendcasual.com/collections/tie-clips/products/silver-arrow-tie-clip-1-75" target="_blank">Weekend Casual SILVER ARROW Tie Clip</a>/DT>
+<DT><a href="http://www.weekendcasual.com/collections/tie-clips/products/silver-arrow-tie-clip-1-75" target="_blank">Weekend Casual SILVER ARROW Tie Clip</a></DT>
 <DD>Retail Value $12 (Sprezza valued this at $10 but on their website it's actually $12!)</DD>
 </DL>
 
