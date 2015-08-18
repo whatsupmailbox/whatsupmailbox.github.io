@@ -30,6 +30,14 @@ date: 2015-08-18 13:22:39 -08:00
 <p>The August 2015 box is titled the <big>Empire Box</big>.</p>
 <br>
 
+<figure class="half">
+        <img src='/images/SprezzaBoxAugust2015OpenBox2.jpg'>
+        <img src='/images/SprezzaBoxAugust2015OpenBox3.jpg'>
+        <figcaption>More unboxing pictures</figcaption>
+</figure>
+
+<br>
+
 <center><img src='/images/SprezzaBoxAugust2015Info.jpg'></center>
 <figcaption>Info card detailing the products inside</figcaption>
 
