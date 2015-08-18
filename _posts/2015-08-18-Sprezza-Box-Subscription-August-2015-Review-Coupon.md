@@ -11,7 +11,7 @@ type: photo
 imagefeature: SprezzaBoxAugust2015Box.jpg
 headline: Sprezza Box August 2015 Review + Coupon!
 tags: [Sprezza Box, Subscriptions, Reviews, August 2015]
-date: 2015-08-18 12:30:39 -08:00
+date: 2015-08-18 13:22:39 -08:00
 ---
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
