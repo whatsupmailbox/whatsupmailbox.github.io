@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -52,9 +52,11 @@ date: 2015-08-18 13:22:39 -08:00
 </a></center></p>
 <br>
 
+<p>How awesome is this month's items, so perfectly blue and dapper!</p>
+
 <H4>Items in Detail:</H4>
 
-<p><center><img src='/images/SprezzaBoxAugust2015Tie.jpg'></center></p>
+<p><center><img src='/images/SprezzaBoxAugust2015Tie2.jpg'></center></p>
 <DL>
 <DT><a href="http://www.bullandmoose.com" target="_blank">Bull + Moose</a> Tie</DT>
 <DD>Retail Value $39</DD>
@@ -63,8 +65,8 @@ date: 2015-08-18 13:22:39 -08:00
 <p>I love it when boxes include a tie. My husband needs to expand his tie collection since he barely has any, so this was a great item to get!</p>
 <p>The color and pattern is classic yet modern, so it will surely go with just about anything.</p>
 
-<center><img src='/images/SprezzaBoxAugust2015Tie2.jpg'></center>
-<p>The tie is made of 100% cotton and Made in Turkey.</p>
+<center><img src='/images/SprezzaBoxAugust2015Tie.jpg'></center>
+<p>The tie is hand made and 100% cotton.</p>
 <br>
 
 <center><img src='/images/SprezzaBoxAugust2015PocketSquare.jpg'></center>
@@ -82,14 +84,14 @@ date: 2015-08-18 13:22:39 -08:00
 <DD>Retail Value $9.95</DD>
 </DL>
 
-<p>As my husband always say, you can never have enough socks! And unlike other sub boxes, Sprezza tends to send classy patterns compared to the crazy whacky sometimes fun ones that others tend to send. The Navy blue paired with the herringbone pattern goes quite well together and will certainly make your feet look dapper.</p>
+<p>As my husband always say, you can never have enough socks! And unlike other sub boxes, Sprezza tends to send classy patterns compared to the crazy and sometimes whacky ones that others tend to send. The Navy blue paired with the herringbone pattern goes quite well together and will certainly make your feet look dapper.</p>
 
 <p>Yo Sox! also has a "Sock of the month club" subscription where you can choose to get 1, 2 or 3 pairs of socks delivered to you monthly. You can <a href="https://www.yo-sox.com/collections/sock-of-the-month-club" target="_blank">read more about it here</a>.</p>
 <br>
 
 <center><img src='/images/SprezzaBoxAugust2015TieClip.jpg'></center>
 <DL>
-<DT><a href="http://www.weekendcasual.com/collections/tie-clips/products/silver-arrow-tie-clip-1-75" target="_blank">Weekend Casual SILVER ARROW Tie Clip</DT>
+<DT><a href="http://www.weekendcasual.com/collections/tie-clips/products/silver-arrow-tie-clip-1-75" target="_blank">Weekend Casual SILVER ARROW Tie Clip</a>/DT>
 <DD>Retail Value $12 (Sprezza valued this at $10 but on their website it's actually $12!)</DD>
 </DL>
 
