@@ -44,6 +44,7 @@ date: 2015-08-18 13:22:39 -08:00
 <br>
 
 <p>Sprezza Box is becoming one of the top boxes that my husband can't wait to receive. It's filled with quality products and their customer service is spectacular (I've experienced it myself due to receiving a flawed item). I was amazed by last month's box which included a beautiful Arvo watch (<a href="http://whatsupmailbox.com/subscriptions/reviews/Sprezza-Box-Subscription-July-2015-Review-Coupon/" target="_blank">you can read the July 2015 review here</a>)! So needless to say, it's always exciting opening up this box =)</p>
+<br>
 
 <DT>And here are the items:</DT>
 
