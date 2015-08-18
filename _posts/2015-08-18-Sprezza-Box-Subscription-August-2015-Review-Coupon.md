@@ -120,7 +120,7 @@ date: 2015-08-18 13:22:39 -08:00
 <p>If you haven't subscribed yet, you can <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">click here to subscribe to Sprezza Box</a> and don't forget to use coupon code <b>WHATSUPMAILBOX</b> to get 10% off your first box! This is by far becoming one of my top men's subscription boxes.</p>
 <br>
 
-<TABLE  BORDER="5" style="width:75%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE BOX</center></H3>
