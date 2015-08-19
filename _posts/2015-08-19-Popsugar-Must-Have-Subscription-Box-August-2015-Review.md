@@ -47,8 +47,8 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Scarf.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.henribendel.com/signature-stripe-canvas-small-dopp-kit-27876711510193.html?cgid=travel_cosmetic&start=23" target="_blank">Henri Bendel - Signature Stripe Canvas Small Dopp Kit</a></DT>
-<DD>Retail Value $28</DD>
+<DT><a href="http://americancolorsclothing.com/shop/scarves/the-scarf-blueclay.html" target="_blank">American Color by Alex Lehr Scarf</a></DT>
+<DD>Value $79</DD>
 </DL>
 
 <p>Personally, I'm kind of over getting scarves in my sub boxes. I swapped most of mine away since I don't really wear them. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
@@ -61,8 +61,8 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Lunchbox.jpg'></center></p>
 
 <DL>
-<DT><a href="https://popdental.com/product/silver-portable-sonic-toothbrush/" target="_blank">PopDental - Silver Portable Sonic Toothbrush</a></DT>
-<DD>Retail Value $19.99</DD>
+<DT><a href="http://www.burkedecor.com/products/yay-lunch-lunch-box-design-by-wild-wolf" target="_blank">Happy Jackson - "Yay Lunch" Lunch Box</a></DT>
+<DD>Retail Value $10</DD>
 </DL>
 
 <p>Hmmm, I don't know what to say about this. It's both odd and unexpected to receive a lunchbox, even my husband commented "why are you receiving a lunchbox, are you going back to school?" If I was still in college, then yes, it might have increased the excitement within me. But no, sorry, this just didn't do it for me. Another gift or swap item, sigh.</p>
@@ -75,8 +75,8 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Mug.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.pacificabeauty.com/makeup/eyes/enlighten-eye-brightening-shadow-palette?id=422" target="_blank">Sorial - Card Case</a></DT>
-<DD>Retail Value $28</DD>
+<DT><a href="http://shop.nordstrom.com/s/fringe-studio-best-day-ever-mug/4086813?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=875" target="_blank">Fringe Studio - Best Day Ever Mug</a></DT>
+<DD>Value $10</DD>
 </DL>
 
 <p>Finally an item I'm in love with. I drink quite a bit of tea and the simple design on this mug will go perfectly in my mug collection. I can't wait to use it!</p>
@@ -91,8 +91,8 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015EyeCream.jpg'></center></p>
 <center><img src='/images/PopsugarAugust2015EyeCream2.jpg'></center>
 <DL>
-<DT><a href="http://www.supergoop.com/shop/defense-refresh-setting-mist-spf-50/" target="_blank">Supergoop - Defense Refresh Setting Mist SPF 50</a></DT>
-<DD>Retail Value $28</DD>
+<DT><a href="http://www.royalapothic.com/products/tea-balm-firming-eye-treatment" target="_blank">Royal Apothic - Tea Balm Firming Eye Treatment</a></DT>
+<DD>Value $36</DD>
 </DL>
 
 <p>I knew I was getting this eye cream since it was revealed earlier, and my initial reaction was just meh. I don't have a lot of eye concerns so it's not really my thing, but prevention is always better than correction so I will be using this.</p>
@@ -101,11 +101,13 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015PancakeMix.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.yestocarrots.com/product/yes-to-blueberries-cleansing-facial-wipes--25ct?product_id=7331102" target="_blank">Yes To - Blueberries Cleansing Facial Wipes</a></DT>
-<DD>25 ct, Value $5.99</DD>
+<DT><a href="http://southernculturefoods.com/collections/pancake-waffle-mix/products/birthday-cake-pancake-and-waffle-mix-1" target="_blank">Southern Culture - "Birthday Cake" Pancake & Waffe Mix</a></DT>
+<DD>25 ct, Value $7.99</DD>
 </DL>
 
 <p>I'm not really a pancake/waffle person (I know, crazy right) but I will certainly try this and I'm sure my husband will appreciate it more than I do.</p>
+
+<p>This product was featured in Shark Tank, Oprah magazine, and QVC to name a few. So that just made me more interested in trying this out =)</p>
 
 <center><img src='/images/PopsugarAugust2015PancakeMix2.jpg'>
 <p>The ingredients look good, I'll try using it this weekend!</p>
@@ -114,18 +116,18 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Napkins.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.thegoodbean.com/bars/" target="_blank">The Good Bean - Fruit & No Nut Bar in <i>Chocolate Berry</i></a></DT>
-<DD>1 bar, Value $1.99</DD>
+<DT><a href="http://www.shopmerimeri.com/tootsweetpinkstripelargenapkin.aspx" target="_blank">Meri Meri - Toot Sweet Pink Stripe Large Napkin</i></a></DT>
+<DD>20 Large Paper Napkins, Value $5.95</DD>
 </DL>
 
-<p>Paper napkins, really. And the print looks more like a kids birthday party, not digging it at all. And I surely can't gift it, that would be odd, so I'll either swap this or use this when I'm in need for napkins and there's none other but this.</p>
+<p>Paper napkins, really. And the print looks more like a kids birthday party, not digging it at all. And I surely can't gift it, that would be odd. So I'll either swap this or use it when I'm in need of napkins and there's none other but this.</p>
 <br>
 
 <p><center><img src='/images/PopsugarAugust2015Yoga.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.thegoodbean.com/bars/" target="_blank">The Good Bean - Fruit & No Nut Bar in <i>Chocolate Berry</i></a></DT>
-<DD>1 bar, Value $1.99</DD>
+<DT><a href="https://www.myyogaworks.com" target="_blank">My Yoga Works</a> - 3 month subscription</DT>
+<DD>3-month subscription, Value $45</DD>
 </DL>
 
 <p>I tried this out yesterday and so far it's been good. I do more pilates than yoga, so can't really judge it specifically for all you yogis, but for someone who may not have the time to go to the gym or can only exercise late at night when all the gyms are closed, then I think this will be great for you! I certainly see myself using this quite often.</p>
@@ -135,12 +137,17 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Coffee.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.hallmark.com" target="_blank">Hallmark</a> Greeting Cards</DT>
-<DD>Value $18.97</DD>
+<DT><a href="http://www.folgerscoffee.com" target="_blank">Folgers</a> Iced Coffee Drink Concentrate</DT>
+<DD>Value $</DD>
 </DL>
 
 <p>Since I'm not a coffee drinker, this will be handed off to my husband. I appreciate the bonus item, but a Folger's coffee is somewhat disappointing, at least for me.</p>
 
+<p>If you're not familiar with this product, the way to use it is as follows:</p>
+<p>1. Add ice</p>
+<p>2. Pour milk</p>
+<p>3. Squeeze in Folgers Iced Cafe</p>
+<p>4. Stir & enjoy</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Okay, so although I love getting my Popsugar boxes every month, I have to admit this box is my least favorite to date. The only item I truly liked is the mug, and maybe the eye cream (depending on the results). Everything else seemed a bit off especially for a $40 subscription box. I'll still continue subscribing because hey, everyone makes mistakes and I think this box was one of them, so I'll let them slide this time. Let's hope next month they make up for it!</p>
