@@ -18,7 +18,7 @@ date: 2015-08-18 15:11:39 -08:00
 <img src="/images/BeautyDNAIdeel.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box on sale at Ideel!" />
 </a></center>
 
-<H4>Get a 4-month subscription to Beauty DNA for only $59 on <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Ideel!</H4>
+<p><H4>Get a 4-month subscription to Beauty DNA for only $59 on <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Ideel!</H4></p>
 
 <p>Plus, if you're new to Ideel, you can get 10% off your first purchase by <a href="http://www.ideel.com/invite/lorettajie" target="_blank">joining here</a>. That brings the cost down to only $13.28 per box! That's a totes crazy deal!</p>
 
