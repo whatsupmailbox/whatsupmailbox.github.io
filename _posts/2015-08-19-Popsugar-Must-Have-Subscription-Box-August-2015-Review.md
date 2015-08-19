@@ -137,8 +137,8 @@ date: 2015-08-19 14:01:39 -08:00
 <p><center><img src='/images/PopsugarAugust2015Coffee.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.folgerscoffee.com" target="_blank">Folgers</a> Iced Coffee Drink Concentrate</DT>
-<DD>Value $</DD>
+<DT><a href="http://www.folgerscoffee.com" target="_blank">Folgers</a> Iced Cafe in "Caramel Macchiato"</DT>
+<DD>Value $5</DD>
 </DL>
 
 <p>Since I'm not a coffee drinker, this will be handed off to my husband. I appreciate the bonus item, but a Folger's coffee is somewhat disappointing, at least for me.</p>
@@ -163,36 +163,40 @@ date: 2015-08-19 14:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Henri Bendel Dopp Kit</TD>
-      <TD>$28</TD>
+      <TD>American Colors Scarf</TD>
+      <TD>$79</TD>
    </TR>
    <TR>
-      <TD>PopDental Portable Toothbrush</TD>
-      <TD>$19.99</TD>
+      <TD>Happy Jackson Lunch Box</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Sorial Card Case</TD>
-      <TD>$28</TD>
+      <TD>Fringe Studio Mug</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Supergoop Defense Refresh Setting Mist</TD>
-      <TD>$28</TD>
+      <TD>Royal Apothic Eye Cream</TD>
+      <TD>$36</TD>
    </TR>
     <TR>
-      <TD>Yes To Blueberries Facial Wipes</TD>
-      <TD>$5.99</TD>
+      <TD>Southern Culture Pancake Mix</TD>
+      <TD>$7.99</TD>
    </TR>
    <TR>
-      <TD>The Good Bean Protein Bar</TD>
-      <TD>$1.99</TD>
+      <TD>Meri Meri Paper Napkins</TD>
+      <TD>$5.95</TD>
    </TR>
    <TR>
-      <TD>Hallmark Greeting Cards</TD>
-      <TD>$18.97</TD>
+      <TD>My Yoga Works</TD>
+      <TD>$45</TD>
+   </TR>
+   <TR>
+      <TD>Folgers Iced Cafe</TD>
+      <TD>$5</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$130.94</big></b></TD>
+      <TD><b><big>$198.94</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
