@@ -10,15 +10,19 @@ featured: false
 categories: 
   - Subscriptions
 type: photo
-imagefeature: "PopsugarFall2015BoxOnSale.png"
+imagefeature: "PopsugarFall2015BoxOnSale1.png"
 date: 2015-08-20 11:18:39 -08:00
 ---
 
-<center><img src='/images/PopsugarFall2015BoxNews.png'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarFall2015BoxOnSale1.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Must Have Fall 2015 On Sale Now!" />
+</a></center>
 <p><b>The Box:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Special Edition Must Have Fall 2015</a></p>
 <p><b>The Cost:</b> $100 one time purchase + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations.</p>
 <br>
 
-<center><img src='/images/PopsugarFall2015BoxOnSale.png'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarFall2015BoxOnSale.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Must Have Fall 2015 On Sale Now!" />
+</a></center>
 <p>I just purchased mine and September 10th can't come soon enough! Are you planning on getting one too?</p>
