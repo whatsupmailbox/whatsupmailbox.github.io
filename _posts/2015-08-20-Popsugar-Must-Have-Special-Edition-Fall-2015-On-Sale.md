@@ -10,7 +10,7 @@ featured: false
 categories: 
   - Subscriptions
 type: photo
-imagefeature: "PopsugarAugust2015Box.jpg"
+imagefeature: "PopsugarFall2015BoxOnSale.png"
 date: 2015-08-20 11:18:39 -08:00
 ---
 
