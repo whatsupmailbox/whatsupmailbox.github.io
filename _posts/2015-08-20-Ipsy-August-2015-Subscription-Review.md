@@ -106,7 +106,7 @@ date: 2015-08-20 14:20:39 -08:00
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:65%">
+<TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
