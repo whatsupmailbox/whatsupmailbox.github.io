@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have August 2015 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, August 2015]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
@@ -151,7 +151,7 @@ date: 2015-08-20 08:01:39 -08:00
 <p>4. Stir & enjoy</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Okay, so although I love getting my Popsugar boxes every month, I have to admit this box is my least favorite to date. The only item I truly liked is the mug, and maybe the eye cream (depending on the results). Everything else seemed a bit off especially for a $40 subscription box. I'll still continue subscribing because hey, everyone makes mistakes and I think this box was one of them, so I'll let them slide this time. Let's hope next month they make up for it!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Okay, so although I love getting my Popsugar boxes every month, I have to admit this box is my least favorite to date. The only item I truly liked is the mug, and maybe the eye cream (depending on the results). Everything else seemed a bit off especially for a $40 subscription box. Although the value is quite high for this box, it's mostly due to the high priced scarf and the 3-month yoga trial. I'll still continue subscribing because hey, everyone makes mistakes and I think this box was one of them, so I'll let them slide this time. Let's hope next month they make up for it!</p>
 
 <p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
