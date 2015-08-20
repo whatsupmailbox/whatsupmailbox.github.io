@@ -93,7 +93,7 @@ date: 2015-08-20 14:20:39 -08:00
 
 <center><img src='/images/IpsyAugust2015NailPolish.jpg'></center>
 <DL>
-<DT><a href="http://loveaila.com/collections/nail-colors/products/mister-pookies?variant=1095159127"_blank">Aila - Nail Polish in Mister Pookies</a></DT>
+<DT><a href="http://loveaila.com/collections/nail-colors/products/mister-pookies?variant=1095159127" target="_blank">Aila - Nail Polish in Mister Pookies</a></DT>
 <DD>Full Size, Value $17</DD>
 </DL>
 
