@@ -77,7 +77,7 @@ date: 2015-08-20 08:01:39 -08:00
 
 <DL>
 <DT><a href="http://shop.nordstrom.com/s/fringe-studio-best-day-ever-mug/4086813?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=875" target="_blank">Fringe Studio - Best Day Ever Mug</a></DT>
-<DD>Value $10</DD>
+<DD>Value $10 (Popsugar stated the value as $12 but I found it cheaper on Nordstrom and used that price instead)</DD>
 </DL>
 
 <p>Finally an item I'm in love with. I drink quite a bit of tea and the simple design on this mug will go perfectly in my mug collection. I can't wait to use it!</p>
