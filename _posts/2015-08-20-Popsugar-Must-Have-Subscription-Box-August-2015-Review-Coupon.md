@@ -110,7 +110,7 @@ date: 2015-08-20 08:01:39 -08:00
 
 <p>This product was featured in Shark Tank, Oprah magazine, and QVC to name a few. So that just made me more interested in trying this out =)</p>
 
-<center><img src='/images/PopsugarAugust2015PancakeMix2.jpg'>
+<center><img src='/images/PopsugarAugust2015PancakeMix2.jpg'></center>
 <p>The ingredients look good, I'll try using it this weekend!</p>
 <br>
 
