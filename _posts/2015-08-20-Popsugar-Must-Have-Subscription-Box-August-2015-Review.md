@@ -12,7 +12,7 @@ categories:
   - Reviews
 type: photo
 imagefeature: "PopsugarAugust2015Box.jpg"
-date: 2015-08-19 14:01:39 -08:00
+date: 2015-08-20 08:01:39 -08:00
 ---
 
 <center><img src='/images/PopsugarAugust2015Box2.jpg'></center>
@@ -129,7 +129,7 @@ date: 2015-08-19 14:01:39 -08:00
 <DD>3-month subscription, Value $45</DD>
 </DL>
 
-<p>I tried this out yesterday and so far it's been good. I do more pilates than yoga, so can't really judge it specifically for all you yogis, but for someone who may not have the time to go to the gym or can only exercise late at night when all the gyms are closed, then I think this will be great for you! I certainly see myself using this quite often.</p>
+<p>My Yoga Works gives you unlimited access to 700+ online classes for $15/month. They have videos either by duration (5, 10, 15... all the way to 90 minutes) or by level (beginner, intermediate, advance, or for teachers). These videos can be watched at anytime and anywhere so it'll be great for people like me who may not have the time to go to the gym or can only exercise late at night when all the gyms are closed. I may even use this while I'm traveling, how cool is that! I will certainly make use of this and might just continue subscribing.</p>
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
