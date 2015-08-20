@@ -50,7 +50,9 @@ date: 2015-08-20 08:01:39 -08:00
 <DD>Value $79</DD>
 </DL>
 
-<p>Personally, I'm kind of over getting scarves in my sub boxes. I swapped most of mine away since I don't really wear them. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
+<p>Personally, I'm kind of over getting scarves in my sub boxes. I swapped most of mine away since I don't really wear them.</p>
+
+<p>The material is soft and it is quite fluffy and comfy for a scarf, but I'm not sure I would have paid $79 for it. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
 
 <center><img src='/images/PopsugarAugust2015Scarf2.jpg'></center>
 
