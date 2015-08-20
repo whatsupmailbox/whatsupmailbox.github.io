@@ -15,11 +15,14 @@ imagefeature: "PopsugarAugust2015Box.jpg"
 date: 2015-08-20 08:01:39 -08:00
 ---
 
-<center><img src='/images/PopsugarAugust2015Box2.jpg'></center>
-<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a></p>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarAugust2015Box2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
+</a></center>
+
+<p><b>Subscription:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar and her team, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://popsu.gr/vXrB" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 <p>This month's theme is "Organization, Morning Routines, Celebrations, Caffeine and Back to School".</p>
@@ -39,7 +42,9 @@ date: 2015-08-20 08:01:39 -08:00
 <br>
 
 <DT>And here are the items!</DT>
-<p><center><img src='/images/PopsugarAugust2015Items2.jpg'></center></p>
+<p><center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarAugust2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
+</a></center></p>
 
 <H4>Items in detail:</H4>
 
@@ -153,7 +158,7 @@ date: 2015-08-20 08:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Okay, so although I love getting my Popsugar boxes every month, I have to admit this box is my least favorite to date. The only item I truly liked is the mug, and maybe the eye cream (depending on the results). Everything else seemed a bit off especially for a $40 subscription box. Although the value is quite high for this box, it's mostly due to the high priced scarf and the 3-month yoga trial. I'll still continue subscribing because hey, everyone makes mistakes and I think this box was one of them, so I'll let them slide this time. Let's hope next month they make up for it!</p>
 
-<p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5" style="width:75%">
    <TR>
