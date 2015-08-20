@@ -35,7 +35,6 @@ date: 2015-08-19 14:01:39 -08:00
 
 <center><img src='/images/PopsugarAugust2015Info.jpg'></center>
 <center><img src='/images/PopsugarAugust2015Info2.jpg'></center>
-<center><img src='/images/PopsugarAugust2015Info3.jpg'></center>
 <p>Fold out Info card that details all the items and prices.</p>
 <br>
 
