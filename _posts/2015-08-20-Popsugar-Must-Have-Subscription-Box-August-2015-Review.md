@@ -18,11 +18,11 @@ date: 2015-08-20 08:01:39 -08:00
 <center><img src='/images/PopsugarAugust2015Box2.jpg'></center>
 <p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95/monthly + Free Shipping (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
+<p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar and her team, ranging from makeup, jewelry, fitness, food, home and more!</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
-<p>This month's theme is "Organization, Morning Routines, Celebrations, and Back to School".</p>
+<p>This month's theme is "Organization, Morning Routines, Celebrations, Caffeine and Back to School".</p>
 <br>
 
 <center><img src='/images/PopsugarAugust2015OpenBox.jpg'></center>
