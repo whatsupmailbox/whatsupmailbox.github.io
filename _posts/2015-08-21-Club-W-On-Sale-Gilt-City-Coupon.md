@@ -7,7 +7,7 @@ category: Subscriptions
 tags: [Club W, Subscriptions, Gilt City]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "ClubWGilt.jpg"
