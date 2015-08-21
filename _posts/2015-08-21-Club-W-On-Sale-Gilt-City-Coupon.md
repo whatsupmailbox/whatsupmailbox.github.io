@@ -45,7 +45,9 @@ date: 2015-08-21 15:11:39 -08:00
 
 <p>What I also love about them is that they have a mobile app as well so you can view all the current available wines and you can also watch short videos of sommeliers tasting that wine, describing the palate and suggesting food pairing, it's such a cool app!</p>
 
-<center><img src="/images/GiltCity.png"></center>
+<center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
+<img src="/images/GiltCity.png" border="0" style="border:none;max-width:100%;" alt="Gilt City" />
+</a></center>
 <H4>What's Gilt City?</H4>
 <p>Gilt City offers its members coveted access to exclusive experiences in select U.S. cities, all at insider prices. Their curators comb through hundreds of neighborhoods and local business for the most exciting offers in Atlanta, Boston, Chicago, Dallas, Houston, Los Angeles, Miami, New York, Philadelphia, San Diego, San Francisco, Seattle and Washington D.C., with a selection of national offers from leading luxury brands also available for members across the country.</p>
 
