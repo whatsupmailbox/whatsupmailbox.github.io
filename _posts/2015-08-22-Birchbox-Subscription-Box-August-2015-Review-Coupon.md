@@ -27,10 +27,8 @@ date: 2015-08-22 14:29:39 -08:00
 
 <center><img src='/images/BirchboxAugust2015Box.jpg'></center>
 
-<figure class="half">
-      <img src='/images/BirchboxAugust2015Box2.jpg'>
-      <img src='/images/BirchboxAugust2015Box3.jpg'>
-</figure>
+<center><img src='/images/BirchboxAugust2015Box2.jpg'></center>
+<center><img src='/images/BirchboxAugust2015Box3.jpg'></center>
 
 <p>What a cute box! I love the details of how deep the pool is and the "Dive In" sign too.</p>
 <br>
