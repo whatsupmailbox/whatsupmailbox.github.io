@@ -21,7 +21,7 @@ date: 2015-08-22 13:29:39 -08:00
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
 * Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> and receive a ban.do Sunnies tote ($20) plus a Supergoop! sample when you subscribe!
-* Shopping: Use coupon code SUBSCRIBENOW50 to get 50 points ($5 worth) when you subscribe. OR, you can try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
+* Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
 
