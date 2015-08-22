@@ -14,7 +14,9 @@ tags: [Birchbox, Subscriptions, Reviews, August 2015]
 date: 2015-08-22 14:29:39 -08:00
 ---
 
-<center><img src='/images/BirchboxAugust2015Package.jpg'></center>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxAugust2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox!" />
+</a></center>
 
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
 <p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
@@ -42,7 +44,9 @@ date: 2015-08-22 14:29:39 -08:00
 <br>
 
 <H4>And here are my items:</H4>
-<p><center><img src='/images/BirchboxAugust2015Items.jpg'></center></p>
+
+<p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxAugust2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox August 2015 Items!" /></a></center></p>
 <br>
 
 <p>I got 6 items this month (one of them is a bonus sample packet) and that dry shampoo totally got my attention!</p>
@@ -121,7 +125,8 @@ date: 2015-08-22 14:29:39 -08:00
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box. Plus get a free gift with your subscription, see details below:</p>
 
-<p><center><img src='/images/BirchboxBandoTote.jpg'></center></p>
+<p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxBandoTote.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox August 2015 Items!" /></a></center></p>
 <p>For a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
 <br>
 
