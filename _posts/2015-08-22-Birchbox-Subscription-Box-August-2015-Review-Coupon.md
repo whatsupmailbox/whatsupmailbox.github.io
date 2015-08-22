@@ -62,7 +62,7 @@ date: 2015-08-22 14:29:39 -08:00
 <p><center><img src='/images/BirchboxAugust2015Cleanser.jpg'></center></p>
 <DL>
 <DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">dr. Brandt - Pores No More Cleanser</a></DT>
-<DD>Deluxe sample size 0.25 oz/7.5 ml, $2.50</DD>
+<DD>Deluxe sample size 0.25 oz/7.5 ml, Value $2.50</DD>
 </DL>
 
 <p>"A non-drying, pore refining cleanser that uses the power of tea tree oil, willow bark and salicylic acid to dissolve impurities and decongest pores, leaving skin with a fresh, ultra-clean sensation."</p>
