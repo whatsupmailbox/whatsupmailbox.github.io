@@ -118,10 +118,10 @@ date: 2015-08-22 13:29:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was great for me and I found 3 amazing products that I love and will be purchasing, so that in itself was valuable to me. I received 6 items in total this month which means I'll be getting $6 back by reviewing them, so in essence this subscription only cost me $4, what a deal!</p>
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box.</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box. Plus get a free gift with your subscription, see details below:</p>
 
 <p><center><img src='/images/BirchboxBandoTote.jpg'></center></p>
-<p>And for a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
+<p>For a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
