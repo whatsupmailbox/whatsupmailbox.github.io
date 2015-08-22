@@ -108,7 +108,7 @@ date: 2015-08-22 13:29:39 -08:00
 <p><center><img src='/images/BirchboxAugust2015Hair.jpg'></center></p>
 
 <DL>
-<DT>>Kerastase - Bain Force Architects</DT>
+<DT>Kerastase - Bain Force Architects</DT>
 <DD>Sample Packet, Value $2</DD>
 </DL>
 
