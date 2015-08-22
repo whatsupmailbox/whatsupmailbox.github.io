@@ -40,12 +40,11 @@ date: 2015-08-22 13:29:39 -08:00
 <p>Info card reminding us to soak up the last days of summer and the back side lists all the items I received in my box.</p>
 <br>
 
-<p><center><img src='/images/BirchboxAugust2015OpenBox.jpg'></center></p>
-<figcaption>First look at unboxing</figcaption>
-<br>
-
 <H4>And here are my items:</H4>
 <p><center><img src='/images/BirchboxAugust2015Items.jpg'></center></p>
+<br>
+
+<p>I got 6 items this month (one of them is a bonus sample packet) and that dry shampoo totally got my attention!</p>
 <br>
 
 <H4>Items in detail:</H4>
@@ -54,7 +53,7 @@ date: 2015-08-22 13:29:39 -08:00
 
 <DL>
 <DT><a href="http://www.coolasuncare.com/Radical-Recovery-After-Sun-Lotion?keyword=radical&category_id=0" target="_blank">Coola - Environmental Repaid Plus Radical Recovery After Sun Lotion</a></DT>
-<DD>Deluxe Sample Size .5 fl. oz/15ml, Value $2.5</DD>
+<DD>Deluxe sample size .5 fl. oz/15ml, Value $2.50</DD>
 </DL>
 
 <p>I love Coola and have quite a bit of their products already, but I don't have this after-sun lotion so I'm happy to try this out. I also love the fact that this lotion is made of 99% natural ingredients and 70% of it is organic, a plus in my book.</p>
@@ -65,7 +64,7 @@ date: 2015-08-22 13:29:39 -08:00
 <p><center><img src='/images/BirchboxAugust2015Cleanser.jpg'></center></p>
 <DL>
 <DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">dr. Brandt - Pores No More Cleanser</a></DT>
-<DD>Deluxe sample 0.24 oz/7 ml, $4.05</DD>
+<DD>Deluxe sample size 0.25 oz/7.5 ml, $2.50</DD>
 </DL>
 
 <p>"A non-drying, pore refining cleanser that uses the power of tea tree oil, willow bark and salicylic acid to dissolve impurities and decongest pores, leaving skin with a fresh, ultra-clean sensation."</p>
@@ -74,8 +73,8 @@ date: 2015-08-22 13:29:39 -08:00
 
 <p><center><img src='/images/BirchboxAugust2015Ipkn.jpg'></center></p>
 <DL>
-<DT>IPKN - Pore Apple Sun Cream</DT>
-<DD>Deluxe sample 0.24 fl.oz./7 ml, Value $3.5</DD>
+<DT><a href="http://ipknus.com/skincare/category/sun-protection/pore-apple-sun-cream.html" target="_blank">IPKN - Pore Apple Sun Cream</a></DT>
+<DD>Deluxe sample size 0.24 fl.oz./7 ml, Value $3.50</DD>
 </DL>
 
 <p>IPKN is a Korean beauty brand. I've never used this brand or product before, so I'm interested to try this out. The ingredients look okay, not the best but still safe to use. I also discovered that it's oil-free and has a color correcting base that's helpful when applying this under makeup.</p>
@@ -84,18 +83,18 @@ date: 2015-08-22 13:29:39 -08:00
 <p><center><img src='/images/BirchboxAugust2015DryShampoo.jpg'></center></p>
 
 <DL>
-<DT>R+Co - Death Valley Dry Shampoo</DT>
-<DD>Deluxe Sample Size (2/3 of the full size pencil) 0.8g, $7.33</DD>
+<DT><a href="http://www.randco.com/sprays-oils/death-valley-dry-shampoo.html" target="_blank">R+Co - Death Valley Dry Shampoo</a></DT>
+<DD>Travel spray bottle 0.8g, Value $7</DD>
 </DL>
 
 <p>I love getting dry shampoos in any box. I use them quite often, and the size they send out are perfect to put in any bag and for travel purposes too.</p>
-<p>This dry shampoo has a floral powdery fragrance that's quite feminine. I wouldn't say it's my favorite scent but still good enough that it doesn't bother me. It sprays powerfully and you don't see any white powder at all even immediately after application. I love that plus the fact that it also volumizes (not a lot, but good enough for a dry shampoo). So far I'm loving this dry shampoo, much better than Batiste in my opinion.</p>
+<p>This dry shampoo has a floral powdery fragrance that's quite feminine. I wouldn't say it's my favorite scent but still good enough that it doesn't bother me. It sprays powerfully and you don't see any white powder at all even immediately after application, love it. Plus this dry shampoo also volumizes which is amazing. So far I'm loving this dry shampoo, much better than Batiste in my opinion.</p>
 <br>
 
 <p><center><img src='/images/BirchboxAugust2015Bronzer.jpg'></center></p>
 <DL>
-<DT>theBalm Cosmetics - Balm Desert Bronzer/Blush</DT>
-<DD>Deluxe sample 1 oz., $2.75</DD>
+<DT><a href="http://www.thebalm.com/balm-desert.html" target="_blank">theBalm Cosmetics - Balm Desert Bronzer/Blush</a></DT>
+<DD>Sample size 0.8 g., Value $2.50</DD>
 </DL>
 
 <p>I've sampled other products from this brand before and had good experience with them. I was happy to get a bronzer/blush to sample, but man it is quite tiny! See picture below:</p>
@@ -108,8 +107,8 @@ date: 2015-08-22 13:29:39 -08:00
 <p><center><img src='/images/BirchboxAugust2015Hair.jpg'></center></p>
 
 <DL>
-<DT>Kerastase - Bain Force Architects</DT>
-<DD>Sample Packet, Value $2</DD>
+<DT><a href="http://www.kerastase-usa.com/bain_force_architecte/BFA0000.html?cgid=damaged-cleanse-treat&dwvar_BFA0000_size=250ml#start=1&cgid=damaged-cleanse-treat" target="_blank">Kérastase - Bain Force Architecte</a></DT>
+<DD>Sample Packet, Value $1</DD>
 </DL>
 
 <p>I love it when I get a bonus item. It means extra product AND extra points for me to review which translates to more money to spend in the Birchbox shop ;)</p>
@@ -130,32 +129,32 @@ date: 2015-08-22 13:29:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Skyn Iceland Eye Gels</TD>
-      <TD>$3.75</TD>
+      <TD>Coola Sun Lotion</TD>
+      <TD>$2.50</TD>
    </TR>
    <TR>
-      <TD>Marcelle BB Cream</TD>
-      <TD>$4.05</TD>
+      <TD>dr.Brandt Cleanser</TD>
+      <TD>$2.50</TD>
    </TR>
     <TR>
-      <TD>COOLA SPF 30 Moisturizer</TD>
-      <TD>$4.52</TD>
+      <TD>IPKN Sun Lotion</TD>
+      <TD>$3.50</TD>
    </TR>
     <TR>
-      <TD>Marcelle Eyeliner</TD>
-      <TD>$7.33</TD>
+      <TD>R+Co Dry Shampoo</TD>
+      <TD>$7</TD>
    </TR>
     <TR>
-      <TD>Beauty Protector Protect & Detangle</TD>
-      <TD>$2.75</TD>
+      <TD>theBalm Bronzer</TD>
+      <TD>$2.50</TD>
    </TR>
    <TR>
-      <TD>Emi Jay Solid Hair Tie</TD>
-      <TD>$2</TD>
+      <TD>Kérastase Shampoo</TD>
+      <TD>$1</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$24.40</big></b></TD>
+      <TD><b><big>$19</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
