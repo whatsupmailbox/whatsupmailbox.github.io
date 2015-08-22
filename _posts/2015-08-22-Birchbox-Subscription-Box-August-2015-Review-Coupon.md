@@ -64,7 +64,7 @@ date: 2015-08-22 13:29:39 -08:00
 
 <p><center><img src='/images/BirchboxAugust2015Cleanser.jpg'></center></p>
 <DL>
-<DT>dr. Brandt - Pores No More Cleanser</DT>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">dr. Brandt - Pores No More Cleanser</a></DT>
 <DD>Deluxe sample 0.24 oz/7 ml, $4.05</DD>
 </DL>
 
