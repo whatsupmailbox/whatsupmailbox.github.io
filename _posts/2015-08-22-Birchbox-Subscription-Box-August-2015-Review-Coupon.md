@@ -1,0 +1,164 @@
+---
+layout: post
+published: false
+categories: 
+    - Subscriptions
+    - Reviews
+title: Birchbox August 2015 Review + Coupon!
+featured: false
+comments: true
+type: photo
+imagefeature: BirchboxAugust2015Package.jpg
+headline: Birchbox August 2015 Review + Coupon!
+tags: [Birchbox, Subscriptions, Reviews, August 2015]
+date: 2015-08-22 13:29:39 -08:00
+---
+
+<center><img src='/images/BirchboxAugust2015Package.jpg'></center>
+
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
+<p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
+<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
+<p><b>Coupon:</b></p>
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> and receive a ban.do Sunnies tote ($20) plus a Supergoop! sample when you subscribe!
+* Shopping: Use coupon code SUBSCRIBENOW50 to get 50 points ($5 worth) when you subscribe. OR, you can try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
+
+<br>
+
+<center><img src='/images/BirchboxAugust2015Box.jpg'></center>
+
+<figure class="half">
+      <img src='/images/BirchboxAugust2015Box2.jpg'>
+      <img src='/images/BirchboxAugust2015Box3.jpg'>
+</figure>
+
+<p>What a cute box! I love the details of how deep the pool is and the "Dive In" sign too.</p>
+<br>
+
+<center><img src='/images/BirchboxAugust2015Info.jpg'></center>
+<center><img src='/images/BirchboxAugust2015Info2.jpg'></center>
+<p>Info card reminding us to soak up the last days of summer and the back side lists all the items I received in my box.</p>
+<br>
+
+<p><center><img src='/images/BirchboxAugust2015OpenBox.jpg'></center></p>
+<figcaption>First look at unboxing</figcaption>
+<br>
+
+<H4>And here are my items:</H4>
+<p><center><img src='/images/BirchboxAugust2015Items.jpg'></center></p>
+<br>
+
+<H4>Items in detail:</H4>
+
+<p><center><img src='/images/BirchboxAugust2015Coola.jpg'></center></p>
+
+<DL>
+<DT><a href="http://www.coolasuncare.com/Radical-Recovery-After-Sun-Lotion?keyword=radical&category_id=0" target="_blank">Coola - Environmental Repaid Plus Radical Recovery After Sun Lotion</a></DT>
+<DD>Deluxe Sample Size .5 fl. oz/15ml, Value $2.5</DD>
+</DL>
+
+<p>I love Coola and have quite a bit of their products already, but I don't have this after-sun lotion so I'm happy to try this out. I also love the fact that this lotion is made of 99% natural ingredients and 70% of it is organic, a plus in my book.</p>
+<p>I recently returned from a tropical vacation and got somewhat sunburned so I tried this on some areas on my skin that is peeling off now. I find that it moisturizes the area really well, has a slight fresh scent plus a cooling effect to calm the skin down. One of the ingredients is organic Agave which provides superior hydration and promotes collagen synthesis while offering UV boosting protection and clinically proven relief from sunburn.</p>
+<p>This is such a great product, I see it working on my sunburned skin and I will definitely be purchasing the full version.</p>
+<br>
+
+<p><center><img src='/images/BirchboxAugust2015Cleanser.jpg'></center></p>
+<DL>
+<DT>dr. Brandt - Pores No More Cleanser</DT>
+<DD>Deluxe sample 0.24 oz/7 ml, $4.05</DD>
+</DL>
+
+<p>"A non-drying, pore refining cleanser that uses the power of tea tree oil, willow bark and salicylic acid to dissolve impurities and decongest pores, leaving skin with a fresh, ultra-clean sensation."</p>
+<p>I've received dr.Brandt's Pores No More products before but not the cleanser so I was excited to try this out. It has some lather and only has a very slight scent which is good for people who are picky about scents like me. My skin felt refreshed and strange as it sounds, it did leave my skin feeling ultra-clean. Since I have oily skin, this cleanser works really well for me and I'm so glad I found this, thanks Birchbox, another great item!</p>
+<br>
+
+<p><center><img src='/images/BirchboxAugust2015Ipkn.jpg'></center></p>
+<DL>
+<DT>IPKN - Pore Apple Sun Cream</DT>
+<DD>Deluxe sample 0.24 fl.oz./7 ml, Value $3.5</DD>
+</DL>
+
+<p>IPKN is a Korean beauty brand. I've never used this brand or product before, so I'm interested to try this out. The ingredients look okay, not the best but still safe to use. I also discovered that it's oil-free and has a color correcting base that's helpful when applying this under makeup.</p>
+<br>
+
+<p><center><img src='/images/BirchboxAugust2015DryShampoo.jpg'></center></p>
+
+<DL>
+<DT>R+Co - Death Valley Dry Shampoo</DT>
+<DD>Deluxe Sample Size (2/3 of the full size pencil) 0.8g, $7.33</DD>
+</DL>
+
+<p>I love getting dry shampoos in any box. I use them quite often, and the sized they send out are perfect to put in any bag and for travel purposes too.</p>
+<p>This dry shampoo has a floral powdery fragrance that's quite feminine. I wouldn't say it's my favorite scent but still good enough that it doesn't bother me. It sprays powerfully and you don't see any white powder at all even immediately after application. I like that plus the fact that it also volumizes (not a lot, but good enough for a dry shampoo). So far I'm loving this dry shampoo and I just might have to buy some more after this is gone.</p>
+<br>
+
+<p><center><img src='/images/BirchboxAugust2015Bronzer.jpg'></center></p>
+<DL>
+<DT>theBalm Cosmetics - Balm Desert Bronzer/Blush</DT>
+<DD>Deluxe sample 1 oz., $2.75</DD>
+</DL>
+
+<p>I've sampled other products from this brand before and have had good experience with them. I was happy to get a bronzer/blush sample, but man it is quite tiny! See picture below:</p>
+<p><center><img src='/images/BirchboxAugust2015Bronzer2.jpg'></center></p>
+<p>Due to the size, I'm not sure how effective I can sample this product out, but so far by using my fingers alone I can see that the colors work with my olive tanned skin tone and there's not much shimmer to it which I prefer.</p>
+<br>
+
+<H4><i class="icon-gift"></i> Bonus item:</H4>
+
+<p><center><img src='/images/BirchboxAugust2015Hair.jpg'></center></p>
+
+<DL>
+<DT>>Kerastase - Bain Force Architects</DT>
+<DD>Sample Packet, Value $2</DD>
+</DL>
+
+<p>I love it when I get bonus items. It means extra product AND extra points for me to review which translates to more money to spend in the Birchbox shop ;)</p>
+<p>The</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think the items in this box will get me "adventure" ready for my next vacation and although there was a repeat in items, I'll still be using everything. The total value of this box (not counting the Birchbox Plus item) came up to $24.40 which is more than double the $10 subscription cost. Plus you get 10 Birchbox points (which equals to $1) for reviewing each item you recieved. Since I got 6 items this month, I'll be getting $6 back so in essence this subscription only cost me $4, that's a <strike>deal</strike> steal!</p>
+
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box and don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SMPBOX</a> and your first box will be the “I Definitely Do” Box, curated by the wedding experts at Style Me Pretty.</p>
+
+<TABLE  BORDER="5">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Skyn Iceland Eye Gels</TD>
+      <TD>$3.75</TD>
+   </TR>
+   <TR>
+      <TD>Marcelle BB Cream</TD>
+      <TD>$4.05</TD>
+   </TR>
+    <TR>
+      <TD>COOLA SPF 30 Moisturizer</TD>
+      <TD>$4.52</TD>
+   </TR>
+    <TR>
+      <TD>Marcelle Eyeliner</TD>
+      <TD>$7.33</TD>
+   </TR>
+    <TR>
+      <TD>Beauty Protector Protect & Detangle</TD>
+      <TD>$2.75</TD>
+   </TR>
+   <TR>
+      <TD>Emi Jay Solid Hair Tie</TD>
+      <TD>$2</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$24.40</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
+   </TR>
+</TABLE>
