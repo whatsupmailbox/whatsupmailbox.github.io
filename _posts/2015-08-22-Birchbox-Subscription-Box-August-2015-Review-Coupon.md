@@ -82,7 +82,7 @@ date: 2015-08-22 14:29:39 -08:00
 
 <DL>
 <DT><a href="http://www.randco.com/sprays-oils/death-valley-dry-shampoo.html" target="_blank">R+Co - Death Valley Dry Shampoo</a></DT>
-<DD>Travel spray bottle 0.8g, Value $7</DD>
+<DD>Travel spray bottle 75ml, Value $7</DD>
 </DL>
 
 <p>I love getting dry shampoos in any box. I use them quite often, and the size they send out are perfect to put in any bag and for travel purposes too.</p>
