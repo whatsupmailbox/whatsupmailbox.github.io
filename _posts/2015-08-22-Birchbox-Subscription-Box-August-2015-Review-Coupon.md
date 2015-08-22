@@ -8,7 +8,7 @@ title: Birchbox August 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxAugust2015Package.jpg
+imagefeature: BirchboxAugust2015Items.jpg
 headline: Birchbox August 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, August 2015]
 date: 2015-08-22 14:29:39 -08:00
