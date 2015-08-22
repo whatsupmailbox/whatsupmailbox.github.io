@@ -33,8 +33,11 @@ date: 2015-08-22 14:29:39 -08:00
 <p>What a cute box! I love the details of how deep the pool is and the "Dive In" sign too.</p>
 <br>
 
-<center><img src='/images/BirchboxAugust2015Info.jpg'></center>
-<center><img src='/images/BirchboxAugust2015Info2.jpg'></center>
+<figure class="half">
+            <img src='/images/BirchboxAugust2015Info.jpg'>
+            <img src='/images/BirchboxAugust2015Info2.jpg'>
+</figure>
+
 <p>Info card reminding us to soak up the last days of summer and the back side lists all the items I received in my box.</p>
 <br>
 
