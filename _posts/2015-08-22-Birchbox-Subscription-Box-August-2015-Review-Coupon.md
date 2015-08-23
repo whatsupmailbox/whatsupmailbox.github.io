@@ -102,7 +102,7 @@ date: 2015-08-22 14:29:39 -08:00
 <DD>Sample size 0.8 g., Value $2.50</DD>
 </DL>
 
-<p>I've sampled other products from this brand before and had good experience with them. I was happy to get a bronzer/blush to sample, but man it is quite tiny! See picture below:</p>
+<p>I've sampled other products from this brand before and had good experience with them. I was happy to get a bronzer/blush to sample, but man it is quite tiny! I included a quarter so you can see how small it is.</p>
 <p><center><img src='/images/BirchboxAugust2015Bronzer2.jpg'></center></p>
 <p>Due to the size, I'm not sure how effective I can sample this product out, but so far by using my fingers alone I can see that the colors work with my olive tanned skin and there's not much shimmer to it which I prefer.</p>
 <br>
