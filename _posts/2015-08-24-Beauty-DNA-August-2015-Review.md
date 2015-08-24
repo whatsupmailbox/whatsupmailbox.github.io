@@ -25,16 +25,17 @@ date: 2015-08-24 15:50:39 -08:00
 <br>
 
 <p>This is my first box from Beauty DNA so I was super excited when I finally got it in the mail!</p>
+<br>
 
-<p><center><img src='/images/BeautyDNAAugust2015OpenBox.jpg'></center></p>
+<center><img src='/images/BeautyDNAAugust2015OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<p><center><img src='/images/BeautyDNAAugust2015OpenBox2.jpg'></center></p>
+<center><img src='/images/BeautyDNAAugust2015OpenBox2.jpg'></center>
 <p>What a cute sticker and so true!</p>
 <br>
 
-<p><center><img src='/images/BeautyDNAAugust2015OpenBox3.jpg'></center></p>
+<center><img src='/images/BeautyDNAAugust2015OpenBox3.jpg'></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
