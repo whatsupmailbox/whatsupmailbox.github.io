@@ -72,8 +72,9 @@ date: 2015-08-24 15:50:39 -08:00
 <p>It also includes the value of the product.</p>
 
 <p>I love this Beauty Report, it feels so personalized and informational too!</p>
+<br>
 
-<H2>Extra Item:</H2>
+<H2><i class="icon-gift"></i> Bonus Item:</H2>
 
 <p>Because I purchased this Beauty DNA subscription through <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Ruelala</a>, the deal also included one extra product with every box. So here's my extra product:</p>
 
