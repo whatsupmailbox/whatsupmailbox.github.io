@@ -7,11 +7,11 @@ category: Subscriptions
 tags: [BeautyDNA, Subscriptions, August 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNAAugust2015Items.jpg"
-date: 2015-08-24 15:11:39 -08:00
+date: 2015-08-24 15:50:39 -08:00
 ---
 
 <center><a href="https://www.beautydna.com/" target="_blank">
