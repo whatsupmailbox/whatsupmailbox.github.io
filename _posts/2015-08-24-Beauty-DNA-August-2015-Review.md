@@ -64,9 +64,11 @@ date: 2015-08-24 15:11:39 -08:00
 <br>
 
 <p><center><img src='/images/BeautyDNAAugust2015Info.jpg'></center></p>
-<p><center><img src='/images/BeautyDNAAugust2015Info2.jpg'></center></p>
+<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you.</p>
+<br>
 
-<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you. It also includes the value and where to purchase.</p>
+<p><center><img src='/images/BeautyDNAAugust2015Info2.jpg'></center></p>
+<p>It also includes the value and where to purchase.</p>
 
 <p>I love this Beauty Report, it feels so personalized and informational too!</p>
 
