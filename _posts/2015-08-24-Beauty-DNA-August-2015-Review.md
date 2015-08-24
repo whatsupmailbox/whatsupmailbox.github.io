@@ -57,12 +57,15 @@ date: 2015-08-24 15:11:39 -08:00
 </DL>
 
 <p>I've never heard of this brand before, but I'm always up for a toner so that was a relief. To be honest, I was quite worried that they'd match me with something completely off of my profile due to experiences with other subscriptions, but I think this will work just fine.</p>
+
+<p><center><img src='/images/BeautyDNAAugust2015Toner4.jpg'></center></p>
+<p>This item came sealed which is good to know if you're planning on getting this through a swap.<p>
 <br>
 
 <p><center><img src='/images/BeautyDNAAugust2015Info.jpg'></center></p>
 <p><center><img src='/images/BeautyDNAAugust2015Info2.jpg'></center></p>
 
-<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you. It also includes the value, where to purchase, and who you're beauty specialist is.</p>
+<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you. It also includes the value and where to purchase.</p>
 
 <p>I love this Beauty Report, it feels so personalized and informational too!</p>
 
@@ -78,7 +81,7 @@ date: 2015-08-24 15:11:39 -08:00
 <DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
 </DL>
 
-<p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box, thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved my $35, yay!</p>
+<p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (<a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box, thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved my $35, yay!</p>
 
 <p>This bottle did not come sealed which seems a bit strange since the sample came sealed but not the full sized version? Hmmm, I might have to verify this and email them about it.</p>
 
