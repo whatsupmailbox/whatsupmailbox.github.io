@@ -41,7 +41,7 @@ date: 2015-08-24 15:11:39 -08:00
 <p>I purchased a deal from Ruelala (it's no longer available) a couple of months back but only got around to redeeming it this month. Beauty DNA is a completely different experience than other beauty subscriptions since everyone gets a different full-sized product that's matched with their skin concerns or needs.</p>
 <p>When you join, there's a "Beauty Profile" that you complete and below are just a couple of examples of the questions:</p>
 
-<p><center><img src='/images/BeautyDNAAugust2015Profile1.png'></center></p>
+<p><center><img src='/images/BeautyDNAAugust2015Profile.png'></center></p>
 <p><center><img src='/images/BeautyDNAAugust2015Profile2.png'></center></p>
 
 <p>These are 2 out of 14 pages that you'll need to complete and although that might seem like a lot, think of it as a consultation with your doctor - the more you let them know about you, the more they can help you out. It didn't take me long at all to complete it and I also like the fact that you can access your Beauty Profile anytime and modify it if you ever have any changes in your skincare needs.</p>
@@ -49,7 +49,7 @@ date: 2015-08-24 15:11:39 -08:00
 <H4>Based on my Beauty Profile, here is the item they matched me with:</H4>
 
 <p><center><img src='/images/BeautyDNAAugust2015Toner.jpg'></center></p>
-<p><center><img src='/images/BeautyDNAAugust2015Toner.jpg'></center></p>
+<p><center><img src='/images/BeautyDNAAugust2015Toner2.jpg'></center></p>
 
 <DL>
 <DT><a href="http://www.coolasuncare.com/Radical-Recovery-After-Sun-Lotion?keyword=radical&category_id=0" target="_blank">Coola - Environmental Repaid Plus Radical Recovery After Sun Lotion</a></DT>
