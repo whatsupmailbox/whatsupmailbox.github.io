@@ -38,8 +38,9 @@ date: 2015-08-24 15:11:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>I purchased a deal from Ruelala (it's no longer available) a couple of months back but only got around to redeeming it this month. Beauty DNA is a completely different experience than other beauty subscriptions since everyone gets a different full-sized product that's matched with their skin concerns or needs.</p>
-<p>When you join, there's a "Beauty Profile" that you complete and below are just a couple of examples of the questions:</p>
+<p>I purchased a deal from Ruelala (it's no longer available) a couple of months back but only got around to redeeming it this month. Checkout my blog daily as I post deals on subscription boxes whenever they're available =)</p>
+
+<p>Beauty DNA is a completely different experience than other beauty subscriptions since everyone gets a different full-sized product that's matched with their skin concerns or needs. When you join, there's a "Beauty Profile" that you complete and below are just a couple of examples of the questions:</p>
 
 <p><center><img src='/images/BeautyDNAAugust2015Profile.png'></center></p>
 <p><center><img src='/images/BeautyDNAAugust2015Profile2.png'></center></p>
