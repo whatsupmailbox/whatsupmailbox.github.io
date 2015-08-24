@@ -18,7 +18,7 @@ date: 2015-08-24 15:29:39 -08:00
 <img src="/images/BirchboxAugust2015Coupon.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Coupon!" />
 </a></center>
 
-*<i>Extra Birchbox Points Promotion available only on purchases from our Birchbox Man Summer Shop. For a full list of eligible products visit https://www.birchbox.com/birchbox-man-summer-shop. Offer details: Receive 100 extra Birchbox Points on a purchase of $50 or more from our Birchbox Man Summer Shop. Enter code ACESSUMMERSHOP in Code box at checkout. The extra Birchbox Points will be automatically added to your account. Please note that coupon code can only be used 1 time, and cannot be combined with any other offers. In order for your extra points offer to redeem correctly, you must be an active ace, and be logged in to your Birchbox Account. Offer available through August 31, 2015, 11:59 pm ET.</i>
+*<i>Extra Birchbox Points Promotion available only on purchases from our Birchbox Man Summer Shop. Offer details: Receive 100 extra Birchbox Points on a purchase of $50 or more from our Birchbox Man Summer Shop. Enter code ACESSUMMERSHOP in Code box at checkout. The extra Birchbox Points will be automatically added to your account. Please note that coupon code can only be used 1 time, and cannot be combined with any other offers. In order for your extra points offer to redeem correctly, you must be an active ace, and be logged in to your Birchbox Account. Offer available through August 31, 2015, 11:59 pm ET.</i>
 <br>
 
 <H4>What's Birchbox?</H4>
