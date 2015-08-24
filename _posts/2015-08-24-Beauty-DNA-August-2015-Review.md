@@ -52,8 +52,8 @@ date: 2015-08-24 15:11:39 -08:00
 <p><center><img src='/images/BeautyDNAAugust2015Toner2.jpg'></center></p>
 
 <DL>
-<DT><a href="http://www.coolasuncare.com/Radical-Recovery-After-Sun-Lotion?keyword=radical&category_id=0" target="_blank">Coola - Environmental Repaid Plus Radical Recovery After Sun Lotion</a></DT>
-<DD>Full Size, Value $50</DD>
+<DT><a href="http://www.equitance-us.com/equitance-skin-care-brightening-toning-lotion.html" target="_blank">Equitance Brightening Toning Lotion</a></DT>
+<DD>Full Size 150 ml net 5.0 fl. oz, Value $50</DD>
 </DL>
 
 <p>I've never heard of this brand before, but I'm always up for a toner so that was a relief. To be honest, I was quite worried that they'd match me with something completely off of my profile due to experiences with other subscriptions, but I think this will work just fine.</p>
@@ -75,7 +75,7 @@ date: 2015-08-24 15:11:39 -08:00
 
 <DL>
 <DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">dr.Brandt Pores No More Cleanser</a></DT>
-<DD>Full Size, Value $35</DD>
+<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
 </DL>
 
 <p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box, thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved my $35, yay!</p>
@@ -106,7 +106,7 @@ date: 2015-08-24 15:11:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Coola Sun Lotion</TD>
+      <TD>Equitance Toner</TD>
       <TD>$50</TD>
    </TR>
    <TR>
