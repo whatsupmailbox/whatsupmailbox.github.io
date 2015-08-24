@@ -84,11 +84,9 @@ date: 2015-08-24 15:11:39 -08:00
 <DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
 </DL>
 
-<p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (<a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box, thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved my $35, yay!</p>
+<p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (<a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box. Thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved me $35, yay!</p>
 
-<p>This bottle did not come sealed which seems a bit strange since the sample came sealed but not the full sized version? Hmmm, I might have to verify this and email them about it.</p>
-
-<p>Seal aside, this cleanser works really well for oily/combination skin (a.k.a me). It has tea tree oil, willow bark and salicylic acid to decongest pores, neutralize sebum and keep blemishes at bay. It doesn't dry up your skin as sometimes products such as these tend to do, and it really makes your face feel ultra clean! I love how clean my face feels after using this cleanser. No joke, try it yourself and you'll see what I mean ;) Again, I'm so in love with this cleanser!</p>
+<p>This bottle did not come sealed, but that aside, this cleanser works really well for oily/combination skin (a.k.a ME!). It has tea tree oil, willow bark and salicylic acid to decongest pores, neutralize sebum and keep blemishes at bay. It doesn't dry up your skin as other products like these do, and it really makes your face feel ultra clean! I love how clean my face feels after using this cleanser, feels like I used my Clarisonic, super clean. No joke, try it yourself and you'll see what I mean ;) Again, I'm so in love with this cleanser!</p>
 <br>
 
 <center><a href="https://www.beautydna.com/" target="_blank">
@@ -98,7 +96,7 @@ date: 2015-08-24 15:11:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm in love with Beauty DNA! They did a great job at matching me with a product that I need and the value is totally there, especially with the extra item too! And if I had to be completely honest, I actually love the bonus item more than the matched item which makes this box an absolute slam dunk for me. If you're tired of sample sizes, try Beauty DNA and find new products that will work for you. I can't wait to see what product they'll match me with next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm in love with Beauty DNA! They did a great job at matching me with a product that I need and the value is totally there, especially with the extra item too! And if I had to be completely honest, I actually love the bonus item more than the matched item which makes this box an absolute slam dunk for me. If you're tired of sample sizes, try Beauty DNA and find new products that will work for you. I can't wait to see what they'll match me with next month!</p>
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs. I totally recommend them!</p>
 <br>
