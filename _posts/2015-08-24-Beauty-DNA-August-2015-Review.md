@@ -60,7 +60,7 @@ date: 2015-08-24 15:11:39 -08:00
 <p>I've never heard of this brand before, but I'm always up for a toner so that was a relief. To be honest, I was quite worried that they'd match me with something completely off of my profile due to experiences with other subscriptions, but I think this will work just fine.</p>
 
 <p><center><img src='/images/BeautyDNAAugust2015Toner4.jpg'></center></p>
-<p>This item came sealed which is good to know if you're planning on getting this through a swap.<p>
+<p>The toner came sealed which is good to know if you're planning on getting this through a swap.<p>
 <br>
 
 <p><center><img src='/images/BeautyDNAAugust2015Info.jpg'></center></p>
