@@ -68,7 +68,7 @@ date: 2015-08-24 15:11:39 -08:00
 <br>
 
 <p><center><img src='/images/BeautyDNAAugust2015Info2.jpg'></center></p>
-<p>It also includes the value and where to purchase.</p>
+<p>It also includes the value of the product.</p>
 
 <p>I love this Beauty Report, it feels so personalized and informational too!</p>
 
