@@ -14,11 +14,11 @@ imagefeature: "BeautyDNAAugust2015Items.jpg"
 date: 2015-08-24 15:11:39 -08:00
 ---
 
-<center><a href="http://www.beautydna.com/" target="_blank">
+<center><a href="https://www.beautydna.com/" target="_blank">
 <img src="/images/BeautyDNAAugust2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://www.beautydna.com" target="_blank">Beauty DNA</a></p>
+<p><b>Subscription:</b> <a href="https://www.beautydna.com/" target="_blank">Beauty DNA</a></p>
 <p><b>Cost:</b> $25/monthly + Free Shipping</p>
 <p><b>Shipping:</b> Free. </p>
 <p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to your "Beauty Profile" that you complete upon signing up.</p>
@@ -56,8 +56,37 @@ date: 2015-08-24 15:11:39 -08:00
 
 <p>OMG, I just got a sample of this cleanser from my August 2015 Birchbox (a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-August-2015-Review-Coupon/" target="_blank">read my review here</a>) and totally loved it so I was ecstatic when I saw I got a full-sized version of this in my Beauty DNA box, thank you thank you thank you! I was already planning on buying it after finishing my sample, so this totally saved my $35, yay!</p>
 
-<center><a href="http://www.beautydna.com/" target="_blank">
+<center><a href="https://www.beautydna.com/" target="_blank">
 <img src="/images/BeautyDNAAugust2015Items.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA August 2015 Items!" />
 </a></center>
 
-<p></p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm in love with Beauty DNA! They did a great job at matching me with a product that I need and the value is totally there, especially with the extra item too! And if I had to be completely honest, I actually love the bonus item more than the matched item which makes this box an absolute slam dunk for me. If you're tired of sample sizes, try Beauty DNA and </p>
+
+<p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-size product that's personally matched to your skincare needs.</p>
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Coola Sun Lotion</TD>
+      <TD>$50</TD>
+   </TR>
+   <TR>
+      <TD>dr.Brandt Cleanser</TD>
+      <TD>$35</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$85</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$25</big></i></TD>
+   </TR>
+</TABLE>
