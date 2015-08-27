@@ -27,13 +27,15 @@ date: 2015-08-27 16:45:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://nourishbeautybox.cratejoy.com" target="_blank">WHATSUPMAILBOX</a> to get an Extra Box absolutely FREE to gift to friends & family or keep for yourself ;)
 <br>
 
+<p>I've been waiting for a subscription like this to pop up! They're launching next month (September 2015) and I can't wait, so excited!</p>
+
 <center><a href="https://nourishbeautybox.cratejoy.com" target="_blank">
 <img src="/images/NourishBeautyBox2.png" border="0" style="border:none;max-width:100%;" alt="Nourish Beauty Box!" />
 </a></center>
 
-<p>I've been waiting for a subscription like this to pop up! They're launching next month (September 2015) and I can't wait, so excited!</p>
+<p>A box of natural beauty products that consists of 3 full-sized products plus a canvas tote, yes yes and YES!</p>
 
-<p>Although there are other subscription boxes catering to natural and organic beauty/skincare products, this has got to be the first in offering all full-sized products, yay!</p> 
+<p>Although there are other subscription boxes that cater to natural and organic beauty/skincare products, this has got to be the first in offering all full-sized products, yay!</p> 
 
 <p>Most of the other subs have been discontinued and the one that's still active has been quite disappointing lately by sending out old or expired products, yikes.</p>
 
