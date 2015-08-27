@@ -22,7 +22,7 @@ date: 2015-08-27 12:19:39 -07:00
 <p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
 <p><b>Cost:</b> $21/monthly, 6-month package $126, and 12 month package $222 (taxes apply to New York, New Jersey and Kentucky).</p>
 <p><b>Shipping:</b> Free shipping to the US. $5 for Canadian residents.</p>
-<p><b>What's in the box:</b> Receive a selection of five beauty products that include trendy, high-end and emerging brands in deluxe travel sizes and sometimes full size, housed in a reusable keepsake box.</p>
+<p><b>What's in the box:</b> Receive a selection of five beauty products that include trendy, high-end and emerging brands in both deluxe travel sizes and full size, housed in a pretty pink reusable keepsake box.</p>
 <p>How to cancel: Simply log in to your online GLOSSYBOX account to unsubscribe. Must be cancelled by the 14th of the prior month (e.g. you must cancel by February 14th if you want to cancel your March box).</p>
 <br>
 
@@ -89,11 +89,11 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Pop Eyeliner</a></DT>
-<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+<DT><a href="http://www.popbeauty.com/products/kajal-pen" target="_blank">Pop Beauty - Kajal Pen in Sooty Black</a></DT>
+<DD>Full Size .9g/0.03oz, Value $10</DD>
 </DL>
 
-<p></p>
+<p>This eyeliner goes on smooth, has a matte finish and the color is very pigmented. It also has a built-in smudger that will allow you to easily blend the color, great for a smokey eye look!</p>
 
 <br>
 
@@ -102,11 +102,18 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Spa Ritural Nail Polish in Arroyo</a></DT>
-<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+<DT><a href="http://www.sparitual.com/catalog/product/view/id/528/s/arroyo/?___store=default" target="_blank">Spa Ritual Nail Polish in Arroyo</a></DT>
+<DD>Full Size .5 fl oz / 15 ml, Value $12</DD>
 </DL>
 
-<p></p>
+<p>Spa Ritual nail polishes are vegan and formulated without DBP, toulene, formaldehyde and formaldehyde resin. I have some nail polishes by them already and am a huge fan, so I was super happy when I saw this in the box!</p>
+
+<p>Arroyo is a Sandy Matte Shimmer color, and it really is matte. I love both the color and that it's matte, but if you don't, just put on a regular top coat and it'll make the color glossy.</p>
+
+<p>Here's a picture of the shade on me:</p>
+
+<center><img src='"/images//GlossyboxAugust2015NailPolish2.jpg'></center>
+<p>The shade looks quite natural with pink undertones. The picture doesn't really show it, but it really is matte with some shimmer. Love it!</p>
 
 <br>
 
@@ -115,11 +122,11 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Manna Lash Primer</a></DT>
-<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+<DT><a href="http://www.mannakadarcosmetics.com/shop/eyes/step-1/primers/lash-primer.html" target="_blank">Manna Kadar - Lash Primer</a></DT>
+<DD>Full Size 4g, Value $24</DD>
 </DL>
 
-<p></p>
+<p>This lash primer creates volume and is developed to nourish and enhance lashes, while creating a base coat that enhances your mascara's effects. It can be worn alone at night as a conditioner too. I've used lash primers from other brands before, so I'm happy I received one in this box and will surely be using this.</p>
 
 <br>
 
@@ -128,12 +135,13 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Glamglow Cleanser</a></DT>
-<DD>Travel Size 3.5 fl oz / 105 ml, Value $35</DD>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">GLAMGLOW YOUTHCLEANSE™ Daily Exfoliating Cleanser</a></DT>
+<DD>Travel Size 1oz/30g, Value $7.80</DD>
 </DL>
 
-<p></p>
+<p>I've been a fan of Glamglow and have been using their masks religously for the past few years. So when they came out with a cleanser this year, I just had to try it and instantly fell in love. It's just as good as their masks!</p>
 
+<p>This cleanser transforms from mud into a foaming lather and it will gently exfoliate and cleanse your skin to create a more youthful-looking, glowing complexion. 
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
