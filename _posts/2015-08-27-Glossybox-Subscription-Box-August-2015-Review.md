@@ -72,6 +72,8 @@ date: 2015-08-27 13:19:39 -08:00
 
 <p>With every box that they send, they also include a fold out info card that details the items and prices.</p>
 
+<br>
+
 <H4>And without further adieu, here are my items:</H4>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
