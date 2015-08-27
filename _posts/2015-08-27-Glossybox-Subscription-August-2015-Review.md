@@ -6,14 +6,14 @@ headline: "Glossybox August 2015 Review!"
 categories: 
       - Subscriptions
       - Reviews
-tags: [Glossybox, Subscriptions, Reviews]
+tags: [Glossybox, Subscriptions, Reviews, August 2015]
 comments: true
 mathjax: null
 published: false
 featured: false
 type: photo
 imagefeature: "GlossyboxAugust2015OpenBox.jpg"
-date: 2015-08-27 12:19:39 -07:00
+date: 2015-08-27 13:19:39 -08:00
 ---
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
@@ -36,7 +36,7 @@ date: 2015-08-27 12:19:39 -07:00
 
 <p>Glossybox ships on the 3rd or 4th week of the month.</p>
 
-<p>I appreciate it greatly that they put their boxes inside of another box for shipping purposes, makes the products extra protected and feels more luxurious to open =)</p>
+<p>They package their boxes inside of another box for shipping purposes, makes the products extra protected and feels more luxurious to open =)</p>
 
 <br>
 
