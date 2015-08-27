@@ -88,11 +88,25 @@ date: 2015-08-27 12:19:39 -07:00
 <img src="/images//GlossyboxAugust2015Eyeliner.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox August 2015 Pop Eyeliner" />
 </a></center>
 
+<DL>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Pop Eyeliner</a></DT>
+<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+</DL>
+
+<p></p>
+
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images//GlossyboxAugust2015NailPolish.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox August 2015 Spa Ritual Nail Polish" />
 </a></center>
+
+<DL>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Spa Ritural Nail Polish in Arroyo</a></DT>
+<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+</DL>
+
+<p></p>
 
 <br>
 
@@ -100,14 +114,68 @@ date: 2015-08-27 12:19:39 -07:00
 <img src="/images//GlossyboxAugust2015Manna.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox August 2015 Manna Lash Primer" />
 </a></center>
 
+<DL>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Manna Lash Primer</a></DT>
+<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+</DL>
+
+<p></p>
+
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images//GlossyboxAugust2015Glamglow.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox August 2015 Glamglow" />
 </a></center>
 
+<DL>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Glamglow Cleanser</a></DT>
+<DD>Travel Size 3.5 fl oz / 105 ml, Value $35</DD>
+</DL>
+
+<p></p>
+
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images//GlossyboxAugust2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox August 2015 Lip Gloss" />
 </a></center>
+
+<DL>
+<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Lip Gloss</a></DT>
+<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+</DL>
+
+<p></p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I absolutely loved this month's items, every single one of them! That's major for me and I couldn't be happier about signing up with them again. The brands and products that they featured are up to my standards, I even tried them all right away the day I received the box, that's how much they were a hit for me!</p>
+
+<p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Equitance Toner</TD>
+      <TD>$50</TD>
+   </TR>
+   <TR>
+      <TD>dr.Brandt Cleanser</TD>
+      <TD>$35</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$85</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$25</big></i></TD>
+   </TR>
+</TABLE>
