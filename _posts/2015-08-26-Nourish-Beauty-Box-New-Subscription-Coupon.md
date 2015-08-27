@@ -35,7 +35,7 @@ date: 2015-08-27 16:45:39 -08:00
 
 <p>Although there are other subscription boxes catering to natural and organic beauty/skincare products, this has got to be the first in offering all full-sized products, yay!</p> 
 
-<p>Most of the other subs have been discontinued and the one that's still active has been quite disappointing lately by sending out old or expired products, yikes. #BareBlissBox</p>
+<p>Most of the other subs have been discontinued and the one that's still active has been quite disappointing lately by sending out old or expired products, yikes.</p>
 
 <p>So it was a no brainer for me to instantly fall in love with this subscription and if you're like me - a natural beauty junkie - then I totally recommend for you to check them out and subscribe. Plus right now if you use the coupon code <a href="https://nourishbeautybox.cratejoy.com" target="_blank">WHATSUPMAILBOX</a> you'll get an extra box, yes TWO boxes, for the price of one. That's an awesome deal (!) and gives you more reason to try them out ;)</p>
 
