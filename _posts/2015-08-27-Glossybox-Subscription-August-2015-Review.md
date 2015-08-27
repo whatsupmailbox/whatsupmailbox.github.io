@@ -9,7 +9,7 @@ categories:
 tags: [Glossybox, Subscriptions, Reviews, August 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxAugust2015OpenBox.jpg"
