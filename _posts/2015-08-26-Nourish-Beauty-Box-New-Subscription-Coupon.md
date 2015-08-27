@@ -24,7 +24,7 @@ date: 2015-08-27 16:45:39 -08:00
 <p><b>Cost:</b> $34.95/monthly.</p>
 <p><b>Shipping:</b> Free shipping Worldwide! Ships around the 25th of each month.</p>
 <p><b>What's in the box:</b> Nourish Beauty Box focuses on vegan, 100% cruelty-free, GMO-free & gluten-free beauty products. Their monthly boxes will contain 4 items; 3 Full Size bio-natural beauty products + 1 Limited-Edition canvas tote bag. Each box will also have a value of $70+!</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://nourishbeautybox.cratejoy.com" target="_blank">WHATSUPMAILBOX</a> to get an Extra Box absolutely FREE to gift to friends & family or keep for yourself ;)</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://nourishbeautybox.cratejoy.com" target="_blank">WHATSUPMAILBOX</a> to get an Extra Box absolutely FREE to gift to friends & family or keep for yourself ;) <i>Only 1 code can be used per household, and it expires 09/20/2015. Applicable only for the 1-month subscription option (not 3 or 6 months).</i></p>
 
 <br>
 
