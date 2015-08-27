@@ -112,7 +112,7 @@ date: 2015-08-27 13:19:39 -08:00
 
 <p>Here's a picture of the shade on me:</p>
 
-<center><img src='"/images/GlossyboxAugust2015NailPolish2.jpg'></center>
+<center><img src='/images/GlossyboxAugust2015NailPolish2.jpg'></center>
 <p>The shade looks quite natural with pink undertones. The picture doesn't really show it, but it really is matte with some shimmer. Love it!</p>
 
 <br>
