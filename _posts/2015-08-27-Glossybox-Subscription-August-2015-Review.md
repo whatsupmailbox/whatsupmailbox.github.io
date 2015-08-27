@@ -102,13 +102,13 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.sparitual.com/catalog/product/view/id/528/s/arroyo/?___store=default" target="_blank">Spa Ritual Nail Polish in Arroyo</a></DT>
+<DT><a href="http://www.sparitual.com/catalog/product/view/id/528/s/arroyo/?___store=default" target="_blank">SpaRitual Nail Polish in Arroyo</a></DT>
 <DD>Full Size .5 fl oz / 15 ml, Value $12</DD>
 </DL>
 
-<p>Spa Ritual nail polishes are vegan and formulated without DBP, toulene, formaldehyde and formaldehyde resin. I have some nail polishes by them already and am a huge fan, so I was super happy when I saw this in the box!</p>
+<p>SpaRitual nail polishes are vegan and formulated without DBP, toulene, formaldehyde and formaldehyde resin. I have some nail polishes by them already and am a huge fan, so I was super happy when I saw this in the box!</p>
 
-<p>Arroyo is a Sandy Matte Shimmer color, and it really is matte. I love both the color and that it's matte, but if you don't, just put on a regular top coat and it'll make the color glossy.</p>
+<p>There are different colors that subscribers receive and I got the color Arroyo which is a Sandy Matte Shimmer color, and it really is matte. I love both the color and that it's matte, but if you don't, just put on a regular top coat and it'll make the color glossy.</p>
 
 <p>Here's a picture of the shade on me:</p>
 
@@ -139,9 +139,10 @@ date: 2015-08-27 12:19:39 -07:00
 <DD>Travel Size 1oz/30g, Value $7.80</DD>
 </DL>
 
-<p>I've been a fan of Glamglow and have been using their masks religously for the past few years. So when they came out with a cleanser this year, I just had to try it and instantly fell in love. It's just as good as their masks!</p>
+<p>I've been a fan of Glamglow and have been using their masks religously for the past few years. So when they came out with a cleanser this year, I just had to try it and instantly fell in love. It's just as good as their masks! Needless to say, I was again ecstatic when I saw this was included in the box.</p>
 
-<p>This cleanser transforms from mud into a foaming lather and it will gently exfoliate and cleanse your skin to create a more youthful-looking, glowing complexion. 
+<p>This cleanser transforms from mud into a foaming lather and it will gently exfoliate and cleanse your skin to create a more youthful-looking, glowing complexion. Formulated with Brazilian superfruits acai, guarana, and acerola, it provides potent antioxidants. Safe to use everyday even on my sensitive skin, and I find great results in keeping blemishes away. So glad I have this in travel size!</p>
+
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
@@ -149,15 +150,17 @@ date: 2015-08-27 12:19:39 -07:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.drbrandtskincare.com/product/pores-no-more-cleanser-nettoyant.do" target="_blank">Lip Gloss</a></DT>
-<DD>Full Size 3.5 fl oz / 105 ml, Value $35</DD>
+<DT><a href="http://www.lollipopsparis.fr/en/baume-a-levres.html" target="_blank">Lollipops Cosmetics - Lip Balm in Délicieuse</a></DT>
+<DD>Full Size 10ml/0.33 fl.oz, Value $4.50</DD>
 </DL>
 
-<p></p>
+<p>I believe there are two variations of this lip balm and I received Délicieuse. This lip balm goes on clear and has a sweet scent of vanilla. It's rich and oily so it applies smooth and glossy (like applying Vaseline to your lips). Its formula is enriched with Tepescohuite extract, a Mexican plant known for its regenerative capabilities, and macadamia nut oil so chapped lips are healed fast! It also has anti-oxidant vitamin E that protects against damage from UV rays and pollution. And important fact, it's also paraben free.</p>
+
+<p>So far I'm loving this lip balm. I woke up with chapped lips today so I put this product to test and it did soothe and moisturize it almost instantly. Great product and the fact that it's made in France, well that's just perfect.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I absolutely loved this month's items, every single one of them! That's major for me and I couldn't be happier about signing up with them again. The brands and products that they featured are up to my standards, I even tried them all right away the day I received the box, that's how much they were a hit for me!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I absolutely loved this month's items, every single one of them! That's major for me and I couldn't be happier about signing up with them again. The brands and products that they featured are up to my standards and fit my beauty needs, no complaints here. And 4 out of 5 items were full-sized which is AH-Mazing! I can't rave enough about this month's box ;)</p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
 <br>
@@ -171,19 +174,31 @@ date: 2015-08-27 12:19:39 -07:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Equitance Toner</TD>
-      <TD>$50</TD>
+      <TD>Pop Beauty Eyeliner</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
-      <TD>dr.Brandt Cleanser</TD>
-      <TD>$35</TD>
+      <TD>SpaRitual Nail Polish</TD>
+      <TD>$12</TD>
+   </TR>
+  <TR>
+      <TD>Manna Kadar Lash Primer</TD>
+      <TD>$24</TD>
+   </TR>
+   <TR>
+      <TD>GLAMGLOW Cleanser</TD>
+      <TD>$7.80</TD>
+   </TR>
+   <TR>
+      <TD>Lollipops Lip Balm</TD>
+      <TD>$4.50</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$85</big></b></TD>
+      <TD><b><big>$58.30</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$25</big></i></TD>
+      <TD><i><big>$21</big></i></TD>
    </TR>
 </TABLE>
