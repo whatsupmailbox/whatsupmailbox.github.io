@@ -36,3 +36,4 @@ date: 2015-08-28 09:19:39 -08:00
 
 <p>In case you didn't know, Stella McCartney never uses real leather in all her products. The material they use is of high quality and distressed with a unique technique that feels and looks like leather, and just as durable too.</p>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is definitely my current "it" bag and I'm so glad I purchased this. It's gorgeous, can fit a lot of stuff, and can be worn as a clutch too. It's definitely worth its price and then some!</p>
