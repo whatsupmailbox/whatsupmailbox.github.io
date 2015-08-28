@@ -27,7 +27,7 @@ date: 2015-08-28 09:19:39 -08:00
 
 <p>I can honestly say that ever since I got my hands on this gorgeous tote, I haven't been able to wear any other bag. I just keep reaching for this. It's not only gorgeous, but it also can fit quite a lot of stuff inside. I can see this being my go-to bag for travelling too.</p>
 
-<p>And another feature that's a plus, you can wear it as a clutch too! A big one, but a clutch nevertheless. All you have to do is fold the top over to one side and voila, a clutch it is. See picture below:</p>
+<p>And another feature that's a plus, you can also wear it as a clutch! A big one, but a clutch nevertheless. All you have to do is fold the top over to one side and voila, a clutch it is. See picture below:</p>
 
 <center><img src="/images/StellaBagClutch.jpg"></center>
 <figcaption>Using it as a clutch</figcaption>
