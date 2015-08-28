@@ -23,7 +23,7 @@ date: 2015-08-28 09:19:39 -08:00
 
 <br>
 
-<p>I've been eyeing the Falabella tote for awhile now but originally they only had it with silver metal, and I prefer gold. But then they released the gold version a few months ago and I was so tempted, and finally this week I decided to dive in and buy it! It was one of those days where I felt like "you only live once so why not" lol =P</p>
+<p>I've been eyeing the Falabella tote for awhile now but originally they only had it with silver metal, and I prefer gold. But then they released the gold version a few months ago and I was so tempted, so finally this week I decided to dive in and buy it! It was one of those days where I felt like "you only live once so why not" lol =P</p>
 
 <p>I can honestly say that ever since I got my hands on this gorgeous tote, I haven't been able to wear any other bag. I just keep reaching for this. It's not only gorgeous, but it also can fit quite a lot of stuff inside. I can see this being my go-to bag for travelling too.</p>
 
