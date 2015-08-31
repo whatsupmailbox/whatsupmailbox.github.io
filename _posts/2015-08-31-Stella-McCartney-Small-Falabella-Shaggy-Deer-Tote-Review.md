@@ -2,7 +2,7 @@
 layout: post
 title: "My Newest Bag Addition: Stella McCartney Falabella Shaggy Deer Tote!"
 description: ""
-headline: "Review: Stella McCartney Falabella Shaggy Deer Tote"
+headline: "Stella McCartney Falabella Shaggy Deer Tote"
 categories: 
       - Products
       - Reviews
