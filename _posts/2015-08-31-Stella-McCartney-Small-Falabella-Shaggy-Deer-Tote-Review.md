@@ -9,7 +9,7 @@ categories:
 tags: [Stella McCartney, Products, Reviews]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "StellaBag.jpg"
