@@ -47,6 +47,8 @@ date: 2015-09-02 09:29:39 -08:00
 <p>Back to my timeline. After purchasing the men's box, I went back in line to join my girlfriend and it wasn't long before we were in front to build our own Birchbox, yay!</p>
 
 <center><img src='/images/BirchboxEventLA2015J.jpg'></center>
+<figcaption>Promo on subscriptions today too!</figcaption>
+
 <center><img src='/images/BirchboxEventLA2015B.jpg'></center>
 <figcaption>This is where you start to build your own Birchbox</figcaption>
 <br>
