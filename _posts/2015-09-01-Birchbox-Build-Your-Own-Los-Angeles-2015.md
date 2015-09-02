@@ -72,7 +72,7 @@ date: 2015-09-01 14:29:39 -08:00
 <center><img src='/images/BirchboxEventLA2015D.jpg'></center>
 <figcaption>The Men's Birchbox Shop</figcaption>
 
-<center><img src='/images/BirchboxEventLA2015D.jpg'></center>
+<center><img src='/images/BirchboxEventLA2015E.jpg'></center>
 <figcaption>You can also buy their special edition boxes!</figcaption>
 
 <br>
