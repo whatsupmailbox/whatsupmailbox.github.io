@@ -8,7 +8,7 @@ title: Build Your Own Birchbox Los Angeles Event Review!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxAugust2015Items.jpg
+imagefeature: BirchboxEventLA2015C.jpg
 headline: Build Your Own Birchbox Los Angeles Event Review!
 tags: [Birchbox, Subscriptions, Reviews, September 2015]
 date: 2015-09-02 09:29:39 -08:00
