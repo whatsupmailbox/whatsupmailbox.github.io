@@ -56,11 +56,11 @@ date: 2015-09-02 09:29:39 -08:00
 <br>
 
 <center><img src='/images/BirchboxEventLA2015F.jpg'></center>
-<figcaption>They used the Birchbox x Rifle Paper Co. boxes for you to fill your goodies in, I love them!<figcaption>
+<figcaption>They used the Birchbox x Rifle Paper Co. boxes for you to fill your goodies in, I love them!</figcaption>
 <br>
 
 <center><img src='/images/BirchboxEventLA2015H.jpg'></center>
-<p>And we're off to selecting our 1 Makeup, 1 Skincare, 1 Suncare, 1 Hair product and 1 Fragrance.<p>
+<p>And we're off to selecting our 1 Makeup, 1 Skincare, 1 Suncare, 1 Hair product and 1 Fragrance.</p>
 <br>
 
 <H4>Here's my Birchbox Women's selection:</H4>
