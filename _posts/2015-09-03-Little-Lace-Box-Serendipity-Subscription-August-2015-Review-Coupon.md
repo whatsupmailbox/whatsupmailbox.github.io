@@ -72,10 +72,10 @@ date: 2015-09-03 09:10:39 -08:00
 <p>Although I do appreciate receiving a vase, I think I would have preferred a bigger less expensive vase that didn't take up the value of the whole box. But that's just my own personal opinion.</p>
 
 <p>Closer look at the vase:</p>
-<center><img src='/images/LittleLaceBoxAugust2015Vase2.jpg'></center>
+<center><img src='/images/LittleLaceBoxAugust2015Vase3.jpg'></center>
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Vase3.jpg'></center>
+<center><img src='/images/LittleLaceBoxAugust2015Vase2.jpg'></center>
 <p>The stamp at the bottom noting that it's "Handmade in England".
 
 <p>Don't get me wrong, the vase is beautiful, but the color or style doesn't match my decor so I'm still not sure if I'll keep it or gift it.</p> 
