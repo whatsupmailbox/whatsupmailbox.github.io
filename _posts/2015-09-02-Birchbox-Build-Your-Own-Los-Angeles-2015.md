@@ -14,7 +14,7 @@ tags: [Birchbox, Subscriptions, Reviews, September 2015]
 date: 2015-09-02 09:29:39 -08:00
 ---
 
-<br>
+<p></p>
 
 <p>I was so excited when Birchbox announced that they'll be coming to Los Angeles for a Build Your Own Box "BYOB" event, I knew I just had to go! The event was held at The Grove from Friday-Sunday. I decided to go on Friday since most people would probably still be at work that day so there's less crowd compared to the weekend.</p>
 
