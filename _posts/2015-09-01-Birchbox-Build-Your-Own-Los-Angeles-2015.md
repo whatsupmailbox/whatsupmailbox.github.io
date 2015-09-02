@@ -101,3 +101,11 @@ date: 2015-09-01 14:29:39 -08:00
 <img src="/images/BirchboxBandoTote.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox August 2015 Items!" /></a></center></p>
 <p>For a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first Women's box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
 <br>
+
+<H4>What's Birchbox?</H4>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
+<p><b>Cost:</b> $10 / month (taxes apply to CA)</p>
+<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
+<p><b>Coupon:</b></p>
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> and receive a ban.do Sunnies tote ($20) plus a Supergoop! sample when you subscribe!
+* Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Free Mystery Sample Pack to your cart with your $35+ shop purchase!
