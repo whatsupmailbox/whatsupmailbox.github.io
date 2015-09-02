@@ -118,8 +118,8 @@ date: 2015-09-03 09:10:39 -08:00
 
 ## Serendipity Items
 
-<p>Serendipity info sheet:</p>
 <center><img src='/images/LittleLaceBoxAugust2015Info.jpg'></center>
+<figcaption>Serendipity Info Sheet</figcaption>
 <br>
 
 <center><img src='/images/LittleLaceBoxAugust2015Steeper.jpg'></center>
