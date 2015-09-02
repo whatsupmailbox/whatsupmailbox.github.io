@@ -262,10 +262,10 @@ date: 2015-09-03 09:10:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$219.99</big></b></TD>
+      <TD><b><big>$19.24</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$59.99</big></i></TD>
+      <TD><i><big>$9.99</big></i></TD>
    </TR>
 </TABLE>
