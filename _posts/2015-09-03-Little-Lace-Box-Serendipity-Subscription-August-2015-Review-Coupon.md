@@ -196,7 +196,7 @@ date: 2015-09-03 09:10:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" WIDTH="70%">
+<TABLE  BORDER="5" style="width:70%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>MY LLB ITEMS</center></H3>
@@ -232,7 +232,7 @@ date: 2015-09-03 09:10:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" WIDTH="70%">
+<TABLE  BORDER="5" style="width:70%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>MY SERENDIPITY ITEMS</center></H3>
