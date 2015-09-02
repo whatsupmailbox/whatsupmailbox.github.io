@@ -14,9 +14,7 @@ tags: [Urthbox, Subscriptions, Reviews, August 2015]
 date: 2015-09-03 14:29:39 -08:00
 ---
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxAugust2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox!" />
-</a></center>
+<center><img src="/images/UrthboxAugust2015Package.jpg"></center>
 
 <p><b>Subscription:</b> <a href="http://www.urthbox.com" target="_blank">Urthbox</a></p>
 <p><b>Cost:</b> $12.99/monthly (Mini), $19.99/monthly (Small), $29.99/monthly (Medium) or $39.99/monthly (Large)</p>
