@@ -164,6 +164,26 @@ date: 2015-09-03 09:10:39 -08:00
 <p>My hair has been feeling quite dry lately. I haven't colored it in awhile but I think my frequent swimming in the ocean/pool plus the summer sun has done a number on it. This hair reconstructor promises to restore and strengthen your hair again with the added bonus of shine and volume. It's 100% vegan made with plant proteins and enriched with Pro Vitamin B5 for extra moisture. My hair needs this ASAP!</p>
 <br>
 
+<center><img src='/images/LittleLaceBoxAugust2015Card.jpg'></center>
+
+<DL>
+<DT><a href='https://www.einvite.com' target="_blank">Einvite.com Thank You Notes</a></DT>
+<DD>4 Cards, Value $5</DD>
+</DL>
+
+<p>I can never have enough Thank You cards, it's a necessity in my house since I need this ever so frequently. I love the laser cut "Thanks" on it and the bright colors it came in.</p>
+
+<center><img src='/images/LittleLaceBoxAugust2015Card2.jpg'></center>
+<figcaption>The back of the card</figcaption>
+<br>
+
+<center><img src='/images/LittleLaceBoxAugust2015Card3.jpg'></center>
+<figcaption>einvite.com markings on the back of the card</figcaption>
+<br>
+
+<p>I wished it didn't have the einvite.com on the back though, now I'm just marketing them everytime I send these to people, sigh. But they're still useful and pretty, so can't complain too much about these.</p>
+<br>
+
 <p>And to wrap things up, here's the theme for October's Little Lace Box:</p>
 <center><img src='/images/LittleLaceBoxAugust2015OctTheme.jpg'></center>
 
@@ -172,41 +192,77 @@ date: 2015-09-03 09:10:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I hate to say this but sadly this month was a miss for me. The Little Lace Box, although the value is quite high, most of it went to the vase which is an item that I didn't really love. I did love the Serendipity items though and that was a hit for me. I'll use everything from Serendipity but for LLB, I think the only items I'll be using is the Bouqs voucher and perfume. Everything else will most likely be gifted or traded. I still love LLB, no love lost there, it's just that this month's theme and items were not my cup of tea. Looking at the theme for October's box which is "Authentic Autumn - Be your authentic self" sounds promising, especially since fashion was quoted and that always gets my attention. Looking forward to receiving that box and hopefully September's Serendipity won't get delayed again.</p>
 
-<p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in August, and the theme for that box is "Elizabeth and Mr. Darcy". And don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
+<p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in October, and don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
 
 <br>
 
-<TABLE  BORDER="5">
+<TABLE  BORDER="5" WIDTH="70%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>MY ITEMS</center></H3>
+         <H3><BR><center>MY LLB ITEMS</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>San Diego Hat Co. - Packable Hat</TD>
-      <TD>$28</TD>
+      <TD>Elizabeth & Mr. Darcy Vase</TD>
+      <TD>$124</TD>
    </TR>
    <TR>
-      <TD>Little Lace Box - Pour Some Sugar Scrub</TD>
+      <TD>DefineMe Perfume</TD>
+      <TD>$36</TD>
+   </TR>
+   <TR>
+      <TD>Little Lace Box - My Shea-Rona Shea Butter</TD>
       <TD>$19.99</TD>
    </TR>
    <TR>
-      <TD>Watercolor Print Silk Scarf exclusively made for LLB</TD>
-      <TD>$45.99</TD>
-   </TR>
-   <TR>
-      <TD>Kitsch - Ring with Amethyst stone</TD>
-      <TD>$24.99</TD>
-   </TR>
-   <TR>
-      <TD>Lucy B. Cosmetics - Nail Lacquer in Starlet</TD>
-      <TD>$13</TD>
+      <TD>Bouqs.com Voucher</TD>
+      <TD>$40</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$131.97</big></b></TD>
+      <TD><b><big>$219.99</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$59.99</big></i></TD>
+   </TR>
+</TABLE>
+
+<br>
+
+<TABLE  BORDER="5" WIDTH="70%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>MY SERENDIPITY ITEMS</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Steep & Go Tea Steeper</TD>
+      <TD>$5.95</TD>
+   </TR>
+   <TR>
+      <TD>Chill Out Tea</TD>
+      <TD>$1.29</TD>
+   </TR>
+   <TR>
+      <TD>Mindful Minerals Dead Sea Soap</TD>
+      <TD>$4</TD>
+   </TR>
+   <TR>
+      <TD>Malibu C Hair Constructor</TD>
+      <TD>$3</TD>
+   </TR>
+   <TR>
+      <TD>Einvite.com Thank You Notes</TD>
+      <TD>$5</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$219.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
