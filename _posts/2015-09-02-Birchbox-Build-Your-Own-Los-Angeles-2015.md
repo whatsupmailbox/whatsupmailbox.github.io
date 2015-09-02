@@ -40,7 +40,9 @@ date: 2015-09-02 09:29:39 -08:00
 <center><img src='/images/BirchboxEventLA2015L.jpg'></center>
 <p>Although I chose the earphones for my September box already, I decided to get another one this time around since the choices were either these earphones, the Coola packable backpack, or a plain grey shirt. I also have the backpack already, but I think I'd rather have 2 earphones instead especially since the value is the highest amongst all 3 ;)</p>
 
-<p>After building my own Birchbox Man, you go to the cashier area to pay and when I was there they told me that the first 100 people to purchase today will be getting another FREE box! OMG, what a surprise! They didn't announce this at all in their event info, so I was pleasantly surprised. Since I got the Birchbox Man, they let me choose either the Men's box or Women's box as my free one. I chose the Men's, no brainer there for me =P</p>
+<p>After building my own Birchbox Man, you go to the cashier area to pay and when I was there they told me that the first 100 people to purchase today will be getting another FREE box! OMG, what a surprise! They didn't announce this at all in their event info, so I was pleasantly surprised.</p> 
+
+<p>Since I got the Birchbox Man, they let me choose either the Men's box or Women's box as my free one. I chose the Men's, no brainer there for me =P</p>
 
 <H4>Here's my FREE Birchbox Man:</H4>
 <center><img src='/images/BirchboxEventLA2015K.jpg'></center>
