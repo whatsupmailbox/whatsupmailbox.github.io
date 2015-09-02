@@ -23,7 +23,6 @@ date: 2015-09-03 09:10:39 -08:00
 <br>
 
 <p>This month Little Lace Box and Serendipity (by LLB) were sent together in a combined box due to some delays in production. I don't think subscribers were informed about this delay, I sure wasn't and only found out when they sent the notification that the box was sent, which was a few days before the box actually arrived. I don't mind the delay at all, but I think it would have been nice to let subscribers know and keep us in the loop.</p>
-<br>
 
 <p>This month's box didn't have the typical LLB sticker on it, it was unmarked and I only knew it was from LLB because they're the only ones that send out these bright red boxes. I wonder why no sticker though?</p>
 <br>
