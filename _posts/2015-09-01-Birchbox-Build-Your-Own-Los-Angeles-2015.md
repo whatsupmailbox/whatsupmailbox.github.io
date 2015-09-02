@@ -14,7 +14,7 @@ tags: [Birchbox, Subscriptions, Reviews, September 2015]
 date: 2015-09-01 14:29:39 -08:00
 ---
 
-<p>I was so excited when Birchbox announced that they'll be coming to Los Angeles, I knew I just had to go! The event was held at The Grove from Friday-Sunday. I decided to go on Friday since most people would probably still be at work that day so there's less crowd compared to the weekend.</p>
+<p>I was so excited when Birchbox announced that they'll be coming to Los Angeles for a Build Your Own Box "BYOB" event, I knew I just had to go! The event was held at The Grove from Friday-Sunday. I decided to go on Friday since most people would probably still be at work that day so there's less crowd compared to the weekend.</p>
 
 <center><img src='/images/BirchboxEventLA2015C.jpg'></center>
 
@@ -24,6 +24,8 @@ date: 2015-09-01 14:29:39 -08:00
 <p>You also get Free Sprinkles ice cream with any purchase. A perfect freebie for a hot and sunny Los Angeles day! I got Vanilla and it was SOOOOO good.</p>
 
 <p>The event started at 12noon and I got there around 12.30 and there was already a line. It wasn't too long, but it did move pretty slow. Plus the heat that day was extra caliente, we got hot and sweaty in no time!</p>
+
+<p>As we were there, we were told that prices for the boxes today are different since your building your own. It's $15 for Women's and $25 for Men's. So they raised it by $5 per box, no big deal for me and I didn't hear anyone else complaining about it while we were there.</p>
 
 <center><img src='/images/BirchboxEventLA2015G.jpg'></center>
 <p>There was absolutely no line for Birchbox Man, so I went to that one first while my girlfriend stood in line for the women's one.</p>
@@ -97,47 +99,5 @@ date: 2015-09-01 14:29:39 -08:00
 
 <p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxBandoTote.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox August 2015 Items!" /></a></center></p>
-<p>For a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
+<p>For a limited time, use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EGORGEOUS</a> to get a ban.do Sunnies tote ($20) plus a Supergoop! sample with your first Women's box! This deal is awesome, so if you haven't subscribed, now is a good time and you'll be getting extra goodies too!</p>
 <br>
-
-<TABLE  BORDER="5" style="width:50%">
-   <TR>
-      <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
-      </TH>
-   </TR>
-      <TH>Product</TH>
-      <TH>Price</TH>
-  <TR>
-      <TD>Coola Sun Lotion</TD>
-      <TD>$2.50</TD>
-   </TR>
-   <TR>
-      <TD>dr.Brandt Cleanser</TD>
-      <TD>$2.50</TD>
-   </TR>
-    <TR>
-      <TD>IPKN Sun Lotion</TD>
-      <TD>$3.50</TD>
-   </TR>
-    <TR>
-      <TD>R+Co Dry Shampoo</TD>
-      <TD>$7</TD>
-   </TR>
-    <TR>
-      <TD>theBalm Bronzer</TD>
-      <TD>$2.50</TD>
-   </TR>
-   <TR>
-      <TD>Kérastase Shampoo</TD>
-      <TD>$1</TD>
-   </TR>
-   <TR>
-      <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$19</big></b></TD>
-   </TR>
-   <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$10</big></i></TD>
-   </TR>
-</TABLE>
