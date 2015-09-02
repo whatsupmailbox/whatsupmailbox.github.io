@@ -167,7 +167,7 @@ date: 2015-09-03 09:10:39 -08:00
 <center><img src='/images/LittleLaceBoxAugust2015Card.jpg'></center>
 
 <DL>
-<DT><a href='https://www.einvite.com' target="_blank">Einvite.com Thank You Notes</a></DT>
+<DT><a href='https://www.einvite.com' target="_blank">Einvite.com</a> Thank You Notes</a></DT>
 <DD>4 Cards, Value $5</DD>
 </DL>
 
