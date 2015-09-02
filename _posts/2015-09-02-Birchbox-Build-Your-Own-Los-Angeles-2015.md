@@ -52,6 +52,7 @@ date: 2015-09-02 09:29:39 -08:00
 
 <center><img src='/images/BirchboxEventLA2015J.jpg'></center>
 <figcaption>Promo on subscriptions today too!</figcaption>
+<br>
 
 <center><img src='/images/BirchboxEventLA2015B.jpg'></center>
 <figcaption>This is where you start to build your own Birchbox</figcaption>
