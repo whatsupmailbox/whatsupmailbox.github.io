@@ -52,7 +52,7 @@ date: 2015-09-03 09:10:39 -08:00
 
 <center><img src='/images/LLBAugust2015Items.jpg'></center>
 
-<p>It doesn't seem like there's a lot of items for 2 subs, but more on that later.</p>
+<p>It doesn't seem like there's a lot of items for 2 subs, or maybe it's just me.</p>
 
 <H4>Items in detail:</H4>
 
@@ -63,7 +63,7 @@ date: 2015-09-03 09:10:39 -08:00
 <DD>Value $124</DD>
 </DL>
 
-<p>I decided to start off with the most expensive item in the box. It's a handmade vase from England that was designed exclusively for LLB's "Elizabeth & Darcy" theme.</p>
+<p>I decided to start off with the most expensive item in the box. It's a handmade vase from England that was designed exclusively for LLB's "Elizabeth & Mr. Darcy" theme.</p>
 
 <center><img src='/images/LittleLaceBoxAugust2015VaseInfo.jpg'></center>
 
