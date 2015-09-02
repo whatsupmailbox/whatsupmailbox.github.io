@@ -73,6 +73,7 @@ date: 2015-09-03 09:10:39 -08:00
 
 <p>Closer look at the vase:</p>
 <center><img src='/images/LittleLaceBoxAugust2015Vase3.jpg'></center>
+<p>I like how the white rose pops out of the vase.</p>
 <br>
 
 <center><img src='/images/LittleLaceBoxAugust2015Vase2.jpg'></center>
@@ -81,7 +82,7 @@ date: 2015-09-03 09:10:39 -08:00
 <p>Don't get me wrong, the vase is beautiful, but the color or style doesn't match my decor so I'm still not sure if I'll keep it or gift it.</p> 
 <br>
 
-<center><img src='/images/LittleLaceBoxJune2015Perfume.jpg'></center>
+<center><img src='/images/LittleLaceBoxAugust2015Perfume.jpg'></center>
 
 <DL>
 <DT><a href="https://definemefragrance.com/defineme-harper.html" target="_blank">DefineMe Fragrance in Harper</DT>
