@@ -53,8 +53,8 @@ date: 2015-09-01 14:29:39 -08:00
 <p>And we're off to selecting our 1 beauty product, 1 skincare, 1 suncare, 1 hair product and 1 fragrance.<p>
 <br>
 
-<H4>Here's my Birchbox Women's selection:<H4>
-<center><img src='/images/BirchboxEventLA2015H.jpg'></center>
+<H4>Here's my Birchbox Women's selection:</H4>
+<center><img src='/images/BirchboxEventLA2015M.jpg'></center>
 
 <p>After I finished building this box, off I went to the cashier again. I ended up with the same cashier lady and she remembered that I made a purchase before so she gave me a GWP. Not really sure why, but it really didn't matter, I got another gift! Yay!</p>
 
