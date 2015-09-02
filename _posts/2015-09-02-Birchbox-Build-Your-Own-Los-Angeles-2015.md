@@ -97,6 +97,7 @@ date: 2015-09-02 09:29:39 -08:00
 
 <center><img src='/images/BirchboxEventLA2015Q.jpg'></center>
 <figcaption>The Women's Birchbox Shop</figcaption>
+
 <br>
 
 <p>The items offered at the Women's shop were mostly makeup and skincare, and since I had tons of these already I didn't spend too much time there. I did get some products tested on me though by one of their beauty reps, so that was nice.</p>
