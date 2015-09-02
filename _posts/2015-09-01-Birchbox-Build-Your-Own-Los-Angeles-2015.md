@@ -26,7 +26,11 @@ date: 2015-09-01 14:29:39 -08:00
 <p>The event started at 12noon and I got there around 12.30 and there was already a line. It wasn't too long, but it did move pretty slow. Plus the heat that day was extra caliente, we got hot and sweaty in no time!</p>
 
 <center><img src='/images/BirchboxEventLA2015G.jpg'></center>
-<p>There was absolutely no line for Birchbox Man, so I went to that one first while my girlfriend stood in line for the women's one. As expected, you get to choose 1 Lifestyle item, 1 Skincare, 1 Grooming, 1 Hair product and 1 Fragrance.</p>
+<p>There was absolutely no line for Birchbox Man, so I went to that one first while my girlfriend stood in line for the women's one.</p>
+
+<center><img src='/images/BirchboxEventLA2015S.jpg'></center>
+<p>As expected, you get to choose 1 Lifestyle item, 1 Skincare, 1 Grooming, 1 Hair product and 1 Fragrance.</p>
+<br>
 
 <p>Here's my Birchbox Man selections:</p>
 <center><img src='/images/BirchboxEventLA2015L.jpg'></center>
@@ -69,14 +73,23 @@ date: 2015-09-01 14:29:39 -08:00
 
 <p>Besides building your own boxes, there were 2 areas where you can shop for Women or for Men. The Men's shop had a lot of lifestyle items so that was fun to browse.</p>
 
-<center><img src='/images/BirchboxEventLA2015D.jpg'></center>
+<center><img src='/images/BirchboxEventLA2015R.jpg'></center>
 <figcaption>The Men's Birchbox Shop</figcaption>
+
+<center><img src='/images/BirchboxEventLA2015D.jpg'></center>
+<figcaption>Lots of goodies to shop for!</figcaption>
 
 <center><img src='/images/BirchboxEventLA2015E.jpg'></center>
 <figcaption>You can also buy their special edition boxes!</figcaption>
 
 <br>
 
+<center><img src='/images/BirchboxEventLA2015Q.jpg'></center>
+<figcaption>The Women's Birchbox Shop</figcaption>
+
+<p>The items offered at the Women's shop were mostly makeup and skincare, and since I had tons of these already I didn't spend too much time there. I did get some products tested on me though by one of their beauty reps, so that was nice.</p>
+
+<br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This event was amazing! I bought both the Birchbox Man and Woman boxes, got another free Birchbox Man, a free scoop of yummy Sprinkles Vanilla ice cream, a free Dogeaered Wishbone necklace plus Birchbox points with my purchases! It was amazing to be able to build my own box, and granted there weren't that many choices to choose from, but I'm just lucky that I live in one of the cities that they visited, so lucky. I would definitely go again if they ever host such an event nearby. And btw, I did hear some whispers from the Birchbox reps that day that they might open up an LA store (second to the one in NYC) and I so hope that's true! How amazing would that be? YES PLEASE!!!</p>
 
