@@ -85,7 +85,7 @@ date: 2015-09-03 09:10:39 -08:00
 <center><img src='/images/LittleLaceBoxAugust2015Perfume.jpg'></center>
 
 <DL>
-<DT><a href="https://definemefragrance.com/defineme-harper.html" target="_blank">DefineMe Fragrance in Harper</DT>
+<DT><a href="https://definemefragrance.com/defineme-harper.html" target="_blank">DefineMe Fragrance in Harper</a></DT>
 <DD>Full Size 9ml/.3fl oz., Value $36</DD>
 </DL>
 
