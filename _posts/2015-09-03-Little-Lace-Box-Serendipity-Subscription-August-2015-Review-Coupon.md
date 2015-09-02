@@ -59,7 +59,7 @@ date: 2015-09-03 09:10:39 -08:00
 <center><img src='/images/LittleLaceBoxAugust2015Vase.jpg'></center>
 
 <DL>
-<DT>San Diego Hat Co. - The Packable Summer Hat in Black & White Stripes</DT>
+<DT>Elizabeth & Mr. Darcy Flower Vase by Mary Rose Young</DT>
 <DD>Value $124</DD>
 </DL>
 
