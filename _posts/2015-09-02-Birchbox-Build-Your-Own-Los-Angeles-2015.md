@@ -103,7 +103,7 @@ date: 2015-09-02 09:29:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This event was amazing! I bought both the Birchbox Man and Woman boxes, got another free Birchbox Man, a free scoop of yummy Sprinkles Vanilla ice cream, a free Dogeaered Wishbone necklace plus Birchbox points with my purchases! It was amazing to be able to build my own box, and granted there weren't that many choices to choose from, but I'm just lucky that I live in one of the cities that they visited, so lucky. I would definitely go again if they ever host such an event nearby. And btw, I did hear some whispers from the Birchbox reps that day that they might open up an LA store (second to the one in NYC) and I so hope that's true! How amazing would that be? YES PLEASE!!!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This event was amazing! I bought both the Birchbox Man and Woman boxes, got another free Birchbox Man, a free scoop of yummy Sprinkles Vanilla ice cream, a free Dogeared Wishbone necklace plus Birchbox points with my purchases! It was amazing to be able to build my own box, and granted there weren't that many choices to choose from, but I'm just lucky that I live in one of the cities that they visited, so lucky. I would definitely go again if they ever host such an event nearby. And btw, I did hear some whispers from the Birchbox reps that day that they might open up an LA store (second to the one in NYC) and I so hope that's true! How amazing would that be? YES PLEASE!!!</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box. Plus get a free gift with your subscription, see details below:</p>
 
