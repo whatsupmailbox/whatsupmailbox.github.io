@@ -50,13 +50,13 @@ date: 2015-09-03 09:10:39 -08:00
 
 ## And here are the items for this month's LLB & Serendipity:
 
-<center><img src='/images/LittleLaceBoxAugust2015Items.jpg'></center>
+<center><img src='/images/LLBAugust2015Items.jpg'></center>
 
 <p>It doesn't seem like there's a lot of items for 2 subs, but more on that later.</p>
 
 <H4>Items in detail:</H4>
 
-<center><img src='/images/LLBAugust2015Vase.jpg'></center>
+<center><img src='/images/LittleLaceBoxAugust2015Vase.jpg'></center>
 
 <DL>
 <DT>San Diego Hat Co. - The Packable Summer Hat in Black & White Stripes</DT>
