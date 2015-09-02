@@ -33,7 +33,7 @@ date: 2015-09-02 09:29:39 -08:00
 <p>There was absolutely no line for Birchbox Man, so I went to that one first while my girlfriend stood in line for the women's one.</p>
 
 <center><img src='/images/BirchboxEventLA2015S.jpg'></center>
-<p>As expected, you get to choose 1 Lifestyle item, 1 Skincare, 1 Grooming, 1 Hair product and 1 Fragrance.</p>
+<p>As expected, you get to choose 1 Lifestyle item, 1 Hair product, 1 Grooming product, 1 Fragrance and 1 Skincare.</p>
 <br>
 
 <H4>Here's my Birchbox Man selections:</H4>
