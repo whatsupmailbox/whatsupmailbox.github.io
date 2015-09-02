@@ -113,7 +113,7 @@ date: 2015-09-03 09:10:39 -08:00
 <DD>Value $40</DD>
 </DL>
 
-<p>I've heard of this company before and had it in my list to try them out for some flower arrangements, but just never got around to it, so I'm happy I get to now. The flowers are freshly cut upon order and sourced from local growers. With that fact combined with reasonable pricing and great floral arrangements, this just might be my new go-to for my floral needs. I can't wait to use this gift card!</p>
+<p>I've heard of this company before and had it in my list to try them out for some flower arrangements, but just never got around to it, so I'm happy I get to now. The flowers are freshly cut upon order and sourced from eco-friendly farms. With that fact combined with their reasonable pricing, free shipping and great floral arrangements, this just might be my new go-to for floral arrangements. I can't wait to use this gift card!</p>
 <br>
 
 ## Serendipity Items
