@@ -46,7 +46,7 @@ date: 2015-09-02 09:29:39 -08:00
 
 <H4>Here's my FREE Birchbox Man:</H4>
 <center><img src='/images/BirchboxEventLA2015K.jpg'></center>
-<p>The free boxes were chosen randomly so you didn't know what you get until you open it up. Turns out I got the January 2015 box which included ANOTHER earphones, lol!<p>
+<p>The free boxes were chosen randomly so you didn't know what you get until you open it up. Turns out I got the January 2015 box which included ANOTHER earphone, lol!<p>
 
 <p>Back to my timeline. After purchasing the men's box, I went back in line to join my girlfriend and it wasn't long before we were in front to build our own Birchbox, yay!</p>
 
