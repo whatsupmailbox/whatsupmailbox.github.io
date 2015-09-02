@@ -164,7 +164,13 @@ date: 2015-09-03 09:10:39 -08:00
 <p>My hair has been feeling quite dry lately. I haven't colored it in awhile but I think my frequent swimming in the ocean/pool plus the summer sun has done a number on it. This hair reconstructor promises to restore and strengthen your hair again with the added bonus of shine and volume. It's 100% vegan made with plant proteins and enriched with Pro Vitamin B5 for extra moisture. My hair needs this ASAP!</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Sadly this month was a miss for me. For the Little Lace Box, although the value is quite high, most of it went to the vase which is an item that not everyone would love. I think a high value item should be something that's more streamlined and accepted by their audience. For Serendipity, the items were less than stellar especially when compared to the previous one. You can read my July Serendipity review here. I think the only items I'll be using from this box is the bouqs.com gift card and the tea steaper. Everything else will most likely be gifted or traded. I still love LLB, no love lost here, it's just that this month's theme and items were not my cup of tea. Looking at the theme for the next box which is "XXXXX", I think that might fit me better and hopefully curated better.</p>
+<p>And to wrap things up, here's the theme for October's Little Lace Box:</p>
+<center><img src='/images/LittleLaceBoxAugust2015OctTheme.jpg'></center>
+
+<p>Whenever the word Fashion gets quoted, I'm interested and hooked, so needless to say I'm so excited for the next box!</p>
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I hate to say this but sadly this month was a miss for me. The Little Lace Box, although the value is quite high, most of it went to the vase which is an item that I didn't really love. I did love the Serendipity items though and that was a hit for me. I'll use everything from Serendipity but for LLB, I think the only items I'll be using is the Bouqs voucher and perfume. Everything else will most likely be gifted or traded. I still love LLB, no love lost there, it's just that this month's theme and items were not my cup of tea. Looking at the theme for October's box which is "Authentic Autumn - Be your authentic self" sounds promising, especially since fashion was quoted and that always gets my attention. Looking forward to receiving that box and hopefully September's Serendipity won't get delayed again.</p>
 
 <p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in August, and the theme for that box is "Elizabeth and Mr. Darcy". And don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
 
