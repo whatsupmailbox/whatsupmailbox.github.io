@@ -106,10 +106,10 @@ date: 2015-09-03 09:10:39 -08:00
 <p>This lotion has 30% shea butter, so it's uber rich in moisturization and will most likely be used in the winter for me.</p>
 <br>
 
-<center><img src='/images/LittleLaceBoxJune2015Bouqs.jpg'></center>
+<center><img src='/images/LittleLaceBoxAugust2015Bouqs.jpg'></center>
 
 <DL>
-<DT><a href="https://www.thebouqs.com" target=_"blank">Bouqs.com $40 Voucher</DT>
+<DT><a href="https://www.thebouqs.com" target=_"blank">Bouqs.com</a> $40 Voucher</DT>
 <DD>Value $40</DD>
 </DL>
 
