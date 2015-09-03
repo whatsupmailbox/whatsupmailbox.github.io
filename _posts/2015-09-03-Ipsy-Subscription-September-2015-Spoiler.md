@@ -14,7 +14,7 @@ date: 2015-09-03 11:20:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsySeptember2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
+<img src="/images/IpsySeptember2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Ipsy September 2015 Spoiler" />
 </a></center>
 
 <p>First Spoiler for <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> has been released today and you'll receive either a NYX eyeshadow trio or a Glamglow brightening mask!</p>
@@ -23,14 +23,14 @@ date: 2015-09-03 11:20:39 -08:00
 
 <p>And here's the September 2015 bag that you'll receive:</p>
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsySeptember2015Spoiler2.png" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
+<img src="/images/IpsySeptember2015Spoiler2.png" border="0" style="border:none;max-width:100%;" alt="Ipsy September 2015 Glam Bag" />
 </a></center>
 
 <p>How gorgeous!!! This might be my favorite bag yet, I love gold! Now I totally can't wait for my <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> bag to arrive!</p>
 
 <H4>What's Ipsy?</H4>
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
+<img src="/images/IpsyLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy Subscription" />
 </a></center>
 <p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
 <p><b>Cost:</b> $10/monthly + Free Shipping</p>
