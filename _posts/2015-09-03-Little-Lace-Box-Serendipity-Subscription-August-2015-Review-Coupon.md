@@ -109,7 +109,7 @@ date: 2015-09-03 09:30:39 -08:00
 <center><img src='/images/LittleLaceBoxAugust2015Bouqs.jpg'></center>
 
 <DL>
-<DT><a href="https://www.thebouqs.com" target=_"blank">Bouqs.com</a> $40 Voucher</DT>
+<DT><a href="https://www.thebouqs.com" target="_blank">Bouqs.com</a> $40 Voucher</DT>
 <DD>Value $40</DD>
 </DL>
 
