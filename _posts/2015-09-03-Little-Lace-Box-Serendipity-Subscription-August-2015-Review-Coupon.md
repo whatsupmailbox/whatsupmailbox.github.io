@@ -129,7 +129,7 @@ date: 2015-09-03 09:30:39 -08:00
 <DD>Value $5.95</DD>
 </DL>
 
-<p>I love tea, mostly hot but during the summer I'll drink them cold. These are great for making cold teas in a jiffy and without the hassle too. This will definitely be put into good use!</p>
+<p>I love tea, mostly hot but during the summer I'll drink them cold. These are great for making cold teas in a jiffy and without the hassle too. You just put loose tea into a water bottle, fill it up with cold water, insert the Steep & Go, shake the bottle to let the tea steep, wait a few minutes and voila, cold brewed tea! This will definitely be put into good use!</p>
 <br>
 
 <center><img src='/images/LittleLaceBoxAugust2015Tea.jpg'></center>
