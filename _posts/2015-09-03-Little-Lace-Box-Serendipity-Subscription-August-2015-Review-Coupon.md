@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: LLBAugust2015Items.jpg
 headline: Little Lace Box & Serendipity August 2015 Review + Coupon!
 tags: [Little Lace Box, Serendipity, Subscriptions, Reviews, August 2015]
-date: 2015-09-03 09:10:39 -08:00
+date: 2015-09-03 09:30:39 -08:00
 ---
 
 <center><img src='/images/LittleLaceBoxAugust2015Box.jpg'></center>
