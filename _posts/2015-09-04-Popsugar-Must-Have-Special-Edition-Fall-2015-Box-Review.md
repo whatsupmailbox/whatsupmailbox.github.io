@@ -179,7 +179,7 @@ date: 2015-09-04 09:01:39 -08:00
 <p>This box is a one-time purchase and is no longer available, but if you want to try out their monthly edition, you can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> and you'll start with their October box (September is sold out!). And you can also use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
