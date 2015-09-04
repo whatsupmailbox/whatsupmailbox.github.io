@@ -11,7 +11,7 @@ categories:
   - Products
   - Reviews
 type: photo
-imagefeature: "PopsugarFall2015Items.jpg"
+imagefeature: "PopsugarSEFall2015Items.jpg"
 date: 2015-09-04 09:01:39 -08:00
 ---
 
@@ -22,6 +22,20 @@ date: 2015-09-04 09:01:39 -08:00
 <br>
 
 <p>I was pleasantly surprised to be receiving my Popsugar Special Edition box today, I just had to open it up right away!</p>
+
+<center><img src='/images/PopsugarSEFall2015OpenBox.jpg'></center>
+<figcaption>First look at unboxing, "Enjoy"</figcaption>
+<br>
+
+<center><img src='/images/PopsugarSEFall2015OpenBox2.jpg'></center>
+<figcaption>All the items are individually packaged</figcaption>
+<br>
+
+<H4>And here are the items in the Popsugar Special Edition Fall 2015 Box:</H4>
+<center><img src='/images/PopsugarSEFall2015Items.jpg'></center>
+<br>
+
+<H4>Items in detail:</H4>
 
 <center><img src='/images/PopsugarSEFall2015Necklace5.jpg'></center>
 
