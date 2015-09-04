@@ -14,6 +14,10 @@ tags: [Brode, Products, Reviews]
 date: 2015-09-05 09:38:39 -08:00
 ---
 
+<center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
+<img src="/images/BrodeFront.jpg" border="0" style="border:none;max-width:100%;" alt="Brode Electrolyte Vitamins" />
+</a></center>
+<figcaption>Brode 10-pack</figcaption>
 <p><b>Product:</b> <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">Brode Electrolyte Vitamins</a></p>
 <p><b>Cost:</b> $24.95 for the 10-pack (taxes apply to CA)</p>
 <p><b>Where to buy:</b> <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">Brode.co</a></p>
@@ -28,11 +32,6 @@ date: 2015-09-05 09:38:39 -08:00
 <p>This is how you receive your Brode shipments in the mail. A white padded envelope with their brand stamping on it.</p>
 
 <p>They also ship pretty fast. Shipping is done through USPS First Class and it took only 2 days to get to me from New York.</p>
-
-<center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
-<img src="/images/BrodeFront.jpg" border="0" style="border:none;max-width:100%;" alt="Brode Electrolyte Vitamins" />
-</a></center>
-<figcaption>Brode 10-pack</figcaption>
 <br>
 
 <center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
