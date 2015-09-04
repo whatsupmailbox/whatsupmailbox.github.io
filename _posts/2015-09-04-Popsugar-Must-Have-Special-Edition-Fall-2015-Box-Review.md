@@ -40,7 +40,7 @@ date: 2015-09-04 09:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSEFall2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Open Box 2" />
 </a></center>
-<figcaption>All the items are individually packaged</figcaption>
+<figcaption>All the items are individually packed</figcaption>
 <br>
 
 <H4>And here are the items in the Popsugar Special Edition Fall 2015 Box:</H4>
