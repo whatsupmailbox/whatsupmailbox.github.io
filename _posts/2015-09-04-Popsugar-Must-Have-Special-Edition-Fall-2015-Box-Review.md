@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have Special Edition Fall 2015 Box Review!"
 tags: [Popsugar Must Have, Products, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
@@ -15,32 +15,45 @@ imagefeature: "PopsugarSEFall2015Items.jpg"
 date: 2015-09-04 09:01:39 -08:00
 ---
 
-<center><img src='/images/PopsugarSEFall2015Box.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Box" />
+</a></center>
+
 <p><b>Box:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
 <p><b>Cost:</b> $100 + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> A special curation of Fall's hottest essentials. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been double at the least.</p>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Package.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Package" />
+</a></center>
 <p>Popsugar Special Edition boxes get shipped in non-marked brown boxes. This way no one knows that you have a $100 box at your front doorstep ;)</p>
 
 <p>I was pleasantly surprised to be receiving my Popsugar Special Edition box today, I just had to open it up right away!</p>
 
-<center><img src='/images/PopsugarSEFall2015OpenBox.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Open Box" />
+</a></center>
 <figcaption>First look at unboxing, "Enjoy!"</figcaption>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015OpenBox2.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Open Box 2" />
+</a></center>
 <figcaption>All the items are individually packaged</figcaption>
 <br>
 
 <H4>And here are the items in the Popsugar Special Edition Fall 2015 Box:</H4>
-<center><img src='/images/PopsugarSEFall2015Items2.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Items" />
+</a></center>
 <br>
 
 <H4>Items in detail:</H4>
 
-<center><img src='/images/PopsugarSEFall2015Necklace5.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Necklace5.jpg" border="0" style="border:none;max-width:100%;" alt="Deepa Gurnani Necklace" />
+</a></center>
 
 <DL>
 <DT><a href="http://deepagurnani.com/jewelry/necklace/empress-crown-necklace-786.html?___SID=U" target="_blank">Deepa Gurnani Aria Necklace</a></DT>
@@ -51,14 +64,20 @@ date: 2015-09-04 09:01:39 -08:00
 
 <p>Deepa Gurnani was founded by a husband and wife duo, both with Fashion and Design backgrounds. I love the design on this necklace, so blingy yet classy at the same time. Definitely a statement necklace!</p>
 
-<center><img src='/images/PopsugarSEFall2015Necklace2.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Necklace2.jpg" border="0" style="border:none;max-width:100%;" alt="Deepa Gurnani Necklace" />
+</a></center>
 <p>This necklace is handmade in India so every piece is unique.</p>
 
-<center><img src='/images/PopsugarSEFall2015Necklace.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Necklace.jpg" border="0" style="border:none;max-width:100%;" alt="Deepa Gurnani Necklace" />
+</a></center>
 
 <p>I love that this necklace came with a unique traditional Indian design jewelry pouch. I believe there are variations of the color and pattern. It's also quite big and roomy so you can use it for other types of storage too.</p>
 
-<center><img src='/images/PopsugarSEFall2015Necklace3.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Necklace3.jpg" border="0" style="border:none;max-width:100%;" alt="Deepa Gurnani Necklace" />
+</a></center>
 <figcaption>The back of the necklace</figcaption>
 <br>
 
@@ -68,14 +87,18 @@ date: 2015-09-04 09:01:39 -08:00
 
 <br>
 
-<figure class='half'>
-      <img src='/images/PopsugarSEFall2015Becca.jpg'>
-      <img src='/images/PopsugarSEFall2015Becca2.jpg'>
-      <figcaption>Becca Ombre Rouge Eye Palette</figcaption>
-</figure>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Becca.jpg" border="0" style="border:none;max-width:100%;" alt="Becca Ombre Nude Eye Palette" />
+</a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Becca2.jpg" border="0" style="border:none;max-width:100%;" alt="Becca Ombre Nude Eye Palette" />
+</a></center>
+<figcaption>Becca Ombre Rouge Eye Palette</figcaption>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Becca3.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Becca3.jpg" border="0" style="border:none;max-width:100%;" alt="Becca Ombre Nude Eye Palette" />
+</a></center>
 <figcaption>Matte neutral colors in the palette</figcaption>
 <br>
 
@@ -89,8 +112,12 @@ date: 2015-09-04 09:01:39 -08:00
 <p>These shadows are infused with green coffee oil, which awakens the eyes and smooth the lids, while a built-in priming effect extends the wear of your shadow. It can also be used wet or dry as an eyeliner. I love using eyeshadows as eyeliner, it tends to last longer on my oily/combination skin versus using eye pencils alone.</p>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Coasters2.jpg'></center>
-<center><img src='/images/PopsugarSEFall2015Coasters.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Coasters2.jpg" border="0" style="border:none;max-width:100%;" alt="Canvas Home Dauville Coasters in Platinum" />
+</a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Coasters.jpg" border="0" style="border:none;max-width:100%;" alt="Canvas Home Dauville Coasters in Platinum" />
+</a></center>
 <DL>
 <DT><a href="http://www.canvashomestore.com/products/dauville-coasters-in-platinum" target="_blank">Canvas Home Dauville Coasters in Platinum</a></DT>
 <DD>Value $46</DD>
@@ -99,7 +126,9 @@ date: 2015-09-04 09:01:39 -08:00
 <p>These coasters match the Canvas Home platinum bowl that was in the Popsugar December 2014 box! They fit perfectly with my home decor and to be honest, I think they'll match any decor. Their handmade and hand-painted porcelain coasters that are glazed with platinum for that extra modern chic look. Love it!</p>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Tray.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Tray.jpg" border="0" style="border:none;max-width:100%;" alt="Swing Design Aura Lacquer Valet Tray in Aquamarine" />
+</a></center>
 <DL>
 <DT><a href="http://www.swingdesign.com/products/aura-lacquer-valet-tray-aquamarine-5x12" target="_blank">Swing Design Aura Lacquer Valet Tray in Aquamarine</a></DT>
 <DD>Size 5 x 12 inches, Value $60 (listed at $54)</DD>
@@ -108,12 +137,18 @@ date: 2015-09-04 09:01:39 -08:00
 <p>Popsugar undervalued these! This tray is also available in Bloomingdales and you know they only carry quality stuff so that's a good sign ;) I love this tray, it's just like the coasters, so chic and modern! I've already put it on my work desk and set a diffuser and candle on top of it, so gorgeous!</p>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Face2.jpg'></center>
-<center><img src='/images/PopsugarSEFall2015Face3.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Face2.jpg" border="0" style="border:none;max-width:100%;" alt="Tatcha Polished Rice Enzyme Powder" />
+</a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Face3.jpg" border="0" style="border:none;max-width:100%;" alt="Tatcha Polished Rice Enzyme Powder" />
+</a></center>
 <figcaption>The box slides out to reveal the bottle inside</figcaption>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Face.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Face.jpg" border="0" style="border:none;max-width:100%;" alt="Tatcha Polished Rice Enzyme Powder" />
+</a></center>
 <DL>
 <DT><a href="https://www.tatcha.com/shop/rice-enzyme-powder-gp" target="_blank">Tatcha Polished Rice Enzyme Powder</a></DT>
 <DD>Full Size 60g / 2.1 oz., Value $65</DD>
@@ -126,7 +161,9 @@ date: 2015-09-04 09:01:39 -08:00
 <p>Exfoliators are a must in my beauty regimen. It keeps my skin smooth and radiant. Although I've never used a powder form of exfoliator before, I've read so many great reviews of this particular product that I can't wait to try it. The price is also not too steep in case I did like it and need to buy some more so that's a relief. I think this is a great item to include for fall, preps our skin for winter!</p>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Nail.jpg'></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Nail.jpg" border="0" style="border:none;max-width:100%;" alt="Smith & Cult Nail Lacquer in No Poem" />
+</a></center>
 <DL>
 <DT><a href="http://www.smithandcult.com/nailed-lacquer.html" target="_blank">Smith & Cult</a> Nail Lacquer in No Poem</DT>
 <DD>Full Size 14 ml/0.5 fl.oz, Value $18</DD>
