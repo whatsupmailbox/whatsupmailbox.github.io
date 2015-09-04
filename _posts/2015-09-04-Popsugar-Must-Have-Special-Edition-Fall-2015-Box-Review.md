@@ -216,7 +216,7 @@ date: 2015-09-04 09:01:39 -08:00
       <TD><b><big>$319</big></b></TD>
    </TR>
    <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>Box Cost</big></i></TD>
       <TD><i><big>$100</big></i></TD>
    </TR>
 </TABLE>
