@@ -11,7 +11,7 @@ categories:
   - Products
   - Reviews
 type: photo
-imagefeature: "PopsugarSEFall2015Items.jpg"
+imagefeature: "PopsugarSEFall2015Items2.jpg"
 date: 2015-09-04 09:01:39 -08:00
 ---
 
