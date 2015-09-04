@@ -11,7 +11,7 @@ categories:
   - Products
   - Reviews
 type: photo
-imagefeature: "PopsugarSEFall2015Items2.jpg"
+imagefeature: "PopsugarSEFall2015Items.jpg"
 date: 2015-09-04 09:01:39 -08:00
 ---
 
@@ -45,7 +45,7 @@ date: 2015-09-04 09:01:39 -08:00
 
 <H4>And here are the items in the Popsugar Special Edition Fall 2015 Box:</H4>
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSEFall2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Items" />
+<img src="/images/PopsugarSEFall2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Fall 2015 Items" />
 </a></center>
 <br>
 
