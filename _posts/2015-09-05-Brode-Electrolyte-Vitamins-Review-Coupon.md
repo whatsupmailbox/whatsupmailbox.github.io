@@ -40,4 +40,10 @@ date: 2015-09-05 09:38:39 -08:00
 
 <p>I'm actually subscribed to their monthly delivery of 10-packs and it brings the cost down to $18.97 versus $24.97. It includes Free Shipping as always plus you can cancel at anytime, no commitments needed. Such a great value and to tell you the truth, 10 packs is sometimes not enough since my husband discovered how great they are as well. Sigh, I should've kept it a secret from him ;)</p>
 
+<center><img src="/images/BrodeKoozies.jpg"></center>
+</figcaption>Free Koozies with Purchase</figcaption>
+<br>
+
+<p>I don't know how long this will last, but I received Free Brode Koozies with my purchase. During checkout I got to specify how many Koozies I wanted and I chose 2 (I didn't want to be greedy here, lol). They're so cute and I surely will be using these to preach how good Brode is!</p>
+
 <p>I truly can't say enough good things about this magic pill and I think you'd just have to try it out yourselves to see what I'm talking about. Plus if you click on this link, you'll get $5 off a 10-pack of Brode (regularly $24.97) or you can always just try a single pouch that has 1 pill, no matter what you buy you'll always receive Free Shipping, so no added cost there. I totally recommend them and hope you find them to be just as great as I did! =)</p>
