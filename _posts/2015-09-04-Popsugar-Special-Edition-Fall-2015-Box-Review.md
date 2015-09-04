@@ -24,7 +24,7 @@ date: 2015-09-04 09:01:39 -08:00
 <center><H4>The theme for this summer is "Set Sail With The Season's Hottest Essentials".</H4></center>
 <br>
 
-<center><img src='/images/PopsugarSEFall2015Necklace.jpg'></center>
+<center><img src='/images/PopsugarSEFall2015Necklace5.jpg'></center>
 
 <DL>
 <DT><a href="http://deepagurnani.com/jewelry/necklace/empress-crown-necklace-786.html?___SID=U" target="_blank">Deepa Gurnani Aria Necklace</a></DT>
@@ -33,16 +33,20 @@ date: 2015-09-04 09:01:39 -08:00
 
 <p>Details on the necklace: "100% Cotton, Woven, Embroidered w/ Resin Beads, Brass Chain, Metallic Thread & 100% Cow Hide Backing"</p>
 
-<p>I love that this necklace came with a unique traditional Indian design jewelry pouch. It's actually quite big so you can use it for other types of storage too.</p>
+<p>Deepa Gurnani was founded by a husband and wife duo, both with Fashion and Design backgrounds. I love the design on this necklace, so blingy yet classy at the same time. Definitely a statement necklace!</p>
 
 <center><img src='/images/PopsugarSEFall2015Necklace2.jpg'></center>
 <p>This necklace is so gorgeous! It's handmade in India so every piece is unique, and you can definitely see and feel the high quality.</p>
 
-<center><img src='/images/PopsugarSEFall2015Necklace5.jpg'></center>
-<p>Deepa Gurnani was founded by a husband and wife duo, both with Fashion and Design backgrounds. I love the design on this necklace, so blingy yet classy at the same time.</p>
+<center><img src='/images/PopsugarSEFall2015Necklace.jpg'></center>
+
+<p>I love that this necklace came with a unique traditional Indian design jewelry pouch. I believe there are variations of the color and pattern, mine looks more like a batik style. And it's actually quite big so you can use it for other types of storage too.</p>
 
 <center><img src='/images/PopsugarSEFall2015Necklace3.jpg'></center>
-<p>It's actually really comfortable wearing it since the backing is cow hide with a velvet type of material feel. It falls on your chest flat, so comfortable. It's also not very heavy (my neck says "thank you!").</p>
+<p>Once I tried wearing it, it's actually really comfortable on since the backing is cow hide with a velvet type of material feel. It's soft and lays on your chest flat, so comfortable. It's also not very heavy (my neck says "thank you!").</p>
+
+<p>All in all, I'm not sure I would have paid $90 for this beautiful necklace myself, but to be getting it in this box makes it a deal and much appreciated!</p>
+
 <br>
 
 <figure class='half'>
@@ -85,7 +89,33 @@ date: 2015-09-04 09:01:39 -08:00
 <DD>Size 5 x 12 inches, Value $60 (listed at $54)</DD>
 </DL>
 
-<p>Popsugar undervalued these, that's a surprise. This tray is also available in Bloomingdales and you know they only carry the good stuff ;) I love this tray, it's just like the coasters, so chic and modern! I've already put it on my work desk and put a diffuser and candle on top of it, so gorgeous!</p>
+<p>Popsugar undervalued these! This tray is also available in Bloomingdales and you know they only carry quality stuff so that's a good sign ;) I love this tray, it's just like the coasters, so chic and modern! I've already put it on my work desk and set a diffuser and candle on top of it, so gorgeous!</p>
+<br>
+
+<center><img src='/images/PopsugarSEFall2015Face2.jpg'></center>
+<center><img src='/images/PopsugarSEFall2015Face3.jpg'></center>
+<center><img src='/images/PopsugarSEFall2015Face.jpg'></center>
+<DL>
+<DT><a href="https://www.tatcha.com/shop/rice-enzyme-powder-gp" target="_blank">Tatcha Polished Rice Enzyme Powder</a></DT>
+<DD>Full Size 60g / 2.1 oz., Value $65</DD>
+</DL>
+
+<p>"This creamy, water-activated enzyme powder effortlessly releases debris from skin, leaving it polished and baby soft in an instant. Optimally conditions skin to receive benefits of any treatment product used in conjunction with it. Functions as a 2-in-1 cleanser and toner for those not wearing makeup."</p>
+
+<p>Formulated without: Mineral Oil, Synthetic Colors, Synthetic Fragrances, Sulfate Detergents, Parabens, PEGs, PPGs, Urea, DEA, TEA or Phthalates.</p>
+
+<p>Exfoliators are a must in my beauty regimen. It keeps my skin smooth and radiant. Although I've never used a powder form of exfoliator before, I've read so many great reviews of this particular product that I can't wait to try it. The price is also not too steep in case I did like it and need to buy some more so that's a relief. I think this is a great item to include for fall, preps our skin for winter!</p>
+<br>
+
+<center><img src='/images/PopsugarSEFall2015Nail.jpg'></center>
+<DL>
+<DT><a href="http://www.smithandcult.com/nailed-lacquer.html" target="_blank">Smith & Cult</a> Nail Lacquer in No Poem</DT>
+<DD>Full Size 14 ml/0.5 fl.oz, Value $18</DD>
+</DL>
+
+<p>This nail polish is big and oh so pretty, so different than any other nail polish I have, how unique! I love the color too, perfect for fall. It was featured in <a href="http://thezoereport.com/beauty/nails/fall-2015-nail-polish-trend-report/" target="_blank">The Zoe Report</a> as one of "Fall's Most Wearable Nail Color Trends".</p>
+
+<p>Smith & Cult is a 5 Free nail polish and the color No Poem is a dark navy greyish color. It's very opaque and I found that 1 coat was more than adequate. The nail polish applicator is quite big due to the large size of the bottle itself, so application was somewhat weird for me at first but after 2 nails I got the hang of it. It's actually quite comfortable gripping it after awhile since there's curves and ridges for your fingers. Beautiful bottle and color, I am now tempted to buy more from them!</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was so beautiful and elegant, I'm glad I splurged and purchased it. Definitely items I would have purchased on my own and the total value was also amazing, triple the cost! Every item was gorgeous in its own way and I love the theme of white that was incorporated here, so modern and chic. Another great special edition box by <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a>, yay!</p>
