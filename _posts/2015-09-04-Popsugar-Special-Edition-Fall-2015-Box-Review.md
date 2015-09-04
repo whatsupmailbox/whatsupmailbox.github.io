@@ -23,7 +23,6 @@ date: 2015-09-04 09:01:39 -08:00
 
 <center><img src='/images/PopsugarSEFall2015Package.jpg'></center>
 <p>Popsugar Special Edition boxes get shipped in non-marked brown boxes. This way no one knows that you have a $100 box at your front doorstep ;)</p>
-<br>
 
 <p>I was pleasantly surprised to be receiving my Popsugar Special Edition box today, I just had to open it up right away!</p>
 
