@@ -52,7 +52,7 @@ date: 2015-09-04 09:01:39 -08:00
 <p>Deepa Gurnani was founded by a husband and wife duo, both with Fashion and Design backgrounds. I love the design on this necklace, so blingy yet classy at the same time. Definitely a statement necklace!</p>
 
 <center><img src='/images/PopsugarSEFall2015Necklace2.jpg'></center>
-<p>This necklace is so gorgeous! It's handmade in India so every piece is unique, and you can definitely see and feel the high quality.</p>
+<p>This necklace is handmade in India so every piece is unique.</p>
 
 <center><img src='/images/PopsugarSEFall2015Necklace.jpg'></center>
 
