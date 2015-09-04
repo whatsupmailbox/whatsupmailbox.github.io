@@ -107,6 +107,9 @@ date: 2015-09-04 09:01:39 -08:00
 
 <center><img src='/images/PopsugarSEFall2015Face2.jpg'></center>
 <center><img src='/images/PopsugarSEFall2015Face3.jpg'></center>
+<figcaption>The box slided out to reveal the bottle inside</figcaption>
+<br>
+
 <center><img src='/images/PopsugarSEFall2015Face.jpg'></center>
 <DL>
 <DT><a href="https://www.tatcha.com/shop/rice-enzyme-powder-gp" target="_blank">Tatcha Polished Rice Enzyme Powder</a></DT>
