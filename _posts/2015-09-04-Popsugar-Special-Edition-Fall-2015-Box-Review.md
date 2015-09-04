@@ -35,7 +35,7 @@ date: 2015-09-04 09:01:39 -08:00
 <br>
 
 <H4>And here are the items in the Popsugar Special Edition Fall 2015 Box:</H4>
-<center><img src='/images/PopsugarSEFall2015Items.jpg'></center>
+<center><img src='/images/PopsugarSEFall2015Items2.jpg'></center>
 <br>
 
 <H4>Items in detail:</H4>
