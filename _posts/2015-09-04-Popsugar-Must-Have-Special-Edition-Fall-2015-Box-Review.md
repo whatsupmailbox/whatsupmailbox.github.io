@@ -177,6 +177,7 @@ date: 2015-09-04 09:01:39 -08:00
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was so beautiful and elegant, I'm glad I splurged and purchased it. Definitely items I would have purchased on my own and the total value was also amazing, triple the cost! Every item was gorgeous in its own way and I love the theme of white that was incorporated here, so modern and chic. Another great special edition box by <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a>, yay!</p>
 
 <p>This box is a one-time purchase and is no longer available, but if you want to try out their monthly edition, you can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> and you'll start with their October box (September is sold out!). And you can also use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<br>
 
 <TABLE  BORDER="5" style="width:75%">
    <TR>
