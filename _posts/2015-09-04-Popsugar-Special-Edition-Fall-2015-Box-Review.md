@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have Special Edition Fall 2015 Box Review!"
 tags: [Popsugar Must Have, Products, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
