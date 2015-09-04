@@ -171,6 +171,10 @@ date: 2015-09-04 09:01:39 -08:00
 
 <p>This nail polish is big and oh so pretty, so different than any other nail polish I have, how unique! I love the color too, perfect for fall. It was featured in <a href="http://thezoereport.com/beauty/nails/fall-2015-nail-polish-trend-report/" target="_blank">The Zoe Report</a> as one of "Fall's Most Wearable Nail Color Trends".</p>
 
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Nail2.jpg" border="0" style="border:none;max-width:100%;" alt="Smith & Cult Nail Lacquer in No Poem" />
+</a></center>
+
 <p>Smith & Cult is a 5 Free nail polish and the color No Poem is a dark navy greyish color. It's very opaque and I found that 1 coat was more than adequate. The nail polish applicator is quite big due to the large size of the bottle itself, so application was somewhat weird for me at first but after 2 nails I got the hang of it. It's actually quite comfortable gripping it after awhile since there's curves and ridges for your fingers. With such a beautiful bottle and color, I'm totally going to buy more!</p>
 <br>
 
