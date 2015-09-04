@@ -70,9 +70,6 @@ date: 2015-09-04 09:01:39 -08:00
 <br>
 
 <center><img src='/images/PopsugarSEFall2015Coasters2.jpg'></center>
-<figcaption>Canvas Home Dauville Platinum Coasters Packaging</figcaption>
-<br>
-
 <center><img src='/images/PopsugarSEFall2015Coasters.jpg'></center>
 <DL>
 <DT><a href="http://www.canvashomestore.com/products/dauville-coasters-in-platinum" target="_blank">Canvas Home Dauville Coasters in Platinum</a></DT>
