@@ -39,12 +39,12 @@ date: 2015-09-04 09:01:39 -08:00
 
 <center><img src='/images/PopsugarSEFall2015Necklace.jpg'></center>
 
-<p>I love that this necklace came with a unique traditional Indian design jewelry pouch. I believe there are variations of the color and pattern, mine looks more like a batik style. And it's actually quite big so you can use it for other types of storage too.</p>
+<p>I love that this necklace came with a unique traditional Indian design jewelry pouch. I believe there are variations of the color and pattern. It's also quite big and roomy so you can use it for other types of storage too.</p>
 
 <center><img src='/images/PopsugarSEFall2015Necklace3.jpg'></center>
-<p>Once I tried wearing it, it's actually really comfortable on since the backing is cow hide with a velvet type of material feel. It's soft and lays on your chest flat, so comfortable. It's also not very heavy (my neck says "thank you!").</p>
+<p>The necklace is really comfortable once it's on. This is due to the cow hide backing, it feels like a velvet type of material. It's soft and lays on your chest flat, so comfortable. It's also not very heavy (my neck says "thank you!").</p>
 
-<p>All in all, I'm not sure I would have paid $90 for this beautiful necklace myself, but to be getting it in this box makes it a deal and much appreciated!</p>
+<p>I'm not sure I would have paid $90 for this beautiful necklace myself, but to be getting it in this box makes it a deal and much appreciated!</p>
 
 <br>
 
@@ -76,7 +76,7 @@ date: 2015-09-04 09:01:39 -08:00
 <DD>Value $46</DD>
 </DL>
 
-<p>These coasters match the Canvas Home platinum bowl that was in the Popsugar January 2015 box! They fit perfectly with my home decor and to be honest, I think they'll match any decor. Their handmade and hand-painted porcelain coasters that are glazed with platinum for that extra modern chic look. Love it!</p>
+<p>These coasters match the Canvas Home platinum bowl that was in the Popsugar December 2014 box! They fit perfectly with my home decor and to be honest, I think they'll match any decor. Their handmade and hand-painted porcelain coasters that are glazed with platinum for that extra modern chic look. Love it!</p>
 <br>
 
 <center><img src='/images/PopsugarSEFall2015Tray.jpg'></center>
