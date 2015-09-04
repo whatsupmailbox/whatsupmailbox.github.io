@@ -27,7 +27,7 @@ date: 2015-09-04 09:01:39 -08:00
 <p>I was pleasantly surprised to be receiving my Popsugar Special Edition box today, I just had to open it up right away!</p>
 
 <center><img src='/images/PopsugarSEFall2015OpenBox.jpg'></center>
-<figcaption>First look at unboxing, "Enjoy"</figcaption>
+<figcaption>First look at unboxing, "Enjoy!"</figcaption>
 <br>
 
 <center><img src='/images/PopsugarSEFall2015OpenBox2.jpg'></center>
