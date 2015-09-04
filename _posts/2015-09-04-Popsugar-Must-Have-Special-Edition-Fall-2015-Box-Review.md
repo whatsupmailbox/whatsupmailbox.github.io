@@ -87,11 +87,13 @@ date: 2015-09-04 09:01:39 -08:00
 
 <br>
 
-<figure class='half'>
-      <img src='/images/PopsugarSEFall2015Becca.jpg'>
-      <img src='/images/PopsugarSEFall2015Becca2.jpg'>
-      <figcaption>Becca Ombre Rouge Eye Palette</figcaption>
-</figure>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Becca.jpg" border="0" style="border:none;max-width:100%;" alt="Becca Ombre Nude Eye Palette" />
+</a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEFall2015Becca2.jpg" border="0" style="border:none;max-width:100%;" alt="Becca Ombre Nude Eye Palette" />
+</a></center>
+<figcaption>Becca Ombre Rouge Eye Palette</figcaption>
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
