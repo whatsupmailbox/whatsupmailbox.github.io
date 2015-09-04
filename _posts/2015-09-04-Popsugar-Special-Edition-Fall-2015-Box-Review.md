@@ -107,7 +107,7 @@ date: 2015-09-04 09:01:39 -08:00
 
 <center><img src='/images/PopsugarSEFall2015Face2.jpg'></center>
 <center><img src='/images/PopsugarSEFall2015Face3.jpg'></center>
-<figcaption>The box slided out to reveal the bottle inside</figcaption>
+<figcaption>The box slides out to reveal the bottle inside</figcaption>
 <br>
 
 <center><img src='/images/PopsugarSEFall2015Face.jpg'></center>
