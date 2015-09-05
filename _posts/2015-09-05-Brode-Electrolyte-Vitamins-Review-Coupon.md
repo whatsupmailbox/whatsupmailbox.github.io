@@ -1,17 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 title: Brode Electrolyte Vitamins + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BrodeArt.jpg
+imagefeature: BrodeArt2.jpg
 categories: 
   - Products
   - Reviews
 headline: Brode Electrolyte Vitamins + Coupon!
 tags: [Brode, Products, Reviews]
-date: 2015-09-05 09:38:39 -08:00
+date: 2015-09-05 10:38:39 -08:00
 ---
 
 <center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
