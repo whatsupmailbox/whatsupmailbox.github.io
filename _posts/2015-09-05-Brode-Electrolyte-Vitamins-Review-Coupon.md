@@ -31,7 +31,7 @@ date: 2015-09-05 10:38:39 -08:00
 </a></center>
 <p>This is how you receive your Brode shipments in the mail. A white padded envelope with their brand stamping on it.</p>
 
-<p>They also ship pretty fast. Shipping is done through USPS First Class and it took only 2 days to get to me from New York.</p>
+<p>They also ship pretty fast. Shipping is done through USPS First Class and it took only 2 days for me to receive it in Los Angeles from New York.</p>
 <br>
 
 <center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
