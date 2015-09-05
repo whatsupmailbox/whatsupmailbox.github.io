@@ -48,7 +48,7 @@ date: 2015-09-05 10:38:39 -08:00
 <center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
 <img src="/images/BrodeKoozies.jpg" border="0" style="border:none;max-width:100%;" alt="Free Brode Koozies!" />
 </a></center>
-</figcaption>Free Koozies with Purchase</figcaption>
+<figcaption>Free Koozies with Purchase</figcaption>
 <br>
 
 <p>I don't know how long this will last, but I received Free <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">Brode</a> Koozies with my purchase. During checkout I got to specify how many Koozies I wanted and I chose 2 (I didn't want to be greedy here, lol). They're so cute and I surely will be using these to preach how good Brode is!</p>
