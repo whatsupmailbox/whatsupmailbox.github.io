@@ -54,7 +54,7 @@ date: 2015-09-05 09:38:39 -08:00
 <p>I don't know how long this will last, but I received Free <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">Brode</a> Koozies with my purchase. During checkout I got to specify how many Koozies I wanted and I chose 2 (I didn't want to be greedy here, lol). They're so cute and I surely will be using these to preach how good Brode is!</p>
 
 <center><a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">
-<img src="/images/BrodeArt.jpg" border="0" style="border:none;max-width:100%;" alt="Brode keeps me happily hydrated!" />
+<img src="/images/BrodeArt2.jpg" border="0" style="border:none;max-width:100%;" alt="Brode keeps me happily hydrated!" />
 </a></center>
 <figcaption>Brode keeps me happily hydrated</figcaption>
 
