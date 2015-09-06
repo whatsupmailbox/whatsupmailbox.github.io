@@ -89,7 +89,12 @@ date: 2015-09-06 13:38:39 -08:00
 <DD>Travel Size, Value $</DD>
 </DL>
 
-<p>This cream is intended to be used at night and consists of a powerful formula for rapid cell repair that stops sagging and wrinkles in their tracks. My husband is quite low maintenance when it comes to skincare, he mostly focuses on grooming products. But as I always say, prevention is always better than correction so he'll definitely try this (or at least try to remember using it at night).</p>
+<p>This cream is intended to be used at night and consists of a powerful formula for rapid cell repair that stops sagging and wrinkles in their tracks.</p>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxManSep2015Lab2.jpg" border="0" style="border:none;max-width:100%;" alt="Lab Series MAX LS Age-less Power V Lifting Cream"/></a></center>
+
+<p>My husband is quite low maintenance when it comes to skincare, he mostly focuses on grooming products. But as I always say, prevention is always better than correction so he'll definitely try this (or at least try to remember using it at night).</p>
 
 <br>
 
