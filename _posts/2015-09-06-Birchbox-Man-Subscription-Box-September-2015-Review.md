@@ -46,7 +46,7 @@ date: 2015-09-06 13:38:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxManSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
+<img src="/images/BirchboxManSep2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
