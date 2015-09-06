@@ -22,7 +22,7 @@ date: 2015-09-06 13:38:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"></a>!</p>
 <br>
 
-<p>This month's box is themed "The Man from U.N.C.L.E." (the movie)</p>
+<p>This month's box is themed "The Man from U.N.C.L.E." (the movie).</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxManSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
