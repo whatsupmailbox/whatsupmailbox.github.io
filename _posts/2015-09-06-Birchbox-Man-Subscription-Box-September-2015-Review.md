@@ -163,6 +163,12 @@ date: 2015-09-06 13:38:39 -08:00
 <figcaption>11 uses of this tool</figcaption>
 <br>
 
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxManSep2015Tool3.jpg" border="0" style="border:none;max-width:100%;" alt="The Man From U.N.C.L.E. Promo Item"/></a></center>
+<figcaption>The tool upclose</figcaption>
+
+<br>
+
 <p>This 11-in-1 multitool will definitely come in handy for when we go camping, and I think in general it's such a useful tool to have for any guy. The size is also travel friendly, smaller than a credit card.</p>
 
 <br>
