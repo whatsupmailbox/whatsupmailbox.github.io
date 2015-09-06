@@ -175,3 +175,52 @@ date: 2015-09-06 13:38:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband absolutely LOVED this month's box. It had cool gadgets (earphones and 11-in-1 multitool) plus the skincare was a hit as well, such a great box! He was lucky enough to choose the earphones for his Sample Choice item and that alone has a value of $50! So it goes without saying how great this month's value was for us.</p>
 
+<p>If you're interested in subscribing, you can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box and get the cool 11-in-1 multi tool!</p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>LSTN earphoneson</TD>
+      <TD>$49.99</TD>
+   </TR>
+   <TR>
+      <TD>Lab Series Cream</TD>
+      <TD>$</TD>
+   </TR>
+    <TR>
+      <TD>CW Beggs and Sons Face Wash</TD>
+      <TD>$</TD>
+   </TR>
+    <TR>
+      <TD>Arquiste Aleksandr Perfume</TD>
+      <TD>$3</TD>
+   </TR>
+    <TR>
+      <TD>PLANT Body Wash</TD>
+      <TD>$2.50</TD>
+   </TR>
+   <TR>
+      <TD>V76 by Vaughn Shampoo & Conditioner</TD>
+      <TD>$1?</TD>
+   </TR>
+   <TR>
+      <TD>Clean Fun Multi Tool</TD>
+      <TD>$5.50</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$19</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$20</big></i></TD>
+   </TR>
+</TABLE>
