@@ -164,7 +164,7 @@ date: 2015-09-06 13:38:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxManSep2015Tool3.jpg" border="0" style="border:none;max-width:100%;" alt="The Man From U.N.C.L.E. Promo Item"/></a></center>
+<img src="/images/BirchboxManSep2015Tool2.jpg" border="0" style="border:none;max-width:100%;" alt="The Man From U.N.C.L.E. Promo Item"/></a></center>
 <figcaption>The tool upclose</figcaption>
 
 <br>
@@ -172,3 +172,6 @@ date: 2015-09-06 13:38:39 -08:00
 <p>This 11-in-1 multitool will definitely come in handy for when we go camping, and I think in general it's such a useful tool to have for any guy. The size is also travel friendly, smaller than a credit card.</p>
 
 <br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband absolutely LOVED this month's box. It had cool gadgets (earphones and 11-in-1 multitool) plus the skincare was a hit as well, such a great box! He was lucky enough to choose the earphones for his Sample Choice item and that alone has a value of $50! So it goes without saying how great this month's value was for us.</p>
+
