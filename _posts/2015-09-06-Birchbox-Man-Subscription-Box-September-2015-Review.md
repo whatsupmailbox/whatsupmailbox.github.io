@@ -15,7 +15,7 @@ date: 2015-09-06 13:38:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSeptember2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015 Package"/></a></center>
+<img src="/images/BirchboxSep2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015 Package"/></a></center>
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a></p>
 <p><b>Cost:</b> $20/monthly (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
@@ -25,7 +25,7 @@ date: 2015-09-06 13:38:39 -08:00
 <p>This month's box is themed "The Man from U.N.C.L.E." (the movie)</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSeptember2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
+<img src="/images/BirchboxSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
@@ -46,7 +46,7 @@ date: 2015-09-06 13:38:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSeptember2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
+<img src="/images/BirchboxSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Man September 2015"/></a></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
