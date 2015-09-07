@@ -156,7 +156,7 @@ date: 2015-09-07 10:38:39 -08:00
 <img src="/images/BirchboxManSep2015Tool.jpg" border="0" style="border:none;max-width:100%;" alt="The Man From U.N.C.L.E. Promo Item"/></a></center>
 
 <DL>
-<DT>The Man From</DT>
+<DT>The Man From U.N.C.L.E. Promo Item</DT>
 <DD>Value $5.50</DD>
 </DL>
 
