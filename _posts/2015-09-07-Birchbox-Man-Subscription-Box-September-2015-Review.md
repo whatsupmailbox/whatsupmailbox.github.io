@@ -1,17 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 title: Birchbox Man September 2015 Review
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxManSeptember2015Items.jpg
+imagefeature: BirchboxManSep2015Items.jpg
 categories: 
   - Subscriptions
   - Reviews
 headline: Birchbox Man September 2015 Review
 tags: [Birchbox Man, Subscriptions, Reviews, September 2015]
-date: 2015-09-06 13:38:39 -08:00
+date: 2015-09-07 10:38:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -19,7 +19,8 @@ date: 2015-09-06 13:38:39 -08:00
 <p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a></p>
 <p><b>Cost:</b> $20/monthly (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Birchbox Man is a monthly lifestyle and skincare subscription for men. Every month you'll receive 4-5 items; 1 lifestyle and 3-4 skincare.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"></a>!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> and get $5 to spend in the Birchbox shop when you subscribe!</p>
+
 <br>
 
 <p>This month's box is themed "The Man from U.N.C.L.E." (the movie).</p>
