@@ -179,7 +179,7 @@ date: 2015-09-07 10:38:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> My husband absolutely LOVED this month's box. It had cool gadgets (earphones and 11-in-1 multitool) plus the skincare was a hit as well, such a great box! He was lucky enough to choose the earphones for his Sample Choice item and that alone has a value of $50! So it goes without saying how great this month's value was for us.</p>
 
-<p>If you're interested in subscribing, you can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box and get the cool 11-in-1 multi tool!</p>
+<p>If you're interested in subscribing, you can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>join here</big></a> to start your subscription with the September box and get the cool 11-in-1 multi tool! And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">SUBSCRIBENOW50</a> to get $5 to spend in the Birchbox shop when you subscribe!</p>
 
 <br>
 
