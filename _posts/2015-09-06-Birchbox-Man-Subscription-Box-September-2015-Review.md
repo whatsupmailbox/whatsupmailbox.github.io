@@ -86,7 +86,7 @@ date: 2015-09-06 13:38:39 -08:00
 
 <DL>
 <DT>Lab Series - MAX LS Age-less Power V Lifting Cream</DT>
-<DD>Travel Size, Value $</DD>
+<DD>Travel Size 10ml, Value $15.50 (Full Size 50ml, $78)</DD>
 </DL>
 
 <p>This cream is intended to be used at night and consists of a powerful formula for rapid cell repair that stops sagging and wrinkles in their tracks.</p>
@@ -113,9 +113,12 @@ date: 2015-09-06 13:38:39 -08:00
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxManSep2015Perfume.jpg" border="0" style="border:none;max-width:100%;" alt="Arquiste Aleksandr Perfume"/></a></center>
 
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxManSep2015Perfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Arquiste Aleksandr Perfume"/></a></center>
+
 <DL>
 <DT><a href="http://arquiste.com/product/aleksandr/#history" target="_blank">Arquiste - Aleksandr Eau de Parfum</a></DT>
-<DD>Sample Vial, Value $3?</DD>
+<DD>Sample Vial, Value $3? (Full Size 100ml $190)</DD>
 </DL>
 
 <p>What a coincidence, my husband's name is Alexander and he's Russian too! The history behind this perfume involves Alexander Pushkin in St. Petersburg, Russia. Initially the scent was a bit too strong for him, but after it mellowed down, he actually loves it. The main notes of the fragrance are: Neroli, Violet Leaf, Fir Balsam, and Russian Leather.</p>
@@ -193,11 +196,11 @@ date: 2015-09-06 13:38:39 -08:00
    </TR>
    <TR>
       <TD>Lab Series Cream</TD>
-      <TD>$</TD>
+      <TD>$15.50</TD>
    </TR>
     <TR>
       <TD>CW Beggs and Sons Face Wash</TD>
-      <TD>$</TD>
+      <TD>$1.50</TD>
    </TR>
     <TR>
       <TD>Arquiste Aleksandr Perfume</TD>
@@ -209,7 +212,7 @@ date: 2015-09-06 13:38:39 -08:00
    </TR>
    <TR>
       <TD>V76 by Vaughn Shampoo & Conditioner</TD>
-      <TD>$1?</TD>
+      <TD>$1</TD>
    </TR>
    <TR>
       <TD>Clean Fun Multi Tool</TD>
@@ -217,7 +220,7 @@ date: 2015-09-06 13:38:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$19</big></b></TD>
+      <TD><b><big>$78.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
