@@ -24,7 +24,7 @@ date: 2015-09-08 11:45:39 -08:00
 <p><b>Coupon:</b> Use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription!</p>
 <br>
 
-<p>I absolutely adore this subscription box and it's definitely my top favorite subs that I have. Plus it's so luxurious and French, very unique in the field of sub boxes and I totally recommend them if you're into that!</p>
+<p>I absolutely adore this subscription box and it's definitely my top favorite subs that I have. Plus it's so luxurious and French, very unique in the field of sub boxes and I totally recommend them if you're obsessed with French items like I am! #truestory</p>
 
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPlease15Map.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.5 Along The Loire Valley" />
