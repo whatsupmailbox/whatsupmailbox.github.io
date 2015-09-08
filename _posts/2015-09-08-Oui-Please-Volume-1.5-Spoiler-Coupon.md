@@ -45,7 +45,7 @@ date: 2015-09-08 11:45:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPlease15Spoiler1.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.5 Spoiler: Ripauste" />
 </a></center>
-<p>An accessories item from <a href="http://www.ripauste.fr" target="_blank">Ripauste</a></p>
+<p>An accessories item from <a href="http://www.ripauste.fr" target="_blank">Ripauste</a>. Oooh, très chic!</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
