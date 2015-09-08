@@ -1,22 +1,22 @@
 ---
 layout: post
 published: false
-title: "Beauty.com GWP - FREE Sample Filled J.Mendel "Matin" Vanity Pouch!"
+title: "Beauty.com GWP - FREE Sample Filled J.Mendel Vanity Pouch!"
 featured: false
 comments: true
-headline: "Beauty.com GWP - FREE Sample Filled J.Mendel "Matin" Vanity Pouch!"
+headline: "Beauty.com GWP - FREE Sample Filled J.Mendel Vanity Pouch!"
 categories: 
   - Coupons
 type: photo
 description: "Valued at $155"
 tags: [Beauty.com]
 imagecredit: ""
-imagefeature: BeautyComGWPSeptember2015.png
+imagefeature: BeautyComGWPSep2015.png
 date: 2015-09-08 11:13:00 -08:00
 ---
 
 <center><a href="http://www.beauty.com" target="_blank">
-<img src="/images/BeautyComGWPSep2015.png" border="0" style="border:none;max-width:100%;" alt="Beauty.com GWP Sample Filled J.Mendel "Matin" Vanity Pouch!"/>
+<img src="/images/BeautyComGWPSep2015.png" border="0" style="border:none;max-width:100%;" alt="Beauty.com GWP Sample Filled J.Mendel Matin Vanity Pouch!"/>
 </a></center>
 
 **VALUED AT $155, YOUR GIFT IS FILLED WITH THESE PRESTIGE BEAUTY SAMPLES:**
