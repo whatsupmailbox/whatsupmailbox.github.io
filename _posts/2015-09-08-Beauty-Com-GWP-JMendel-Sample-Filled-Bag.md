@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Beauty.com GWP - FREE Sample Filled J.Mendel Vanity Pouch!"
 featured: false
 comments: true
