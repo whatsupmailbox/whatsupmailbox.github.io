@@ -30,7 +30,7 @@ date: 2015-09-08 11:45:39 -08:00
 <img src="/images/OuiPlease15Map.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.5 Along The Loire Valley" />
 </a></center>
 
-<p><i class="icon-dropbox"></i> Their next box is "1.5 Along The Loire Valley" and boxes will start shipping out mid September and will continue to ship through the end of September. I always get excited when my Oui Please box is coming soon, like SO EXCITED!!!</p>
+<p><i class="icon-dropbox"></i> Their next box is "1.5 Along The Loire Valley" and boxes will start shipping out at the end of September and continue through the 1st week of October. I always get excited when my Oui Please box is coming soon, like SO EXCITED!!!</p>
 
 <p>The Loire Valley (French: Vallée de Loire, pronounced: va le də lwa), spanning 170 miles, is located in the middle stretch of the Loire River in central France. It's referred to as the Cradle of the French and the Garden of France due to the abundance of vineyards, fruit orchards (such as cherries), and artichoke and asparagus fields, which line the banks of the river. It's also notable for its historic towns, architecture and wines. In 2000, UNESCO added the central part of the Loire River valley to its list of World Heritage Sites.</p>
 
