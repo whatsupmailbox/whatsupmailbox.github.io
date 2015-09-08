@@ -63,7 +63,7 @@ date: 2015-09-08 11:45:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPlease15Spoiler4.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.5 Spoiler: Sel Magique" />
 </a></center>
-<p>Enhance the flavors in every bite with some help from gourmet salt <a href="http://www.selmagique.com" target="_blank">Sel Magique</a></p>
+<p>Enhance the flavors in every bite with some help from gourmet salt <a href="http://www.selmagique.com" target="_blank">Sel Magique</a>.</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
