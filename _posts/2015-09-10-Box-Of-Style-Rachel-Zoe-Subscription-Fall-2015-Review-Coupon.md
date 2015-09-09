@@ -142,9 +142,10 @@ date: 2015-09-07 10:38:39 -08:00
 
 <br>
 
-<center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="One Love Organics - Gardeneia Tea"/>
-</a></center>
+<figure class="half">
+      <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="One Love Organics - Gardeneia Tea"/></a>
+      <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Body2.jpg" border="0" style="border:none;max-width:100%;" alt="One Love Organics - Gardeneia Tea"/></a>
+<figure>
 
 <DL>
 <DT><a href="http://shop.oneloveorganics.com/products/gardenia-tea" target="_blank">One Love Organics - Gardenia + Tea
