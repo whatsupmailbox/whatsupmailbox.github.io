@@ -26,6 +26,8 @@ date: 2015-09-07 10:38:39 -08:00
 
 <p>Fall has got to be one of my favorite seasons so I was super excited about getting this box!</p>
 
+<br>
+
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015"/></a></center>
 
