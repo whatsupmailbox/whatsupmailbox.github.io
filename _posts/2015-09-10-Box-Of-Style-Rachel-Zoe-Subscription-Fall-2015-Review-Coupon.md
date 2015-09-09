@@ -49,7 +49,7 @@ date: 2015-09-07 10:38:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>All items were wrapped individually.</p>
+<p>All items were wrapped individually and extra stuffing was included so that movement is kept at a minimum which translates to - everything came in one piece and in perfect condition!</p>
 
 <br>
 
