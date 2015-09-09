@@ -56,6 +56,9 @@ date: 2015-09-07 10:38:39 -08:00
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Front Side"/></a></center>
 <figcaption>Info card front side</figcaption>
+<br>
+
+<p>The info card comes in a fold out style with all the items listed plus their values.</p>
 
 <br>
 
@@ -65,7 +68,11 @@ date: 2015-09-07 10:38:39 -08:00
 
 <br>
 
-<H4>And here are the beauties inside my Box of Style Fall 2015 box:</H4>
+<p>I love that they include pictures of each item modeled. Nice touch.</p>
+
+<br>
+
+<H4>And without further adieu, here are the items inside my Box of Style Fall 2015 box:</H4>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Items"/></a></center>
@@ -85,7 +92,7 @@ date: 2015-09-07 10:38:39 -08:00
 <DD>Value $135</DD>
 </DL>
 
-<p>This was the Hero item of the box (Hero items are the highest valued item that's in the box and is released prior as a spoiler). I love watches and collect them and this watch is absolutely perfect for me. Rose gold with black face screams Fall tres chic and I don't have grey watches so this was definitely my hero item of this year!</p>
+<p>This was the Hero item of the box (Hero items are the highest valued item that's in the box and is released prior as a spoiler). I love watches and collect them and this watch is absolutely perfect for me. Rose gold with black face screams Fall très chic and I don't have grey watches so this was definitely my hero item of this year!</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Watch2.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
