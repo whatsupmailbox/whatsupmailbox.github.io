@@ -28,6 +28,13 @@ date: 2015-09-07 10:38:39 -08:00
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 First Look"/></a></center>
+
+<p>The box came inside a brown unmarked packaging which I love, it makes it less visible and unnoticed for those who might want to steal it from your doorsteps.</p>
+
+<br>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 First Look"/></a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
@@ -113,10 +120,6 @@ date: 2015-09-07 10:38:39 -08:00
 </DL>
 
 <p>Another accessory that I love, hats, fedora hats to be exact. They are the perfect ending to a fall outfit and I especially love to wear them with black skinny jeans and leather booties - gorgeous.</p>
-
-<center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Hat2.jpg" border="0" style="border:none;max-width:100%;" alt="TOPSHOP Fedora Hat"/>
-</a></center>
 
 <p>At first I was completely amazed that a fedora hat was in this box (or any box for that matter) and now I just applaud Rachel Zoe for being the fashionable queen she is and including such a chic item. #amazing</p>
 
