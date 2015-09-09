@@ -31,7 +31,7 @@ date: 2015-09-07 10:38:39 -08:00
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015"/></a></center>
 
-<p>The box came inside a brown unmarked packaging which I love, it makes it less visible and unnoticed for those who might want to steal it from your doorsteps.</p>
+<p>The box came inside a brown unmarked packaging which I love, it makes it less visible and unnoticed.</p>
 
 <br>
 
