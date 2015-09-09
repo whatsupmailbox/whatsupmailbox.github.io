@@ -53,7 +53,7 @@ date: 2015-09-07 10:38:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Watch.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
+<img src="/images/BoxOfStyleFall2015Cluse.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
 </a></center>
 
 <DL>
