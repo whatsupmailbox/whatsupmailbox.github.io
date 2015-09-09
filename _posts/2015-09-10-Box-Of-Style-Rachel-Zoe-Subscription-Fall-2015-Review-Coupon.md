@@ -53,10 +53,25 @@ date: 2015-09-07 10:38:39 -08:00
 
 <br>
 
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Front Side"/></a></center>
+<figcaption>Info card front side</figcaption>
+
+<br>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<figcaption>Info card back side</figcaption>
+
+<br>
+
 <H4>And here are the beauties inside my Box of Style Fall 2015 box:</H4>
+
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Items"/></a></center>
+
 <p>I am going gaga over all these items, gorgeous and so chic, I love it!</p>
+
 <br>
 
 <H4>Items in detail:</H4>
@@ -76,7 +91,7 @@ date: 2015-09-07 10:38:39 -08:00
 <img src="/images/BoxOfStyleFall2015Watch2.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
 </a></center>
 
-<p>It came with a leather case that has a magnetic snap enclosure, plus a double wrap leather strap for that extra chic look.</p>
+<p>It came with a leather case that has a magnetic snap closure, plus a double wrap leather strap for that extra chic look.</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Watch3.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
@@ -90,7 +105,7 @@ date: 2015-09-07 10:38:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Earrings.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING"/>
+<img src="/images/BoxOfStyleFall2015Earrings.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRINGS"/>
 </a></center>
 
 <DL>
@@ -98,7 +113,7 @@ date: 2015-09-07 10:38:39 -08:00
 <DD>Value $55</DD>
 </DL>
 
-<p>I love ear crawlers, they're so in right now and I love the chic and edgy look so this was another great item for me! The rose gold matches the watch and of course I'm wearing both of them together right now, perfection.</p>
+<p>I love ear crawlers, they're so in right now plus I love the chic and edgy look so this was another great item for me! The rose gold matches the watch and of course I'm wearing both of them together right now. #perfection</p>
 
 <figure class="half">
       <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Earrings3.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING 1"/></a>
@@ -108,7 +123,7 @@ date: 2015-09-07 10:38:39 -08:00
 
 <br>
 
-<p>Putting them on was a breeze, and because my ears are somewhat petite and not fatty enough, I had to adjust it a bit by squeezing the back enclosure tighter towards my ear lobes. They are bendable enough for me to resize it, thankfully.</p>
+<p>Putting them on was a breeze, but because my ears are somewhat petite and not fatty enough, I had to adjust it a bit by squeezing the back enclosure tighter towards my ear lobes. They are bendable enough for me to resize it, thankfully.</p>
 
 <br>
 
