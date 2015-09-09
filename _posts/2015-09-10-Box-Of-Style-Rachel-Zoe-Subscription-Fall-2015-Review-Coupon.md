@@ -72,8 +72,11 @@ date: 2015-09-07 10:38:39 -08:00
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Watch3.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
 </a></center>
+<figcaption>A closer look at the leather case</figcaption>
 
-<p>I love that they included an extra strap for this watch. They didn't have to but they did and I totally LOVE them for it! The black straps definitely match the black face of this watch. I'll be wearing this when I want to go extra dark, mysterious and glamorous.</p>
+<br>
+
+<p>Everything about this watch is gorgeous. I also love that they included an extra black strap for this watch. They didn't have to but they did and I totally LOVE them for it! You can buy more colors on their website and they ship free to USA from The Netherlands, but you may have to pay duty taxes.</p>
 
 <br>
 
@@ -82,17 +85,19 @@ date: 2015-09-07 10:38:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.shashi.bigcartel.com/product/noa-climber-earring" target="_blank">SHASHI NOA CLIMBER EARRING in Rose Gold</DT>
+<DT><a href="http://www.shashi.bigcartel.com/product/noa-climber-earring" target="_blank">SHASHI NOA CLIMBER EARRING in Rose Gold</a></DT>
 <DD>Value $55</DD>
 </DL>
 
 <p>I love ear crawlers, they're so in right now and I love the chic and edgy look so this was another great item for me! The rose gold matches the watch and of course I'm wearing both of them together right now, perfection.</p>
 
-<center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Earrings2.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING"/>
-</a></center>
+<figure class="half">
+      <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Earrings3.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING 1"/></a>
+      <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Earrings2.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING 2"/></a>
+      <figcaption>Closer look at the ear crawlers</figcaption>
+</figure>
 
-<figcaption>Closer look at the ear crawlers</figcaption>
+<br>
 
 <p>Putting them on was a breeze, and because my ears are somewhat petite and not fatty enough, I had to adjust it a bit by squeezing the back enclosure tighter towards my ear lobes. They are bendable enough for me to resize it, thankfully.</p>
 
@@ -122,11 +127,11 @@ date: 2015-09-07 10:38:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="" target="_blank">Notebooks</a></DT>
-<DD>Value $</DD>
+<DT><a href="http://www.sloanestationery.com/collections/all-notebooks?page=1" target="_blank">Sloane Stationary Notebooks</a></DT>
+<DD>Value $25</DD>
 </DL>
 
-<p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". But this year I've actually been using them to jot ideas, plans and just about anything that my mind desires. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways. I especially find myself writing more on notepads when I'm travelling.</p>
+<p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them. But that was last year. This year, surprisingly, I've been using actual notebooks to jot ideas, plans and just about anything that my mind desires. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways. I especially find myself writing more on notepads when I'm travelling, it just feels better, but that's just me.</p>
 
 <p>These notebooks are unlike any notebooks I have. I love the sleek and simple design, plus the leather feel and look gives a fashionable look that'll go with any ensemble. I'm already using the red one!</p>
 
@@ -137,8 +142,9 @@ date: 2015-09-07 10:38:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="" target="_blank">PLANT - Get It On Body Wash</a></DT>
-<DD>Value $28</DD>
+<DT><a href="http://shop.oneloveorganics.com/products/gardenia-tea" target="_blank">One Love Organics - Gardenia + Tea
+ANTIOXIDANT BODY SERUM</a></DT>
+<DD>Value $39</DD>
 </DL>
 
 <p>I received one of these in my Popsugar box earlier this year and I love it. The scent is heavenly (a mix of fresh, sweet and floral), and it really does moisturize your skin. It's an oil consistency with a spray application, and it's recommended to use right after you shower and towel dry. A great moisturizer for Fall and Winter!</p>
