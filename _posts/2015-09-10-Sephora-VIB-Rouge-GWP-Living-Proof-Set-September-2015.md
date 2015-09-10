@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora, GWP, Coupons]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPLivingProof2.png
-date: 2015-09-10 13:01:00 -08:00
+date: 2015-09-10 14:31:00 -08:00
 ---
 
 <center><a href="http://www.sephora.com" target="_blank">
