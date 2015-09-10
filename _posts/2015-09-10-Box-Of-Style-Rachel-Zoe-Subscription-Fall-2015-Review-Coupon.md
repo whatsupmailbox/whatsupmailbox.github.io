@@ -132,7 +132,7 @@ date: 2015-09-10 10:38:39 -08:00
 
 <br>
 
-<p>Everything about this watch is gorgeous. I also love that they included an extra black strap for this watch. They didn't have to but they did and I totally LOVE them for it! You can buy more colors on their website and they ship free to USA from The Netherlands, but you may have to pay duty taxes.</p>
+<p>Everything about this watch is gorgeous. I also love that they included an extra black strap for this watch. They didn't have to but they did and I totally LOVE them for it! You can buy more colors on their website and they ship free to USA all the way from The Netherlands (you may have to pay duty taxes).</p>
 
 <br>
 
