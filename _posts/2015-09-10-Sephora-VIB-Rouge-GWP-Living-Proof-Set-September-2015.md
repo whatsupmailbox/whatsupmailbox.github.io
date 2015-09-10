@@ -22,12 +22,19 @@ date: 2015-09-10 14:31:00 -08:00
 <img src="/images/SephoraVIBRougeGWPLivingProof.png" border="0" style="border:none;max-width:100%;" alt="Sephora Living Proof GWP - VIB & VIB Rouge Only" />
 </a></center>
 
-<p><H4>Get it FREE with any online purchase of $35 or more by using coupon code <b>VIBLP</b></H4></p>
+<p>Get it FREE with any online purchase of $35 or more by using coupon code <b>VIBLP</b></p>
 <br>
 
 <center><a href="http://www.sephora.com" target="_blank">
 <img src="/images/SephoraVIBRougeGWPLivingProof2.png" border="0" style="border:none;max-width:100%;" alt="Sephora Living Proof GWP - VIB & VIB Rouge Only" />
 </a></center>
+
+<p>Living Proof No Frizz Deluxe Sample Set includes:</p>
+<ul>
+<li>Living Proof No Frizz Shampoo deluxe sample (1.0 oz)</li> 
+<li>Living Proof No Frizz Conditioner deluxe sample (1.0 oz)</li> 
+<li>Living Proof No Frizz Nourishing Styling Cream deluxe sample (1.0 oz)</li> 
+</ul>
 
 <br>
 
