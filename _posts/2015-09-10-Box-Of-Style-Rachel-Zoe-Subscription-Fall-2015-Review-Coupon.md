@@ -193,7 +193,7 @@ date: 2015-09-10 10:38:39 -08:00
 <img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks 3"/>
 </a></center>
 
-<p>Inside, the notebooks are lined and ready for you to write beautiful messages!</p>
+<p>Inside, the notebooks are lined and ready for you to plan your next accomplishment!</p>
 
 <br>
 
