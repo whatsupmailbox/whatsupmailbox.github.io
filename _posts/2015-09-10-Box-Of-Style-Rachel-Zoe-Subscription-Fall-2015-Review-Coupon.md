@@ -58,7 +58,7 @@ date: 2015-09-10 10:38:39 -08:00
 <figcaption>Info card front side</figcaption>
 <br>
 
-<p>The info card comes in a small booklet style with all the items listed and their values (plus coupons on some of them, yay!).</p>
+<p>The info card comes in a small booklet style with all the items listed and their values (plus coupon codes too, yay, more shopping!).</p>
 
 <br>
 
