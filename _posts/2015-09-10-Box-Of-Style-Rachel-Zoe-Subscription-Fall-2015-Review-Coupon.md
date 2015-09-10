@@ -155,7 +155,7 @@ date: 2015-09-10 10:38:39 -08:00
 
 <br>
 
-<p>Putting them on was a breeze, but because my ears are somewhat petite and not fatty enough, I had to adjust it a bit by squeezing the back enclosure tighter towards my ear lobes. They are bendable enough for me to resize it, thankfully.</p>
+<p>Putting them on was a breeze, but because my ears are somewhat petite and not "thick" enough, I had to adjust it a bit by squeezing the back enclosure tighter towards my ear lobes. They are bendable enough for me to resize it, thankfully.</p>
 
 <br>
 
