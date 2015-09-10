@@ -114,7 +114,7 @@ date: 2015-09-10 10:38:39 -08:00
 
 <DL>
 <DT><a href="http://clusewatches.com/model/cluse-laboheme-rosegold-black-grey-CL18018" target="_blank">CLUSE LA BOHÈME Rose Gold Black/Grey Watch with extra Black straps</a></DT>
-<DD>Value $135</DD>
+<DD>Value $132</DD>
 </DL>
 
 <p>This was the Hero item of the box (Hero items are the highest valued item that's in the box and is released prior as a spoiler). I love watches and collect them and this watch is absolutely perfect for me. Rose gold with black face screams Fall très chic and I don't have grey watches so this was definitely my hero item of this year!</p>
@@ -165,12 +165,10 @@ date: 2015-09-10 10:38:39 -08:00
 
 <DL>
 <DT><a href="http://us.topshop.com/webapp/wcs/stores/servlet/ProductDisplay?Ntt=fedora&storeId=13052&productId=20821194&urlRequestType=Base&categoryId=&langId=-1&productIdentifier=product&catalogId=33060" target="_blank">TOPSHOP Buckle Trim Fedora Hat</a></DT>
-<DD>Olive Green Color, Value $48</DD>
+<DD>Olive Khaki Green Color, Value $48</DD>
 </DL>
 
-<p>Another accessory that I love, hats, fedora hats to be exact. They are the perfect ending to a fall outfit and I especially love to wear them with black skinny jeans and leather booties - gorgeous.</p>
-
-<p>At first I was completely amazed that a fedora hat was in this box (or any box for that matter) and now I just applaud Rachel Zoe for being the fashionable queen she is and including such a chic item. #amazing</p>
+<p>Another accessory that I love, hats, fedora hats to be exact. They complete any fall outfit and I especially love to wear them with black skinny jeans and leather booties - gorgeous.</p>
 
 <br>
 
@@ -180,7 +178,7 @@ date: 2015-09-10 10:38:39 -08:00
 
 <DL>
 <DT><a href="http://www.sloanestationery.com/collections/all-notebooks?page=1" target="_blank">Sloane Stationary Notebooks</a></DT>
-<DD>Value $25</DD>
+<DD>Value $40</DD>
 </DL>
 
 <p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them. But that was last year. This year, surprisingly, I've been using actual notebooks to jot ideas, plans and just about anything that my mind desires. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways. I especially find myself writing more on notepads when I'm travelling, it just feels better, but that's just me.</p>
