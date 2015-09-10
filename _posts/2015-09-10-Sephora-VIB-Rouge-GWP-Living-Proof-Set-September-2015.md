@@ -9,7 +9,7 @@ categories:
   - Coupons
 type: photo
 description: ""
-tags: [Sephora]
+tags: [Sephora, GWP, Coupons]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPLivingProof2.png
 date: 2015-09-10 13:01:00 -08:00
