@@ -208,7 +208,7 @@ ANTIOXIDANT BODY SERUM</a></DT>
 <DD>Value $39</DD>
 </DL>
 
-<p>I received one of these in my Popsugar box earlier this year and I love it. The scent is heavenly (a mix of fresh, sweet and floral), and it really does moisturize your skin. It's an oil consistency with a spray application, and it's recommended to use right after you shower and towel dry. A great moisturizer for Fall and Winter!</p>
+<p>I received one of these in my Popsugar April box earlier this year and I love it. The scent is heavenly (a mix of fresh, sweet and floral), and it really does moisturize your skin. It's an oil consistency with a spray application, and it's recommended to use right after you shower and towel dry. A great moisturizer for Fall and Winter!</p>
 
 <br>
 
@@ -231,7 +231,7 @@ ANTIOXIDANT BODY SERUM</a></DT>
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
@@ -241,11 +241,11 @@ ANTIOXIDANT BODY SERUM</a></DT>
       <TH>Price</TH>
   <TR>
       <TD>CLUSE Watch w/ extra strap</TD>
-      <TD>$135</TD>
+      <TD>$132</TD>
    </TR>
    <TR>
       <TD>SHASHI Ear Crawlers</TD>
-      <TD>$58</TD>
+      <TD>$55</TD>
    </TR>
     <TR>
       <TD>TOPSHOP Fedora Hat</TD>
@@ -253,11 +253,11 @@ ANTIOXIDANT BODY SERUM</a></DT>
    </TR>
     <TR>
       <TD>Notebooks</TD>
-      <TD>$10</TD>
+      <TD>$40</TD>
    </TR>
     <TR>
       <TD>One Love Organics Body Oil</TD>
-      <TD>$28</TD>
+      <TD>$39</TD>
    </TR>
    <TR>
       <TD>The Launderrer Fresh Fabric Spray</TD>
@@ -265,7 +265,7 @@ ANTIOXIDANT BODY SERUM</a></DT>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$300</big></b></TD>
+      <TD><b><big>$322</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
