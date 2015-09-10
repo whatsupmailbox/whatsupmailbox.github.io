@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Box of Style Fall 2015 Review + $10 Coupon!
 featured: false
 comments: true
@@ -12,7 +12,7 @@ categories:
 headline: Box of Style Fall 2015 Review + $10 Coupon!
 description: "by Rachel Zoe"
 tags: [Box Of Style, Subscriptions, Reviews, September 2015]
-date: 2015-09-10 10:38:39 -08:00
+date: 2015-09-10 09:01:39 -08:00
 ---
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
