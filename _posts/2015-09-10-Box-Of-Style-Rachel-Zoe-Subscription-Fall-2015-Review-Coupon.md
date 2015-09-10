@@ -225,9 +225,9 @@ ANTIOXIDANT BODY SERUM</a></DT>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, wow and wow. That pretty much sums up my thoughts on this box. Every single item matches my fashion style and needs. Eh-ve-ri-thing to the tee! I think this has got to be the best box ever and this is only the third one they've released so far. Amazing. I predict better and greater things to come and Rachel Zoe, you're AH-MAZING! Please continue to curate as well as you do and I am a loyal subscriber FOR LIFE!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, wow and wow. That pretty much sums up my thoughts on this box. Every single item matches my fashion style and needs. Eh-ve-ri-thing to the tee! I think this has got to be the best box ever and this is only the third one they've released so far. Amazing. The value is well over $300 and I only paid $100 for this box. If you're into fashion, well then this subscription is for you and it's gotta be the best one out there in terms of value. I sincerely can't wait for the Winter box!</p>
 
-<p>The FALL 2015 box is sold out, but if you're interested in subscribing, I totally recommend <a href="http://fbuy.me/cJCZ1" target="_blank"><big>subscribing now</big></a> to get your hands on the Winter 2015 box before it gets sold out as well! And if you <a href="http://fbuy.me/cJCZ1" target="_blank">purchase through this link</a> you'll get <big>$10 OFF</big> your first box, that's a deal!</p>
+<p>The FALL 2015 box is sold out, but if you're interested in this box, I totally recommend <a href="http://fbuy.me/cJCZ1" target="_blank"><big>subscribing now</big></a> to get your hands on the Winter 2015 box before it gets sold out as well! And if you <a href="http://fbuy.me/cJCZ1" target="_blank">purchase through this link</a> you'll get <big>$10 OFF</big> your first box, that's a deal!</p>
 
 <br>
 
