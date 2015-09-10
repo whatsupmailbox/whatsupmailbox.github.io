@@ -117,13 +117,13 @@ date: 2015-09-10 10:38:39 -08:00
 <DD>Value $132</DD>
 </DL>
 
-<p>This was the Hero item of the box (Hero items are the highest valued item that's in the box and is released prior as a spoiler). I love watches and collect them and this watch is absolutely perfect for me. Rose gold with black face screams Fall très chic and I don't have grey watches so this was definitely my hero item of this year!</p>
+<p>This was the Hero item of the box. Hero items are the highest valued item that's in the box and is released prior as a spoiler. I love watches and collect them and this watch is absolutely perfect for me. Rose gold with black face screams Fall très chic and I don't have grey watches so this was definitely my hero item of this year!</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Watch2.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
 </a></center>
 
-<p>It came with a leather case that has a magnetic snap closure, plus a double wrap leather strap for that extra chic look.</p>
+<p>It came with a leather case that has a magnetic snap closure, and on top of that, a double leather wrap for that extra chic look.</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Watch3.jpg" border="0" style="border:none;max-width:100%;" alt="CLUSE LA BOHÈME Rose Gold Black/Grey Watch"/>
