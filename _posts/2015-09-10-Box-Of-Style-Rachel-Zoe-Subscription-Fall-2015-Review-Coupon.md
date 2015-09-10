@@ -5,14 +5,14 @@ title: Box of Style Fall 2015 Review + $10 Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxManSep2015Items.jpg
+imagefeature: BoxOfStyleFall2015Items2.jpg
 categories: 
   - Subscriptions
   - Reviews
 headline: Box of Style Fall 2015 Review + $10 Coupon!
 description: "by Rachel Zoe"
-tags: [Birchbox Man, Subscriptions, Reviews, September 2015]
-date: 2015-09-07 10:38:39 -08:00
+tags: [Box Of Style, Subscriptions, Reviews, September 2015]
+date: 2015-09-10 10:38:39 -08:00
 ---
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
@@ -58,17 +58,41 @@ date: 2015-09-07 10:38:39 -08:00
 <figcaption>Info card front side</figcaption>
 <br>
 
-<p>The info card comes in a fold out style with all the items listed plus their values.</p>
+<p>The info card comes in a small booklet style with all the items listed and their values (plus coupons on some of them, yay!).</p>
+
+<br>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<figcaption>Page 1 & 2</figcaption>
 
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
-<figcaption>Info card back side</figcaption>
+<figcaption>Page 3 & 4</figcaption>
 
 <br>
 
-<p>I love that they include pictures of each item modeled. Nice touch.</p>
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<figcaption>Page 5 & 6</figcaption>
+
+<br>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info4.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<figcaption>Page 5 & 6</figcaption>
+
+<br>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Info5.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<figcaption>Page 7 & 8</figcaption>
+
+<br>
+
+<p>I love that they include pictures of each item modeled. Nice touch and oh-so-very helpful.</p>
 
 <br>
 
