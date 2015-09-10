@@ -177,20 +177,20 @@ date: 2015-09-10 09:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.sloanestationery.com/collections/all-notebooks?page=1" target="_blank">Sloane Stationary Notebooks</a></DT>
+<DT><a href="http://www.sloanestationery.com/collections/all-notebooks?page=1" target="_blank">Sloane Stationery Notebook Set</a></DT>
 <DD>Value $40</DD>
 </DL>
 
 <p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them? But that was so last year. This year, I can't get enough of them. I use it to jot ideas, plans and just about anything that my mind is wandering about these days. There's a sense of satisfaction you get when you're physically writing with a pen and on a paper, sometimes it's just good to get back to the old ways.</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Notebooks2.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks 2"/>
+<img src="/images/BoxOfStyleFall2015Notebooks2.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationery Notebooks 2"/>
 </a></center>
 
 <p>These notebooks are unlike any notebooks I have. I love the sleek and simple design, I'm already using the red one!</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks 3"/>
+<img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationery Notebooks 3"/>
 </a></center>
 
 <p>Inside, the notebooks are lined and ready for you to plan your next accomplishment!</p>
@@ -252,7 +252,7 @@ ANTIOXIDANT BODY SERUM</a></DT>
       <TD>$48</TD>
    </TR>
     <TR>
-      <TD>Notebooks</TD>
+      <TD>Sloane Stationery Notebook Set</TD>
       <TD>$40</TD>
    </TR>
     <TR>
