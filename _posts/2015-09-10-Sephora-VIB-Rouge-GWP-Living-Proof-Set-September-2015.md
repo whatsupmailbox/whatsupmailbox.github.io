@@ -16,7 +16,7 @@ date: 2015-09-10 14:31:00 -08:00
 ---
 <p></p>
 
-<p><H2>A new <a href="http://www.sephora.com" target="_blank">Sephora</a> GWP set from Living Proof for VIB & VIB Rouge only!</H2></p>
+<p><H4>A new <a href="http://www.sephora.com" target="_blank">Sephora</a> GWP set from Living Proof for VIB & VIB Rouge only!</H4></p>
 
 <center><a href="http://www.sephora.com" target="_blank">
 <img src="/images/SephoraVIBRougeGWPLivingProof.png" border="0" style="border:none;max-width:100%;" alt="Sephora Living Proof GWP - VIB & VIB Rouge Only" />
