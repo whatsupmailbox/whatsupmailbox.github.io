@@ -58,10 +58,11 @@ date: 2015-09-10 10:38:39 -08:00
 <figcaption>Info card front side</figcaption>
 <br>
 
-<p>The info card comes in a small booklet style with all the items listed and their values (plus coupon codes too, yay, more shopping!).</p>
+<p>The info card comes in a small booklet style with all the items listed and their values plus coupon codes too, yay, more shopping!</p>
 
 <br>
 
+<p>Here's the pages from the info booklet:</p>
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
 <img src="/images/BoxOfStyleFall2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
 <figcaption>Page 1 & 2</figcaption>
