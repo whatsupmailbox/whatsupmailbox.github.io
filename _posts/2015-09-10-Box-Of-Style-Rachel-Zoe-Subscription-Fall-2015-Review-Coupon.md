@@ -145,12 +145,12 @@ date: 2015-09-10 09:01:39 -08:00
 <DD>Value $55</DD>
 </DL>
 
-<p>I love ear crawlers, they're so in right now plus I love the chic and edgy look so this was another great item for me! The rose gold matches the watch and I've been wearing both of them together since I got my hands on them. #perfection</p>
+<p>I love ear climbers, they're so in right now plus I love the chic and edgy look so this was another great item for me! The rose gold matches the watch and I've been wearing both of them together since I got my hands on them. #perfection</p>
 
 <figure class="half">
       <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Earrings3.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING 1"/></a>
       <a href="http://fbuy.me/cJCZ1" target="_blank"><img src="/images/BoxOfStyleFall2015Earrings2.jpg" border="0" style="border:none;max-width:100%;" alt="SHASHI NOA CLIMBER EARRING 2"/></a>
-      <figcaption>Closer look at the ear crawlers</figcaption>
+      <figcaption>Closer look at the ear climbers</figcaption>
 </figure>
 
 <br>
