@@ -221,7 +221,7 @@ ANTIOXIDANT BODY SERUM</a></DT>
 <DD>Travel Size 2fl.oz./6ml, Value $8</DD>
 </DL>
 
-<p>This is a nontoxic fabric freshener that deodorizes too. The scent is a blend lily of the valley and jasmine with sweet musk, sandalwood, and a touch of citrus. It smells refreshingly sweet and yet not too overempowering or strong. I will surely use this for when I'm travelling, but right now I'm spraying this nightly on my bed before I go to sleep. Another great scented item!</p>
+<p>This is a nontoxic fabric freshener that deodorizes too. The scent is a blend of lily of the valley and jasmine with sweet musk, sandalwood, and a touch of citrus. It smells refreshingly sweet and yet not too over powering or strong. I will surely use this for when I'm travelling, but right now I'm spraying this nightly on my bed before I go to sleep. Sweet dreams indeed.</p>
 
 <br>
 
