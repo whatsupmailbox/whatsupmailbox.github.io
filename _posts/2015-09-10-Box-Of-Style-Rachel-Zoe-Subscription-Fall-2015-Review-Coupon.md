@@ -93,7 +93,7 @@ date: 2015-09-10 10:38:39 -08:00
 
 <br>
 
-<p>I love that they include pictures of each item modeled. Nice touch and oh-so-very helpful.</p>
+<p>I love that they include pictures of some items modeled. Nice touch and oh-so-very helpful.</p>
 
 <br>
 
