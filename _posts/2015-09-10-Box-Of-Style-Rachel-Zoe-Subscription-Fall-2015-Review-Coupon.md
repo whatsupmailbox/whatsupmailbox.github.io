@@ -19,7 +19,7 @@ date: 2015-09-10 10:38:39 -08:00
 <img src="/images/BoxOfStyleFall2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Package"/></a></center>
 <p><b>Subscription:</b> <a href="http://fbuy.me/cJCZ1" target="_blank">Rachel Zoe's "Box of Style"</a></p>
 <p><b>Cost:</b> $100/quarterly (taxes apply to CA)</p>
-<p><b>What's in the box:</b> Box of Style is a curation by Rachel Zoe that gets sent to you quarterly, it ships 4 times per year — March, July, September & December. With each box, you'll receive over $300 worth of Fashion, Beauty and Lifestyle items in every box!</p>
+<p><b>What's in the box:</b> Box of Style is a curation by Rachel Zoe that gets sent to you quarterly, it ships 4 times per year — March, July, September & December. With each box, you'll receive over $300 worth of Fashion, Beauty and Lifestyle items!</p>
 <p><b>Coupon:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Purchase through this link</a> and you'll get $10 off your first box!</p>
 
 <br>
