@@ -181,9 +181,19 @@ date: 2015-09-10 10:38:39 -08:00
 <DD>Value $40</DD>
 </DL>
 
-<p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them. But that was last year. This year, surprisingly, I've been using actual notebooks to jot ideas, plans and just about anything that my mind desires. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways. I especially find myself writing more on notepads when I'm travelling, it just feels better, but that's just me.</p>
+<p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them. But that was last year. This year, surprisingly, I've been using actual notebooks to jot ideas, plans and just about anything that my mind is wandering about these days. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways.</p>
 
-<p>These notebooks are unlike any notebooks I have. I love the sleek and simple design, plus the leather feel and look gives a fashionable look that'll go with any ensemble. I'm already using the red one!</p>
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Notebooks2.jpg" border="0" style="border:none;max-width:100%;" alt="Notebooks"/>
+</a></center>
+
+<p>These notebooks are unlike any notebooks I have. I love the sleek and simple design, I'm already using the red one!</p>
+
+<center><a href="http://fbuy.me/cJCZ1" target="_blank">
+<img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Notebooks"/>
+</a></center>
+
+<p>Inside, the notebooks are lined and ready for you to write beautiful messages!</p>
 
 <br>
 
