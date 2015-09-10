@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: "Sephora GWP from Hourglass - VIB & VIB Rouge Only"
+title: "Sephora GWP from Living Proof - VIB & VIB Rouge Only"
 featured: false
 comments: true
-headline: "Sephora GWP from Hourglass - VIB & VIB Rouge Only"
+headline: "Sephora GWP from Living Proof - VIB & VIB Rouge Only"
 categories: 
   - Coupons
 type: photo
