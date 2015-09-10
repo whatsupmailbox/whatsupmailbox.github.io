@@ -54,7 +54,7 @@ date: 2015-09-10 10:38:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Front Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Booklet"/></a></center>
 <figcaption>Info Booklet</figcaption>
 <br>
 
@@ -64,31 +64,31 @@ date: 2015-09-10 10:38:39 -08:00
 
 <p>Here's the pages from the info booklet:</p>
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info 1"/></a></center>
 <figcaption>Page 1 & 2</figcaption>
 
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info 2"/></a></center>
 <figcaption>Page 3 & 4</figcaption>
 
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info 3"/></a></center>
 <figcaption>Page 5 & 6</figcaption>
 
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info4.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info4.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info 4"/></a></center>
 <figcaption>Page 7 & 8</figcaption>
 
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Info5.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info Card Back Side"/></a></center>
+<img src="/images/BoxOfStyleFall2015Info5.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Info 5"/></a></center>
 <figcaption>Page 9 & 10</figcaption>
 
 <br>
@@ -173,7 +173,7 @@ date: 2015-09-10 10:38:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Notebooks.jpg" border="0" style="border:none;max-width:100%;" alt="Notebooks"/>
+<img src="/images/BoxOfStyleFall2015Notebooks.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks"/>
 </a></center>
 
 <DL>
@@ -184,13 +184,13 @@ date: 2015-09-10 10:38:39 -08:00
 <p>If you asked me last year if I ever use physical notebooks, I'd look at you like "do you live in the stone age?". I mean who uses them. But that was last year. This year, surprisingly, I've been using actual notebooks to jot ideas, plans and just about anything that my mind is wandering about these days. There's a sense of satisfaction you get when you're physically writing with a pen on a paper, sometimes it's just good to get back to the old ways.</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Notebooks2.jpg" border="0" style="border:none;max-width:100%;" alt="Notebooks"/>
+<img src="/images/BoxOfStyleFall2015Notebooks2.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks 2"/>
 </a></center>
 
 <p>These notebooks are unlike any notebooks I have. I love the sleek and simple design, I'm already using the red one!</p>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Notebooks"/>
+<img src="/images/BoxOfStyleFall2015Notebooks3.jpg" border="0" style="border:none;max-width:100%;" alt="Sloane Stationary Notebooks 3"/>
 </a></center>
 
 <p>Inside, the notebooks are lined and ready for you to write beautiful messages!</p>
