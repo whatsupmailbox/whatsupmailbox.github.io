@@ -95,11 +95,26 @@ date: 2015-09-10 09:01:39 -08:00
 
 
 <DL>
-<DT><a href="http://clusewatches.com/model/cluse-laboheme-rosegold-black-grey-CL18018" target="_blank">CLUSE LA BOHÈME Rose Gold Black/Grey Watch with extra Black straps</a></DT>
-<DD>Value $132</DD>
+<DT><a href="http://clusewatches.com/model/cluse-laboheme-rosegold-black-grey-CL18018" target="_blank">Tangle Teezer</a></DT>
+<DD>Value $15</DD>
 </DL>
 
 <p>Inside, the notebooks are lined and ready for you to plan your next accomplishment!</p>
+
+<br>
+
+<center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
+<img src="/images/AllureBeautyBoxSep2015Comb.jpg" border="0" style="border:none;max-width:100%;" alt="Tangle Teezer"/></a></center>
+
+
+<DL>
+<DT><a href="http://www.soapandglory.com/us/cosmetics/sexy-mother-pucker-pillow-plump-xxl" target="_blank">Soap & Glory - Sexy Mother Pucker in Pinkwell</a></DT>
+<DD>Deluxe Sample Size 4ml, Value $5.60 (Full Size 10ml $14</DD>
+</DL>
+
+<p>I love lip products with plumping effects so I was happy to see this in my box. I also love Soap & Glory and have some of their bath and skincare products. They're a UK brand that's known for their amazing lotions, retro packaging and funny product names.</p>
+
+<p>As with all lip plumping products, you'll feel a tingle when applying this on. It wasn't instant, but you feel it gradually as it stays longer on your lips. The scent is sweet and chocolatey, the look is slightly glossy, and the color is a natural sheer light pink. Great item for me.</p>
 
 <br>
 
