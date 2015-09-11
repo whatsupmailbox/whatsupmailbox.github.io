@@ -79,7 +79,7 @@ date: 2015-09-10 09:01:39 -08:00
 
 <br>
 
-<H4>And without further adieu, here are the items inside my Box of Style Fall 2015 box:</H4>
+<H4>And here are my items:</H4>
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
 <img src="/images/AllureBeautyBoxSep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Items"/></a></center>
