@@ -128,7 +128,7 @@ date: 2015-09-12 12:01:39 -08:00
 <DD>Sample Size 15ml/0.5fl.oz, Value $2 (Full Size 250ml $29</DD>
 </DL>
 
-<p>I actually like Pixi by Petra, but mostly use their makeup and not skincare so I am excited to try this. Plus it's a toner which is a must have in my skincare regimen, so that was perfect. This toner gently exfoliates to even out skintone for a brighter, smoother and more glowing complexion. Hence the name Glow Tonic. I like it and this size will be perfect for when I travel.</p>
+<p>I actually like Pixi by Petra, but mostly use their makeup and not skincare so I'm excited to try this. Plus it's a toner which is a must have in my skincare regimen, so that was perfect. This toner gently exfoliates to even out skintone for a brighter, smoother and more glowing complexion. Hence the name Glow Tonic. I like it and this size will be perfect for when I travel.</p>
 
 <br>
 
@@ -144,7 +144,7 @@ date: 2015-09-12 12:01:39 -08:00
 
 <p>This face soap smells amazing! It's fresh, beachy and so uplifting. At first I thought it was a body bar (a very tiny one). But then I read the description on the info booklet plus their website and realized it's a face bar. Now that makes sense.</p>
 
-<p>This is a moisturizing soap that gets rid of dirt, clears away oil and impurities that block needed nutrients, plus it balances and binds moisture to skin. Although I'm not big on washing my face with a bar soap, I will surely try this because the scent is just so amazing.</p>
+<p>This is a moisturizing soap that gets rid of dirt, clears away oil and impurities that block needed nutrients, plus it balances and binds moisture to skin. Although I'm not big on washing my face with a soap bar, I will surely try this because the scent is just so amazing.</p>
 
 <br>
 
