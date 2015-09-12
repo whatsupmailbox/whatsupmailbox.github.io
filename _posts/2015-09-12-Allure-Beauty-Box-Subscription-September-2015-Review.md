@@ -19,7 +19,7 @@ date: 2015-09-12 12:01:39 -08:00
 <img src="/images/AllureBeautyBoxSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box"/></a></center>
 <p><b>Subscription:</b> <a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">Allure Beauty Box</a></p>
 <p><b>Cost:</b> $15/monthly (taxes apply to CA)</p>
-<p><b>What's in the box:</b> At least five deluxe-size product samples from major brands and innovative newcomers that our editors deem the best of the best. Plus, you'll also get a special-edition "mini magazine" chock full of the most trusted product reviews you've come to expect from Allure.</p>
+<p><b>What's in the box:</b> At least five deluxe-sized product samples from major brands and innovative newcomers that our editors deem the best of the best. Plus, you'll also get a special-edition "mini magazine" chock full of the most trusted product reviews you've come to expect from Allure.</p>
 
 <br>
 
