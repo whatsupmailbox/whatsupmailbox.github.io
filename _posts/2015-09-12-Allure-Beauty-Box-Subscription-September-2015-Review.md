@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Allure Beauty Box Review - September 2015
 featured: false
 comments: true
@@ -12,7 +12,7 @@ categories:
 headline: Allure Beauty Box Review - September 2015
 description: ""
 tags: [Allure Beauty Box, Subscriptions, Reviews, September 2015]
-date: 2015-09-12 12:01:39 -08:00
+date: 2015-09-12 12:31:39 -08:00
 ---
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
@@ -168,13 +168,11 @@ date: 2015-09-12 12:01:39 -08:00
 <DD>Sample Size 3ml/0.10oz., Value $17 (Full Size 1oz. $170)</DD>
 </DL>
 
-<p>This skin transforming serum combines 50% Hyaluronic Acid with Plant Stem Cells and Nobel Prize-winning DNA technology to redefine facial contours by firming and resurfacing the skin. Hyaluronic Acid is the ingredient that Juvederm, Restylane and other plumping injectables have. This serum has 50% which will surely work wonders in plumping and smoothing out wrinkles without the pain. That and the added moisturizing ingredients makes this quite a might serum. It better be since 1 ounce of it costs $170! My wallet is hoping I don't fall in love with this, but I think I just might, sigh.</p>
+<p>This skin transforming serum combines 50% Hyaluronic Acid with Plant Stem Cells and Nobel Prize-winning DNA technology to redefine facial contours by firming and resurfacing the skin. Hyaluronic Acid is the ingredient that Juvederm, Restylane and other plumping injectables have. This serum has 50% which will surely work wonders in plumping and smoothing out wrinkles without the pain. That and the added moisturizing ingredients makes this quite a mighty serum. It better be since 1 ounce of it costs $170! My wallet is hoping I don't fall in love with this, but I think I just might, sigh.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was awesome, especially for $15! The Tangle Teezer alone costs that much, plus that serum is worth $17! And not just that, I will surely use every item (if I haven't already done so) so that makes this even more worth it. The total value of this box came up to $xxx which again is pretty amazing for the cost of this box. Definitely a great subscription to have if you're into beauty and skincare, but also want some full-sized items in your box.</p>
-
-<p>If you haven't subscribed yet, you can <a href="http://fbuy.me/cJCZ1" target="_blank"><big>visit their website for more info or to join</big></a> and your first box will be October. They ship on or around the 1st of every month.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was awesome, especially for $15! The Tangle Teezer alone costs that much, plus that serum is worth $17! And not just that, I will surely use every item (if I haven't already done so) so that makes this even more worth it. The total value of this box came up to $57 which again is pretty amazing for the cost of this box. Definitely a great subscription to have if you're into beauty and skincare, but also want some full-sized items in your box.</p>
 
 <br>
 
