@@ -34,7 +34,7 @@ date: 2015-09-12 12:01:39 -08:00
 
 <p>Every box comes with a "mini magazine" that details all the items in the box, their benefits and ingredients, prices and where to buy.</p>
 
-<p>Here's the pages from the info booklet:</p>
+<p>Here's the pages from the mini magazine:</p>
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
 <img src="/images/AllureBeautyBoxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Info"/></a></center>
 
