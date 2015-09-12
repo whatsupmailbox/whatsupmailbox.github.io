@@ -32,7 +32,7 @@ date: 2015-09-12 12:01:39 -08:00
 
 <p>I actually received this box last week but life has been hectic and I finally had the time to do the review today.</p>
 
-<p>Every box comes with a small booklet style info that details all the items in the box, their benefits and ingredients, prices and where to buy.</p>
+<p>Every box comes with a "mini magazine" that details all the items in the box, their benefits and ingredients, prices and where to buy.</p>
 
 <p>Here's the pages from the info booklet:</p>
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
