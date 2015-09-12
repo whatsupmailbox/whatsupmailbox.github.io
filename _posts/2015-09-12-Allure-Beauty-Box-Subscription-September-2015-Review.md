@@ -109,7 +109,7 @@ date: 2015-09-12 12:01:39 -08:00
 <br>
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015Alterna.jpg" border="0" style="border:none;max-width:100%;" alt="Alterna Caviar Anti-Aging® Replenishing Moisture Milk"/></a></center>
+<img src="/images/AllureBeautyBoxSep2015Hair.jpg" border="0" style="border:none;max-width:100%;" alt="Alterna Caviar Anti-Aging® Replenishing Moisture Milk"/></a></center>
 
 <DL>
 <DT><a href="http://www.sephora.com/caviar-anti-aging-replenishing-moisture-milk-P386605" target="_blank">Alterna Caviar Anti-Aging® Replenishing Moisture Milk</a></DT>
@@ -149,7 +149,7 @@ date: 2015-09-12 12:01:39 -08:00
 <br>
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015Primer.jpg" border="0" style="border:none;max-width:100%;" alt="Jane Iredale - Smooth Affair Facial Primer & Brightener"/></a></center>
+<img src="/images/AllureBeautyBoxSep2015Face.jpg" border="0" style="border:none;max-width:100%;" alt="Jane Iredale - Smooth Affair Facial Primer & Brightener"/></a></center>
 
 <DL>
 <DT><a href="https://janeiredale.com/us/en/mineral-makeup/mineral-makeup-foundation/smooth-affair-facial-primer-brightener.htm" target="_blank">Jane Iredale - Smooth Affair Facial Primer & Brightener</a></DT>
