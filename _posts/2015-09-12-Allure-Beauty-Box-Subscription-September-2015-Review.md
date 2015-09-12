@@ -28,36 +28,15 @@ date: 2015-09-12 12:01:39 -08:00
 <br>
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Package"/></a></center>
+<img src="/images/AllureBeautyBoxSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Package"/></a></center>
 
-<p>I actually received this box last week but didn't have the time to sample everything yet, but now that I have, I am ready to do the review!</p>
+<p>I actually received this box last week but life has been hectic and I finally had the time to do the review today.</p>
 
-<br>
-
-<center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box"/></a></center>
-
-<figcaption>First look at unboxing</figcaption>
-
-<br>
-
-<p>This box is packed with stuff, I can't believe there's a Tangle Teezer in here, yay!</p>
-
-<br>
-
-<center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Package"/></a></center>
-<figcaption>Small Info Magazine</figcaption>
-
-<br>
-
-<p>The info card comes in a small booklet style with all the items listed, their benefits and ingredients, prices and where to buy.</p>
-
-<br>
+<p>Every box comes with a small booklet style info that details all the items in the box, their benefits and ingredients, prices and where to buy.</p>
 
 <p>Here's the pages from the info booklet:</p>
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
-<img src="/images/AllureBeautyBoxSep2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Info"/></a></center>
+<img src="/images/AllureBeautyBoxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Allure Beauty Box Info"/></a></center>
 
 <figcaption>Page 1 & 2</figcaption>
 
@@ -75,16 +54,12 @@ date: 2015-09-12 12:01:39 -08:00
 
 <br>
 
-<p>I love that they include pictures of some items modeled. Nice touch and oh-so-very helpful.</p>
-
-<br>
-
 <H4>And here are my items:</H4>
 
 <center><a href="http://www.allure.com/beauty-products/beauty-box" target="_blank">
 <img src="/images/AllureBeautyBoxSep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Box of Style Fall 2015 Items"/></a></center>
 
-<p>I'm still ecstatic on getting a Tangle Teezer in this box, I love them and it's also in my favorite color too, Pink. Score.</p>
+<p>I'm super ecstatic on getting a Tangle Teezer in this box, I love them and it's also in my favorite color too, Pink. #score.</p>
 
 <br>
 
@@ -99,7 +74,7 @@ date: 2015-09-12 12:01:39 -08:00
 <DD>Value $15</DD>
 </DL>
 
-<p>I was pleasantly surprised to see this item in the box, especially since I'm already a fan.</p>
+<p>Again, I was pleasantly surprised to see this item in the box, especially since I'm already a fan.</p>
 
 <p>This is the "Original Detangling Hairbrush" that features a patented teeth formation that bends and flexes throughout the hair without locking into tangles. It minimizes hair breakage and cuticle damage while adding shine. It is ergonomically designed to fit snugly in your palm for creative styling and easy handling.</p>
 
