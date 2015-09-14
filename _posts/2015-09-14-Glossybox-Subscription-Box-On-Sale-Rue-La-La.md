@@ -24,7 +24,11 @@ date: 2015-09-14 11:35:39 -08:00
 <li>6 months $95 (reg. 126)</li>
 </ul>
 
+<p><i>Validity: September 15 through December 14, 2015</i></p>
+
 <p>This is a good deal to try out Glossybox and see if it's right for you. I'd suggest trying the 1-month deal since the savings is a little bit more compared to the 6-month deal.</p>
+
+<p>You can <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">visit Ruelala and purchase this deal here</a>. But hurry, this deal ends next Monday, Sept 21st at 8am PST.</p>
 
 <p>*Note: You will be enrolled in their monthly subscription plan afterwards, so make sure to cancel prior if you don't plan on keeping the subscription. You must cancel by the 14th of the month prior and this can be done directly through your online account.</p>
 
