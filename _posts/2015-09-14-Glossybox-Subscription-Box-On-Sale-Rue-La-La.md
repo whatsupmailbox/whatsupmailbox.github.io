@@ -34,7 +34,6 @@ date: 2015-09-14 12:19:39 -07:00
 <img src="/images/GlossyboxRuelala.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
 </a></center>
 
-<center><img src='/images/GlossyboxRuelala.jpg'></center>
 <p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
 <p><b>Cost:</b> $21 / month + Free Shipping in the US</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> and get the box for only $15!</p>
