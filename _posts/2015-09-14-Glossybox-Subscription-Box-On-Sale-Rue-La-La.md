@@ -7,11 +7,11 @@ category: Subscriptions
 tags: [Glossybox, Subscriptions, RueLaLa]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxRuelala.jpg"
-date: 2015-09-14 12:19:39 -07:00
+date: 2015-09-14 11:35:39 -08:00
 ---
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
@@ -35,7 +35,7 @@ date: 2015-09-14 12:19:39 -07:00
 </a></center>
 
 <p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
-<p><b>Cost:</b> $21 / month + Free Shipping in the US</p>
+<p><b>Cost:</b> $21/monthly + Free Shipping in the US</p>
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> and get the box for only $15!</p>
 <p><b>What's in the box:</b> Receive a selection of five beauty products that include niche, high-end, and emerging brands, housed in reusable keepsake boxes.</p>
 
