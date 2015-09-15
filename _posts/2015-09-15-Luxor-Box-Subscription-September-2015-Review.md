@@ -131,10 +131,16 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
 <DD>Value $45</DD>
 </DL>
 
-<p>This brand was also in my previous Popsugar box, but it was a difusser that smelled oh-so-good! So of course I'm happy that I received another product by them. As soon as I opened the box, I noticed an amazing scent and now I know, this is it! Love it!</p>
+<p>This brand was also in my previous Popsugar box, but it was a difusser that smelled oh-so-good! So of course I'm happy that I received another product by them.</p>
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
 <img src="/images/LuxorBoxSep2015Candle2.jpg" border="0" style="border:none;max-width:100%;" alt="Green Market Purveyor Candle" />
+</a></center>
+
+<p>As soon as I opened the box, I noticed an amazing scent and now I know, this is it! Love it!</p>
+
+<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
+<img src="/images/LuxorBoxSep2015Candle3.jpg" border="0" style="border:none;max-width:100%;" alt="Green Market Purveyor Candle" />
 </a></center>
 
 <p>Made with soy wax and natural wick, this is surely my type of candle and I absolutely adore the glass jar and will be reusing it once the candle is gone.</p>
