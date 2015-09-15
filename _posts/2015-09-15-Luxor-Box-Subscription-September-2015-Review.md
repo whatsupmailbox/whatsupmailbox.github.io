@@ -81,7 +81,9 @@ date: 2015-09-15 13:05:39 -08:00
 
 <p>This bracelet was revealed last month as an item in the box, but it was so long ago that I actually forgot about it. I love the design - simple, clean and chic - and I also LOVE that it's gold.</p>
 
-<center><img src="/images/LuxorBoxJuly2015Bracelet2.jpg"></center>
+<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
+<img src="/images/LuxorBoxSep2015Bracelet2.jpg" border="0" style="border:none;max-width:100%;" alt="Meredith Hahn Bracelet" />
+</a></center>
 <figcaption>Closer look at the bracelet</figcaption>
 <br>
 
