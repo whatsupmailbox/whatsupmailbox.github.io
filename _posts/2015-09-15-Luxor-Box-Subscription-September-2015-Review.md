@@ -70,16 +70,16 @@ date: 2015-09-15 13:05:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Bracelet.jpg" border="0" style="border:none;max-width:100%;" alt="Meredith Hahn Bracelet" />
+<center><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">
+<img src="/images/LuxorBoxSep2015Bracelet.jpg" border="0" style="border:none;max-width:100%;" alt="Meredith Hahn Tatum Cuff" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.puraproducts.com/product/essentials-pouch/" target="_blank">Meredith Hahn Bracelet</a></DT>
-<DD>Value $298</DD>
+<DT><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">Meredith Hahn Tatum Cufft</a></DT>
+<DD>Value $268</DD>
 </DL>
 
-<p>This bracelet was revealed last month as an item in the box, but it was so long ago that I actually forgot about it. I love the design - simple, clean and chic - and I also LOVE that it's gold.</p>
+<p>This bracelet was revealed last month as an item in the box, but it was so long ago that I actually forgot about it. I love the design - simple, clean and chic - and I also LOVE that it's gold. Well, to be exact, it's 18k vermeil which means it's 925 sterling silver plated with Gold.</p>
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
 <img src="/images/LuxorBoxSep2015Bracelet2.jpg" border="0" style="border:none;max-width:100%;" alt="Meredith Hahn Bracelet" />
@@ -87,13 +87,13 @@ date: 2015-09-15 13:05:39 -08:00
 <figcaption>Closer look at the bracelet</figcaption>
 <br>
 
-<p>With a value of $298, this bracelet is quite a gem. I would never have purchased this myself especially at that price, but that's why I subscribe to these boxes since now I can have it without spending that dough!</p>
+<p>With a value of $268, this bracelet is quite a gem. I would never have purchased this myself especially at that price, but that's why I subscribe to these boxes since now I can have it without spending that dough!</p>
 
 <p>When I did try it on, for some reason it was scratching my hands, like there were some sharp edges. Turns out the ends of the bracelet where you insert your hand was either knicked off or slight pieces broke off and that created sharp edges. I emailed Luxor Box right away and they replied the next day (I emailed at night) with instructions on how to mail it back to them and once they receive it they'll mail out a replacement as soon as possible. I do hope it won't take too long because I love this bracelet and can't wait to use it!</p>
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
+<center><a href="http://www.dartington.co.uk/little-gems-beehive-amber-vase.html" target="_blank">
 <img src="/images/LuxorBoxSep2015Vase.jpg" border="0" style="border:none;max-width:100%;" alt="Dartington Little Gems Vase in Cobalt Blue" />
 </a></center>
 
@@ -112,13 +112,22 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
 </a></center>
 
 <DL>
-<DT><a href="http://robynrhodes.com/jerry.html" target="_blank">Robyn Rhodes - Jerry Necklace</a></DT>
-<DD>Value $89</DD>
+<DT><a href="http://www.puraproducts.com/product/all-natural-body-beautiful-cleanser/" target="_blank">Pura Vida All-Natural Cleanser-Body Beautiful Cleanser</a></DT>
+<DD>Value $14</DD>
 </DL>
 
 <p>There was a Pura Vida makeup pouch in the last Luxor Box (you can read my review of it here), so I was surprised to see this brand again this time around. Subscribers received either this set, Mint Body Lotion & Cleanser, or the Mint Shampoo & Conditioner set.</p>
 
+<p>This will cleanse and moisturize your body with organic aloe and shea butter.</p>
+
+<DL>
+<DT><a href="http://www.puraproducts.com/product/all-natural-lotion-to-love/" target="_blank">Pura Vida All-Natural Lotion to Love</a></DT>
+<DD>Value $14</DD>
+</DL>
+
 <p>I love the scent of mint so this was perfect for me. I'm also glad I got the body lotion and cleanser versus the hair set as I'm a bit more picky on what I use for my hair. With all the lotions I've been getting lately in my subscription boxes, winter has nothing on me!</p>
+
+<p>Leaves skin moist and supple with all-natural avocado, coconut, and olive oils.</p>
 
 <br>
 
@@ -186,8 +195,8 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Pura Botanica - Essentials Pouch</TD>
-      <TD>$18</TD>
+      <TD>Meredith Hahn Tatum Cuff</TD>
+      <TD>$268</TD>
    </TR>
   <TR>
       <TD>Mary Jurek Design - Kenya Indian Rosewood Round Box</TD>
