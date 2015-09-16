@@ -103,87 +103,86 @@ date: 2015-09-15 13:05:39 -08:00
 </DL>
 
 <p>There are 4 variations in color that subscribers will receive. You can <a href="http://www1.bloomingdales.com/shop/product/dartington-gems-vases?ID=1144150&CategoryID=3865#fn=spp%3D2%26ppp%3D180%26sp%3DNull%26rid%3DNull%26cm_kws%3Ddartington%20%26pn%3D1" target="blank">see the other colors here</a>.
-Although I do have blue in my decor, it's more of a tourquise blue so I'm not sure that this will fit. But it is quite pretty so I will surely find a place for this.</p>
+Although I do have blue in my decor, it's more of a tourquise blue so I'm not sure that this will fit. And the size is too small for my taste so sadly this item was a pass for me.</p>
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="Pura Vida Body Lotion & Cleanser" />
+<center><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">
+<img src="/images/LuxorBoxSep2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="Pura Vida Freshly Minted Body Combo Set" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.puraproducts.com/product/all-natural-body-beautiful-cleanser/" target="_blank">Pura Vida All-Natural Cleanser-Body Beautiful Cleanser</a></DT>
-<DD>Value $14</DD>
+<DT><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">Pura Vida Freshly Minted Body Combo Set</a></DT>
+<DD>Value $125</DD>
 </DL>
 
-<p>There was a Pura Vida makeup pouch in the last Luxor Box (you can read my review of it here), so I was surprised to see this brand again this time around. Subscribers received either this set, Mint Body Lotion & Cleanser, or the Mint Shampoo & Conditioner set.</p>
+<p>There was a Pura Vida makeup pouch in the last Luxor Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-July-2015-Review/" target="_blank">you can read my review of it here</a>), so I was surprised to see this brand again this time around. Subscribers received either this set, Body Lotion & Cleanser, or the Shampoo & Conditioner set.</p>
 
-<p>This will cleanse and moisturize your body with organic aloe and shea butter.</p>
+<p>The cleanser is made with Organic Aloe and Shea Butter that works to cleanse and moisturize the skin, while the added Jojoba Seed Oil washes away any dead skin. The scent is minty fresh which I love and I can't wait to use this in the shower.</p>
 
-<DL>
-<DT><a href="http://www.puraproducts.com/product/all-natural-lotion-to-love/" target="_blank">Pura Vida All-Natural Lotion to Love</a></DT>
-<DD>Value $14</DD>
-</DL>
+<p>The lotion is made with Avocado Oil to reduce skin inflammation and redness, antioxidant-rich Coconut Oil to provide deep moisture, and Cocoa Seed Butter to prevent dry skin. The scent is minty fresh as well and I love that they included a pouch for these two bottles, will definitely come in handy when I travel.</p>
 
-<p>I love the scent of mint so this was perfect for me. I'm also glad I got the body lotion and cleanser versus the hair set as I'm a bit more picky on what I use for my hair. With all the lotions I've been getting lately in my subscription boxes, winter has nothing on me!</p>
-
-<p>Leaves skin moist and supple with all-natural avocado, coconut, and olive oils.</p>
+<p>I'm so glad I got the body lotion and cleanser versus the hair set. I tend to be a bit picky on what I use for my hair. With all the lotions I've been getting lately in my subscription boxes, winter has nothing on me!</p>
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Candle.jpg" border="0" style="border:none;max-width:100%;" alt="Green Market Purveyor Candle" />
+<center><a href="http://greenmarketpurveying.com/products/copy-of-blue-moss-balsam-feather-8-5oz-candle" target="_blank">
+<img src="/images/LuxorBoxSep2015Candle.jpg" border="0" style="border:none;max-width:100%;" alt="Greenmarket Purveying - Lakeside Balsam + Feather Candle" />
 </a></center>
 
 <DL>
-<DT><a href="http://julessmithdesigns.com/collections/scarves/products/distressed-infinity-scarf" target="_blank">Jules Smith - Distressed Infinity Scarf in <i>White</i></a></DT>
-<DD>Value $45</DD>
+<DT><a href="http://greenmarketpurveying.com/products/copy-of-blue-moss-balsam-feather-8-5oz-candle" target="_blank">Greenmarket Purveying - Lakeside Balsam + Feather Candle</a></DT>
+<DD>8.5oz Candle, Value $25</DD>
 </DL>
 
 <p>This brand was also in my previous Popsugar box, but it was a difusser that smelled oh-so-good! So of course I'm happy that I received another product by them.</p>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Candle2.jpg" border="0" style="border:none;max-width:100%;" alt="Green Market Purveyor Candle" />
+<center><a href="http://greenmarketpurveying.com/products/copy-of-blue-moss-balsam-feather-8-5oz-candle" target="_blank">
+<img src="/images/LuxorBoxSep2015Candle2.jpg" border="0" style="border:none;max-width:100%;" alt="Greenmarket Purveying - Lakeside Balsam + Feather Candle" />
 </a></center>
 
-<p>As soon as I opened the box, I noticed an amazing scent and now I know, this is it! Love it!</p>
+<p>As soon as I opened the box, I noticed an amazing scent and now I know, this is it! It's a scent of sweet minerals with vanilla and musk in a green glass tumbler. It smells sweet yet fresh and slightly woody. Love it!</p>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Candle3.jpg" border="0" style="border:none;max-width:100%;" alt="Green Market Purveyor Candle" />
+<center><a href="http://greenmarketpurveying.com/products/copy-of-blue-moss-balsam-feather-8-5oz-candle" target="_blank">
+<img src="/images/LuxorBoxSep2015Candle3.jpg" border="0" style="border:none;max-width:100%;" alt="Greenmarket Purveying - Lakeside Balsam + Feather Candle" />
 </a></center>
 
-<p>Made with soy wax and natural wick, this is surely my type of candle and I absolutely adore the glass jar and will be reusing it once the candle is gone.</p>
+<p>Made with soy wax and cotton wick, this is surely my type of candle and I absolutely adore the glass jar and will be reusing it once the candle is gone.</p>
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Henna Lip Balm" />
+<center><a href="https://henneorganics.com/lip-balm" target="_blank">
+<img src="/images/LuxorBoxSep2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Henné Organics Lip Balm" />
 </a></center>
 <DL>
-<DT><a href="http://www.co-pur.com/products/facial-scrub-mask-two-in-one" target="_blank">Co Pur - Facial Scrub & Mask Two-In-One</a></DT>
-<DD>Value $24</DD>
+<DT><a href="https://henneorganics.com/lip-balm" target="_blank">Henné Organics - Luxury Organic Lip Balm</a></DT>
+<DD>Full Size 10ml, Value $22</DD>
 </DL>
 
-<p>I can never have enough lip balms or lip products for that matter.</p>
+<p>I can never have enough lip balms or lip products for that matter. This one is very moisturizing and not only is it good for your lips, you can also use this on dry areas such as hands, elbows, heels and anywhere else that requires moisturization.</p>
+
+<p><i>Ingredients: Organic Persea Americana (Avocado) Oil, Organic Cocos Nucifera (Coconut) Oil, Organic Cera Alba (Beeswax), Organic Butyrospermum Parkii (Shea Butter) Fruit, Organic Theobroma Cacao (Cocoa) Seed Butter, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol (Vitamin E).</i></p>
+
+<p>You can definitely smell the cocoa butter, which I don't mind, and the texture is so velvelty soft and creamy. I used it on my dry lips today and it definitely felt moisturized after applying this on.</p>
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxSep2015Pad.jpg" border="0" style="border:none;max-width:100%;" alt="Thought Pad" />
+<center><a href="http://www.einvite.com/product/detail/NPS-KVO-ZENS.html" target="_blank">
+<img src="/images/LuxorBoxSep2015Pad.jpg" border="0" style="border:none;max-width:100%;" alt="eInvite Idea Catcher Fleur-de-lis" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.co-pur.com/products/all-in-one-pure-moisture" target="_blank">Co Pur - Moisturizer + Makeup Remover</a></DT>
-<DD>Value $19.95</DD>
+<DT><a href="http://www.einvite.com/product/detail/NPS-KVO-ZENS.html" target="_blank">eInvite Idea Catcher Fleur-de-lis</a></DT>
+<DD>100 count, 3" x 4" size, Value $19.95</DD>
 </DL>
 
-<p>What an interesting item. It's supposed to be a pad for you to jot your ideas or anything you need to write at a moment's notice. It comes with 100 extra refills and the size is small enough to insert into your pocket. I'm not sure I'll be able to use this, so I might gift it.</p>
+<p>What an interesting item. It's supposed to be a pad for you to jot your ideas or anything you need to write at a moment's notice. It comes with 100 heavy weight cream cards as well as a heavy card stock carrying case that fits nicely into pockets or handbags. It features a fleur-de-lis motif in raised taupe ink. I'm not sure I'll be using this as I have so many notepads that I use instead (this is too small for my big handwriting), so I might gift it.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Hmmm, I'm not sure I'm in love with this box, it just wasn't "luxor" enough for me. I had an issue with the bracelet which is not a good sign of quality from that brand, the vase was meh, and the idea cards are like "what is this all about". </p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Hmmm, I'm not sure I'm in love with this box, it just wasn't "luxor" enough for me. I had an issue with the bracelet which is not a good sign of quality from that brand (nothing against Luxor Box), the vase was meh, and the idea catcher from eInvite just seemed like an odd item to put in a high-priced box. I'm still happy with most of the items and of course I'll continue to subscribe because it's still worth it to me even minus the vase and idea catcher. I hope Luxor Box collaborates with better jewelry brands though like (cough cough) Miansai, or maybe Kendra Scott? Am I wishing too high? ;) Well here's to hoping the next box will be more "luxor" for me.</p>
 
-<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Enrollment was closed last month due to boxes being sold out, but enrollment has now re-opened. Limited amount of new memberships are available, but only while supplies last. So if you want to try them out, now is a good time or else you may have to get on a waiting list. </p>
+<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Currently all subscriptions are sold out, so you will most likely join a waiting list, but don't worry, it typically opens up prior to the next shipment. But be on the lookout, boxes are limited so you'll have to subscribe while supplies last.</p>
 <br>
 
 <TABLE  BORDER="5" style="width:75%">
@@ -199,36 +198,32 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
       <TD>$268</TD>
    </TR>
   <TR>
-      <TD>Mary Jurek Design - Kenya Indian Rosewood Round Box</TD>
-      <TD>$50</TD>
+      <TD>Dartington Little Gems Beehive Vase</TD>
+      <TD>$30</TD>
    </TR>
    <TR>
-      <TD>Robyn Rhodes - Jerry Necklace</TD>
-      <TD>$89</TD>
+      <TD>Pura Vida Body Cleanser</TD>
+      <TD>$14</TD>
    </TR>
     <TR>
-      <TD>Jules Smith - Distressed Infinity Scarf</TD>
-      <TD>$45</TD>
+      <TD>Pura Vida Body Lotion</TD>
+      <TD>$14</TD>
    </TR>
     <TR>
-      <TD>Co Pur - Facial Scrub & Mask</TD>
-      <TD>$24</TD>
+      <TD>Greenmarket Purveying Candle</TD>
+      <TD>$25</TD>
    </TR>
     <TR>
-      <TD>Co Pur - Moisturizer + Makeup Remover</TD>
-      <TD>$20</TD>
+      <TD>Henné Organics Lip Balm</TD>
+      <TD>$22</TD>
    </TR>
     <TR>
-      <TD>Habit Nail Polish</TD>
-      <TD>$18</TD>
-   </TR>
-    <TR>
-      <TD>Habit Nail Polish</TD>
-      <TD>$18</TD>
+      <TD>eInvite Idea Catcher</TD>
+      <TD>$19.95</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$282</big></b></TD>
+      <TD><b><big>$392.95</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
