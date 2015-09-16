@@ -113,7 +113,7 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
 
 <DL>
 <DT><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">Pura Vida Freshly Minted Body Combo Set</a></DT>
-<DD>Value $125</DD>
+<DD>Value $25</DD>
 </DL>
 
 <p>There was a Pura Vida makeup pouch in the last Luxor Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-July-2015-Review/" target="_blank">you can read my review of it here</a>), so I was surprised to see this brand again this time around. Subscribers received either this set, Body Lotion & Cleanser, or the Shampoo & Conditioner set.</p>
@@ -206,12 +206,8 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
       <TD>$30</TD>
    </TR>
    <TR>
-      <TD>Pura Vida Body Cleanser</TD>
-      <TD>$14</TD>
-   </TR>
-    <TR>
-      <TD>Pura Vida Body Lotion</TD>
-      <TD>$14</TD>
+      <TD>Pura Vida Freshly Minted Body Set</TD>
+      <TD>$25</TD>
    </TR>
     <TR>
       <TD>Greenmarket Purveying Candle</TD>
