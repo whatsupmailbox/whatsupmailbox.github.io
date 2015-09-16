@@ -9,7 +9,7 @@ categories:
 tags: [Luxor Box, Subscriptions, Reviews, September 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxSep2015Items.jpg"
@@ -223,7 +223,7 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$392.95</big></b></TD>
+      <TD><b><big>$389.95</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
