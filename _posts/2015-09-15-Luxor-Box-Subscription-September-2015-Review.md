@@ -109,15 +109,15 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
 <br>
 
 <center><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">
-<img src="/images/LuxorBoxSep2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="Pura Vida Freshly Minted Body Combo Set" />
+<img src="/images/LuxorBoxSep2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="Pura Botanica Freshly Minted Body Combo Set" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">Pura Vida Freshly Minted Body Combo Set</a></DT>
+<DT><a href="http://www.puraproducts.com/product/freshly-minted-body-combo-set/" target="_blank">Pura Botanica Freshly Minted Body Combo Set</a></DT>
 <DD>Value $25</DD>
 </DL>
 
-<p>There was a Pura Vida makeup pouch in the last Luxor Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-July-2015-Review/" target="_blank">you can read my review of it here</a>), so I was surprised to see this brand again this time around. Subscribers received either this set, Body Lotion & Cleanser, or the Shampoo & Conditioner set.</p>
+<p>There was a Pura Botanica makeup pouch in the last Luxor Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-July-2015-Review/" target="_blank">you can read my review of it here</a>), so I was surprised to see this brand again this time around. Subscribers received either this set, Body Lotion & Cleanser, or the Shampoo & Conditioner set.</p>
 
 <p>The cleanser is made with Organic Aloe and Shea Butter that works to cleanse and moisturize the skin, while the added Jojoba Seed Oil washes away any dead skin. The scent is minty fresh which I love and I can't wait to use this in the shower.</p>
 
