@@ -171,6 +171,10 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
 <img src="/images/LuxorBoxSep2015Pad.jpg" border="0" style="border:none;max-width:100%;" alt="eInvite Idea Catcher Fleur-de-lis" />
 </a></center>
 
+<center><a href="http://www.einvite.com/product/detail/NPS-KVO-ZENS.html" target="_blank">
+<img src="/images/LuxorBoxSep2015Pad2.jpg" border="0" style="border:none;max-width:100%;" alt="eInvite Idea Catcher Fleur-de-lis" />
+</a></center>
+
 <DL>
 <DT><a href="http://www.einvite.com/product/detail/NPS-KVO-ZENS.html" target="_blank">eInvite Idea Catcher Fleur-de-lis</a></DT>
 <DD>100 count, 3" x 4" size, Value $19.95</DD>
