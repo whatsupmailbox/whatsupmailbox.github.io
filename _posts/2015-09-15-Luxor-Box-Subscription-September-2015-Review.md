@@ -59,7 +59,8 @@ date: 2015-09-15 15:05:39 -08:00
 <figcaption>The info cards</figcaption>
 <br>
 
-<p>A couple of spoilers were released prior, but Luxor Box is different in a way where they only release the brand name and you get to dream up all sorts of guesses or wishes as to what the actual item may be. So it still gets to be a surprise. I actually like that since you still get to be excited about the product without really knowing what it is. Oh the suspense.</p>
+<p>Each info card details the items, value and coupons whenever available.</p>
+
 <br>
 
 <H4>And here are the items inside:</H4>
