@@ -207,7 +207,7 @@ Although I do have blue in my decor, it's more of a tourquise blue so I'm not su
       <TD>$30</TD>
    </TR>
    <TR>
-      <TD>Pura Vida Freshly Minted Body Set</TD>
+      <TD>Pura Botanica Freshly Minted Body Set</TD>
       <TD>$25</TD>
    </TR>
     <TR>
