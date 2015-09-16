@@ -13,7 +13,7 @@ published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxSep2015Items.jpg"
-date: 2015-09-15 13:05:39 -08:00
+date: 2015-09-15 15:05:39 -08:00
 ---
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
