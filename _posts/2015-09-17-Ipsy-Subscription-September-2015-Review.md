@@ -104,7 +104,7 @@ date: 2015-09-17 09:20:39 -08:00
 <DD>Travel Size 20g, Value $5.50 (Full Size 120g $32)</DD>
 </DL>
 
-<p>I received this cleanser previously from another subscription and I still haven't finished that bottle yet. It worked well though for my oily/combination skin so I'm happy to add another one into my skincare collection. It's also vegan, paraben-free and cruelty-free.</p>
+<p>I received this cleanser previously from another subscription and I still haven't finished that bottle yet. It worked well for my oily/combination skin so I'm happy to add another one into my skincare collection. It's also vegan, paraben-free and cruelty-free.</p>
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
@@ -115,7 +115,7 @@ date: 2015-09-17 09:20:39 -08:00
 <DD>Deluxe Sample Size 3-pan 1.7g, Value $3.50 (Full Size 6-pan 5.76g $12)</DD>
 </DL>
 
-<p>This sample is quite small, but since it's for brows, it'll probably still last me for quite some time. It consists of two eyebrow shades and a highlighter. I think I'll be able to use these shades either separately or combined as sometimes I like to go lighter more natural on the brows and other times I like them dark and defined.</p>
+<p>This sample is quite small, but since it's for brows, it'll probably still last me for quite some time. It consists of two eyebrow shades and a highlighter. I think I'll be able to use these shades either separately or combined as sometimes I like to go lighter more natural and other times I like them dark and defined.</p>
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month was much better than last month's items. I got 2 palettes and a lip product, yay! I actually love every single item in my bag and will surely be using them. Ipsy got it right again this month!</p>
