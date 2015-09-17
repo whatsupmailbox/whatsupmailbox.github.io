@@ -63,7 +63,7 @@ date: 2015-09-17 09:20:39 -08:00
 <DD>Full Size 2.5 g, Value $18</DD>
 </DL>
 
-<p>I love lip products, can never have enough of them so I was happy to get this in my bag. As summer is closing and we're entering Fall then Winter, this is when I transition the colors of my makeup to darker and bolder colors.</p>
+<p>I love lip products, can never have enough of them so I was happy to get this in my bag. As summer is closing and we're entering Fall and Winter, this is when I transition the colors of my makeup to darker and bolder colors.</p>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsySep2015Lip2.jpg" border="0" style="border:none;max-width:100%;" alt="Liptini Lipstick in Starlet Cocktail" />
