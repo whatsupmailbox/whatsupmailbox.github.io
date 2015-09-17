@@ -118,7 +118,7 @@ date: 2015-09-17 09:20:39 -08:00
 <p>This sample is quite small, but since it's for brows, it'll probably still last me for quite some time. It consists of two eyebrow shades and a highlighter. I think I'll be able to use these shades either separately or combined as sometimes I like to go lighter more natural and other times I like them dark and defined.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month was much better than last month's items. I got 2 palettes and a lip product, yay! I actually love every single item in my bag and will surely be using them. Ipsy got it right again this month!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month was much better than last month's items. I got 2 palettes and a lip product, yay! I actually love every single item in my bag and will surely be using them. The value is also definitely there for me if not more, and I absolutely loved this month's bag design. Ipsy got it right again this month!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
 <br>
