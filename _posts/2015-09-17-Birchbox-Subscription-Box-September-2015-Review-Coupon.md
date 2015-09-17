@@ -64,7 +64,7 @@ date: 2015-09-17 14:29:39 -08:00
 <DD>Full Size 0.12oz., Value $22</DD>
 </DL>
 
-<p>I can't believe I got a full-sized lip product, hurray!!! I've heard of Mally before but never tried any of their products, so I'm super delighted that I'll get to know. And did I mention this was a full-sized product!</p>
+<p>I can't believe I got a full-sized lip product, hurray!!! I've heard of Mally before but never tried any of their products, so I'm super delighted that I'll get to now. And did I mention this was a full-sized product!</p>
 
 <p>This is a 4-in-1 product that includes lip primer, lipstick, lip gloss, and lip liner all in one! It's texture is creamy and it does give you shine like a lip gloss. I love the color, it's very natural on my lips and the shine is perfect too. What a great item!</p>
 
