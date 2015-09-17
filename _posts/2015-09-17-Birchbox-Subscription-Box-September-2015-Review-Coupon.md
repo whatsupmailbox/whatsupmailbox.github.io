@@ -34,6 +34,18 @@ date: 2015-09-17 14:29:39 -08:00
 <p>This box was designed to celebrate Birchbox customers as they celebrate their 5-year anniversary. The message is uplifting and the design is quite artistic. I'll be displaying this box on top of my vanity to remind me everyday that no matter what "you're beautiful" ;)</p>
 <br>
 
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
+</a></center>
+<figcaption>First Look at Unboxing</figcaption>
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxSep2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
+</a></center>
+<figcaption>Second Look at Unboxing</figcaption>
+<br>
+
 <figure class="half">
             <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Front Info Card" /></a>
