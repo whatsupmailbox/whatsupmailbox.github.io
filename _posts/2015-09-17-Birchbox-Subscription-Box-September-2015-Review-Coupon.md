@@ -46,14 +46,16 @@ date: 2015-09-17 14:10:39 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<figure class="half">
-            <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Front Info Card" /></a>
-            <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Back Info Card" /></a>
-</figure>
+<p>Each monthly box includes an info card that details the theme and items you received:</p>
 
-<p>Each monthly box includes an info card that details the theme and items you received.</p>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Front Info Card" /></a></center>
+<figcaption>Front of the card</figcaption>
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Back Info Card" /></a></center>
+<figcaption>Back of the card</figcaption>
 <br>
 
 <H4>And here are my items:</H4>
