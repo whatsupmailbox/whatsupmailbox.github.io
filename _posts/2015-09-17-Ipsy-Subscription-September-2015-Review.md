@@ -33,7 +33,7 @@ date: 2015-09-17 09:01:39 -08:00
 <img src="/images/IpsySep2015Bag.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy August Glam Bag Items!" />
 </a></center>
 <figcaption>Ipsy September 2015 Bag</figcaption>
-</figure>
+
 <br>
 
 <p>Every month Ipsy sends their items in makeup bags that they produce exclusively. September's theme is "Face Fashion" and I'm guessing it's in line with New York Fashion Week happening right now. So it's only appropriate to design this month's bag to be all glitzy, gold and glam!</p>
@@ -43,6 +43,7 @@ date: 2015-09-17 09:01:39 -08:00
       <img src='/images/IpsySep2015Info.jpg'>
       <img src='/images/IpsySep2015Info2.jpg'>
 </figure>
+
 <p>They also include a card noting the theme for the month and in the back is a short note from them and as always, a chance to win one-year of Glam Bag subscription.</p>
 <br>
 
