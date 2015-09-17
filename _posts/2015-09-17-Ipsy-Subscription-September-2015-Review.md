@@ -80,7 +80,7 @@ date: 2015-09-17 09:20:39 -08:00
 <DD>Full Size, Value $6</DD>
 </DL>
 
-<p>Getting a palette in my bag is just awesome, esepecially since this one is an Ipsy exclusive! The three colors are quite versatile and can be used lightly for day or darker for night. The light gold and brown colors have shimmer while the dark brown color is matte. I can surely play around with these eyeshadows and such a great size for traveling</p>
+<p>Getting a palette in my bag is just awesome, especially since this one is an Ipsy exclusive! The three colors are quite versatile and can be used lightly for day or darker for night. The light gold and brown colors have shimmer while the dark brown color is matte. I can surely play around with these eyeshadows and it's such a great size for traveling!</p>
 
 <br>
 
