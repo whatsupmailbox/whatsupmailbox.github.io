@@ -50,7 +50,7 @@ date: 2015-09-17 09:20:39 -08:00
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsySep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy September Glam Bag Items!" />
 </a></center>
-<p>Doesn't it look all glam?!</p>
+<p>Doesn't it look all glam?! I love it!</p>
 <br>
 
 <H4>Items in Detail:</H4>
