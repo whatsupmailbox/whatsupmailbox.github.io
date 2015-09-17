@@ -62,7 +62,7 @@ date: 2015-09-17 14:29:39 -08:00
 <img src="/images/BirchboxSep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox September 2015 Items!" /></a></center></p>
 <br>
 
-<p>I got 6 items this month (one of them is a bonus sample packet) and off the bat I noticed the big sized lip product!</p>
+<p>I received 6 items this month (one of them is a bonus sample packet) and off the bat I noticed the big sized lip product!</p>
 <br>
 
 <H4>Items in detail:</H4>
