@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: BirchboxSep2015Items.jpg
 headline: Birchbox September 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, September 2015]
-date: 2015-09-17 14:29:39 -08:00
+date: 2015-09-17 14:10:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -124,7 +124,7 @@ date: 2015-09-17 14:29:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.thebalm.com/balm-desert.html" target="_blank">theBalm Cosmetics - Balm Desert Bronzer/Blush</a></DT>
+<DT><a href="http://byrosiejane.com/shop/james-roll-on-perfume/" target="_blank">By Rosie Jane - James Perfume</a></DT>
 <DD>Sample Vial 1ml?, Value $7.80</DD>
 </DL>
 
