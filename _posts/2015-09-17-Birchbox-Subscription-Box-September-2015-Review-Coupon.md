@@ -104,8 +104,7 @@ date: 2015-09-17 14:29:39 -08:00
 <DD>Deluxe Sample Size 0.3 fl.oz., Value $7.50 (Full Size 1oz. $25)</DD>
 </DL>
 
-<p>Let's face it, our eyes tells no lies when it comes to our daily activities. Long hours working on the computer staring at the screen, as well as sleep deprivation instantly goes to my eyes and it doesn't look good. Darkness appears and puffiness arises. So yes, eye products are a must in my skincare regimen.</p>
-<p>First off, what I love about this particular eye cream is that, just like its name suggests, it's 100% natural and 100% vegan. The caffeine rich green tea and coffee ingredient gives anti-inflammatory benefits that improves the appearance of puffy under-eyes and brightens dark circles. So I used it this morning to brighten up my eyes and I gotta say, it feels refreshing and good on my "I need more sleep" eyes. Although this is a deluxe sample size, you don't use much on the eyes so this will surely last me awhile. So happy I got this!</p>
+<p>First off, what I love about this particular eye cream is that, just like its name suggests, it's 100% natural and 100% vegan. The caffeine rich green tea and coffee ingredient gives anti-inflammatory benefits that improves the appearance of puffy under-eyes and brightens dark circles. So I used it this morning to brighten up my eyes and I gotta say, it feels refreshing and good on my "I need more sleep" eyes. The scent is also quite sweet, like a vanilla latte in a tube! It's probably because it HAS vanilla and coffee in its ingredients, makes sense. Although this is a deluxe sample size, you won't need much on the eyes so this will surely last me awhile.</p>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
