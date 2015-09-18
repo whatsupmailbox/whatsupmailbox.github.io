@@ -112,7 +112,7 @@ date: 2015-09-18 14:01:39 -08:00
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Ears.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
+<img src="/images/PopsugarSep2015Earrings.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
 </a></center>
 
 <DL>
@@ -120,17 +120,14 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Value $10 (Popsugar stated the value as $12 but I found it cheaper on Nordstrom and used that price instead)</DD>
 </DL>
 
-<p>Finally an item I'm in love with. I drink quite a bit of tea and the simple design on this mug will go perfectly in my mug collection. I can't wait to use it!</p>
+<p>The packaging is so cute and unique, I'm already in love with this.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Ears2.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
+<img src="/images/PopsugarSep2015Earrings2.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
 </a></center>
-<p>I also appreciate that it's both microwave and dishwasher safe, a definite keeper!</p>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Ears3.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
-</a></center>
-<p>The mug was packaged in a box so it was secure and arrived in one piece.</p>
+<p>They're made of recycled brass and plated with 14k gold. As you can see from the picture above, it is quite dainty and small, but I love delicate jewelry like these and it's also my style so this was perfect for me!</p>
+
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
