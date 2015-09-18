@@ -22,7 +22,7 @@ date: 2015-09-18 09:45:39 -08:00
 
 <p><b>Subscription:</b> <a href="http://www.wickbox.co" target="_blank">Wickbox</a></p>
 <p><b>Cost:</b> $29.95/monthly (Medium Box); $39.95/monthly (Large Box)</p>
-<p><b>Shipping:</b> $5 Shipping within the United States. Worldwide shipping available but costs vary depending on Country (it's calculated at checkout).</p>
+<p><b>Shipping:</b> $5 Shipping within the United States. Worldwide shipping available but costs vary depending on Country (calculated during checkout).</p>
 <p><b>What's in the box:</b> A surprise luxury scented candle curated to your unique scent preferences. You'll be asked to complete your scent profile after checkout.  The typical burn time of a large candle is 60 - 100 hours. The typical burn time of a medium candle is 30 - 60 hours. Occasionally they'll throw in a bonus treat!</p>
 <p><b>Coupon:</b> Use coupon code <a href="http://www.wickbox.co" target="_blank">WHATSUP10</a> to get 10% off your first box!</p> 
 
