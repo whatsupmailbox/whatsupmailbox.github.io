@@ -28,9 +28,9 @@ date: 2015-09-18 09:45:39 -08:00
 
 <br>
 
-<p>I LOVE LOVE LOVE candles. My husband thinks I have a hidden stash of them somewhere since I manage to have one appear here and there all the time, lol. I just might dear, I just might.</p>
+<p>I LOVE LOVE LOVE candles. My husband thinks I have a hidden candle store somewhere in the house since I manage to have one appear here and there all the time, lol.</p>
 
-<p>So naturally I was super excited to hear about this subscription box especially since it's luxury candles, oh la la... oui oui silvouplait!</p>
+<p>So naturally I was super excited to hear about this subscription box especially since it's luxury candles, oh la la... oui oui s'il vous plaît!</p>
 
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/Wickbox2.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox" />
