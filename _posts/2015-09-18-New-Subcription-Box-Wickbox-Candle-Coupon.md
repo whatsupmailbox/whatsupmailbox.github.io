@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Subscription: Wickbox + 10% off their launch box!"
-description: ""
+description: "Luxury Candle"
 headline: "New Subscription: Wickbox + 10% off their launch box!"
 categories: 
       - Subscriptions
