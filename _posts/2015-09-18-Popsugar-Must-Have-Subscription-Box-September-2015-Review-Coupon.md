@@ -61,11 +61,11 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://americancolorsclothing.com/shop/scarves/the-scarf-blueclay.html" target="_blank">American Color by Alex Lehr Scarf</a></DT>
-<DD>Value $79</DD>
+<DT><a href="http://www.hudsonandbleecker.com" target="_blank">Hudson + Bleecker</a> - Labyrinth Onyx Travel Trio</DT>
+<DD>Value $42</DD>
 </DL>
 
-<p>Personally, I'm kind of over getting scarves in my sub boxes. I swapped most of mine away since I don't really wear them.</p>
+<p>This trio set consists of (1) a clear pouch that's TSA-friendly and perfectly holds your toiletries, (2) a drawstring bag for your intimates, and (3) another drawstring bag for your shoes. I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know which bag it's for. I can't wait to use this on my next trip!</p>
 
 <p>The material is soft and it is quite fluffy and comfy for a scarf, but I'm not sure I would have paid $79 for it. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
 
@@ -77,21 +77,39 @@ date: 2015-09-18 14:01:39 -08:00
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Brows.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
+<img src="/images/PopsugarSep2015BrowCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.burkedecor.com/products/yay-lunch-lunch-box-design-by-wild-wolf" target="_blank">Happy Jackson - "Yay Lunch" Lunch Box</a></DT>
-<DD>Retail Value $10</DD>
+<DT><a href="https://www.toofaced.com/p/brows/brow-envy-kit/" target="_blank">Too Faced - Brow Envy Brow Shaping & Defining Kit</a></DT>
+<DD>Value $39</DD>
 </DL>
 
-<p>Hmmm, I don't know what to say about this. It's both odd and unexpected to receive a lunchbox, even my husband commented "why are you receiving a lunchbox, are you going back to school?" If I was still in college, then yes, it might have increased the excitement within me. But no, sorry, this just didn't do it for me. Another gift or swap item, sigh.</p>
+<p>This a great little kit for brows! I like my brows to be on point, so I have more than I need tools and products for them. This kit combines all of them in one, how useful!</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Brows2.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
+<img src="/images/PopsugarSep2015Brow2.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
 </a></center>
-<figcaption>Another look at the lunchbox disassembled.</figcaption>
+<figcaption>Closer look at the kit</p>
+<br>
 
+<p>It has two brow powder colors, lighter for the blondes and darker for us brunettes. Then there's a highlighter to pop them eyebrows up, and of course the setting wax to help stray hairs stay nice and tidy. I can't believe it includes tools too! The angled brush makes applying the powders precise and flawless while the brow comb grooms our brows and softens the colors once it's applied.</p>
+
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSep2015Brow3.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
+</a></center>
+
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSep2015Brow4.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
+</a></center>
+
+<p>It also comes with easy-to-follow how-to guides, so helpful!</p>
+
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSep2015Brow5.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
+</a></center>
+
+<p>I was quite surprised to find some stencils included as well. I've used these type of stencils from another brand, and you won't (or you do) know it, it really helps you in creating the perfect brows for your face. I use them to train myself on creating the perfect shape of brow, and after awhile, I'm on auto-pilot. Great tool for brow beginners.</p>
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
