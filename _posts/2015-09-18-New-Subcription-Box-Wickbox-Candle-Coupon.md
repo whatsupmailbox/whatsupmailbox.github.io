@@ -40,6 +40,6 @@ date: 2015-09-18 09:45:39 -08:00
 
 <p>I've subscribed to candle boxes before, but none of them have met my high expectations and taste for that matter. <a href="www.wickbox.co" target="_blank">Wickbox</a> looks promising especially since they partner with brands that focus on both esthetics (think beautifully designed containers) and quality materials such as lead-free wicks and natural wax (soy, coconut or vegetable).</p>
 
-<p>So it was a no brainer for me to instantly fall in love with this subscription and if you're like me - a candle addict - then I totally recommend for you to <a href="www.wickbox.co" target="_blank">check them out and subscribe</a>. They're first launch box will be shipping next month.</p>
+<p>So it was a no brainer for me to instantly fall in love with this subscription and if you're like me - a candle addict - then I totally recommend for you to <a href="www.wickbox.co" target="_blank">check them out and subscribe</a>. They're first launch box will be shipping on October 15th!</p>
 
 <p>Stay tuned for my review next month of their launch box!  xoxo, Loretta</p>
