@@ -57,7 +57,7 @@ date: 2015-09-18 14:01:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Bags.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
+<img src="/images/PopsugarSep2015Bag.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
 </a></center>
 
 <DL>
@@ -65,7 +65,13 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Value $42</DD>
 </DL>
 
-<p>This trio set consists of (1) a clear pouch that's TSA-friendly and perfectly holds your toiletries, (2) a drawstring bag for your intimates, and (3) another drawstring bag for your shoes. I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know which bag it's for. I can't wait to use this on my next trip!</p>
+<p>This trio set consists of (1) a clear pouch that's TSA-friendly and perfectly holds your toiletries, (2) a drawstring bag for your intimates, and (3) another drawstring bag for your shoes.</p>
+
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSep2015BagCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
+</a></center>
+
+<p>I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know which bag it's for. I can't wait to use this on my next trip!</p>
 
 <p>The material is soft and it is quite fluffy and comfy for a scarf, but I'm not sure I would have paid $79 for it. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
 
