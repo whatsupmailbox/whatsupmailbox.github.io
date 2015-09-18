@@ -16,7 +16,7 @@ date: 2015-09-18 14:01:39 -08:00
 ---
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
+<img src="/images/PopsugarSep2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a></p>
