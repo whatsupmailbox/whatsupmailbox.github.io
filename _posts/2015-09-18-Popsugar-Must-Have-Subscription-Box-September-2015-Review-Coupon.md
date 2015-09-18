@@ -73,13 +73,6 @@ date: 2015-09-18 14:01:39 -08:00
 
 <p>I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know which bag it's for. I can't wait to use this on my next trip!</p>
 
-<p>The material is soft and it is quite fluffy and comfy for a scarf, but I'm not sure I would have paid $79 for it. And the colors and pattern on this one just didn't do it for me, so unfortunately it'll be gifted or swapped.</p>
-
-<center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSep2015Bags2.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
-</a></center>
-
-<p>It came packaged in a plastic bag. Good to know for swapping.</p>
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
