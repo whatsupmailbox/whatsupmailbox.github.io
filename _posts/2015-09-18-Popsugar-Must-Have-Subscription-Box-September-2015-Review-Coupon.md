@@ -102,7 +102,7 @@ date: 2015-09-18 14:01:39 -08:00
 <img src="/images/PopsugarSep2015Brow4.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
 </a></center>
 
-<p>It also comes with easy-to-follow how-to guides, so helpful!</p>
+<p>It also comes with easy-to-follow how-to guide, so helpful!</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Brow5.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
