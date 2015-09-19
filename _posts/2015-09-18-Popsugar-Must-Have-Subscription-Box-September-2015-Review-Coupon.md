@@ -71,7 +71,7 @@ date: 2015-09-18 14:01:39 -08:00
 <img src="/images/PopsugarSep2015BagCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
 </a></center>
 
-<p>I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know which bag it's for. I can't wait to use this on my next trip!</p>
+<p>I absolutely love this! I have something similar for my traveling organization, but these are so fancy in design and I love the labels that are on the bag to let you know what goes in which bag. I can't wait to use this on my next trip!</p>
 
 <br>
 
