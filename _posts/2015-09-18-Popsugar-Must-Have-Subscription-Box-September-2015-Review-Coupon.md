@@ -179,9 +179,9 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Value $20</DD>
 </DL>
 
-<p>As a bonus, Popsugar sent out two $10 promo cards to give to your friends, family or co-worker to use toward their first Must Have box. Each code behind these cards are unique. </p>
+<p>As a bonus, <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a> sent out two $10 promo cards to give to your friends, family or co-worker to use toward their first Must Have box. Each code behind these cards are unique. </p>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really liked the items this month, it was a good mix of products and I especially loved the earrings in those cute message bottles! Plus I got introduced to some awesome new brands which is the main reason why I subscribe to boxes in the first place. The total value came up to $156 (I didn't include the Popsugar promo cards) and that's a pretty high value. Next month's theme is "Breast Cancer Awareness, Cozy, Autumn, Restful Nights" and I can't wait to see what that brings! Checkout my review next month lovelies!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really liked the items this month, it was a good mix of products and I especially loved the earrings in those cute message bottles! Plus I got introduced to some awesome new brands which is the main reason why I subscribe to boxes in the first place. The total value came up to $156 (I didn't include the <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a> promo cards) and that's a pretty high value. Next month's theme is "Breast Cancer Awareness, Cozy, Autumn, Restful Nights" and I can't wait to see what that brings! Checkout my review next month lovelies!</p>
 
 <p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the October box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
