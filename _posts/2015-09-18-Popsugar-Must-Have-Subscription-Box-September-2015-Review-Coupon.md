@@ -61,7 +61,7 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.hudsonandbleecker.com" target="_blank">Hudson + Bleecker</a> - Labyrinth Onyx Travel Trio</DT>
+<DT>Hudson + Bleecker - Labyrinth Onyx Travel Trio</DT>
 <DD>Value $42</DD>
 </DL>
 
@@ -80,7 +80,7 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="https://www.toofaced.com/p/brows/brow-envy-kit/" target="_blank">Too Faced - Brow Envy Brow Shaping & Defining Kit</a></DT>
+<DT>Too Faced - Brow Envy Brow Shaping & Defining Kit</DT>
 <DD>Value $39</DD>
 </DL>
 
@@ -116,11 +116,11 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://shop.nordstrom.com/s/fringe-studio-best-day-ever-mug/4086813?origin=category-personalizedsort&contextualcategoryid=0&fashionColor=&resultback=875" target="_blank">Fringe Studio - Best Day Ever Mug</a></DT>
-<DD>Value $10 (Popsugar stated the value as $12 but I found it cheaper on Nordstrom and used that price instead)</DD>
+<DT>Kris Nations - "XO" Stud Earrings</DT>
+<DD>Value $35</DD>
 </DL>
 
-<p>The packaging is so cute and unique, I'm already in love with this.</p>
+<p>The packaging is so cute and unique, it's a message in a bottle! I'm already in love with this.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Earrings2.jpg" border="0" style="border:none;max-width:100%;" alt="Kris Nations XO Earrings" />
@@ -133,12 +133,15 @@ date: 2015-09-18 14:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Hair.jpg" border="0" style="border:none;max-width:100%;" alt="Briogeo Leave-in Conditioner" />
 </a></center>
+
 <DL>
-<DT><a href="http://www.royalapothic.com/products/tea-balm-firming-eye-treatment" target="_blank">Royal Apothic - Tea Balm Firming Eye Treatment</a></DT>
-<DD>Value $36</DD>
+<DT>Briogeo - Rosarco Milk Reparative Leave-In Conditioning Creme</DT>
+<DD>Full Size 150ml, Value $20</DD>
 </DL>
 
-<p>I knew I was getting this eye cream since it was revealed earlier, and my initial reaction was just meh. I don't have a lot of eye concerns so it's not really my thing, but prevention is always better than correction so I will be using this.</p>
+<p>This cruelty-free, 95 percent naturally-derived formula is vegan-friendly and formulated WITHOUT parabens, phthalates, silicone, gluten, synthetic fragrances and dyes.</p>
+
+<p>My hair can't live without leave-in conditioners. I've been getting quite a few from subscription boxes lately and have no complaints. The more the better, especially since I use them everytime I wash my hair. The scent is lovely and works great on my frizzy hair. It smoothed it out and gave it a good shine without making it oily. Great product!</p>
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
@@ -146,24 +149,22 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://southernculturefoods.com/collections/pancake-waffle-mix/products/birthday-cake-pancake-and-waffle-mix-1" target="_blank">Southern Culture - "Birthday Cake" Pancake & Waffe Mix</a></DT>
-<DD>25 ct, Value $7.99</DD>
+<DT>NCLA - So Rich Vitamin-E Enriched Cuticle Oil</DT>
+<DD>Full Size 15ml, Value $18</DD>
 </DL>
 
-<p>I'm not really a pancake/waffle person (I know, crazy right) but I will certainly try this and I'm sure my husband will appreciate it more than I do.</p>
-
-<p>This product was featured in Shark Tank, Oprah magazine, and QVC to name a few. So that just made me more interested in trying this out =)</p>
+<p>This is a vitamin E oil treatment that promotes strong and healthy nails. You only need a drop on each nail, then massage the oil all over your cuticles, nails and fingers to get them soft and moisturized. The scent is sweet and pleasant too. I've used this twice already, at night before I go to bed, and it's fast and easy to apply so will surely be using this frequently.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Snack.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Snacks Almond to Cherries" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.folgerscoffee.com" target="_blank">Folgers</a> Iced Cafe in "Caramel Macchiato"</DT>
-<DD>Value $5</DD>
+<DT>Nourish Snacks - Almond to Cherries</DT>
+<DD>Value $2</DD>
 </DL>
 
-<p>These snacks look healthy and delish.</p>
+<p>These snacks look healthy and delish. The almonds are salty and the cherries are both sweet and sour. It's a good mix of flavor and of course a healthy snack to have when you're having the munchies or need a burst of energy.</p>
 
 <br>
 
@@ -174,15 +175,15 @@ date: 2015-09-18 14:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.folgerscoffee.com" target="_blank">Folgers</a> Iced Cafe in "Caramel Macchiato"</DT>
+<DT>Popsugar $10 Gift Cards</DT>
 <DD>Value $20</DD>
 </DL>
 
-<p>Since I'm not a coffee drinker, this will be handed off to my husband. I appreciate the bonus item, but a Folger's coffee is somewhat disappointing, at least for me.</p>
+<p>As a bonus, Popsugar sent out two $10 promo cards to give to your friends, family or co-worker to use toward their first Must Have box. Each code behind these cards are unique. </p>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Okay, so although I love getting my Popsugar boxes every month, I have to admit this box is my least favorite to date. The only item I truly liked is the mug, and maybe the eye cream (depending on the results). Everything else seemed a bit off especially for a $40 subscription box. Although the value is quite high for this box, it's mostly due to the high priced scarf and the 3-month yoga trial. I'll still continue subscribing because hey, everyone makes mistakes and I think this box was one of them, so I'll let them slide this time. Let's hope next month they make up for it!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really liked the items this month, it was a good mix of products and I especially loved the earrings in those cute message bottles! Plus I got introduced to some awesome new brands which is the main reason why I subscribe to boxes in the first place. The total value came up to $156 (I didn't include the Popsugar promo cards) and that's a pretty high value. Next month's theme is "Breast Cancer Awareness, Cozy, Autumn, Restful Nights" and I can't wait to see what that brings! Checkout my review next month lovelies!</p>
 
-<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the October box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5" style="width:75%">
    <TR>
@@ -193,40 +194,32 @@ date: 2015-09-18 14:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>American Colors Scarf</TD>
-      <TD>$79</TD>
+      <TD>Hudson + Bleecker Travel Trio</TD>
+      <TD>$42</TD>
    </TR>
    <TR>
-      <TD>Happy Jackson Lunch Box</TD>
-      <TD>$10</TD>
+      <TD>Too Faced Brow Kit</TD>
+      <TD>$39</TD>
    </TR>
     <TR>
-      <TD>Fringe Studio Mug</TD>
-      <TD>$10</TD>
+      <TD>Kris Nations Earrings</TD>
+      <TD>$35</TD>
    </TR>
     <TR>
-      <TD>Royal Apothic Eye Cream</TD>
-      <TD>$36</TD>
+      <TD>Briogeo Leave-In Conditioner</TD>
+      <TD>$20</TD>
    </TR>
     <TR>
-      <TD>Southern Culture Pancake Mix</TD>
-      <TD>$7.99</TD>
+      <TD>NCLA Cuticle Oil</TD>
+      <TD>$18</TD>
    </TR>
    <TR>
-      <TD>Meri Meri Paper Napkins</TD>
-      <TD>$5.95</TD>
-   </TR>
-   <TR>
-      <TD>My Yoga Works</TD>
-      <TD>$45</TD>
-   </TR>
-   <TR>
-      <TD>Folgers Iced Cafe</TD>
-      <TD>$5</TD>
+      <TD>Nourish Snacks Almond to Cherries</TD>
+      <TD>$2</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$198.94</big></b></TD>
+      <TD><b><big>$156</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
