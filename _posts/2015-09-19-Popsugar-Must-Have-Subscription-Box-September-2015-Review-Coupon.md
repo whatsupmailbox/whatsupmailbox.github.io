@@ -89,7 +89,7 @@ date: 2015-09-19 09:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Brow2.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
 </a></center>
-<figcaption>Closer look at the kit</p>
+<figcaption>Closer look at the kit</figcaption>
 <br>
 
 <p>It has two brow powder colors, lighter for the blondes and darker for us brunettes. Then there's a highlighter to pop them eyebrows up, and of course the setting wax to help stray hairs stay nice and tidy. I can't believe it includes tools too! The angled brush makes applying the powders precise and flawless, while the brow comb grooms and softens up the colors.</p>
