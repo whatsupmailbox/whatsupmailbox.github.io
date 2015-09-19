@@ -183,7 +183,7 @@ date: 2015-09-19 09:01:39 -08:00
 
 <p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the October box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
-<TABLE  BORDER="5" style="width:75%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
