@@ -154,7 +154,7 @@ date: 2015-07-30 14:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I always love getting my Popsugar boxes every month, it's such a treat. This month was focused more on items for travelling and since I do travel frequently, it was such a hit for me. It goes without saying that I'll definitely be using every single item, and the coupons too for that matter. The total value came up to $130.94, another amazing value for a $39.95 subscription. As of yet, there hasn't been any spoilers for next month (August), not even a theme spoiler too, so I'm totally itching for them to release one soon! Will they still stick to Summer themes or will they start with Fall? Either way I'll keep you posted!</p>
 
-<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the August box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5" style="width:75%">
    <TR>
