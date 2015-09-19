@@ -84,7 +84,7 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Value $39</DD>
 </DL>
 
-<p>This a great little kit for brows! I like my brows to be on point, so I have more than I need tools and products for them. This kit combines all of them in one, how useful!</p>
+<p>This is a great little kit for brows! I like my brows to be on point, so I have a ton of tools and products for them. This kit combines all of them in one, how useful!</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Brow2.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
@@ -92,7 +92,7 @@ date: 2015-09-18 14:01:39 -08:00
 <figcaption>Closer look at the kit</p>
 <br>
 
-<p>It has two brow powder colors, lighter for the blondes and darker for us brunettes. Then there's a highlighter to pop them eyebrows up, and of course the setting wax to help stray hairs stay nice and tidy. I can't believe it includes tools too! The angled brush makes applying the powders precise and flawless while the brow comb grooms our brows and softens the colors once it's applied.</p>
+<p>It has two brow powder colors, lighter for the blondes and darker for us brunettes. Then there's a highlighter to pop them eyebrows up, and of course the setting wax to help stray hairs stay nice and tidy. I can't believe it includes tools too! The angled brush makes applying the powders precise and flawless, while the brow comb grooms and softens up the colors.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Brow3.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
