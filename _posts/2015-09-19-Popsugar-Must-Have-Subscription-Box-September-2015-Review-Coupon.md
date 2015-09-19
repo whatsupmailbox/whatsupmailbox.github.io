@@ -5,14 +5,14 @@ description: ""
 headline: "Popsugar Must Have September 2015 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, September 2015]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
   - Reviews
 type: photo
 imagefeature: "PopsugarSep2015Items.jpg"
-date: 2015-09-18 14:01:39 -08:00
+date: 2015-09-19 09:01:39 -08:00
 ---
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
