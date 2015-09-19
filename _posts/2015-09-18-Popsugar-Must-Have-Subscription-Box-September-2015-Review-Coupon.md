@@ -139,9 +139,7 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Full Size 150ml, Value $20</DD>
 </DL>
 
-<p>This cruelty-free, 95 percent naturally-derived formula is vegan-friendly and formulated WITHOUT parabens, phthalates, silicone, gluten, synthetic fragrances and dyes.</p>
-
-<p>My hair can't live without leave-in conditioners. I've been getting quite a few from subscription boxes lately and have no complaints. The more the better, especially since I use them everytime I wash my hair. The scent is lovely and works great on my frizzy hair. It smoothed it out and gave it a good shine without making it oily. Great product!</p>
+<p>My hair can't live without leave-in conditioners. I've been getting quite a few from subscription boxes lately and have no complaints. The more the better, especially since I use them everytime I wash my hair. The scent is lovely and works great on my frizzy hair. It smoothed it out and gave it a good shine without making it oily. It's also vegan-friendly and formulated WITHOUT parabens, phthalates, silicone, gluten, synthetic fragrances and dyes. Great product!</p>
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
