@@ -46,7 +46,7 @@ date: 2015-09-18 14:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card 2" />
 </a></center>
-<p>Fold out Info card that details all the items and prices.</p>
+<p>Fold out info card that details all the items and prices.</p>
 <br>
 
 <H4>And here are the items:</H4>
@@ -65,7 +65,7 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Value $42</DD>
 </DL>
 
-<p>This trio set consists of (1) a clear pouch that's TSA-friendly and perfectly holds your toiletries, (2) a drawstring bag for your intimates, and (3) another drawstring bag for your shoes.</p>
+<p>This trio set consists of (1) a clear pouch that's TSA-friendly and perfectly holds your toiletries, (2) a drawstring bag for your intimates, and (3) another drawstring bag for your shoes. See pictures below.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015BagCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Hudson + Bleecker Travel Trio" />
