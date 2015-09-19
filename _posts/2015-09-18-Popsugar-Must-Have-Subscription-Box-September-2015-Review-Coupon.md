@@ -153,7 +153,7 @@ date: 2015-09-18 14:01:39 -08:00
 <DD>Full Size 15ml, Value $18</DD>
 </DL>
 
-<p>This is a vitamin E oil treatment that promotes strong and healthy nails. You only need a drop on each nail, then massage the oil all over your cuticles, nails and fingers to get them soft and moisturized. The scent is sweet and pleasant too. I've used this twice already, at night before I go to bed, and it's fast and easy to apply so will surely be using this frequently.</p>
+<p>This is a vitamin E oil treatment that promotes strong and healthy nails. You only need a drop on each nail, then massage the oil all over your cuticles, nails and fingers to get them soft and moisturized. The scent is sweet and pleasant too. I've used this twice already, at night before I go to bed, and it's fast and easy to apply so I'll surely be using this frequently.</p>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSep2015Snack.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Snacks Almond to Cherries" />
