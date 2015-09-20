@@ -142,7 +142,7 @@ date: 2015-09-21 09:19:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I liked the products in this month's box and will be using every single one of them. It's got a good mix of makeup and skincare plus a nail polish so it was an all around well balanced box that I can surely use. It also included 2 full-sized products so the value is definitely there for me.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I liked the products in this month's box and will be using every single one of them. It's got a good mix of makeup and skincare plus a nail polish so it was an all around well balanced box that I can surely use. It also included 2 full-sized products so the value is definitely there for me!</p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
 <br>
