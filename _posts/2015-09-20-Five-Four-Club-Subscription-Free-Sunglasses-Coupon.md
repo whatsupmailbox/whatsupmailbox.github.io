@@ -18,7 +18,9 @@ date: 2015-09-20 12:32:39 -08:00
 <img src="/images/FiveFourClubTopgun.png" border="0" style="border:none;max-width:100%;" alt="Five Four Club Free Aviator Sunglasses" />
 </a></center>
 
-<p>Five Four Club has a new deal! Get a free pair of aviator sunglasses worth $75 with your first delivery! Use coupon code <b>TOPGUN</b> at checkout. Plus, if you <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">click here to join</a>, you'll receive $30 off your first package (that's 50% off!) AND get the Aviator Sunglasses too, how awesome is that!</p>
+<p>Five Four Club has a new deal! Get a free pair of aviator sunglasses worth $75 with your first delivery! Use coupon code <b>TOPGUN</b> at checkout.</p> 
+
+<p>Plus, if you <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">click here to join</a>, you'll receive $30 off your first package (that's 50% off!) AND get the Aviator Sunglasses too, how awesome is that!</p>
 
 <p>My husband absolutely LOVES Five Four Club! The clothes are of high quality and the style on trend. When you join, you complete a style profile to input your size and style preference (Classic, Casual, Fashion Forward or a Mix of all). Checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-Subscription-July-2015-2nd-Review-Coupon/" target="_blank">my past review on the blog</a>.</p>
 
