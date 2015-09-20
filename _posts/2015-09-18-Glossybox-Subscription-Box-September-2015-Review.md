@@ -125,7 +125,7 @@ date: 2015-09-21 09:19:39 -08:00
 
 <p>The Revitalizer contains their own plant-derived emollient, patented 100% Neossance Squalane. FYI, squalane is typically animal-derived so I was super relieved and happy to know that they have their own patented plant-derived version, phew!  It's also non-comedogenic, hypoallergenic, and paraben-free.</p>
 
-<p>This rich ingredient hydrates and locks in essential moisture, leaving your skin feeling nourished and revitalized. I only used a couple of drops and applied on areas of my face that were dry. It did help and moisturized the area so this will surely be a life-saver for winter when I get patches of dry skin on my face that's so annoying.</p>
+<p>This rich ingredient hydrates and locks in essential moisture, leaving your skin feeling nourished and revitalized. I only used a couple of drops and applied on areas of my face that were dry. It did help and moisturize the area so this will surely be a life-saver for winter when I get patches of dry skin on my face that's so annoying.</p>
 
 <br>
 
