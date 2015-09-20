@@ -22,7 +22,9 @@ date: 2015-09-20 12:32:39 -08:00
 
 <p>My husband absolutely LOVES Five Four Club! The clothes are of high quality and the style on trend. When you join, you complete a style profile to input your size and style preference (Classic, Casual, Fashion Forward or a Mix of all). Checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-Subscription-July-2015-2nd-Review-Coupon/" target="_blank">my past review on the blog</a>.</p>
 
-<p>If you're interested in joining, now is a better time than ever to take advantage of this amazing deal! 50% off PLUS get the free sunglasses worth $75, amazing. <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Visit their website for more info and to join</a>, I totally recommend them to any guy who's looking to bump up their wardrobe or is just too busy to shop.</p>
+<p>If you're interested in joining, now is a better time than ever to take advantage of this amazing deal! 50% off PLUS get the free sunglasses worth $75, amazing.</p>
+
+<p><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Visit their website for more info and to join</a>, I totally recommend them to any guy who's looking to bump up their wardrobe or is just too busy to shop.</p>
 
 <br>
 
