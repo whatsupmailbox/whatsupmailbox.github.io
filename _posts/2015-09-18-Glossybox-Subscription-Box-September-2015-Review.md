@@ -89,7 +89,7 @@ date: 2015-09-21 09:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxSep2015NailPolish.jpg" border="0" style="border:none;max-width:100%;" alt="Nails Inc. Nail Polish in Uptown" />
+<img src="/images//GlossyboxSep2015Nail.jpg" border="0" style="border:none;max-width:100%;" alt="Nails Inc. Nail Polish in Uptown" />
 </a></center>
 
 <DL>
