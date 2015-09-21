@@ -11,7 +11,7 @@ type: photo
 description: ""
 tags: [Sephora, GWP, Coupons]
 imagecredit: ""
-imagefeature: SephoraVIBRougeGWPLivingProof2.png
+imagefeature: SephoraVIBRougeGWPFlowerbomb.png
 date: 2015-09-21 13:10:00 -08:00
 ---
 <p></p>
