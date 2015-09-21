@@ -108,7 +108,7 @@ date: 2015-08-20 08:01:39 -08:00
 
 <DL>
 <DT><a href="http://southernculturefoods.com/collections/pancake-waffle-mix/products/birthday-cake-pancake-and-waffle-mix-1" target="_blank">Southern Culture - "Birthday Cake" Pancake & Waffe Mix</a></DT>
-<DD>25 ct, Value $7.99</DD>
+<DD>10 oz., Value $7.99</DD>
 </DL>
 
 <p>I'm not really a pancake/waffle person (I know, crazy right) but I will certainly try this and I'm sure my husband will appreciate it more than I do.</p>
