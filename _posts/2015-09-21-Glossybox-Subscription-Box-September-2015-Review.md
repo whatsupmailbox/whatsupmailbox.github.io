@@ -168,7 +168,7 @@ date: 2015-09-21 09:19:39 -08:00
       <TD>$22</TD>
    </TR>
    <TR>
-      <TD>Biossane The Revitalizer</TD>
+      <TD>Biossance The Revitalizer</TD>
       <TD>$4.60</TD>
    </TR>
    <TR>
