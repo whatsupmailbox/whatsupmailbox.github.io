@@ -76,7 +76,7 @@ date: 2015-09-22 13:33:39 -08:00
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
 </a></center>
-<figcaption>Mark McNairy's collaboration branding on the pocket</figcaption>
+<figcaption>Mark McNairy's collaboration branding on the back of the jacket</figcaption>
 <br>
 
 <p>And here's a look at the jacket on my husband:</p>
