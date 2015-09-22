@@ -63,6 +63,8 @@ date: 2015-09-22 13:33:39 -08:00
 
 <p>I love it when <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> sends jackets in my package. Especially now since we're about to enter Fall and Winter, this will surely be put to use.</p> 
 
+<p>The jacket's material is a light, thin, jean type of material that's 100% cotton. It's not thick and stiff at all, such a versatile jacket that can be worn with shorts or with long pants/jeans.</p>
+
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
 </a></center>
