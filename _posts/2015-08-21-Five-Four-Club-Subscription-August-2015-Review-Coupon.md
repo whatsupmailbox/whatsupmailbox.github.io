@@ -100,7 +100,7 @@ date: 2015-09-22 13:33:39 -08:00
 <DT>Dallen Socks in <i>Navy</i></DT>
 </DL>
 
-<p>We received socks from this collaboration before (<a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-Subscription-July-2015-2nd-Review-Coupon/" target="_blank">see my Five Four Club July 2015 Review</a>)but it was a no-show type of socks, so this was a great addition. My husband loves getting socks and can never have enough of them, plus this design is funky yet cool, another great item!</p>
+<p>We received socks from this collaboration before (<a href="http://whatsupmailbox.com/subscriptions/reviews/Five-Four-Club-Subscription-July-2015-2nd-Review-Coupon/" target="_blank">see my Five Four Club July 2015 Review</a>) but it was a no-show type of socks, so this was a great addition. My husband loves getting socks and can never have enough of them, plus this design is funky yet cool, another great item!</p>
 <br>
 
 <p>Here's another look at all the items Five Four Club sent this month:</p>
