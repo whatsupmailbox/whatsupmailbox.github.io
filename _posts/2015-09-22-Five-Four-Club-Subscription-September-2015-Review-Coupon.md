@@ -89,6 +89,7 @@ date: 2015-09-22 13:33:19 -08:00
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket5.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
+</a></center>
 <figcaption>Back side</figcaption>
 <br>
 
