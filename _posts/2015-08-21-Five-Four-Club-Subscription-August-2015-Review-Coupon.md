@@ -42,7 +42,7 @@ date: 2015-09-22 13:33:19 -08:00
 <DT>Five Four x Mark McNairy Bars White Graphic Tee</DT>
 </DL>
 
-<p>This shirt is kinda cool. My husband's not too fond of shirts with big branding or logos printed on them, but this one is not that much in your face plus the design is cool, especially since it gives a shoutout to LA, woot woot!</p>
+<p>This shirt is kinda cool. My husband's not too fond of shirts with big branding or logos printed on them, but this one is not that much in your face plus the design is cool, especially since it gives a shout-out to LA, woot woot!</p>
 
 <p>Here's a look of the shirt on my husband:</p>
 
