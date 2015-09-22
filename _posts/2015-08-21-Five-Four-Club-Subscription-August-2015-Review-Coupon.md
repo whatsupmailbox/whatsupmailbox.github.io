@@ -39,7 +39,7 @@ date: 2015-09-22 13:33:39 -08:00
 </a></center>
 
 <DL>
-<DT>Five Four x McNairy Bars White Graphic Tee</DT>
+<DT>Five Four x Mark McNairy Bars White Graphic Tee</DT>
 </DL>
 
 <p>This shirt is kinda cool. My husband's not too fond of shirts with big branding or logos printed on them, but this one is not that much in your face plus the design is cool, especially since it gives a shoutout to LA, woot woot!</p>
@@ -58,13 +58,14 @@ date: 2015-09-22 13:33:39 -08:00
 <img src="/images/FiveFourClubSep2015Jacket.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
 </a></center>
 <DL>
-<DT>Five Four x McNairy Bleecker Navy Jacket</DT>
+<DT>Five Four x Mark McNairy Bleecker Navy Jacket</DT>
 </DL>
 
 <p>I love it when <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> sends jackets in my package. Especially now since we're about to enter Fall and Winter, this will surely be put to use.</p> 
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
+</a></center>
 <figcaption>Mark McNairy signature lining</figcaption>
 <br>
 
@@ -72,6 +73,7 @@ date: 2015-09-22 13:33:39 -08:00
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
+</a></center>
 <figcaption>Mark McNairy's collaboration branding on the pocket</figcaption>
 <br>
 
@@ -79,6 +81,7 @@ date: 2015-09-22 13:33:39 -08:00
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Jacket4.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
+</a></center>
 <figcaption>Front side</figcaption>
 <br>
 
@@ -89,6 +92,8 @@ date: 2015-09-22 13:33:39 -08:00
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubSep2015Socks.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four x McNairy Bleecker Navy Jacket" />
+</a></center>
+
 <DL>
 <DT>Dallen Socks in <i>Navy</i></DT>
 </DL>
