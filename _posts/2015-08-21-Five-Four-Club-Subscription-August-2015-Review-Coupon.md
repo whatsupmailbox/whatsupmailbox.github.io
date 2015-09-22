@@ -19,7 +19,7 @@ date: 2015-09-22 13:33:39 -08:00
 </a></center>
 <p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
-<p><b>What do you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
+<p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
 <p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Click here</a> to get $30 off your first package, that's 50% off! AND, you can also use coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">TOPGUN</a> to get a FREE Aviator Sunglasses worth $75 with your package. So you get 50% off plus extra items, how awesome is that!</p>
 <br>
 
