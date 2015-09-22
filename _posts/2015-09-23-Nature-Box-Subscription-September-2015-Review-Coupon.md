@@ -42,6 +42,9 @@ date: 2015-09-22 14:15:39 -08:00
 
 ## Items in detail:
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
+<img src="/images/NatureBoxSep2015Cheese1.jpg" border="0" style="border:none;max-width:100%;" alt="Asiago & Cheddar Cheese Crisps" />
+</a></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
 <img src="/images/NatureBoxSep2015Cheese.jpg" border="0" style="border:none;max-width:100%;" alt="Asiago & Cheddar Cheese Crisps" />
 </a></center>
 <DL>
@@ -52,6 +55,9 @@ date: 2015-09-22 14:15:39 -08:00
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
+<img src="/images/NatureBoxSep2015Lentils1.jpg" border="0" style="border:none;max-width:100%;" alt="Salt and Pepper Lentil Loops" />
+</a></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
 <img src="/images/NatureBoxSep2015Lentils.jpg" border="0" style="border:none;max-width:100%;" alt="Salt and Pepper Lentil Loops" />
 </a></center>
 <DL>
@@ -61,6 +67,9 @@ date: 2015-09-22 14:15:39 -08:00
 <p>I've had these lentil loops before from Trader Joe's and love them, so I thought I'd try their version and OMG, these are better! With the addition of pepper, it gives it a slight kick that both yummy and the perfect addition to this savory snack. I'm a fan and will be getting this again in my next box!</p>
 <br>
 
+<center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
+<img src="/images/NatureBoxSep2015Sriracha1.jpg" border="0" style="border:none;max-width:100%;" alt="Sriracha Cashew Crunch" />
+</a></center>
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
 <img src="/images/NatureBoxSep2015Sriracha.jpg" border="0" style="border:none;max-width:100%;" alt="Sriracha Cashew Crunch" />
 </a></center>
