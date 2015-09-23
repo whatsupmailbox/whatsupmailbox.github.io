@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-title: NatureBox September 2015 Review + Coupon!
+title: NatureBox September 2015 Review + Free Trial Box!
 featured: false
 comments: true
 type: photo
 imagefeature: NatureBoxSeptember2015Collage.jpg
-headline: NatureBox September 2015 Review + Coupon!
+headline: NatureBox September 2015 Review + Free Trial Box!
 description: ""
 tags: [Nature Box, Subscriptions, Reviews, September 2015]
 date: 2015-09-22 14:15:39 -08:00
