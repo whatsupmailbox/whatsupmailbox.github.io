@@ -47,7 +47,7 @@ date: 2015-09-23 09:50:39 -08:00
 <DD>Full Size 1 ml, Value $50</DD>
 </DL>
 
-<p>I've tried this brand before but was not aware that they had treatments for lashes too. It's supposed to makes your lashes appear significantly longer and thicker in only a few weeks. I've used Latisse before with good results so I'm curious to see how this compares.</p>
+<p>I've tried this brand before but was not aware that they had treatments for lashes too. It's supposed to make your lashes appear significantly longer and thicker in only a few weeks. I've used Latisse before with good results so I'm curious to see how this compares.</p>
 
 <p>Application was similar to Latisse in which you apply it on like an eyeliner. But with Latisse you use disposable brushes while Lashatone has a built-in applicator. I'm not sure if I like the first or the latter due to sanitary reasons, but we shall see. FYI, this product is not available on their website anymore, it states that it's sold out which I hope is true versus being discontinued.<p>
 <br>
