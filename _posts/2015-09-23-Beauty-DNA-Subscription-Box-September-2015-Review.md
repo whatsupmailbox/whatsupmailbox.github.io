@@ -23,7 +23,7 @@ date: 2015-09-23 09:50:39 -08:00
 <p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to your "Beauty Profile" that you complete upon signing up.</p>
 <br>
 
-<p>This is my second from Beauty DNA so I was intrigued to see what they matched me with this month!</p>
+<p>This is my second box from Beauty DNA so I was intrigued to see what they matched me with this month!</p>
 <br>
 
 <center><img src='/images/BeautyDNASep2015OpenBox.jpg'></center>
