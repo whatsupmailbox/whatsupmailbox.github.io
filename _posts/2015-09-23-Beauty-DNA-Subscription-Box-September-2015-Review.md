@@ -53,7 +53,7 @@ date: 2015-09-23 09:50:39 -08:00
 <br>
 
 <p><center><img src='/images/BeautyDNASep2015Info.jpg'></center></p>
-<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you. I love this Beauty Report, it feels so personalized and informational too!</p>
+<p>Beauty DNA also included a detailed Beauty Report about the product and why they matched it for you.</p>
 <br>
 
 <H2><i class="icon-gift"></i> Bonus Item:</H2>
