@@ -19,8 +19,7 @@ date: 2015-09-23 09:50:39 -08:00
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://www.beautydna.com/" target="_blank">Beauty DNA</a></p>
-<p><b>Cost:</b> $25/monthly</p>
-<p><b>Shipping:</b> Free. </p>
+<p><b>Cost:</b> $25/monthly + Free Shipping</p>
 <p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to your "Beauty Profile" that you complete upon signing up.</p>
 <br>
 
