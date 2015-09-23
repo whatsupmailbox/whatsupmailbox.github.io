@@ -64,7 +64,7 @@ date: 2015-09-22 14:15:39 -08:00
 <DT>Salt and Pepper Lentil Loops</DT>
 <DD>Net Wt. 4 oz</DD>
 </DL>
-<p>I've had these lentil loops before from Trader Joe's and love them, so I thought I'd try their version and OMG, these are better! With the addition of pepper, it gives it a slight kick that's both yummy and the perfect addition to this savory snack. I'm a fan and will be getting this again in my next box!</p>
+<p>I've had these lentil loops before from Trader Joe's and love them, so I thought I'd try their version and OMG, these are better! With the addition of pepper, it gives it a slight kick that's both yummy and the perfect addition to this savory snack. I'm a fan and will be getting this again for sure!</p>
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
