@@ -31,4 +31,4 @@ date: 2015-09-22 17:25:39 -08:00
 <img src="/images/BoxOfStyleWinter2015HeroItem2.png" border="0" style="border:none;max-width:100%;" alt="Box Of Style Winter 2015 Hero Item!" />
 </a></center>
 
-<p>If you haven't subscribed yet, the Winter Box is still available and you can <a href="http://thezoereport.com/shop/" target="_blank">subscribe here</a> to get a hold of one. Just don't wait too long as it tends to get sold out quickly as soon as a reveal gets released, and this ring (plus $400 value guaranteed) will definitely attract new subscribers!</p>
+<p>If you haven't subscribed yet, the Winter Box is still available and you can <a href="http://fbuy.me/cJCZ1" target="_blank">subscribe here</a> to get a hold of one. Just don't wait too long as it tends to get sold out quickly as soon as a reveal gets released, and this ring (plus $400 value guaranteed) will definitely attract new subscribers!</p>
