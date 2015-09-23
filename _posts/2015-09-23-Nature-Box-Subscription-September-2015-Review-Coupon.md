@@ -51,7 +51,7 @@ date: 2015-09-22 14:15:39 -08:00
 <DT>Asiago & Cheddar Cheese Crisps</DT>
 <DD>Net Wt. 5.1 oz</DD>
 </DL>
-<p>These tastes so cheesy, crunchy good. Oh my my, I need these for my next wine tasting party, yum! Hmmm not a bad idea, I think I'm gonna open a bottle of wine while I continue tasting these ;)</p>
+<p>These tastes so cheesy, crunchy good. I had to stop myself from eating it all in one sitting. Oh my my, I need these for my next wine tasting party, yum! Hmmm not a bad idea, I think I'm gonna open a bottle of wine while I continue tasting these ;)</p>
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
@@ -64,7 +64,7 @@ date: 2015-09-22 14:15:39 -08:00
 <DT>Salt and Pepper Lentil Loops</DT>
 <DD>Net Wt. 4 oz</DD>
 </DL>
-<p>I've had these lentil loops before from Trader Joe's and love them, so I thought I'd try their version and OMG, these are better! With the addition of pepper, it gives it a slight kick that both yummy and the perfect addition to this savory snack. I'm a fan and will be getting this again in my next box!</p>
+<p>I've had these lentil loops before from Trader Joe's and love them, so I thought I'd try their version and OMG, these are better! With the addition of pepper, it gives it a slight kick that's both yummy and the perfect addition to this savory snack. I'm a fan and will be getting this again in my next box!</p>
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">
@@ -79,9 +79,9 @@ date: 2015-09-22 14:15:39 -08:00
 </DL>
 <p>I can't live without Sriracha, no joke! I always have 2 bottles in the house, one that's open and another one as a backup. Not only that, I pretty much use it in everything I eat, crazy but true. It's that good (at least for me).</p>
 
-<p>So when I saw they had these Sriracha snacks, it went to my selection almost instantly. After trying it out, it's a bit too sweet for my taste but still good though. Don't get me wrong, there's still a bit of kick, but there's also a slight sweetness to it. I do love cashews so I'd give this a 4 out of 5 star rating.</p> 
+<p>So when I saw they had these Sriracha snacks, it went to my selection almost instantly. I've ordered their Sriracha Roasted Cashews in my last box and loved it. This snack has those Sriracha cashews but they also added crispy rice and giant Peruvian corn kernels that are also coated with Sriracha. Slightly spicy, deliciously savory and just the right amount of sweetness. Another great snack!</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> All my 3 snack choices this month were a hit and oh-so delicious.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> All my 3 snack choices this month were a hit and oh-so delicious. This is why I love Nature Box, they have such great unique snack selections that are both yummy and nutritious. And of course conveniently delivered to your doorstep too! I've already made my choices for next month's delivery, so stay tuned to see what I'll be getting =)</p>
 
 <p>If you want to try them out, take advantage of the <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Free Trial Box through this link</a> and only pay $2 shipping!</p>
