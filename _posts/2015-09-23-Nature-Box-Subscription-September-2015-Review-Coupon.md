@@ -49,7 +49,7 @@ date: 2015-09-22 14:15:39 -08:00
 </a></center>
 <DL>
 <DT>Asiago & Cheddar Cheese Crisps</DT>
-<DD>Net Wt. 5.1 oz</DD>
+<DD>Net Wt. 3.5 oz</DD>
 </DL>
 <p>These tastes so cheesy, crunchy good. I had to stop myself from eating it all in one sitting. Oh my my, I need these for my next wine tasting party, yum! Hmmm not a bad idea, I think I'm gonna open a bottle of wine while I continue tasting these ;)</p>
 <br>
