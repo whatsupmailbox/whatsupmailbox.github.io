@@ -82,6 +82,6 @@ date: 2015-09-23 09:15:39 -08:00
 <p>So when I saw they had these Sriracha snacks, it went to my selection almost instantly. I've ordered their Sriracha Roasted Cashews in my last box and loved it. This snack mix has the same Sriracha cashews but they also added crispy rice and giant Peruvian corn kernels that are also coated with Sriracha. Slightly spicy, deliciously savory and just the right amount of sweetness. Another great snack!</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> All my 3 snack choices this month were a hit and oh-so delicious. This is why I love Nature Box, they have such great unique snack selections that are both yummy and nutritious. And of course conveniently delivered to your doorstep too! I've already made my choices for next month's delivery, so stay tuned to see what I'll be getting =)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> All my 3 snack choices this month were a hit and oh-so delicious. This is why I love Nature Box, they have such great unique snack selections that are both yummy and nutritious. And of course conveniently delivered to your doorstep too! I've already made my choices for next month's delivery, so stay tuned to see what I'll be getting!</p>
 
 <p>If you want to try them out, take advantage of the <a href="http://www.shareasale.com/r.cfm?b=395413&u=1115177&m=41415&urllink=&afftrack=" target="_blank">Free Trial Box through this link</a> and only pay $2 shipping!</p>
