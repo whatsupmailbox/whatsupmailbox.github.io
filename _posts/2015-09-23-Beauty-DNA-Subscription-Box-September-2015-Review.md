@@ -53,9 +53,9 @@ date: 2015-09-23 09:50:39 -08:00
 <DD>Full Size 1 ml, Value $50</DD>
 </DL>
 
-<p>I've tried this brand before but was not aware that they had treatments for lashes too. I've used Latisse before with good results so I'm curious to see how this compares.</p>
+<p>I've tried this brand before but was not aware that they had treatments for lashes too. It's supposed to makes your lashes appear significantly longer and thicker in only a few weeks. I've used Latisse before with good results so I'm curious to see how this compares.</p>
 
-<p>Application was similar to Latisse in which you apply it on like an eyeliner.<p>
+<p>Application was similar to Latisse in which you apply it on like an eyeliner. But with Latisse you use disposable brushes while Lashatone has a built-in applicator. I'm not sure if I like the first or the latter due to sanitary reasons, but we shall see. FYI, this product is not available on their website anymore, it states that it's sold out which I hope is true versus being discontinued.<p>
 <br>
 
 <p><center><img src='/images/BeautyDNASep2015Info.jpg'></center></p>
@@ -73,7 +73,7 @@ date: 2015-09-23 09:50:39 -08:00
 <DD>Full Size 125ml, Value $24</DD>
 </DL>
 
-<p>I've never heard of this brand before. It's a finishing product that's supposed to transform dull, dry hair to shiny, smooth and healthy. I like that it can be used on both damp or dry hair. I used it this morning after towel drying my hair and just let it air dry after. The scent is quite pleasant, sweet and refreshing. So for the results, I did notice smoother and shinier hair which is great for my frizzy and dry ends. Great product!</p>
+<p>I've never heard of this brand before. It's a finishing product that's supposed to transform dull, dry hair to shiny, smooth and healthy. I like that it can be used on both damp or dry hair. I used it this morning after towel drying my hair and just let it air dry after. The scent is sweet and refreshing and application with the spray was even, but there were times where the product leaked on my hand instead of spraying it on my hair. So for the results, I did notice smoother and shinier hair which is great for my frizzy and dry ends. I think I need to use it more often to see how it compares to my other leave-in conditioners.</p>
 
 <br>
 
@@ -84,7 +84,7 @@ date: 2015-09-23 09:50:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great match from Beauty DNA! Both items have been used and fits my needs as my profile suggested. The value is totally there, especially with the extra item too! If you're tired of sample sizes, try Beauty DNA and find new products that will work for you. I can't wait to see what they'll match me with next month!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I do like Beauty DNA and I think the value is definitely still there for me, but this month was kind of a miss. I loved last month's products, so maybe it's also because it's hard to follow up after such a great box. I've used both items and will continue to use them until they're finished up, so at least that's good. I think it's time for me to update my beauty profile to see if I get better results next month.</p>
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs. I totally recommend them!</p>
 <br>
