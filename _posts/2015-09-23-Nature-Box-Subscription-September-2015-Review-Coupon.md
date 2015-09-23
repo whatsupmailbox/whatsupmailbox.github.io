@@ -75,7 +75,7 @@ date: 2015-09-22 14:15:39 -08:00
 </a></center>
 <DL>
 <DT>Sriracha Cashew Crunch</DT>
-<DD>Net Wt. 4 oz</DD>
+<DD>Net Wt. 4.5 oz</DD>
 </DL>
 <p>I can't live without Sriracha, no joke! I always have 2 bottles in the house, one that's open and another one as a backup. Not only that, I pretty much use it in everything I eat, crazy but true. It's that good (at least for me).</p>
 
