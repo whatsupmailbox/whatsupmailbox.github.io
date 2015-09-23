@@ -78,7 +78,7 @@ date: 2015-09-23 09:50:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I like Beauty DNA and I think the value is definitely still there for me, but this month was kind of a miss. I loved last month's products, so maybe it's also because it's hard to follow up after such a great box. I've used both items already and will continue to use them until they're finished up, so at least that's good. But still, for $25, these two items are definitely still a deal for me. I think I need to update my beauty profile to see if I get better results next month.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I like Beauty DNA and I think the value is definitely still there for me, but this month was kind of a miss. I loved last month's products, so maybe it's also because it's hard to follow up after such a great box. I've used both items already and will continue to use them until they're finished up, so at least that's good. And for $25, these two items are definitely still a deal for me. I think I need to update my beauty profile to see if I get better results next month.</p>
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs. I totally recommend them!</p>
 <br>
