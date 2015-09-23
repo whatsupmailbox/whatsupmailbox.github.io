@@ -39,8 +39,8 @@ date: 2015-09-23 09:50:39 -08:00
 
 <p>Beauty DNA is a completely different experience than other beauty subscriptions since everyone gets a different full-sized product that's matched with their skin concerns or needs. When you join, there's a "Beauty Profile" that you complete and below are just a couple of examples of the questions:</p>
 
-<p><center><img src='/images/BeautyDNASep2015Profile.png'></center></p>
-<p><center><img src='/images/BeautyDNASep2015Profile2.png'></center></p>
+<p><center><img src='/images/BeautyDNAAugust2015Profile.png'></center></p>
+<p><center><img src='/images/BeautyDNAAugust2015Profile2.png'></center></p>
 
 <p>These are 2 out of 14 pages that you'll need to complete and although that might seem like a lot, think of it as a consultation with your doctor - the more you let them know about you, the more they can help you out. It didn't take me long at all to complete it and I also like the fact that you can access your Beauty Profile anytime and modify it if you ever have any changes in your skincare needs.</p>
 
