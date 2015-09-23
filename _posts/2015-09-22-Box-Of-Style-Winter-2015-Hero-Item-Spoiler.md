@@ -19,6 +19,7 @@ date: 2015-09-22 17:25:39 -08:00
 <p><b>Subscription:</b> <a href="http://fbuy.me/cJCZ1" target="_blank">Box of Style</a></p>
 <p><b>Cost:</b> $100/quarterly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive items curated by Rachel Zoe and her team that range from fashion, beauty and lifestyle that will surely keep you high in style. Plus each box will have a total value of over $300 worth of products!</p>
+<p><b>Coupon:</b> <a href="http://fbuy.me/cJCZ1" target="_blank">Get $10 off your first box through this link</a>!</p>
 <br>
 
 <p>The Hero Item (high value item that gets revealed for each box) has been released today and it's a custom cocktail ring by Alexis Bittar, designed exclusively for Box of Style. So gorgeous!</p>
