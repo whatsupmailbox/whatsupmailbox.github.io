@@ -52,7 +52,7 @@ date: 2015-09-24 09:10:00 -08:00
 
 <H4>Items in detail:</H4>
 <center><a href="https://www.humnutrition.com" target="_blank">
-<img src="/images/HUMSep2015Vitamins2.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
+<img src="/images/HUMSep2015Vitamins.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
 </a></center>
 
 <DL>
