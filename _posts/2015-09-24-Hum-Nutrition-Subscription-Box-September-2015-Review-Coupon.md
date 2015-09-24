@@ -102,6 +102,8 @@ date: 2015-09-24 09:10:00 -08:00
 
 <p>Big Chill helps you keep calm, focus and cope with stress. I need this, badly. I may or may not have ADOG, Attention Deficit Oooh Glitter, so it's hard for me to focus as you can see. I focus well on things that are on task, but easily get distracted by other important things that comes unexpectedly. And on top of that, I'm horrible at keeping calm. I tend to overthink, overreact and over everything. I'm an over the top kinda gal. Not everytime, I know the limits, but a lot of times I find myself thinking back and saying "now if only I was calmer in handling this situation", so needless to say, I need Big Chill for all the benefits it offers, stat!</p>
 
+<br>
+
 <DL>
 <DT>Red Carpet</DT>
 <DD>60 capsules, $25</DD>
