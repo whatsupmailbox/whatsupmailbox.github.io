@@ -67,6 +67,17 @@ date: 2015-09-24 09:10:00 -08:00
 
 <p>After reading it's ingredients and benefits, I knew I had to have this. My love for wine and socializing which includes a cocktail here and there can do a number on my body, liver and kidney to be exact. So hopefully with Daily Cleanse in hand, my body can detoxify naturally, and my liver will rejoice and thank me in the future.</p>
 
+<center><a href="https://www.humnutrition.com" target="_blank">
+<img src="/images/HUMSep2015A.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
+</a></center>
+<figcaption>Each bottle came sealed</figcaption>
+<br>
+
+<center><a href="https://www.humnutrition.com" target="_blank">
+<img src="/images/HUMSep2015Vitamins.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
+</a></center>
+<p>I love how they let you know how much to take daily, it's simple, easy to understand and easy to find when you're in a rush.</p>
+
 <br>
 
 <DL>
