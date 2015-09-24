@@ -118,4 +118,4 @@ date: 2015-09-24 09:10:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've taken these supplements for 2 days now and at first I thought it'll be hard to incorporate these in my daily routine, but that wasn't the case at all, at least for me. It was easy to remember because I really wanted the results, plus 3 out of the 4 vitamins I chose were to be taken with a meal, so that became my reminder everyday. I can't wait to see the results and if it actually is beneficial. But based on the high reviews from magazines, must have statements from celebrities and models, I'd say there's a high chance this will actually be my go-to supplement from now on!</p>
 
-<p>Learn more on their website <a href="https://www.humnutrition.com" target="_blank">humnutrition.com</a> and don't forget to use coupon code <big><b>FB651</b></big> to get $10 off your purchase!</p>
+<p><a href="https://www.humnutrition.com" target="_blank">Visit their website to learn more</a> and don't forget to use coupon code <big><b>FB651</b></big> to get $10 off your purchase!</p>
