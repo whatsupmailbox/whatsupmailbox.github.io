@@ -6,10 +6,13 @@ featured: false
 comments: true
 headline: "HUM Nutrition - My New Beauty Squad + $10 Coupon!"
 categories: 
+  - Products
+  - Subscriptions
+  - Reviews
   - Coupons
 type: photo
 description: ""
-tags: [HUM Nutrition, Subscriptions, Reviews, Coupons]
+tags: [HUM Nutrition, Subscriptions, Products, Reviews, Coupons]
 imagecredit: ""
 imagefeature: HUMSep2015Items.jpg
 date: 2015-09-24 09:10:00 -08:00
@@ -19,11 +22,11 @@ date: 2015-09-24 09:10:00 -08:00
 <img src="/images/HUMSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="HUM Nutrition Box" />
 </a></center>
 
-<p><b>Product:</b> <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">HUM Nutrition Supplements</a></p>
-<p><b>Cost:</b> Price ranges from $10 - $40 a bottle</p>
+<p><b>Product:</b> <a href="https://www.humnutrition.com" target="_blank">HUM Nutrition Supplements</a></p>
+<p><b>Cost:</b> Price ranges from $10 - $40 a bottle. It also becomes cheaper if you subscribe monthly.</p>
 <p><b>Shipping:</b> Domestic Shipping orders of $50 or more are not charged for shipping and handling, including Hawaii and Alaska. Domestic orders under $50 are charged $5.95 for shipping and handling.</p>
-<p><b>Where to buy:</b> <a href="http://brode.refr.cc/ZNVKN2Z" target="_blank">www.humnutrition.com</a></p>
-<p><b>Coupon:</b> Get $10 off your purchase by using coupon code <a href="https://www.humnutrition.com" target="_blank">FB651</a>.</p>
+<p><b>Where to buy:</b> <a href="https://www.humnutrition.com" target="_blank">humnutrition.com</a> OR <a href="https://www.sephora.com" target="_blank">sephora.com</a> or Sephora stores.</p>
+<p><b>Coupon:</b> Get $10 off your purchase at <a href="https://www.humnutrition.com" target="_blank">humnutrition.com</a> by using coupon code <a href="https://www.humnutrition.com" target="_blank">FB651</a>.</p>
 <br>
 
 
@@ -98,3 +101,6 @@ date: 2015-09-24 09:10:00 -08:00
 
 <br>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've taken these supplements for 2 days now and at first I thought it'll be hard to incorporate these in my daily routine, but that wasn't the case at all, at least for me. It was easy to remember because I really wanted the results, plus 3 out of the 4 vitamins I chose were to be taken with a meal, so that became my reminder everyday. I can't wait to see the results and if it actually is beneficial. But based on the high reviews from magazines, must have statements from celebrities and models, I'd say there's a high chance this will actually be a my go-to supplement from now on!</p>
+
+<p>Learn more on their website <a href="https://www.humnutrition.com" target="_blank">humnutrition.com</a> and don't forget to use coupon code <big><b>FB651</b></big> to get $10 off your purchase!</p>
