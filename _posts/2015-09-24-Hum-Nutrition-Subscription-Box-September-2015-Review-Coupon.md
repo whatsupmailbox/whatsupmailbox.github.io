@@ -36,7 +36,7 @@ date: 2015-09-24 09:10:00 -08:00
 <p>Now let's move on and see what I chose:</p>
 
 <center><a href="https://www.humnutrition.com" target="_blank">
-<img src="/images/HUMSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="HUM Nutrition Box" />
+<img src="/images/HUMSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="HUM Nutrition Box" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
