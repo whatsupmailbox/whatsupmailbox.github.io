@@ -74,7 +74,7 @@ date: 2015-09-24 09:10:00 -08:00
 <br>
 
 <center><a href="https://www.humnutrition.com" target="_blank">
-<img src="/images/HUMSep2015Vitamins.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
+<img src="/images/HUMSep2015B.jpg" border="0" style="border:none;max-width:100%;" alt="Daily Cleanse & Flatter Me" />
 </a></center>
 <p>I love how they let you know how much to take daily, it's simple, easy to understand and easy to find when you're in a rush.</p>
 
