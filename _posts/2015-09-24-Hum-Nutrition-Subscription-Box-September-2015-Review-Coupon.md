@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "HUM Nutrition - My New Beauty Squad + $10 Coupon!"
 featured: false
 comments: true
@@ -30,11 +30,11 @@ date: 2015-09-24 09:10:00 -08:00
 <br>
 
 
-<p>I recently discovered this beauty nutrition supplement and based on its benefits I knew I just had to try them out. HUM was created from the need and experience of the founder's personal struggle with his skin and breakouts. As an adult, I still tend to get breakouts now and then which is irritating and an inconvenience not to mention somewhat embarassing to have so I can relate. Remember the old saying "What you eat is what you are", well that sounds true and there is a link between nutrition and your skin. HUM realizes this and with the help of leaders in the field of nutrition, they've created a line of nutritional products to help you achieve beautiful skin from the inside.</p>
+<p>I recently discovered this beauty nutrition supplement and based on its benefits I knew I just had to try them out. HUM was created from the need and experience of the founder's personal struggle with his skin and breakouts. Remember the old saying "What you eat is what you are", well that sounds true and there is a link between nutrition and your skin. HUM realizes this and with the help of leaders in the field of nutrition, they've created a line of nutritional products to help you achieve beautiful skin from the inside.</p>
 
-<p>When you first sign up with them, there's a 12-question survey you take so that their nutritionist can suggest the correct and best product for your needs. It's very short and the questions are along the lines of what your weekly diet is, how you feel everyday, and what beauty concerns you have. After you've answered them all, they'll recommend what products are right for you.</p>
+<p>When you first sign up with them (you can make a one-time purchase or subscribe monthly), there's a 12-question survey you take so that their nutritionist can suggest the correct and best product for your needs. It's very short and the questions are along the lines of what your weekly diet is, how you feel everyday, and what beauty concerns you have. After you've answered them all, they'll recommend what products are right for you. Of course you can change them and just get what you want, but it's still helpful to see what they recommend.</p>
 
-<p>HUM has been featured in Vogue, Harper's Bazaar, Glamour and Marie Claire magazine to name a few, and it's also the secret to many celebrities in achieving a runway/red carpet ready skin. So it's reputable and helped in my decision to try them out.</p>
+<p>HUM has been featured in Vogue, Harper's Bazaar, Glamour and Marie Claire magazine to name a few, and it's also the secret to many celebrities in achieving a runway/red carpet ready skin. That definitely helped in my decision to try them out.</p>
 
 <p>Now let's move on and see what I chose:</p>
 
