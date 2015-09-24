@@ -15,7 +15,7 @@ imagefeature: HUMSep2015Items.jpg
 date: 2015-09-24 09:10:00 -08:00
 ---
 
-<center><a href="http://www.sephora.com" target="_blank">
+<center><a href="https://www.humnutrition.com" target="_blank">
 <img src="/images/HUMSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="HUM Nutrition Box" />
 </a></center>
 
