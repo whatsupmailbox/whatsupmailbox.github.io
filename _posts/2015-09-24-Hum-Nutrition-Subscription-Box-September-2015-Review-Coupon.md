@@ -74,7 +74,7 @@ date: 2015-09-24 09:10:00 -08:00
 <DD>60 capsules, $25</DD>
 </DL>
 
-<p>This has digestive enzyme blends that will help indigestion and reduce its related issues including bloating and fullness. I get bloated sometimes from having too much sodium in my diet and I hate that feeling. The digestive enzyme and herbal blen is also designed to optimize protein, carb, fiber and fats breakdown and to help with nutrient absorption. This will surely help me achieve a flatter stomach and better digestion.</p>
+<p>This has digestive enzyme blends that will help indigestion and reduce its related issues including bloating and fullness. I get bloated sometimes from having too much sodium in my diet and I hate that feeling. The digestive enzyme and herbal blend is also designed to optimize protein, carb, fiber and fats breakdown and to help with nutrient absorption. This will surely help me achieve a flatter stomach and better digestion.</p>
 
 <br>
 
