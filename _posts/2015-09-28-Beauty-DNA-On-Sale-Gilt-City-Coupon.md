@@ -9,11 +9,11 @@ categories:
 tags: [Beauty DNA, Subscriptions, Coupons, Gilt City]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "BeautyDNAGilt.jpg"
-date: 2015-09-28 11:11:39 -08:00
+imagefeature: "BeautyDNAIdeel.png"
+date: 2015-09-28 10:45:39 -08:00
 ---
 
 <center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
