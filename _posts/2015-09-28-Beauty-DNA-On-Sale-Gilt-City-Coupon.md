@@ -17,7 +17,7 @@ date: 2015-09-28 11:11:39 -08:00
 ---
 
 <center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
-<img src="/images/HatcheryGilt.jpg" border="0" style="border:none;max-width:100%;" alt="Hatchery Subscription Box on sale at Gilt City!" />
+<img src="/images/BeautyDNAIdeel.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box on sale at Gilt City!" />
 </a></center>
 
 <p><H2>Here are the prices on <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">Gilt City</a>:</H2></p>
@@ -27,12 +27,22 @@ date: 2015-09-28 11:11:39 -08:00
 </ul>
 
 <br>
+<p><i>Redeem by: Monday, December 28, 2015</i></p>
 
-<p><H4>Plus, if you're new to Gilt City, you'll get $25 off your first purchase of $50 or more by <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">joining here</a>. How awesome is that!</H4></p>
+<p><H4>Plus, if you're new to Gilt City, you'll get $25 off your first purchase of $50 or more by <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">purchasing here</a>. That brings the cost down to $33 for a 4-month subscription, that's an amazing deal!</H4></p>
 
-<p>If you haven't subscribed yet, now is a better time than ever. Even if you're already subscribed, you can just create a new account (with a new email address) to make use of this awesome deal. I do it all the time ;)</p>
+<H4>What's Beauty DNA?</H4>
+<p><b>Subscription:</b> <a href="https://www.beautydna.com" target="_blank">Beauty DNA</a></p>
+<p><b>Cost:</b> $25/monthly</p>
+<p><b>Coupon:</b> <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Purchase on Ideel</a> to save some extra $$$ plus get 10% off your first purchase!</p>
+<p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to you personally through a beauty profile you complete.</p>
+<br>
 
-<p><i>Note: Must be redeemeed by December 8, 2015. Shipping available only in U.S.</i></p>
+<center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
+<img src="/images/BeautyDNAIdeel2.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box on sale at Gilt City!" />
+</a></center>
+
+<p>Every month they'll match one full-sized beauty product according to your beauty profile. You answer some questions in your account prior to your first shipment and don't worry, you can always modify it at anytime.</p>
 
 <H4>What's Beauty DNA?</H4>
 <p><b>Subscription:</b> Beauty DNA</p>
@@ -41,14 +51,6 @@ date: 2015-09-28 11:11:39 -08:00
 <p><b>What's in the box:</b> Every month, you'll receive a curated box of 5-6 artisan ingredients and condiments from small-batch producers across the country. Each delivery will include a hand selected assortment of sample sized products, such as: spreads, cooking sauces, condiments, jams, honeys, syrups, oils, vinegars, salts, spices, seasonings and specialty baking ingredients.</p>
 
 <br>
-
-<center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
-<img src="/images/HatcheryGilt2.jpg" border="0" style="border:none;max-width:100%;" alt="Hatchery Subscription Box on sale at Gilt City!" />
-</a></center>
-
-<p>With Hatchery, you can experience flavors you never would have discovered on your own. The monthly subscription service sources small-batch ingredients and condiments from independent makers across the country and delivers them to your door, introducing you to the best new products on the market. Dedicated to individuals over companies, the staff travels to green markets, family farms and more in search of the most passionate producers. They then put their favorite finds into monthly tasting boxes, packaging them with recipes and bios of each maker.</p>
-
-<p>Overflowing with everything from spreads, jams and honeys to syrups, cooking sauces and oils, boxes include just what you need to stock a unique pantry. Look forward to such products as blackberry extract from Meso Nutso, apricot ale beer jelly from Potlicker Kitchen and five-pepper sea salt from Mrs. Belem Trading Co. If you use up your supply before your next delivery, simply head to Hatchery’s online marketplace and pick up another. You never know what else you’ll find.</p>
 
 <center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
 <img src="/images/GiltCity.png" border="0" style="border:none;max-width:100%;" alt="Gilt City" />
