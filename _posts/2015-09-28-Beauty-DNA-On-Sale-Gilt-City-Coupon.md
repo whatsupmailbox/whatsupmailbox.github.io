@@ -31,6 +31,10 @@ date: 2015-09-28 11:11:39 -08:00
 
 <p><H4>Plus, if you're new to Gilt City, you'll get $25 off your first purchase of $50 or more by <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">purchasing here</a>. That brings the cost down to $33 for a 4-month subscription, that's an amazing deal!</H4></p>
 
+<center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
+<img src="/images/BeautyDNASep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box on sale at Gilt City!" />
+</a></center>
+
 <H4>What's Beauty DNA?</H4>
 <p><b>Subscription:</b> <a href="https://www.beautydna.com" target="_blank">Beauty DNA</a></p>
 <p><b>Cost:</b> $25/monthly</p>
