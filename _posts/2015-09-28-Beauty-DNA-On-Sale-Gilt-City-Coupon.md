@@ -34,7 +34,7 @@ date: 2015-09-28 11:11:39 -08:00
 <H4>What's Beauty DNA?</H4>
 <p><b>Subscription:</b> <a href="https://www.beautydna.com" target="_blank">Beauty DNA</a></p>
 <p><b>Cost:</b> $25/monthly</p>
-<p><b>Coupon:</b> <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Purchase on Ideel</a> to save some extra $$$ plus get 10% off your first purchase!</p>
+<p><b>Coupon:</b> <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Purchase on Gilt City</a> and get an additional $25 off your first purchase!</p>
 <p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to you personally through a beauty profile you complete.</p>
 <br>
 
@@ -43,12 +43,6 @@ date: 2015-09-28 11:11:39 -08:00
 </a></center>
 
 <p>Every month they'll match one full-sized beauty product according to your beauty profile. You answer some questions in your account prior to your first shipment and don't worry, you can always modify it at anytime.</p>
-
-<H4>What's Beauty DNA?</H4>
-<p><b>Subscription:</b> Beauty DNA</p>
-<p><b>Cost:</b> $25/monthly + Free Shipping</p>
-<p><b>Coupon:</b> <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">Purchase on Gilt City</a> to save an extra $25 off your first purchase!</p>
-<p><b>What's in the box:</b> Every month, you'll receive a curated box of 5-6 artisan ingredients and condiments from small-batch producers across the country. Each delivery will include a hand selected assortment of sample sized products, such as: spreads, cooking sauces, condiments, jams, honeys, syrups, oils, vinegars, salts, spices, seasonings and specialty baking ingredients.</p>
 
 <br>
 
