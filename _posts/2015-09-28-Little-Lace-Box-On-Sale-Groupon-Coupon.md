@@ -32,9 +32,7 @@ date: 2015-09-28 15:20:39 -08:00
 
 <p>Checkout my recent <a href="http://whatsupmailbox.com/subscriptions/reviews/Little-Lace-Box-Serendipity-Subscription-August-2015-Review-Coupon/" target="_blank">Little Lace Box August 2015 review</a> and see what LLB is all about =)</p>
 
-<center><a href="https://www.groupon.com/visitor_referral/h/2d9a950a-2ec9-4f2d-9d51-c49825ac4141" target="_blank">
-<img src="/images/LittleLaceBoxLogo2.png" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Subscription Box" />
-</a></center>
+<a href="http://www.littlelacebox.com/?rfsn=93842.4b16b.7476" target="_blank"><img src="https://s3.amazonaws.com/refersion_client/4108/creatives/04-15-15-10-04-50_LLB_script_sm.jpg" alt="" border="0" /></a>
 
 <H4>What's Little Lace Box?</H4>
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a></p>
