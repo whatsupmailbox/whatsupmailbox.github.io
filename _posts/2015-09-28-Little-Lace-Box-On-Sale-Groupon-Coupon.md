@@ -9,7 +9,7 @@ categories:
 tags: [Little Lace Box, Subscriptions, Coupons, Groupon]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LittleLaceBoxGroupon.png"
