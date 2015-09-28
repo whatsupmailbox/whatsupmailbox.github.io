@@ -26,7 +26,7 @@ date: 2015-09-28 15:20:39 -08:00
 
 <p>NOTE: The Groupon voucher can be used for their December box, but it must be redeemed after the October box ships (so after October 20th).</p>
 
-<p><i class="icon-exclamation-sign"></i>This offer ends tomorrow 9/29 so hurry and <a href="https://www.groupon.com/visitor_referral/h/2d9a950a-2ec9-4f2d-9d51-c49825ac4141" target="_blank">purchase on Groupon</a> before it goes away, and don't forget to use <a href="https://www.groupon.com/visitor_referral/h/2d9a950a-2ec9-4f2d-9d51-c49825ac4141" target="_blank">Coupon Code <big>FALL3</big></a> for an additional 20% off!!!</b></p>
+<p><i class="icon-exclamation-sign"></i> This offer ends tomorrow 9/29 so hurry and <a href="https://www.groupon.com/visitor_referral/h/2d9a950a-2ec9-4f2d-9d51-c49825ac4141" target="_blank">purchase on Groupon</a> before it goes away, and don't forget to use <a href="https://www.groupon.com/visitor_referral/h/2d9a950a-2ec9-4f2d-9d51-c49825ac4141" target="_blank">Coupon Code <big>FALL3</big></a> for an additional 20% off!!!</b></p>
 
 <p>Little Lace Box rarely goes on sale, so if you've always wanted to try them out, I totally recommend getting this deal cause it's just too good to pass! =)</p>
 
