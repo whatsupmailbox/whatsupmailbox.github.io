@@ -102,9 +102,9 @@ date: 2015-09-29 13:33:19 -08:00
 <DD>Value $8 (they listed this at $11.75, value was taken from Lillie's Q's website)
 </DL>
 
-<p>Apple and lime juices are just two of Grandma Lillie’s secret ingredients that give CAROLINA its time-honored tangy character.grilling just about any beef, pork, or poultry. With accolades from the likes of Oprah and Food & Wine, each of the Lillie’s Q sauces and rubs pays homage to the deep-rooted barbeque traditions of specific Southern regions.</p>
+<p>Apple and lime juices are just two of the secret ingredients that give this Carolina sauce its tangy character. You can use this to grill just about any beef, pork, or poultry. This sauce is also a favorite of Oprah and was highly regarded in the Food & Wine magazine.</p>
 
-<p>Lillie’s Q is a famous restaurant in Chicago that was named the Best New BBQ Restaurant in the country in 2011. I'll be sure to visit them when I go to Chicago again!</p>
+<p>Lillie’s Q is also a famous restaurant in Chicago that was named the Best New BBQ Restaurant in the country in 2011. I'll be sure to visit them when I go to Chicago again!</p>
 
 <br>
 
