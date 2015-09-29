@@ -92,7 +92,7 @@ date: 2015-09-29 12:33:19 -08:00
 
 <DL>
 <DT>Smith Products - FireWire Bendable Grilling Skewers</DT>
-<DD>Value $8.25 (they listed this at $15 but I found it cheaper on Amazon)
+<DD>Value $8.25 (they listed this at $15 but I found it cheaper on Amazon)</DD>
 </DL>
 
 <p>These were the second reason why I chose this box. We love grilling kabobs but sometimes the long sticks do get in the way of precious grilling space and this tackles that problem. It's bendable and can hold more than twice as much food than standard rigid skewers. I think I managed to have almost 6 regular skewers on these 2 alone, amazing. And not only that, another benefit is that you can marinate your food even after it's skewered because of the bendable ability. This is definitely a useful and effective tool for grilling, so happy we have these!</p> 
