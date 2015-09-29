@@ -134,6 +134,6 @@ date: 2015-09-29 13:33:19 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've been impressed so far with Hampton's Lane. They do tend to inflate the prices, but even with my researched actual values, they are still worth the $47/box price if not more.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've been impressed so far with Hamptons Lane. They do tend to inflate the prices, but even with my researched actual values, they are still worth the $47/box price if not more.</p>
 
 <p>If you're interested, you can <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">visit their website</a> to see all their available boxes or <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">subscribe here to get $10 off your first box!</a></p> 
