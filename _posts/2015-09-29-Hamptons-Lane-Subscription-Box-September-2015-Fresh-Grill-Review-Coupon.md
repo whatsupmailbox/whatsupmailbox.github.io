@@ -142,7 +142,7 @@ date: 2015-09-29 13:33:19 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>Fresh Grill Box Items</center></H3>
