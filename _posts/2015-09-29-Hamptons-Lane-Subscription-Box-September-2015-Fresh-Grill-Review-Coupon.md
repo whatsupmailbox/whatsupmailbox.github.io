@@ -52,13 +52,11 @@ date: 2015-09-29 12:33:19 -08:00
 <center><a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" />
 </a></center>
 
-<figure class="half">
-        <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" /></a>
-        <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" /></a>
-        <figcaption>The Info Booklet</figcaption>
-</figure>
+<center><a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" />
+</a></center>
 
-<br>
+<center><a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" />
+</a></center>
 
 <p>Every box comes with an info booklet that describes the items, how to use them, and recipes too! This is very helpful and well done in production, they even gave instructions on how to prep the wood planks so that you get maximum benefit from them.</p>
 
