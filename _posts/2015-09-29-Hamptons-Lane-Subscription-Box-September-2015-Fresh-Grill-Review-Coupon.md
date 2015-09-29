@@ -19,7 +19,7 @@ date: 2015-09-29 13:33:19 -08:00
 <img src="/images/HamptonsLaneSep2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Hamptons Lane" />
 </a></center>
 <p><b>Subscription:</b> <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">Hamptons Lane</a></p>
-<p><b>Cost:</b> $47/monthly + Free Shipping (taxes apply to CA)</p>
+<p><b>Cost:</b> $47/monthly + Free Shipping to U.S. (Alaska & Hawaii may incur extra shipping fee)</p>
 <p><b>What you get:</b> Each month, their team of experts curates amazing kitchen products together with artisan foods & ingredients into a themed box, like the Must-Haves of Cocina Mexicana or The Best in BBQ. On the first of the month they reveal a new curated box for you to decide whether you want it or skip it.</p>
 <p><b>Coupon:</b> <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">Join through this link to get $10 off your first box!</a></p>
 <br>
