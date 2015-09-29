@@ -103,7 +103,7 @@ date: 2015-09-29 12:33:19 -08:00
 
 <DL>
 <DT>Lillie's Q - Award-winning Carolina BBQ Sauce</DT>
-<DD>Value $8 (they listed this at $11.75, value was taken from Lillie's Q's website)
+<DD>Value $8 (they listed this at $11.75, value was taken from Lillie's Q's website)</DD>
 </DL>
 
 <p>Apple and lime juices are just two of the secret ingredients that give this Carolina sauce its tangy character. You can use this to grill just about any beef, pork, or poultry. This sauce is also a favorite of Oprah and was highly regarded in the Food & Wine magazine.</p>
@@ -118,7 +118,7 @@ date: 2015-09-29 12:33:19 -08:00
 
 <DL>
 <DT>Tom Douglas' Award-winning Salmon Rub by Rub with Love</DT>
-<DD>Value $6.50 (they listed at $8.25)
+<DD>Value $6.50 (they listed at $8.25)</DD>
 </DL>
 
 <p>I love rubs, I have 2 drawers (nicely organized if I may add) of rubs and I use it everytime I cook any type of meat. Just this past weekend I decided to use this rub on shrimp as their info booklet suggested and wow, they were so tasty! I can't wait to use it on just about any seafood, especially salmon of course.</p>
@@ -131,7 +131,7 @@ date: 2015-09-29 12:33:19 -08:00
 
 <DL>
 <DT>Elvio's Chimichurri - Argentinian Chimichurri Sauce</DT>
-<DD>Value $15 (they listed at $17.50)
+<DD>Value $15 (they listed at $17.50)</DD>
 </DL>
 
 <p>"Elvio’s chimichurri was born on cattle drives by his grandfather, Ignacio, a real Argentinian gaucho. It is handcrafted into a product that contains no preservatives, additives or sugars, including no high fructose corn syrup. It is also gluten-free and vegan and one of Martha Stewart’s favorite made-in-America products."</p>
