@@ -20,13 +20,13 @@ date: 2015-09-29 13:33:19 -08:00
 </a></center>
 <p><b>Subscription:</b> <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">Hamptons Lane</a></p>
 <p><b>Cost:</b> $47/monthly + Free Shipping to U.S. (Alaska & Hawaii may incur extra shipping fee)</p>
-<p><b>What you get:</b> Each month, their team of experts curates amazing kitchen products together with artisan foods & ingredients into a themed box, like the Must-Haves of Cocina Mexicana or The Best in BBQ. On the first of the month they reveal a new curated box for you to decide whether you want it or skip it.</p>
+<p><b>What you get:</b> Each month, their team of experts curates amazing kitchen products together with artisan foods & ingredients into a themed box, like the Must-Haves of Cocina Mexicana or The Best in BBQ. On the 1st of the month they reveal a new curated box for you to decide whether you want it, skip it, or choose another box from their past curations.</p>
 <p><b>Coupon:</b> <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">Join through this link to get $10 off your first box!</a></p>
 <br>
 
 <p>I've only recently subscribed to Hamptons Lane and so far it's been great. I've had boxes in the past before but just never got around to doing a review, so I made it a point to do one this month =)</p>
 
-<p>On the first of every month they release a new curated themed box and you get to either choose that box or a box from their past releases that are still available.</p> 
+<p>On the 1st of every month they release a new curated themed box and you get to either choose that box or a box from their past releases that are still available.</p> 
 
 <p>This month I chose the "Fresh Grill" box since we were doing a lot of BBQ-ing lately, especially kabobs so this looked perfect.</p>
 
