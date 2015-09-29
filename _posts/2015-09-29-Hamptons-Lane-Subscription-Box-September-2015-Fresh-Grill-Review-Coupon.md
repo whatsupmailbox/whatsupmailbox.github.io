@@ -98,7 +98,7 @@ date: 2015-09-29 13:33:19 -08:00
 </a></center>
 
 <DL>
-<DT>Lillie's Q- Award-winning Carolina BBQ Sauce</DT>
+<DT>Lillie's Q - Award-winning Carolina BBQ Sauce</DT>
 <DD>Value $8 (they listed this at $11.75, value was taken from Lillie's Q's website)
 </DL>
 
@@ -139,3 +139,43 @@ date: 2015-09-29 13:33:19 -08:00
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've been impressed so far with Hamptons Lane. They do tend to inflate the prices, but even with my researched actual values, they are still worth the $47/box price if not more.</p>
 
 <p>If you're interested, you can <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">visit their website</a> to see all their available boxes or <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">subscribe here to get $10 off your first box!</a></p> 
+
+<br>
+
+<TABLE  BORDER="5" style="width:55%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>Fresh Grill Box Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Trio of Grill Planks</TD>
+      <TD>$15</TD>
+   </TR>
+   <TR>
+      <TD>FireWire Bendable Grilling Skewers</TD>
+      <TD>$8.25</TD>
+   </TR>
+    <TR>
+      <TD>Lillie's Q - Award-winning Carolina BBQ Sauce</TD>
+      <TD>$8</TD>
+   </TR>
+    <TR>
+      <TD>Tom Douglas' Award-winning Salmon Rub</TD>
+      <TD>$6.50</TD>
+   </TR>
+    <TR>
+      <TD>Elvio's Chimichurri</TD>
+      <TD>$15</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$52.75</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$47</big></i></TD>
+   </TR>
+</TABLE>
