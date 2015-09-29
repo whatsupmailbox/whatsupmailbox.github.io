@@ -45,10 +45,14 @@ date: 2015-09-29 12:33:19 -08:00
 
 <p>So far it looks great and I can't wait to use all of these soon!</p>
 
-<br>
 
-<figure class="third">
-        <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" /></a>
+
+<p>The Info Booklet:</p>
+
+<center><a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" />
+</a></center>
+
+<figure class="half">
         <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" /></a>
         <a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank"> <img src="/images/HamptonsLaneSep2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Sheet" /></a>
         <figcaption>The Info Booklet</figcaption>
