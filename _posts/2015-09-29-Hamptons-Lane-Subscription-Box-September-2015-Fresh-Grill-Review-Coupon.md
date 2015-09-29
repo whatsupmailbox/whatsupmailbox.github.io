@@ -45,7 +45,7 @@ date: 2015-09-29 12:33:19 -08:00
 
 <p>So far it looks great and I can't wait to use all of these soon!</p>
 
-
+<br>
 
 <p>The Info Booklet:</p>
 
