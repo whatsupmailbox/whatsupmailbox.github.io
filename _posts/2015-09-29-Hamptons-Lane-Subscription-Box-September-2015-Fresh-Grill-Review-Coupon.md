@@ -28,7 +28,7 @@ date: 2015-09-29 13:33:19 -08:00
 
 <p>On the 1st of every month they release a new curated themed box and you get to either choose that box or a box from their past releases that are still available.</p> 
 
-<p>This month I chose the "Fresh Grill" box since we were doing a lot of BBQ-ing lately, especially kabobs so this looked perfect.</p>
+<p>This month I chose the "Fresh Grill" box since we were doing a lot of grilling lately, especially kabobs so this looked perfect.</p>
 
 <center><a href="https://hamptonslane.com/r/11eff023530570bd66163aea0facf3b6" target="_blank">
 <img src="/images/HamptonsLaneSep2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
