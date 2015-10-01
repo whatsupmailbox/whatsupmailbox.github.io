@@ -100,6 +100,8 @@ date: 2015-10-01 11:01:39 -08:00
 
 <p>NOTE: You have until October 5th to make your choice or they will pick one for you. Or you can always opt-out of a box this month.</p>
 
+<p>Visit their website for more info and to see all available boxes: <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"> www.bespokepost.com</a></p>
+
 <p>Not a subscriber or want to get a one-time box? You can <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank"><big>subscribe or buy here</big></a> and start choosing one of their cool and awesome themed boxes! Don't forget to use coupon code <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">BOX20</a> to get 20% off your first box!</p>
 
 <br>
