@@ -28,6 +28,8 @@ date: 2015-09-30 16:10:39 -08:00
 
 <br>
 
+<p>This review is for my 2nd box that I received this month from my other profile/account.</p>
+
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxSep2015BBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox September 2015 Box" />
 </a></center>
