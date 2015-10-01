@@ -58,21 +58,38 @@ date: 2015-09-30 16:10:39 -08:00
 <figcaption>Back of the card</figcaption>
 <br>
 
+<p>Because this month is their 5-year Anniversary, they also included a 20% off any purchase of $35+ in every box!</p>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxSep2015BCoupon.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox 20% Coupon" /></a></center>
+
+<br>
+
 <H4>And here are my items:</H4>
 
 <p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxSep2015BItems.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox September 2015 Items!" /></a></center></p>
 <br>
 
-<ul>
+**Benefit Cosmetics - Gimme Brow in Light/Medium (1g, Value $8)**
+<p>I'm excited to try this since it promises to deliver fuller, darker brows that stay in place all day but still manages to look natural. That sounds perfect and I can't wait to see if this really works!</p>
 
-<li>Benefit Cosmetics - Gimme Brow in Light/Medium (1g, Value $8)</li>
+**Dear Clark - Volumizing Tonis (1 fl.oz., Value $4.33)**
+<p>This is handmade in Texas and as they say in Texas, go big or go home! And that must sound true for hair too which is why they've made this hair tonic treatment that will deliver enviable volume even to the flattest, finest strands. Well the last part applies to me so this will surely be used asap!</p>
+
+**dr. brandt - Pores No More Cleanser (0.25 fl.oz., Value $2.50)**
+<p>I am a fan of this cleanser. I have 2 full-sized tubes of this, plus a travel-sized one and now add this to the collection. I think I'm all set for now, lol. But honestly, this cleanser is amazing on my combination/oily skin and my face feels so fresh and so clean afterwards. I notice that I'm more matte and less oily throughout the day versus when I don't use it. Love this!</p>
+
+**ModelCo - Ultra Long Lasting Lipstick (Full Size, Value $6.66)**
+<p>Yay, lipstick! The color Smitten is a deep cranberry red, and as Coco Chanel said, "There is a shade of red for every woman" and this one goes on perfect for me!</p>
+
+**Harvey Prince - Hello Perfume (Deluxe Sample Spray Vial 1.5 mL, Value $3)**
+<p>I've received this sample in the past before and the fragrance is just not for me. It's too sweet and floral for my taste, so I'll have to pass this on.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's Birchbox was amazing! I still can't believe I got a full-sized lip product worth $22, that's double the cost of the box itself! Not only that, all the other items were perfectly matched to me and I can't be more happy with them. At this point I've used every single product and all I have to say is wow, this month's box was truly perfect and the value has got to be the highest I've received so far. Well done Birchbox and happy 5th year anniversary!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great box from Birchbox! I'm not even sure which one I like better, this box or my first box I received earlier this month. It's so close. But if I had to look at value, I think my first box was higher, plus the fragrance sample in that one I actually liked. Either way, even if there's one or two items that I don't like, I find Birchbox still holds it value for me to continue subscribing. Especially since I can review each item I received and convert them to Birchbox dollars to spend, that's the best thing about this sub. I've made my sample choice for next month (I can't believe it's almost October already!) and can't wait for it to come to my mailbox already!</p>
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website to subscribe</big></a>. Plus for a limited time (until Oct 9th), use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"><b>5BOX</b></a> to get $5 off your first box, that's 50% off! That's a great deal especially when you review your products, you get $5 to spend in the Birchbox shop so that makes this deal essentially FREE! <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Get one now</a> before this code expires!</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website to subscribe</big></a>. Plus for a limited time (until Oct 9th), use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"><b>FIVEOFFBOX</b></a> to get $5 off your first box, that's 50% off! That's a great deal especially when you review your products, you get $5 to spend in the Birchbox shop so that makes this deal essentially FREE! <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Get one now</a> before this code expires!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
@@ -84,32 +101,28 @@ date: 2015-09-30 16:10:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Mally High-Shine Liquid Lipstick</TD>
-      <TD>$22</TD>
+      <TD>Benefit Gimme Brow</TD>
+      <TD>$8</TD>
    </TR>
    <TR>
-      <TD>Whish Three Whishes Body Butter</TD>
-      <TD>$3.50</TD>
+      <TD>Dear Clark Volumizing Tonic</TD>
+      <TD>$4.33</TD>
    </TR>
     <TR>
-      <TD>Davines LOVE Shampoo</TD>
-      <TD>$3.50</TD>
+      <TD>dr. brandt Pores No More Cleanser</TD>
+      <TD>$2.50</TD>
    </TR>
     <TR>
-      <TD>100% Pure Eye Cream</TD>
-      <TD>$7.50</TD>
+      <TD>ModelCo Lipstick</TD>
+      <TD>$6.66</TD>
    </TR>
     <TR>
-      <TD>By Rosie Jane - James Perfume</TD>
-      <TD>$7.80</TD>
-   </TR>
-   <TR>
-      <TD>Davines LOVE Conditioner</TD>
-      <TD>$1.30</TD>
+      <TD>Harvey Prince Hello</TD>
+      <TD>$3</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$45.60</big></b></TD>
+      <TD><b><big>$24.49</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
