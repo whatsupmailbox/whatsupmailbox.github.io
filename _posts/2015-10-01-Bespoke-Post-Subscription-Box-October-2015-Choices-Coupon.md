@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Bespoke Post October 2015 Box Choices + Coupon!"
+title: "Bespoke Post October 2015 Box Choices + 20% Coupon!"
 description: ""
-headline: "Bespoke Post October 2015 Box Choices + Coupon!"
+headline: "Bespoke Post October 2015 Box Choices + 20% Coupon!"
 tags: [Bespoke Post, Subscriptions, Reviews, Coupons, October 2015]
 comments: true
 published: true
