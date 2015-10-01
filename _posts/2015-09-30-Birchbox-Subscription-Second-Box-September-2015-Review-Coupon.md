@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
+    - Coupons
 title: Birchbox September 2015 "2nd Box" Review + Coupon!
 featured: false
 comments: true
@@ -73,7 +74,7 @@ date: 2015-09-30 16:10:39 -08:00
 **Benefit Cosmetics - Gimme Brow in Light/Medium (1g, Value $8)**
 <p>I'm excited to try this since it promises to deliver fuller, darker brows that stay in place all day but still manages to look natural. That sounds perfect and I can't wait to see if this really works!</p>
 
-**Dear Clark - Volumizing Tonis (1 fl.oz., Value $4.33)**
+**Dear Clark - Volumizing Tonic (1 fl.oz., Value $4.33)**
 <p>This is handmade in Texas and as they say in Texas, go big or go home! And that must sound true for hair too which is why they've made this hair tonic treatment that will deliver enviable volume even to the flattest, finest strands. Well the last part applies to me so this will surely be used asap!</p>
 
 **dr. brandt - Pores No More Cleanser (0.25 fl.oz., Value $2.50)**
