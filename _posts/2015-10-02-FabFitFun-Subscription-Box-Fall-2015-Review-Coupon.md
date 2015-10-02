@@ -195,6 +195,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p>I've only known October to be Breast Cancer Awareness month, but now I know it is also for Domestic Violence.</p>
 
+<p>Wear this charm on your purse to show your support for a world without domestic violence. You can join the movement at <a href="http://www.purplepurse.com" target="_blank">www.purplepurse.com</a>.
 <br>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
