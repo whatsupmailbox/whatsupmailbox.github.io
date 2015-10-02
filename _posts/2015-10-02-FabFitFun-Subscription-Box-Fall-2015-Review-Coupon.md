@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "FabFitFun Fall 2015 Box Review + $20 Coupon!"
+title: "FabFitFun Fall 2015 Box Review + $10 Coupon!"
 description: ""
-headline: "FabFitFun Fall 2015 Box Review + $20 Coupon!"
+headline: "FabFitFun Fall 2015 Box Review + $10 Coupon!"
 categories: 
       - Subscriptions
       - Reviews
 tags: [FabFitFun, Subscriptions, Reviews, October 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "FabFitFunFall2015Box.jpg"
@@ -50,7 +50,7 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>The info magazine</figcaption>
 <br>
 
-<p>This month FabFitFun changed their info sheet into a magazine. I actually love it! It's very informational and they even modeled every item in the box so we can see how it's on/used. So very helpful!</p>
+<p>This month <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> changed their info sheet into a magazine. I actually love it! It's very informational and they even modeled every item in the box so we can see how it's on/used. So very helpful!</p>
 
 <p>Here are some pages from the info magazine:</p>
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
@@ -71,7 +71,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
-<p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets. Good job FabFitFun!</p>
+<p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets. Good job <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a>!</p>
 
 <br>
 
@@ -81,7 +81,7 @@ date: 2015-10-02 09:05:39 -08:00
 </a></center>
 <br>
 
-<p>OMG, look at all the items in here! I think this is the most FabFitFun has ever sent and even before I go into each item, I already can sense that this might be my favorite box from them yet!</p>
+<p>OMG, look at all the items in here! I think this is the most <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> has ever sent and even before I go into each item, I already can sense that this might be my favorite box from them yet!</p>
 
 <H4>Items in detail:</H4>
 
@@ -185,7 +185,7 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>1 Tube & 1 DVD, Value $33</DD>
 </DL>
 
-<p>I love it when FabFitFun sends out fitness products, it motivates me to get back on track with my fitness goals.</p>
+<p>I love it when <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> sends out fitness products, it motivates me to get back on track with my fitness goals.</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Tubing2.jpg" border="0" style="border:none;max-width:100%;" alt="Strength Tubing Ankle & Total Body Tone DVD by Merrithew" />
@@ -276,7 +276,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them useful too! It had a great mix of different types of products and I think this is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $366.99, this is an absolute must have subscription box, especially if you're into cool and trendy products.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them were such a hit too! It had a great mix of different types of products and I think this is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $366.99 (that's 7 times more than the cost of this subscription!), this is an absolute must have if you're looking to subscribe to a subscription box, especially if you're into cool and trendy products! Bravo <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a>!</p>
 
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
