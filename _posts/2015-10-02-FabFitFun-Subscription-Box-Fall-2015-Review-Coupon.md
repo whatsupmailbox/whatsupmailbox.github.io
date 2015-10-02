@@ -189,6 +189,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Tubing2.jpg" border="0" style="border:none;max-width:100%;" alt="Strength Tubing Ankle & Total Body Tone DVD by Merrithew" />
+</a></center>
 
 <p>I actually have this tube already! You can even <a href="http://whatsupmailbox.com/products/reviews/Merrithew-Tubing-Ankle-Plus-DVD-Review/" target="_blank">read my short review of it here</a>. I purchased it earlier this year and shipping is quite expensive since they are a Canadian company, so I'm happy to get another one without that hassle!</p>
 
