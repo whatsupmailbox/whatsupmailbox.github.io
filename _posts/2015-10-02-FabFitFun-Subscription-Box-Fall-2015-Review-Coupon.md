@@ -153,6 +153,12 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p>There is a power button on the side, and when you do turn it on, there's a light blue strip of light that will start flashing on the front of the battery pack. You can see the light on the picture above.</p>
 
+<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<img src="/images/FabFitFunFall2015Battery4.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
+</a></center>
+
+<p>HISY also included a 25% off coupon.</p>
+
 <br>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
