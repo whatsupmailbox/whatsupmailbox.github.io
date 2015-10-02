@@ -283,7 +283,7 @@ date: 2015-10-02 09:05:39 -08:00
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:75%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
