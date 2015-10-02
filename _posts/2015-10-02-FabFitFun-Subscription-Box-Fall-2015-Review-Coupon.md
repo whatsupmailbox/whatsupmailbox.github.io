@@ -250,6 +250,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <DL>
 <DT>3D White Brilliance 2-Step System by Crest</DT>
+<DD>2 sachets (1 each for the step)</DD>
 </DL>
 
 <p>This is a teeth whitening product that has a two-step system. Step 1 cleans thoroughly and Step 2 polishes and whitens to keep your smile up to 99% as white as a professional polish.</p>
