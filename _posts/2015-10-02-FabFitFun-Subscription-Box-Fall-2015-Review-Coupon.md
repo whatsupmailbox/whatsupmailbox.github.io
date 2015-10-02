@@ -228,7 +228,7 @@ date: 2015-10-02 09:05:39 -08:00
 </a></center>
 <DL>
 <DT>Purple Purse Charm by Allstate Foundation Purple Purse</DT>
-<DD>Value $</DD>
+<DD>Value $10</DD>
 </DL>
 
 <p>I've only known October to be Breast Cancer Awareness month, but now I know it is also for Domestic Violence.</p>
