@@ -95,7 +95,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p><i>Note: The box comes sealed with stickers on both openings</i><p>
 
-<p>I'm a mask junkie so everytime I find them in my sub boxes, I'm already thrilled and happy. This one has gold in it which I know is very beneficial and effective when infused in skincare. It's very luxurious indeed... 2 masks for $65, um yeah, I'm gonna save this for when I really want to treat myself with a home spa, accompanied by some Veuve Clique champagne, Rose macarons and I'll light up my Jo Malone candle. Yep, I'll be going the whole nine yards with this!</p>
+<p>I'm a mask junkie so everytime I find them in my sub boxes, I'm already thrilled and happy. This one has gold in it which I know is very beneficial and effective when infused in skincare. It's very luxurious indeed... 2 masks for $65, um yeah, I'm gonna save this for when I really want to treat myself with a home spa. It'll have to be accompanied by some Veuve Clique champagne, Rose macarons and I'll light up my Jo Malone candle with Michael Buble singing in the background. Yep, I'll be going the whole nine yards with this!</p>
 
 <br>
 
