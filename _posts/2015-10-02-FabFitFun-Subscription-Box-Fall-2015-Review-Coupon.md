@@ -242,6 +242,20 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
+<p><i class="icon-gift-sign"></i><b> Bonus Sponsored Item:</b></p>
+
+<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<img src="/images/FabFitFunFall2015Crest.jpg" border="0" style="border:none;max-width:100%;" alt="3D White Brilliance 2-Step System by Crest" />
+</a></center>
+
+<DL>
+<DT>3D White Brilliance 2-Step System by Crest</DT>
+</DL>
+
+<p>This is a teeth whitening product that has a two-step system. Step 1 cleans thoroughly and Step 2 polishes and whitens to keep your smile up to 99% as white as a professional polish.</p>
+
+<br>
+
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them useful and of such great quality. This is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $357, this is an absolute must have subscription box, especially if you're into cool and trendy products.</p>
 
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here to get $10 off your first box</big></a>!</p>
