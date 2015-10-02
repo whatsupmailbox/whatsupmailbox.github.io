@@ -93,6 +93,8 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>2 masks, Value $65</DD>
 </DL>
 
+<p><i>Note: The box comes sealed with stickers on both openings</i><p>
+
 <p>I'm a mask junkie so everytime I find them in my sub boxes, I'm already thrilled and happy. This one has gold in it which I know is very beneficial and effective when infused in skincare. It's very luxurious indeed... 2 masks for $65, um yeah, I'm gonna save this for when I really want to treat myself with a home spa, accompanied by some Veuve Clique champagne, Rose macarons and I'll light up my Jo Malone candle. Yep, I'll be going the whole nine yards with this!</p>
 
 <br>
@@ -117,6 +119,8 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $24</DD>
 </DL>
 
+<p><i>Note: The box for this lip product has seal stickers on both openings</i></p>
+
 <p>I've used Manna Kadar lip products before thanks to Birchbox and I do like them. Their ingredients are natural and this 3-in-1 lip product is a combination of a primer, lip gloss, and lip stain all-in-one! It moisturized my lips and although it's a lip gloss, there's very minimal shine which I love. It definitely give me a dewy rosey natural lip look. Love it!</p>
 
 <br>
@@ -129,7 +133,9 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $39</DD>
 </DL>
 
-<p>I've never heard of this brand.</p>
+<p><i>Note: The tube comes sealed</i></p>
+
+<p>I've never heard of this brand but am excited to try it.</p>
 
 <br>
 
@@ -144,6 +150,8 @@ date: 2015-10-02 09:05:39 -08:00
 <DT>HISY Batter Pack in <i>Teal</i></DT>
 <DD>Value $24.99</DD>
 </DL>
+
+<p><i>Note: The box for this battery comes sealed with stickers on the top opening only</i></p>
 
 <p>I actually don't have a battery pack. I never found a need for it, but now that I have one in hand, I'm sure I'll be thinking to myself "why did I never use this before!" lol. Subscribers received either this Teal color, or a Pink or Mint Green one.</p>
 
