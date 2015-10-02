@@ -216,7 +216,7 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>A closer look at the bracelet</figcaption>
 <br>
 
-<p>I love the Aquamarine color, it's so very calming and pretty on my tanned skin. I think it will look good stacked with the white one too so I may have to try to get a hold of that one!</p>
+<p>I love the Aquamarine color, it's so very calming and pretty on my tanned skin. I think it will look good stacked with the white one too so I may have to try to get a hold of that one as well!</p>
 
 <br>
 
