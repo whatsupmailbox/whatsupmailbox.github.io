@@ -206,7 +206,7 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $49</DD>
 </DL>
 
-<p><i>Subscribers received one of these colors: Aquamarine, Mexican Blue, White Jade or Grey Jade</i></p>\
+<p><i>Subscribers received one of these colors: Aquamarine, Mexican Blue, White Jade or Grey Jade</i></p>
 
 <p>Yay, a jewelry item! I loved the necklace they included in the Summer Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Summer-2015-Review-Coupon/" target="_blank">read my review here</a>), so I was hoping for another jewelry piece. This bracelet is what I would consider boho chic, and it is pretty, but I'm not sure I would have bought it at $49. But it does go towards a good cause as Tribe Alive partners with artisans all over the world to employ impoverished women by providing them with a sustainable income.</p>
 
