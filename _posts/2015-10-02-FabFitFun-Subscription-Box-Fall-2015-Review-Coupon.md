@@ -123,7 +123,7 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $24</DD>
 </DL>
 
-<p><i>Note: The box came with seal stickers on both openings</i></p>
+<p><i>Note: The box comes sealed with stickers on both openings</i></p>
 
 <p>I've used Manna Kadar lip products before thanks to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> and I do like them. Their ingredients are natural and this 3-in-1 lip product is a combination of a primer, lip gloss, and lip stain all-in-one! It moisturized my lips and although it's a lip gloss, there was very minimal shine which I love. It definitely gave me a dewy rosey natural lip look. Love it!</p>
 
