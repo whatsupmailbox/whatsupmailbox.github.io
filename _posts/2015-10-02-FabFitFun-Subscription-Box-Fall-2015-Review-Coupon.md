@@ -35,7 +35,7 @@ date: 2015-10-02 09:05:39 -08:00
 <br>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
+<img src="/images/FabFitFunFall2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
