@@ -180,6 +180,11 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p>Subscribers received either the Aquamarine color (the one I received), White Jade, Grey Jade, or Dark blue. I like mine, it's very calming and pretty on my tanned skin. I think it will look good stacked with the white one too so I may have to try to swap for another one!</p>
 
+<br>
+
+<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<img src="/images/FabFitFunFall2015Purple1.jpg" border="0" style="border:none;max-width:100%;" alt="Purple Purse Charm by Allstate Foundation Purple Purse" />
+
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Purple.jpg" border="0" style="border:none;max-width:100%;" alt="Purple Purse Charm by Allstate Foundation Purple Purse" />
 </a></center>
