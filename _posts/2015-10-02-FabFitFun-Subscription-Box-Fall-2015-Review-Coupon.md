@@ -26,7 +26,7 @@ date: 2015-10-02 09:05:39 -08:00
 <p><b>Coupon:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">Get $10 off your first box through this link</a>!</p>
 <p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the newest most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
-<p>FabFitFun is one of my favorite subscriptions because they have such a good mix of products in their boxes everytime! So as soon as I saw my mailman walking towards my door with this purple box, I just went straight for him. Yes, I was that excited to open this box!</p>
+<p>FabFitFun is one of my favorite subscriptions because they have such a good mix of products in their boxes everytime! So as soon as I saw my mailman walking towards my door with this purple box, I went straight for him. Yep, I was that excited to open this box!</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
@@ -40,7 +40,7 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>Not sure why but the Flawless Skin Fluid box (green box on the right) was opened. Perhaps it was due to movement from the items that made that box open. But not to fear, the moisturizer tube itself is sealed, so nothing to be worried about, phew!</p>
+<p>Not sure why, but the Flawless Skin Fluid box (green box on the right) was opened. Perhaps it was due to movement from the items that made the box open. But not to fear, the moisturizer tube itself is sealed, so nothing to be worried about, phew!</p>
 
 <p>Spoilers were released earlier for some items, but as always it's still exciting for me to actually finally have it in my hands.</p>
 
@@ -50,7 +50,7 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>The info magazine</figcaption>
 <br>
 
-<p>This month FabFitFun changed their info sheet into a magazine. I actually love it! It's very informational and even modeled every item in the box so we can see how it's on/used. So very helpful!</p>
+<p>This month FabFitFun changed their info sheet into a magazine. I actually love it! It's very informational and they even modeled every item in the box so we can see how it's on/used. So very helpful!</p>
 
 <p>Here are some pages from the info magazine:</p>
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
@@ -71,7 +71,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
-<p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets.</p>
+<p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets. Good job FabFitFun!</p>
 
 <br>
 
@@ -81,7 +81,7 @@ date: 2015-10-02 09:05:39 -08:00
 </a></center>
 <br>
 
-<p>OMG, there's so many items in here! I think this is the most FabFitFun has ever sent and even before I go into each item, I already can sense that this might be my favorite from them yet!</p>
+<p>OMG, look at all the items in here! I think this is the most FabFitFun has ever sent and even before I go into each item, I already can sense that this might be my favorite box from them yet!</p>
 
 <H4>Items in detail:</H4>
 
@@ -89,13 +89,15 @@ date: 2015-10-02 09:05:39 -08:00
 <img src="/images/FabFitFunFall2015Mask.jpg" border="0" style="border:none;max-width:100%;" alt="Gold Radiance Luxury Facial Mask by Passport to Beauty" />
 </a></center>
 <DL>
-<DT>Gold Radiance Luxury Facial Mask by Passport to Beauty</DT>
+<DT>Gold Radiance Luxury Facial Mask With Collagen and Rose Oil by Passport to Beauty</DT>
 <DD>2 masks, Value $65</DD>
 </DL>
 
 <p><i>Note: The box comes sealed with stickers on both openings</i><p>
 
-<p>I'm a mask junkie so everytime I find them in my sub boxes, I'm already thrilled and happy. This one has gold in it which I know is very beneficial and effective when infused in skincare. It's very luxurious indeed... 2 masks for $65, um yeah, I'm gonna save this for when I really want to treat myself with a home spa. It'll have to be accompanied by some Veuve Clique champagne, Rose macarons and I'll light up my Jo Malone candle with Michael Buble singing in the background. Yep, I'll be going the whole nine yards with this!</p>
+<p>I'm a mask junkie so everytime I find them in my sub boxes, I'm already thrilled and happy. This mask is specially formulated with luxurious colloidal gold along with collagen to promote your skin’s natural beauty. The surface of the mask is coated with a gold essence and infusion of Rosa Damascena, a fragrant, pink-flowering plant that yields rose petals that provide the precious rose essential oil, regarded to be more precious than gold.</p>
+
+<p>It's very luxurious indeed... 2 masks for $65, um yeah, I'm gonna save this for when I really want to treat myself with a home spa. It'll have to be accompanied by some Veuve Clicquot champagne, Rose French Macarons and I'll light up my Jo Malone candle with Michael Bublé singing in the background. Yep, I'll be going the whole nine yards with this!</p>
 
 <br>
 
@@ -107,7 +109,9 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $32</DD>
 </DL>
 
-<p>The artist is LA-based so that already got my attention. Plus I love pink! Although it doesn't rain much in LA, an umbrella is always needed since I do travel to places/countries where it rains. The design is cute with prints that say "Rain Rain Go Away" all over, ah-dorable.</p>
+<p><i>Subscribers received one of these colors: Pretty in Pink, Sky Blue, Classic Black, Mango Tango or Sunshine Yellow</i></p>
+
+<p>The artist is LA-based so that already got my attention. Plus I love pink! Although it doesn't rain much in LA, a cute umbrella is always welcomed. The design has prints that say "Rain Rain Go Away" all over, so ah-dorable.</p>
 
 <br>
 
@@ -119,9 +123,9 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $24</DD>
 </DL>
 
-<p><i>Note: The box for this lip product has seal stickers on both openings</i></p>
+<p><i>Note: The box for this lip product came with seal stickers on both openings</i></p>
 
-<p>I've used Manna Kadar lip products before thanks to Birchbox and I do like them. Their ingredients are natural and this 3-in-1 lip product is a combination of a primer, lip gloss, and lip stain all-in-one! It moisturized my lips and although it's a lip gloss, there's very minimal shine which I love. It definitely give me a dewy rosey natural lip look. Love it!</p>
+<p>I've used Manna Kadar lip products before thanks to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> and I do like them. Their ingredients are natural and this 3-in-1 lip product is a combination of a primer, lip gloss, and lip stain all-in-one! It moisturized my lips and although it's a lip gloss, there was very minimal shine which I love. It definitely gave me a dewy rosey natural lip look. Love it!</p>
 
 <br>
 
@@ -135,7 +139,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p><i>Note: The tube comes sealed</i></p>
 
-<p>I've never heard of this brand but am excited to try it.</p>
+<p>I've never heard of this brand but am excited to try it. Not only does it moisturize, but it also smoothes and visually corrects uneven skin tone caused by age spots and hyperpigmentation. My summer days of laying by the pool and beach has given my face some hyperpigmentation, so I am in need of this. The ingredients are also all-natural which is always a plus in my book.</p>
 
 <br>
 
@@ -153,7 +157,9 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p><i>Note: The box for this battery comes sealed with stickers on the top opening only</i></p>
 
-<p>I actually don't have a battery pack. I never found a need for it, but now that I have one in hand, I'm sure I'll be thinking to myself "why did I never use this before!" lol. Subscribers received either this Teal color, or a Pink or Mint Green one.</p>
+<p><i>Subscribers received one of these colors: Berry + Rose, Mint + Lavender or Aqua + Navy</i></p>
+
+<p>I actually don't have a battery pack. I never found a need for it, but now that I have one in hand, I'm sure I'll be thinking to myself "why did I never use this before!" lol.</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Battery2.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
@@ -161,13 +167,13 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p>Although their info magazine shows this battery pack hooked up to an iPhone using the included USB cable, the other end is a micro USB which does not work on iPhones so I'm not sure why it's shown that way. You have to use your own iPhone charging cable which is not a big deal. The included cable can then be used to charge the actual battery pack.</p>
 
-<p>There is a power button on the side, and when you do turn it on, there's a light blue strip of light that will start flashing on the front of the battery pack. You can see the light on the picture above.</p>
+<p>There is a power button on the side, and when you do turn it on, there's a bright blue strip of light that will start flashing continuously on the front of the battery pack. You can see the light on the picture above (it took a lot of tries for me to catch a picture with that light flashing!).</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Battery4.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
 </a></center>
 
-<p>HISY also included a 25% off coupon.</p>
+<p>HISY also included a 25% off coupon which I'm sure I'll be using soon.</p>
 
 <br>
 
@@ -184,9 +190,9 @@ date: 2015-10-02 09:05:39 -08:00
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Tubing2.jpg" border="0" style="border:none;max-width:100%;" alt="Strength Tubing Ankle & Total Body Tone DVD by Merrithew" />
 
-<p>I actually have this tube already! You can even read a review of it here. I purchased it earlier this year and shipping is actually expensive since they are a Canadian company, so I'm happy I get another one without that hassle!</p>
+<p>I actually have this tube already! You can even <a href="http://whatsupmailbox.com/products/reviews/Merrithew-Tubing-Ankle-Plus-DVD-Review/" target="_blank">read my short review of it here</a>. I purchased it earlier this year and shipping is quite expensive since they are a Canadian company, so I'm happy to get another one without that hassle!</p>
 
-<p>It's very easy to use and boy does it work your legs out. You can of course use it for toning other parts of your body depending on the exercises you do, but they are a great addition to your workout tools and one that I cannot live without now. The DVD that comes in this set is also very helpful and helps you utilize the tube to its full potential. I have another DVD from Merrithew that's for Tubing as well, but this one focuses more on total body workout whereas the one I have focuses on lower body strength.</p>
+<p>This tube is very easy to use and boy does it work your quads out. You can of course use it for toning other parts of your body depending on the exercises you do, but they are a great addition to your workout tools and one that I cannot live without now. The DVD that comes in this set is also very helpful and helps you utilize the tube to its full potential. I know this because the DVD I bought with my tube earlier this year is the exact same one!</p>
 
 <br>
 
@@ -199,7 +205,9 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $49</DD>
 </DL>
 
-<p>Yay, a jewelry item! I loved the necklace they included in the Summer Box (read my review here), so I was hoping for another jewelry piece. This bracelet is what I would consider boho chic, and it is pretty, but I'm not sure I would have bought it at $49. But it does go towards a good cause as Tribe Alive partners with artisans all over the world to employ impoverished women by providing them with a sustainable income.</p>
+<p><i>Subscribers received one of these colors: Aquamarine, Mexican Blue, White Jade or Grey Jade</i></p>\
+
+<p>Yay, a jewelry item! I loved the necklace they included in the Summer Box (<a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Summer-2015-Review-Coupon/" target="_blank">read my review here</a>), so I was hoping for another jewelry piece. This bracelet is what I would consider boho chic, and it is pretty, but I'm not sure I would have bought it at $49. But it does go towards a good cause as Tribe Alive partners with artisans all over the world to employ impoverished women by providing them with a sustainable income.</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Bracelet2.jpg" border="0" style="border:none;max-width:100%;" alt="Glass Crystal Bead Bracelet by Tribe Alive" />
@@ -207,7 +215,7 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>A closer look at the bracelet</figcaption>
 <br>
 
-<p>Subscribers received either the Aquamarine color (the one I received), White Jade, Grey Jade, or Dark blue. I like mine, it's very calming and pretty on my tanned skin. I think it will look good stacked with the white one too so I may have to try to swap for another one!</p>
+<p>I love the Aquamarine color, it's so very calming and pretty on my tanned skin. I think it will look good stacked with the white one too so I may have to try to get a hold of that one!</p>
 
 <br>
 
