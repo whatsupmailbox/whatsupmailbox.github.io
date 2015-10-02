@@ -320,7 +320,7 @@ date: 2015-10-02 09:05:39 -08:00
       <TD>$49</TD>
    </TR>
     <TR>
-      <TD>Purple Purse Charm by Allstate Foundation Purple Purse</TD>
+      <TD>Purple Purse Charm by Allstate Foundation</TD>
       <TD>$10</TD>
    </TR>
     <TR>
