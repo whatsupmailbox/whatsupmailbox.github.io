@@ -40,7 +40,9 @@ date: 2015-10-02 09:05:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>Spoilers were released earlier for some items, but it's still exciting for me to actually finally have it in my hands.</p>
+<p>Not sure why but the Flawless Skin Fluid box (green box on the right) was opened. Perhaps it was due to movement from the items that made that box open. But not to fear, the moisturizer tube itself is sealed, so nothing to be worried about, phew!</p>
+
+<p>Spoilers were released earlier for some items, but as always it's still exciting for me to actually finally have it in my hands.</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine" />
