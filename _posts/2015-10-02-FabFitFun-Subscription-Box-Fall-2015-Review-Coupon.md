@@ -222,6 +222,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Purple1.jpg" border="0" style="border:none;max-width:100%;" alt="Purple Purse Charm by Allstate Foundation Purple Purse" />
+</a></center>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Purple.jpg" border="0" style="border:none;max-width:100%;" alt="Purple Purse Charm by Allstate Foundation Purple Purse" />
