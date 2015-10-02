@@ -263,7 +263,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
-<p><i class="icon-gift-sign"></i><b> Bonus Sponsored Item:</b></p>
+<p><i class="icon-gift"></i><b> Bonus Sponsored Item:</b></p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Crest.jpg" border="0" style="border:none;max-width:100%;" alt="3D White Brilliance 2-Step System by Crest" />
