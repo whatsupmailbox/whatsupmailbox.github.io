@@ -107,7 +107,7 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>Value $32</DD>
 </DL>
 
-<p>The artist is LA-based so that already got my attention. Plus I love pink! Although it doesn't rain much in LA, an umbrella is always needed since I do travel to places/countries where it rains. The design is cute with prints that say "Rain Rain Go Away" all over, adorable.</p>
+<p>The artist is LA-based so that already got my attention. Plus I love pink! Although it doesn't rain much in LA, an umbrella is always needed since I do travel to places/countries where it rains. The design is cute with prints that say "Rain Rain Go Away" all over, ah-dorable.</p>
 
 <br>
 
