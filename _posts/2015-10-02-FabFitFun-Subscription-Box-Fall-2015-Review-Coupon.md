@@ -276,7 +276,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them useful and of such great quality. This is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $357, this is an absolute must have subscription box, especially if you're into cool and trendy products.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them useful too! It had a great mix of different types of products and I think this is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $366.99, this is an absolute must have subscription box, especially if you're into cool and trendy products.</p>
 
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
@@ -290,48 +290,48 @@ date: 2015-10-02 09:05:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Tarte Lip Gloss</TD>
-      <TD>$19</TD>
+      <TD>Passport to Beauty - Gold Radiance Mask</TD>
+      <TD>$65</TD>
    </TR>
   <TR>
-      <TD>The Everyday Wireless Speaker</TD>
-      <TD>$29.99</TD>
+      <TD>FabFitFun x Tappan Collective Umbrella</TD>
+      <TD>$32</TD>
    </TR>
    <TR>
-      <TD>WREN Necklace</TD>
-      <TD>$100</TD>
+      <TD>Manna Kadar - Lucky Lip Stain</TD>
+      <TD>$24</TD>
    </TR>
     <TR>
-      <TD>Hello Konjac Cleansing Sponge</TD>
-      <TD>$12</TD>
+      <TD>Doctor D. Schwab - Flawless Skin Fluid</TD>
+      <TD>$39</TD>
    </TR>
     <TR>
-      <TD>FabFitFun Jump Rope</TD>
-      <TD>$14</TD>
+      <TD>HISY Battery Pack</TD>
+      <TD>$24.99</TD>
    </TR>
     <TR>
-      <TD>Gorge Daily Hair Spray</TD>
-      <TD>$24.95</TD>
+      <TD>Merrithew - Strength Tubing + DVD</TD>
+      <TD>$33</TD>
    </TR>
     <TR>
-      <TD>Vaseline Spray Moisturizer</TD>
-      <TD>$7.99</TD>
+      <TD>Tribe Alive - Glass Crystal Bead Bracelet</TD>
+      <TD>$49</TD>
    </TR>
     <TR>
-      <TD>Inkling Scents Roll-On Oil Perfume</TD>
-      <TD>$25</TD>
+      <TD>Purple Purse Charm by Allstate Foundation Purple Purse</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Scratch Nail Wraps</TD>
-      <TD>$8</TD>
+      <TD>Jeweler's Wife Gift Card</TD>
+      <TD>$15</TD>
    </TR>
     <TR>
-      <TD>Headspace 3-month Subscription</TD>
-      <TD>$38.85</TD>
+      <TD>Picture It On Canvas Gift Card</TD>
+      <TD>$75</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$279.78</big></b></TD>
+      <TD><b><big>$366.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
