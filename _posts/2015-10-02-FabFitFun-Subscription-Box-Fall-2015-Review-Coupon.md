@@ -12,7 +12,7 @@ mathjax: null
 published: false
 featured: false
 type: photo
-imagefeature: "FabFitFunSummer2015Box.jpg"
+imagefeature: "FabFitFunFall2015Box.jpg"
 date: 2015-10-02 09:05:39 -08:00
 ---
 
@@ -52,24 +52,26 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p>Here are some pages from the info magazine:</p>
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine 2" />
+<img src="/images/FabFitFunFall2015Info1.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine 2" />
 </a></center>
 
 <br>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine 3" />
+<img src="/images/FabFitFunFall2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine 3" />
 </a></center>
 
 <br>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015Info4.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine4" />
+<img src="/images/FabFitFunFall2015Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Magazine4" />
 </a></center>
 
 <br>
 
 <p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets.</p>
+
+<br>
 
 <H4>And here are the items inside:</H4>
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
