@@ -132,18 +132,24 @@ date: 2015-10-02 09:05:39 -08:00
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Battery.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
 </a></center>
+
+<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<img src="/images/FabFitFunFall2015Battery3.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
+</a></center>
 <DL>
 <DT>HISY Batter Pack in <i>Teal</i></DT>
 <DD>Value $24.99</DD>
 </DL>
 
 <p>I actually don't have a battery pack. I never found a need for it, but now that I have one in hand, I'm sure I'll be thinking to myself "why did I never use this before!" lol. Subscribers received either this Teal color, or a Pink or Mint Green one.</p>
-<p>Although their info magazine shows this battery pack hooked up to an iPhone using the included USB cable, the other end is a micro USB which does not work on iPhones so I'm not sure why it's shown that way. You have to use your own iPhone charging cable which is not a big deal. The included cable can then be used to charge the actual battery pack.</p>
 
 <center><a href="http://xo.fff.me/cAIsf" target="_blank">
 <img src="/images/FabFitFunFall2015Battery2.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
 </a></center>
-<p>There is a power button on the side, and when you do, there's a light blue strip of light that will start flashing on the front of the battery pack. You can see the light on the picture below.</p>
+
+<p>Although their info magazine shows this battery pack hooked up to an iPhone using the included USB cable, the other end is a micro USB which does not work on iPhones so I'm not sure why it's shown that way. You have to use your own iPhone charging cable which is not a big deal. The included cable can then be used to charge the actual battery pack.</p>
+
+<p>There is a power button on the side, and when you do turn it on, there's a light blue strip of light that will start flashing on the front of the battery pack. You can see the light on the picture above.</p>
 
 <br>
 
@@ -155,9 +161,14 @@ date: 2015-10-02 09:05:39 -08:00
 <DD>1 Tube & 1 DVD, Value $33</DD>
 </DL>
 
+<p>I love it when FabFitFun sends out fitness products, it motivates me to get back on track with my fitness goals.</p>
+
+<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<img src="/images/FabFitFunFall2015Tubing2.jpg" border="0" style="border:none;max-width:100%;" alt="Strength Tubing Ankle & Total Body Tone DVD by Merrithew" />
+
 <p>I actually have this tube already! You can even read a review of it here. I purchased it earlier this year and shipping is actually expensive since they are a Canadian company, so I'm happy I get another one without that hassle!</p>
 
-<p>It's very easy to use and boy does it work your legs out. You can of course use it for toning other parts of your body depending on the exercises you do, but they are a great addition to your workout tools and one that I cannot live without now.</p>
+<p>It's very easy to use and boy does it work your legs out. You can of course use it for toning other parts of your body depending on the exercises you do, but they are a great addition to your workout tools and one that I cannot live without now. The DVD that comes in this set is also very helpful and helps you utilize the tube to its full potential. I have another DVD from Merrithew that's for Tubing as well, but this one focuses more on total body workout whereas the one I have focuses on lower body strength.</p>
 
 <br>
 
