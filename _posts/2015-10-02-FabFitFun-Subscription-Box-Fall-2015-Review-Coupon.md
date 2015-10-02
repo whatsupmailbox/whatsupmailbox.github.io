@@ -259,7 +259,7 @@ date: 2015-10-02 09:05:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> One word, WOW! There were so many items they included in this box and all of them useful and of such great quality. This is definitely my favorite box from them as of yet. I also love that they changed their info sheets to a magazine now, that was such a great move. With a total value of $357, this is an absolute must have subscription box, especially if you're into cool and trendy products.</p>
 
-<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun here to get $10 off your first box</big></a>!</p>
+<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:75%">
