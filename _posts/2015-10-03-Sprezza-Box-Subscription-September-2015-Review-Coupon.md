@@ -127,7 +127,7 @@ date: 2015-10-03 09:22:39 -08:00
 <p>I received a product from them in a past Sprezza Box, but not a lip balm so this was happily welcomed. Especially since we're entering Fall and Winter, this will definitely be useful for banishing chapped lips. Plus this lip balm is all natural, organic and has SPF 15.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love Sprezza Box, I really do, but this month was kind of a miss for us. It just seemed kind of blah, nothing to rave about. I'm still hoping they'll come out with another great box like the one in July where they included a watch. The value is still there though for me to continue subscribing, so here's to hoping that next month will have better products and less Sprezza branded items too!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">Sprezza Box</a>, I really do, but this month was kind of a miss for us. It just seemed kind of blah, nothing to rave about. I'm still hoping they'll come out with another great box like the one in July where they included a watch. The value is still there though for me to continue subscribing, so here's to hoping that next month will have better products and less Sprezza branded items too!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">click here to subscribe to Sprezza Box</a> and don't forget to use coupon code <b>WHATSUPMAILBOX</b> to get 10% off your first box!</p>
 <br>
