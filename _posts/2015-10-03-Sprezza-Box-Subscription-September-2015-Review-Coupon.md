@@ -52,14 +52,14 @@ date: 2015-10-03 09:22:39 -08:00
 <DT>And here are the items:</DT>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box September 2015 Items" />
+<img src="/images/SprezzaBoxSep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box September 2015 Items" />
 </a></center>
 <br>
 
 <H4>Items in Detail:</H4>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Tie.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
+<img src="/images/SprezzaBoxSep2015Tie.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
 </a></center>
 <DL>
 <DT>Sprezza Necktie</DT>
@@ -69,13 +69,13 @@ date: 2015-10-03 09:22:39 -08:00
 <p>This tie has a great classic and yet still modern design. This is a great addition to my husband's tie collection!<p>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Tie2.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
+<img src="/images/SprezzaBoxSep2015Tie2.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
 </a></center>
 
 <p>Sprezza has been including a lot of their in-house items lately. So far it's been good, but I would prefer to see other brands, I mean that's the main reason why I subscribe to sub boxes in the first place, to be introduced to brands and products that I'm not aware yet. Hopefully next month!</p>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Tie3.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
+<img src="/images/SprezzaBoxSep2015Tie3.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
 </a></center>
 
 <p>It's also made of 100% silk which is a plus in my book.</p>
@@ -83,7 +83,7 @@ date: 2015-10-03 09:22:39 -08:00
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Socks.jpg" border="0" style="border:none;max-width:100%;" alt="Bedford & Broome Socks" />
+<img src="/images/SprezzaBoxSep2015Socks.jpg" border="0" style="border:none;max-width:100%;" alt="Bedford & Broome Socks" />
 </a></center>
 <DL>
 <DT>Bedford & Broome Limited Edition Socks</DT>
@@ -94,7 +94,7 @@ date: 2015-10-03 09:22:39 -08:00
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Square.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Pocket Square" />
+<img src="/images/SprezzaBoxSep2015Square.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Pocket Square" />
 </a></center>
 <DL>
 <DT>Sprezza Pocket Square</DT>
@@ -105,7 +105,7 @@ date: 2015-10-03 09:22:39 -08:00
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Lapel.jpg" border="0" style="border:none;max-width:100%;" alt="Dappered Man Specialty Lapel Flower" />
+<img src="/images/SprezzaBoxSep2015Lapel.jpg" border="0" style="border:none;max-width:100%;" alt="Dappered Man Specialty Lapel Flower" />
 </a></center>
 <DL>
 <DT>Dappered Man Specialty Lapel Flower</DT>
@@ -117,7 +117,7 @@ date: 2015-10-03 09:22:39 -08:00
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoSep2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Brickell Men's Lip Balm" />
+<img src="/images/SprezzaBoxSep2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Brickell Men's Lip Balm" />
 </a></center>
 <DL>
 <DT>Brickell Men's Products Lip Balm</DT>
