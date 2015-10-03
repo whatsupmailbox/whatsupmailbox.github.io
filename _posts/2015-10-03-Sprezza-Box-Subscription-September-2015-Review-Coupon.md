@@ -42,8 +42,8 @@ date: 2015-10-03 09:22:39 -08:00
 <br>
 
 <figure class="half">
-        <img src='/images/SprezzaBoxAugust2015Info.jpg'>
-        <img src='/images/SprezzaBoxAugust2015Info2.jpg'>
+        <img src='/images/SprezzaBoxSep2015Info.jpg'>
+        <img src='/images/SprezzaBoxSep2015Info2.jpg'>
         <figcaption>Info card</figcaption>
 </figure>
 
