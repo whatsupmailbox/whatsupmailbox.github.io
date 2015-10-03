@@ -101,7 +101,7 @@ date: 2015-10-03 09:22:39 -08:00
 <DD>Value $16</DD>
 </DL>
 
-<p>These pocket squares are kinda fun. It might be a bit to funky for my husband though, but we shall see.</p>
+<p>These pocket squares are kinda fun. It might be a bit too funky for my husband though, but we shall see.</p>
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
