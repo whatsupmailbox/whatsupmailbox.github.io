@@ -68,15 +68,15 @@ date: 2015-10-03 09:22:39 -08:00
 
 <p>This tie has a great classic and yet still modern design. This is a great addition to my husband's tie collection!<p>
 
-<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<p><center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxSep2015Tie2.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
-</a></center>
+</a></center></p>
 
 <p>Sprezza has been including a lot of their in-house items lately. So far it's been good, but I would prefer to see other brands, I mean that's the main reason why I subscribe to sub boxes in the first place, to be introduced to brands and products that I'm not aware yet. Hopefully next month!</p>
 
-<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<p><center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxSep2015Tie3.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Necktie" />
-</a></center>
+</a></center></p>
 
 <p>It's also made of 100% silk which is a plus in my book.</p>
 
