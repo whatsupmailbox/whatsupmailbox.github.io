@@ -23,7 +23,7 @@ date: 2015-10-03 09:22:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank"><big>WHATSUPMAILBOX</big></a> to receive 10% off your first box!</p>
 <br>
 
-<p>Lately Sprezza Box has been changing the colors of their boxes and this month is green (it was red for August).</p>
+<p>Lately Sprezza Box has been changing the colors of their boxes and this month it's green (it was white for August).</p>
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
