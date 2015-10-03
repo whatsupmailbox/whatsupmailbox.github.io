@@ -49,7 +49,7 @@ date: 2015-08-18 13:22:39 -08:00
 <DT>And here are the items:</DT>
 
 <p><center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoxAugust2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box July 2015 Items" />
+<img src="/images/SprezzaBoxAugust2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box August 2015 Items" />
 </a></center></p>
 <br>
 
