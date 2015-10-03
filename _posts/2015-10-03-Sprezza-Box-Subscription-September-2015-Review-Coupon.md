@@ -35,7 +35,7 @@ date: 2015-10-03 09:22:39 -08:00
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxSep2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
 </a></center>
-<figcaption>First look at unboxing</figcaption>
+<figcaption>Second look at unboxing</figcaption>
 <br>
 
 <p>The September 2015 box is titled the <big>Bleecker Box</big>.</p>
