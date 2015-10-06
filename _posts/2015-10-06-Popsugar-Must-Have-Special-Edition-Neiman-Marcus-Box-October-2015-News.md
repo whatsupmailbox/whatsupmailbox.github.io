@@ -10,7 +10,7 @@ featured: false
 categories: 
   - Subscriptions
 type: photo
-imagefeature: "PopsugarSENeimanMarcus2015News"
+imagefeature: "PopsugarSENeimanMarcus2015News.jpg"
 date: 2015-10-06 10:01:39 -08:00
 ---
 
