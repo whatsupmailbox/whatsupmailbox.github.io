@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: "My new fashion gadget: Apple Watch Hermès!"
+title: "My Apple Watch Hermès Review!"
 featured: false
 comments: true
-headline: "My new fashion gadget: Apple Watch Hermès!"
+headline: "My Apple Watch Hermès Review!"
 categories: 
   - Products
   - Reviews
