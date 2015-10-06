@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "My new fashion gadget: Apple Watch Hermès!"
 featured: false
 comments: true
