@@ -31,6 +31,8 @@ date: 2015-10-07 09:07:39 -08:00
 
 <p>The value of the clutch itself is around $130, and this is just 1 out of 6 items that you'll receive in the box. I knew I had to have one so I ordered the Tigre color (I love animal prints).</p>
 
+<p><i class="icon-exclamation-sign"></i>ONLY available for pre-order purchase through October 9th 2015 until 5pm EST. 3 days ONLY or while supplies last!</p>
+
 <p>Note that this is a one-time purchase, not a subscription. Payments are also handled by Paypal only.</p>
 
 <br>
