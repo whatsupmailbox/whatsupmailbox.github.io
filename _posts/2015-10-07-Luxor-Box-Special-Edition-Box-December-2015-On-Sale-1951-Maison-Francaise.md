@@ -29,6 +29,11 @@ date: 2015-10-07 09:07:39 -08:00
 
 <p>Double OMG!!! I love 1951 Maison Francaise and I can't believe they're including one of these gorgeous clutches in the box! These beauties were first introduced to us thanks to <a href="https://ouipleasebox.com" target="_blank">Oui Please</a>, and now it's all the rage here in North America! It's nearly impossible to get one here.</p>
 
+<p>When you purchase this Special Edition box, you'll get to choose the color/design of your clutch as shown below:</p>
+<center><a href="http://www.luxorbox.com" target="_blank">
+<img src="/images/LuxorBoxSE20151951MaisonFrancaise.png" border="0" style="border:none;max-width:100%;" alt="Luxor Box Special Edition Box Spoiler 1951 Maison Francaise!" />
+</a></center>
+
 <p>The value of the clutch itself is around $130, and this is just 1 out of 6 items that you'll receive in the box. I knew I had to have one so I ordered the Tigre color (I love animal prints).</p>
 
 <p><i class="icon-exclamation-sign"></i> ONLY available for pre-order purchase through October 9th 2015 until 5pm EST. 3 days ONLY or while supplies last!</p>
