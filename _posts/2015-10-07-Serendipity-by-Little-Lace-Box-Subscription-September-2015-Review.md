@@ -78,7 +78,7 @@ date: 2015-10-07 08:10:39 -08:00
 </DL>
 <p>Gently scented with notes of red grapefruit, guava and lemon blossom they smell pretty good. It's also infused with real goat milk, aloe, calendula, chamomile & vitamins to keep them from drying out your skin.</p>
 
-<p>I was actually quite surprised that these only cost $7. 30 wipes for $7 sounds like such a deal for me! They're actually pretty decent in size too, unlike other facial wipes that are pretty small, these are quite large. I love that, it will surely cover a lot of area for cleansing. I also love that it's paraben and sulfate free. </p>
+<p>I was actually quite surprised that these only cost $7. I think 30 wipes for $7 sounds like such a deal! They're actually pretty decent in size too, unlike other facial wipes that are pretty small, these are quite large. I love that, it will surely cover a lot of area for cleansing. I also love that it's paraben and sulfate free. </p>
 
 <br>
 
