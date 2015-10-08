@@ -115,3 +115,43 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <p><b>My Thoughts:</b> This month's items were pretty good, especially for $9.99! I love and will use everything except the Ofra eyeliner, so I'm happy with that. This is their first package out of their test phase where they offered it for free to current LLB subscribers, so I did pay $9.99 for this and I'm absolutely content with the items I received with what I paid. The products inside came from brands that I don't currently use but have been wanting to try out, so that in itself was valuable to me. This subscription is quite unpredictable (last month we got a tea steeper) so it's always exciting to see what I get everytime. Can't wait to see what they come up with in the next package!</p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:60%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>ITEMS IN THE PACKAGE</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Ofra Eyeliner</TD>
+      <TD>$13</TD>
+   </TR>
+   <TR>
+      <TD>Beekman 1802 Facial Wipes</TD>
+      <TD>$7</TD>
+   </TR>
+    <TR>
+      <TD>Beekman 1802 Lip Balm</TD>
+      <TD>$8</TD>
+   </TR>
+    <TR>
+      <TD>Mindful Minerals</TD>
+      <TD>$2.49</TD>
+   </TR>
+    <TR>
+      <TD>Mindful Minerals</TD>
+      <TD>$2.49</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$32.98</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$9.99</big></i></TD>
+   </TR>
+</TABLE>
