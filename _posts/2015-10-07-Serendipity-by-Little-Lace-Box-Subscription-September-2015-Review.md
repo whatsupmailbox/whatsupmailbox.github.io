@@ -112,7 +112,7 @@ date: 2015-10-07 08:10:39 -08:00
 <DD>Travel Size 1.75 oz., Value $2.49</DD>
 </DL>
 
-<p>This conditioner is formulated with Dead Sea Minerals, Aloe Vera and essential oils designed to balance the scalp PH and add moisture and minerals to your hair. It's free of harmful chemicals, sulfates, parabens, phthalate and artificial fragrance. That's music to my ears, can't wait to try this out!</p>
+<p>Formulated with Dead Sea Minerals, Aloe Vera and essential oils to balance the scalp PH and add moisture and minerals to your hair. It's free of harmful chemicals, sulfates, parabens, phthalate and artificial fragrance. That's music to my ears, can't wait to try this out!</p>
 
 <br>
 
