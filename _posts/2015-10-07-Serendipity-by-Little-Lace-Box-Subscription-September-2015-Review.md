@@ -103,7 +103,7 @@ date: 2015-10-07 08:10:39 -08:00
 <DT>Mindful Minerals - Get Even Dead Sea Exfoliating Cleanser</DT>
 <DD>Travel Size 1.75 oz., Value $2.49</DD>
 </DL>
-<p>This cleanser is formulated to stimulate cell turnover, decongest pores and helps even out your skintone. It's also naturally anti-microbial and anti-bacterial which may be beneficial to people who suffers from acne.</p>
+<p>This cleanser is formulated to stimulate cell turnover, decongest pores and helps even out your skintone. It's also naturally anti-microbial and anti-bacterial which may be beneficial to people who suffer with acne.</p>
 
 <br>
 
