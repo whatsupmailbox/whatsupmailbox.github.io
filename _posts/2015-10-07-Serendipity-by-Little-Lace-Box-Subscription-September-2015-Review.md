@@ -15,7 +15,7 @@ date: 2015-10-07 08:10:39 -08:00
 ---
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Package2" border="0" style="border:none;max-width:100%;" alt="Serendipity by Little Lace Box" />
+<img src="/images/SerendipitySep2015Package2.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity by Little Lace Box" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b">Serendipity by Little Lace Box</a></p>
@@ -28,13 +28,13 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Package" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
+<img src="/images/SerendipitySep2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
 </a></center>
 <p>I was surprised to see a white padded envelope from Little Lace Box. They typically send their items in red padded envelopes.</p>
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Package2" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
+<img src="/images/SerendipitySep2015Package2.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
 </a></center>
 
 <p>Now there's the red envelope that I've come to know too well =)</p>
@@ -42,7 +42,7 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Info" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
+<img src="/images/SerendipitySep2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity Packaging" />
 </a></center>
 <figcaption>Info Sheet</figcaption>
 <br>
@@ -52,14 +52,14 @@ date: 2015-10-07 08:10:39 -08:00
 
 <H4>And here are all the products inside:</H4>
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Items" border="0" style="border:none;max-width:100%;" alt="Serendipity October 2015 Items" />
+<img src="/images/SerendipitySep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity October 2015 Items" />
 </a></center>
 <br>
 
 <H4>Items in detail:</H4>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015OfraEyeliner" border="0" style="border:none;max-width:100%;" alt="OFRA Cosmetics - Eyeliner in Brown" />
+<img src="/images/SerendipitySep2015OfraEyeliner.jpg" border="0" style="border:none;max-width:100%;" alt="OFRA Cosmetics - Eyeliner in Brown" />
 </a></center>
 <DL>
 <DT>OFRA Cosmetics - Eyeliner in Brown</DT>
@@ -71,7 +71,7 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Beekman1802FacialWipes" border="0" style="border:none;max-width:100%;" alt="Beekman 1802 - Honeyed Grapefruit Facial Cleansing Wipes" />
+<img src="/images/SerendipitySep2015Beekman1802FacialWipes.jpg" border="0" style="border:none;max-width:100%;" alt="Beekman 1802 - Honeyed Grapefruit Facial Cleansing Wipes" />
 </a></center>
 <DL>
 <DT>Beekman 1802 - Honeyed Grapefruit Facial Cleansing Wipes</DT>
@@ -82,7 +82,7 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Beekman1802LipBalm" border="0" style="border:none;max-width:100%;" alt="Beekman 1802 - Wondermint Lip Balm Stick" />
+<img src="/images/SerendipitySep2015Beekman1802LipBalm.jpg" border="0" style="border:none;max-width:100%;" alt="Beekman 1802 - Wondermint Lip Balm Stick" />
 </a></center>
 
 <DL>
@@ -95,7 +95,7 @@ date: 2015-10-07 08:10:39 -08:00
 <br>
 
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015MindfulMinerals" border="0" style="border:none;max-width:100%;" alt="Mindful Minerals Cleanser & Conditioner" />
+<img src="/images/SerendipitySep2015MindfulMinerals.jpg" border="0" style="border:none;max-width:100%;" alt="Mindful Minerals Cleanser & Conditioner" />
 </a></center>
 
 <DL>
