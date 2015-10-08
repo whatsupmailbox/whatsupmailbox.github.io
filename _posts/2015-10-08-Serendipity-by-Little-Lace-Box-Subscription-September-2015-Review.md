@@ -120,7 +120,7 @@ date: 2015-10-08 08:10:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE PACKAGE</center></H3>
