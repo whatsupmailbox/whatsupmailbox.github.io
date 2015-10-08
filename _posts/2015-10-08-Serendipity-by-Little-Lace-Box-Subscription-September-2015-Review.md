@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -8,10 +8,10 @@ title: Serendipity by Little Lace Box September 2015 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: SerendipityOct2015Packaging.jpg
+imagefeature: SerendipitySep2015Items.jpg
 headline: Serendipity by Little Lace Box September 2015 Review!
 tags: [Serendipity by LLB, Subscriptions, Reviews, September 2015]
-date: 2015-10-07 08:10:39 -08:00
+date: 2015-10-08 08:10:39 -08:00
 ---
 
 <p></p>
