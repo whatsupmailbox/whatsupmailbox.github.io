@@ -74,9 +74,11 @@ date: 2015-10-07 08:10:39 -08:00
 </a></center>
 <DL>
 <DT>Beekman 1802 - Honeyed Grapefruit Facial Cleansing Wipes</DT>
-<DD>Full Size, Value $7</DD>
+<DD>Full Size 30 wipes, Value $7</DD>
 </DL>
-<p>Beekman 1802</p>
+<p>Gently scented with notes of red grapefruit, guava and lemon blossom they smell pretty good. It's also infused with real goat milk, aloe, calendula, chamomile & vitamins to keep them from drying out your skin.</p>
+
+<p>I was actually quite surprised that these only cost $7. 30 wipes for $7 sounds like such a deal for me! They're actually pretty decent in size too, unlike other facial wipes that are pretty small, these are quite large. I love that, it will surely cover a lot of area for cleansing. I also love that it's paraben and sulfate free. </p>
 
 <br>
 
@@ -99,7 +101,7 @@ date: 2015-10-07 08:10:39 -08:00
 
 <DL>
 <DT>Mindful Minerals - Get Even Dead Sea Exfoliating Cleanser</DT>
-<DD>Travel Size, Value $4</DD>
+<DD>Travel Size 1.75 oz., Value $2.49</DD>
 </DL>
 <p>This cleanser is formulated to stimulate cell turnover, decongest pores and helps even out your skintone. It's also naturally anti-microbial and anti-bacterial which may be beneficial to people who suffers from acne.</p>
 
@@ -107,7 +109,7 @@ date: 2015-10-07 08:10:39 -08:00
 
 <DL>
 <DT>Mindful Minerals - Mind Your Hair Conditioner</DT>
-<DD>Travel Size, Value $4</DD>
+<DD>Travel Size 1.75 oz., Value $2.49</DD>
 </DL>
 
 <p>This conditioner is formulated with Dead Sea Minerals, Aloe Vera and essential oils designed to balance the scalp PH and add moisture and minerals to your hair. It's free of harmful chemicals, sulfates, parabens, phthalate and artificial fragrance. That's music to my ears, can't wait to try this out!</p>
