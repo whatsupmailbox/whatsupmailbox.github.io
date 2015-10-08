@@ -19,7 +19,6 @@ date: 2015-10-07 08:10:39 -08:00
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b">Serendipity by Little Lace Box</a></p>
 <p><b>Cost:</b> $9.99 bi-monthly (on the off months of the Little Lace Box) with Free Shipping</p>
 <p><b>Products:</b> You'll receive 5-7 sample size (sometimes full-size) items that Little Lace Box deemed great finds and wanted to share. Since it's still new, I can't really say what you probably would expect from this subscription, so I'll leave it at that for now.</p>
-<p><b>Coupon:</b> Serendipity is currently FREE for current <a href="http://littlelacebox.com?rfsn=93842.4b16b">Litte Lace Box</a> subscribers, but if you haven't subscribed to <a href="http://littlelacebox.com?rfsn=93842.4b16b">Litte Lace Box</a>, use coupon code <a href="http://littlelacebox.com?rfsn=93842.4b16b">REDLACE</a> for $10 off your subscription!</p>
 <br>
 
 <center><img src='/images/SerendipityJune2015Packaging.jpg'></center>
