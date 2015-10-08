@@ -14,9 +14,7 @@ tags: [Serendipity by LLB, Subscriptions, Reviews, September 2015]
 date: 2015-10-07 08:10:39 -08:00
 ---
 
-<center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
-<img src="/images/SerendipitySep2015Package2.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity by Little Lace Box" />
-</a></center>
+<p></p>
 
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b">Serendipity by Little Lace Box</a></p>
 <p><b>Cost:</b> $9.99 bi-monthly (on the off months of the Little Lace Box) with Free Shipping</p>
@@ -54,6 +52,7 @@ date: 2015-10-07 08:10:39 -08:00
 <center><a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">
 <img src="/images/SerendipitySep2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Serendipity October 2015 Items" />
 </a></center>
+
 <br>
 
 <H4>Items in detail:</H4>
