@@ -3,7 +3,9 @@ layout: post
 title: "Beauty DNA October 2015 Review!"
 description: ""
 headline: "Beauty DNA October 2015 Review!"
-category: Subscriptions
+categories: 
+      - Subscriptions
+      - Reviews
 tags: [BeautyDNA, Subscriptions, Reviews, October 2015]
 comments: true
 mathjax: null
