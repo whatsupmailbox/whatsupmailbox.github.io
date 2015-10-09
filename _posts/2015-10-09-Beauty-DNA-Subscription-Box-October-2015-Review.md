@@ -45,7 +45,7 @@ date: 2015-10-09 09:30:39 -08:00
 <DD>Full Size 1 ml, Value $94</DD>
 </DL>
 
-<p>I actually need a moisturizer that's deepy hydrating for the winter months, so I was happy to find this in the box. It was matched based on my preference of ingredients, which is free of paraben and fragrance, as well as my skin concerns which are anti-aging and dry skin.</p>
+<p>I actually need a moisturizer that's deeply hydrating for the winter months, so I was happy to find this in the box. It was matched based on my preference of ingredients, which is free of paraben and fragrance, as well as my skin concerns which are anti-aging and dry skin.</p>
 
 <br>
 
