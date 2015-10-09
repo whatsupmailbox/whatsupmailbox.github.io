@@ -7,7 +7,7 @@ category: Subscriptions
 tags: [BeautyDNA, Subscriptions, Reviews, October 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNAOct2015Items.jpg"
