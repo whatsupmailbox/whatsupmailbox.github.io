@@ -17,7 +17,7 @@ date: 2015-10-06 10:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSENeimanMarcus2015News.jpg" border="0" style="border:none;max-width:100%;" alt="Neiman Marcus Popsugar Must Have Special Edition 2015 News!" />
 </a></center>
-<p><b>The Box:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Special Edition Must Have Fall 2015</a></p>
+<p><b>The Box:</b> <a href="http://popsu.gr/vXrB" target="_blank">Neiman Marcus Popsugar Must Have Special Edition 2015</a></p>
 <p><b>The Cost:</b> The price hasn't been released yet, but Special Edition boxes are typically a $100 one time purchase + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations.</p>
 <br>
