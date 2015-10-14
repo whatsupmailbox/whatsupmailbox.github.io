@@ -17,7 +17,7 @@ imagefeature: "WickboxOct2015Items.jpg"
 date: 2015-10-14 13:45:39 -08:00
 ---
 
-<H2>Disclosure: This box was received in exchange for an honest review. All opinions and thoughts are of my own.</H2>
+<i><font size="2">Disclosure: This box was received in exchange for an honest review. All opinions and thoughts are of my own.</font></i>
 <br>
 
 <center><a href="http://www.wickbox.co" target="_blank">
@@ -73,6 +73,59 @@ date: 2015-10-14 13:45:39 -08:00
 <br>
 
 <center><a href="http://www.wickbox.co" target="_blank">
-<img src="/images/WickboxOct2015CandleBox.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Peony" />
+<img src="/images/WickboxOct2015CandleBox.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
 </a></center>
+
+<DL>
+<DT><a href="http://www.redflower.com/japanese-peony-petal-topped-candle.html" target="_blank">Red Flower Candle in Japanese Peony</a></DT>
+<DD>6 oz., Value $38</DD>
+</DL>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Candle1.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
+</a></center>
+
+<p>The candle was sealed on top with plastic so the scent can remain fresh until it's in your hands and you're ready to use it.</p>
+
+<p>The wax is a vegetable-based candle wax and it has a 50 hours burning time. The other ingredients are: clove oil, damask rose oil, food grade dye, lemon oil, lily of the valley oil, and peony oil.</p>
+
+<br>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Candle2.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
+</a></center>
+<p>This candle is quite unique in which its topped with real scented petals, which can be emptied into a small dish to subtly scent a room or put in a hot bath. See more close-up pictures below.</p>
+
+<br>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Candle3.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
+</a></center>
+<br>
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Candle4.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
+</a></center>
+<br>
+
+<p>I've set some aside and used it to scent my office for now and it smells great! I've never had candles like these before so I'm super happy and can't wait to use it in my next bath too!</p>
+
+<p>One thing to note though, and this is outside of the quality or actual review of the product, is that Peony can be toxic to dogs or cats. I learned this the hard way as I burned some Peony candles before in my bedroom where my little Yorkie sleeps with me and he had a really bad cough and runny nose the next day. Peony if ingested can cause more serious danger, but just a side note for those of you with four-legged babies.</p>
+
+<br>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Candle5.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
+</a></center>
+
+<p>Some important instructions and cautions on burning this candle to take note of.</p>
+
+<br>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox Info Card" />
+</a></center>
+<figcaption>Info Card</figcaption>
+<br>
+
+<p>They included an Info Card that gives a brief summary of the candle you received. The first one on top is for the Large Box (although I wish I got that gold one, so gorgeous!), and the bottom one is for the Medium Box.</p>
 
