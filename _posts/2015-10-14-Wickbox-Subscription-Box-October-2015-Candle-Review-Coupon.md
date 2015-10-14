@@ -125,6 +125,14 @@ date: 2015-10-14 13:45:39 -08:00
 
 <br>
 
+<p>The candle itself is not as big as I expected, so to give you a comparison, I've lined it up with my other 2 candles that's in my office.</p>
+
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015CandleComparison.jpg" border="0" style="border:none;max-width:100%;" alt="Candle comparison" />
+</a></center>
+
+<br>
+
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox Info Card" />
 </a></center>
@@ -134,4 +142,4 @@ date: 2015-10-14 13:45:39 -08:00
 <p>They included an Info Card that gives a brief summary of the candle you received. The first one on top is for the Large Box (although I wish I got that gold one, so gorgeous!), and the bottom one is for the Medium Box.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm pleased with the candle I received and it was quite unique with the real scented flower petals inside of it to use for other purposes, but it is a bit smaller than what I expected or what I'm used to burning. This subscription is absolutely something that's needed though as there are not much luxury candle boxes out there for us to subscribe to, so it's a great addition. This candle is valued at $38 and the subscription cost for the Medium Box is $29.95 + $5 shipping, so it pretty much almost broke even. The Large Box received an $85 value candle and the price for the subscription is $39.95 + $5 shipping. With that fact, I would probably subscribe to the Large Box as it'll give you more value (and burning time) plus perhaps a more luxurious candle jar.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm pleased with the candle I received and it was quite unique with the real scented flower petals inside of it to use for other purposes. This subscription is absolutely something that I've been waiting for and needed in the subscription world as there are not much luxury candle boxes out there for us to subscribe to, so it's a great addition. This candle is valued at $38 and the subscription cost for the Medium Box is $29.95 + $5 shipping, so it pretty much almost broke even. The Large Box had an $85 value candle (I read another bloggers review that received that box) and the price for the subscription is $39.95 + $5 shipping. With that fact, I would probably subscribe to the Large Box as it'll give you more value (almost double!) and burning time, plus perhaps a more luxurious candle jar.</p>
