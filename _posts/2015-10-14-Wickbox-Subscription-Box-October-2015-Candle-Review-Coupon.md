@@ -76,6 +76,13 @@ date: 2015-10-14 13:45:39 -08:00
 <p>Finally, the item has appeared! I love that Wickbox includes dust bags with their candles, such a luxurious and personal touch! I will surely use this when I travel with my candles.</p>
 <br>
 
+<H4>And here is the candle I received in full glory:</H4>
+<center><a href="http://www.wickbox.co" target="_blank">
+<img src="/images/WickboxOct2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox October 2015 Items" />
+</a></center>
+<br>
+
+<H4>Candle in detail:</H4>
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015CandleBox.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
 </a></center>
