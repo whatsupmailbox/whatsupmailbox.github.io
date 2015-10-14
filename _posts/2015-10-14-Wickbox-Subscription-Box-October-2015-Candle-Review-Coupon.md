@@ -40,7 +40,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <br>
 
-<p>And when you do decide to subscribe to either one, you complete a scent profile that quite short so that they are aware of your preferences.</p>
+<p>And when you do decide to subscribe to either one, you complete a short scent profile so that they are aware of your preferences.</p>
 
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxScentProfile.png" border="0" style="border:none;max-width:100%;" alt="Wickbox Scent Profile" />
