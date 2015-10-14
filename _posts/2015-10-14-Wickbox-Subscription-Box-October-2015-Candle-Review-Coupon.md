@@ -56,6 +56,10 @@ date: 2015-10-14 13:45:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 <br>
 
+<p>They included a thank you note on top, but I'm not sure if every subscriber received this.</p>
+
+<br>
+
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
 </a></center>
@@ -78,7 +82,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <DL>
 <DT><a href="http://www.redflower.com/japanese-peony-petal-topped-candle.html" target="_blank">Red Flower Candle in Japanese Peony</a></DT>
-<DD>6 oz., 50-hour burn time, Value $38</DD>
+<DD>6 oz., 50-hours burn time, Value $38</DD>
 </DL>
 
 <center><a href="http://www.wickbox.co" target="_blank">
