@@ -91,7 +91,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <p>The candle was sealed on top with plastic so the scent can remain fresh until it's in your hands and you're ready to use it.</p>
 
-<p>The wax is a vegetable-based candle wax and it has a 50 hours burning time. The other ingredients are: clove oil, damask rose oil, food grade dye, lemon oil, lily of the valley oil, and peony oil.</p>
+<p>The wax is a vegetable-based candle wax and it has 50 hours of burning time. The other ingredients are: clove oil, damask rose oil, food grade dye, lemon oil, lily of the valley oil, and peony oil.</p>
 
 <br>
 
