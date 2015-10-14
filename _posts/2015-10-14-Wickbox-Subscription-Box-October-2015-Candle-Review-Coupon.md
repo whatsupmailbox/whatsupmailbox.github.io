@@ -121,7 +121,7 @@ date: 2015-10-14 13:45:39 -08:00
 <img src="/images/WickboxOct2015Candle5.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
 </a></center>
 
-<p>Some important instructions and cautions on burning this candle to take note of.</p>
+<p>Some important instructions and cautions on burning this candle to take note of. I always trim the wick before lighting up any candle, so if you haven't done so, try doing that from now on and your candles will last longer.</p>
 
 <br>
 
