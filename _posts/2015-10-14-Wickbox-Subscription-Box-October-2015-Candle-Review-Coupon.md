@@ -70,7 +70,7 @@ date: 2015-10-14 13:45:39 -08:00
 <br>
 
 <center><a href="http://www.wickbox.co" target="_blank">
-<img src="/images/WickboxOct2015Bag.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox Candle in Dust Bag" />
+<img src="/images/WickboxOct2015CandleBag.jpg" border="0" style="border:none;max-width:100%;" alt="Wickbox Candle in Dust Bag" />
 </a></center>
 
 <p>Finally, the item has appeared! I love that Wickbox includes dust bags with their candles, such a luxurious and personal touch!</p>
