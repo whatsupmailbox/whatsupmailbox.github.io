@@ -48,7 +48,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <br>
 
-<p>This review is for the <b>MEDIUM BOX</b> that includes a candle with a burn time of 30 - 60 hours.</p>
+<p>This is their first launch box and the review is for the <b>MEDIUM BOX</b> that includes a candle with a burn time of 30 - 60 hours.</p>
 
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
