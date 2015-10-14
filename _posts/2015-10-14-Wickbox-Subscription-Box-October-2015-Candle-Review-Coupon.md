@@ -48,7 +48,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <br>
 
-<p>This review is for the <b>MEDIUM BOX</b> that includes a candle that burns for 50 hours.</p>
+<p>This review is for the <b>MEDIUM BOX</b> that includes a candle with a burn time of 30 - 60 hours.</p>
 
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
@@ -78,7 +78,7 @@ date: 2015-10-14 13:45:39 -08:00
 
 <DL>
 <DT><a href="http://www.redflower.com/japanese-peony-petal-topped-candle.html" target="_blank">Red Flower Candle in Japanese Peony</a></DT>
-<DD>6 oz., Value $38</DD>
+<DD>6 oz., 50-hour burn time, Value $38</DD>
 </DL>
 
 <center><a href="http://www.wickbox.co" target="_blank">
