@@ -82,6 +82,10 @@ date: 2015-10-14 13:45:39 -08:00
 </a></center>
 <br>
 
+<p>How gorgeous is that, so pretty and pink! And if you're wondering what's on top of the candle, read more to find out ;)</p>
+
+<br>
+
 <H4>Candle in detail:</H4>
 <center><a href="http://www.wickbox.co" target="_blank">
 <img src="/images/WickboxOct2015CandleBox.jpg" border="0" style="border:none;max-width:100%;" alt="Red Flower Candle in Japanese Peony" />
