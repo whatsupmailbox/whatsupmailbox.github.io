@@ -198,7 +198,7 @@ date: 2015-10-15 09:19:39 -08:00
    </TR>
    <TR>
       <TD>Lollipops Make Up Paris Nail Lacquer</TD>
-      <TD>$10/TD>
+      <TD>$10</TD>
    </TR>
    <TR>
       <TD>Vichy IDÉALIA Skin Sleep</TD>
