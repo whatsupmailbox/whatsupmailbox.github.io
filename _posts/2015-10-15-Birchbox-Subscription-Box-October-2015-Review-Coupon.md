@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -8,7 +8,7 @@ title: Birchbox October 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxOct2015Box.jpg
+imagefeature: BirchboxOct2015Items.jpg
 headline: Birchbox October 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, October 2015]
 date: 2015-10-15 14:10:39 -08:00
