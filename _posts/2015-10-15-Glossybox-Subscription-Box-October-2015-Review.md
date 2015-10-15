@@ -52,6 +52,7 @@ date: 2015-10-15 08:19:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 
 <br>
+<br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images//GlossyboxOct2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
