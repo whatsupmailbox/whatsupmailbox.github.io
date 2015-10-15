@@ -28,6 +28,8 @@ date: 2015-10-15 08:19:39 -08:00
 
 <p>Glossybox typically ships on the 3rd or 4th week of the month. I got mine early this month, what a surprise!</p>
 
+<br>
+
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images//GlossyboxOct2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
 </a></center>
@@ -63,6 +65,8 @@ date: 2015-10-15 08:19:39 -08:00
             <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
             <figcaption>Info card</figcaption>
 </figure>
+
+<br>
 
 <p>With every box that they send, they also include a fold out info card that details the items and prices.</p>
 
