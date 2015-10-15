@@ -12,12 +12,12 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "GlossyboxOct2015Items.jpg"
+imagefeature: "GlossyboxOct2015Box.jpg"
 date: 2015-10-15 08:19:39 -08:00
 ---
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
+<img src="/images/GlossyboxOct2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
 </a></center>
 <p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
 <p><b>Cost:</b> $21/monthly, $126 for 6 months, and $222/annually (taxes apply to New York, New Jersey and Kentucky).</p>
@@ -31,7 +31,7 @@ date: 2015-10-15 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
+<img src="/images/GlossyboxOct2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
 </a></center>
 
 <p>They package their boxes inside of another box for shipping purposes, and I like that because it ensures that the <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> itself comes without dents, scratches and in perfect condition.</p>
@@ -39,7 +39,7 @@ date: 2015-10-15 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
+<img src="/images/GlossyboxOct2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
 </a></center>
 
 <p>OMG, how amazing is this month's box! I love everything French so this just made my day! I can see a few of their famous landmarks - Arc de Triomphe, Eiffel Tower, Louvre and of course the famous cafe, Les Doux Magots. Best box design they've sent so far, aaaahhhh can't get enough of how cute this box is!!!</p>
@@ -47,7 +47,7 @@ date: 2015-10-15 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
+<img src="/images/GlossyboxOct2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
@@ -55,7 +55,7 @@ date: 2015-10-15 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
+<img src="/images/GlossyboxOct2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
 
@@ -77,7 +77,7 @@ date: 2015-10-15 08:19:39 -08:00
 <H4>And here are my items:</H4>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox October 2015 Items" />
+<img src="/images/GlossyboxOct2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox October 2015 Items" />
 </a></center>
 
 <p>I'm in love with everything in this box, such a good mix of beauty and skincare!</p>
