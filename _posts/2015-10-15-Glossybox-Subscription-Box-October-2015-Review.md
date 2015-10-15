@@ -137,7 +137,7 @@ date: 2015-10-15 09:19:39 -08:00
 <DD>Full Size 0.17 oz., Value $17.50</DD>
 </DL>
 
-<p>Red lips are très chic, this is a fact. Personally it reminds me of Paris and Moulin Rouge and since I'll be going to Europe at the end of this month, I will totally be using this while I'm there.</p>
+<p>Red lips are très chic, this is a fact. Personally it reminds me of Paris and Moulin Rouge and since I'll be going to Europe at the end of this month, I will totally be using this while I'm there. It will brighten up any winter day =)</p>
 
 <p>The color is bright red and it has a slight scent of Cherry. Application is smooth and glossy as you would expect. What a great French lip gloss to include, definitely a keeper and so happy to have this.</p>
 
