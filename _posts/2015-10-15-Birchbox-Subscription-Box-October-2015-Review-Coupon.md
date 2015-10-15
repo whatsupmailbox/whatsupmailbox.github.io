@@ -31,7 +31,7 @@ date: 2015-10-15 14:10:39 -08:00
 <img src="/images/BirchboxOct2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox September 2015 Box" />
 </a></center>
 
-<p>This box was designed to celebrate Birchbox customers as they celebrate their 5-year anniversary. The message is uplifting and the design is quite artistic. I'll be displaying this box on top of my vanity to remind me everyday that no matter what "you're beautiful" ;)</p>
+<p>This month's box was designed to raise Breast Cancer awareness, hence the pink color. They've partnered with Estée Lauder's Breast Cancer Awareness Campaign and the Breast Cancer Research Foundation to fund one year of breast cancer lab research hours. I think it's great that Birchbox is being active and contributing towards this cause!</p>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -46,25 +46,25 @@ date: 2015-10-15 14:10:39 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>Each monthly box includes an info card that details the theme and items you received:</p>
+<p>Each monthly box includes an info card that details the theme and items you received, but this time it's different, they instruct you to learn about your samples through your account:</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Front Info Card" /></a></center>
-<figcaption>Front of the card</figcaption>
+<img src="/images/BirchboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
+<figcaption>Info Card</figcaption>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Back Info Card" /></a></center>
-<figcaption>Back of the card</figcaption>
+<img src="/images/BirchboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Positive Message" /></a></center>
+<figcaption>A positive message on the info card</figcaption>
 <br>
 
 <H4>And here are my items:</H4>
 
 <p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxOct2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox September 2015 Items!" /></a></center></p>
+<img src="/images/BirchboxOct2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox October 2015 Items!" /></a></center></p>
 <br>
 
-<p>I received 6 items this month (one of them is a bonus sample packet) and off the bat I noticed the big sized lip product!</p>
+<p>I received 6 items this month (one of them is a bonus sample packet). I love it when they include bonus packets in the box, it translates to extra Birchbox points for me!</p>
 <br>
 
 <H4>Items in detail:</H4>
@@ -78,77 +78,75 @@ date: 2015-10-15 14:10:39 -08:00
 <DD>Full Size 0.12oz., Value $22</DD>
 </DL>
 
-<p>I can't believe I got a full-sized lip product, hurray!!! I've heard of Mally before but never tried any of their products, so I'm super delighted that I'll get to now. And did I mention this is a full-sized product!</p>
+<p>I chose this mascara as my sample choice due to the rave reviews I've read about it. It gives lashes major curl and it has an innovative Hook ‘n’ Roll™ brush that's coated in tiny, soft hooks, which catch onto and lift, curl, and separate each lash instantly. The brush works with any eye shape or size and varying lash types, but it works especially well with short or straight lashes, that's me!</p>
 
-<p>This lipstick is a 4-in-1 product that includes lip primer, lipstick, lip gloss, and lip liner all in one! The texture is creamy and it does give you shine like a lip gloss. I love the color, it's very natural on my lips and the shine is perfect too. What a great item!</p>
+<p>I always, always curl my lashes before applying mascara because I have straight Asian lashes. But since this mascara promised to create major curl by itself, I decided to try it without curling it first and wow, it did curl my lashes! I've never seen or used anything like this, amazing! I am totally going to buy a full size version of this, again, ah-mazing!</p>
 
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Body.jpg" border="0" style="border:none;max-width:100%;" alt="Whish - Three Whishes Body Butter in Lavender" />
+<img src="/images/BirchboxOct2015SupergoopHandCreamDearClarkThickeningBalm.jpg" border="0" style="border:none;max-width:100%;" alt="Supergoop Hand Cream and Dear Clark Thickening Balm" />
 </a></center>
 
 <DL>
-<DT><a href="https://www.whishbody.com/products-body-butter.php" target="_blank">Whish - Three Whishes Body Butter in Lavender</a></DT>
-<DD>Travel Size 22ml/0.75fl.oz., Value $3.50 (Full Size 150ml $24)</DD>
+<DT>Supergoop! Forever Young Hand Cream with Broad Spectrum Sunscreen SPF 40</DT>
+<DD>Sample Size 0.14fl.oz., Value $.50 (Full Size 10oz. $34)</DD>
 </DL>
 
-<p>This body lotion has a triple antioxidant based formula - Organic Aloe, Organic Raspberry Butter, and Organic Shea Butter - that will soften and soothe the skin while also helping to replenish and firm. The scent is not too strong of a lavender, subtle but still smells great. It goes on creamy, not oily and absorbs pretty quickly. It also comes sealed which is a bonus in my germaphobic book.<br>
+<p>A hand cream that not only moisturizes your hands, but it also prevents sunspots from appearing there as well. The sample is a bit too tiny for me to see if it works though, especially since I have to use it on my hands, so I'm not sure if I'll be able to see results enough for me to want to buy.</p>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Shampoo.jpg" border="0" style="border:none;max-width:100%;" alt="Davines - LOVE Smoothing Shampoo" />
-</a></center>
+<br>
 
 <DL>
-<DT><a href="http://us.davines.com/award-winning-love-smoothing-shampoo/d/1162C702" target="_blank">Davines - LOVE Smoothing Hair Shampoo</a></DT>
-<DD>Travel Size 75ml/2.5fl.oz., Value $3.50 (Full Size $25)</DD>
+<DT>Dear Clark Thickening Balm</DT>
+<DD>Travel Size 1oz., Value $6.50 (Full Size 4oz. $26)</DD>
 </DL>
 
-<p>I've received Davines shampoos before in different varieties and I love them but I've never tried the LOVE line. So naturally when I saw this as a sample choice last month, I knew I had to choose it, especially since my hair has taken a beating from my summer outdoor activities.</p>
+<p>I have fine hair so I definitely benefit from using this. Not only will it make your hair fuller and thicker, it also adds shine and protects hair from heat. That's a great all-in-one!</p>
 
-<p>This shampoo is enriched with olive oil and rice protein and the formula targets to smooth out frizzy and tangle-prone hair. The scent is refreshing almost spa-ish, and I've only used it once but I did notice a decrease in frizz and increase in moisturization right after the shower. This shampoo is made in Italy and is both paraben and sulfate free.</p>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Eye.jpg" border="0" style="border:none;max-width:100%;" alt="100% Pure - Organic Coffee Bean Caffeine Eye Cream" />
+<img src="/images/BirchboxOct2015CalypsoStBarthFiguePerfume .jpg" border="0" style="border:none;max-width:100%;" alt="Calypso St. Barth Figue Eau de Parfum" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.100percentpure.com/products/organic-coffee-bean-caffeine-eye-cream-1oz#product-info-detail" target="_blank">100% Pure - Organic Coffee Bean Caffeine Eye Cream</a></DT>
-<DD>Deluxe Sample Size 0.3 fl.oz., Value $7.50 (Full Size 1oz. $25)</DD>
+<DT>Calypso St. Barth Figue Eau de Parfum</DT>
+<DD>Sample Vial 0.05fl.oz./1.5ml., Value $1.9 (Full Size 60ml, $75)</DD>
 </DL>
 
-<p>First off, what I love about this particular eye cream is that, just like its name suggests, it's 100% natural and 100% vegan. The caffeine rich green tea and coffee ingredient gives anti-inflammatory benefits that improves the appearance of puffy under-eyes and brightens dark circles. So I used it this morning to brighten up my eyes and I gotta say, it feels refreshing and good on my "I need more sleep" eyes. The scent is also quite sweet, like a vanilla latte in a tube! It's probably because it HAS vanilla and coffee in its ingredients, makes sense. Although this is a deluxe sample size, you won't need much on the eyes so this will surely last me awhile.</p>
+<br>
+
+<p>Although I've been more open to fragrances lately and actually like receiving fragrance samples now, sadly this one was not for me. It'll be a great stocking stuffer though, so it's not a complete lost.</p>
+
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Perfume.jpg" border="0" style="border:none;max-width:100%;" alt="By Rosie Jane - James Perfume" />
+<img src="/images/BirchboxOct2015MalinGoetzCleanserMoisturizer.jpg" border="0" style="border:none;max-width:100%;" alt="Malin + Goetz Grapefruit Face Cleanser" />
 </a></center>
 
 <DL>
-<DT><a href="http://byrosiejane.com/shop/james-roll-on-perfume/" target="_blank">By Rosie Jane - James Perfume</a></DT>
-<DD>Sample Vial 1ml?, Value $7.80</DD>
+<DT>Malin + Goetz Grapefruit Face Cleanser</DT>
+<DD>Travel Size 15ml/0.5fl.oz., Value $2 (Full Size 236ml, $32)</DD>
 </DL>
 
-<p>I'm estimating the size as there was none stated. I'm not too keen on receiving fragrances in my boxes, especially when they're not in a spray bottle. But the scent is actually pretty good. Very floral and gardenia strong. It kind of reminds me of one of the Michael Kors perfumes, which I also like. I'm glad I got to try this out!<br>
+<p>This cleanser feels and smells refreshing, I love the scent of grapefruit! This cleanser is great for my combination/oily skin because it eliminates oil, clears acne and balances skin's pH. I think I found another great cleanser to add to my skincare.</p>
 
+<br>
+ 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxSep2015Conditioner.jpg" border="0" style="border:none;max-width:100%;" alt="Davines - LOVE Smoothing Hair Conditioner" />
-</a></center>
-
 <DL>
-<DT><a href="http://us.davines.com/award-winning-love-smoothing-conditioner/d/1163C705" target="_blank">Davines - LOVE Smoothing Hair Conditioner</a></DT>
-<DD>Sample Packet 12ml, Value $1.30 (Full Size 250ml $29)</DD>
+<DT>Malin + Goetz Vitamin E Face Moisturizer</DT>
+<DD>Sample Packet 3ml, Value $1.17 (Full Size 118ml, $46)</DD>
 </DL>
 
 <p>I always love getting bonus items. It means extra product AND extra points for me to review which translates to more money to spend in the Birchbox shop ;)</p>
-<p>This conditioner was included to pair with the shampoo that I received. Using them both together definitely helped with my frizz situation and brushing out my hair after the shower was much easier. My hair felt moisturized afterwards so no complaints here.</p>
+<p>This moisturizer was included to pair with the cleanser. And just as well, it's also good for combination/oily skin since its ingredients is oil-free, lightweight, and provides pH balance for all skin types.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another month where Birchbox does not disappoint! I'll be using everything in this box and I always love it when they include an extra packet of sample, it adds to my bonus points which means more shopping =)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another month where Birchbox does not disappoint! Besides the perfume sample, I'll be using everything in this box and I always love it when they include an extra packet of sample, it adds to my bonus points which means more shopping =) I think I may need to update my beauty profile since there was only 1 makeup item in my box this time and that one item was the one I chose for my sample choice. I would like to see a more balanced selection, so hopefully next month there'll be a better mix.</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website to subscribe</big></a>. Plus for a limited time (until Oct 9th), use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"><b>5BOX</b></a> to get $5 off your first box, that's 50% off! That's a great deal especially when you review your products, you get $5 to spend in the Birchbox shop so that makes this deal essentially FREE! <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Get one now</a> before this code expires!</p>
 <br>
