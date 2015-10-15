@@ -102,7 +102,7 @@ date: 2015-10-15 14:10:39 -08:00
 <DD>Travel Size 1oz., Value $6.50 (Full Size 4oz. $26)</DD>
 </DL>
 
-<p>I have fine hair so I definitely benefit from using this. Not only will it make your hair fuller and thicker, it also adds shine and protects hair from heat. That's a great all-in-one!</p>
+<p>I have fine hair so I'll definitely benefit from using this. Not only will it make your hair fuller and thicker, it also adds shine and protects hair from heat. That's a great all-in-one!</p>
 
 <br>
 
