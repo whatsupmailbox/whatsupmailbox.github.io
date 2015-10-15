@@ -74,8 +74,8 @@ date: 2015-10-15 14:10:39 -08:00
 </a></center>
 
 <DL>
-<DT><a href="http://www.mallybeauty.com/high-shine-liquid-lipstick-pens" target="_blank">Mally - High Shine Liquid Lipstick Pen in Cherry Blossom</a></DT>
-<DD>Full Size 0.12oz., Value $22</DD>
+<DT>Benefit Roller Lash Mascara</DT>
+<DD>Deluxe Sample Size 3g./0.1oz., Value $8.50 (Full Size 8.5g., $24)</DD>
 </DL>
 
 <p>I chose this mascara as my sample choice due to the rave reviews I've read about it. It gives lashes major curl and it has an innovative Hook ‘n’ Roll™ brush that's coated in tiny, soft hooks, which catch onto and lift, curl, and separate each lash instantly. The brush works with any eye shape or size and varying lash types, but it works especially well with short or straight lashes, that's me!</p>
@@ -115,8 +115,6 @@ date: 2015-10-15 14:10:39 -08:00
 <DD>Sample Vial 0.05fl.oz./1.5ml., Value $1.9 (Full Size 60ml, $75)</DD>
 </DL>
 
-<br>
-
 <p>Although I've been more open to fragrances lately and actually like receiving fragrance samples now, sadly this one was not for me. It'll be a great stocking stuffer though, so it's not a complete lost.</p>
 
 <br>
@@ -146,9 +144,9 @@ date: 2015-10-15 14:10:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another month where Birchbox does not disappoint! Besides the perfume sample, I'll be using everything in this box and I always love it when they include an extra packet of sample, it adds to my bonus points which means more shopping =) I think I may need to update my beauty profile since there was only 1 makeup item in my box this time and that one item was the one I chose for my sample choice. I would like to see a more balanced selection, so hopefully next month there'll be a better mix.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month wasn't great, but it wasn't bad either. The value is on the low side, but still double the cost so it's still worth it to me. Besides the perfume sample, I'll be using everything in this box, but my favorite has got to be hands down the Benefit Roller Lash Mascara. What an amazing find and it was such a great product, I purchased the full size right after I tested it, that's how good it was! I may need to update my beauty profile though, since there was only 1 makeup item in my box this time which is the mascara. I would like to see a more balanced selection, so hopefully next month there'll be a better mix.</p>
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website to subscribe</big></a>. Plus for a limited time (until Oct 9th), use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank"><b>5BOX</b></a> to get $5 off your first box, that's 50% off! That's a great deal especially when you review your products, you get $5 to spend in the Birchbox shop so that makes this deal essentially FREE! <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Get one now</a> before this code expires!</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes, it's totally worth it!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
@@ -160,32 +158,32 @@ date: 2015-10-15 14:10:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Mally High-Shine Liquid Lipstick</TD>
-      <TD>$22</TD>
+      <TD>Benefit Roller Lash Mascara</TD>
+      <TD>$8.50</TD>
    </TR>
    <TR>
-      <TD>Whish Three Whishes Body Butter</TD>
-      <TD>$3.50</TD>
+      <TD>Supergoop! Forever Young Hand Cream</TD>
+      <TD>$.50</TD>
    </TR>
     <TR>
-      <TD>Davines LOVE Shampoo</TD>
-      <TD>$3.50</TD>
+      <TD>Dear Clark Thickening Balm</TD>
+      <TD>$6.50</TD>
    </TR>
     <TR>
-      <TD>100% Pure Eye Cream</TD>
-      <TD>$7.50</TD>
+      <TD>Calypso St. Barth Figue Eau de Parfum</TD>
+      <TD>$1.90</TD>
    </TR>
     <TR>
-      <TD>By Rosie Jane - James Perfume</TD>
-      <TD>$7.80</TD>
+      <TD>Malin + Goetz Grapefruit Face Cleanser</TD>
+      <TD>$2</TD>
    </TR>
    <TR>
-      <TD>Davines LOVE Conditioner</TD>
-      <TD>$1.30</TD>
+      <TD>Malin + Goetz Vitamin E Face Moisturizer</TD>
+      <TD>$1.17</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$45.60</big></b></TD>
+      <TD><b><big>$20.57</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
