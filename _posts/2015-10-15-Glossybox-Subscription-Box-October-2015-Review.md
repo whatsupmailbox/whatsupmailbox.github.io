@@ -129,7 +129,7 @@ date: 2015-10-15 09:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxOct2015DeBruyereParisRedLipgloss" border="0" style="border:none;max-width:100%;" alt="De Bruyère Paris Lip Gloss in Red" />
+<img src="/images/GlossyboxOct2015DeBruyereParisRedLipgloss.jpg" border="0" style="border:none;max-width:100%;" alt="De Bruyère Paris Lip Gloss in Red" />
 </a></center>
 
 <DL>
