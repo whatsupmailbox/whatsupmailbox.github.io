@@ -188,7 +188,7 @@ date: 2015-10-15 08:19:39 -08:00
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>visit their website or subscribe here</big></a> to start receiving their pretty pink boxes filled with beauties every month!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:70%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
