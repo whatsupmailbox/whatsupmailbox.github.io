@@ -32,7 +32,7 @@ date: 2015-10-15 09:19:39 -08:00
 <img src="/images//GlossyboxOct2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
 </a></center>
 
-<p>They package their boxes inside of another box for shipping purposes, makes the products extra protected and feels more luxurious to open =)</p>
+<p>They package their boxes inside of another box for shipping purposes, and I like that because it ensures that the Glossybox itself comes without dents, scratches and in perfect condition.</p>
 
 <br>
 
@@ -40,7 +40,7 @@ date: 2015-10-15 09:19:39 -08:00
 <img src="/images//GlossyboxOct2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
 </a></center>
 
-<p>OMG, how amazing is this month's box! I love everything French so this just made my day! I can see all their famous landmarks - Arc Du Triomph, Eiffel Tower, Grand Palais, and Louvre. Best box design they've sent so far, aaaahhhh can't get enough of how cute this box is!!!</p>
+<p>OMG, how amazing is this month's box! I love everything French so this just made my day! I can see a few of their famous landmarks - Arc de Triomphe, Eiffel Tower, Louvre and of course the famous cafe, Les Doux Magots. Best box design they've sent so far, aaaahhhh can't get enough of how cute this box is!!!</p>
 
 <br>
 
