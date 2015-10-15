@@ -93,7 +93,7 @@ date: 2015-10-15 14:10:39 -08:00
 <DD>Sample Size 0.14fl.oz., Value $.50 (Full Size 10oz. $34)</DD>
 </DL>
 
-<p>A hand cream that not only moisturizes your hands, but it also prevents sunspots from appearing there as well. The sample is a bit too tiny for me to see if it works though, especially since I have to use it on my hands, so I'm not sure if I'll be able to see results enough for me to want to buy.</p>
+<p>A hand cream that not only moisturizes your hands, but it also prevents sunspots from appearing there as well. The sample is a bit too tiny for me to see if it works though, especially since I have to use it on my hands, so I'm not sure if I'll be able to decide whether or not I love it or if it's just meh.</p>
 
 <br>
 
