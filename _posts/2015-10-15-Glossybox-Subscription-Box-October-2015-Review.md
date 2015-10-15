@@ -98,17 +98,23 @@ date: 2015-10-15 08:19:39 -08:00
 
 <p>Lately I've been more open and adventurous with new fragrances thanks to all my subscription boxes, so I was actually happy to add this French perfume into my collection. Especially since this perfume is in a solid stick form which makes it oh-so travel friendly.</p>
 
+<br>
+
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxOct2015SabeMassonPerfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <p>This box comes sealed with a cute sticker that says, "Come in".</p>
 
+<br>
+
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxOct2015SabeMassonPerfume3.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <p>It has a plastic seal on top of it to keep the perfume safe and fresh until it gets to your hands.</p>
+
+<br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxOct2015SabeMassonPerfume4.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
