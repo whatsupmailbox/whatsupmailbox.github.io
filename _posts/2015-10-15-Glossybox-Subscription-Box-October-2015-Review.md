@@ -20,7 +20,7 @@ date: 2015-10-15 09:19:39 -08:00
 <img src="/images//GlossyboxOct2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
 </a></center>
 <p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
-<p><b>Cost:</b> $21/monthly, 6-month package $126, and 12 month package $222 (taxes apply to New York, New Jersey and Kentucky).</p>
+<p><b>Cost:</b> $21/monthly, $126 for 6 months, and $222/annually (taxes apply to New York, New Jersey and Kentucky).</p>
 <p><b>Shipping:</b> Free shipping to the US. $5 for Canadian residents.</p>
 <p><b>What's in the box:</b> Receive a selection of five beauty products that include trendy, high-end and emerging brands in both deluxe travel sizes and full size, housed in a pretty pink reusable keepsake box.</p>
 <p>How to cancel: Simply log in to your online GLOSSYBOX account to unsubscribe. Must be cancelled by the 14th of the prior month (e.g. you must cancel by February 14th if you want to cancel your March box).</p>
