@@ -88,7 +88,7 @@ date: 2015-10-15 09:19:39 -08:00
 <DD>Deluxe Sample Size 0.1oz, Value $8 (Full Size 0.3oz., $24)</DD>
 </DL>
 
-<p>I've used this mascara before and had great results so I'm happy to have another one. They're good for a more natural lengthening look that I typically go for everyday. I'd still use an eyelash curler if you have straight lashes like I do.</p>
+<p>At first I wasn't sure what this way, but am glad that it's a French perfume and in a solid stick form too. I don't think I've ever used one like this, how cool</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxOct2015SabeMassonPerfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
@@ -100,13 +100,13 @@ date: 2015-10-15 09:19:39 -08:00
 <img src="/images/GlossyboxOct2015SabeMassonPerfume3.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
 </a></center>
 
-<p>The perfume comes in a solid perfume stick form and has a plastic seal on top of it as shown above.</p>
+<p>It has a plastic seal on top of it to keep the perfume safe and fresh until it gets to your hands.</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxOct2015SabeMassonPerfume4.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
 </a></center>
 
-<p>Here's a look at the perfume stick closer with it twisted a bit so you can see the actual product.</p>
+<p>Here's a look at the perfume stick closer with it twisted up a bit so you can see the actual product.</p>
 
 <p>I actually love the scent of this perfume surprisingly. It's convenient to travel with since it's not liquid, and the packaging is cute!</p>
 
@@ -149,7 +149,7 @@ date: 2015-10-15 09:19:39 -08:00
 <DD>Full Size .4 fl.oz., Value $10</DD>
 </DL>
 
-<p>Your Parisian look (or red lips) wouldn't be complete without red nails. It's a fashion classic that never goes out of style.</p>
+<p>Your Parisian look (or red lips) wouldn't be complete without red nails. It's a fashion classic that never goes out of style. The color is bright red to match the lipgloss, and application only took one coat and it was all set.</p>
 
 <p>This exact nail polish is actually available from Birchbox UK, but sadly not here. And another interesting fact, it's also from the same parent company as De Bruyère Paris. What a great combo to insert for this French-themed box.</p> 
 
@@ -164,11 +164,11 @@ date: 2015-10-15 09:19:39 -08:00
 <DD>Deluxe Sample Size 15ml., Value $10.50</DD>
 </DL>
 
-<p>Subscribers received different colors for this lip treatment/gloss and I love mine. It's a pink salmon coral color that goes on sheer and looks great on my tanned olive skin. It's moisturizing, not sticky and has only a bit of shimmer.</p>
+<p>I've heard of this brand but never used anything by them. This is a night cream that will restore and repair your skin while you sleep. It's paraben free and safe for sensitive skin. It promises smoother, more luminous, and rested-looking skin. We shall see about that. The size is quite good to try for a month I believe, but I typically only use a smal amount when it comes to night creams since I have combination/oily skin, so perhaps that's why it tends to last longer for me.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best Glossybox EVER!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best Glossybox EVER! I absolutely love everything, from the box to all the products. </p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
 <br>
