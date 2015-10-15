@@ -80,73 +80,95 @@ date: 2015-10-15 09:19:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015.jpg" border="0" style="border:none;max-width:100%;" alt="" />
+<img src="/images/GlossyboxOct2015SabeMassonPerfume.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
 </a></center>
 
 <DL>
-<DT>Benefit Cosmetics - They're Real! Mascara</a></DT>
+<DT>Sabe Masson - Le Soft Perfume</DT>
 <DD>Deluxe Sample Size 0.1oz, Value $8 (Full Size 0.3oz., $24)</DD>
 </DL>
 
 <p>I've used this mascara before and had great results so I'm happy to have another one. They're good for a more natural lengthening look that I typically go for everyday. I'd still use an eyelash curler if you have straight lashes like I do.</p>
 
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxOct2015SabeMassonPerfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+</a></center>
+
+<p>This box comes sealed with a cute sticker that says, "Come in".</p>
+
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxOct2015SabeMassonPerfume3.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+</a></center>
+
+<p>The perfume comes in a solid perfume stick form and has a plastic seal on top of it as shown above.</p>
+
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxOct2015SabeMassonPerfume4.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+</a></center>
+
+<p>Here's a look at the perfume stick closer with it twisted a bit so you can see the actual product.</p>
+
+<p>I actually love the scent of this perfume surprisingly. It's convenient to travel with since it's not liquid, and the packaging is cute!</p>
+
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015.jpg" border="0" style="border:none;max-width:100%;" alt="" />
+<img src="/images/GlossyboxOct2015PhytoPhytokeratineRepairingThermalProtectantSpray.jpg" border="0" style="border:none;max-width:100%;" alt="Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.sparitual.com/catalog/product/view/id/528/s/arroyo/?___store=default" target="_blank">Nails Inc. Nail Polish in Uptown</a></DT>
+<DT>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</DT>
 <DD>Deluxe Sample Size 10ml, Value $10.70 (Full Size 14ml, $15)</DD>
 </DL>
 
-<p>The color Uptown is a dusky pink color that looks great for an everyday natural look. It does go on very creamy though so be careful and avoid applying too much color on the brush prior to applying on nails. This polish also has a plumping agent to level out any imperfections on the nail. I found that 1 coat was all I needed.</p>
+<p>I use and love products by Phyto. Not only are they great and actually work, they smell amazing too and this one doesn't disappoint. I use a straightening iron as well as a curling iron quite frequently, so this is a must in my hair routine. Not only does this protect hair from heat, it also detangles and prevents breakage. Great item and will be buying a full size of this!</p>
 
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015.jpg" border="0" style="border:none;max-width:100%;" alt="" />
+<img src="/images/GlossyboxOct2015DeBruyereParisRedLipgloss" border="0" style="border:none;max-width:100%;" alt="De Bruyère Paris Lip Gloss in Red" />
 </a></center>
 
 <DL>
-<DT><a href="http://www.mannakadarcosmetics.com/shop/eyes/step-1/primers/lash-primer.html" target="_blank">Emite Make Up Artic Coulour Powder Blush in 108</a></DT>
-<DD>Full Size 10g, Value $22</DD>
+<DT>De Bruyère Paris Lip Gloss in Red</DT>
+<DD>Full Size 0.17 oz., Value $17.50</DD>
 </DL>
 
-<p>The color 108 is a dusty rose pink color. This blush contains the mineral Mica which is light-reflecting and reduces the appearance of fine lines and wrinkles. I don't have a lot of wrinkles or fine line on my cheeks, but the color suits me for a rosey natural look on my olive skin tone. And since this is full size, it will surely last for quite awhile.</p>
+<p>Red lips are très chic, this is a fact. Personally it reminds me of Paris and Moulin Rouge and since I'll be going to Europe at the end of this month, I will totally be using this while I'm there.</p>
+
+<p>The color is bright red and it has a slight scent of Cherry. Application is smooth and glossy as you would expect. What a great French lip gloss to include, definitely a keeper and so happy to have this.</p>
 
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015.jpg" border="0" style="border:none;max-width:100%;" alt="" />
+<img src="/images/GlossyboxOct2015LollipopsMakeUpParisNailLacquerVoyageAParis.jpg" border="0" style="border:none;max-width:100%;" alt="Lollipops Make Up Paris Nail Lacquer in Voyage à Paris" />
 </a></center>
 
 <DL>
-<DT>Biossance The Revitalizer</a></DT>
-<DD>Deluxe Sample Size 4ml, Value $4.60 (Full Size 50ml, $58)</DD>
+<DT>Lollipops Make Up Paris Nail Lacquer in Voyage à Paris</DT>
+<DD>Full Size .4 fl.oz., Value $10</DD>
 </DL>
 
-<p>The Revitalizer contains their own plant-derived emollient, patented 100% Neossance Squalane. FYI, squalane is typically animal-derived so I was super relieved and happy to know that they have their own patented plant-derived version, phew!  It's also non-comedogenic, hypoallergenic, and paraben-free.</p>
+<p>Your Parisian look (or red lips) wouldn't be complete without red nails. It's a fashion classic that never goes out of style.</p>
 
-<p>This rich ingredient hydrates and locks in essential moisture, leaving your skin feeling nourished and revitalized. I only used a couple of drops and applied on areas of my face that were dry. It did help and moisturize the area so this will surely be a life-saver for winter when I get patches of dry skin on my face that's so annoying.</p>
+<p>This exact nail polish is actually available from Birchbox UK, but sadly not here. And another interesting fact, it's also from the same parent company as De Bruyère Paris. What a great combo to insert for this French-themed box.</p> 
 
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images//GlossyboxOct2015.jpg" border="0" style="border:none;max-width:100%;" alt="" />
+<img src="/images/GlossyboxOct2015VichyIdealiaSkinSleep.jpg" border="0" style="border:none;max-width:100%;" alt="Vichy IDÉALIA Skin Sleep" />
 </a></center>
 
 <DL>
-<DT>Julep - Luxe Up Your Lips in Sheer Coral</DT>
-<DD>Full Size 12g., Value $24</DD>
+<DT>Vichy IDÉALIA Skin Sleep</DT>
+<DD>Deluxe Sample Size 15ml., Value $10.50</DD>
 </DL>
 
 <p>Subscribers received different colors for this lip treatment/gloss and I love mine. It's a pink salmon coral color that goes on sheer and looks great on my tanned olive skin. It's moisturizing, not sticky and has only a bit of shimmer.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I liked the products in this month's box and will be using every single one of them. It's got a good mix of makeup and skincare plus a nail polish so it was an all around well balanced box that I can surely use. It also included 2 full-sized products so the value is definitely there for me too. That's what I love about Glossybox, besides their pretty packaging, they always include full-sized products that by itself is already worth more than the subscription. Can't wait to see what next month's box will bring!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best Glossybox EVER!</p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
 <br>
