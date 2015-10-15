@@ -9,11 +9,11 @@ categories:
 tags: [Glossybox, Subscriptions, Reviews, October 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxOct2015Items.jpg"
-date: 2015-10-15 09:19:39 -08:00
+date: 2015-10-15 08:19:39 -08:00
 ---
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
@@ -81,7 +81,7 @@ date: 2015-10-15 09:19:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxOct2015SabeMassonPerfume.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+<img src="/images/GlossyboxOct2015SabeMassonPerfume.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <DL>
