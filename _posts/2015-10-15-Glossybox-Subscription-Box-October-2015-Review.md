@@ -61,6 +61,7 @@ date: 2015-10-15 09:19:39 -08:00
 <figure class="half">
             <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
             <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
+            <figcaption>Info card</figcaption>
 </figure>
 
 <p>With every box that they send, they also include a fold out info card that details the items and prices.</p>
@@ -84,31 +85,33 @@ date: 2015-10-15 09:19:39 -08:00
 </a></center>
 
 <DL>
-<DT>Sabe Masson - Le Soft Perfume</DT>
-<DD>Deluxe Sample Size 0.1oz, Value $8 (Full Size 0.3oz., $24)</DD>
+<DT>Sabé Masson - Le Soft Perfume in La Reine Soleil</DT>
+<DD>Full Size 0.17 oz, Value $25</DD>
 </DL>
 
-<p>At first I wasn't sure what this way, but am glad that it's a French perfume and in a solid stick form too. I don't think I've ever used one like this, how cool</p>
+<p>La Reine Soleil translates to Queen Sun. It does smell like a sunny day in a field of flowers - feminine, fresh and floral - that's how I would describe this.</p>
+
+<p>Lately I've been more open and adventurous with new fragrances thanks to all my subscription boxes, so I was actually happy to add this French perfume into my collection. Especially since this perfume is in a solid stick form which makes it oh-so travel friendly.</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxOct2015SabeMassonPerfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+<img src="/images/GlossyboxOct2015SabeMassonPerfume2.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <p>This box comes sealed with a cute sticker that says, "Come in".</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxOct2015SabeMassonPerfume3.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+<img src="/images/GlossyboxOct2015SabeMassonPerfume3.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <p>It has a plastic seal on top of it to keep the perfume safe and fresh until it gets to your hands.</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxOct2015SabeMassonPerfume4.jpg" border="0" style="border:none;max-width:100%;" alt="Sabe Masson Le Soft Perfume" />
+<img src="/images/GlossyboxOct2015SabeMassonPerfume4.jpg" border="0" style="border:none;max-width:100%;" alt="Sabé Masson Le Soft Perfume" />
 </a></center>
 
 <p>Here's a look at the perfume stick closer with it twisted up a bit so you can see the actual product.</p>
 
-<p>I actually love the scent of this perfume surprisingly. It's convenient to travel with since it's not liquid, and the packaging is cute!</p>
+<p>I actually love the scent of this perfume, surprisingly. It's convenient to travel with since it's not liquid, and the packaging is cute!</p>
 
 <br>
 
@@ -118,10 +121,10 @@ date: 2015-10-15 09:19:39 -08:00
 
 <DL>
 <DT>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</DT>
-<DD>Deluxe Sample Size 10ml, Value $10.70 (Full Size 14ml, $15)</DD>
+<DD>Deluxe Sample Size 1oz., Value $6.40 (Full Size 5oz., $32)</DD>
 </DL>
 
-<p>I use and love products by Phyto. Not only are they great and actually work, they smell amazing too and this one doesn't disappoint. I use a straightening iron as well as a curling iron quite frequently, so this is a must in my hair routine. Not only does this protect hair from heat, it also detangles and prevents breakage. Great item and will be buying a full size of this!</p>
+<p>I use and love products by Phyto. Not only are they great and work wonders for my hair, they smell amazing too and this one doesn't disappoint. I use a straightening iron as well as a curling iron quite frequently, so this is a must in my hair routine. It protects hair from heat, but it also detangles and prevents breakage. Great item and will be buying a full size of this!</p>
 
 <br>
 
@@ -149,7 +152,7 @@ date: 2015-10-15 09:19:39 -08:00
 <DD>Full Size .4 fl.oz., Value $10</DD>
 </DL>
 
-<p>Your Parisian look (or red lips) wouldn't be complete without red nails. It's a fashion classic that never goes out of style. The color is bright red to match the lipgloss, and application only took one coat and it was all set.</p>
+<p>A Parisian look (or red lips) wouldn't be complete without red nails. It's a fashion classic that never goes out of style. Voyage à Paris (Paris Trip) is a bright red color that matches the De Bruyère lipgloss. Application only took one coat and it was all set. I love how easy it was to paint my nails with this.</p>
 
 <p>This exact nail polish is actually available from Birchbox UK, but sadly not here. And another interesting fact, it's also from the same parent company as De Bruyère Paris. What a great combo to insert for this French-themed box.</p> 
 
@@ -161,16 +164,16 @@ date: 2015-10-15 09:19:39 -08:00
 
 <DL>
 <DT>Vichy IDÉALIA Skin Sleep</DT>
-<DD>Deluxe Sample Size 15ml., Value $10.50</DD>
+<DD>Deluxe Sample Size 15ml., Value $10.50 (Full Size 50ml, $35)</DD>
 </DL>
 
-<p>I've heard of this brand but never used anything by them. This is a night cream that will restore and repair your skin while you sleep. It's paraben free and safe for sensitive skin. It promises smoother, more luminous, and rested-looking skin. We shall see about that. The size is quite good to try for a month I believe, but I typically only use a smal amount when it comes to night creams since I have combination/oily skin, so perhaps that's why it tends to last longer for me.</p>
+<p>I've heard of this brand but never used anything by them. This is a night cream that will restore and repair your skin while you sleep. It's paraben free and safe for sensitive skin. It promises smoother, more luminous, and rested-looking skin. We shall see about that. The size is quite good to try for a month I believe, so I'm happy about that, but I typically only use a smal amount when it comes to night creams since I have combination/oily skin, so perhaps that's why it tends to last longer for me.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best Glossybox EVER! I absolutely love everything, from the box to all the products. </p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best Glossybox EVER! I absolutely love everything, from the box to all the products. It's hard for us here in the USA to discover and try out new French brands, and I am absolutely grateful that Glossybox decided to do this French-themed box, so thankful. The box itself is a work of art which I will be using as decoration and to keep all things French in there. I truly hope Glossybox comes out with more themed boxes like this, maybe UK next? ;)</p>
 
-<p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>join here</big></a> to start receiving their pretty pink boxes filled with beauties!</p>
+<p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>visit their website or subscribe here</big></a> to start receiving their pretty pink boxes filled with beauties every month!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
@@ -182,28 +185,28 @@ date: 2015-10-15 09:19:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Benefit They're Real! Mascara</TD>
-      <TD>$8</TD>
+      <TD>Sabé Masson - Le Soft Perfume in La Reine Soleil</TD>
+      <TD>$25</TD>
    </TR>
    <TR>
-      <TD>Nail Inc. Nail Polish</TD>
-      <TD>$10.70</TD>
+      <TD>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</TD>
+      <TD>$6.40</TD>
    </TR>
   <TR>
-      <TD>Emite Make Up Blush</TD>
-      <TD>$22</TD>
+      <TD>De Bruyère Paris Lip Gloss</TD>
+      <TD>$17.50</TD>
    </TR>
    <TR>
-      <TD>Biossance The Revitalizer</TD>
-      <TD>$4.60</TD>
+      <TD>Lollipops Make Up Paris Nail Lacquer</TD>
+      <TD>$10/TD>
    </TR>
    <TR>
-      <TD>Julep Lip Gloss</TD>
-      <TD>$24</TD>
+      <TD>Vichy IDÉALIA Skin Sleep</TD>
+      <TD>$10.50</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$69.30</big></b></TD>
+      <TD><b><big>$69.40</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
