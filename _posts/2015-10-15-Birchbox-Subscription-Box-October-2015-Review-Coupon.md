@@ -80,7 +80,7 @@ date: 2015-10-15 14:10:39 -08:00
 
 <p>I chose this mascara as my sample choice due to the rave reviews I've read about it. It gives lashes major curl and it has an innovative Hook ‘n’ Roll™ brush that's coated in tiny, soft hooks, which catch onto and lift, curl, and separate each lash instantly. The brush works with any eye shape or size and varying lash types, but it works especially well with short or straight lashes, that's me!</p>
 
-<p>I always, always curl my lashes before applying mascara because I have straight Asian lashes. But since this mascara promised to create major curl by itself, I decided to try it without curling it first and wow, it did curl my lashes! I've never seen or used anything like this, amazing! I am totally going to buy a full size version of this, again, ah-mazing!</p>
+<p>I always, always curl my lashes before applying mascara because I have straight Asian lashes. But since this mascara promised to create major curl by itself, I decided to try it without curling it first and wow, it did curl my lashes! I've never seen or used anything like this, amazing! I am totally going to buy a full size version of this. Again, ah-mazing!</p>
 
 <br>
 
