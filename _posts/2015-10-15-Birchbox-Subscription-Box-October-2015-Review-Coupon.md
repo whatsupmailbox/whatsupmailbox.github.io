@@ -149,7 +149,7 @@ date: 2015-10-15 14:10:39 -08:00
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes, it's totally worth it!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
