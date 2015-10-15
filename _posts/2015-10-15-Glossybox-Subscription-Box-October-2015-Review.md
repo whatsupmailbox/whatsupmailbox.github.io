@@ -59,8 +59,8 @@ date: 2015-10-15 09:19:39 -08:00
 <br>
 
 <figure class="half">
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images//GlossyboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images//GlossyboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
+            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
+            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
 </figure>
 
 <p>With every box that they send, they also include a fold out info card that details the items and prices.</p>
