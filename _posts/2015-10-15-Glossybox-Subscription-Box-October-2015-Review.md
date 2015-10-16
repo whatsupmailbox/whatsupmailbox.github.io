@@ -183,7 +183,7 @@ date: 2015-10-15 08:19:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> EVER! I absolutely love everything, from the box to all the products. It's hard for us here in the USA to discover and try out new French brands, and I'm absolutely grateful that they decided to do this French-themed box, so thankful. The box itself is a work of art which I will be using as decoration and to keep all things French in there. I truly hope <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> comes out with more themed boxes like this, maybe UK next? ;)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Best <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> EVER! I absolutely love everything, from the box to all the products. It's hard for us here in the USA to discover and try out new French brands, and I'm absolutely grateful that they decided to do this French-themed box, so thankful. Plus the total value came up to more than triple the cost, that's amazing. The box itself is a work of art which I will be using as decoration and to keep all things French in there. I truly hope <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> comes out with more themed boxes like this, maybe UK next? ;)</p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>visit their website or subscribe here</big></a> to start receiving their pretty pink boxes filled with beauties every month!</p>
 <br>
