@@ -133,7 +133,7 @@ date: 2015-10-15 08:19:39 -08:00
 
 <DL>
 <DT>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</DT>
-<DD>Deluxe Sample Size 1oz., Value $6.40 (Full Size 5oz., $32)</DD>
+<DD>Deluxe Sample Size 1oz., Value $12 based on Sephora (Full Size 5oz., $32)</DD>
 </DL>
 
 <p>I use and love products by Phyto. Not only are they great and work wonders for my hair, they smell amazing too and this one doesn't disappoint. I use a straightening iron as well as a curling iron quite frequently, so this is a must in my hair routine. It protects hair from heat, but it also detangles and prevents breakage. Great item and I'll be buying a full size of this!</p>
@@ -202,7 +202,7 @@ date: 2015-10-15 08:19:39 -08:00
    </TR>
    <TR>
       <TD>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</TD>
-      <TD>$6.40</TD>
+      <TD>$12</TD>
    </TR>
   <TR>
       <TD>De Bruyère Paris Lip Gloss</TD>
@@ -218,7 +218,7 @@ date: 2015-10-15 08:19:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$69.40</big></b></TD>
+      <TD><b><big>$75</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
