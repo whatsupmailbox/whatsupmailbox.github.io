@@ -61,69 +61,76 @@ date: 2015-10-20 09:01:39 -08:00
 <H4>Items in Detail:</H4>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Lip.jpg" border="0" style="border:none;max-width:100%;" alt="Liptini Lipstick in Starlet Cocktail" />
+<img src="/images/IpsyOct2015DrBrandtMicrodermabrasion.jpg" border="0" style="border:none;max-width:100%;" alt="Dr. Brandt Skincare Microdermabrasion" />
 </a></center>
 <DL>
-<DT><a href="https://www.tinibeauty.com/product/starlet-cocktail/" target="_blank">Liptini - Lipstick in Starlet Cocktail</a></DT>
-<DD>Full Size 2.5 g, Value $18</DD>
+<DT>Dr. Brandt Skincare Microdermabrasion</DT>
+<DD>Deluxe Sample Size .25oz., Value $9.75</DD>
 </DL>
 
-<p>I love lip products, I can never have enough of them so I was happy to get this in my bag. As summer is closing and we're entering Fall and Winter, this is when I transition the colors of my makeup to darker and bolder colors.</p>
-
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Lip2.jpg" border="0" style="border:none;max-width:100%;" alt="Liptini Lipstick in Starlet Cocktail" />
-</a></center>
-
-<p>Starlet Cocktail is a deep red berry color that's just perfect for me and for the season. Plus it's vegan, paraben-free and cruelty-free.</p>
-<br>
-
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Eye.jpg" border="0" style="border:none;max-width:100%;" alt="NYX Cosmetics Eye Shadow Trio" />
-</a></center>
-<DL>
-<DT><a href="http://www.nyxcosmetics.com" target="_blank">NYX Cosmetics</a> - Eye Shadow Trio</DT>
-<DD>Full Size, Value $6</DD>
-</DL>
-
-<p>Getting a palette in my bag is just awesome, especially since this one is an Ipsy exclusive! The three colors are quite versatile and can be used lightly for day or darker for night. The light gold and brown colors have shimmer while the dark brown color is matte. I can surely play around with these eyeshadows and it's such a great size for traveling!</p>
+<p>I'm a fan of Dr.Brandt products but never used this one in particular so I was happy to receive this and can't wait to try it out! This product will help to diminish the appearance of fine lines, acne marks and skin discolorations.</p>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Temptu.jpg" border="0" style="border:none;max-width:100%;" alt="Temptu Silicon Based Highlighter" />
+<img src="/imagesIpsyOct2015EmiteMakeUpTweezers.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
 </a></center>
 <DL>
-<DT><a href="https://temptu.com/silicone-based-highlighters-1.html" target="_blank">Temptu - Silicon Based Highlighter in Champagne Shimmer</a></DT>
-<DD>Deluxe Sample Size 7.5ml/.25fl.oz., Value $7 (Full Size 30ml $27.50)</DD>
+<DT>Emité Make Up Tweezers</DT>
+<DD>Full Size, Value $25</DD>
 </DL>
 
-<p>I actually have a Temptu Airbrush Machine and have been using it for years. I love the brand and I have no complaints, if anything I rave about them. I haven't used their highlighters though so I'm more than happy to try this out. You can apply this highlighter with your fingertips, brush or sponge and use it anywhere you want light to be reflected to give your face a pop of radiance.</p>
+<p>Although I typically get super happy when I see beauty tools in my Ipsy bags, this one was not one to be excited about. I can always use another tweezer, that wasn't the issue. The disappointment lies on the quality of the tweezer itself. See the picture below.</p>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/imagesIpsyOct2015EmiteMakeUpTweezers2.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
+</a></center>
+
+<p>As you can see for yourself, really poorly made that even the branding itself is already coming off and if you look closer, the actual tip looks like it's not even and not very sharp as well. It's so bad that I don't think I can gift this to anyone. What a bummer, what's going on Ipsy?! I definitely would not have paid $25 for this!</p>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Face.jpg" border="0" style="border:none;max-width:100%;" alt="Vasanti Brighten Up Exfoliating Cleanser" />
+<img src="/images/IpsyOct2015LaVanillaPureVanillaRollerBall.jpg" border="0" style="border:none;max-width:100%;" alt="La Vanilla Pure Vanilla Roller Ball Perfume" />
 </a></center>
 <DL>
-<DT><a href="http://vasanticosmetics.com/brighten-up-enzymatic-face-treatment-exfoliator.html" target="_blank">Vasanti Brighten Up Exfoliating Cleanser</a></DT>
-<DD>Travel Size 20g, Value $5.50 (Full Size 120g $32)</DD>
+<DT>La Vanilla Pure Vanilla Roller Ball Perfume</DT>
+<DD>Deluxe Sample Size 5ml, Value $12</DD>
 </DL>
 
-<p>I received this cleanser previously from another subscription and I still haven't finished that bottle yet. It worked well for my oily/combination skin so I'm happy to add another one into my skincare collection. It's also vegan, paraben-free and cruelty-free.</p>
+<p>Although I've been quite open to trying out new fragrances lately, this one is too sweet for me. I do love the taste of vanilla, just not on my perfume. The size itself is pretty decent and would be great for travelling or to include in a small purse. I'm sure I know someone who'll love this so off it goes to that lucky person.</p>
+
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyOct2015Brow.jpg" border="0" style="border:none;max-width:100%;" alt="Pixi by Petra - Brow Powder Trio" />
+<img src="/images/IpsyOct2015MicaBeautyCreamEyeshadowBronze.jpg" border="0" style="border:none;max-width:100%;" alt="Mica Beauty Cream Eyeshadow in Bronze" />
 </a></center>
 <DL>
-<DT><a href="http://www.pixibeauty.com/eyes/eyebrows/brow-powder-palette" target="_blank">Pixi by Petra - Brow Powder Trio</a></DT>
-<DD>Deluxe Sample Size 3-pan 1.7g, Value $3.50 (Full Size 6-pan 5.76g $12)</DD>
+<DT>Mica Beauty Cream Eyeshadow in Bronze</DT>
+<DD>Full Size 0.14 oz., Value $14.95</DD>
 </DL>
 
-<p>This sample is quite small, but since it's for brows, it'll probably still last me for quite some time. It consists of two eyebrow shades and a highlighter. I think I'll be able to use these shades either separately or combined as sometimes I like to go lighter more natural and other times I like them dark and defined.</p>
+<p>This eye shadow is full-sized so that's already a good sign. But unfortunately the color does not work well for me, I wished it did though.</p>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyOct2015MicaBeautyCreamEyeshadowBronze2.jpg" border="0" style="border:none;max-width:100%;" alt="Mica Beauty Cream Eyeshadow in Bronze" />
+</a></center>
+
+<p>The color is shimmery and application is creamy. It's also free of preservatives, chemicals, dyes, talc, oils, and other fillers.</p>
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Sadly this month was a total miss for me. From the bag to almost all the items were not a match at all and as much as I hate to admit it, I think this is the worst bag I've received from them as of yet. The only item I'll be using is the Dr. Brandt microdermabrasion, and maybe the Balm lipstick, but $10 for those two samples is no good, not at all. I've updated my beauty profile since receiving this bag, so hopefully next month will be better. I'm really hoping, if not, Houston we've got a problem!</p>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyOct2015TheBalmCosmeticsMeetMatteHughesLipstick.jpg" border="0" style="border:none;max-width:100%;" alt="The Balm Cosmetics - Meet Matt(e) Hughes Long-Lasting Liquid Lipstick" />
+</a></center>
+<DL>
+<DT>The Balm Cosmetics - Meet Matt(e) Hughes Long-Lasting Liquid Lipstick in Committed</DT>
+<DD>Sample Size 0.04 fl.oz., Value $3</DD>
+</DL>
+
+<p>I like The Balm Cosmetics and I've tried their lip products before thanks to other subscriptions. I actually prefer the matte look for my lips since it looks more natural, so I was happy that this liquid lipstick does just that. The color is a pinky nude color (again, perfect for a natural look) and it has a vanilla mint taste and scent.</p>
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Sadly this month was a miss for me. The bag was blah and so was most of the items. As much as I hate to admit it, I think this is the worst bag I've received from them as of yet. The only items I'll be using is the Dr. Brandt microdermabrasion and The Balm lipstick, but $10 for those two samples is no good, not at all. Even though the actual total value seems high, it's mostly because the tweezers that were poorly made has a value of $25, so I wouldn't really look into value versus cost for this month's bag. I've updated my beauty profile since receiving this bag so hopefully next month's items will be better. I'm really hoping, if not, Houston we've got a problem!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
 <br>
@@ -137,28 +144,28 @@ date: 2015-10-20 09:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Liptini Lipstick</TD>
-      <TD>$18</TD>
+      <TD>Dr. Brandt Skincare Microdermabrasion</TD>
+      <TD>$9.75</TD>
    </TR>
    <TR>
-      <TD>NYX Cosmetics Eye Shadow Trio</TD>
-      <TD>$6</TD>
+      <TD>Emité Make Up Tweezers</TD>
+      <TD>$25</TD>
    </TR>
     <TR>
-      <TD>Temptu Highlighter</TD>
-      <TD>$7</TD>
+      <TD>La Vanilla Pure Vanilla Roller Ball Perfume</TD>
+      <TD>$12</TD>
    </TR>
     <TR>
-      <TD>Vasanti Exfoliating Cleanser</TD>
-      <TD>$5.50</TD>
+      <TD>Mica Beauty Cream Eyeshadow</TD>
+      <TD>$14.95</TD>
    </TR>
     <TR>
-      <TD>Pixi Brow Powder Trio</TD>
-      <TD>$3.50</TD>
+      <TD>The Balm Cosmetics Meet Matt(e) Hughes Lipstick</TD>
+      <TD>$3</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$40</big></b></TD>
+      <TD><b><big>$64.70</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
