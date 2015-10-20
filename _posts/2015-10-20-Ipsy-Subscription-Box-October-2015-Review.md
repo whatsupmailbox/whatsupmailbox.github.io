@@ -73,7 +73,7 @@ date: 2015-10-20 09:01:39 -08:00
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/imagesIpsyOct2015EmiteMakeUpTweezers.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
+<img src="/images/IpsyOct2015EmiteMakeUpTweezers.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
 </a></center>
 <DL>
 <DT>Emité Make Up Tweezers</DT>
@@ -83,7 +83,7 @@ date: 2015-10-20 09:01:39 -08:00
 <p>Although I typically get super happy when I see beauty tools in my Ipsy bags, this one was not one to be excited about. I can always use another tweezer, that wasn't the issue. The disappointment lies on the quality of the tweezer itself. See the picture below.</p>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/imagesIpsyOct2015EmiteMakeUpTweezers2.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
+<img src="/images/IpsyOct2015EmiteMakeUpTweezers2.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
 </a></center>
 
 <p>As you can see for yourself, really poorly made that even the branding itself is already coming off and if you look closer, the actual tip looks like it's not even and not very sharp as well. It's so bad that I don't think I can gift this to anyone. What a bummer, what's going on Ipsy?! I definitely would not have paid $25 for this!</p>
