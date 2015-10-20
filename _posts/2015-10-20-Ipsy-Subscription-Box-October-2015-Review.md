@@ -86,7 +86,7 @@ date: 2015-10-20 09:01:39 -08:00
 <img src="/images/IpsyOct2015EmiteMakeUpTweezers2.jpg" border="0" style="border:none;max-width:100%;" alt="Emité Make Up Tweezers" />
 </a></center>
 
-<p>As you can see for yourself, really poorly made that even the branding itself is already coming off and if you look closer, the actual tip looks like it's not even and not very sharp as well. It's so bad that I don't think I can gift this to anyone. What a bummer, what's going on Ipsy?! I definitely would not have paid $25 for this!</p>
+<p>As you can see for yourself, really poorly made that even the branding itself is already coming off and it's hard to see from the picture, but the actual tip is not even and it wasn't very sharp as well. It's so bad that I don't think I can gift this to anyone. What a bummer, what's going on Ipsy?! I definitely would not have paid $25 for this!</p>
 
 <br>
 
