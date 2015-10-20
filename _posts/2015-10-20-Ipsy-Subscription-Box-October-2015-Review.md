@@ -29,6 +29,8 @@ date: 2015-10-20 09:01:39 -08:00
 
 <p>This review is for my profile so it's just one of the many variations that they sent out.</p>
 
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyOct2015Bag.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy October Glam Bag!" />
 </a></center>
