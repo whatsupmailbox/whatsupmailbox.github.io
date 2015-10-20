@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -98,7 +98,7 @@ date: 2015-10-20 09:01:39 -08:00
 <DD>Deluxe Sample Size 5ml, Value $12</DD>
 </DL>
 
-<p>Although I've been quite open to trying out new fragrances lately, this one is too sweet for me. I do love the taste of vanilla, just not on my perfume. The size itself is pretty decent and would be great for travelling or to include in a small purse. I'm sure I know someone who'll love this so off it goes to that lucky person.</p>
+<p>Although I've been quite open to trying out new fragrances lately, this one is too sweet for me. I do love the taste of vanilla, just not on my perfume. The size itself is pretty decent and would be great for travelling or to include in a small purse. I'm sure I know someone who'll love this, so off it goes to that lucky person.</p>
 
 <br>
 
