@@ -56,7 +56,7 @@ date: 2015-10-28 09:41:39 -08:00
 
 <br>
 
-<p>You can literally go to your destination and have coffee or tea while you're travelling on the cable car, how amazing is that!</p>
+<p>You can literally go to your destination and have coffee or tea while you're travelling on the cable car, how amazing is that! We need this back home stat!</p>
 
 <br>
 
