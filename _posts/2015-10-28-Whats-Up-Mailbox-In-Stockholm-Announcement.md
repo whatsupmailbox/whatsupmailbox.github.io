@@ -15,7 +15,7 @@ date: 2015-10-28 09:41:39 -08:00
 
 <center><img src="/images/WhatsUpMailboxStockholm.jpg"></center>
 
-<p>Hey guys! I haven't been posting anything lately (so sorry) and that's because I'm travelling in Europe right now! I'll be away for a couple more weeks, so instead of my regular posts of subscription boxes or products, I'll be posting pics from the cities that I visit. First stop, STOCKHOLM!</p>
+<p>Hey guys! I haven't been posting anything lately (so so sorry) and that's because I'm travelling in Europe right now! I'll be away for a couple more weeks, so instead of my regular posts of subscription boxes or products, I'll be posting pics from the cities that I visit. First stop, STOCKHOLM!</p>
 
 <br>
 
