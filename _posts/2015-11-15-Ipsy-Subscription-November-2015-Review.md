@@ -132,7 +132,7 @@ date: 2015-11-15 07:01:39 -08:00
 <DD>Deluxe Sample Size 1 oz., Value $6.65</DD>
 </DL>
 
-<p>An oil-free moisturizer that features Hyaluronic Acid, Ceramides and and all-natural water binding mechanisms for skin. I love that it's oil-free, a must in my moisturizers, so I'll be using this for sure!</p>
+<p>An oil-free moisturizer that features Hyaluronic Acid, Ceramides and all-natural water binding mechanisms for skin. I love that it's oil-free, a must in my moisturizers, so I'll be using this for sure!</p>
 
 <br>
 
