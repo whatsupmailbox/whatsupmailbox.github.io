@@ -88,7 +88,7 @@ date: 2015-11-15 07:01:39 -08:00
 <DD>Full Size 0.3 oz., Value $10?</DD>
 </DL>
 
-<p>I couldn't find both the eyeliner and the brush on the brand's website, so I'm guessing the value based on the prices of their other brushes and products. Based on what I see listed on their website, this seems like a drugstore (or somewhat cheap) brand. I'll still try it though and I definitely appreciate the brush included as well, so this was still appreciated.</p>
+<p>I couldn't find both the eyeliner and the brush on the brand's website, so I'm guessing the value based on the prices of their other brushes and products. Based on what I see listed on their website, this seems like a drugstore (or somewhat cheap) brand. I'll still try it though and I definitely appreciate the brush included as well, so this was still a win.</p>
 
 <p>Here's a closer look at the color of the eyeliner:</p>
 
