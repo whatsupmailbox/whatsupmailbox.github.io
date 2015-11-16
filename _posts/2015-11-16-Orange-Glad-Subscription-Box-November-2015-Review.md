@@ -101,7 +101,9 @@ date: 2015-11-16 11:19:39 -08:00
 <DT>Tennessee Toffee</DT>
 </DL>
 
-<p>The packaging is cool and retro, I always appreciate a good package, it resonates well with me and shows that the company cares about aesthetics too and not just the actual product.</p>
+<p>The packaging is cool and retro, I always appreciate a good package especially when it's resealable, it resonates well with me and shows that the company cares about aesthetics too and not just the actual product. And the toffee itself shares the same quality, it was good and felt like an adult treat with the added bourbon in its ingredients.</p>
+
+<p>"Our Classic Tennessee Toffee made by slow cooking Grade AA butter and pure cane sugar until that perfect golden color is achieved, adding a splash of barrel-aged bourbon and a handful of fresh roasted pecans, and then finishing it off with a covering of premium 60% cocoa dark chocolate and just a hint of crunchy sea salt."</p>
 
 <br>
 
@@ -112,7 +114,7 @@ date: 2015-11-16 11:19:39 -08:00
 <DT>Bleeker Street Brittle</DT>
 </DL>
 
-<p>I do like brittle and this was quite yummy.</p>
+<p>You can find these brittles sold in both Neiman Marcus and Saks Fifth Avenue, and they come in cute clear buckets! I do like brittle and this was quite yummy. It was buttery, crunchy and nutty, everything that makes a great treat to me! Plus it's all-natural and gluten-free, what more can you ask for.</p>
 
 <br>
 
