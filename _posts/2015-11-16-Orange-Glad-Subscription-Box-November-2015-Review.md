@@ -57,7 +57,6 @@ date: 2015-11-16 11:19:39 -08:00
 </a></center>
 <DL>
 <DT>Seattle Chocolates Thanks-olate</DT>
-<DD>Value $6.65</DD>
 </DL>
 
 <p>The chocolate bar's packaging already makes me so happy, plus it's quite a big bar so I can't wait to open this up!</p>
@@ -74,7 +73,6 @@ date: 2015-11-16 11:19:39 -08:00
 
 <DL>
 <DT>Salted Toffee</DT>
-<DD>Value $6.65</DD>
 </DL>
 
 <p>This salted toffee tastes both sweet and slightly salty as the name suggests. It's very slight in saltiness though so don't worry if this combo sounds too weird for you. I found it more sweet so you'll still satisfy that sweet tooth craving. It was also slightly crunchy and had caramel as well, but not too much, just enough to give it some chewy texture.</p>
@@ -86,7 +84,6 @@ date: 2015-11-16 11:19:39 -08:00
 </a></center>
 <DL>
 <DT>Dottie's Delight Maple Caramel</DT>
-<DD>Value $</DD>
 </DL>
 
 <p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige.</p>
@@ -98,7 +95,6 @@ date: 2015-11-16 11:19:39 -08:00
 </a></center>
 <DL>
 <DT>Tennessee Toffee</DT>
-<DD>Value $</DD>
 </DL>
 
 <p>The packaging is cool and retro, I always appreciate a good package, it resonates well with me and shows that the company cares about aesthetics too and not just the actual product.</p>
@@ -110,7 +106,6 @@ date: 2015-11-16 11:19:39 -08:00
 </a></center>
 <DL>
 <DT>Bleeker Street Brittle</DT>
-<DD>Value $</DD>
 </DL>
 
 <p>I do like brittle and this was quite yummy.</p>
@@ -122,40 +117,3 @@ date: 2015-11-16 11:19:39 -08:00
 <p>If you haven't joined yet or you want to try them out, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly boxes filled with unique treats!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:70%">
-   <TR>
-      <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
-      </TH>
-   </TR>
-      <TH>Product</TH>
-      <TH>Price</TH>
-  <TR>
-      <TD>Seattle Chocolates Thanks-olate</TD>
-      <TD>$</TD>
-   </TR>
-   <TR>
-      <TD>Salted Toffee</TD>
-      <TD>$</TD>
-   </TR>
-    <TR>
-      <TD>tre'StiQue Mini Matte Lip Crayon</TD>
-      <TD>$10.66</TD>
-   </TR>
-    <TR>
-      <TD>Smashbox Cosmetics Full Exposure Mascara</TD>
-      <TD>$7.37</TD>
-   </TR>
-    <TR>
-      <TD>Tucker Ashley Perfecting Moisturizer</TD>
-      <TD>$6.65</TD>
-   </TR>
-   <TR>
-      <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$48.68</big></b></TD>
-   </TR>
-   <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$19</big></i></TD>
-   </TR>
-</TABLE>
