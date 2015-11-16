@@ -59,7 +59,7 @@ date: 2015-11-16 11:19:39 -08:00
 <DT>Seattle Chocolates Thanks-olate Truffle Bar</DT>
 </DL>
 
-<p>The chocolate bar's packaging already makes me so happy, plus it's quite a big bar so I can't wait to open this up!</p>
+<p>The chocolate bar's packaging already makes me so happy, plus it's quite a big bar so I can't wait to open this up! I also think this bar could be a great addition when you're making a Thank You gift box or even by itself with a card to show some gratitude to that special person.</p>
 
 <p>"This sweet and salty milk chocolate truffle bar is filled with toffee bits, sea salt and gratitude. Playful graphics, bright colors and delicious chocolate: a cheerful way to say thank you. Now using Rainforest Alliance Certified™ cocoa."</p>
 
@@ -88,7 +88,7 @@ date: 2015-11-16 11:19:39 -08:00
 <DT>Dottie's Delight Maple Caramel</DT>
 </DL>
 
-<p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige.</p>
+<p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige. His verdict is that although not his favorite due to personal preference, it was still quite yummy and good.</p>
 
 <p>"Handcrafted soft caramels made with organic cane sugar and award winning New England maple syrup for an indulgently rich and creamy indulgence."</p>
 
