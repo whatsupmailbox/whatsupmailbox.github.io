@@ -53,13 +53,15 @@ date: 2015-11-16 11:19:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/OrangeGladNov2015SeattleChocolatesThanksolate.jpg" border="0" style="border:none;max-width:100%;" alt="Seattle Chocolates Thanks-olate" />
+<img src="/images/OrangeGladNov2015SeattleChocolatesThanksolate.jpg" border="0" style="border:none;max-width:100%;" alt="Seattle Chocolates Thanks-olate Truffle Bar" />
 </a></center>
 <DL>
-<DT>Seattle Chocolates Thanks-olate</DT>
+<DT>Seattle Chocolates Thanks-olate Truffle Bar</DT>
 </DL>
 
 <p>The chocolate bar's packaging already makes me so happy, plus it's quite a big bar so I can't wait to open this up!</p>
+
+<p>"This sweet and salty milk chocolate truffle bar is filled with toffee bits, sea salt and gratitude. Playful graphics, bright colors and delicious chocolate: a cheerful way to say thank you. Now using Rainforest Alliance Certified™ cocoa."</p>
 
 <br>
 
@@ -87,6 +89,8 @@ date: 2015-11-16 11:19:39 -08:00
 </DL>
 
 <p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige.</p>
+
+<p>"Handcrafted soft caramels made with organic cane sugar and award winning New England maple syrup for an indulgently rich and creamy indulgence."</p>
 
 <br>
 
