@@ -122,8 +122,8 @@ date: 2015-11-16 11:19:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Orange Glad is a great subscription if you want to try out some artisinal sweets that are unique. I think they do have a monthly theme in which they curate their treats, and although I'm not a big fan of toffee which is the theme of this month, I still enjoyed the treats and will continue subscribing.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Orange Glad is a great subscription if you want to try out some artisinal sweets that are unique. You will definitely discover some new sweets that you've never tried before. I did, and this was just my first box! I think they do have a monthly theme in which they curate their treats, and although I'm not a big fan of toffee which is the theme of this month, I still enjoyed the treats and will continue subscribing.</p>
 
-<p>If you haven't joined yet or you want to try them out, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly boxes filled with unique treats!</p>
+<p>If you haven't joined yet or you want to try them out, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Orange Glad here</big></a> and start receiving their monthly boxes filled with unique treats!</p>
 <br>
 
