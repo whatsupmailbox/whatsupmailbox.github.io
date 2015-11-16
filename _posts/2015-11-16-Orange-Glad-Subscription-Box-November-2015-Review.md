@@ -78,11 +78,12 @@ date: 2015-11-16 11:19:39 -08:00
 </a></center>
 
 <DL>
-<DT>Salted Toffee</DT>
+<DT>Poisoned Apples Salted Toffee topped Caramels</DT>
 </DL>
 
-<p>This salted toffee tastes both sweet and slightly salty as the name suggests. It's very slight in saltiness though so don't worry if this combo sounds too weird for you. I found it more sweet so you'll still satisfy that sweet tooth craving. It was also slightly crunchy and had caramel as well, but not too much, just enough to give it some chewy texture.</p>
+<p>This salted toffee tastes both sweet and slightly salty as the name suggests. It's very slight in saltiness though so don't worry if this combo sounds too weird for you. I found it more sweet so you'll still satisfy that sweet tooth craving. It was also crunchy and creamy as it had caramel as well, but not too much, just enough to give it some chewy texture.</p>
 
+<p>"each caramel starts with a buttery crisp shortbread cookie, then a heap of smooth creamy buttery rich caramel, each caramel is then dipped in chocolate and topped with black sea salted toffee."</p>
 <br>
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
