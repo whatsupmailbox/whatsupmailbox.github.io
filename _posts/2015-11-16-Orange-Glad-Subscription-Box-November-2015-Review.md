@@ -81,7 +81,43 @@ date: 2015-11-16 11:19:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Orange Glad is a great subscription if you want to try out some artisinal sweets that are unique. I think they do have a theme monthly in which they curate their treats, and although I'm not a big fan of toffee which is the theme of this month, I still enjoyed the treats and will continue subscribing.</p>
+<center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/OrangeGladNov2015DottiesDelightsMapleCaramel.jpg" border="0" style="border:none;max-width:100%;" alt="Dottie's Delight Maple Caramel" />
+</a></center>
+<DL>
+<DT>Dottie's Delight Maple Caramel</DT>
+<DD>Value $</DD>
+</DL>
+
+<p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige.</p>
+
+<br>
+
+<center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/OrangeGladNov2015TennesseeToffee.jpg" border="0" style="border:none;max-width:100%;" alt="Tennessee Toffee" />
+</a></center>
+<DL>
+<DT>Tennessee Toffee</DT>
+<DD>Value $</DD>
+</DL>
+
+<p>The packaging is cool and retro, I always appreciate a good package, it resonates well with me and shows that the company cares about aesthetics too and not just the actual product.</p>
+
+<br>
+
+<center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/OrangeGladNov2015BleekerStreetBrittle.jpg" border="0" style="border:none;max-width:100%;" alt="Bleeker Street Brittle" />
+</a></center>
+<DL>
+<DT>Bleeker Street Brittle</DT>
+<DD>Value $</DD>
+</DL>
+
+<p>I do like brittle and this was quite yummy.</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Orange Glad is a great subscription if you want to try out some artisinal sweets that are unique. I think they do have a monthly theme in which they curate their treats, and although I'm not a big fan of toffee which is the theme of this month, I still enjoyed the treats and will continue subscribing.</p>
 
 <p>If you haven't joined yet or you want to try them out, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly boxes filled with unique treats!</p>
 <br>
@@ -99,8 +135,8 @@ date: 2015-11-16 11:19:39 -08:00
       <TD>$</TD>
    </TR>
    <TR>
-      <TD>Beaute Basics Gel Eyeliner & Brush</TD>
-      <TD>$10?</TD>
+      <TD>Salted Toffee</TD>
+      <TD>$</TD>
    </TR>
     <TR>
       <TD>tre'StiQue Mini Matte Lip Crayon</TD>
