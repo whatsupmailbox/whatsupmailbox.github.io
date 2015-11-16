@@ -23,12 +23,16 @@ date: 2015-11-16 11:19:39 -08:00
 <p><b>Coupon:</b> <a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">Purchase on Rue La La</a> to save some $$$!</p>
 <p><b>What's in the box:</b> Each month you'll receive gourmet baked goods curated by food experts.</p>
 
+<br>
+
 <p>This is my first box in trying them out, so I was quite excited to open this up!</p>
 
 <center><a href="https://www.ruelala.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/OrangeGladNov2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
+
+<br>
 
 <p>Upon unboxing, the first visible sight is of a small info booklet:</p>
 
