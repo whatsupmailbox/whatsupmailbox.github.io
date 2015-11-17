@@ -54,7 +54,10 @@ date: 2015-11-18 09:32:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<p>What a nice big sign and it's made with a pretty thick cardstock too, I'm totally keeping this. And I know the perfect place to display it. "Plonge" means Plunge in French so I'll be framing this and displaying it outside in my backyard since I have a pool, how appropriate! I'm already happy and I haven't even gotten to the items yet!</p>
+<p>As soon as I opened the box, a burst of heavenly scent filled the air and my my my, it smelled so good! My unboxing experience has been taken to another level and I'm trying to pace myself so that I don't rip out everything to find out the source of this intoxicating scent!</p>
+
+<p>At first glance, you see a big cardstock sign with a French statement. They send one with every box and each time it comes with a different word and I collect them all to frame. It's a simple yet chic way to decorate any wall.</p>
+
 <br>
 
 <p><center><img src='/images/OuiPlease15OpenBox2.jpg'></center></p>
@@ -88,126 +91,98 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <H4>Items in detail:</H4>
-<p><center><img src='/images/OuiPlease15.jpg'></center></p>
+<p><center><img src='/images/OuiPlease15RipausteClutch.jpg'></center></p>
 <DL>
-<DT><a href="http://www.kingies.fr/en/women/59-life-is-beau.html" target="_blank">Kingies Paris - LIFE IS BEAU Shirt</a></DT>
+<DT>Ripauste Leather Clutch</DT>
 <DD>Stated Value $40 (current price $24)</DD>
 </DL>
 
-<p>This item was released as a spoiler earlier and I love that I got it! Although I'm typically an XS, the size I got was a Small because that's the smallest size they have. But I think the size actually runs small so the fit is still great, not baggy at all. I can't wait to wear this soon!</p>
+<p>I was ecstatic to see that I received an item from Ripauste, especially a clutch. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
+
+<p><center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center></p>
+
+<p>I still love it though, no matter the petite size. It'll be great as a small cosmetic pouch.</p>
+
 <br>
 
-<p><center><img src='/images/OuiPlease14Bag.jpg'></center></p>
+<p><center><img src='/images/OuiPlease15Bracelet.jpg'></center></p>
 <DL>
-<DT><a href="https://www.luluenprovence.com/pochettes/ecru-reveuse.html" target="_blank">Lulu En Provence - Pochette Ecru "Rêveuse"</a></DT>
+<DT></DT>
 <DD>Stated Value $40 (current price $25)</DD>
 </DL>
 
-<p>Rêveuse means Dreamy in French, how appropriate for me ;) The size is medium (not too small, yet not too big) and the material is canvas which makes it quite rugged and heavy duty. I love this bag, but I think I secretly wish I got the larger beach bag instead =P</p>
+<p>A bracelet with a black wooden centerpiece sounds pretty modern chic. It fits my hands when I use the last clasp and I since I wear a lot of black, this will accessorize perfectly.</p>
 
-<p>Here's a look at the inside of the bag:</p>
-<center><img src='/images/OuiPlease14Bag2.jpg'></center>
-<p>There's no lining so it's not very liquid friendly, but I still love it and will probably use it as a makeup bag or a clutch for my beachy vacations.</p>
+<p>Here's a closer look at the bracelet:</p>
+<center><img src='/images/OuiPlease15Bracelet2.jpg'></center>
+<p>You see the dimensions and size of the black wooden piece, it is quite big, but it's also unique.</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Bracelet.jpg'></center></p>
+<p><center><img src='/images/OuiPlease15Tea.jpg'></center></p>
 <DL>
-<DT><a href="http://shakeyourbowtie.bigcartel.com" target="_blank">Shake Your Bowtie</a> - Shell Bracelet</DT>
+<DT></DT>
 <DD>Stated Value $50</DD>
 </DL>
 
-<p>Their website doesn't have this bracelet listed so I'm guessing it might be an exclusive design made just for Oui Please. But based on the prices of other bracelets, it sounds about right so I used the stated value.</p>
+<p>I love loose teas, I have 2 drawers dedicated to them in my kitchen and this one will fit right in with the others. It's black tea with some flower petals infused in it. I brewed myself a cup of tea right away and yes, this was heavenly.</p>
 
-<center><img src='/images/OuiPlease14Bracelet2.jpg'></center>
+<center><img src='/images/OuiPlease15Tea2.jpg'></center>
 
-<p>This bracelet is cute and beachy. At first I was worried that it won't fit my petite hands, but this bracelet is adjustable and fits me just fine. There were a few more jewelry options in the catalog from other makers, and Objets Obscurs kind of caught my eye since I'll be going to Hawaii next week and the magazine noted that Hawaii is the inspiration for her current collection, Pink Flamingo. So I went to their website and guess what, they're having a summer sale of 50% off everything, how awesome! I'm totally eyeing the headband and some earrings, and since shipping is only 8 Euros, I think I'll be adding these jewels into my collection. Oh why did I have to find out about this sale, sigh.</p>
+<p>As you can see, a French tea deserves some French macarons to accompany it and what better ones than Laduree, the best macarons in the world! Side note, I bought quite a few in Paris and brought them all the way back to LA =P</p>
+
 <br>
 
-<p><center><img src='/images/OuiPlease14Coasters1.jpg'></center></p>
-<center><img src='/images/OuiPlease14Coasters2.jpg'></center>
+<p><center><img src='/images/OuiPlease15Perfume.jpg'></center></p>
+<center><img src='/images/OuiPlease15Perfume2.jpg'></center>
 <DL>
-<DT><a href="http://www.betchysketch.com/shop/" target="_blank">Betchy Sketch</a> Coasters</DT>
-<DD>4 Coasters, Stated Value $20</DD>
+<DT></DT>
+<DD>Stated Value $20</DD>
 </DL>
 
-<p>These coasters were made exlusively for Oui Please as you can see, and although $20 is quite pricey for paper coasters, I believe the value is in the art which I appreciate. Because these coasters are made of paper and are quite thin too, I wouldn't really recommend using them as coasters. I know that defeats the purpose and I think a postcard type of art display would have been better than coasters. But they're pretty nevertheless and I just couldn't put them away to never ever be used, so creative old me found a way to display them, see pictures below:</p>
+<p>Wow, this perfume is big and oh-so gorgeous! I love pink and such a statement piece that it will look lovely on my vanity. The scent suits me well lucky enough and I'm sure this will last me quite a long time.</p>
 
-<center><img src='/images/OuiPlease14Coasters4.jpg'></center>
-<center><img src='/images/OuiPlease14Coasters5.jpg'></center>
-<p>Don't they look pretty, I love it! It goes so perfectly in my office and table, honestly I think it'll go with just about any decor. Makes me so happy to look at it while I'm working, merci Oui Please!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Body.jpg'></center></p>
-<center><img src='/images/OuiPlease14Body2.jpg'></center>
+<p><center><img src='/images/OuiPlease15Soap.jpg'></center></p>
+<center><img src='/images/OuiPlease15Soap2.jpg'></center>
 <DL>
-<DT><a href="http://www.pierauge.com/body-balm-caresse-agrumes-with-essential-oil-of-grapefruit-all-skin-types-boutique-4-14-116.html" target="_blank">Pier Auge - Body Balm CARESSE AGRUMES</a></DT>
+<DT></DT>
 <DD>Stated Value $80 (current price $44)</DD>
 </DL>
 
-<p>Wow, this body balm jar is huge! The texture is creamy and the scent is both fruity and fresh, and that's due to the Grapefruit essential oils added into this lotion. I like this and it will certainly last me awhile.</p>
+<p>A soap in the shape of a heart makes my heart skip a beat. It smells lovely and it went straight to the guest bathroom as both a decoration and as a hand soap, although I do hope they treat is more as the first than the latter. Dear house guests, use the liquid soap next to it please!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Sothys.jpg'></center></p>
+<p><center><img src='/images/OuiPlease15TravelPerfume.jpg'></center></p>
 <DL>
-<DT><a href="http://www.skin-beauty.com/sothys-medium-tanning-body-lotion.html" target="_blank">Sothys Cellu-guard Tanning Body Lotion SPF 20</a></DT>
+<DT></DT>
 <DD>Value $52</DD>
 </DL>
 
-<p>The Sothys product listed in the catalog magazine was a different type, it was an SPF 30 sunscreen and I got a tanning lotion instead. Unfortunately I don't really use tanning lotions since I'm already quite tan myself thanks to my love of snorkeling and swimming. Also, I didn't really see an expiration date, but it does state a 9-month expectancy once it's opened, so keep note on that.</p>
+<p>OMG, this smells ah-mazing! My favorite scent from everything in the box and I think this may be the culprit to how heavenly the Oui Please box smelled when I first opened it up. I know that scents are quite a gamble to receive as it's so personal in preference, but this definitely hit the ballpark for me. I just need to pace myself and not use it too much so that it can last longer. I must buy more of this when I go to France next time!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14BodyBalm1.jpg'></center></p>
-<center><img src='/images/OuiPlease14BodyBalm2.jpg'></center>
+<p><center><img src='/images/OuiPlease15Lotion.jpg'></center></p>
 <DL>
-<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/20-face-and-body-butter/" target="_blank">Grain de Pastel - Face and Body Butter</a></DT>
+<DT></DT>
 <DD>Stated Value $50 (current price $36)</DD>
 </DL>
 
-<p>Another body lotion and it's pretty big in size as well! It looks luxurious and smells great too, can't wait to use it!</p>
+<p>This lotion is simple yet chic in design but the scent, another hit for me, wow, I'm feeling quite lucky. It has a spa-ish yet refereshing and slightly citrusy scent which bodes well with me. It wasn't sticky and yet it moisturized well.</p>
 
-<p>"Enriched in pastel oil, with a rich and dense texture, this face and body balm intensely nourishes and regenerates the skin. It brings an immediate comfort to dry, sensitive and damaged skins and provides a better protection against external aggressions."</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Hand.jpg'></center></p>
+<p><center><img src='/images/OuiPlease14Mustard.jpg'></center></p>
 <DL>
-<DT><a href="https://www.grainedepastel.com/en-gb/nourishing-care-3/21-hand-cream/" target="_blank">Grain de Pastel - Hand Cream</a></DT>
+<DT></DT>
 <DD>Stated Value $30 (current price $16)</DD>
 </DL>
 
-<p>I can never have too many hand creams. I always put one in every single bag I have so that it's always on hand when I need them. This one doesn't disappoint either, great addition!</p>
+<p>I didn't use to like mustards before, but since last year, I've been branching out and trying all kinds of them, from sweet to savory to spicy, you name it!</p>
 
-<p>"Thanks to its nourishing formula rich in pastel oil, this hand cream leaves a protective film and protects the most exposed skins. As its formula is very concentrated, a knob is enough to leave the hands soft, with a pleasant fragrance."</p>
 <br>
 
-<p><center><img src='/images/OuiPlease14Rose.jpg'></center></p>
-<DL>
-<DT><a href="http://www.douxme.com/produit/rose-mist/?lang=en" target="_blank">Doux Me - Rose Mist</a></DT>
-<DD>Stated Value $35 (current price $21)</DD>
-</DL>
-
-<p>I actually use a Rose Water toner by Fresh and I love it to calm my skin down after a long day in the sun or after some intensive mask/skin treatment, so I was happy to receive a Rose Water mist to add to my skincare collection. I'll probably use it for the same purposes as well.</p>
-<br>
-
-<p><center><img src='/images/OuiPlease14Lavender1.jpg'></center></p>
-<center><img src='/images/OuiPlease14Lavender2.jpg'></center>
-<DL>
-<DT><a href="http://lafare1789.com/en/" target="_blank">La Fare 1789</a> - Lavender Flower Jar</DT>
-<DD>Stated Value $20</DD>
-</DL>
-
-<p>It's suggested to put these in sachets and place them in your cabinets or drawers to give your clothes an added lavender fragrance. Or, you can include them in your bath routine to create a calm and relaxing atmosphere as you're soaking away. I just might try the latter as putting these in sachets might be too complicated for me ;)</p>
-<br>
-
-<p><center><img src='/images/OuiPlease14Nougat.jpg'></center></p>
-<DL>
-<DT><a href="http://www.lesnougatsstanislas.com/fr/accueil.html" target="_blank">Confiserie Stanislas</a> Nougat Lemon</DT>
-<DD>Stated Value $20</DD>
-</DL>
-
-<p>I love nougat and this bar is pretty big. It'll definitely satisfy my sweet cravings and then some =)</p>
-<br>
-
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. There were a lot of skincare products in this box though, more than I need, so hopefully next month it'll be more evenly spread in terms of the type of products I receive. I saw some pictures in Instagram of other variations of the box, and although there were some that had almost the exact items, I did notice one or two that had better versions; they got the shirt, a jewelry item, a makeup pouch plus a beach bag! Oh how I wish I got the beach bag too! Aside from that, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and French, I can't stop looking at it with love =) I can't wait to see what 1.5 will offer!</p>
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. This month's box didn't disappoint and yes, there were varieties that others received with some having higher value, but I'm fine with what I have, plus to me it's more about the function than the value. What good is a high valued bag if I find it ugly and unusable, get what I mean. But maybe that's just me. I also got quite lucky to receive scents that I actually liked so that was a big plus. Next month's destination is "White Winter in the Alps", I so can't wait!!!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
