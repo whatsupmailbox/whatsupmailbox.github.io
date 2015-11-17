@@ -77,7 +77,7 @@ date: 2015-11-17 08:19:39 -08:00
 </a></center>
 
 <DL>
-<DT>Poisoned Apples Salted Toffee topped Caramels</DT>
+<DT>The Poisoned Apples Salted Toffee topped Caramels</DT>
 </DL>
 
 <p>This salted toffee tastes both sweet and slightly salty as the name suggests. It's very slight in saltiness though so don't worry if this combo sounds too weird for you. I found it more sweet so you'll still satisfy that sweet tooth craving. It was also crunchy and creamy as it had caramel as well, but not too much, just enough to give it some chewy texture.</p>
@@ -89,7 +89,7 @@ date: 2015-11-17 08:19:39 -08:00
 <img src="/images/OrangeGladNov2015DottiesDelightsMapleCaramel.jpg" border="0" style="border:none;max-width:100%;" alt="Dottie's Delight Maple Caramel" />
 </a></center>
 <DL>
-<DT>Dottie's Delight Maple Caramel</DT>
+<DT>Dottie's Delights Maple Caramel</DT>
 </DL>
 
 <p>Okay, so I must confess, I'm not a big fan of caramel as well. I can handle some, but not when it's full caramel. So I had my husband try this on my behalf, he didn't mind either and was happy to oblige. His verdict is that although not his favorite due to personal preference, it was still quite yummy and good.</p>
@@ -102,7 +102,7 @@ date: 2015-11-17 08:19:39 -08:00
 <img src="/images/OrangeGladNov2015TennesseeToffee.jpg" border="0" style="border:none;max-width:100%;" alt="Tennessee Toffee" />
 </a></center>
 <DL>
-<DT>Tennessee Toffee</DT>
+<DT>Shotwell Candy Co. Tennessee Toffee</DT>
 </DL>
 
 <p>The packaging is cool and retro, I always appreciate a good package especially when it's resealable, it resonates well with me and shows that the company cares about aesthetics too and not just the actual product. And the toffee itself shares the same quality, it was good and felt like an adult treat with the added bourbon in its ingredients.</p>
@@ -115,7 +115,7 @@ date: 2015-11-17 08:19:39 -08:00
 <img src="/images/OrangeGladNov2015BleekerStreetBrittle.jpg" border="0" style="border:none;max-width:100%;" alt="Bleeker Street Brittle" />
 </a></center>
 <DL>
-<DT>Bleeker Street Brittle</DT>
+<DT>Stud Muffin Desserts Bleeker Street Brittle</DT>
 </DL>
 
 <p>You can find these brittles sold in both Neiman Marcus and Saks Fifth Avenue, and they come in cute clear buckets! I'm not too fond of brittle as well (man, this month's item doesn't seem to be doing to well in my charts), but it was buttery, crunchy and nutty, so it was quite good in the end. Plus it's all-natural and gluten-free, so if I were to like brittle, this would be a great snack.</p>
