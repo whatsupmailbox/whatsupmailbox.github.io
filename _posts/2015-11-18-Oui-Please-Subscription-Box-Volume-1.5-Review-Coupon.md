@@ -58,7 +58,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>As soon as I opened the box, a burst of heavenly scent filled the air and my my my, it smelled so good! My unboxing experience has been taken to another level and I'm trying to pace myself so that I don't rip out everything to find out the source of this intoxicating scent!</p>
 
 <center><img src='/images/OuiPlease15Merci.jpg'></center>
-<p>They always include a Thank You note with each box, merci!</p>
+<p>They also always include a Thank You note with each box, merci!</p>
 <br>
 
 <center><img src='/images/OuiPlease15OpenBox2.jpg'></center>
@@ -68,13 +68,14 @@ date: 2015-11-18 09:32:39 -08:00
 <p>Look at all those goodies just waiting for me!</p>
 <br>
 
-<center><img src='/images/OuiPlease15Catalog.jpg'></center>
+<center><img src='/images/OuiPlease15Info.jpg'></center>
 <p>Oui Please always includes a catalog magazine listing all the items that were included in Volume 1.5 box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.</p>
 <br>
 
 <figure class="half">
-      <img src='/images/OuiPlease15Catalog2.jpg'></center>
-      <img src='/images/OuiPlease15Catalog3.jpg'></center>
+      <img src='/images/OuiPlease15Info1.jpg'></center>
+      <img src='/images/OuiPlease15Info2.jpg'></center>
+      <img src='/images/OuiPlease15Info3.jpg'></center>
       <figcaption>Some pages from inside the catalog</figcaption>
 </figure>
 
