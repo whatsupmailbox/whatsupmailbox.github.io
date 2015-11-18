@@ -72,12 +72,10 @@ date: 2015-11-18 09:01:39 -08:00
 <p>Oui Please always includes a catalog magazine listing all the items that were included in Volume 1.5 box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.</p>
 <br>
 
-<figure class="half">
-      <img src='/images/OuiPlease15Info1.jpg'></center>
-      <img src='/images/OuiPlease15Info2.jpg'></center>
-      <img src='/images/OuiPlease15Info3.jpg'></center>
-      <figcaption>Some pages from inside the catalog</figcaption>
-</figure>
+<center><img src='/images/OuiPlease15Info1.jpg'></center>
+<center><img src='/images/OuiPlease15Info2.jpg'></center>
+<center><img src='/images/OuiPlease15Info3.jpg'></center>
+<figcaption>Some pages from inside the catalog</figcaption>
 
 <br>
 
