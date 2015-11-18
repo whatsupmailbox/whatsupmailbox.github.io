@@ -98,6 +98,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>I was ecstatic to see that I received an item from Ripauste, especially a clutch. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
 
 <center><img src='/images/OuiPlease15RipausteClutch4.jpg'></center>
+
 <br>
 
 <p>And here's a look inside the clutch:</p>
@@ -164,7 +165,7 @@ I brewed myself a cup of tea right away and yes, this was heavenly.</p>
 <br>
 
 <center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy.jpg'></center>
-<center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy.jpg'></center>
+<center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy2.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Value $52</DD>
