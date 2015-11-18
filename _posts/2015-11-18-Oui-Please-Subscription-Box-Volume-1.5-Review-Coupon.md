@@ -45,32 +45,30 @@ date: 2015-11-18 09:32:39 -08:00
 <p>Then you see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15Merci.jpg'></center></p>
-<p>They also always include a thank you note, merci!</figcaption>
-<br>
-
-<p><center><img src='/images/OuiPlease15Box3.jpg'></center></p>
+<center><img src='/images/OuiPlease15Box.jpg'></center>
 <p>I can never get over how pretty their boxes are! It's so BIG and sturdy, so it's usable and functional too, it definitely feels like a quality box made from high quality materials and you just know something luxurious is inside.</p>
 
 <p>Now let's get on and open this beauty!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15OpenBox.jpg'></center></p>
+<center><img src='/images/OuiPlease15OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
 <p>As soon as I opened the box, a burst of heavenly scent filled the air and my my my, it smelled so good! My unboxing experience has been taken to another level and I'm trying to pace myself so that I don't rip out everything to find out the source of this intoxicating scent!</p>
 
+<center><img src='/images/OuiPlease15Merci.jpg'></center>
+<p>They always include a Thank You note with each box, merci!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15OpenBox2.jpg'></center></p>
+<center><img src='/images/OuiPlease15OpenBox2.jpg'></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
 <p>Everything is packaged so beautifully, I'm slowly melting into happiness...</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15Catalog.jpg'></center></p>
+<center><img src='/images/OuiPlease15Catalog.jpg'></center>
 <p>Oui Please always includes a catalog magazine listing all the items that were included in Volume 1.5 box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.</p>
 <br>
 
@@ -83,14 +81,14 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <H4>And here are the items in my box:</H4>
-<p><center><img src='/images/OuiPlease15Items.jpg'></center></p>
+<center><img src='/images/OuiPlease15Items.jpg'></center>
 <br>
 
 <p>Everything looks gorgeous and I so can't wait to try them all!</p>
 <br>
 
 <H4>Items in detail:</H4>
-<p><center><img src='/images/OuiPlease15RipausteClutch.jpg'></center></p>
+<center><img src='/images/OuiPlease15RipausteClutch.jpg'></center>
 <DL>
 <DT>Ripauste Leather Clutch</DT>
 <DD>Stated Value $40 (current price $24)</DD>
@@ -98,13 +96,13 @@ date: 2015-11-18 09:32:39 -08:00
 
 <p>I was ecstatic to see that I received an item from Ripauste, especially a clutch. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
 
-<p><center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center></p>
+<center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center>
 
 <p>I still love it though, no matter the petite size. It'll be great as a small cosmetic pouch.</p>
 
 <br>
 
-<p><center><img src='/images/OuiPlease15Bracelet.jpg'></center></p>
+<center><img src='/images/OuiPlease15Bracelet.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $40 (current price $25)</DD>
@@ -117,7 +115,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>You see the dimensions and size of the black wooden piece, it is quite big, but it's also unique.</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15Tea.jpg'></center></p>
+<center><img src='/images/OuiPlease15Tea.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $50</DD>
@@ -131,7 +129,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<p><center><img src='/images/OuiPlease15Perfume.jpg'></center></p>
+<center><img src='/images/OuiPlease15Perfume.jpg'></center>
 <center><img src='/images/OuiPlease15Perfume2.jpg'></center>
 <DL>
 <DT></DT>
@@ -142,7 +140,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<p><center><img src='/images/OuiPlease15Soap.jpg'></center></p>
+<center><img src='/images/OuiPlease15Soap.jpg'></center>
 <center><img src='/images/OuiPlease15Soap2.jpg'></center>
 <DL>
 <DT></DT>
@@ -152,7 +150,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>A soap in the shape of a heart makes my heart skip a beat. It smells lovely and it went straight to the guest bathroom as both a decoration and as a hand soap, although I do hope they treat is more as the first than the latter. Dear house guests, use the liquid soap next to it please!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15TravelPerfume.jpg'></center></p>
+<center><img src='/images/OuiPlease15TravelPerfume.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Value $52</DD>
@@ -161,7 +159,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>OMG, this smells ah-mazing! My favorite scent from everything in the box and I think this may be the culprit to how heavenly the Oui Please box smelled when I first opened it up. I know that scents are quite a gamble to receive as it's so personal in preference, but this definitely hit the ballpark for me. I just need to pace myself and not use it too much so that it can last longer. I must buy more of this when I go to France next time!</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15Lotion.jpg'></center></p>
+<center><img src='/images/OuiPlease15Lotion.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $50 (current price $36)</DD>
@@ -171,7 +169,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<p><center><img src='/images/OuiPlease14Mustard.jpg'></center></p>
+<center><img src='/images/OuiPlease14Mustard.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $30 (current price $16)</DD>
