@@ -32,12 +32,17 @@ date: 2015-11-18 09:32:39 -08:00
 
 <center><H2>Oui Please VOL. 1.5: Along the Loire Valley</H2></center>
 
-<center><img src='/images/OuiPlease15Box.jpg'></center>
+<center><img src='/images/OuiPlease15Package.jpg'></center>
 <p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
 <br>
 
-<center><img src='/images/OuiPlease15Box2.jpg'></center>
-<p>Once you open it, you can see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
+<center><img src='/images/OuiPlease15OpenPackage.jpg'></center>
+<p>At first glance, you see a big cardstock sign with a French statement. They send one with every box and each time it comes with a different word and I collect them all to frame. It's a simple yet chic way to decorate any wall.</p>
+
+<br>
+
+<center><img src='/images/OuiPlease15OpenPackage2.jpg'></center>
+<p>Then you see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
 <br>
 
 <p><center><img src='/images/OuiPlease15Merci.jpg'></center></p>
@@ -55,8 +60,6 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <p>As soon as I opened the box, a burst of heavenly scent filled the air and my my my, it smelled so good! My unboxing experience has been taken to another level and I'm trying to pace myself so that I don't rip out everything to find out the source of this intoxicating scent!</p>
-
-<p>At first glance, you see a big cardstock sign with a French statement. They send one with every box and each time it comes with a different word and I collect them all to frame. It's a simple yet chic way to decorate any wall.</p>
 
 <br>
 
