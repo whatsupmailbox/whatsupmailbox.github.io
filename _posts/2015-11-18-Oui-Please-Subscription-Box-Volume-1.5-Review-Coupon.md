@@ -124,7 +124,7 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <center><img src='/images/OuiPlease15LaRouteDesComptoirsTea.jpg'></center>
-<center><img src='/images/OuiPlease15LaRouteDesComptoirsTea2.jpg'></center>
+<center><img src='/images/OuiPlease15LaRouteDesComptoirsTea.jpg'></center>
 <DL>
 <DT>Le Route des Comptoirs Perle D'Amour Tea</DT>
 <DD>Stated Value $30 (current price $10)</DD>
