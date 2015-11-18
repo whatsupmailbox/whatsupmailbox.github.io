@@ -42,7 +42,7 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <center><img src='/images/OuiPlease15OpenPackage2.jpg'></center>
-<p>Then you see the actual Oui Please box inside and it's protected with black bubble wraps to match the color theme.</p>
+<p>Then you see the actual Oui Please box inside and it's protected with black bubble wraps.</p>
 <br>
 
 <center><img src='/images/OuiPlease15Box.jpg'></center>
