@@ -25,7 +25,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://ouiplease.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
-<p>First off, I am deeply saddened by the tragedy that has occured in Paris. It is unfathomable how such actions can occur. I was actually in Paris 2 weeks ago and left just the day before the events to return to Los Angeles. It is shocking (and I am still in shock) how such atrocities can be carried out by fellow human beings, but one cannot understand evil and I continue to pray for peace in the world.</p>
+<p>First off, I am deeply saddened by the tragedy that occured in Paris. It is unfathomable how such actions can occur. I was actually in Paris 2 weeks ago and left just the day before the events to return to Los Angeles. It is shocking (and I am still in shock) how such atrocities can be carried out by fellow human beings, but one cannot understand evil and I continue to pray for peace in the world.</p>
 <br>
 
 <p>If you've read my previous posts, you should know that I love all things French, so much that I visit France every year. So when this subscription box came into my radar, I knew I just had to subscribe and I'm so glad I did!</p>
