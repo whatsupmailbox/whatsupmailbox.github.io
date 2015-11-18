@@ -135,7 +135,7 @@ date: 2015-11-18 09:32:39 -08:00
 <center><img src='/images/OuiPlease15LaRouteDesComptoirsTea3.jpg'></center>
 <br>
 
-I brewed myself a cup of tea right away and yes, this was heavenly.</p>
+<p>You can see the pink and blue petals infused with the tea from the picture above. It looked so good when I took this picture that I just had to brew myself a cup of tea right away and yes, this was heavenly.</p>
 
 <center><img src='/images/FrenchTeaAndMacarons.jpg'></center>
 
@@ -150,9 +150,9 @@ I brewed myself a cup of tea right away and yes, this was heavenly.</p>
 <DD>Stated Value $160 (price on Amazon $33)</DD>
 </DL>
 
-<p>I can't believe that the price they valued this at is way overpriced. It could be due shipping and taxes, who knows, but this is the most inflated price I've seen from them so far.</p>
+<p>I can't believe the price they valued this at is way overpriced. It could be due shipping and taxes, who knows, but this is the most inflated price I've seen from them so far.</p>
 
-<p>This perfume is big and oh-so gorgeous! I love pink and this bottle is such a statement piece that it will look lovely on my vanity. The scent suits me well lucky enough, and I'm sure this will last me quite a long time.</p>
+<p>Besides that fact, this perfume is big and oh-so gorgeous! I love pink and this bottle is such a statement piece that it will look lovely on my vanity. The scent suits me well lucky enough, and I'm sure this will last me quite a long time.</p>
 
 <p>"..an irresistible sparkling mix of Mandarin, Blackcurrant and Pear. Its heart reverberates with desire, an intoxicating bouquet of Lotus Flower, Orange Flower, Peony and Tuberose before giving way to the sensuality and warmth of  Amber, creamy Musk and Cedar wood."</p>
 
