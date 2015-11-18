@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Popsugar Must Have Special Edition Holiday For Her and Him On Sale NOW!"
+description: ""
+headline: "Popsugar Must Have Special Edition Holiday For Her and Him On Sale NOW!"
+tags: [Popsugar Must Have, Subscriptions]
+comments: true
+published: false
+featured: false
+categories: 
+  - Subscriptions
+type: photo
+imagefeature: "PopsugarSEForHer.jpg"
+date: 2015-11-18 14:01:39 -08:00
+---
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarSEHolidayBoxes.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Special Edition Boxes!" />
+</a></center>
+
+<p><b>The Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Special Edition "Holiday For Her" and "Holiday For Him" </a></p>
+<p><b>The Cost:</b> $100 one time purchase + Free Shipping (additional taxes apply to CA)</p>
+<p><b>What's in the box:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations.</p>
+<br>
+
+<H4>They offer 2 boxes, one For Him and one For Her:</H4>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarSEHolidayForHer.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Special Edition Holiday For Her!" />
+</a></center>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarSEHolidayForHim.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Special Edition Holiday For Him!" />
+</a></center>
+
+<br>
+
+<p>I purchased the "Holiday For Her" and I'm SO excited, I can't wait to get my hands on it! No spoilers have been released so far, so that just adds to the excitement and suspense.</p>
+
+<p>No spoilers or any other news are out yet about this box, but I'll be sure to let you all know once I hear something!</p>
