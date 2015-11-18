@@ -23,7 +23,7 @@ date: 2015-11-18 14:01:39 -08:00
 <p><b>What's in the box:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations.</p>
 <br>
 
-<H4>They offer 2 boxes, one For Him and one For Her:</H4>
+<H4>They offer 2 boxes, one For Her and one For Him:</H4>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarSEHolidayForHer.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Special Edition Holiday For Her!" />
