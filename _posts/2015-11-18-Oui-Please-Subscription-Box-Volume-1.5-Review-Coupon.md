@@ -33,7 +33,7 @@ date: 2015-11-18 09:32:39 -08:00
 <center><H2>Oui Please VOL. 1.5: Along the Loire Valley</H2></center>
 
 <center><img src='/images/OuiPlease15Package.jpg'></center>
-<p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 5 days for me to receive it.</p>
+<p><i class="icon-dropbox"></i> Oui Please ships their boxes through FedEx Ground, it took 4 days for me to receive it.</p>
 <br>
 
 <center><img src='/images/OuiPlease15OpenPackage.jpg'></center>
