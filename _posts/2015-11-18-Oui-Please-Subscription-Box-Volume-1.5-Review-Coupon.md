@@ -89,6 +89,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <H4>Items in detail:</H4>
 <center><img src='/images/OuiPlease15RipausteClutch.jpg'></center>
+<center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center>
 <DL>
 <DT>Ripauste Leather Clutch</DT>
 <DD>Stated Value $40 (current price $24)</DD>
@@ -96,13 +97,13 @@ date: 2015-11-18 09:32:39 -08:00
 
 <p>I was ecstatic to see that I received an item from Ripauste, especially a clutch. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
 
-<center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center>
+<center><img src='/images/OuiPlease15RipausteClutch3.jpg'></center>
 
 <p>I still love it though, no matter the petite size. It'll be great as a small cosmetic pouch.</p>
 
 <br>
 
-<center><img src='/images/OuiPlease15Bracelet.jpg'></center>
+<center><img src='/images/OuiPlease15SalomeCharlyTrieBracelet.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $40 (current price $25)</DD>
@@ -111,26 +112,32 @@ date: 2015-11-18 09:32:39 -08:00
 <p>A bracelet with a black wooden centerpiece sounds pretty modern chic. It fits my hands when I use the last clasp and I since I wear a lot of black, this will accessorize perfectly.</p>
 
 <p>Here's a closer look at the bracelet:</p>
-<center><img src='/images/OuiPlease15Bracelet2.jpg'></center>
+<center><img src='/images/OuiPlease15SalomeCharlyTrieBracelet2.jpg'></center>
 <p>You see the dimensions and size of the black wooden piece, it is quite big, but it's also unique.</p>
 <br>
 
-<center><img src='/images/OuiPlease15Tea.jpg'></center>
+<center><img src='/images/OuiPlease15LaRouteDesComptoirsTea.jpg'></center>
+<center><img src='/images/OuiPlease15LaRouteDesComptoirsTea2.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $50</DD>
 </DL>
 
-<p>I love loose teas, I have 2 drawers dedicated to them in my kitchen and this one will fit right in with the others. It's black tea with some flower petals infused in it. I brewed myself a cup of tea right away and yes, this was heavenly.</p>
+<p>I love loose teas, I have 2 drawers dedicated to them in my kitchen and this one will fit right in with the others. It's black tea with some flower petals infused in it.
 
-<center><img src='/images/OuiPlease15Tea2.jpg'></center>
+<center><img src='/images/OuiPlease15LaRouteDesComptoirsTea3.jpg'></center>
+<br>
+
+I brewed myself a cup of tea right away and yes, this was heavenly.</p>
+
+<center><img src='/images/FrenchTeaAndMacarons.jpg'></center>
 
 <p>As you can see, a French tea deserves some French macarons to accompany it and what better ones than Laduree, the best macarons in the world! Side note, I bought quite a few in Paris and brought them all the way back to LA =P</p>
 
 <br>
 
-<center><img src='/images/OuiPlease15Perfume.jpg'></center>
-<center><img src='/images/OuiPlease15Perfume2.jpg'></center>
+<center><img src='/images/OuiPlease15DynastieMarinaDeBourbon.jpg'></center>
+<center><img src='/images/OuiPlease15DynastieMarinaDeBourbon2.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $20</DD>
@@ -140,8 +147,8 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<center><img src='/images/OuiPlease15Soap.jpg'></center>
-<center><img src='/images/OuiPlease15Soap2.jpg'></center>
+<center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine.jpg'></center>
+<center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine2.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $80 (current price $44)</DD>
@@ -150,7 +157,8 @@ date: 2015-11-18 09:32:39 -08:00
 <p>A soap in the shape of a heart makes my heart skip a beat. It smells lovely and it went straight to the guest bathroom as both a decoration and as a hand soap, although I do hope they treat is more as the first than the latter. Dear house guests, use the liquid soap next to it please!</p>
 <br>
 
-<center><img src='/images/OuiPlease15TravelPerfume.jpg'></center>
+<center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy.jpg'></center>
+<center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Value $52</DD>
@@ -159,7 +167,7 @@ date: 2015-11-18 09:32:39 -08:00
 <p>OMG, this smells ah-mazing! My favorite scent from everything in the box and I think this may be the culprit to how heavenly the Oui Please box smelled when I first opened it up. I know that scents are quite a gamble to receive as it's so personal in preference, but this definitely hit the ballpark for me. I just need to pace myself and not use it too much so that it can last longer. I must buy more of this when I go to France next time!</p>
 <br>
 
-<center><img src='/images/OuiPlease15Lotion.jpg'></center>
+<center><img src='/images/OuiPlease15ConceptProvenceBodyMilk.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $50 (current price $36)</DD>
@@ -169,7 +177,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<center><img src='/images/OuiPlease14Mustard.jpg'></center>
+<center><img src='/images/OuiPlease15SavorSensMustardWalnut.jpg'></center>
 <DL>
 <DT></DT>
 <DD>Stated Value $30 (current price $16)</DD>
