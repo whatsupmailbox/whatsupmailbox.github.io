@@ -35,6 +35,4 @@ date: 2015-11-18 14:01:39 -08:00
 
 <br>
 
-<p>I purchased the "Holiday For Her" and I'm SO excited, I can't wait to get my hands on it! No spoilers have been released so far, so that just adds to the excitement and suspense.</p>
-
-<p>No spoilers or any other news are out yet about this box, but I'll be sure to let you all know once I hear something!</p>
+<p>I purchased the "Holiday For Her" and I'm SO excited, I can't wait to get my hands on it! No spoilers have been released so far, so that just adds to the excitement and suspense, but I'll be sure to let you all know if I hear something!</p>
