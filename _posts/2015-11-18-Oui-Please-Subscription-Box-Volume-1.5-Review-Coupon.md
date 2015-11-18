@@ -67,10 +67,6 @@ date: 2015-11-18 09:32:39 -08:00
 <p>Everything is packaged so beautifully, I'm slowly melting into happiness...</p>
 <br>
 
-<p><center><img src='/images/OuiPlease15OpenBox2.jpg'></center></p>
-<p>And my happiness just doubled. I can't wait to start digging in to see these beauties up close and personal!</p>
-<br>
-
 <p><center><img src='/images/OuiPlease15Catalog.jpg'></center></p>
 <p>Oui Please always includes a catalog magazine listing all the items that were included in Volume 1.5 box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.</p>
 <br>
