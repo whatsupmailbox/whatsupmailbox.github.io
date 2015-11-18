@@ -195,7 +195,7 @@ date: 2015-11-18 09:32:39 -08:00
 <DD>Stated Value $15</DD>
 </DL>
 
-<p>I didn't use to like mustards before, but since last year, I've been branching out and trying all kinds of them, from sweet to savory to spicy, you name it! I'm so glad that this time I received a savory epicure item, and this mustard was much appreciated.</p>
+<p>I used to dislike mustards, but since last year, I've been branching out and trying all kinds of them; from sweet to savory to spicy, you name it! I'm so glad that this time I received a savory epicure item, and this mustard was much appreciated.</p>
 
 <br>
 
