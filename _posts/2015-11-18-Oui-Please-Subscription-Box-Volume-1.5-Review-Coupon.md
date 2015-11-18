@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -9,10 +9,10 @@ title: Oui Please Vol. 1.5 Box Review + 20% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: OuiPlease14OpenBox1.jpg
+imagefeature: OuiPlease15Items.jpg
 headline: Oui Please Vol. 1.5 Box Review + 20% Coupon!
 tags: [Oui Please, Subscriptions, Reviews]
-date: 2015-11-18 09:32:39 -08:00
+date: 2015-11-18 09:01:39 -08:00
 ---
 
 <center><a href="http://ouiplease.com" target="_blank">
@@ -199,7 +199,7 @@ date: 2015-11-18 09:32:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. The items I received were good and yes, there were varieties that others received with some having higher value, but I'm fine with what I have, plus to me it's more about the function than the value. What good is a high valued bag if I find it ugly and unusable, get what I mean. But maybe that's just me. I also got quite lucky to receive scents that I actually liked so that was a big plus. With that said, the total value for this box was quite low though, mostly because the perfume had a really high stated value when you can get the same perfume at a really low price online. So if you're planning on trying them out, I highly suggest using the 20% discount code. I used it so I can say that the value is still there for me even though it's quite low, but if I paid full price of $150, then I think I'd be quite disappointed. Anywho, next month's destination is "Vol 1.6 White Winter in the Alps", and I so can't wait!</p>
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. The items I received were good and I will definitely (if I haven't done so already) be using all of them. Sure there were varieties that others received with some having higher values, but I'm fine with what I have. I also got quite lucky in receiving scents that I actually liked so that was a big plus. With that said, the total value for this box was quite low though, mostly because the perfume had a really high stated value when you can get the same perfume at a really low price online. So if you're planning on trying them out, I highly suggest using the 20% discount code. I used it so I can say that the value is still there for me even though it's quite low, but if I paid full price of $150, then I think I'd be quite disappointed. Anywho, next month's destination is "Vol 1.6 White Winter in the Alps", and I so can't wait!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
