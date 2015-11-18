@@ -37,7 +37,7 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <center><img src='/images/OuiPlease15OpenPackage.jpg'></center>
-<p>At first glance, you see a big cardstock sign with a French statement. They send one with every box and each time it comes with a different word and I collect them all to frame. It's a simple yet chic way to decorate any wall.</p>
+<p>At first glance, you see a big cardstock sign with a French statement. They send one with every box and I collect them all to frame. It's a simple yet chic way to decorate any wall.</p>
 
 <br>
 
