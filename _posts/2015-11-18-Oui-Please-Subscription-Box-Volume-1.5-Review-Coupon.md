@@ -138,7 +138,7 @@ date: 2015-11-18 09:01:39 -08:00
 
 <center><img src='/images/FrenchTeaAndMacarons.jpg'></center>
 
-<p>As you can see, a French tea deserves some French macarons to accompany it and what better ones than Laduree, the best macarons in the world! Side note, I bought quite a few in Paris and brought them all the way back to LA =P</p>
+<p>As you can see, a French tea deserves some French macarons to accompany it and what better ones than Ladurée, the best macarons in the world! Side note, I bought quite a few in Paris and brought them all the way back to LA =P</p>
 
 <br>
 
