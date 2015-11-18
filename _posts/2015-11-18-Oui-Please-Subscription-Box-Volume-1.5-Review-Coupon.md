@@ -25,10 +25,10 @@ date: 2015-11-18 09:32:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://ouiplease.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
-<p>First off, I am deeply saddened by the tragedy that has occured in Paris. It is unfathomable how such actions can occur and I myself have been lucky enough as I was in Paris and left just the day before to return to Los Angeles. It is shocking (and I am still in shock) how such atrocities can be carried out by fellow human beings, but one cannot understand evil and I continue to pray for peace in the world.</p>
+<p>First off, I am deeply saddened by the tragedy that has occured in Paris. It is unfathomable how such actions can occur. I was actually in Paris 2 weeks ago and left just the day before the events to return to Los Angeles. It is shocking (and I am still in shock) how such atrocities can be carried out by fellow human beings, but one cannot understand evil and I continue to pray for peace in the world.</p>
 <br>
 
-<p>If you've read my previous posts, you should know that I love all things French, so much that I visit France every year and will continue to do so. So when this subscription box came into my radar, I knew I just had to subscribe and so far I'm so glad I did!</p>
+<p>If you've read my previous posts, you should know that I love all things French, so much that I visit France every year. So when this subscription box came into my radar, I knew I just had to subscribe and I'm so glad I did!</p>
 
 <center><H2>Oui Please VOL. 1.5: Along the Loire Valley</H2></center>
 
@@ -46,7 +46,7 @@ date: 2015-11-18 09:32:39 -08:00
 <br>
 
 <center><img src='/images/OuiPlease15Box.jpg'></center>
-<p>I can never get over how pretty their boxes are! It's so BIG and sturdy, so it's usable and functional too, it definitely feels like a quality box made from high quality materials and you just know something luxurious is inside.</p>
+<p>I can never get over how pretty their boxes are! It's so BIG and sturdy, I use it as storage for so many things. It definitely feels like a quality box made from high quality materials and you just know something luxurious is inside.</p>
 
 <p>Now let's get on and open this beauty!</p>
 <br>
@@ -65,7 +65,7 @@ date: 2015-11-18 09:32:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>Everything is packaged so beautifully, I'm slowly melting into happiness...</p>
+<p>Look at all those goodies just waiting for me!</p>
 <br>
 
 <center><img src='/images/OuiPlease15Catalog.jpg'></center>
@@ -91,32 +91,32 @@ date: 2015-11-18 09:32:39 -08:00
 <center><img src='/images/OuiPlease15RipausteClutch.jpg'></center>
 <center><img src='/images/OuiPlease15RipausteClutch2.jpg'></center>
 <DL>
-<DT>Ripauste Leather Clutch</DT>
-<DD>Stated Value $40 (current price $24)</DD>
+<DT>Ripauste Small Leather Pochette</DT>
+<DD>Stated Value $50 (current price $30)</DD>
 </DL>
 
-<p>I was ecstatic to see that I received an item from Ripauste, especially a clutch. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
+<p>I was surprised to see that I received an item from Ripauste. I was also surprised at how small it was, like really small. Below is a picture of it with my hands so you can see the size comparison. And btw, my hands are really petite.<p>
 
 <center><img src='/images/OuiPlease15RipausteClutch4.jpg'></center>
 
 <br>
 
-<p>And here's a look inside the clutch:</p>
+<p>And here's a look inside:</p>
 <center><img src='/images/OuiPlease15RipausteClutch3.jpg'></center>
 
 <br>
 
-<p>I still love it though, no matter the petite size. It'll be great as a small cosmetic pouch.</p>
+<p>It's still a great item even with the petite size. I can use it as a small cosmetic pouch.</p>
 
 <br>
 
 <center><img src='/images/OuiPlease15SalomeCharlyTrieBracelet.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $40 (current price $25)</DD>
+<DT>Salome Charly Trie Bracelet</DT>
+<DD>Stated Value $50 (current price $52)</DD>
 </DL>
 
-<p>A bracelet with a black wooden centerpiece sounds pretty modern chic. It fits my hands when I use the last clasp and I since I wear a lot of black, this will accessorize perfectly.</p>
+<p>A bracelet with a black wooden centerpiece sounds pretty modern chic. It's handmade in cherry wood with golden brass. It fits my hands when I use the last clasp and I since I wear a lot of black, this will accessorize perfectly.</p>
 
 <p>Here's a closer look at the bracelet:</p>
 <center><img src='/images/OuiPlease15SalomeCharlyTrieBracelet2.jpg'></center>
@@ -126,11 +126,11 @@ date: 2015-11-18 09:32:39 -08:00
 <center><img src='/images/OuiPlease15LaRouteDesComptoirsTea.jpg'></center>
 <center><img src='/images/OuiPlease15LaRouteDesComptoirsTea2.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $50</DD>
+<DT>Le Route des Comptoirs Perle D'Amour Tea</DT>
+<DD>Stated Value $30 (current price $10)</DD>
 </DL>
 
-<p>I love loose teas, I have 2 drawers dedicated to them in my kitchen and this one will fit right in with the others. It's black tea with some flower petals infused in it.
+<p>I love loose teas, I have 2 drawers dedicated to them in my kitchen and this one will fit right in with the others. This organic black tea is mixed with pink and blue petals and has notes of rose and red fruit.</p>
 
 <center><img src='/images/OuiPlease15LaRouteDesComptoirsTea3.jpg'></center>
 <br>
@@ -146,19 +146,23 @@ I brewed myself a cup of tea right away and yes, this was heavenly.</p>
 <center><img src='/images/OuiPlease15DynastieMarinaDeBourbon.jpg'></center>
 <center><img src='/images/OuiPlease15DynastieMarinaDeBourbon2.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $20</DD>
+<DT>Marina De Bourbon Dynastie Madmoiselle Perfume</DT>
+<DD>Stated Value $160 (price on Amazon $33)</DD>
 </DL>
 
-<p>Wow, this perfume is big and oh-so gorgeous! I love pink and such a statement piece that it will look lovely on my vanity. The scent suits me well lucky enough and I'm sure this will last me quite a long time.</p>
+<p>I can't believe that the price they valued this at is way overpriced. It could be due shipping and taxes, who knows, but this is the most inflated price I've seen from them so far.</p>
+
+<p>This perfume is big and oh-so gorgeous! I love pink and this bottle is such a statement piece that it will look lovely on my vanity. The scent suits me well lucky enough, and I'm sure this will last me quite a long time.</p>
+
+<p>"..an irresistible sparkling mix of Mandarin, Blackcurrant and Pear. Its heart reverberates with desire, an intoxicating bouquet of Lotus Flower, Orange Flower, Peony and Tuberose before giving way to the sensuality and warmth of  Amber, creamy Musk and Cedar wood."</p>
 
 <br>
 
 <center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine.jpg'></center>
 <center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine2.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $80 (current price $44)</DD>
+<DT>Historiae Soap in Hameau De La Reine</DT>
+<DD>Stated Value $10 (current price $8.50)</DD>
 </DL>
 
 <p>A soap in the shape of a heart makes my heart skip a beat. It smells lovely and it went straight to the guest bathroom as both a decoration and as a hand soap, although I do hope they treat is more as the first than the latter. Dear house guests, use the liquid soap next to it please!</p>
@@ -167,34 +171,34 @@ I brewed myself a cup of tea right away and yes, this was heavenly.</p>
 <center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy.jpg'></center>
 <center><img src='/images/OuiPlease15HistoriaeOrangerieDuRoy2.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Value $52</DD>
+<DT>Historiae Travel Fragrance in Orangerie Du Roy</DT>
+<DD>Stated Value $40 (current price $26.50)</DD>
 </DL>
 
-<p>OMG, this smells ah-mazing! My favorite scent from everything in the box and I think this may be the culprit to how heavenly the Oui Please box smelled when I first opened it up. I know that scents are quite a gamble to receive as it's so personal in preference, but this definitely hit the ballpark for me. I just need to pace myself and not use it too much so that it can last longer. I must buy more of this when I go to France next time!</p>
+<p>OMG, this smells ah-mazing! My favorite scent from everything in the box and I think this may be the culprit to how heavenly the Oui Please box smelled when I first opened it up. I know that scents are quite a gamble to receive as it's so personal in preference, but this definitely hit the ballpark for me. Plus it's in a cute travel atomizer with its own cover, how cute. I just need to pace myself and not use it too much so that it can last longer.</p>
 <br>
 
 <center><img src='/images/OuiPlease15ConceptProvenceBodyMilk.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $50 (current price $36)</DD>
+<DT>Concept Provence Body Milk in Grapevine Flower</DT>
+<DD>Stated Value $20 (current price $14)</DD>
 </DL>
 
-<p>This lotion is simple yet chic in design but the scent, another hit for me, wow, I'm feeling quite lucky. It has a spa-ish yet refereshing and slightly citrusy scent which bodes well with me. It wasn't sticky and yet it moisturized well.</p>
+<p>This lotion is simple yet chic in design but the scent, another hit for me, wow, I'm feeling quite lucky. It has a spa-ish yet refereshing and slightly citrusy scent which bodes well with me. It wasn't sticky and yet it moisturized well. It has found its place next to my bed.</p>
 
 <br>
 
 <center><img src='/images/OuiPlease15SavorSensMustardWalnut.jpg'></center>
 <DL>
-<DT></DT>
-<DD>Stated Value $30 (current price $16)</DD>
+<DT>Savor & Sens Mustard Walnut</DT>
+<DD>Stated Value $15</DD>
 </DL>
 
-<p>I didn't use to like mustards before, but since last year, I've been branching out and trying all kinds of them, from sweet to savory to spicy, you name it!</p>
+<p>I didn't use to like mustards before, but since last year, I've been branching out and trying all kinds of them, from sweet to savory to spicy, you name it! I'm so glad that this time I received a savory epicure item, and this mustard was much appreciated.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. This month's box didn't disappoint and yes, there were varieties that others received with some having higher value, but I'm fine with what I have, plus to me it's more about the function than the value. What good is a high valued bag if I find it ugly and unusable, get what I mean. But maybe that's just me. I also got quite lucky to receive scents that I actually liked so that was a big plus. Next month's destination is "White Winter in the Alps", I so can't wait!!!</p>
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. This month's box didn't disappoint and yes, there were varieties that others received with some having higher value, but I'm fine with what I have, plus to me it's more about the function than the value. What good is a high valued bag if I find it ugly and unusable, get what I mean. But maybe that's just me. I also got quite lucky to receive scents that I actually liked so that was a big plus. The value this month was quite low though, mostly because the perfume had a really high stated value when you can get the same perfume at a really low price online. So if you're planning on trying them out, I highly suggest using the 20% discount code. I used it so I can say that the value is still there for me even though it's quite low, but if I paid full price of $150, then I think I'd be quite disappointed. Anywho, next month's destination is "Vol 1.6 White Winter in the Alps", and I so can't wait!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
@@ -209,52 +213,40 @@ I brewed myself a cup of tea right away and yes, this was heavenly.</p>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Kingies Paris Shirt</TD>
-      <TD>$24</TD>
+      <TD>Ripauste Small Leather Pochette</TD>
+      <TD>$30</TD>
    </TR>
   <TR>
-      <TD>Lulu En Provence Pochette</TD>
-      <TD>$25</TD>
-   </TR>
-  <TR>
-      <TD>Shake Your Bowtie Bracelet</TD>
-      <TD>$50</TD>
-   </TR>
-  <TR>
-      <TD>Betchy Sketch Coasters</TD>
-      <TD>$20</TD>
-   </TR>
-  <TR>
-      <TD>Pier Auge Body Balm</TD>
-      <TD>$44</TD>
-   </TR>
-  <TR>
-      <TD>Sothys Tanning Lotion</TD>
+      <TD>Salome Charly Bracelet</TD>
       <TD>$52</TD>
    </TR>
   <TR>
-      <TD>Grain de Pastel - Face & Body Butter</TD>
-      <TD>$36</TD>
+      <TD>Le Route des Comptoirs Tea</TD>
+      <TD>$10</TD>
    </TR>
   <TR>
-      <TD>Grain de Pastel - Hand Cream</TD>
-      <TD>$16</TD>
+      <TD>Princess Marina De Bourbon Perfume</TD>
+      <TD>$33</TD>
    </TR>
   <TR>
-      <TD>Doux Me - Rose Mist</TD>
-      <TD>$21</TD>
+      <TD>Historiae Soap</TD>
+      <TD>$8.50</TD>
    </TR>
   <TR>
-      <TD>La Fare 1789 - Lavender Flower Jar</TD>
-      <TD>$20</TD>
+      <TD>Historiae Travel Fragrance</TD>
+      <TD>$26.50</TD>
    </TR>
   <TR>
-      <TD>Confiserie Stanislas - Nougat Lemon</TD>
-      <TD>$20</TD>
+      <TD>Concept Provence Body Milk</TD>
+      <TD>$14</TD>
+   </TR>
+  <TR>
+      <TD>Savor & Sens Mustard</TD>
+      <TD>$15</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$328</big></b></TD>
+      <TD><b><big>$189</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
