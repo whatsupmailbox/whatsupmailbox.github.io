@@ -138,7 +138,7 @@ date: 2015-11-16 08:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxNov2015GWS.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
+<img src="/images/BirchboxNov2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
 </a></center>
 
 <br>
