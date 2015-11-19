@@ -143,7 +143,7 @@ date: 2015-11-19 09:10:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
