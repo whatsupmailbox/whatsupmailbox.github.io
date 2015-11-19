@@ -22,7 +22,7 @@ date: 2015-11-16 08:10:39 -08:00
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">subscribenow50</a> to receive 50 points when you subscribe, that's $5 to spend in the Birchbox shop!
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">CURLGWS</a> to receive a free luxe Eyeko Black Magic Lash Curler (an $18 value!) when you join Birchbox!
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
@@ -133,7 +133,14 @@ date: 2015-11-16 08:10:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I knew exactly what I was receiving this month because I chose the curated box, and I'm glad I did. Every item will be used and I may be purchasing full-sized versions of some or all of them. The total value came up to $ which is great for the cost of this box. Even with a bad box the value has always still been there for me. I find Birchbox to be a great subscription to discover and try new products at the convenience of your own home and without talking to some beauty sales rep who may or may not be right. I recommend Birchbox to all my friends and it's no surprise that they end up subscribing right away =)</p>
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes, it's totally worth it!</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">CURLGWS</a> to receive a free luxe Eyeko Black Magic Lash Curler (an $18 value!) when you join Birchbox.</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxNov2015GWS.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
+</a></center>
+
 <br>
 
 <TABLE  BORDER="5" style="width:60%">
