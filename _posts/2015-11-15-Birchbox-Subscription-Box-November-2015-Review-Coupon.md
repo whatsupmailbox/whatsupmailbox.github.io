@@ -31,7 +31,7 @@ date: 2015-11-16 08:10:39 -08:00
 <img src="/images/BirchboxNov2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox November 2015 Box" />
 </a></center>
 
-<p>This month's I chose their guest editor box which is the Glam Life Guru by Tati. The design is simple but chic.</p>
+<p>This month I chose their guest editor box which is the BIRCHBOX X GLAMLIFEGURU curated by YouTube beauty star Tati Westbrook. The design is simple but chic.</p>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -55,7 +55,7 @@ date: 2015-11-16 08:10:39 -08:00
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxNov2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Positive Message" /></a></center>
-<figcaption>Back page</figcaption>
+<figcaption>List of items in the box</figcaption>
 <br>
 
 <H4>And here are my items:</H4>
@@ -74,17 +74,17 @@ date: 2015-11-16 08:10:39 -08:00
 </a></center>
 
 <DL>
-<DT>LOC One & Done Shadow Stick</DT>
+<DT>LOC One & Done Shadow Stick in Day Trip</DT>
 <DD>Full Size, Value $10 </DD>
 </DL>
 
-<p>I love eyeshadow sticks, they're so convenient and easy to use. The color I received is a gold tone that will go great for the festive holidays.</p>
+<p>I love eyeshadow sticks, they're so convenient and easy to use. Day Trip is a light gold shimmer color that will go great for the festive holidays. My only wish is that it was mechanical since I find sharpening them tends to waste product.</p>
 
 <br>
 
 <DL>
 <DT>Shiseido Ultimune Eye Power Infusing Eye Concentrate</DT>
-<DD>Deluxe Sample Size, Value $10 (Full Size $)</DD>
+<DD>Deluxe Sample Size .18 oz., Value $21.67 (Full Size .54 oz. $65)</DD>
 </DL>
 
 
@@ -98,10 +98,10 @@ date: 2015-11-16 08:10:39 -08:00
 
 <DL>
 <DT>Jouer Lip Enhancer</DT>
-<DD>Deluxe Sample Size 0.14fl.oz., Value $.50 (Full Size 10oz. $34)</DD>
+<DD>Deluxe Sample Size 4.5ml, Value $7.20 (Full Size 10ml. $16)</DD>
 </DL>
 
-<p>This balm not only moisturizes your lips, but it also helps minimize lines and increase fullness. It has a glossy look to it, but not too much and although typically lip products that plump your lips would either sting or give out a tingly feeling, this one doesn't.</p>
+<p>This balm not only moisturizes your lips, but it also helps minimize lines and increase fullness thanks to its Maxi-Lip™, an ingredient clinically proven to help naturally increase the fullness of your lips while decreasing fine lines. It has a glossy look to it, and although typically lip products that plump your lips would either sting or give out a tingly feeling, this one doesn't. I like it!</p>
 
 <br>
 
@@ -111,10 +111,10 @@ date: 2015-11-16 08:10:39 -08:00
 
 <DL>
 <DT>Living Proof Perfect Hair Day (PhD) Dry Shampoo</DT>
-<DD>Travel Size 1oz., Value $6.50 (Full Size 4oz. $26)</DD>
+<DD>Travel Size 1.8 oz., Value $12 (Full Size 4 oz. $22)</DD>
 </DL>
 
-<p>I always need and use dry shampoos and I chose this curated box especially to get this! I use quite abit of Living Proof products and love them, but I've never tried their dry shampoos before.</p>
+<p>I always need and use dry shampoos and I chose this curated box especially to get this! It was awarded Allure's Best of Beauty this year! I use quite abit of Living Proof products and love them, but I've never tried their dry shampoos before. It sprayed the powder evenly and although you see the white residue, you're supposed to wait 30 seconds then massage and shake your hair and its gone. I found that it was already gone within the 30 seconds even before I had to shake my hair. I love this product, it took out the oiliness and volumized my hair. Will be buying the full-sized version as soon as this runs out!</p>
 
 <br>
 
@@ -124,7 +124,7 @@ date: 2015-11-16 08:10:39 -08:00
 
 <DL>
 <DT>Avène Hydrance Optimale Hydrating Serum</DT>
-<DD>Deluxe Sample Size 0.05fl.oz./1.5ml., Value $1.9 (Full Size 60ml, $75)</DD>
+<DD>Deluxe Sample Size 5ml., Value $6 (Full Size 30ml, $36)</DD>
 </DL>
 
 <p>Although I rarely use hydrating serums as I have oily/combination skin, the dry winter weather (or just plain dry since I live in California) does take its toll on my skin so I get some dry patches now and then. I used it only once so far and the gel-like formula went on smoothly and dried fast, and although it was too early to tell, I did feel somewhat more moisturized in the areas I applied this.</p>
@@ -150,23 +150,23 @@ date: 2015-11-16 08:10:39 -08:00
    </TR>
    <TR>
       <TD>Shiseido Ultimune Eye Concentrate</TD>
-      <TD>$.50</TD>
+      <TD>$21.67</TD>
    </TR>
     <TR>
       <TD>Jouer Lip Enhancer</TD>
-      <TD>$6.50</TD>
+      <TD>$7.20</TD>
    </TR>
     <TR>
       <TD>Living Proof Dry Shampoo</TD>
-      <TD>$1.90</TD>
+      <TD>$12</TD>
    </TR>
     <TR>
       <TD>Avène Hydrance Hydrating Serum</TD>
-      <TD>$2</TD>
+      <TD>$6</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$20.57</big></b></TD>
+      <TD><b><big>$56.87</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
