@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: BirchboxNov2015Items.jpg
 headline: Birchbox November 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, November 2015]
-date: 2015-11-16 08:10:39 -08:00
+date: 2015-11-19 09:10:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -143,7 +143,7 @@ date: 2015-11-16 08:10:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
