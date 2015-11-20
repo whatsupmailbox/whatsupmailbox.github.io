@@ -31,7 +31,7 @@ date: 2015-11-20 11:39:39 -08:00
 
 <center><img src="/images/HarrisonBlakeNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" /></center>
 
-<p>Harrison Blake boxes ships through USPS and arrive around the 1st of the month.</p>
+<p>SELECTED by Harrison Blake boxes ships through USPS and arrive around the 1st of the month.</p>
 
 <br>
 
