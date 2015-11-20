@@ -166,7 +166,7 @@ date: 2015-11-20 11:39:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Rosette Lapel Pin/TD>
+      <TD>Rosette Lapel Pin</TD>
       <TD>$15</TD>
    </TR>
    <TR>
