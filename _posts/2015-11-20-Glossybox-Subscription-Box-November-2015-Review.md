@@ -23,8 +23,6 @@ date: 2015-11-20 08:19:39 -08:00
 <p><b>Cost:</b> $21/monthly, $126 for 6 months, and $222/annually (taxes apply to New York, New Jersey and Kentucky).</p>
 <p><b>Shipping:</b> Free shipping to the US. $5 for Canadian residents.</p>
 <p><b>What's in the box:</b> Receive a selection of five beauty products that include trendy, high-end and emerging brands in both deluxe travel sizes and full size, housed in a pretty pink reusable keepsake box.</p>
-<p>How to cancel: Simply log in to your online GLOSSYBOX account to unsubscribe. Must be cancelled by the 14th of the prior month (e.g. you must cancel by February 14th if you want to cancel your March box).</p>
-<br>
 
 <br>
 
