@@ -51,7 +51,7 @@ date: 2015-11-20 11:39:39 -08:00
 
 <br>
 
-<p>With every box that they send, they also include business card like info card that details the items and prices.</p>
+<p>With every box that they send, they also include a business-card-like info card that details the items and prices.</p>
 
 <br>
 
