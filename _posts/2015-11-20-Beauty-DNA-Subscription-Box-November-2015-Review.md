@@ -28,11 +28,11 @@ date: 2015-11-20 09:30:39 -08:00
 <p>I always get excited when my Beauty DNA box is here, I just never know or can ever guess what I'll be receiving!</p>
 <br>
 
-<center><img src='/images/BeautyDNAOct2015OpenBox.jpg'></center>
+<center><img src='/images/BeautyDNANov2015OpenBox.jpg'></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><img src='/images/BeautyDNAOct2015OpenBox2.jpg'></center>
+<center><img src='/images/BeautyDNANov2015OpenBox2.jpg'></center>
 <p>Second look at unboxing reveals that I received a skin product! (It says Skin Report on the top right)</p>
 <br>
 
