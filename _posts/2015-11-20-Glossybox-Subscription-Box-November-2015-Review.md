@@ -41,6 +41,7 @@ date: 2015-11-20 08:19:39 -08:00
 
 <br>
 
+<p>The info card:</p>
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxNov2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxNov2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
 <figcaption>Info card</figcaption>
