@@ -27,7 +27,7 @@ date: 2015-11-20 11:39:39 -08:00
 
 <br>
 
-<p>SELECTED by Harrison Blake is a men's accessories monthly subscription that features products made by their brand. I love subscription boxes that tailor to men, although there are a lot of them out there, the options are still quite limited when compares to subscriptions catered to women. So when they reached out to me for a review, I was more than happy to oblige!</p>
+<p>SELECTED by Harrison Blake is a men's accessories monthly subscription that features products made by their brand. I love subscription boxes that tailor to men. Sure there are quite a few of them out there, but the options are still quite limited when compared to subscriptions catered to women. So when they reached out to me for a review, I was more than happy to oblige!</p>
 
 <center><img src="/images/HarrisonBlakeNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" /></center>
 
