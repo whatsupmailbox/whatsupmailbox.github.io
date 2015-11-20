@@ -152,7 +152,7 @@ date: 2015-11-20 11:39:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm so glad I got to review this box, it had great accessories for men and the style is on par with modern styles. This month's theme was nautical and everything goes perfectly well together, but you can of course wear them separately. The total value of the box came up to $114 which is quite incredible for a $25 box. Keep in mind that prices are their stated values and some of the items are exclusive to the box. If you're into accessorizing or would like to expand and perfect your dapper style, this would be a great subscription to try!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm so glad I got to review this box, it had a great mix of quality accessories for men and the style is on par with current trends. This month's theme was nautical and everything goes perfectly well together, but you can of course wear them separately. The total value of the box came up to $114 which is quite incredible for a $25 box. Keep in mind that prices are their stated values and some of the items are exclusive to the box. If you're into accessorizing or would like to expand and perfect your dapper style, this would be a great subscription to try!</p>
 
 <p>Not a subscriber? You can <a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"><big>visit their website or subscribe here</big></a> to start receiving their monthly boxes of dapper accessories!</p>
 <br>
