@@ -9,7 +9,7 @@ categories:
 tags: [Glossybox, Subscriptions, Reviews, November 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxNov2015Items.jpg"
