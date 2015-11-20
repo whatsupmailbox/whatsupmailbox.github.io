@@ -83,7 +83,7 @@ date: 2015-11-20 11:39:39 -08:00
 <DD>Value $18</DD>
 </DL>
 
-<p>Pocket squares always add that pizzaz to your outfit. And even if you (or the man in your life) doesn't like to accessorize, the minimal a man should do is add pocket squares. You can skip the lapels, skip the cuff links, but do please add the pocket squares.</p>
+<p>Pocket squares always add that pizzaz to your outfit. And even if you (or the man in your life) don't like to accessorize, the minimal a man should do is add pocket squares. You can skip the lapels, skip the cuff links, but do please add the pocket squares.</p>
 
 <p>This pocket square has a different color on the backside, so it's almost like getting two-in-one!</p>
 
