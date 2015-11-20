@@ -17,7 +17,7 @@ date: 2015-11-20 11:39:39 -08:00
 ---
 
 <center><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank">
-<img src="/images/HarrisonBlakeNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" />
+<img src="/images/HarrisonBlakeNov2015Package2.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" />
 </a></center>
 <p><b>Subscription:</b><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"> Glossybox</a></p>
 <p><b>Cost:</b> $25/monthly for US & Canada. $40 for International packages.</p>
@@ -29,7 +29,7 @@ date: 2015-11-20 11:39:39 -08:00
 
 <p>SELECTED by Harrison Blake is a men's accessories monthly subscription that features products made by their brand. I love subscription boxes that tailor to men, although there are a lot of them out there, the options are still quite limited when compares to subscriptions catered to women. So when they reached out to me for a review, I was more than happy to oblige!</p>
 
-<center><img src="/images/HarrisonBlakeNov2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" /></center>
+<center><img src="/images/HarrisonBlakeNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" /></center>
 
 <p>Harrison Blake boxes ships through USPS and arrive around the 1st of the month.</p>
 
