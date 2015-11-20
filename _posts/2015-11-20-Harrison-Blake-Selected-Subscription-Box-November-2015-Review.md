@@ -17,7 +17,7 @@ date: 2015-11-20 11:39:39 -08:00
 ---
 
 <center><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank">
-<img src="/images/GlossyboxNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Subscription" />
+<img src="/images/HarrisonBlakeNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" />
 </a></center>
 <p><b>Subscription:</b><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"> Glossybox</a></p>
 <p><b>Cost:</b> $25/monthly for US & Canada. $40 for International packages.</p>
