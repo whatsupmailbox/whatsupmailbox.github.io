@@ -150,28 +150,28 @@ date: 2015-11-20 08:19:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Sabé Masson - Le Soft Perfume in La Reine Soleil</TD>
-      <TD>$25</TD>
+      <TD>Crabtree & Evelyn Hand Cream</TD>
+      <TD>$9</TD>
    </TR>
    <TR>
-      <TD>Phyto PHYTOKÉRATINE Repairing Thermal Protectant Spray</TD>
-      <TD>$12</TD>
+      <TD>Estèe Lauder Anti-Aging Creme</TD>
+      <TD>$8.50</TD>
    </TR>
   <TR>
-      <TD>De Bruyère Paris Lip Gloss</TD>
-      <TD>$17.50</TD>
+      <TD>Flora-py Facial Sheet Mask</TD>
+      <TD>$8</TD>
    </TR>
    <TR>
-      <TD>Lollipops Make Up Paris Nail Lacquer</TD>
-      <TD>$10</TD>
+      <TD>Beauty For Real Lip Liner</TD>
+      <TD>$14</TD>
    </TR>
    <TR>
-      <TD>Vichy IDÉALIA Skin Sleep</TD>
-      <TD>$10.50</TD>
+      <TD>Marsk Eyeshadow</TD>
+      <TD>$22.50</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$75</big></b></TD>
+      <TD><b><big>$62</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
