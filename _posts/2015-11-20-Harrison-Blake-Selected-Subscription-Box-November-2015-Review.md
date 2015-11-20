@@ -148,7 +148,7 @@ date: 2015-11-20 11:39:39 -08:00
 <DD>Value $20</DD>
 </DL>
 
-<p>If you're frustrated with how your collar's curling tendencies, it may be time for you to invest in some collar stays. And what better ones than one that's made of stainless steel with a magnetic tab to keep it in place.</p>
+<p>If you're frustrated with your collar's curling tendencies, it may be time for you to invest in some collar stays. And what better ones than one that's made of stainless steel with a magnetic tab to keep it in place. This is a must have!</p>
 
 <br>
 
