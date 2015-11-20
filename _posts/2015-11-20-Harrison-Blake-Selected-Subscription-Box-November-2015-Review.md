@@ -9,14 +9,14 @@ categories:
 tags: [SELECTED by Harrison Blake, Subscriptions, Reviews, November 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "HarrisonBlakeNov2015Items.jpg"
 date: 2015-11-20 11:39:39 -08:00
 ---
 
-<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
 
 <center><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank">
 <img src="/images/HarrisonBlakeNov2015Box2.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" />
