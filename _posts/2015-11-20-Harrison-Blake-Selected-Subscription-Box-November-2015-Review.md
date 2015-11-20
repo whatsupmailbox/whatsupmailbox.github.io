@@ -157,7 +157,7 @@ date: 2015-11-20 11:39:39 -08:00
 <p>Not a subscriber? You can <a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"><big>visit their website or subscribe here</big></a> to start receiving their monthly boxes of dapper accessories!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
