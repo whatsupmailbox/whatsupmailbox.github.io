@@ -186,7 +186,7 @@ date: 2015-11-20 11:39:39 -08:00
       <TD>$12</TD>
    </TR>
       <TR>
-      <TD>Stainless Steel Collar Stayt</TD>
+      <TD>Stainless Steel Collar Stays</TD>
       <TD>$20</TD>
    </TR>
    <TR>
