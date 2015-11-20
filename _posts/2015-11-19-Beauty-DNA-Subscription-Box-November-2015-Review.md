@@ -9,11 +9,11 @@ categories:
 tags: [BeautyDNA, Subscriptions, Reviews, November 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNANov2015Items.jpg"
-date: 2015-11-20 09:30:39 -08:00
+date: 2015-11-19 16:30:39 -08:00
 ---
 
 <center><a href="https://www.beautydna.com/" target="_blank">
