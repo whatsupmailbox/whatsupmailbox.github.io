@@ -42,14 +42,6 @@ date: 2015-11-20 08:19:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 
 <br>
-<br>
-
-<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxNov2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
-</a></center>
-<figcaption>Second look at unboxing</figcaption>
-
-<br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
