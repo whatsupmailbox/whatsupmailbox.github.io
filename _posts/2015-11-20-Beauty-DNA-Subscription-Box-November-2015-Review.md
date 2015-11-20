@@ -17,7 +17,7 @@ date: 2015-11-20 09:30:39 -08:00
 ---
 
 <center><a href="https://www.beautydna.com/" target="_blank">
-<img src="/images/BeautyDNANov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box!" />
+<img src="/images/BeautyDNANov2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://www.beautydna.com/" target="_blank">Beauty DNA</a></p>
@@ -40,7 +40,7 @@ date: 2015-11-20 09:30:39 -08:00
 
 <H4>Based on my Beauty Profile, here is the item they matched me with:</H4>
 
-<p><center><img src='/images/BeautyDNANov2015Items.jpg'></center></p>
+<center><img src='/images/BeautyDNANov2015Items.jpg'></center>
 
 <DL>
 <DT></a></DT>
@@ -50,6 +50,10 @@ date: 2015-11-20 09:30:39 -08:00
 <p>First off I was amazed at the value received this month. Secondly, my day moisturizer doesn't have SPF in it, so this was definitely much appreciated.</p>
 
 <p>This moisturizer is designed to treat anti-aging and dry skin. It's non-comedogenic and light in texture. It absorbed quickly and left no residue which means it will be great as a pre-makeup base.</p>
+
+<p>Here's another look at the moisturizer opened, as you can see it's sealed for extra protection:</p>
+
+<center><img src='/images/BeautyDNANov20153LabMoisturizer.jpg'></center>
 
 <br>
 
