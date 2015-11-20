@@ -20,7 +20,7 @@ date: 2015-11-20 11:39:39 -08:00
 <img src="/images/HarrisonBlakeNov2015Box2.jpg" border="0" style="border:none;max-width:100%;" alt="SELECTED by Harrison Blake" />
 </a></center>
 <p><b>Subscription:</b><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"> SELECTED by Harrison Blake</a></p>
-<p><b>Cost:</b> $25/monthly for US & Canada. $40 for International packages.</p>
+<p><b>Cost:</b> $25/monthly for US & Canada. $40/monthly for International packages.</p>
 <p><b>Coupon:</b> Use coupon code SAVE20 to receive 20% off!</p>
 <p><b>Shipping:</b> Free shipping to the US and Canada.</p>
 <p><b>What's in the box:</b> Each box will contain 1 necktie and 4 additional accessories, such as pocket squares, lapel pins, tie bars and more... – each box will be completely coordinated and easy to style, making it simple to dress to impress.</p>
