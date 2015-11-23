@@ -44,7 +44,7 @@ date: 2015-11-23 12:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxCharmedLifepenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
+<img src="/images/BirchboxCharmedLifeBox.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Limited Edition Charmed Life Box" />
 </a></center>
 
 <p>This box is HUGE! Biggest box I've received from them as of yet.</p>
