@@ -21,7 +21,7 @@ date: 2015-11-24 12:10:39 -08:00
 <p><b>Product:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Limited Edition Charmed Life Box</a></p>
 <p><b>Cost:</b> $40 + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> A limited edition one-time purchase box that's curated and filled with chic treasures to keep your space organized in style, while adding modern design touches.</p>
-<p><b>Coupon:</b> 
+<p><b>Coupon:</b></p> 
 * Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">CURLGWS</a> to receive a free luxe Eyeko Black Magic Lash Curler (an $18 value!) when you join Birchbox!
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your purchase of this box!
 
