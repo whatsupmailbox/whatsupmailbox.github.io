@@ -242,6 +242,8 @@ date: 2015-11-24 12:10:39 -08:00
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxCharmedLifeBonusItem2.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
 </a></center>
+<figcaption>Fatty Sundays Toffee Pretzel</figcaption>
+<br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxCharmedLifeBonusItem3.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
