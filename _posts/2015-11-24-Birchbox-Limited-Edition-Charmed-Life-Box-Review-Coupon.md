@@ -256,8 +256,11 @@ date: 2015-11-24 12:10:39 -08:00
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxCharmedLifeMysterySamplePack.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Mystery Sample Pack" />
 </a></center>
+<figcaption>Pura Vida Headband & Temple Spa Hair Conditioner</figcaption>
 
-<p>For my Mystery Sample Pack, this time I received a headband from Pura Vida and a conditioner for Temple Spa. Although I already have the same exact headband from a previous mystery sample pack, having another won't hurt and I prefer getting that than another skincare or makeup sample. I've never received the conditioner before so that was a nice addition.</p>
+<br>
+
+<p>For my Mystery Sample Pack, this time I received a headband from Pura Vida and a conditioner from Temple Spa. Although I already have the same exact headband from a previous mystery sample pack, having another won't hurt and I prefer getting that than another skincare or makeup sample. I've never received the conditioner before so that was a nice addition.</p>
 
 <br>
 
