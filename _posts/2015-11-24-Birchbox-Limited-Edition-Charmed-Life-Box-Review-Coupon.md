@@ -97,11 +97,11 @@ date: 2015-11-24 12:10:39 -08:00
 </a></center>
 
 <DL>
-<DT>Canvas Home Dauville Bud Vase</DT>
-<DD>Value $</DD>
+<DT><b>Canvas Home</b> Dauville Bud Vase</DT>
+<DD>Value $25</DD>
 </DL>
 
-<p>Petite vases make a great addition to any room and will fir any single our double flower buds. I especially love the combination of white and gold, best combo ever!</p>
+<p>Petite vases make a great addition to any room and will fit any single our double flower buds. I especially love the combination of white and gold, best combo ever!</p>
 
 <br>
 
@@ -110,12 +110,12 @@ date: 2015-11-24 12:10:39 -08:00
 </a></center>
 
 <DL>
-<DT>Illume Demi Vanity Tin Candle</DT>
-<DD>Travel Size, Value $</DD>
+<DT><b>Illume</b> Demi Vanity Tin Candle in Anemone & Matchbox</DT>
+<DD>Candle Value $10, Matchbox Value $4</DD>
 </DL>
 
 
-<p>I have these travel-sized candles already in different scents, and no matter what scent they are, it's always been a hit for me. Anomone is a sweet tropical scent. They have a clean burn and how cute is the matchbox that they included as well. Such a great addition to this box.</p>
+<p>I have these travel-sized candles already in different scents, and no matter what scent they are, it's always been a hit for me. Every box will have a different scent and I received Anemone, which is described as a blend of apple mint, citrus, and patchouli. They have a clean burn and how cute is the matchbox that they included as well. Such a great addition to this box.</p>
 
 <br>
 
@@ -136,9 +136,11 @@ date: 2015-11-24 12:10:39 -08:00
 </a></center>
 
 <DL>
-<DT>Isaac Jacobs Sunburst Picture Frame</DT>
-<DD>Value $7.20</DD>
+<DT><b>Isaac Jacobs</b> Sunburst Picture Frame</DT>
+<DD>Value $20?</DD>
 </DL>
+
+<p>This picture frame was made exclusively for Birchbox therefore I had to estimate the value based on other similar frames being sold on Amazon.</p>
 
 <p>Gold frames are a favorite of mine and it's evident all around my house. It's a simple way to add some sophistication and glamour into your house without overdoing it. The design on this frame will add some texture to your decor which can make a big difference if most of your decor items have clean lines. Put this next to your simple rectangular frame and voila, you will add some much needed texture in your space.</p>
 
@@ -150,7 +152,7 @@ date: 2015-11-24 12:10:39 -08:00
 
 <DL>
 <DT><b>NUXE</b> Huile Prodigieuse Oil</DT>
-<DD>Value $7.20</DD>
+<DD>Travel Size, Value $5.98</DD>
 </DL>
 
 <p>I'm not big on applying oil onto my skin, I'm just too sensitive plus my face is already somewhat oily so that's a big no no for me. This oil is made with six different essential oils that will hydrate your skin and give it a sheen altogether. I've heard good reviews about this and do wish I could use it especially since I love Nuxe and have some of their products. Oh well, I'm sure I can find someone who will be more than happy to use this.</p>
@@ -177,8 +179,10 @@ date: 2015-11-24 12:10:39 -08:00
 
 <DL>
 <DT><b>Stephanie Johnson</b> Folding Mirror</DT>
-<DD>Value $7.20</DD>
+<DD>Value $24?</DD>
 </DL>
+
+<p>This mirror was made exclusively for Birchbox as well, so I estimated the value based on another compact snap mirror they have on their website that's selling for $24.</p>
 
 <p>This is such a great item to travel with and perfect for me as I do travel quite a bit. Not all hotels have mirrors that are strategically positioned so that I can put on my makeup comfortably, and that's where this folding mirror will come handy. Can't wait to use this for my New Year's vacay!</p>
 
@@ -199,7 +203,7 @@ date: 2015-11-24 12:10:39 -08:00
 
 <DL>
 <DT><b>TOCCA</b> Crema Da Mano (hand cream) in Cleopatra</DT>
-<DD>Value $7.20</DD>
+<DD>2 oz., Value $10</DD>
 </DL>
 
 <p>FYI, this hand cream came sealed. I've had TOCCA lotions before and loved them, so I was happy that they included this in the box. Cleopatra is a grapefruit and cucumber infusioin scent that smells sweet and refreshing. It's also paraben-free and enriched with natural extracts from coconut oil, shea butter and aloe. I am bringing this everywhere with me from now on!</p>
@@ -212,7 +216,7 @@ date: 2015-11-24 12:10:39 -08:00
 
 <DL>
 <DT><b>Umbra</b> Geo T Ring Holder</DT>
-<DD>Value $7.20</DD>
+<DD>Value $10</DD>
 </DL>
 
 <p>I love love Umbra. I've incorporated so many of their products into my home decor, they're just that good. What I love most about them is their simple clean designs yet it packs in convenience and usability. This ring holder is just that. It's both simple, elegant and yet very functional.</p>
@@ -286,31 +290,31 @@ date: 2015-11-24 12:10:39 -08:00
       <TH>Price</TH>
   <TR>
       <TD>Canvas Home Vase</TD>
-      <TD>$10</TD>
+      <TD>$25</TD>
    </TR>
    <TR>
-      <TD>Illume Travel Candle</TD>
-      <TD>$21.67</TD>
+      <TD>Illume Travel Candle & Matchbox</TD>
+      <TD>$14</TD>
    </TR>
     <TR>
       <TD>Isaac Jacobs Picture Frame</TD>
-      <TD>$7.20</TD>
+      <TD>$</TD>
    </TR>
     <TR>
       <TD>NUXE Huile Prodigieuse</TD>
-      <TD>$12</TD>
+      <TD>$5.98</TD>
    </TR>
     <TR>
       <TD>Stephanie Johnson Folding Mirror</TD>
-      <TD>$6</TD>
+      <TD>$24?</TD>
    </TR>
     <TR>
       <TD>TOCCA Hand Cream</TD>
-      <TD>$6</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
       <TD>Umbra Ring Holder</TD>
-      <TD>$6</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
