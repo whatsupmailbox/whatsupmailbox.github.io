@@ -4,12 +4,12 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Birchbox Limited Edition Charmed Life Box Review!
+title: Birchbox Limited Edition Charmed Life Box Review + Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: BirchboxNov2015Items.jpg
-headline: Birchbox Limited Edition Charmed Life Box Review!
+headline: Birchbox Limited Edition Charmed Life Box Review + Coupon!
 tags: [Birchbox, Reviews, November 2015]
 date: 2015-11-24 12:10:39 -08:00
 ---
@@ -164,7 +164,7 @@ date: 2015-11-24 12:10:39 -08:00
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxCharmedLifeStephanieJohnsonFoldingMirror2.jpg" border="0" style="border:none;max-width:100%;" alt="Stephanie Johnson Folding Mirror" />
 </a></center>
-<figcaption>Stephanie Johnson Folding Mirror (folded)</figcaption>
+<figcaption>Stephanie Johnson Folding Mirror (folded/closed)</figcaption>
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
