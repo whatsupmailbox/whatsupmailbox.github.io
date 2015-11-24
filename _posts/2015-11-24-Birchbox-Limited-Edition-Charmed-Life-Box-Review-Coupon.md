@@ -152,7 +152,7 @@ date: 2015-11-24 12:10:39 -08:00
 
 <DL>
 <DT><b>NUXE</b> Huile Prodigieuse Oil</DT>
-<DD>Travel Size, Value $5.98</DD>
+<DD>Travel Size 10ml, Value $5.80</DD>
 </DL>
 
 <p>I'm not big on applying oil onto my skin, I'm just too sensitive plus my face is already somewhat oily so that's a big no no for me. This oil is made with six different essential oils that will hydrate your skin and give it a sheen altogether. I've heard good reviews about this and do wish I could use it especially since I love Nuxe and have some of their products. Oh well, I'm sure I can find someone who will be more than happy to use this.</p>
@@ -184,7 +184,7 @@ date: 2015-11-24 12:10:39 -08:00
 
 <p>This mirror was made exclusively for Birchbox as well, so I estimated the value based on another compact snap mirror they have on their website that's selling for $24.</p>
 
-<p>This is such a great item to travel with and perfect for me as I do travel quite a bit. Not all hotels have mirrors that are strategically positioned so that I can put on my makeup comfortably, and that's where this folding mirror will come handy. Can't wait to use this for my New Year's vacay!</p>
+<p>This is such a great item to travel with and perfect for me as I do travel quite a bit. Not all hotels have mirrors that are strategically positioned so that I can put on my makeup comfortably, and that's where this folding mirror will come in handy. Can't wait to use this for my New Year's vacay!</p>
 
 <p>Here's another look at the mirror from the side:</p>
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -298,11 +298,11 @@ date: 2015-11-24 12:10:39 -08:00
    </TR>
     <TR>
       <TD>Isaac Jacobs Picture Frame</TD>
-      <TD>$</TD>
+      <TD>$20?</TD>
    </TR>
     <TR>
       <TD>NUXE Huile Prodigieuse</TD>
-      <TD>$5.98</TD>
+      <TD>$5.80</TD>
    </TR>
     <TR>
       <TD>Stephanie Johnson Folding Mirror</TD>
@@ -318,10 +318,10 @@ date: 2015-11-24 12:10:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$56.87</big></b></TD>
+      <TD><b><big>$108.80</big></b></TD>
    </TR>
    <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$10</big></i></TD>
+      <TD><i><big>Cost</big></i></TD>
+      <TD><i><big>$40</big></i></TD>
    </TR>
 </TABLE>
