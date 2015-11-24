@@ -231,6 +231,32 @@ date: 2015-11-24 12:10:39 -08:00
 
 <br>
 
+<H4><i class="icon-gift"></i> Bonus items:</H4>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeBonusItem.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeBonusItem2.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeBonusItem3.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<p>This was received with much surprise! I wasn't expecting to get this at all and boy was it yummy.</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeMysterySamplePack.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Mystery Sample Pack" />
+</a></center>
+
+<p>For my Mystery Sample Pack, this time I received a headband from Pura Vida and a conditioner for Temple Spa. Although I already have the same exact headband from a previous mystery sample pack, having another won't hurt and I prefer getting that than another skincare or makeup sample. I've never received the conditioner before so that was a nice addition.</p>
+
+<br>
+
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think this is the best Limited Edition box Birchbox has ever come out with, especially when you're comparing the price you pay versus the value you receive, definitely a winner! As I mentioned earlier, I knew I would love this box as soon as they released news about it, and I was right. Not only do I love it, I love it so much I immediately purchased another box after unboxing this one. Yeah, I have a shopping addiction, I'm aware of it. But seriously, I think this box will not only be good for a much needed gift for yourself, it will be a fantastic box to gift to others as well. You will surely be their MVP (Most Valuable Person) from then on ;)</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">CURLGWS</a> to receive a free luxe Eyeko Black Magic Lash Curler (an $18 value!) when you join Birchbox.</p>
