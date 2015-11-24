@@ -11,7 +11,7 @@ type: photo
 imagefeature: BirchboxNov2015Items.jpg
 headline: Birchbox Limited Edition Charmed Life Box Review!
 tags: [Birchbox, Reviews, November 2015]
-date: 2015-11-23 12:10:39 -08:00
+date: 2015-11-24 12:10:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -142,6 +142,91 @@ date: 2015-11-23 12:10:39 -08:00
 
 <br>
 
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeNuxeOil.jpg" border="0" style="border:none;max-width:100%;" alt="NUXE Huile Prodigieuse Oil" />
+</a></center>
+
+<DL>
+<DT><b>NUXE</b> Huile Prodigieuse Oil</DT>
+<DD>Value $7.20</DD>
+</DL>
+
+<p>I'm not big on applying oil onto my skin, I'm just too sensitive plus my face is already somewhat oily so that's a big no no for me. This oil is made with six different essential oils that will hydrate your skin and give it a sheen altogether. I've heard good reviews about this and do wish I could use it especially since I love Nuxe and have some of their products. Oh well, I'm sure I can find someone who will be more than happy to use this.</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeStephanieJohnsonFoldingMirror.jpg" border="0" style="border:none;max-width:100%;" alt="Stephanie Johnson Folding Mirror" />
+</a></center>
+<figcaption>Stephanie Johnson Folding Mirror (in packaging)</figcaption>
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeStephanieJohnsonFoldingMirror2.jpg" border="0" style="border:none;max-width:100%;" alt="Stephanie Johnson Folding Mirror" />
+</a></center>
+<figcaption>Stephanie Johnson Folding Mirror (folded)</figcaption>
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeStephanieJohnsonFoldingMirror3.jpg" border="0" style="border:none;max-width:100%;" alt="Stephanie Johnson Folding Mirror" />
+</a></center>
+<figcaption>Stephanie Johnson Folding Mirror (opened)</figcaption>
+<br>
+
+<DL>
+<DT><b>Stephanie Johnson</b> Folding Mirror</DT>
+<DD>Value $7.20</DD>
+</DL>
+
+<p>This is such a great item to travel with and perfect for me as I do travel quite a bit. Not all hotels have mirrors that are strategically positioned so that I can put on my makeup comfortably, and that's where this folding mirror will come handy. Can't wait to use this for my New Year's vacay!</p>
+
+<p>Here's another look at the mirror from the side:</p>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeStephanieJohnsonFoldingMirror4.jpg" border="0" style="border:none;max-width:100%;" alt="Stephanie Johnson Folding Mirror" />
+</a></center>
+<figcaption>Stephanie Johnson Folding Mirror (side view)</figcaption>
+<br>
+
+<p>The size is travel-friendly and it folds flat, what more can I ask for.</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeToccaLotion.jpg" border="0" style="border:none;max-width:100%;" alt="TOCCA Crema Da mano Cleopatra Lotion" />
+</a></center>
+
+<DL>
+<DT><b>TOCCA</b> Crema Da Mano (hand cream) in Cleopatra</DT>
+<DD>Value $7.20</DD>
+</DL>
+
+<p>FYI, this hand cream came sealed. I've had TOCCA lotions before and loved them, so I was happy that they included this in the box. Cleopatra is a grapefruit and cucumber infusioin scent that smells sweet and refreshing. It's also paraben-free and enriched with natural extracts from coconut oil, shea butter and aloe. I am bringing this everywhere with me from now on!</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeUmbraRingHolder.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<DL>
+<DT><b>Umbra</b> Geo T Ring Holder</DT>
+<DD>Value $7.20</DD>
+</DL>
+
+<p>I love love Umbra. I've incorporated so many of their products into my home decor, they're just that good. What I love most about them is their simple clean designs yet it packs in convenience and usability. This ring holder is just that. It's both simple, elegant and yet very functional.</p>
+
+<p>Here's a closer look at the ring holder:</p>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeUmbraRingHolder2.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<p>And a side view of the ring holder:</p>
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxCharmedLifeUmbraRingHolder3.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
+</a></center>
+
+<p>So yeah, it's amazing and will look gorgeous on any table. Love it!</p>
+
 <br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I think this is the best Limited Edition box Birchbox has ever come out with, especially when you're comparing the price you pay versus the value you receive, definitely a winner! As I mentioned earlier, I knew I would love this box as soon as they released news about it, and I was right. Not only do I love it, I love it so much I immediately purchased another box after unboxing this one. Yeah, I have a shopping addiction, I'm aware of it. But seriously, I think this box will not only be good for a much needed gift for yourself, it will be a fantastic box to gift to others as well. You will surely be their MVP (Most Valuable Person) from then on ;)</p>
@@ -165,23 +250,31 @@ date: 2015-11-23 12:10:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>LOC One & Done Shadow Stick</TD>
+      <TD>Canvas Home Vase</TD>
       <TD>$10</TD>
    </TR>
    <TR>
-      <TD>Shiseido Ultimune Eye Concentrate</TD>
+      <TD>Illume Travel Candle</TD>
       <TD>$21.67</TD>
    </TR>
     <TR>
-      <TD>Jouer Lip Enhancer</TD>
+      <TD>Isaac Jacobs Picture Frame</TD>
       <TD>$7.20</TD>
    </TR>
     <TR>
-      <TD>Living Proof Dry Shampoo</TD>
+      <TD>NUXE Huile Prodigieuse</TD>
       <TD>$12</TD>
    </TR>
     <TR>
-      <TD>Avène Hydrance Hydrating Serum</TD>
+      <TD>Stephanie Johnson Folding Mirror</TD>
+      <TD>$6</TD>
+   </TR>
+    <TR>
+      <TD>TOCCA Hand Cream</TD>
+      <TD>$6</TD>
+   </TR>
+    <TR>
+      <TD>Umbra Ring Holder</TD>
       <TD>$6</TD>
    </TR>
    <TR>
