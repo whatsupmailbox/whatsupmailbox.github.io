@@ -1,17 +1,18 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
+    - Coupons
 title: Birchbox Limited Edition Charmed Life Box Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxNov2015Items.jpg
+imagefeature: BirchboxCharmedLifeItems.jpg
 headline: Birchbox Limited Edition Charmed Life Box Review + Coupon!
-tags: [Birchbox, Reviews, November 2015]
-date: 2015-11-24 12:10:39 -08:00
+tags: [Birchbox, Reviews, Coupons, November 2015]
+date: 2015-11-24 11:10:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -101,7 +102,7 @@ date: 2015-11-24 12:10:39 -08:00
 <DD>Value $25</DD>
 </DL>
 
-<p>Petite vases make a great addition to any room and will fit any single our double flower buds. I especially love the combination of white and gold, best combo ever!</p>
+<p>Petite vases make a great addition to any room and will fit any single our double flower buds. I especially love the combination of white and gold, my favorite combo ever!</p>
 
 <br>
 
