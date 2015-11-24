@@ -31,7 +31,7 @@ date: 2015-11-24 12:10:39 -08:00
 <img src="/images/BirchboxCharmedLifePackage.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Limited Edition Charmed Life Box" />
 </a></center>
 
-<p>The packaging is always different when you're receiving non-subscription items, but I was still surprised as I've never seen this design before. So winter wonderland!</p>
+<p>The packaging is always different when you're receiving non-subscription items, but I was still surprised as I've never seen this design before. So winter festive!</p>
 
 <br>
 
