@@ -222,12 +222,14 @@ date: 2015-11-24 12:10:39 -08:00
 <img src="/images/BirchboxCharmedLifeUmbraRingHolder2.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
 </a></center>
 
+<p>It fits my rings perfectly and the shape of the rod itself is a hexagon so your rings don't keep sliding when you put them on there.</p>
+
 <p>And a side view of the ring holder:</p>
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxCharmedLifeUmbraRingHolder3.jpg" border="0" style="border:none;max-width:100%;" alt="Umbra Geo T Ring Holder" />
 </a></center>
 
-<p>So yeah, it's amazing and will look gorgeous on any table. Love it!</p>
+<p>You can see more of the hexagon shape and also how my rings stand faceup on this rod. If it was circle, they would just be all face down and unattractive to display. So yeah, this ring holder is amazing and will definitely look gorgeous on any table. Love it!</p>
 
 <br>
 
