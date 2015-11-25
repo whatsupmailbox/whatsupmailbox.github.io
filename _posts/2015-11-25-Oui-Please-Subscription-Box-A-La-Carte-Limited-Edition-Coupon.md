@@ -44,7 +44,7 @@ date: 2015-11-25 12:08:39 -08:00
 <img src="/images/OuiPleaseALC-spoiler2.png" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
-<p>A La Carte is different from our subscription box because customers will pay full price for the products they select without the subscriber discount. However, starting Wednesday the 25th of November, the first 50 people to order OuiPlease // A La Carte will receive 15% off products in their custom holiday box. All you have to do to redeem this exclusive offer is enter OUINOEL at checkout. OuiPlease // A La Carte ships free of charge within 3-5 business days.</p> 
+<p>A La Carte is different from our subscription box because customers will pay full price for the products they select without the subscriber discount. However, starting Wednesday the 25th of November, the first 50 people to order OuiPlease // A La Carte will receive 15% off products in their custom holiday box. All you have to do to redeem this exclusive offer is enter coupon code <b>OUINOEL</b> at checkout. OuiPlease // A La Carte ships free of charge within 3-5 business days.</p> 
 
 <br>
 
@@ -64,7 +64,7 @@ date: 2015-11-25 12:08:39 -08:00
 
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/ouipleaseboxALCslider1951.png" border="0" style="border:none;max-width:100%;" alt="1951 Maison Francaise ON SALE at Oui Please" />
+<img src="/images/ouipleaseboxALCslider1951.jpg" border="0" style="border:none;max-width:100%;" alt="1951 Maison Francaise ON SALE at Oui Please" />
 </a></center>
 
 <p>Not looking for a full arrangement of French products? You can also browse single products in our OuiShop. We have a few top picks for Noel ranging from beauty to epicure. Back by popular demand, we’re excited to announce that the highly coveted 1951 Maison Française clutches are now in the OuiShop! You can choose from a variety of colors and textures, which include both leather and calfskin. Each clutch comes with a long chain so you can wear it over the shoulder or even crossbody. A 1951 clutch is the perfect present or accessory for a holiday ensemble. <a href="http://ouipleasebox.com/product-category/oui-boutique/accessories/" target="_blank">Click here</a> to purchase or view the clutches on their website.</p>
