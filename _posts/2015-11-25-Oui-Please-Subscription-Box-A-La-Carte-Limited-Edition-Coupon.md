@@ -62,12 +62,13 @@ date: 2015-11-25 12:08:39 -08:00
 <img src="/images/ouipleaseboxALCREINE.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Reine Limited Edition Box" />
 </a></center>
 
+<br>
+
+<p>Not looking for a full arrangement of French products? You can also browse single products in our OuiShop. We have a few top picks for Noel ranging from beauty to epicure. Back by popular demand, we’re excited to announce that the highly coveted 1951 Maison Française clutches are now in the OuiShop! You can choose from a variety of colors and textures, which include both leather and calfskin. Each clutch comes with a long chain so you can wear it over the shoulder or even crossbody. A 1951 clutch is the perfect present or accessory for a holiday ensemble. <a href="http://ouipleasebox.com/product-category/oui-boutique/accessories/" target="_blank">Click here</a> to purchase or view the clutches on their website.</p>
 
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/ouipleaseboxALCslider1951.jpg" border="0" style="border:none;max-width:100%;" alt="1951 Maison Francaise ON SALE at Oui Please" />
 </a></center>
-
-<p>Not looking for a full arrangement of French products? You can also browse single products in our OuiShop. We have a few top picks for Noel ranging from beauty to epicure. Back by popular demand, we’re excited to announce that the highly coveted 1951 Maison Française clutches are now in the OuiShop! You can choose from a variety of colors and textures, which include both leather and calfskin. Each clutch comes with a long chain so you can wear it over the shoulder or even crossbody. A 1951 clutch is the perfect present or accessory for a holiday ensemble. <a href="http://ouipleasebox.com/product-category/oui-boutique/accessories/" target="_blank">Click here</a> to purchase or view the clutches on their website.</p>
 
 <p><b><i>NOTE: Unlike their subscription box or OuiPlease // A La Carte, single products do not come in a OuiPlease box and the shipping fee is extra.</i></b></p>
 
