@@ -18,7 +18,7 @@ date: 2015-11-25 12:08:39 -08:00
 <img src="/images/ouipleaseALClogo.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
-<p>Starting TODAY, Oui Please is offering a new offering on their website: <a href="http://ouipleasebox.com/ouiplease-ouishop/" target="_blank">OuiPlease // Á La Carte</a>.</p> 
+<p>Starting TODAY, Oui Please is offering a new way to shop on their website: <a href="http://ouipleasebox.com/ouiplease-ouishop/" target="_blank">OuiPlease // Á La Carte</a>.</p> 
 
 <br>
 
