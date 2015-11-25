@@ -31,6 +31,8 @@ date: 2015-11-25 11:01:39 -08:00
 
 <p>It's a beautiful <b>Elizabeth Cole</b> Adelia Bracelet that's valued at $168! With Swarovski Crystals and 24kt Antique Gold Plated, this bracelet/cuff will surely be a stunner for the holidays.</p>
 
+<p>Checkout <a href="http://www.elizabethcolejewelry.com/products/adelia-bracelet?variant=3593168645" target="_blank">her website for more info</a> on this bracelet.</p>
+
 <p>If this spoiler entices you and you're interested in purchasing, I suggest buying as soon as possible as these will go fast and before you know it, it'll be sold out! That happens almost always with their Special Edition boxes. You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase your Special Edition box here</a>, or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">musthave.popsugar.com</a> to learn more.</p>
 
 <p>I purchased the "Holiday For Her" and I'm SO excited, I can't wait to get my hands on it!</p>
