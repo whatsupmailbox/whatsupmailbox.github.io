@@ -23,7 +23,7 @@ date: 2015-11-25 12:48:39 -08:00
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/ALCslider2.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
+<img src="/images/OuiPleaseALCslider2.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
 <p>Á La Carte invites you to take box curation into your own hands using the products you already know and love. We created A La Carte to make holiday shopping simple. Whether you’re giving a whole OuiPlease arrangement to a loved one, or spreading the French products around to everyone on the nice list, A La Carte insures that you’ll receive the exact products you want - no surprises. Even better? The products will arrive in a collectable, gift-ready OuiPlease box.</p>
