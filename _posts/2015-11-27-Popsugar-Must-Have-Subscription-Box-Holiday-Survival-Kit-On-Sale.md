@@ -69,4 +69,6 @@ date: 2015-11-27 11:01:39 -08:00
 
 <p>Note: Orders will ship by Dec 11</p>
 
-<p>If you're interested in purchasing, I suggest purchasing this box as soon as possible as they are limited quantities available and before you know it, it'll be sold out! That happens almost always with their Special Edition boxes. You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase your Special Edition box here</a>, or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">musthave.popsugar.com</a> to learn more.</p>
+<p>If you're interested in purchasing, I suggest purchasing this box as soon as possible as they are limited quantities available and before you know it, it'll be sold out! That happens almost always with their Special Edition boxes.</p> 
+
+<p>You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase your Special Edition box here</a>, or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">musthave.popsugar.com</a> to learn more.</p>
