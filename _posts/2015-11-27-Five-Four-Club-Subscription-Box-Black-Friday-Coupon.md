@@ -8,14 +8,14 @@ title: Five Four Club Black Friday Coupon - $20 First Month!
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourBlackFridayCoupon.png
+imagefeature: FiveFourClubBlackFridayCoupon.png
 headline: Five Four Club Black Friday Coupon - $20 First Month!
 tags: [Five Four Club, Subscriptions, Coupons]
 date: 2015-11-27 10:23:39 -08:00
 ---
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourBlackFridayCoupon.png" border="0" style="border:none;max-width:100%;" alt="Five Four Club Black Friday Deal" />
+<img src="/images/FiveFourClubBlackFridayCoupon.png" border="0" style="border:none;max-width:100%;" alt="Five Four Club Black Friday Deal" />
 </a></center>
 
 <center><H4>NEW PROMO TODAY ONLY (until 3PM Eastern Time)!</H4></center>
