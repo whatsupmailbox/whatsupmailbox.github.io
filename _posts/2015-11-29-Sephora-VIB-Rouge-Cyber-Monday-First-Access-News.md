@@ -15,7 +15,7 @@ imagefeature: SephoraVIBRougeCyberMondayFirstAccess.png
 date: 2015-11-29 17:10:00 -08:00
 ---
 
-<H4>VIB Rouge members First Access to limited edition gifts!</H4>
+<center><H4>VIB Rouge members First Access to limited edition gifts!</H4></center>
 
 <p>These are very limited quantity gifts that's only available online. Available now for VIB Rouge members only!</p>
 <br>
