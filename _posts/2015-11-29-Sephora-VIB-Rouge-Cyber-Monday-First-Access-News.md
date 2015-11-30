@@ -80,8 +80,6 @@ date: 2015-11-29 17:10:00 -08:00
 <li>How To Glamour Guide</li>
 </ul>
 
-<br>
-
 <p>Semi-Sweet Eye Shadow Collection:</p>
 <ul>
 <li>14 x 0.03 oz Eye shadows in Licorice, Nougat, Truffled, Hot Fudge, Cocoa Chili, Pink Sugar, Puddin', Blueberry Swirl, Peanut Butter, Frosting, Rum Raisin, Mousse, Caramel, Bon Bon </li>
