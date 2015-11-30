@@ -100,7 +100,7 @@ date: 2015-11-29 17:10:00 -08:00
 <ul>
 <li>ghd Arctic Gold gold® professional 1" styler </li>
 <li>Roll bag </li>
-<li>Arctic Gold ghd Air® Professional Performance Hairdryer, </li>
+<li>Arctic Gold ghd Air® Professional Performance Hairdryer </li>
 <li>2 x Arctic White hair clips</li>
 </ul>
 
