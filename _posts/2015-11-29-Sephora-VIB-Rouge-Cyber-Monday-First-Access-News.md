@@ -79,6 +79,7 @@ date: 2015-11-29 17:10:00 -08:00
 <li>2 x 0.10 oz Eye Shadows in White Chocolate, Champagne Truffle</li>
 <li>How To Glamour Guide</li>
 </ul>
+<br>
 
 <p>Semi-Sweet Eye Shadow Collection:</p>
 <ul>
