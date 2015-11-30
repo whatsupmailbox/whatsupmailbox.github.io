@@ -25,5 +25,7 @@ date: 2015-11-30 08:10:00 -08:00
 
 <p>So what are you waiting for, go to <a href="http://refer.julep.com/v2/share/6222844322465489815" target="_blank">www.julep.com</a> and start shopping! ;)</p>
 
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28187" target="_blank"><big>ebates</big></a> to get cashback on your purchase.</p>
+
 <br>
 
