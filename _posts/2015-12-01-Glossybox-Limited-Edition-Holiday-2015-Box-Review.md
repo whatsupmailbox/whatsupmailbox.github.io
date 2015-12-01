@@ -9,7 +9,7 @@ categories:
 tags: [Glossybox, Reviews]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxHoliday2015Items.jpg"
