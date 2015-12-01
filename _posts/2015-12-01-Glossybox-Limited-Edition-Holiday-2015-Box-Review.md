@@ -99,7 +99,7 @@ date: 2015-12-01 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxHoliday2015AerinKaleidolightPalette3.jpg" border="0" style="border:none;max-width:100%;" alt="Aerin Kaleidolight Palette" />
+<img src="/images/GlossyboxHoliday2015AerinKaleidolightPalette4.jpg" border="0" style="border:none;max-width:100%;" alt="Aerin Kaleidolight Palette" />
 </a></center>
 
 <p>A closer look at the colors in the palette. You can use each color individually for your eyes, or sweep your brush through all the colors to add some color and subtle glow to your face.</p>
@@ -109,7 +109,7 @@ date: 2015-12-01 08:19:39 -08:00
 <p>Here's the details on each color:</p>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxHoliday2015AerinKaleidolightPalette3.jpg" border="0" style="border:none;max-width:100%;" alt="Aerin Kaleidolight Palette" />
+<img src="/images/GlossyboxHoliday2015AerinKaleidolightPalette5.jpg" border="0" style="border:none;max-width:100%;" alt="Aerin Kaleidolight Palette" />
 </a></center>
 
 <p>I like the versatility and multi-purpose of this palette, and of course the packaging definitely made this extra special and fancy. Can't wait to use this!</p>
