@@ -242,7 +242,7 @@ date: 2015-12-01 08:19:39 -08:00
       <TD><b><big>$199</big></b></TD>
    </TR>
    <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>Cost</big></i></TD>
       <TD><i><big>$40</big></i></TD>
    </TR>
 </TABLE>
