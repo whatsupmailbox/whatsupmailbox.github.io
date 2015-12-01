@@ -138,7 +138,7 @@ date: 2015-12-01 08:19:39 -08:00
 <DD>Value $19</DD>
 </DL>
 
-<p>I've never heard of this brand before, but I love trying out new products and a black eyeliner is always needed so off this goes to my makeup stash to be used very soon!</p>
+<p>I've never heard of this brand before, but I love trying out new products and a black eyeliner is always needed, so off this goes to my makeup stash to be used very soon!</p>
 
 <br>
 
@@ -172,7 +172,7 @@ date: 2015-12-01 08:19:39 -08:00
 <DD>Value $15</DD>
 </DL>
 
-<p>I love Trust Fund Beauty nail polishes! Not only are they 7-free, cruelty free, non-toxic and vegan, but they also apply really smoothly and last long.</p>
+<p>I love Trust Fund Beauty nail polishes! Not only are they 7-free, cruelty free, non-toxic and vegan, but they also apply really smooth and last long.</p>
 
 <br>
 
@@ -180,7 +180,7 @@ date: 2015-12-01 08:19:39 -08:00
 <img src="/images/GlossyboxHoliday2015TrustFundBeautyChampagneSocialite2.jpg" border="0" style="border:none;max-width:100%;" alt="Trust Fund Beauty Nail Polish in Champagne Socialite" />
 </a></center>
 
-<p>I already have quite a few colors from them, but not this one, so I'm thankful for that. This light rose gold color will go great for the holidays.</p>
+<p>I already have quite a few colors from them, but not this Champagne Socialite one, so I'm thankful for that. It's a light rose gold color that will go great for the holidays.</p>
 
 <br>
 
@@ -193,7 +193,7 @@ date: 2015-12-01 08:19:39 -08:00
 <DD>Value $30</DD>
 </DL>
 
-<p>This mascara is keratin-protein based so it will also nourish your lashes as you wear this. What I found interesting is that it can be cleansed with just warm water, so I'm not sure if this will last long or have a staying power that I need my mascara to be, but it probably will go well if you have lash extensions.</p>
+<p>This mascara is keratin-protein based so it will also nourish your lashes as you wear this. What I found interesting is that it can be cleansed with just warm water, so I'm not sure if this will last long or have the staying power that I need my mascara to be, but it will probably go well for people who have lash extensions, or so they say.</p>
 
 <br>
 
