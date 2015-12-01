@@ -50,8 +50,8 @@ date: 2015-12-01 08:19:39 -08:00
 
 <p>The info card that details items included in the box and their values:</p>
 <figure class="half">
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxHoliday2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxHoliday2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
+            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxHoliday2015Info.jpg" border="0" style="border:none;max-width:50%;" alt="Info Card" /></a>
+            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxHoliday2015Info2.jpg" border="0" style="border:none;max-width:50%;" alt="Info Card" /></a>
             <figcaption>Info card</figcaption>
 </figure>
 
