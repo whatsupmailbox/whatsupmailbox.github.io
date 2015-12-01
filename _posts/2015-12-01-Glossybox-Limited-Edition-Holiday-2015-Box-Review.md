@@ -156,7 +156,7 @@ date: 2015-12-01 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxHoliday2015PureCosmeticsLipgloss.jpg" border="0" style="border:none;max-width:100%;" alt="Pure Cosmetics Lipgloss" />
+<img src="/images/GlossyboxHoliday2015PureCosmeticsLipgloss2.jpg" border="0" style="border:none;max-width:100%;" alt="Pure Cosmetics Lipgloss" />
 </a></center>
 
 <p>Absolutely love the built-in mirror, so convenient. But guess what, not only does it have the mirror, but this lipgloss also lights up when you open the cover, I am blown away! Granted I may not be in a situation where I need to reapply my lipgloss in the dark that often (where was this when I was clubbing in my younger days!), but it's still so cool, totally happy I got this!</p>
