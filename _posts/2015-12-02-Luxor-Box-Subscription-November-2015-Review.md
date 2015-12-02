@@ -179,7 +179,7 @@ date: 2015-12-02 08:05:39 -08:00
 
 <p>I always love a good face wash so I was happy to see this item in the box and I especially appreciate the pump dispenser, makes it so convenient to use and dispense on my Clarisonic brush.</p>
 
-<p>This face wash will help reduce your sun spots and discoloration, as well as refine skin texture and reduce wrinkles. It's sulfate-free and gentle enough to use daily, but just be sure to put on sunscreen during the day if you use this. Any product that reduces sun spots or discoloration, if used during the day should be accompanies with sunscreen or else your spots will just get darker, and we sure don't want that.</p>
+<p>This face wash will help reduce your sun spots and discoloration, as well as refine skin texture and reduce wrinkles. It's sulfate-free and gentle enough to use daily, but just be sure to put on sunscreen during the day if you use this. Any product that reduces sun spots or discoloration, if used during the day should be accompanied with sunscreen or else your spots will just get darker, and we sure don't want that.</p>
 
 <br>
 
