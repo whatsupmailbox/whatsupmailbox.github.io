@@ -9,7 +9,7 @@ categories:
 tags: [Luxor Box, Subscriptions, Reviews, November 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxNov2015Items.jpg"
@@ -185,7 +185,7 @@ date: 2015-12-02 08:05:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Luxor Box is in my good list again after a <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-September-2015-Review/" target="_blank">somewhat disappointing box in September</a>. I loved that they included an ornament, very fitting for the holidays. And the hero item for me was without a doubt the Brandon Blackwood pouch/clutch, just stunning and oh-so useful. The only miss was the necklace, but thankfully the value for that wasn't too high, and even more thankfully it wasn't the big ticket item either. So so happy with everything else. Even with the miss, I think this is probably my favorite box as of yet. Hurray Luxor Box, you've won my heart again. Here's to hoping January's box will be even better (fingers crossed).</p>
 
-<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Currently all subscriptions are sold out, so you will most likely join a waiting list, but don't worry, it typically opens up prior to the next shipment. But be on the lookout, boxes are limited so you'll have to subscribe while supplies last.</p>
+<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is January 2016, but be aware that boxes do get sold out as time gets closer.</p>
 <br>
 
 <TABLE  BORDER="5" style="width:75%">
