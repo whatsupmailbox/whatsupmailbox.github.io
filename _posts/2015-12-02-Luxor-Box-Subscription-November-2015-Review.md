@@ -101,7 +101,7 @@ date: 2015-12-02 08:05:39 -08:00
 <img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch4.jpg" border="0" style="border:none;max-width:100%;" alt="Brandon Blackwood Mini Leather Pouch" />
 </a></center>
 
-<p>It also has a leather keyring that is attached inside, but you can pop it out of the bag as it fits through a small opening even when the pouch is zipped closed.</p>
+<p>It also has a leather keyring that is attached inside. You can either keep it inside, or display it outside of the clutch since you can pop it out of the bag as it fits through a small opening even even when the pouch is zipped closed.</p>
 
 <p>When the spoilers came out for this item, I was like, yeah... ok... doesn't look like anything special. But after feeling the quality of the leather, the neat compartments inside plus the keyring, I think this is a pretty neat and gorgeous clutch!</p>
 
@@ -144,7 +144,7 @@ date: 2015-12-02 08:05:39 -08:00
 
 <br>
 
-<p>You can see the square shape from above more clearly. This bowl actually comes in 4 different sizes, the one subscribers received is the 5" bowl. Knowing that, I may need to purchase the other sizes, who am I kidding, I NEED to purchase the other sizes, pronto!</p>
+<p>You can see the square shape from above more clearly. This bowl actually comes in 4 different sizes, the one subscribers received is the 5" bowl. Knowing that, I may want to purchase the other sizes. Who am I kidding, I NEED to purchase the other sizes, pronto!</p>
 
 <br>
 
