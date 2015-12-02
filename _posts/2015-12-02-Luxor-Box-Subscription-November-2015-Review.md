@@ -27,32 +27,22 @@ date: 2015-12-02 08:05:39 -08:00
 
 <p>This is the fourth shipment from Luxor Box ever since it premiered in May.</p>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box Package" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015Package.jpg"></center>
 <p>Luxor Box ships in unmarked white boxes so that it's safe from prying eyes.</p>
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box Open Package" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015OpenPackage.jpg"></center>
 <p>The Luxor Box is nicely tucked inside and arrives in perfect condition.</p>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015OpenBox.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015OpenBox2.jpg"></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box Info Cards" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015Info.jpg"></center>
 <figcaption>The info cards</figcaption>
 <br>
 
@@ -61,16 +51,12 @@ date: 2015-12-02 08:05:39 -08:00
 <br>
 
 <H4>And here are the items inside:</H4>
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box NOV 2015 Items" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015Items.jpg"></center>
 <br>
 
 <H4>Items in detail:</H4>
 
-<center><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">
-<img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch.jpg" border="0" style="border:none;max-width:100%;" alt="Brandon Blackwood Mini Leather Pouch" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch.jpg"></center>
 
 <DL>
 <DT><b>Brandon Blackwood</b> Mini Leather Pouch</DT>
@@ -81,25 +67,19 @@ date: 2015-12-02 08:05:39 -08:00
 
 <br>
 
-<center><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">
-<img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch2.jpg" border="0" style="border:none;max-width:100%;" alt="Brandon Blackwood Mini Leather Pouch" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch2.jpg"></center>
 
 <p>It features silver filled hardware and lined with premium cotton.</p>
 
 <br>
 
-<center><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">
-<img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch3.jpg" border="0" style="border:none;max-width:100%;" alt="Brandon Blackwood Mini Leather Pouch" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch3.jpg"></center>
 
 <p>It has credit card/ID slots and a snap closure inside for change or other small items.</p>
 
 <br>
 
-<center><a href="http://www.meredithhahn.com/product/tatum-cuff" target="_blank">
-<img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch4.jpg" border="0" style="border:none;max-width:100%;" alt="Brandon Blackwood Mini Leather Pouch" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015BrandonBlackwoodClutch4.jpg"></center>
 
 <p>It also has a leather keyring that is attached inside. You can either keep it inside, or display it outside of the clutch since you can pop it out of the bag as it fits through a small opening even even when the pouch is zipped closed.</p>
 
@@ -107,9 +87,7 @@ date: 2015-12-02 08:05:39 -08:00
 
 <br>
 
-<center><a href="http://www.luxorbox.com/#!become-a-member/cjg" target="_blank">
-<img src="/images/LuxorBoxNov2015JulesSmithNecklace.jpg" border="0" style="border:none;max-width:100%;" alt="Jules Smith Ari Lariat Necklace" />
-</a></center>
+<center><img src="/images/LuxorBoxNov2015JulesSmithNecklace.jpg"></center>
 
 <DL>
 <DT><b>Jules Smith</b> Ari Lariat Necklace</DT>
