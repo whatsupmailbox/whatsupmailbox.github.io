@@ -14,7 +14,7 @@ date: 2015-12-03 07:01:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyDec2015Spoiler.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy December 2015 Glam Bag" />
+<img src="/images/IpsyDec2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Ipsy December 2015 Glam Bag" />
 </a></center>
 
 <p>A bright red bag design is coming this month, of course! It goes with the holiday/Christmas theme, I actually like it.</p>
