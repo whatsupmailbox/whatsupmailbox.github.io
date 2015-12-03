@@ -17,7 +17,7 @@ date: 2015-12-03 11:19:39 -08:00
 ---
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3">
-<img src="/images/GlossyboxDec2015GWP.jpeg" border="0" style="border:none;max-width:100% /></a></center>
+<img src="/images/GlossyboxDec2015GWP.jpeg" border="0" style="border:none;max-width:100%" /></a></center>
 
 <p>Get a FREE Face Stockholm Lip Liner ($17 value) with any new subscription. MUST use coupon code <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"><b>"HOLIDAYLIPS"</b></a>.</p> 
 
