@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Glossybox December Free Gift with Subscription!"
+title: "Glossybox Free Gift with Subscription!"
 description: ""
-headline: "Glossybox December Free Gift with Subscription!"
+headline: "Glossybox Free Gift with Subscription!"
 categories: 
       - Subscriptions
       - Coupons
