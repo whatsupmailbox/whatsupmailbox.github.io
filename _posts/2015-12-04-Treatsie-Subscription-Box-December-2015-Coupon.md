@@ -28,5 +28,5 @@ date: 2015-12-04 06:40:39 -08:00
 <p><b>What's in the box:</b> Gourmet sweets and snacks from vendors all over the country. Boxes ship the week after the 15th.</p>
 
 <p>Interested in subscribing? Visit <a href="http://fbuy.me/co5XW" target="_blank">www.treatsie.com</a> for more info or to <a href="http://fbuy.me/co5XW" target="_blank">subscribe</a>.</p>
-<p><i class="icon-arrow-right"></i><a href="http://whatsupmailbox.com/subscriptions/reviews/Treatsie-Subscription-Box-Review-June-2105/" target="_blank">Checkout my Treatsie Box June 2015 review</a>.</p>
+<p><i class="icon-arrow-right"></i><a href="http://whatsupmailbox.com/subscriptions/reviews/Treatsie-Subscription-Box-Review-June-2105/" target="_blank"> Checkout my Treatsie Box June 2015 review</a>.</p>
 
