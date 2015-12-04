@@ -11,7 +11,7 @@ type: photo
 imagefeature: TreatsieSamplePicture.jpeg
 headline: Treatsie Coupon 60% Off First Box!
 tags: [Treatsie, Subscriptions, Coupons, December 2015]
-date: 2015-11-04 06:40:39 -08:00
+date: 2015-12-04 06:40:39 -08:00
 ---
 
 <center><img src='/images/TreatsieSamplePicture.jpeg'></center>
