@@ -68,7 +68,7 @@ date: 2015-12-04 08:05:39 -08:00
 <figcaption>Color: Bird Fling</figcaption>
 <br>
 
-<p>Bird Fling is a hot and bright red color with a "high gloss creme" finish. A great staple to have in your nail polish collection.</p>
+<p><b>Bird Fling</b> is a hot and bright red color with a "high gloss creme" finish. A great staple to have in your nail polish collection.</p>
 
 <br>
 
@@ -77,7 +77,7 @@ date: 2015-12-04 08:05:39 -08:00
 
 <br>
 
-<p>Olympiad 2018 is a light gold color with a "foil" finish. I think this color will go great for the holidays. Gold nails are a perfect accessory to a little black dress ;)</p>
+<p><b>Olympiad 2018</b> is a light gold color with a "foil" finish. I think this color will go great for the holidays. Gold nails are a perfect accessory to a little black dress ;)</p>
 
 <br>
 
@@ -86,7 +86,7 @@ date: 2015-12-04 08:05:39 -08:00
 
 <br>
 
-<p>Baby, Baby, Baby 2010 is a purple metallic color with a "micro shimmer" finish. I'm not too sure if I'm in love with this color yet (still deciding), but it does look cool, just not as great on my olive skin tone. I tend to avoid anything in the purple color family. So, although it's a unique color to receive, I think I'll be gifting this to someone who will appreciate it more (and look better with it too!).</p>
+<p><b>Baby, Baby, Baby 2010</b> is a purple metallic color with a "micro shimmer" finish. I'm not too sure if I'm in love with this color yet (still deciding), but it does look cool, just not as great on my olive skin tone. I tend to avoid anything in the purple color family. So, although it's a unique color to receive, I think I'll be gifting this to someone who will appreciate it more (and look better with it too!).</p>
 
 <br>
 
