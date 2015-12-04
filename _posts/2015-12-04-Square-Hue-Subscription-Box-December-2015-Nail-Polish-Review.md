@@ -9,7 +9,7 @@ categories:
 tags: [Square Hue, Subscriptions, Reviews, December 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SquareHueDec2015Items.jpg"
