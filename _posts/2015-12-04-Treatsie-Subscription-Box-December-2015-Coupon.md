@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Coupons
@@ -14,11 +14,13 @@ tags: [Treatsie, Subscriptions, Coupons, December 2015]
 date: 2015-12-04 06:40:39 -08:00
 ---
 
-<center><img src='/images/TreatsieSamplePicture.jpeg'></center>
+<center><a href="http://fbuy.me/co5XW" target="_blank">
+<img src="/images/TreatsieSamplePicture.jpeg" border="0" style="border:none;max-width:100%;" alt="Treatsie Subscription Box" />
+</a></center>
 
-<p><center><H4>Get your first box for 60% off with coupon code <a href="http://fbuy.me/co5XW" target="_blank">FIRSTBOX60</a></H4></center></p>
+<center><H4>Get your first box for 60% off with coupon code <a href="http://fbuy.me/co5XW" target="_blank">FIRSTBOX60</a></H4></center>
 <p><center><big>OR</big></center></p> 
-<p><center><H4>subscribe and get double the treats by using coupon code <a href="http://fbuy.me/co5XW" target="_blank">FRBUCO01</a>.</H4></p>
+<center><H4>subscribe and get double the treats by using coupon code <a href="http://fbuy.me/co5XW" target="_blank">FRBUCO01</a>.</H4>
 
 <H2>What's Treatsie?</H2>
 <p><b>Subscription:</b> <a href="http://fbuy.me/co5XW" target="_blank">Treatsie</a></p>
