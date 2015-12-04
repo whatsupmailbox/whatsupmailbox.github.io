@@ -20,7 +20,7 @@ date: 2015-12-04 06:40:39 -08:00
 
 <center><H4>Get your first box for 60% off with coupon code <a href="http://fbuy.me/co5XW" target="_blank">FIRSTBOX60</a></H4></center>
 <p><center><big>OR</big></center></p> 
-<center><H4>subscribe and get double the treats by using coupon code <a href="http://fbuy.me/co5XW" target="_blank">FRBUCO01</a>.</H4>
+<center><H4>subscribe and get double the treats by using coupon code <a href="http://fbuy.me/co5XW" target="_blank">FRBUCO01</a>.</H4></center>
 
 <H2>What's Treatsie?</H2>
 <p><b>Subscription:</b> <a href="http://fbuy.me/co5XW" target="_blank">Treatsie</a></p>
