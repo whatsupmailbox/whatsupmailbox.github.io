@@ -26,7 +26,7 @@ date: 2015-12-08 07:10:00 -08:00
 <H4>And here are the items inside my Sephora Cyber Monday Mystery Bag:</H4>
 <center><img src="/images/SephoraCyberMonday2015GWPItems.jpg"></center>
 
-<p>As you can see, there's a lot of sample packets which I'm not a big fan of, they never have enough product to really make a difference and for me to decide if it works or not. That's just me.</p>
+<p>As you can see, there's a lot of sample packets which I'm not a big fan of, they never have enough product to really make a difference and for me to decide if it works or not. But that's just me.</p>
 
 <p>Here's a closer look at the samples I got:</p>
 
