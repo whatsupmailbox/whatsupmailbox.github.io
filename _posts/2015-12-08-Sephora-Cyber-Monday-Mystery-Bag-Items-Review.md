@@ -52,4 +52,4 @@ date: 2015-12-08 07:10:00 -08:00
 
 <br>
 
-<p>My Thoughts: To be honest, I was quite disappointed with the items. To be really honest, I'm kinda pissed. But hey, it's a gamble and everyone received something different. They were displaying pictures of Glamglow, Make Up Forever and Becca items to name a few, which by the way I got none of them. Instead I received a bunch of sample packets and a Sephora eyeshadow, mascara and face mask, sigh.</p>
+<p>My Thoughts: To be honest, I was quite disappointed with the items. To be really honest, I'm kinda pissed. But hey, it's a mystery bag and there are so many variations of what people got that it's kind of a lottery. I must say though that they were displaying pictures of Glamglow, Make Up Forever and Becca items to name a few, which by the way I got none of them, so it was kind of misleading (at least for me). Instead I received a bunch of sample packets and a Sephora eyeshadow, mascara and face mask, sigh. Needless to say, this GWP was a dud, I honestly won't be using anything at all from this bag, absolutely nothing!</p>
