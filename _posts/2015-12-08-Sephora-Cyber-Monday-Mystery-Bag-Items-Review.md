@@ -1,10 +1,10 @@
 ---
 layout: post
 published: true
-title: "Sephora Cyber Monday Mystery Bag Items"
+title: "Sephora Cyber Monday Mystery Bag GWP Items"
 featured: false
 comments: true
-headline: "Sephora Cyber Monday Mystery Bag Items"
+headline: "Sephora Cyber Monday Mystery Bag GWP Items"
 categories: 
   - Products
   - Reviews
