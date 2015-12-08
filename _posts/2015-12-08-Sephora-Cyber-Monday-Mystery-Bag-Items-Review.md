@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sephora Cyber Monday Mystery Bag Items"
 featured: false
 comments: true
