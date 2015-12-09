@@ -17,7 +17,7 @@ date: 2015-12-09 17:05:39 -08:00
 ---
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
-<img src="/images/LuxorBoxDec2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box December 2015 Special Edition Package" />
+<img src="/images/LuxorBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Luxor Box" />
 </a></center>
 <br>
 
