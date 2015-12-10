@@ -11,7 +11,7 @@ categories:
   - Reviews
 headline: Box of Style Fall 2015 Review + $10 Coupon!
 description: "by Rachel Zoe"
-tags: [Box Of Style, Subscriptions, Reviews, September 2015]
+tags: [Box of Style, Subscriptions, Reviews, September 2015]
 date: 2015-09-10 09:01:39 -08:00
 ---
 
