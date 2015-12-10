@@ -34,20 +34,20 @@ date: 2015-12-09 17:05:39 -08:00
 
 <p>So let's get on to unboxing this beauty!</p>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionPackage.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionPackage.jpg"></center>
 <p>They shipped with their typical white boxes that they use for their subscription boxes. White and unmarked, making it safe from prying eyes.</p>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionOpenPackage.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionOpenPackage.jpg"></center>
 <p>The box is nicely tucked inside and arrives in perfect condition.</p>
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionOpenBox.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionOpenBox.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionOpenBox2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionOpenBox2.jpg"></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 <p>I see the clutch, I see the clutch, yay!!!</p>
@@ -62,7 +62,7 @@ date: 2015-12-09 17:05:39 -08:00
 <br>
 
 <H4>And here are the items inside:</H4>
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionItems.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionItems.jpg"></center>
 <br>
 
 <p>How gorgeous is all that! I am beyond excited... this is gonna be amazing.</p>
