@@ -145,12 +145,12 @@ date: 2015-12-10 09:10:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy with the items I received this month. The mask fit my skin's needs to the tee and my favorite find is hands down the Serge Normant volumizing spray. The eyeshadow palette and blush, although tiny, are much appreciated as well and I will be using them nevertheless. Plus I received a $10 off a $35 purchase coupon, which like all other coupons they ever sent me, will be used. Time to review my products in my Birchbox account so I can receive $5 back!</p>
 
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">CURLGWS</a> to receive a free luxe Eyeko Black Magic Lash Curler (an $18 value!) when you join Birchbox.</p>
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subsribe to Birchbox.</p>
 
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxNov2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
+<img src="/images/BirchboxDec2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
 </a></center>
 
 <br>
