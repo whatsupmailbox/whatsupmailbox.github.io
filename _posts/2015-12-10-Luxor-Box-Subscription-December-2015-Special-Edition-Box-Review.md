@@ -12,7 +12,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "LuxorBoxDecember2015SpecialEditionItems.jpg"
+imagefeature: "LuxorBoxDec2015SpecialEditionItems.jpg"
 date: 2015-12-10 09:05:39 -08:00
 ---
 
