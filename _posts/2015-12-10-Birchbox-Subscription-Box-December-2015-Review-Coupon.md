@@ -31,8 +31,17 @@ date: 2015-12-10 09:10:39 -08:00
 <img src="/images/BirchboxDec2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox December 2015 Box" />
 </a></center>
 
-<p>The it was time for sample selections last month, I decided not to select any and just let Birchbox surprise me. So I'm eager to see what I got.</p>
+<p>When it was time for sample selections last month, I decided not to select any and just let Birchbox surprise me. So I'm eager to see what I got.</p>
+
+<p>For reference, here's the sample choice you could choose last month for this box:</p>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxDec2015SampleChoice.png" border="0" style="border:none;max-width:100%;" alt="Birchbox December 2015 Sample Choice" />
+</a></center>
+
 <br>
+
+<p>And on to unboxing picture...</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxDec2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
@@ -40,7 +49,7 @@ date: 2015-12-10 09:10:39 -08:00
 <figcaption>First Look at Unboxing</figcaption>
 <br>
 
-<p>A $10 offer is immediately seen and that's already a good sign. I forsee more shopping on <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">birchbox.com</a>! =D</p>
+<p>A $10 offer is immediately seen and that's already a good sign. I forsee more shopping on <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">birchbox.com</a> in the near future! =D</p>
 
 <br>
 
@@ -64,7 +73,7 @@ date: 2015-12-10 09:10:39 -08:00
 <img src="/images/BirchboxDec2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox November 2015 Items!" /></a></center></p>
 <br>
 
-<p>I received 5 items this month and I'm not sure if it's because I chose not to select my sample last month, but I ended up receiving 2 of the items listes in their sample choices, how awesome!</p>
+<p>I received 5 items this month and I'm not sure if it's because I chose not to select my sample last month, but I ended up receiving 2 of the items listed in their sample choices, how awesome is that!</p>
 <br>
 
 <H4>Items in detail:</H4>
