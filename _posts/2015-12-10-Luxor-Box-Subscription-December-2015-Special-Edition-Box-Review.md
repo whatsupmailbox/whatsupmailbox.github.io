@@ -25,7 +25,7 @@ date: 2015-12-10 09:05:39 -08:00
 <p><b>Cost:</b> $175 to the US, $195 to Canada + Free shipping.</p>
 <p><b>What's in the box:</b> 6 unique luxurious gifts that have a total value of $500+!</p>
 
-<p>When I heard that this Special Edition box would include a 1951 Maison Francaise clutch, I immediately went online and purchased one, it was like I was in a race to buy this box and checkout before it gets sold out. My fingers never typed so fast. #truestory</p>
+<p>When I heard that this Special Edition box would include a 1951 Maison Francaise clutch, I immediately went online and purchased one. It was like I was in a race to buy this box and checkout before it gets sold out. My fingers never typed so fast. #truestory</p>
 
 <p>They offered different clutches to choose from to be included in the box:</p>
 <center><img src="/images/LuxorBoxSE20151951MaisonFrancaise.png"></center>
