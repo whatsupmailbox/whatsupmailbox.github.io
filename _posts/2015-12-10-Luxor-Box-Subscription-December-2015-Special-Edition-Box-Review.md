@@ -53,7 +53,7 @@ date: 2015-12-10 09:05:39 -08:00
 <p>Hello 1951 Maison Française! You were the main reason I bought this box!!</p>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionInfoCards.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionInfoCards.jpg"></center>
 <figcaption>The info cards</figcaption>
 <br>
 
