@@ -184,7 +184,7 @@ date: 2015-12-10 09:05:39 -08:00
 <figcaption>The packaging in open position</figcaption>
 <br>
 
-<p>I love how the cards are housed in a neat package. I'm all about organization so this was totally appreciated. It's a pretty sturdy and gorgeous looking case too so it would be a great gift as well.</p>
+<p>I love how the cards are housed in a neat package. I'm all about organization so this was totally appreciated. It's a pretty sturdy and gorgeous looking case too so it can be gifted as well.</p>
 
 <br>
 
