@@ -71,7 +71,7 @@ date: 2015-12-10 09:05:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEdition1951MaisonFrancaiseClutch.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEdition1951MaisonFrancaiseClutch.jpg"></center>
 
 <DL>
 <DT><b>1951 Maison Française</b> Large Clutch in Tigre</DT>
@@ -83,13 +83,13 @@ date: 2015-12-10 09:05:39 -08:00
 <p>Note that this is the Large size which is smaller than the ones that were in the Oui Please box, those were XL size. It measures approximately 9" x 5.5".</p>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEdition1951MaisonFrancaiseClutch2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEdition1951MaisonFrancaiseClutch2.jpg"></center>
 <p>Inside you can see their trademark 100% cotton red lining with white polka dots, and of course the 1951 branding.</p>
 <p>I am in love with my clutch and can't wait to wear it!</p>
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionDeepaGurnani.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionDeepaGurnani.jpg"></center>
 
 <DL>
 <DT><b>Deepa Gurnani</b> Claire Fantasy Flower Skinny Cuff</DT>
@@ -102,27 +102,27 @@ date: 2015-12-10 09:05:39 -08:00
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionDeepaGurnani2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionDeepaGurnani2.jpg"></center>
 
 <p>I'm always wary when I receive bracelets because I have such a petite sized wrist, but I'm so glad this is adjustable!</p>
 
 <br>
 
 <p>Here's a look at the bracelet on my wrist:</p>
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionDeepaGurnani3.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionDeepaGurnani3.jpg"></center>
 
 <p>I like how it looks on me, I can totally wear this to add a bit of sparkle on days when I decide to go casual.</p>
 
 <br>
 
 <p>And here's a look at the back of the bracelet on my wrist:</p>
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionDeepaGurnani4.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionDeepaGurnani4.jpg"></center>
 
 <p>You can see the adjustable beaded tassle fastening on the back. I like the tassle, I think it adds to the overall boho chic look.</p>
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionJesseCoCatchall.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionJesseCoCatchall.jpg"></center>
 <DL>
 <DT><b>Jesse & Co</b> Hope & Love Catchall</DT>
 <DD>Value $130</DD>
@@ -132,13 +132,13 @@ date: 2015-12-10 09:05:39 -08:00
 <br>
 
 <p>A closer look at the tray:</p>
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionJesseCoCatchall2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionJesseCoCatchall2.jpg"></center>
 
 <p>In case you're wondering, the sides do not unclasp, it's permanently shaped that way so you can lay it flat. I already have one that's able to do that for traveling purposes, so this will permanently stay next to my bed!</p>
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionTatcha.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionTatcha.jpg"></center>
 
 <DL>
 <DT><b>Tatcha</b> Polished Rice Enzyme Powder</DT>
@@ -151,7 +151,7 @@ date: 2015-12-10 09:05:39 -08:00
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionGraphicImageNotebook.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionGraphicImageNotebook.jpg"></center>
 
 <DL>
 <DT><b>Graphic Image</b> 2016 Notebook</DT>
@@ -161,12 +161,12 @@ date: 2015-12-10 09:05:39 -08:00
 <p>What a beautiful planner. It's bound in rose gold leather and the size is just right at 5" x 7", not too small and not too large.</p>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionGraphicImageNotebook2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionGraphicImageNotebook2.jpg"></center>
 <p>It includes a weekly schedule plus a full page of notes on the opposite page. It also has month view and some useful maps on the back pages for travel purposes. I love it and can't wait to use it next year. It'll be one of my new year's resolution, to better manage my time! =)</p>
 
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionEInviteCards.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionEInviteCards.jpg"></center>
 <DL>
 <DT><b>eInvite</b> "Hello" Correspondence Cards</DT>
 <DD>8 cards & envelopes, Value $29.95</DD>
@@ -175,11 +175,11 @@ date: 2015-12-10 09:05:39 -08:00
 <p>These cards feel and look luxurious. It's made with thick cream card stock, with a second layer in gold Lustre paper creating a thickness that feels quality. It has a "hello..." greeting in raised gold ink that will surely be useful for any type of correspondence. Included are cream envelopes that are hand-lined with Italian-imported Vintage paper.</p>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionEInviteCards2.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionEInviteCards2.jpg"></center>
 <figcaption>The case/packaging of the cards</figcaption>
 <br>
 
-<center><img src="/images/LuxorBoxDecember2015SpecialEditionEInviteCards3.jpg"></center>
+<center><img src="/images/LuxorBoxDec2015SpecialEditionEInviteCards3.jpg"></center>
 <figcaption>The packaging in open position</figcaption>
 <br>
 
