@@ -78,14 +78,14 @@ date: 2015-12-10 09:05:39 -08:00
 <DD>Value $130 (the stated value includes additional customs and shipping fee from France)</DD>
 </DL>
 
-<p>This clutch is made from genuine cowhide leather. It includes an attachable gold shoulder chain strap and dust cover. You can attach the gold chain to use it as a crossbody, or use without as a clutch.</p>
+<p>I purchased this box exclusively to obtain this clutch and I'm sure most people who bought it also had the same motive. It's highly coveted and is extremely popular in the swap world! This clutch is made from genuine cowhide leather. It includes an attachable gold shoulder chain strap and dust cover. You can attach the gold chain to use it as a crossbody, or use without as a clutch. And of course, as the name suggests, it's made in France.</p>
 
 <p>Note that this is the Large size which is smaller than the ones that were in the Oui Please box, those were XL size. It measures approximately 9" x 5.5".</p>
 <br>
 
 <center><img src="/images/LuxorBoxDec2015SpecialEdition1951MaisonFrancaiseClutch2.jpg"></center>
 <p>Inside you can see their trademark 100% cotton red lining with white polka dots, and of course the 1951 branding.</p>
-<p>I am in love with my clutch and can't wait to wear it!</p>
+<p>I am in love with my clutch, it's just gorgeous and I can't wait to <strike>wear</strike> show it off!</p>
 
 <br>
 
