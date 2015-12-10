@@ -184,7 +184,7 @@ date: 2015-12-10 09:05:39 -08:00
 <figcaption>The packaging in open position</figcaption>
 <br>
 
-<p>I love how the cards are housed in a neat package. I'm all about organization so this was totally appreciated. It's a pretty sturdy and gorgeous looking case too so it can be gifted as well.</p>
+<p>I love how the cards are housed in a neat package. I'm all about organization so this was totally appreciated. It's a pretty sturdy and gorgeous looking case too, so it can be gifted as well.</p>
 
 <br>
 
@@ -196,41 +196,41 @@ date: 2015-12-10 09:05:39 -08:00
 <TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
+         <H3><BR><center>Luxor Box December 2015 Special Edition Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Brandon Blackwood Leather Pouch</TD>
-      <TD>$265</TD>
+      <TD>1951 Maison Française Large Clutch</TD>
+      <TD>$130</TD>
    </TR>
   <TR>
-      <TD>Jules Smith Necklace</TD>
-      <TD>$45</TD>
+      <TD>Deepa Gurnani Bracelet</TD>
+      <TD>$90</TD>
    </TR>
    <TR>
-      <TD>Mary Jurek Bowl</TD>
-      <TD>$50</TD>
+      <TD>Jesse & Co Leather Catchall</TD>
+      <TD>$130</TD>
    </TR>
     <TR>
-      <TD>Mary Jurek Holiday Ornament</TD>
-      <TD>$25</TD>
+      <TD>Tatcha Rice Powder Cleanser</TD>
+      <TD>$65</TD>
    </TR>
     <TR>
-      <TD>Painted Earth Eye Treatment</TD>
-      <TD>$32.50</TD>
+      <TD>Graphic Image Leather Planner</TD>
+      <TD>$70</TD>
    </TR>
     <TR>
-      <TD>Painted Earth Face Wash</TD>
-      <TD>$27</TD>
+      <TD>eInvite Correspondence Cards</TD>
+      <TD>$29.95</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$444.50</big></b></TD>
+      <TD><b><big>$514.95</big></b></TD>
    </TR>
    <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$125</big></i></TD>
+      <TD><i><big>Cost</big></i></TD>
+      <TD><i><big>$175</big></i></TD>
    </TR>
 </TABLE>
