@@ -138,14 +138,15 @@ date: 2015-12-10 09:05:39 -08:00
 
 <br>
 
-<center><img src="/images/LuxorBoxDec2015SpecialEditionTatcha.jpg"></center>
-
+<center><img src="/images/PopsugarSEFall2015Face2.jpg"></center>
+<center><img src="/images/PopsugarSEFall2015Face3.jpg"></center>
+<center><img src="/images/PopsugarSEFall2015Face.jpg"></center>
 <DL>
 <DT><b>Tatcha</b> Polished Rice Enzyme Powder</DT>
 <DD>Value $65</DD>
 </DL>
 
-<p>I've received this from past subscription boxes (this will be the third jar I've received), but I'm happy to have it again because they are truly amazing. This rice powder is a cleanser that is water-activated. So you wet your palms with a bit of water, then dispense some of the powder onto your palms and voila, you get a creamy lather that is ready to be massaged onto your face to achieve a glowing and radiant skin.</p>
+<p>I've received this before from the Popsugar Special Edition Fall 2015 Box, but I'm happy to have it again because they are truly amazing. This rice powder is a cleanser that is water-activated. So you wet your palms with a bit of water, then dispense some of the powder onto your palms and voila, you get a creamy lather that is ready to be massaged onto your face to achieve a glowing and radiant skin.</p>
 
 <p>"Nourishing Japanese rice bran blends with papaya extracts to address fine lines, uneven skintone, hyperpigmentation, and breakouts. Crushed pearl conditions and balances skin while natural exfoliants gently buff away dullness and dead skin cells."</p>
 
