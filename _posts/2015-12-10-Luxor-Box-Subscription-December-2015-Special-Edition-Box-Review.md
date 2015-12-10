@@ -96,7 +96,7 @@ date: 2015-12-10 09:05:39 -08:00
 <DD>Value $90</DD>
 </DL>
 
-<p>I think I've received a different type of accesory from this brand every month from different subscription boxes. They must all be fans of her accesory line, such a coincidence. Either way, I'm happy it's a bracelet and not another headband or necklace, at least it's something new!</p>
+<p>I think I've received a different type of accesory from this brand in the past 3 months from different subscription boxes. They must all be fans of her accesory line, such a coincidence. Either way, I'm happy it's a bracelet and not another headband or necklace, at least it's something new!</p>
 
 <p>Like most of her accesories, the style or look is that of boho chic with a dazzling touch of glam. I like it because it's not too gaudy and yet still manages to glamour up your look without overdoing it. I can use this bracelet to either dress up or down.</p>
 
