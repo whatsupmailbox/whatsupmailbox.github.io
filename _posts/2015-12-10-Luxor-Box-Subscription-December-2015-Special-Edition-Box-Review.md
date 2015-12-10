@@ -146,7 +146,7 @@ date: 2015-12-10 09:05:39 -08:00
 <DD>Value $65</DD>
 </DL>
 
-<p>I've received this before from the Popsugar Special Edition Fall 2015 Box, but I'm happy to have it again because they are truly amazing. This rice powder is a cleanser that is water-activated. So you wet your palms with a bit of water, then dispense some of the powder onto your palms and voila, you get a creamy lather that is ready to be massaged onto your face to achieve a glowing and radiant skin.</p>
+<p>I've received this before from the <a href="http://whatsupmailbox.com/products/reviews/Popsugar-Must-Have-Special-Edition-Fall-2015-Box-Review/" target="_blank">Popsugar Special Edition Fall 2015 Box</a>, but I'm happy to have it again because they are truly amazing. This rice powder is a cleanser that is water-activated. So you wet your palms with a bit of water, then dispense some of the powder onto your palms and voila, you get a creamy lather that is ready to be massaged onto your face to achieve a glowing and radiant skin.</p>
 
 <p>"Nourishing Japanese rice bran blends with papaya extracts to address fine lines, uneven skintone, hyperpigmentation, and breakouts. Crushed pearl conditions and balances skin while natural exfoliants gently buff away dullness and dead skin cells."</p>
 
