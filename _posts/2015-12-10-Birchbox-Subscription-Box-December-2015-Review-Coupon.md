@@ -22,7 +22,7 @@ date: 2015-12-10 09:10:39 -08:00
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subscribe to Birchbox!
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subscribe to Birchbox. OR, <a href="http://fbuy.me/df02-" target="_blank">subscribe through this link</a> to receive 50% off your first box, that brings the cost down to only $5!
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
