@@ -128,13 +128,13 @@ date: 2015-12-10 09:05:39 -08:00
 <DD>Value $130</DD>
 </DL>
 
-<p>This leather valet tray/cathcall looks gorgeous. It's made in America with the finest Italian leather, embossed with the positive words of Hope & Love, and to top it off, it's accented with 14kt gold finished closures. Yes, yes, yes! I'm in love with this! I can't wait to throw all my knick knacks in here.</p>
+<p>This leather valet tray/cathcall looks gorgeous. It's made in America with the finest Italian leather, embossed with the positive words of Hope & Love. And to top it off, it's accented with 14kt gold finished closures. Yes, yes, yes! I'm in love with this! I can't wait to throw all my knick knacks in here.</p>
 <br>
 
 <p>A closer look at the tray:</p>
 <center><img src="/images/LuxorBoxDec2015SpecialEditionJesseCoCatchall2.jpg"></center>
 
-<p>In case you're wondering, the sides do not unclasp, it's permanently shaped that way so you can lay it flat. I already have one that's able to do that for traveling purposes, so this will permanently stay next to my bed!</p>
+<p>In case you're wondering, the sides don't unclasp, it's permanently shaped that way so you can't lay it flat. I already have one that's able to do that for traveling purposes, so this will permanently stay next to my bed!</p>
 
 <br>
 
