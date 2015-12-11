@@ -9,7 +9,7 @@ title: Birchbox December 2015 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxNov2015Items.jpg
+imagefeature: BirchboxDec2015Items.jpg
 headline: Birchbox December 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, Coupons, December 2015]
 date: 2015-12-11 09:00:00 -08:00
