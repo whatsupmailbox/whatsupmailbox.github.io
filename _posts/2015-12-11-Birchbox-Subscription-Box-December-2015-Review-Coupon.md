@@ -73,7 +73,7 @@ date: 2015-12-11 09:00:00 -08:00
 <H4>And here are my Birchbox December 2015 items:</H4>
 
 <p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox November 2015 Items!" /></a></center></p>
+<img src="/images/BirchboxDec2015Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox December 2015 Items!" /></a></center></p>
 <br>
 
 <p>I received 5 items this month and I'm not sure if it's because I chose not to select my sample last month, but I ended up receiving 2 of the items listed in their sample choices, how awesome is that!</p>
