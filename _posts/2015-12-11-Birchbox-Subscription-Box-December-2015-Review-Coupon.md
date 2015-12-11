@@ -4,6 +4,7 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
+    - Coupons
 title: Birchbox December 2015 Review + Coupon!
 featured: false
 comments: true
@@ -11,7 +12,7 @@ type: photo
 imagefeature: BirchboxNov2015Items.jpg
 headline: Birchbox December 2015 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, Coupons, December 2015]
-date: 2015-12-10 09:10:39 -08:00
+date: 2015-12-11 09:10:39 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -133,7 +134,7 @@ date: 2015-12-10 09:10:39 -08:00
 
 <p>I'm always down for bigger and fuller hair. Unfortunately I wasn't born with it, so I welcome all the tools to help me achieve that.</p>
 
-<p>I sprayed this on my dry hair and it did give me some volume without doing much. I have really long hair so the heavy weight might play a part in decreasing the volume. I'm guessing if you have short hair you might achieve much more volume. Either way, I'm loving this spray and I may need to purchase the full bottle using the coupon included in this box, how convenient.</p>
+<p>I sprayed this on my dry hair and it did give me some volume without doing much. I have really long hair so the heavy weight might play a part in decreasing the volume. I'm guessing if you have short hair you might achieve much more volume. Either way, I'm loving this spray, so much that I purchased the full size right away and I used the $10 coupon included in this box too, how convenient!</p>
 
 <br>
 
@@ -146,13 +147,13 @@ date: 2015-12-10 09:10:39 -08:00
 <DD>Sample Size, Value $6</DD>
 </DL>
 
-<p>I received a bronzer sample from theBalm before in the same exact size and style of packaging. It is tiny so I'm not sure if I can use this effectively as I do tend to use big blush brushes. But I guess I can use my fingers or a small contouring brush, that should work.</p>
+<p>I received a bronzer sample from theBalm before in the same exact size and style of packaging. It is tiny so I'm not sure if I can use this effectively as I do tend to use big blush brushes. But I guess I can use my fingers or a small contouring brush, that should do the trick.</p>
 
-<p>The color of this blush a light pink rose that has a very slight shimmer to give you that natural glow look.</p>
+<p>The color of this blush is a light pink rose that has a slight shimmer to give you that natural glow look.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy with the items I received this month. The mask fit my skin's needs to the tee and my favorite find is hands down the Serge Normant volumizing spray. The eyeshadow palette and blush, although tiny, are much appreciated as well and I will be using them nevertheless. Plus I received a $10 off a $35 purchase coupon, which like all other coupons they ever sent me, will be used. Time to review my products in my Birchbox account so I can receive $5 back!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy with the items I received this month. The mask fits my skin's needs to the tee and my favorite find is hands down the Serge Normant volumizing spray. The eyeshadow palette and blush, although tiny, are much appreciated as well and I will be using them nevertheless. Plus I received a $10 off a $35 purchase coupon, which like all other coupons they ever sent me, <strike>will be used</strike> has been used. Time to review my products in my Birchbox account so I can receive $5 back, which equals to more shopping!</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subsribe to Birchbox.</p>
 
@@ -167,29 +168,29 @@ date: 2015-12-10 09:10:39 -08:00
 <TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
+         <H3><BR><center>My Birchbox DEC 2015 Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>LOC One & Done Shadow Stick</TD>
+      <TD>MALIN+GOETZ Clarifying Clay Mask</TD>
       <TD>$10</TD>
    </TR>
    <TR>
-      <TD>Shiseido Ultimune Eye Concentrate</TD>
+      <TD>Yu-be Moisturizing Cream</TD>
       <TD>$21.67</TD>
    </TR>
     <TR>
-      <TD>Jouer Lip Enhancer</TD>
+      <TD>Coastal Scents styleEYES Eyeshadow Palette</TD>
       <TD>$7.20</TD>
    </TR>
     <TR>
-      <TD>Living Proof Dry Shampoo</TD>
+      <TD>Serge Normant Volumizing Dry Spray</TD>
       <TD>$12</TD>
    </TR>
     <TR>
-      <TD>Avène Hydrance Hydrating Serum</TD>
+      <TD>theBalm FratBoy Blush</TD>
       <TD>$6</TD>
    </TR>
    <TR>
