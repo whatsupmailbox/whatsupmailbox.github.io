@@ -32,7 +32,9 @@ date: 2015-12-11 09:10:39 -08:00
 <img src="/images/BirchboxDec2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox December 2015 Box" />
 </a></center>
 
-<p>When it was time for sample selections last month, I decided not to select any and just let Birchbox surprise me. So I'm eager to see what I got.</p>
+<p>This month's box design is festive and wintery, appropriate for December. I think it's a bit lackluster though and kind of blah, but that's just my opinion and personal taste.</p>
+
+<p>When it was time for sample selections last month, I decided not to select any and just let Birchbox surprise me. So I'm at least eager to see what I got in this box.</p>
 
 <p>For reference, here's the sample choice you could choose last month for this box:</p>
 
@@ -42,7 +44,7 @@ date: 2015-12-11 09:10:39 -08:00
 
 <br>
 
-<p>And on to unboxing picture...</p>
+<p>And on to unboxing...</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxDec2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
@@ -80,12 +82,12 @@ date: 2015-12-11 09:10:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015MalinGoetzMask.jpg" border="0" style="border:none;max-width:100%;" alt="(MALIN+GOETZ) Clarifying Clay Mask & Yu-Be Skin Cream" />
+<img src="/images/BirchboxDec2015YuBeMalinGoetz.jpg" border="0" style="border:none;max-width:100%;" alt="(MALIN+GOETZ) Clarifying Clay Mask & Yu-Be Skin Cream" />
 </a></center>
 
 <DL>
 <DT>(MALIN+GOETZ) Clarifying Clay Mask</DT>
-<DD>Deluxe Sample Size 15ml, Value $6 </DD>
+<DD>Deluxe Sample Size 15ml, Value $7.20 </DD>
 </DL>
 
 <p>This mask treats oiliness and blemishes. Formulated for acne-prone skin but safe enough for sensitive, it contains refined kaolin clay to help absorb excess oil and draw out impurities, plus pumice to polish away dead skin. Anti-bacterial witch hazel and anti-inflammatory arnica extract add calming and cleansing powers to achieve matte, breakout-free skin. This mask is perfect for my skin and I'm so happy I received this, Birchbox really knows me!</p>
@@ -94,7 +96,7 @@ date: 2015-12-11 09:10:39 -08:00
 
 <DL>
 <DT><b>Yu-Be</b> Moisturizing Skin Cream</DT>
-<DD>Sample Size 3ml., Value $</DD>
+<DD>Sample Size 3ml., Value $1.28</DD>
 </DL>
 
 
@@ -103,12 +105,12 @@ date: 2015-12-11 09:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015CoastalScentsEyeshadow.jpg" border="0" style="border:none;max-width:100%;" alt="Coastal Scents styleEYES Eyeshadow Palette in formalEYES" />
+<img src="/images/BirchboxDec2015CoastalScentsStyleEyes.jpg" border="0" style="border:none;max-width:100%;" alt="Coastal Scents styleEYES Eyeshadow Palette in formalEYES" />
 </a></center>
 
 <DL>
 <DT><b>Coastal Scents</b> styleEYES Eyeshadow Palette in formalEYES</DT>
-<DD>Deluxe Sample Size, Value $</DD>
+<DD>Deluxe Sample Size, Value $3</DD>
 </DL>
 
 <p>This is one of the items that you can choose as your sample. There were 3 palettes to choose from; formalEYES, glamourEYES, or socialEYES.</p>
@@ -116,7 +118,7 @@ date: 2015-12-11 09:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015CoastalScentsEyeshadow2.jpg" border="0" style="border:none;max-width:100%;" alt="Coastal Scents styleEYES Eyeshadow Palette in formalEYES" />
+<img src="/images/BirchboxDec2015CoastalScentsStyleEyes2.jpg" border="0" style="border:none;max-width:100%;" alt="Coastal Scents styleEYES Eyeshadow Palette in formalEYES" />
 </a></center>
 
 <p>I received formalEYES which is a combination of a light nude color and a dark shimmer copper color. I like the combination, it's a universally flatering color that will suit any skintone.</p>
@@ -124,12 +126,12 @@ date: 2015-12-11 09:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015SergeNormant.jpg" border="0" style="border:none;max-width:100%;" alt="Serge Normant Dream Big Instant Volumizing Spray" />
+<img src="/images/BirchboxDec2015SergeNormantVolumizingSpray.jpg" border="0" style="border:none;max-width:100%;" alt="Serge Normant Dream Big Instant Volumizing Spray" />
 </a></center>
 
 <DL>
 <DT><b>Serge Normant</b> Dream Big Instant Volumizing Spray</DT>
-<DD>Travel Size 1.8 oz., Value $</DD>
+<DD>Travel Size 1.8 oz., Value $15</DD>
 </DL>
 
 <p>I'm always down for bigger and fuller hair. Unfortunately I wasn't born with it, so I welcome all the tools to help me achieve that.</p>
@@ -139,15 +141,21 @@ date: 2015-12-11 09:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015TheBalmCosmeticsFratBoyBlush.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
+<img src="/images/BirchboxDec2015TheBalmCosmeticsFratBoy.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
 </a></center>
 
 <DL>
 <DT><b>theBalm</b> Cosmetics FratBoy Blush</DT>
-<DD>Sample Size, Value $6</DD>
+<DD>Sample Size, Value $3?</DD>
 </DL>
 
+<p><i>No sizes were stated on the packaging so the value is an estimate.</i></p>
+
 <p>I received a bronzer sample from theBalm before in the same exact size and style of packaging. It is tiny so I'm not sure if I can use this effectively as I do tend to use big blush brushes. But I guess I can use my fingers or a small contouring brush, that should do the trick.</p>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxDec2015TheBalmCosmeticsFratBoy2.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
+</a></center>
 
 <p>The color of this blush is a light pink rose that has a slight shimmer to give you that natural glow look.</p>
 
@@ -175,27 +183,27 @@ date: 2015-12-11 09:10:39 -08:00
       <TH>Price</TH>
   <TR>
       <TD>MALIN+GOETZ Clarifying Clay Mask</TD>
-      <TD>$10</TD>
+      <TD>$7.20</TD>
    </TR>
    <TR>
       <TD>Yu-be Moisturizing Cream</TD>
-      <TD>$21.67</TD>
+      <TD>$1.28</TD>
    </TR>
     <TR>
       <TD>Coastal Scents styleEYES Eyeshadow Palette</TD>
-      <TD>$7.20</TD>
+      <TD>$3</TD>
    </TR>
     <TR>
       <TD>Serge Normant Volumizing Dry Spray</TD>
-      <TD>$12</TD>
+      <TD>$15</TD>
    </TR>
     <TR>
       <TD>theBalm FratBoy Blush</TD>
-      <TD>$6</TD>
+      <TD>$3</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$56.87</big></b></TD>
+      <TD><b><big>$29.48</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
