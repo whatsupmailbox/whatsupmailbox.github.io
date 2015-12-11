@@ -136,7 +136,7 @@ date: 2015-12-11 09:00:00 -08:00
 
 <p>I'm always down for bigger and fuller hair. Unfortunately I wasn't born with it, so I welcome all the tools to help me achieve that.</p>
 
-<p>I sprayed this on my dry hair and it did give me some volume without doing much. I have really long hair so the heavy weight might play a part in decreasing the volume. I'm guessing if you have short hair you might achieve much more volume. Either way, I'm loving this spray, so much that I purchased the full size right away and I used the $10 coupon included in this box too, how convenient!</p>
+<p>I sprayed this on my dry hair and almost instantly it gave me volume without having to do much. I have really long hair so the heavy weight might play a part in decreasing the volume. I'm guessing if you have short(er) hair you might achieve much more volume. Either way, I'm loving this spray, so much that I purchased the full size right away and I used the $10 coupon included in this box too, how convenient!</p>
 
 <br>
 
