@@ -141,7 +141,7 @@ date: 2015-12-11 09:10:39 -08:00
 <br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015TheBalmCosmeticsFratBoy.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
+<img src="/images/BirchboxDec2015TheBalmFratBoy.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
 </a></center>
 
 <DL>
@@ -154,7 +154,7 @@ date: 2015-12-11 09:10:39 -08:00
 <p>I received a bronzer sample from theBalm before in the same exact size and style of packaging. It is tiny so I'm not sure if I can use this effectively as I do tend to use big blush brushes. But I guess I can use my fingers or a small contouring brush, that should do the trick.</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxDec2015TheBalmCosmeticsFratBoy2.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
+<img src="/images/BirchboxDec2015TheBalmFratBoy2.jpg" border="0" style="border:none;max-width:100%;" alt="theBalm Cosmetics FratBoy Blush" />
 </a></center>
 
 <p>The color of this blush is a light pink rose that has a slight shimmer to give you that natural glow look.</p>
