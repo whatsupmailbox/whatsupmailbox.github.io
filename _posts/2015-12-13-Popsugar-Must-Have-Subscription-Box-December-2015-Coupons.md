@@ -6,7 +6,7 @@ headline: "Popsugar Must Have Limited Time Coupons!"
 tags: [Popsugar Must Have, Subscriptions, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Subscriptions
