@@ -27,6 +27,14 @@ date: 2015-12-14 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxDec2015OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
+</a></center>
+
+<p><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> always ships their boxes inside packages, so the actual box arrives to you in perfect reusable condition.</p>
+
+<br>
+
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
 <img src="/images/GlossyboxDec2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
 </a></center>
 
