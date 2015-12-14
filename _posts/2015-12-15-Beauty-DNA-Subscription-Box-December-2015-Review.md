@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "BeautyDNADec2015Items.jpg"
-date: 2015-12-14 13:30:39 -08:00
+date: 2015-12-15 09:03:39 -08:00
 ---
 
 <center><a href="https://www.beautydna.com/" target="_blank">
