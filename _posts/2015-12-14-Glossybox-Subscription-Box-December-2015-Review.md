@@ -30,7 +30,7 @@ date: 2015-12-14 08:19:39 -08:00
 <img src="/images/GlossyboxDec2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox" />
 </a></center>
 
-<p>I always look forward to receiving my Glossybox every month, these pink boxes are such a treat to open!</p>
+<p>This month's box is a special design! It represents both December and the upcoming holidays well.</p>
 
 <br>
 
