@@ -98,7 +98,7 @@ date: 2015-12-14 08:19:39 -08:00
 
 <p>"Color treated or not, this leave in treatment is the protection your hair needs to brace the changing seasons. Utilizing natural grape seed and fennel fruit extracts, styling your hair without any breakage will be a cinch."</p>
 
-<p>I love geating leave-in treatments for my hair and can't wait to try this out!</p>
+<p>I love geating leave-in treatments for my hair and can't wait to try this out.</p>
 
 <br>
 
@@ -111,7 +111,7 @@ date: 2015-12-14 08:19:39 -08:00
 <DD>Full Size .11 oz., Value $11</DD>
 </DL>
 
-<p>This eyeshadow pan is quite big and will surely last for quite awhile on me. The color is a dark purple mauve and I've found that a dark purple color actually can look great on my olive skintone. I was so against the color before, but now I find myself reaching for it when I want to add a slight pop of color. It'll be great for a smokey eye look too!</p>
+<p>This eyeshadow pan is quite big and will surely last for quite awhile on me. The color is a dark purple mauve and I've found that a dark purple color actually can look great on my olive skintone. I was so against the color before, but now I find myself reaching for it when I want to add a slight pop of color to my eyes. It'll be great for a smokey eye look too.</p>
 
 <br>
 
