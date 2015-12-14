@@ -48,16 +48,15 @@ date: 2015-12-14 08:19:39 -08:00
 
 <br>
 
-<p>The info card:</p>
-<figure class="half">
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxDec2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
-            <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxDec2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a>
-            <figcaption>Info card</figcaption>
-</figure>
+<p>With every box that they send, they also include a fold out info card that details the items and prices:</p>
+
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxDec2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
+<figcaption>Info card (front)</figcaption>
 
 <br>
 
-<p>With every box that they send, they also include a fold out info card that details the items and prices.</p>
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> <img src="/images/GlossyboxDec2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
+<figcaption>Info card (back)</figcaption>
 
 <br>
 
