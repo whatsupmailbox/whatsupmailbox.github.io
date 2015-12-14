@@ -104,7 +104,7 @@ date: 2015-12-14 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxDec2015GlossyboxEyeshadow.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Eyeshadow in Glossybox Mauve" />
+<img src="/images/GlossyboxDec2015Eyeshadow.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Eyeshadow in Glossybox Mauve" />
 </a></center>
 
 <DL>
@@ -117,7 +117,7 @@ date: 2015-12-14 08:19:39 -08:00
 <br>
 
 <center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
-<img src="/images/GlossyboxDec2015MTJCosmeticsMascara.jpg" border="0" style="border:none;max-width:100%;" alt="MTJ Cosmetics Mascara" />
+<img src="/images/GlossyboxDec2015MTJMascara.jpg" border="0" style="border:none;max-width:100%;" alt="MTJ Cosmetics Mascara" />
 </a></center>
 
 <DL>
