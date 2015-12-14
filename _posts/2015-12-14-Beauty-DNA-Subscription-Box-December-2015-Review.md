@@ -32,7 +32,7 @@ date: 2015-12-14 13:30:39 -08:00
 <figcaption>First look at unboxing reveals that I received a hair product! (It says Hair Report on the top right)</figcaption>
 <br>
 
-<center><img src='/images/BeautyDNANov2015OpenBox2.jpg'></center>
+<center><img src='/images/BeautyDNADec2015OpenBox2.jpg'></center>
 <p>Second look at unboxing</p>
 <br>
 
