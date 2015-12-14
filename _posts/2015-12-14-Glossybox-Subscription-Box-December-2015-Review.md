@@ -111,7 +111,16 @@ date: 2015-12-14 08:19:39 -08:00
 <DD>Full Size .11 oz., Value $11</DD>
 </DL>
 
-<p>This eyeshadow pan is quite big and will surely last for quite awhile on me. The color is a dark purple mauve and I've found that a dark purple color actually can look great on my olive skintone. I was so against the color before, but now I find myself reaching for it when I want to add a slight pop of color to my eyes. It'll be great for a smokey eye look too.</p>
+<p>This eyeshadow pan is quite big and will surely last for quite awhile on me. The color is a dark purple mauve and I've found that a dark purple color actually can look great on my olive skintone.</p>
+
+<p>Here's a closer look at the color:</p>
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxDec2015Eyeshadow2.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox Eyeshadow in Glossybox Mauve" />
+</a></center>
+
+<br>
+
+<p>I was so against wearing purple before, but now I find myself reaching for it when I want to add a slight pop of color to my eyes. It'll be great for a smokey eye look too.</p>
 
 <br>
 
@@ -125,6 +134,15 @@ date: 2015-12-14 08:19:39 -08:00
 </DL>
 
 <p>"MTJ High Definition Mascara guarantees an extreme volume, intense colour and scenic eyelashes. Its texture is soft and creamy and application is extremely simple. The special curvy applicator in silicone allows eyelashes to be well separated and well lifted, without leaving clumps.".</p>
+
+<br>
+
+<center><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">
+<img src="/images/GlossyboxDec2015MTJMascara.jpg" border="0" style="border:none;max-width:100%;" alt="MTJ Cosmetics Mascara" />
+</a></center>
+<figcaption>Closer look at the mascara brush</figcaption>
+
+<br>
 
 <p>I'm very picky with my mascaras and the type of brush it has for application, but this one sounds promising so I'll give it a try. Especially since it's Made in Italy and from their website, it seems like you can only purchase them in Italy, so that exclusive fact alone makes this worthy for me to try =)</p>
 
