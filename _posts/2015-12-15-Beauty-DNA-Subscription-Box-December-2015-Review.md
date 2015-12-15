@@ -9,7 +9,7 @@ categories:
 tags: [BeautyDNA, Subscriptions, Reviews, December 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNADec2015Items.jpg"
@@ -69,5 +69,5 @@ date: 2015-12-15 09:03:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Sadly this month was a miss for me. The value was low and the product was just okay. I'll still be using this and knowing it's Phyto, I'm sure it'll do great for my hair, I just wish it wasn't a night leave-in treatment. I guess it's time for me to update my Beauty Profile so that next month's match might be better (this time I'm adjusting my answers and concerns so that hopefully they'll send me a moisturizer or face serum). With that said, Beauty DNA is still a great value for me and I'm hoping next month will be a better match!</p>
 
-<p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs. I totally recommend them!</p>
+<p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs.</p>
 <br>
