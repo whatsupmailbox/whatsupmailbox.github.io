@@ -36,7 +36,7 @@ date: 2015-12-15 09:03:39 -08:00
 <br>
 
 <center><img src='/images/BeautyDNADec2015OpenBox2.jpg'></center>
-<p>Second look at unboxing</p>
+<figcaption>Second look at unboxing</figcaption>
 <br>
 
 <p>"beauty: denoting something intended to make a woman more attractive"</p>
