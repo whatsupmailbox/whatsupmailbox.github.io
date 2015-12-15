@@ -59,7 +59,7 @@ date: 2015-12-15 09:03:39 -08:00
 
 <br>
 
-<p><center><img src='/images/BeautyDNANov2015Info.jpg'></center></p>
+<p><center><img src='/images/BeautyDNADec2015Info.jpg'></center></p>
 <p>Beauty DNA always includes a detailed Beauty Report about the product and why they matched it for you (me).</p>
 
 <br>
