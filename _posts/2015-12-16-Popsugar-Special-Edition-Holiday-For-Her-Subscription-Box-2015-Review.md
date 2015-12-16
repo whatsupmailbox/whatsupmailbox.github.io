@@ -151,7 +151,7 @@ date: 2015-12-16 12:01:39 -08:00
 
 <p>Here's a look at the candle with the candle holder together:</p>
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarSEForHer2015EtAlCandles3.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
+<img src="/images/PopsugarSEForHer2015EtAlCandles2.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
 </a></center>
 <br>
 
