@@ -19,7 +19,7 @@ date: 2015-12-16 12:01:39 -08:00
 <img src="/images/PopsugarSEForHer2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Special Edition Holiday For Her Box!" />
 </a></center>
 
-<p><b>Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
+<p><b>Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Special Edition Holiday For Her 2015 Box</p>
 <p><b>Cost:</b> $100 + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> A special curation of the ultimate box for her to enjoy during this special time of year. This box is one chic and stylish treat, perfect to give or keep for yourself.</p>
 <br>
