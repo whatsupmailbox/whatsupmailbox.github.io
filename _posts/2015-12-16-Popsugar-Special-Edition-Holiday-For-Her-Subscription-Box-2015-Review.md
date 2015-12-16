@@ -85,7 +85,7 @@ date: 2015-12-16 12:01:39 -08:00
 </a></center>
 
 <DL>
-<DT><b>PRTTY Peaushun Skin Tight Body Lotion</DT>
+<DT><b>PRTTY Peaushun</b> Skin Tight Body Lotion</DT>
 <DD>Value $39</DD>
 </DL>
 
@@ -96,9 +96,11 @@ date: 2015-12-16 12:01:39 -08:00
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarSEForHer2015WhiteWarren2.jpg" border="0" style="border:none;max-width:100%;" alt="White + Warren Cashmere Headband" />
 </a></center>
+
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarSEForHer2015WhiteWarren.jpg" border="0" style="border:none;max-width:100%;" alt="White + Warren Cashmere Headband" />
 </a></center>
+
 <DL>
 <DT><b>White + Warren</b> Cashmere Headband</DT>
 <DD>Value $88</DD>
