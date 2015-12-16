@@ -77,7 +77,7 @@ date: 2015-12-16 12:01:39 -08:00
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSEForHer2015PRTTYPeashun.jpg" border="0" style="border:none;max-width:100%;" alt="PRTTY Peaushun Body Lotion" />
+<img src="/images/PopsugarSEForHer2015PRTTYPeaushun.jpg" border="0" style="border:none;max-width:100%;" alt="PRTTY Peaushun Body Lotion" />
 </a></center>
 
 <DL>
@@ -113,7 +113,7 @@ date: 2015-12-16 12:01:39 -08:00
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSEForHer2015EtAl.jpg" border="0" style="border:none;max-width:100%;" alt="Et Al Designs Dot Candles" />
+<img src="/images/PopsugarSEForHer2015EtAlCandles.jpg" border="0" style="border:none;max-width:100%;" alt="Et Al Designs Dot Candles" />
 </a></center>
 <DL>
 <DT><b>Et Al</b> Designs Dot Candles</DT>
@@ -133,6 +133,14 @@ date: 2015-12-16 12:01:39 -08:00
 </DL>
 
 <p>I love how they included the holder that fits the candles, both in size and in style. Now I don't have to go shopping around for a holder that will fit the candles, phew!</p>
+
+<p>Here's a closer look at the candle holders:</p>
+
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEForHer2015NimaOberoi.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
+</a></center>
+
+<p>They feel strong and sturdy, definitely quality.</p>
 
 <br>
 
