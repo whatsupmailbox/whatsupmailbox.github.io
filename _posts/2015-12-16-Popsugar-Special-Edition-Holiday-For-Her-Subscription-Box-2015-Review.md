@@ -127,20 +127,15 @@ date: 2015-12-16 12:01:39 -08:00
 <center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSEForHer2015NimaOberoi.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
 </a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEForHer2015NimaOberoi2.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
+</a></center>
 <DL>
 <DT><b>Nima Oberoi</b> Orb Candlestick Holders</DT>
 <DD>2 holders, Value $69</DD>
 </DL>
 
 <p>I love how they included the holder that fits the candles, both in size and in style. Now I don't have to go shopping around for a holder that will fit the candles, phew!</p>
-
-<p>Here's a closer look at the candle holders:</p>
-
-<center><a href="http://popsu.gr/vXrB" target="_blank">
-<img src="/images/PopsugarSEForHer2015NimaOberoi.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
-</a></center>
-
-<p>They feel strong and sturdy, definitely quality.</p>
 
 <br>
 
