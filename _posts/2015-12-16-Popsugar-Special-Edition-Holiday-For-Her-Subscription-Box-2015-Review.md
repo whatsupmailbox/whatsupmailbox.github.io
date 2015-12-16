@@ -90,6 +90,9 @@ date: 2015-12-16 12:01:39 -08:00
 <br>
 
 <center><a href="http://popsu.gr/vXrB" target="_blank">
+<img src="/images/PopsugarSEForHer2015WhiteWarren2.jpg" border="0" style="border:none;max-width:100%;" alt="White + Warren Cashmere Headband" />
+</a></center>
+<center><a href="http://popsu.gr/vXrB" target="_blank">
 <img src="/images/PopsugarSEForHer2015WhiteWarren.jpg" border="0" style="border:none;max-width:100%;" alt="White + Warren Cashmere Headband" />
 </a></center>
 <DL>
