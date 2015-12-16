@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Popsugar Must Have Special Edition "Holiday For Her" Box Review!"
+title: "Popsugar Must Have Special Edition Holiday For Her Box Review!"
 description: ""
-headline: "Popsugar Must Have Special Edition "Holiday For Her" Box Review!"
+headline: "Popsugar Must Have Special Edition Holiday For Her Box Review!"
 tags: [Popsugar Must Have, Products, Reviews]
 comments: true
 published: false
