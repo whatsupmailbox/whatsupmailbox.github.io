@@ -85,7 +85,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Value $39</DD>
 </DL>
 
-<p>This lotion's packaging is unique but not one that's aesthetically pleasing to me. I find it a bit of an odd way to dispense a body lotion, plus it just plainly doesn't look chic to me as well. This is kind of a miss for me and hopefully I can gift it to someone who appreciates it more than I do.</p>
+<p>This lotion's packaging is unique but not one that's aesthetically pleasing to me. I find it a bit of an odd way to dispense a body lotion, plus it just plainly doesn't look chic to me as well. This body lotion is supposed to both moisturize and make your body look good with its light reflecting minerals that blurs your imperfections. I'm not big on lotions that have any type of glitter or glittering objects, so this is kind of a miss for me. Hopefully I can gift it to someone who appreciates it more than I do.</p>
 
 <br>
 
