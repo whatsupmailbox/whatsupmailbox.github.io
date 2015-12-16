@@ -53,10 +53,6 @@ date: 2015-12-16 12:01:39 -08:00
 </a></center>
 <br>
 
-<p>Everything looks gorgeous, I can't wait to check each item out!</p>
-
-<br>
-
 <H4>Items in detail:</H4>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
