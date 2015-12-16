@@ -157,14 +157,14 @@ date: 2015-12-16 12:01:39 -08:00
 </a></center>
 <DL>
 <DT><b>Estée Lauder</b> Modern Muse Le Rouge Eau de Parfum</DT>
-<DD>Travel Size, Value $25</DD>
+<DD>Travel Size, Value $6.20?</DD>
 </DL>
 
-<p>I'm not too happy in getting fragrances in general from subscription boxes, but especially if it's from a Special Edition box. If they really had to include one, at least have one that's unique and special, and not one that seems sponsored. Fragrances are such a specific preference and this one did not bode well with me. Off it goes to be gifted.</p>
+<p>I'm not too happy in getting fragrances in general from subscription boxes, but especially if it's from a Special Edition box. If they really had to include one, at least have one that's unique and special, and not one that seems sponsored and in a vial. Fragrances are such a specific preference, I really don't know why they included this and perhaps it really was sponsored hence no value was listed (I had to calculate based on the full size price). The notes on this perfume is Bulgarian Rose, Rose Centifolia, Raspberry, Bourgeon de Cassis, Pink Pepper, Saffron, Madagascar Vanilla, Patchouli, Vetiver, Jasmine, Magnolia. It's not my type of fragrance as I find it too sweet and fruity. Off it goes to be gifted.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Although I do like this box, I think it fell below my expectations and lacked in the "wow" factor for me. I absolutely loved the cashmere headband, definitely my favorite item in the box, and the Butter London lip glosses were nice as well, so those two items made this box valuable and worth it for me. It's hard to resist Special Edition boxes though, there have been great ones in the past so I'm sure I'll still be purchasing them. Just sadly this one was a bit of a disappointment and I hope <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> will make up for it in the next Special Edition box.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Although I do like this box, I think it fell below my expectations and lacked in the "wow" factor for me. I absolutely loved the cashmere headband, definitely my favorite item in the box, and the Butter London lip glosses were nice as well, so those two items made this box valuable and worth it for me. It's hard to resist Special Edition boxes though, there have been great ones in the past so I'm sure I'll still be purchasing them. Just sadly this one was a bit of a disappointment and I hope <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> will make up for it in their next Special Edition box.</p>
 
 <p>This box is a one-time purchase and is still available. You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase one here</a>. They also have monthly boxes for $39.95 (December boxes are still available currently) and you can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> to learn more. Don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 <br>
@@ -178,32 +178,36 @@ date: 2015-12-16 12:01:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Deepa Gurnani Necklace</TD>
-      <TD>$90</TD>
+      <TD>Elizabeth Cole Adelia Cuff</TD>
+      <TD>$167.50</TD>
    </TR>
    <TR>
-      <TD>Becca Ombre Rouge Eye Palette</TD>
-      <TD>$40</TD>
+      <TD>PRTTY Peaushun Body Lotion</TD>
+      <TD>$39</TD>
    </TR>
     <TR>
-      <TD>Canvas Home Platinum Coasters</TD>
-      <TD>$46</TD>
+      <TD>White + Warren Cashmere Headband</TD>
+      <TD>$88</TD>
    </TR>
     <TR>
-      <TD>Swing Design Valet Tray</TD>
-      <TD>$60</TD>
+      <TD>Butter London Lip Gloss Set</TD>
+      <TD>$29</TD>
    </TR>
     <TR>
-      <TD>Tatcha Classic Rice Enzyme Powder</TD>
-      <TD>$65</TD>
+      <TD>Et Al Designs Dot Candles</TD>
+      <TD>$24</TD>
    </TR>
    <TR>
-      <TD>Smith & Cult Nail Polish</TD>
-      <TD>$18</TD>
+      <TD>Nima Oberoi Orb Candlestick Holders</TD>
+      <TD>$69</TD>
+   </TR>
+   <TR>
+      <TD>Estée Lauder Modern Muse Le Rouge Fragrance</TD>
+      <TD>$6.20?</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$319</big></b></TD>
+      <TD><b><big>$422.70</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Box Cost</big></i></TD>
