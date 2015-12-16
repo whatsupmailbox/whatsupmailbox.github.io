@@ -21,7 +21,7 @@ date: 2015-12-16 12:01:39 -08:00
 
 <p><b>Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
 <p><b>Cost:</b> $100 + Free Shipping (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> A special curation of the Holiday's special gifts for her. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been at least double the price.</p>
+<p><b>What's in the box:</b> A special curation of the ultimate box for her to enjoy during this special time of year. This box is one chic and stylish treat, perfect to give or keep for yourself.</p>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -169,7 +169,7 @@ date: 2015-12-16 12:01:39 -08:00
 <p>This box is a one-time purchase and is still available. You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase one here</a>. They also have monthly boxes for $39.95 (December boxes are still available currently) and you can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> to learn more. Don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
@@ -202,7 +202,7 @@ date: 2015-12-16 12:01:39 -08:00
       <TD>$69</TD>
    </TR>
    <TR>
-      <TD>Estée Lauder Modern Muse Le Rouge Fragrance</TD>
+      <TD>Estée Lauder Modern Muse Le Rouge Vial</TD>
       <TD>$6.20?</TD>
    </TR>
    <TR>
