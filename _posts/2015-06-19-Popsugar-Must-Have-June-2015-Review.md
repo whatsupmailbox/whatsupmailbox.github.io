@@ -16,10 +16,10 @@ date: 2015-06-19 09:01:39 -08:00
 ---
 
 <center><img src='/images/PopsugarJune2015Box.jpg'></center>
-<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 <p>This month's theme is "Sun-Kissed, Soft Skin Papaya, Outdoor Fun, Coconut, and Yoga Warrior".</p>
@@ -141,7 +141,7 @@ date: 2015-06-19 09:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> When I looked at the spoilers last month, I was really excited about the sunglasses and now that I have it on hand, it'll be my go-to for sunglasses this summer. The only item I disliked was the book, and maybe I'm not alone here, but I'm not sure how a book inclusion fits with the Popsugar Must Have theme this month. The total value came up to $129.77 (that's with the gift card and using Amazon's price for the book) and that's not a bad value for a $39.95 subscription. Even without the book I would have felt like I got double my money's worth so I'm content. Next month's theme is "Beach Days, Fourth of July, Easy Travel, and Summer Heat", <a href="http://whatsupmailbox.com/subscriptions/Popsugar-Must-Have-July-2015-Spoiler-Theme/" targe="_blank"> see my post about it here </a>, and I can't wait to see some spoilers!</p>
 
-<p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription with the July box and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5">
    <TR>
