@@ -102,7 +102,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Value $88</DD>
 </DL>
 
-<p>This headband is so soft and lux, I am thrilled and in love with it! It keeps your ears warm and adds a bit of fashion to your cold winter outfit. The color is a dark grey which I think is perfect. I may need to get more of these in different colors!</p>
+<p>This headband is so soft and lux, I am thrilled and in love with it! As the name suggests, it's made with 100% Cashmere and it will surely keep your ears warm and add a bit of fashion chic to your cold winter outfit. The color is a dark grey which I think is perfect. I may need to get more of these in different colors!</p>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -114,7 +114,10 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Set of 4 lip glosses, Value $29</DD>
 </DL>
 
-<p>I like Butter London, I have a ton of their nail polishes but I never got around to trying out their lip glosses so Thank You <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a>, I can't wait to try each one of them out!</p>
+<p>I like Butter London, I have a ton of their nail polishes but I never got around to trying out their liquid lipsticks so Thank You <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a>, I can't wait to try each one of them out!</p>
+
+<p>This set comes with 4 liquid lipsticks, and it features 2 exclusive colors. The colors are Fruit Cake (limited edition), Pudding (limited edition), Tea With The Queen, and Toff.</p>
+
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -146,6 +149,10 @@ date: 2015-12-16 12:01:39 -08:00
 
 <p>I love how they included candle holders that fits the candles in this box, both in size and in style. Now I don't have to go shopping around for a holder that will fit the candles, phew!</p>
 
+<p>Here's a look at the candle with the candle holder together:</p>
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarSEForHer2015EtAlCandles3.jpg" border="0" style="border:none;max-width:100%;" alt="Nima Oberoi Orb Candlestick Holders" />
+</a></center>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
