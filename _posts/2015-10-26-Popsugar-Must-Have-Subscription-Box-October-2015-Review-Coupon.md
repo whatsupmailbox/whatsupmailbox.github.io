@@ -15,42 +15,42 @@ imagefeature: "PopsugarOct2015Items.jpg"
 date: 2015-10-26 09:01:39 -08:00
 ---
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar and her team, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://popsu.gr/vXrB" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 <p>This month's theme is "Autumn, Restful Nights, Cozy, Irresistible, Breast Cancer Awareness".</p>
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card 2" />
 </a></center>
 <p>Fold out info card that details all the items and prices.</p>
 <br>
 
 <H4>And here are the items:</H4>
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box October 2015 Items!" />
 </a></center>
 
 <H4>Items in detail:</H4>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015WineBags.jpg" border="0" style="border:none;max-width:100%;" alt="Wine Bags" />
 </a></center>
 
@@ -62,7 +62,7 @@ date: 2015-10-26 09:01:39 -08:00
 <p>These wine bags are cute in design and I also love the brown paper bag material as well. I think I'll tie it with some burlap ribbon to give it that extra retro pop look. Can't wait to use this soon!</p>
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015HonestCoBodyScrub.jpg" border="0" style="border:none;max-width:100%;" alt="Too Faced Cosmetics Brow Kit" />
 </a></center>
 
@@ -75,7 +75,7 @@ date: 2015-10-26 09:01:39 -08:00
 
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015Earrings.jpg" border="0" style="border:none;max-width:100%;" alt="Richer Poorer Socks" />
 </a></center>
 
@@ -88,11 +88,11 @@ date: 2015-10-26 09:01:39 -08:00
 
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015MindyKalingBook.jpg" border="0" style="border:none;max-width:100%;" alt="Mindy Kaling Book" />
 </a></center>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015MindyKalingBook2.jpg" border="0" style="border:none;max-width:100%;" alt="Mindy Kaling Book" />
 </a></center>
 
@@ -104,7 +104,7 @@ date: 2015-10-26 09:01:39 -08:00
 <p>I loved her first book, "Is Everyone Hanging Out Without Me?", so I knew I just had to have her second book when I found about it but just didn't find the time to purchase it in my Kindle. Now I'm glad I procrastinated and can't believe Popsugar read my needs. I've already started reading this book as soon as I got my hands on it and it's been hilarious so far!</p>
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarOct2015SavvySleepersPillowcase.jpg" border="0" style="border:none;max-width:100%;" alt="Savvy Sleepers Pillowcase" />
 </a></center>
 
@@ -119,7 +119,7 @@ date: 2015-10-26 09:01:39 -08:00
 
 <br>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarSep2015Snack.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Snacks Almond to Cherries" />
 </a></center>
 
@@ -134,7 +134,7 @@ date: 2015-10-26 09:01:39 -08:00
 
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarSep2015GiftCard.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Gift Cards" />
 </a></center>
 
@@ -143,11 +143,11 @@ date: 2015-10-26 09:01:39 -08:00
 <DD>Value $20</DD>
 </DL>
 
-<p>As a bonus, <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a> sent out two $10 promo cards to give to your friends, family or co-worker to use toward their first Must Have box. Each code behind these cards are unique. </p>
+<p>As a bonus, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> sent out two $10 promo cards to give to your friends, family or co-worker to use toward their first Must Have box. Each code behind these cards are unique. </p>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really liked the items this month, it was a good mix of products and I especially loved the earrings in those cute message bottles! Plus I got introduced to some awesome new brands which is the main reason why I subscribe to boxes in the first place. The total value came up to $156 (I didn't include the <a href="http://popsu.gr/vXrB" target="_blank">Popsugar</a> promo cards) and that's a pretty high value. Next month's theme is "Breast Cancer Awareness, Cozy, Autumn, Restful Nights" and I can't wait to see what that brings! Checkout my review next month lovelies!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really liked the items this month, it was a good mix of products and I especially loved the earrings in those cute message bottles! Plus I got introduced to some awesome new brands which is the main reason why I subscribe to boxes in the first place. The total value came up to $156 (I didn't include the <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> promo cards) and that's a pretty high value. Next month's theme is "Breast Cancer Awareness, Cozy, Autumn, Restful Nights" and I can't wait to see what that brings! Checkout my review next month lovelies!</p>
 
-<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the October box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription with the October box and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5" style="width:60%">
    <TR>
