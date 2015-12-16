@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Popsugar Must Have Special Edition Holiday For Her Box Review!"
+title: "Popsugar Must Have Special Edition Holiday For Her 2015 Box Review!"
 description: ""
-headline: "Popsugar Must Have Special Edition Holiday For Her Box Review!"
+headline: "Popsugar Must Have Special Edition Holiday For Her 2015 Box Review!"
 tags: [Popsugar Must Have, Products, Reviews]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
@@ -193,7 +193,7 @@ date: 2015-12-16 12:01:39 -08:00
       <TD>$88</TD>
    </TR>
     <TR>
-      <TD>Butter London Lip Gloss Set</TD>
+      <TD>Butter London Lip Service Set</TD>
       <TD>$29</TD>
    </TR>
     <TR>
