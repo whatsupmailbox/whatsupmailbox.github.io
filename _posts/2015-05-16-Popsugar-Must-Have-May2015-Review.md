@@ -16,12 +16,12 @@ date: 2015-05-16 9:01:39 -08:00
 ---
 
 ![Popsugar Must Have May 2015 Box](/images/PopsugarMay2015Box.jpg)
-My May 2015 <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
+My May 2015 <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> box came today, yay what a great way to start the weekend! 
 
-<p><b>Subscription:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://popsu.gr/vXrB" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 ![Popsugar Must Have May 2015 Open Box](/images/PopsugarMay2015OpenBox.jpg)
@@ -50,7 +50,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 ![Popsugar Box May 2015 SistersOfLosAngeles Towel](/images/PopsugarMay2015SistersOfLosAngelesTowel.jpg)
 ![Popsugar Box May 2015 SistersOfLosAngeles Towel2](/images/PopsugarMay2015SistersOfLosAngelesTowel2.jpg)
 <a href="http://www.sistersoflosangeles.com">Sisters of Los Angeles</a> Beach Towel in Surf Sand Love design, $40
-<p>This beach towel design was made exclusively for <a href="http://http://popsu.gr/vdrb">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.</p>
+<p>This beach towel design was made exclusively for <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> so you won't be able to buy this towel on their website, but you can buy a mug or a tote in the same exact pattern.</p>
 
 <p>This towel is big! I love everything about it. It's soft and I'm in California so the design is perfect for me. Hands down my favorite item of the box! I wish they included some coupon though so I can buy additional items (they typically do), but oh well, I just might buy the tote to add to my collection anyway.</p>
 <br>
@@ -65,7 +65,7 @@ This month their theme was "Colorful . California Sun . Glowing Skin . Fresh Flo
 
 ![Popsugar Box May 2015 Hammonds Candies Taffy](/images/PopsugarMay2015HammondsCandiesTaffy.jpg)
 <a href="http://www.hammondscandies.com/candy-types/mccraws-flat-taffy/mccraws-taffy-assorted-flavors">Hammond's Candies McCraw's Flat Taffy</a> $1
-<p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
+<p>Okay, so I'm not really into taffy and this just seems out of place to include in a <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> box. I'm passing this along to my husband who will eat anything sweet.
 <br>
 
-<p><b>VERDICT:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. I'm excited for the June 2015 box though since they released a <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">spoiler item</a> just a few days ago and that item alone is worth more than the subscription! Hint, it's perfect for sunny summer days. Check out my <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">Popsugar Spoiler news</a> I posted to see what it is. Here's hoping to a better box in June!</p>
+<p><b>My Thoughts:</b> I think this box represented the theme they had and I'm in love with 2 of the big ticket items so I'm happy with that. The total value of this box came up to $114 and although it's not my favorite box from them, I'll still use most of the items so I got my money's worth. I'm excited for the June 2015 box though since they released a <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">spoiler item</a> just a few days ago and that item alone is worth more than the subscription! Hint, it's perfect for sunny summer days. Check out my <a href="http://whatsupmailbox.com/popsugar/Popsugar-June2015-Spoiler/">Popsugar Spoiler news</a> I posted to see what it is. Here's hoping to a better box in June!</p>
