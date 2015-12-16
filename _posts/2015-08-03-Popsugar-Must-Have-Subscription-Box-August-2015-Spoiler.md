@@ -17,7 +17,7 @@ date: 2015-08-03 15:01:00 -08:00
 
 <center><H4>The theme for Popsugar's August 2015 box was released today!</H4></center>
 
-<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarAugust2015Spoiler.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have August 2015 Theme Spoiler!" />
 </a></center>
 
@@ -27,8 +27,8 @@ date: 2015-08-03 15:01:00 -08:00
 
 <H4>What's Popsugar?</H4>
 <CENTER><IMG SRC='/images/PopsugarBox.jpg'></CENTER>
-<p><b>The Box:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Box</a></p>
+<p><b>The Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Box</a></p>
 <p><b>The Cost:</b> $39.95 monthly (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> Items curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Enter coupon code <b>MUSTHAVE5</b> to save $5 off your first box!</p>
+<p><b>Coupon:</b> Enter coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to save $5 off your first box!</p>
 <br>
