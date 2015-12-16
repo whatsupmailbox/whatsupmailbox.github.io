@@ -15,19 +15,20 @@ imagefeature: "PopsugarJuly2015OpenBox.jpg"
 date: 2015-07-30 14:01:39 -08:00
 ---
 
-<center><a href="http://popsu.gr/vXrB" target="_blank">
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarJuly2015Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
 </a></center>
-<p><b>Subscription:</b> <a href="http://popsu.gr/vXrB" target="_blank">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://popsu.gr/vXrB" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
 <p>This month's theme is "Beach Days, Easy Travel, Summer Heat, Fourth of July, and Stripes".</p>
 <br>
 
-<center><img src='/images/PopsugarJuly2015OpenBox.jpg'></center>
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><img src="/images/PopsugarJuly2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing!" />
+</a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
@@ -154,7 +155,7 @@ date: 2015-07-30 14:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I always love getting my Popsugar boxes every month, it's such a treat. This month was focused more on items for travelling and since I do travel frequently, it was such a hit for me. It goes without saying that I'll definitely be using every single item, and the coupons too for that matter. The total value came up to $130.94, another amazing value for a $39.95 subscription. As of yet, there hasn't been any spoilers for next month (August), not even a theme spoiler too, so I'm totally itching for them to release one soon! Will they still stick to Summer themes or will they start with Fall? Either way I'll keep you posted!</p>
 
-<p>Not a subscriber? You can <a href="http://popsu.gr/vXrB" target="_blank"><big>subscribe here</big></a> to start your subscription with the August box and don't forget to use coupon code <a href="http://popsu.gr/vXrB" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription with the August box and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <TABLE  BORDER="5" style="width:75%">
    <TR>
