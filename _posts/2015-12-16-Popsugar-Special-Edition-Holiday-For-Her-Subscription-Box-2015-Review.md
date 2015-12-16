@@ -201,7 +201,7 @@ date: 2015-12-16 12:01:39 -08:00
       <TD>$24</TD>
    </TR>
    <TR>
-      <TD>Nima Oberoi Orb Candlestick Holders</TD>
+      <TD>Nima Oberoi Candlestick Holders</TD>
       <TD>$69</TD>
    </TR>
    <TR>
