@@ -15,13 +15,13 @@ date: 2015-05-13 12:59:00 -08:00
 ---
 
 ![Popsugar Summer Box Available](/images/PopsugarSummer2015BoxAvailable.png)
-<p><b>The Box:</b> <a href="http://popsu.gr/vXrB">Popsugar Special Edition Summer 2015</a></p>
+<p><b>The Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Special Edition Summer 2015</a></p>
 <p><b>The Cost:</b> $100 (one time purchase)</p>
 <p><b>WHAT’S IN THE BOX:</b> Special Edition boxes are indulgent onetime purchases that feature exclusive items and unique collaborations. 
 The Summer 2015 box theme is "Set sail with the season's hottest essentials".</p>
 <br>
 
-<p>The <a href="http://popsu.gr/vXrB">Popsugar Special Edition Summer 2015 Box</a> is now available!</p>
+<p>The <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Special Edition Summer 2015 Box</a> is now available!</p>
 
 <p>There's only limited quantities of these boxes so if you plan on purchasing one, get on it before it gets sold out (and it does from past experience). The Special Edition Summer box will ship by June 15.</p>
 
