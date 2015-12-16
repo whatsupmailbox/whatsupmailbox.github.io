@@ -21,7 +21,7 @@ date: 2015-12-16 12:01:39 -08:00
 
 <p><b>Box:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Special Edition Summer 2015 Box</p>
 <p><b>Cost:</b> $100 + Free Shipping (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> A special curation of Fall's hottest essentials. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been double at the least.</p>
+<p><b>What's in the box:</b> A special curation of the Holiday's special gifts for her. Past boxes have included jewelry, beauty, home products and accessories. Value of items have always been at least double the price.</p>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -53,6 +53,10 @@ date: 2015-12-16 12:01:39 -08:00
 </a></center>
 <br>
 
+<p>Everything looks gorgeous, I can't wait to check each item out!</p>
+
+<br>
+
 <H4>Items in detail:</H4>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -64,7 +68,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Value $167.50</DD>
 </DL>
 
-<p>This bracelet was revealed prior to shipment and I was a bit undecided whether or not I like it even when I saw the spoiler, and not that I have it on hand, I'm still deciding if I like it or not. For one, it does fit me (after a bit of an adjustment), but on the other hand, it's nothing too special and I certainly would not have paid full price for this. But all in all, it's a nice addition to the box, and who knows, maybe I'll like it more as I wear it more often.</p>
+<p>This bracelet was revealed prior to shipment and I was a bit undecided whether or not I like it even when I saw the spoiler, and now that I have it on hand, I'm still deciding if I like it or not. It does fit me (after a bit of an adjustment), but on the other hand, I don't find anything too special about the design and I certainly would not have paid full price for this. But all in all, it's a nice addition to the box, and who knows, maybe I'll like it more as I wear it more often.</p>
 
 <p>Here's a closer look at the cuff:</p>
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -85,7 +89,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Value $39</DD>
 </DL>
 
-<p>This lotion's packagin is unique but not one that's aesthetically pleasing to me. I find it a bit of an odd way to dispense a body lotion, plus it just plainly doesn't look chic to me as well. This is kind of a miss for me and hopefully I can gift it to someone who appreciates it more than I do.</p>
+<p>This lotion's packaging is unique but not one that's aesthetically pleasing to me. I find it a bit of an odd way to dispense a body lotion, plus it just plainly doesn't look chic to me as well. This is kind of a miss for me and hopefully I can gift it to someone who appreciates it more than I do.</p>
 
 <br>
 
@@ -112,7 +116,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Set of 4 lip glosses, Value $29</DD>
 </DL>
 
-<p>I like Butter London, I have a ton of their nail polishes but I never got around to trying out their lip glosses so Thank You Popsugar!</p>
+<p>I like Butter London, I have a ton of their nail polishes but I never got around to trying out their lip glosses so Thank You <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a>, I can't wait to try each one of them out!</p>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -123,7 +127,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>2 candles, Value $24</DD>
 </DL>
 
-<p>I've never used these type of candles before, but they do look quite chic and very large in size too.</p>
+<p>I've never used these type of candles before, but they do look quite chic and very large in size too. The design is white candles with silver dots, so it surely looks modern and chic and will go great with any decor.</p>
 
 <br>
 
@@ -142,7 +146,7 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>2 holders, Value $69</DD>
 </DL>
 
-<p>I love how they included the holder that fits the candles, both in size and in style. Now I don't have to go shopping around for a holder that will fit the candles, phew!</p>
+<p>I love how they included candle holders that fits the candles in this box, both in size and in style. Now I don't have to go shopping around for a holder that will fit the candles, phew!</p>
 
 <br>
 
@@ -154,9 +158,13 @@ date: 2015-12-16 12:01:39 -08:00
 <DD>Travel Size, Value $25</DD>
 </DL>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was so beautiful and elegant, I'm glad I splurged and purchased it. Definitely items I would have purchased on my own and the total value was also amazing, triple the cost! Every item was gorgeous in its own way and I love the theme of white that was incorporated here, so modern and chic. Another great special edition box by <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a>, yay!</p>
+<p>I'm not too happy in getting fragrances in general from subscription boxes, but especially if it's from a Special Edition box. If they really had to include one, at least have one that's unique and special, and not one that seems sponsored. Fragrances are such a specific preference and this one did not bode well with me. Off it goes to be gifted.</p>
 
-<p>This box is a one-time purchase and is no longer available, but if you want to try out their monthly edition, you can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> and you'll start with their October box (September is sold out!). And you can also use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Although I do like this box, I think it fell below my expectations and lacked in the "wow" factor for me. I absolutely loved the cashmere headband, definitely my favorite item in the box, and the Butter London lip glosses were nice as well, so those two items made this box valuable and worth it for me. It's hard to resist Special Edition boxes though, there have been great ones in the past so I'm sure I'll still be purchasing them. Just sadly this one was a bit of a disappointment and I hope <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> will make up for it in the next Special Edition box.</p>
+
+<p>This box is a one-time purchase and is still available. You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">purchase one here</a>. They also have monthly boxes for $39.95 (December boxes are still available currently) and you can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> to learn more. Don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:55%">
