@@ -34,4 +34,6 @@ date: 2015-12-03 11:19:39 -08:00
 
 <p>You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>visit their website or subscribe here</big></a> to start receiving their pretty pink boxes filled with beauties every month!</p>
 
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get $2.75 cashback on your purchase at Glossybox, I always use them and get money back!</p>
+
 <p><a href="http://whatsupmailbox.com/subscriptions/reviews/Glossybox-Subscription-Box-November-2015-Review/" target="_blank">Checkout my November 2015 Box review here</a>.</p>
