@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sephora GWP Deluxe Sample Skin Care Sets - VIB & VIB Rouge Only"
 featured: false
 comments: true
@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora, GWP, Coupons]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPDec2015.png
-date: 2015-12-17 13:10:00 -08:00
+date: 2015-12-17 12:40:00 -08:00
 ---
 
 <center><a href="http://www.sephora.com" target="_blank">
@@ -62,4 +62,4 @@ date: 2015-12-17 13:10:00 -08:00
 
 <br>
 
-<i>* Enter code <b>VIBFACIAL</b> in the promotion code box at checkout to receive your choice of the above deluxe sample sets. Offer available with any online merchandise order of $35 USD or more. One per client, non-transferable. Must be VIB or VIB Rouge to redeem offer. Valid while supplies last; quantities are limited. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not available in Canada, in retail stores, in Sephora inside JCPenney stores, or on jcpenney.com. Cannot be used in conjunction with other promotion codes. Sephora employees are not eligible for offer. This offer is subject to change, alteration, or termination by Sephora at its sole discretion at any time.</i>
+<i>* Enter code <b>VIBFACIAL</b> in the promotion code box at checkout to receive your choice of 1 of the above deluxe sample sets. Offer available with any online merchandise order of $35 USD or more. One per client, non-transferable. Must be VIB or VIB Rouge to redeem offer. Valid while supplies last; quantities are limited. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not available in Canada, in retail stores, in Sephora inside JCPenney stores, or on jcpenney.com. Cannot be used in conjunction with other promotion codes. Sephora employees are not eligible for offer. This offer is subject to change, alteration, or termination by Sephora at its sole discretion at any time.</i>
