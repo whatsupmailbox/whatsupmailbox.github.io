@@ -63,3 +63,5 @@ date: 2015-12-17 12:40:00 -08:00
 <br>
 
 <i>* Enter code <b>VIBFACIAL</b> in the promotion code box at checkout to receive your choice of 1 of the above deluxe sample sets. Offer available with any online merchandise order of $35 USD or more. One per client, non-transferable. Must be VIB or VIB Rouge to redeem offer. Valid while supplies last; quantities are limited. Not valid on previous purchases or purchases of eGift certificates or gift cards. Offer not available in Canada, in retail stores, in Sephora inside JCPenney stores, or on jcpenney.com. Cannot be used in conjunction with other promotion codes. Sephora employees are not eligible for offer. This offer is subject to change, alteration, or termination by Sephora at its sole discretion at any time.</i>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% (sometimes 8%) cashback on your purchases at Sephora.com, I always use them and get money back, yay!</p>
