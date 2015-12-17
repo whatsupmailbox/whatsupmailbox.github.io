@@ -171,6 +171,8 @@ date: 2015-12-11 09:00:00 -08:00
 <img src="/images/BirchboxDec2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
 </a></center>
 
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% cashback on your purchases at Birchbox, I always use them and get money back, yay!</p>
+
 <br>
 
 <TABLE  BORDER="5" style="width:55%">
