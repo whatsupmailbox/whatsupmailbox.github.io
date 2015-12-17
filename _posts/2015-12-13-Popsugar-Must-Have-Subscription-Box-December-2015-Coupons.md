@@ -24,6 +24,8 @@ date: 2015-12-13 11:01:00 -08:00
 
 <p>If you're interested in getting this deal, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">visit their website for more info or to subscribe</a> and use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">DEC15</a>, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">DEC25</a> or <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">DEC75</a> to save up to $75 on a POPSUGAR Must Have subscription! You can get a 1-month box for only $24.95, that's a great deal!</p>
 
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on your purchase at Popsugar, I always use them and get money back!</p>
+
 <H4>What's Popsugar?</H4>
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarBox.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Subscription" />
