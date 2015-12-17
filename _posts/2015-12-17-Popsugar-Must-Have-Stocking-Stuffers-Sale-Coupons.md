@@ -22,7 +22,7 @@ date: 2015-12-17 10:01:00 -08:00
 
 <p>Limited time sale, ends tomorrow December 18th, use coupon code TREND or DECOR to save $25 on the Trendsetter or Decorator Stocking Stuffer sets from <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">POPSUGAR</a>!!! <i>Shipping note: Orders placed by December 18th will arrive by Dec. 24th!</i></p>
 
-<p>This brings the Trendsetter Stocking Stuffer set down to $90 ($340 Value) and the Decorator Stocking Stuffer set down to $55 ($225 Value), that's an amazing deal! I've been eyeing the Decorator set for awhile because it has the Missoni candle, Monica Rich Kosann picture frame, and the Swing Design glass storage box. I'm totally using this sale and getting one!</p>
+<p>That brings the cost of the Trendsetter Stocking Stuffer set down to $90 ($340 Value) and the Decorator Stocking Stuffer set down to $55 ($225 Value), that's an amazing deal! (Fyi, taxes apply to California) I've been eyeing the Decorator set for awhile because it has the Missoni candle, Monica Rich Kosann picture frame, and the Swing Design glass storage box, so I'm totally using this sale and getting one!</p>
 
 <p>Here's more details on the sets:</p>
 <br>
@@ -30,7 +30,7 @@ date: 2015-12-17 10:01:00 -08:00
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarDec2015DecoratorSet.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Stocking Stuffers Sale" />
 </a></center>
-<figcaption>For The Decorator Stocking Stuffer Set</figcaption>
+<figcaption>For The Decorator Set</figcaption>
 
 <br>
 
@@ -47,7 +47,7 @@ date: 2015-12-17 10:01:00 -08:00
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarDec2015TrendsetterSet.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Stocking Stuffers Sale" />
 </a></center>
-<figcaption>For The Trendsetter Stocking Stuffer Set</figcaption>
+<figcaption>For The Trendsetter Set</figcaption>
 
 <br>
 
@@ -56,7 +56,7 @@ date: 2015-12-17 10:01:00 -08:00
 <li>Clare V. Foldover Clutch, RV $220</li>
 <li>Lancer Skincare The Method: Nourish, RV $125</li>
 <li>Total of $340 value!</li>
-<ul>
+</ul>
 
 <br>
 
