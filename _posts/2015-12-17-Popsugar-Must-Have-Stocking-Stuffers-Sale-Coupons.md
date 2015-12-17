@@ -25,7 +25,6 @@ date: 2015-12-17 10:01:00 -08:00
 <p>That brings the cost of the Trendsetter Stocking Stuffer set down to $90 ($340 Value) and the Decorator Stocking Stuffer set down to $55 ($225 Value), that's an amazing deal! (Fyi, taxes apply to California) I've been eyeing the Decorator set for awhile because it has the Missoni candle, Monica Rich Kosann picture frame, and the Swing Design glass storage box, so I'm totally using this sale and getting one!</p>
 
 <p>Here's more details on the sets:</p>
-<br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarDec2015DecoratorSet.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Stocking Stuffers Sale" />
@@ -40,7 +39,7 @@ date: 2015-12-17 10:01:00 -08:00
 <li>Monica Rich Kosann Cream Enamel Picture Frame, RV $100</li>
 <li>Swing Design Mia Glass Storage Box, RV $40</li>
 <li>Total of $225 value!</li>
-<ul>
+</ul>
 
 <br>
 
