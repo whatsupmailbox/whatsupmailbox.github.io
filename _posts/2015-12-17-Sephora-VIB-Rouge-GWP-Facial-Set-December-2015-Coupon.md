@@ -19,7 +19,7 @@ date: 2015-12-17 13:10:00 -08:00
 <img src="/images/SephoraVIBRougeGWPDec2015.png" border="0" style="border:none;max-width:100%;" alt="Sephora GWP Deluxe Sample Skin Care Sets - VIB & VIB Rouge Only" />
 </a></center>
 
-<p>Choose 1 of 3 deluxe sample skin care sets from Dr. Brandt Skincare, AmorePacific, or Caudalie, FREE with $35 purchase. Use coupon code <b>VIBFACIAL</b></p>
+<p>Choose 1 of 3 deluxe sample skin care sets from Dr. Brandt Skincare, AmorePacific, or Caudalie, FREE with $35 purchase. Use coupon code <b>VIBFACIAL</b> at checkout.</p>
 
 <br>
 
