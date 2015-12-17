@@ -172,6 +172,9 @@ date: 2015-12-14 08:19:39 -08:00
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month included 4 full-sized items out of the 5 that they sent out, that's amazing! And the 1 non full-size item was half the size of a full-size, so that's still quite substantial. <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> has totally redeemed itself from <a href="http://whatsupmailbox.com/subscriptions/reviews/Glossybox-Subscription-Box-November-2015-Review/" target="_blank">last month's box</a>. The items this time have a better variety and the brands featured are great as well, plus a special designed box too! I'll be using everything in this box, but my winning item has got to be the Orogold hand cream. So happy with this month's box, I'm now excited again to see what <a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank">Glossybox</a> has in plan for January! Can't wait!</p>
 
 <p>Not a subscriber? You can <a href="https://www.glossybox.com/referal?CI=MTMzODY3"><big>visit their website or subscribe here</big></a> to start receiving their pretty pink boxes filled with beauties every month!</p>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get $2.75 cashback on your purchase at Glossybox, I always use them and get money back!</p>
+
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
