@@ -27,7 +27,7 @@ date: 2015-12-17 13:10:00 -08:00
 <img src="/images/SephoraVIBRougeGWPDec20151.png" border="0" style="border:none;max-width:100%;" alt="Sephora Flowerbomb GWP - VIB & VIB Rouge Only" />
 </a></center>
 
-<p><b>Dr.Brandt Deluxe Sample Set includes:</b></p>
+<p><b>Dr. Brandt Deluxe Sample Set includes:</b></p>
 <ul>
 <li>Needles No More™ (.085 oz.)</li>
 <li>Do Not Age with Dr. Brandt™ Time Reversing Cream (0.35 oz.)</li>
