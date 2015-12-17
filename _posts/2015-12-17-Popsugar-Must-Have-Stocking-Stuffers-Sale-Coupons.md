@@ -6,7 +6,7 @@ headline: "Popsugar Must Have Stocking Stuffers Sale!"
 tags: [Popsugar Must Have, Products, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Products
