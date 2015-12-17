@@ -56,7 +56,7 @@ date: 2015-12-15 09:03:39 -08:00
 <DD>Full Size 2.5 oz., Value $38</DD>
 </DL>
 
-<p>Okay, first off I have to admit that I'm kind of disappointed in the low value this month. Secondly, I thought they always send an extra bonus item if the value falls under $50. I read this from another blogger's review so I'm not sure if they've changed their policies lately or if they just forgot to send me an extra item. Either way, I've reached out to them via email and I'll wait to see what they say and post an update here.</p>
+<p>Okay, first off I have to admit that I'm kind of disappointed in the low value this month. Secondly, I thought they always send an extra bonus item if the value falls under $50. I read this from another blogger's review so I'm not sure if they've changed their policies lately or if they just forgot to send me an extra item. Either way, I've reached out to them via email and I'll wait to see what they say and post an update here. UPDATE: They replied with the following statement, "If the primary product match is less than or equal to retail value of $25, a second product match will be generated and to ensure the retail value of the box exceeds $25."</p>
 
 <p>I actually love PHYTO products and have a couple of their haircare items currently that I use. The only issue I have with this leave-in treatment is that you're supposed to use it on damp hair then sleep on it. It hydrates, replenish, and helps strengthen your hair while you sleep so that you wake up to radiantly soft, supple, and manageable hair that looks healthy. I can't sleep with damp hair, I get a headache when I do. So I guess I'll be using this outside of its recommended use and apply during the day. It should work the same way, I hope.</p>
 
