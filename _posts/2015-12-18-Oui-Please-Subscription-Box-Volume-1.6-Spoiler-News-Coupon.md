@@ -29,7 +29,7 @@ date: 2015-12-18 13:40:39 -08:00
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPleaseVol16.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 1.6 White Winter in the Alps" />
+<img src="/images/OuiPleaseVol16.png" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 1.6 White Winter in the Alps" />
 </a></center>
 
 <p><i class="icon-dropbox"></i> Their next box is "Oui Please Vol. 1.6 White Winter in the Alps" and it's set to start delivering at the end of December! That's coming up soon and I so can't wait!</p>
@@ -43,12 +43,12 @@ date: 2015-12-18 13:40:39 -08:00
 <H4><a href="http://ouiplease.com" target="_blank">Oui Please</a> Vol. 1.6 Spoilers:</H4>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPleaseVol16Spolier1.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler1.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPleaseVol16Spolier2.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler2.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
