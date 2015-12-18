@@ -38,7 +38,7 @@ date: 2015-12-18 13:40:39 -08:00
 
 <p>I was in France in November and got to see the Alps from the French side, then I travelled to Switzerland and Italy and got to see the alps from that side as well. It's majestic, stunning and absolutely beautiful. I'm curious to see what products will be included to reflect this theme, perhaps something warm and cozzy?</p>
 
-<p>Well guess no more as I have a few spoilers from them, so without further adeau, here they are:</p>
+<p>Well guess no more as I have a few spoilers from them, and here they are:</p>
 
 <H4><a href="http://ouiplease.com" target="_blank">Oui Please</a> Vol. 1.6 Spoilers:</H4>
 
