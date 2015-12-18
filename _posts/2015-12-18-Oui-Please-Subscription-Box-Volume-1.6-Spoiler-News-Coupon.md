@@ -40,7 +40,7 @@ date: 2015-12-18 13:40:39 -08:00
 
 <p>Well guess no more as I have a few spoilers from them, and here they are:</p>
 
-<H4>Oui Please Vol. 1.6 Spoilers:</H4>
+<center><H4>Oui Please Vol. 1.6 Spoilers:</H4></center>
 
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler1.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
