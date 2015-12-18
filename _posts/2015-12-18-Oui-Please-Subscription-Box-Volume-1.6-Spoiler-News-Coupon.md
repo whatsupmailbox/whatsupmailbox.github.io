@@ -63,7 +63,7 @@ date: 2015-12-18 13:40:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler4.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
-<p>A product from Historiae Paris Perfume! I received their perfume and soap in the last box and both smelled heavenly so I can't wait to see what scents or products they'll include this time!</p>
+<p>A product from Histoires De Parfums! "Histoires de Parfums’ perfumes perpetuate the French perfumery know-how, which features are luxury, nobility and creativity."</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
