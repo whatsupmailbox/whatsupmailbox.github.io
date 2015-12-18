@@ -45,7 +45,7 @@ date: 2015-12-18 13:40:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler1.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
-<p>Some French spices for the Parisienne in you.</p>
+<p><center>Some French spices for the Parisienne in you.</center></p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
@@ -57,7 +57,7 @@ date: 2015-12-18 13:40:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler3.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
-<p>Sweet treats will surely be included in every Vol. 1.6 box.</p>
+<p><center>Sweet treats will surely be included in every Vol. 1.6 box.</center></p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
@@ -69,7 +69,7 @@ date: 2015-12-18 13:40:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler5.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
-<p>Sweets and treats from L'Attelier to make your holiday complete!</p>
+<p><center>Sweets and treats from L'Attelier to make your holiday complete!</center></p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
