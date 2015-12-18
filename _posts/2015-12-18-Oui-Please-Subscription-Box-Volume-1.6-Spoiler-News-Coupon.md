@@ -36,7 +36,7 @@ date: 2015-12-18 13:40:39 -08:00
 
 <p>The French Alps are the portions of the Alps mountain range that stand within France, located in the Rhône-Alpes and Provence-Alpes-Côte d'Azur regions. It's home to famous resorts towns Chamonix, St. Gervais, Albertville (1992 Olympic Winter Games), Grenoble (1968 Olympic Winter Games), and Annecy with its old city and lake.</p>
 
-<p>I was in France in November and got to see the Alps from the French side, then I travelled to Switzerland and Italy and got to see the alps from that side as well. It's majestic, stunning and absolutely beautiful. I'm curious to see what products will be included to reflect this theme, perhaps something warm and cozzy?</p>
+<p>I was travelling in France in November and got to see the Alps from the French side, then I travelled to Switzerland and Italy and got to see the alps from that side as well. It truly is majestic, stunning and absolutely beautiful. I'm already missing that picturesque view! So I'm curious to see what products will be included to reflect this theme, perhaps something warm and cozzy?</p>
 
 <p>Well guess no more as I have a few spoilers from them, and here they are:</p>
 
@@ -51,7 +51,7 @@ date: 2015-12-18 13:40:39 -08:00
 <center><a href="http://ouiplease.com" target="_blank">
 <img src="/images/OuiPleaseVol16Spoiler2.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
-<p>Jewelry! I always love it when I get some sparkling bijoux (that's French for jewels) in my box!</p>
+<p>Jewelry! I always love it when I get some sparkling bijoux (French for jewels) in my box!</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
