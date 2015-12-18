@@ -53,12 +53,12 @@ date: 2015-12-18 13:40:39 -08:00
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPleaseVol16Spoiler3.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler3.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPleaseVol16Spoiler4.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler4.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
