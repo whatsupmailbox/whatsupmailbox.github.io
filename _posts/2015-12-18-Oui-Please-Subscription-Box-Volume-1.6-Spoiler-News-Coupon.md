@@ -53,29 +53,29 @@ date: 2015-12-18 13:40:39 -08:00
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPlease16Spoiler3.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler3.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPlease16Spoiler4.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler4.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPlease16Spoiler5.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler5.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <p>Sweets and treats from L'Attelier to make your holiday complete!</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPlease16Spoiler6.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler6.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <p>Classy and delicate treasures by Tassia Canellis. Her jewelry was featured in past boxes, so I'm excited to see what other jewels will pop up.</p>
 <br>
 
 <center><a href="http://ouiplease.com" target="_blank">
-<img src="/images/OuiPlease16Spoiler7.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
+<img src="/images/OuiPleaseVol16Spoiler7.png" border="0" style="border:none;max-width:100%;" alt="Oui Please 1.6 Spoiler" />
 </a></center>
 <p>Node Jewellery is simplicity and innovation at its finest. Designer Jessica Fontes creates jewelry that is a fusion of handmade and state-of-the-art 3D printed.</p>
 <br>
