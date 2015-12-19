@@ -99,7 +99,7 @@ date: 2015-12-19 09:03:39 -08:00
 
 <br>
 
-<p>This bracelet's message and purpose is to raise awareness... I like it and will surely use this.</p>
+<p>This bracelet's message and purpose is to raise awareness on the importance of clean water. I like the positive message and will surely use this.</p>
 
 <br>
 
