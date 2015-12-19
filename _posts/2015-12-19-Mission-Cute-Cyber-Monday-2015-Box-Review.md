@@ -35,13 +35,13 @@ date: 2015-12-19 09:03:39 -08:00
 <br>
 
 <center><a href="http://shop.pe/bXki9" target="_blank">
-<img src="/images/MissionCuteCyberMonday2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
+<img src="/images/MissionCuteCyberMonday2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second look at unboxing" />
 </a></center>
 <figcaption>Second look at unboxing reveals the actual inside packaging</figcaption> 
 <br>
 
 <center><a href="http://shop.pe/bXki9" target="_blank">
-<img src="/images/MissionCuteCyberMonday2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Third look at unboxing" />
+<img src="/images/MissionCuteCyberMonday2015OpenBox3.jpg" border="0" style="border:none;max-width:100%;" alt="Third look at unboxing" />
 </a></center>
 <p>Finally, you see the products inside!</p>
 <br>
