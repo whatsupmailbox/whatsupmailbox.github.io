@@ -99,7 +99,7 @@ date: 2015-12-19 09:03:39 -08:00
 
 <br>
 
-<p>This bracelet's message and purpose is to raise awareness on the importance of clean water. I like the positive message and will surely use this.</p>
+<p>This bracelet's message and purpose is to raise awareness on the importance of clean water. Every purchase will provide one week of clean water to someone in the Central African Republic. I like the positive message and cause, and I will surely use this.</p>
 
 <br>
 
