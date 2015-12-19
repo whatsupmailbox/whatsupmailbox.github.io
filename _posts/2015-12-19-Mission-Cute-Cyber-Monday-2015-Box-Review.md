@@ -88,7 +88,7 @@ date: 2015-12-19 09:03:39 -08:00
 
 <br>
 
-<p>This teal bag charm although cute in style, is not fluffy enough for me to use by itself, but that's my personal preference. When compared to the purple bag charm that FabFitFun included in their <a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Fall-2015-Review-Coupon/" target="_blank">Fall 2015 Box</a>, this one falls short since the material is rigid making it look kind of flat when attached to a bag. It might look good when layered with another bag charm though, so I might just do that and use this nevertheless.</p>
+<p>This teal bag charm although cute in style, is not fluffy enough for me to use by itself, but that's my personal preference. When compared to the purple bag charm that was included in the <a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Fall-2015-Review-Coupon/" target="_blank">FabFitFun Fall 2015 Box</a>, this one falls short since the material is rigid making it look kind of flat when attached to a bag. It might look good when layered with another bag charm though, so I might just do that and use this nevertheless.</p>
 
 <br>
 
