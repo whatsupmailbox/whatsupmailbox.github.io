@@ -139,7 +139,7 @@ date: 2015-12-19 09:03:39 -08:00
 <img src="/images/MissionCuteCyberMonday2015PictureFrame2.jpg" border="0" style="border:none;max-width:100%;" alt="MissionCute Picture Frame" />
 </a></center>
 
-<p>I tried to open the stand in the back of this frame to its fullest position, but this is the most I got which is not that much. It was easily toppled down. I'm hoping I can stretch the stand more so that it can make it more stable. I'm sure I can since it's made of paper.</p>
+<p>I tried to open the stand in the back of this frame to its fullest position, but this is the most I got which is not that much. It was easily toppled down. I'm hoping I can stretch the stand more so that I can make it more stable. I'm sure I can since it's made of paper.</p>
 
 <br>
 
