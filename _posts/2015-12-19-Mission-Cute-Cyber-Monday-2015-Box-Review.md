@@ -132,14 +132,14 @@ date: 2015-12-19 09:03:39 -08:00
 
 <br>
 
-<p>This frame is small in size and it seems a bit flimsy to me. I believe it's made of paper, but I do like the design so hopefully I can still use it.</p>
+<p>This frame is small in size (3x3") and it seems a bit flimsy to me. I believe it's made of paper, but I do like the design so hopefully I can still use it.</p>
 
 <p>Here's a picture of it from a side view:</p>
 <center><a href="http://shop.pe/bXki9" target="_blank">
 <img src="/images/MissionCuteCyberMonday2015PictureFrame2.jpg" border="0" style="border:none;max-width:100%;" alt="MissionCute Picture Frame" />
 </a></center>
 
-<p>I tried to open the stand in the back of this frame to its fullest position, but this is the most I got which is not that much. It was easily toppled down even without a picture. Hopefully when I do put a picture in there it would make it more heavy and stabil. Hopefully.</p>
+<p>I tried to open the stand in the back of this frame to its fullest position, but this is the most I got which is not that much. It was easily toppled down. I'm hoping I can stretch the stand more so that it can make it more stable. I'm sure I can since it's made of paper.</p>
 
 <br>
 
@@ -154,7 +154,7 @@ date: 2015-12-19 09:03:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, for a $14.95 box, this was pretty great! I couldn't really do a cost breakdown for each item as the info cards didn't list the brands or makers, and I believe most of them are either from an Etsy shop or other small businesses. But everything was useful worth the cost, and I still can't believe I received a watch inside. I know that these items were featured in their past subscription boxes, but since I don't subscribe to them, they are all new to me. If they ever have deals like this again, I will for sure grab one. And don't worry, I'll let you guys know if they ever have one again. Hopefully soon!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, for a $14.95 box, this was pretty great! I couldn't really do a cost breakdown for each item as the info cards didn't list the brands or makers, and I believe most of them are either from an Etsy shop or other small businesses. But everything was useful and worth the cost, and I still can't believe I received a watch. I know that these items were featured in their past subscription boxes, but since I don't subscribe to them, they are all new to me. If they ever have deals like this again, I will for sure grab one. And don't worry, I'll let you guys know when that happens. Hopefully soon!</p>
 
 <p>FYI, this box is sold out, but <a href="http://shop.pe/bXki9" target="_blank">MissionCute</a> has a monthly subscription box and you can checkout their website <a href="http://shop.pe/bXki9" target="_blank">www.missioncute.com</a> to learn more or subscribe.</p>
 <br>
