@@ -110,6 +110,8 @@ date: 2015-12-21 09:01:39 -08:00
 <DD>Full Size 30ml, Value $60</DD>
 </DL>
 
+<p><i>Quick note: This bottle did not come sealed.</i></p>
+
 <p>I rarely use face oil, only because I haven't had great results with it so I'm very hopeful with this one. This face oil is rich in omega fatty acids to help reduce inflammation, signs of aging, and helps prevent both blemishes and congestion while simultaneously providing hydration. It says it's great for all skin types, even the most sensitive ones so I think it's safe for me to try (my skin is super sensitive!).</p>
 
 <p>Prim Botanicals makes their products in small batches and when I checked out their website, all their products are sold out. Hopefully a new batch is coming soon since I have my eye on their lip balms that are packaged in beautiful slide-open tins, as well as their candle. I love this brand and hope I can try out more of their products as soon as they have them available for sale again.</p>
