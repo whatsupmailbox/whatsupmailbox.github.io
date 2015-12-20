@@ -61,7 +61,7 @@ date: 2015-12-21 09:01:39 -08:00
 <img src="/images/NourishBeautyBoxDec2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Items packaging" />
 </a></center>
 
-<p>The items were individually packaged in bubble wrap to ensure it arrives to you in one piece. It also helps to contain any leakage if it that was to ever occur. All my items came in one piece and had absolutely no leakage.</p>
+<p>The items were individually packaged in bubble wrap to ensure it arrives to you in one piece. It also helps to contain any leakage if that was to ever occur. All my items came in one piece and had absolutely no leakage.</p>
 
 <br>
 
