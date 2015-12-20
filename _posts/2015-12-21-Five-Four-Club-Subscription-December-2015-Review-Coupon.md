@@ -67,7 +67,7 @@ date: 2015-12-21 10:33:19 -08:00
 <DT>Darkson Slim Fit Jeans in Blue</DT>
 </DL>
 
-<p>My favorite items to receive from <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is jackets and the next best thing is pants. So when I saw a pair of jeans in this month's shipment I was excited. This is the first jeans my husband has received from them and they're pretty great.</p> 
+<p>My favorite items to receive from <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> are jackets and the next best thing are pants. So when I saw a pair of jeans in this month's shipment I was excited. This is the first jeans my husband has received from them and they're pretty great.</p> 
 
 <p>The material is made of 81.6% cotton, 16.9% polyester, and 1.5% spandex. It's your typical jean thickness but is not stiff and has stretchability. My husband only wears jeans that has some stretch in them so this was a good match.</p>
 
