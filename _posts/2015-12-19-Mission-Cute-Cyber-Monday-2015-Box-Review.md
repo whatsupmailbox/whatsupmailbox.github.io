@@ -25,7 +25,7 @@ date: 2015-12-19 09:03:39 -08:00
 <p><b>What's in the box:</b> The perfect gift for teachers, coworkers, friends and family! 6-8 items from past MissionCute boxes. Valued at over $70!</p>
 <br>
 
-<p>MissionCute is first and foremost a subscription box (they send out lifestyle items from small businesses) but once in awhile they come out with one-time gift boxes as well. To celebrate Cyber Monday, they had a special box at an amazing price that I just had to purchase. Yes, I had to, it would be a crime if I didn't. And it finally arrived earlier this week so I'm excited to share this review with you!</p>
+<p>MissionCute is first and foremost a subscription box (they send out lifestyle items from local businesses and also partner with a different non-profit every month) but once in awhile they come out with one-time gift boxes as well. To celebrate Cyber Monday, they had a special box at an amazing price that I just had to purchase. Yes, I had to, it would be a crime if I didn't. And it finally arrived earlier this week so I'm excited to share this review with you!</p>
 <br>
 
 <center><a href="http://shop.pe/bXki9" target="_blank">
