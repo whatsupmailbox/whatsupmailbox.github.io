@@ -22,7 +22,7 @@ date: 2015-12-21 09:01:39 -08:00
 <p><b>Box:</b> <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank"> Nourish Beauty Box</a></p>
 <p><b>Cost:</b> $34.95 + Free Shipping</p>
 <p><b>Shipping:</b> Ships Worldwide absolutely FREE!</p>
-<p><b>What's in the box:</b> This box (bag) comes all the way from England and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
+<p><b>What's in the box:</b> This box (bag) comes all the way from the UK and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
 <br>
 
 <p>Nourish Beauty Box is a fairly new subscription box (they launched in September) that caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products and a tote bag too!</p>
