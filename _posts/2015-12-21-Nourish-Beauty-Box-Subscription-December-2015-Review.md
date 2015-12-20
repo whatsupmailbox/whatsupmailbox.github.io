@@ -15,6 +15,9 @@ imagefeature: "NourishBeautyBoxDec2015Items.jpg"
 date: 2015-12-21 09:01:39 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was received in exchange for an honest review. All opinions and thoughts are of my own.</font></i>
+<br>
+
 <center><a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">
 <img src="/images/NourishBeautyBoxLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Beauty Box!" />
 </a></center>
@@ -22,7 +25,7 @@ date: 2015-12-21 09:01:39 -08:00
 <p><b>Box:</b> <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank"> Nourish Beauty Box</a></p>
 <p><b>Cost:</b> $34.95 + Free Shipping</p>
 <p><b>Shipping:</b> Ships Worldwide absolutely FREE!</p>
-<p><b>What's in the box:</b> This box (bag) comes all the way from the UK and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
+<p><b>What's in the box:</b> This box comes all the way from the UK and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
 <br>
 
 <p>Nourish Beauty Box is a fairly new subscription box (they launched in September) that caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products and a tote bag too!</p>
@@ -35,7 +38,9 @@ date: 2015-12-21 09:01:39 -08:00
 <img src="/images/NourishBeautyBoxDec2015Package.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Beauty Box Package" />
 </a></center>
 
-<p>As I mentioned, this subscription comes all the way from UK so it may take a bit longer to arrive to subscribers in the U.S. depending on customs. They mention to allow up to 10 business days for it to arrive, but it should get to you around the 25th of each month.</p>
+<p><i>Quick note: Items are usually shipped in a box, but since mine was sent for a review, it was packaged in a FedEx envelope.</i></p>
+
+<p>As I mentioned, this subscription box comes all the way from UK so it may take a bit longer to arrive to subscribers in the U.S. depending on customs. They mention to allow up to 10 business days for it to arrive, but it should get to you around the 25th of each month.</p>
 
 <br>
 
