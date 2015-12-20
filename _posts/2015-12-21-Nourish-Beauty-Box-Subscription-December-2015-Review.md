@@ -19,7 +19,7 @@ date: 2015-12-21 09:01:39 -08:00
 <img src="/images/NourishBeautyBoxLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Beauty Box!" />
 </a></center>
 
-<p><b>Box:</b> <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">Popsugar Must Have</a> Nourish Beauty Box</p>
+<p><b>Box:</b> <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank"> Nourish Beauty Box</a></p>
 <p><b>Cost:</b> $34.95 + Free Shipping</p>
 <p><b>Shipping:</b> Ships Worldwide absolutely FREE!</p>
 <p><b>What's in the box:</b> This box (bag) comes all the way from England and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
