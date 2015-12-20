@@ -125,11 +125,11 @@ date: 2015-12-21 09:01:39 -08:00
 <DD>Full Size 30ml, Value $32</DD>
 </DL>
 
-<p><i>Quick note: This bottle did not come sealed or packaged.</i</p>
+<p><i>Quick note: This bottle did not come sealed or packaged.</i></p>
 
 <p>Tinted moisturizers are a must for my casual and stay-at-home days. I may have heard about this brand and I'm not sure when or where, but I'm happy to try this moisturizer out. I checked out their website and couldn't find this product at all available there, and with a quick search online, I couldn't even find it available anywhere else. Hopefully it's not because it has been discontinued.</p>
 
-<p>This moisturizer has a cream-gel like texture that initially shows a light peachy color upon dispense, but after massaging it on to my face, the color transforms to blend with your skintone. It does have a scent due to the fragrance in its ingredients, and it smells somewhat sweet almost like shea butter. The formula in this moisturizer also helps to even out your skintone, and diminish the appearance of pores & fine lines, but it also hydrates, primes, and protects your skin at the same time. I've only tried this once and so far so good. I"m just not that into the scent it has, but that's just my personal preference.</p>
+<p>This moisturizer has a cream-gel like texture that initially shows a light peachy color upon dispense, but after massaging it onto my face, the color transforms to blend with your skintone. It does have a scent and it smells somewhat sweet, a bit like shea butter. The formula in this moisturizer also helps to even out your skintone, and diminish the appearance of pores & fine lines, but it also hydrates, primes, and protects your skin at the same time. I've only tried this once and so far so good. I"m just not that into the scent it has, but that's just my personal preference.</p>
 
 <br>
 
