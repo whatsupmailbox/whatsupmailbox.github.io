@@ -140,7 +140,7 @@ date: 2015-12-21 09:01:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love healthy beauty products and there aren't that many subscription boxes that cater to this, so I'm happy that we now have Nourish Beauty Box. I also love that they send out full-sized products, this way I can truly see if a product works or not as compared to sample sizes that leave me hanging and wondering if anything changed at all. I've read reviews of past boxes and do see that they tend to repeat brands in their shipments, but they're still fairly new so I'm sure that will change in time. This month's package introduced me to some pretty great brands and products that I would not have known on my own, so I'm really happy with that. If you're into healthy and organic beauty products, I suggest trying this one out!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love healthy beauty products and there aren't that many subscription boxes that cater to this, so I'm happy that we now have Nourish Beauty Box. I also love that they send out full-sized products, this way I can truly see if a product works or not as compared to sample sizes that leave me hanging and wondering if anything changed at all. This month's package introduced me to some pretty great brands and products that I would not have known on my own, so I'm really happy with that. If you're into healthy and organic beauty products, I suggest trying this one out!</p>
 
 <p>You can <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">subscribe here</a> or visit their website <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">www.nourishbeautybox.com</a> for more info.</p>
 
