@@ -25,9 +25,9 @@ date: 2015-12-21 09:01:39 -08:00
 <p><b>What's in the box:</b> This box (bag) comes all the way from England and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
 <br>
 
-<p>I admit, I'm a beauty addict and when I was young, I didn't care what ingredients were in my makeup and skincare, but as I'm getting older (and hopefully wiser) I care more about what I put on my skin. Now all my products are paraben-free, phthalates-free, etc, etc.</p>
+<p>Nourish Beauty Box is a fairly new subscription box (they launched in September) that caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products only and a tote bag too!</p>
 
-<p>Nourish Beauty Box caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products only and a tote bag too!</p>
+<p>I admit, I'm a beauty addict and when I was young, I didn't care what ingredients were in my makeup and skincare, but as I'm getting older (and hopefully wiser) I care more about what I put on my skin. Now all my products are paraben-free, phthalates-free, etc, etc.</p>
 
 <br>
 
@@ -51,6 +51,13 @@ date: 2015-12-21 09:01:39 -08:00
 <br>
 
 <center><a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">
+<img src="/images/NourishBeautyBoxDec2015Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
+</a></center>
+<figcaption>Info Card</figcaption>
+
+<br>
+
+<center><a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">
 <img src="/images/NourishBeautyBoxDec2015Items2.jpg" border="0" style="border:none;max-width:100%;" alt="Items packaging" />
 </a></center>
 
@@ -69,11 +76,13 @@ date: 2015-12-21 09:01:39 -08:00
 <center><a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">
 <img src="/images/NourishBeautyBoxDec2015Bag.jpg" border="0" style="border:none;max-width:100%;" alt="Nourish Beauty Box December 2015 Bag!" />
 </a></center>
-<figcaption>Nourish Beauty Box Eco Friendly Bag</figcaption>
 
-<br>
+<DL>
+<DT><b>Nourish Beauty Box</b> Eco-Friendly Canvas Tote Bag</DT>
+<DD>Full Size 30ml, Value $17.95</DD>
+</DL>
 
-<p>This month's bag has a Christmas and winter themed design. The quality of the bag itself seems strong and sturdy, and the size is quite substantial too, about the same size as a standard reusable tote (approx. 16" x 14"). I can't wait to use this on my next farmer's market run!</p>
+<p>Every month they send a custom made tote design with each shipment. This month's bag has a Christmas and winter themed design. The quality of the bag itself seems strong and sturdy, and the size is quite substantial too, about the same size as a standard reusable tote (approx. 16" x 14"). I could always use more totes and love getting them in subscription boxes. I do think that the value is a bit high for this type of tote, but nevertheless it's still a great addition. I can't wait to use this on my next farmer's market run!</p>
 
 <br>
 
@@ -124,3 +133,42 @@ date: 2015-12-21 09:01:39 -08:00
 
 <br>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love healthy beauty products and there aren't that many subscription boxes that cater to this, so I'm happy that we now have Nourish Beauty Box. I also love that they send out full-sized products, this way I can truly see if a product works or not as compared to sample sizes that leave me hanging and wondering if anything changed at all. I've read reviews of past boxes and do see that they tend to repeat brands in their shipments, but they're still fairly new so I'm sure that will change in time. This month's package introduced me to some pretty great brands and products that I would not have known on my own, so I'm really happy with that. If you're into healthy and organic beauty products, I suggest trying this one out!</p>
+
+<p>You can <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">subscribe here</a> or visit their website <a href="http://www.nourishbeautybox.com/ac/WHATSUPMAILBOX" target="_blank">www.nourishbeautybox.com</a> for more info.</p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:60%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>Nourish Beauty Box DEC 2015 Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Seraphine Botanicals Body Butter</TD>
+      <TD>$17.95</TD>
+   </TR>
+   <TR>
+      <TD>Prim Botanicals Face Oil</TD>
+      <TD>$60</TD>
+   </TR>
+    <TR>
+      <TD>Peony Cosmetics Tinted Moisturizer</TD>
+      <TD>$32</TD>
+   </TR>
+    <TR>
+      <TD>Eco-Friendly Canvas Tote</TD>
+      <TD>$22.95</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$132.90</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Box Cost</big></i></TD>
+      <TD><i><big>$34.95</big></i></TD>
+   </TR>
+</TABLE>
