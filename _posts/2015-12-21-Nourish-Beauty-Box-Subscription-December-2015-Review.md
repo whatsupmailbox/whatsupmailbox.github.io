@@ -79,7 +79,7 @@ date: 2015-12-21 09:01:39 -08:00
 
 <DL>
 <DT><b>Nourish Beauty Box</b> Eco-Friendly Canvas Tote Bag</DT>
-<DD>Full Size 30ml, Value $17.95</DD>
+<DD>Value $17.95</DD>
 </DL>
 
 <p>Every month they send a custom made tote design with each shipment. This month's bag has a Christmas and winter themed design. The quality of the bag itself seems strong and sturdy, and the size is quite substantial too, about the same size as a standard reusable tote (approx. 16" x 14"). I could always use more totes and love getting them in subscription boxes. I do think that the value is a bit high for this type of tote, but nevertheless it's still a great addition. I can't wait to use this on my next farmer's market run!</p>
