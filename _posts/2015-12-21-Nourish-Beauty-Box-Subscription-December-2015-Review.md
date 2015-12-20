@@ -25,9 +25,9 @@ date: 2015-12-21 09:01:39 -08:00
 <p><b>What's in the box:</b> This box (bag) comes all the way from England and is packed with organic, cruelty-free, ingredient-conscious beauty products. You'll receive 3 full-sized products + 1 eco friendly exclusive Nourish Beauty Box designed bag. $70+ retail value in every shipment!</p>
 <br>
 
-<p>Nourish Beauty Box is a fairly new subscription box (they launched in September) that caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products only and a tote bag too!</p>
+<p>Nourish Beauty Box is a fairly new subscription box (they launched in September) that caters to those who are beauty enthusiasts who want healthier and purer products. Plus they send out full-sized products and a tote bag too!</p>
 
-<p>I admit, I'm a beauty addict and when I was young, I didn't care what ingredients were in my makeup and skincare, but as I'm getting older (and hopefully wiser) I care more about what I put on my skin. Now all my products are paraben-free, phthalates-free, etc, etc.</p>
+<p>I admit, I'm a beauty addict and when I was young, I didn't care what ingredients were in my makeup and skincare, but as I'm getting older (and hopefully wiser) I care more about what I put on my skin. Now I try to have all my products to be paraben-free, phthalates-free, etc, etc.</p>
 
 <br>
 
