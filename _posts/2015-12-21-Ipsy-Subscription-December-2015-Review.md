@@ -129,7 +129,7 @@ date: 2015-12-21 10:01:39 -08:00
 <img src="/images/IpsyDec2015PacificaLipstick3.jpg" border="0" style="border:none;max-width:100%;" alt="Pacifica Power Of Love Natural Lipstick" />
 </a></center>
 
-<p>I love how this color looks on my lips. It has a satin finish and is creamy, highly-pigmented, and moisturizing too. This lipstick is 100% vegan, and even the tube fully recyclable! I really like this.</p>
+<p>I love how this color looks on my lips. It has a satin finish and is creamy, highly-pigmented, and moisturizing too. This lipstick is 100% vegan, and even the tube is fully recyclable! I really like this.</p>
 
 <br>
 
