@@ -11,7 +11,7 @@ type: photo
 imagefeature: IpsyDec2015Items.jpg
 headline: Ipsy December 2015 Review!
 tags: [Ipsy, Subscriptions, Reviews, December 2015]
-date: 2015-12-21 10:01:39 -08:00
+date: 2015-12-21 14:01:39 -08:00
 ---
 
 <p></p>
