@@ -40,7 +40,7 @@ date: 2015-12-21 09:01:39 -08:00
 
 <p><i>Quick note: Items are usually shipped in a box, but since mine was sent for a review, it was packaged in a FedEx envelope.</i></p>
 
-<p>As I mentioned, this subscription box comes all the way from UK so it may take a bit longer to arrive to subscribers in the U.S. depending on customs. They mention to allow up to 10 business days for it to arrive, but it should get to you around the 25th of each month.</p>
+<p>As I mentioned, this subscription box comes all the way from the UK so it may take a bit longer to arrive to subscribers in the U.S. depending on customs. They mention to allow up to 10 business days for it to arrive, but it should get to you around the 25th of each month.</p>
 
 <br>
 
