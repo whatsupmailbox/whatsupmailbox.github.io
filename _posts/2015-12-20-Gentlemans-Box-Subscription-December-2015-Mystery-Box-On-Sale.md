@@ -30,4 +30,4 @@ date: 2015-12-20 15:05:00 -08:00
 
 <p>I purchased one already so I should receive mine by Christmas, so excited! Can't wait to give this to my husband! I'll be sure to post a review as well so stay tuned.</p>
 
-<p>Interested in getting one too? You can <a href="http://mbsy.co/d7GnS" target="_blank">click here</a> to purchase or go to their website <a href="http://mbsy.co/d7GnS" target="_blank">www.gentlemansbox.com</a> for more info. But hurry, this promo will end Midnight (PST) tonight!</p>
+<p>Interested in getting one too? You can <a href="http://mbsy.co/d7GnS" target="_blank">click here</a> to purchase or go to their website <a href="http://mbsy.co/d7GnS" target="_blank">www.gentlemansbox.com</a> for more info. But hurry, order by Midnight (PST) tonight for Guaranteed Christmas delivery!</p>
