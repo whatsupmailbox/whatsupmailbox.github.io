@@ -1,15 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Ipsy December 2015 Review
+title: Ipsy December 2015 Reviewn + GWS!
 featured: false
 comments: true
 type: photo
 imagefeature: IpsyDec2015Items.jpg
-headline: Ipsy December 2015 Review!
+headline: Ipsy December 2015 Review + GWS!
 tags: [Ipsy, Subscriptions, Reviews, December 2015]
 date: 2015-12-21 14:01:39 -08:00
 ---
@@ -159,7 +159,12 @@ date: 2015-12-21 14:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Minus the hair treatment, I loved this month's items. With 3 full-sized products and a Tarte Cosmetics item, I'm more than happy. The total value came up to $63.99 which is pretty high and totally amazing for its $10 cost. That's what I love so much about <a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank">Ipsy</a>, their monthly cost is just the same as <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a>, but they tend to send more full-sized products and have a higher value, plus a makeup bag too! Can't recommend them enough!</p>
 
-<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties!</p>
+<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! And right now for a limited time (48 hours only!) get a FREE mascara in your next glam bag!</p>
+
+<center><a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank">
+<img src="/images/IpsyDec2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Ipsy December 2015 Gift With Subscription!" />
+</a></center>
+
 <br>
 
 <TABLE  BORDER="5" style="width:70%">
