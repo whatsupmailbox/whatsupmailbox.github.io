@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -8,7 +8,7 @@ title: Five Four Club December 2015 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourClubDec2015Items.jpg
+imagefeature: FiveFourClubDec2015Collage.jpg
 headline: Five Four Club December 2015 Review + 50% Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, December 2015]
 date: 2015-12-21 10:33:19 -08:00
