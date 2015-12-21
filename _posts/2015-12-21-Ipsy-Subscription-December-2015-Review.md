@@ -66,7 +66,7 @@ date: 2015-12-21 10:01:39 -08:00
 <DD>Value $12</DD>
 </DL>
 
-<p>I feel like I hit the jackpot everytime I get a beauty tool in my Ipsy bag, I really do. Although the name of the brand made me believe it was a French brand, it's actually founded by a husband and wife in Tampa, Florida and they still reside there. They're all about making quality brushes at an affordable price.</p>
+<p>I feel like I hit the jackpot everytime I get a beauty tool in my Ipsy bag, I really do. Although the name of the brand made me believe it was a French brand, it's actually founded by a husband and wife team in Tampa, Florida and they still reside there. They're all about making quality brushes at an affordable price.</p>
 
 <br>
 
