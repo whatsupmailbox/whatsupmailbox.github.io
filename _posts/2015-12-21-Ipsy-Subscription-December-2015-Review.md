@@ -38,7 +38,7 @@ date: 2015-12-21 10:01:39 -08:00
 
 <br>
 
-<p>Every month <a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design is festive red with diamond pattern stitching and glossy finish. It's nice and simple, not my favorite but will still be used.</p>
+<p>Every month <a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design is festive red with a diamond pattern stitching and glossy finish. It's nice and simple, not my favorite but will still be used.</p>
 
 <br>
 
