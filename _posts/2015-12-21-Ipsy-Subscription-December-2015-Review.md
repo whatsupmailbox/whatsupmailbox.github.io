@@ -77,7 +77,7 @@ date: 2015-12-21 10:01:39 -08:00
 
 <br>
 
-<b>The brush has a good length (approx. 6.5"), longer than my other concealer brushes which I actually like as it gives me the option of either holding it closer for a more precise application, or holding it further away for a softer look.</p>
+<p>The brush has a good length (approx. 6.5"), longer than my other concealer brushes which I actually like as it gives me the option of either holding it closer for a more precise application, or holding it further away for a softer look.</p>
 
 <br>
 
