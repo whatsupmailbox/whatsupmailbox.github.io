@@ -121,6 +121,13 @@ date: 2015-12-21 10:01:39 -08:00
 <img src="/images/IpsyDec2015PacificaLipstick2.jpg" border="0" style="border:none;max-width:100%;" alt="Pacifica Power Of Love Natural Lipstick" />
 </a></center>
 
+<p>How cute is that! I opened the box and I'm greeted with a friendly message. Good choice indeed.</p>
+
+<br>
+
+<center><a href="https://www.ipsy.com/referralGift/r/uns8d?cid=s_gift&sid=copy" target="_blank">
+<img src="/images/IpsyDec2015PacificaLipstick3.jpg" border="0" style="border:none;max-width:100%;" alt="Pacifica Power Of Love Natural Lipstick" />
+
 <p>I love how this color looks on my lips. It has a satin finish and is creamy, highly-pigmented, and moisturizing too. This lipstick is 100% vegan, and even the tube fully recyclable! I really like this.</p>
 
 <br>
