@@ -25,7 +25,7 @@ date: 2015-12-21 10:01:39 -08:00
 </a></center>
 <p>Ipsy always ships their bags in bright neon pink padded envelopes, it's hard to miss it in your mailbox!</p>
 
-<p>Ipsy is very similar to Birchbox where all subscribers receive different variations in their bag, and is mostly dependent on the answers you give in the Ipsy beauty quiz. They try to give you products that match your needs and concerns so not everyone will get the same items. And you can retake the beauty quiz at anytime if you feel that the products didn't really match you.</p>
+<p>Ipsy is very similar to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> where all subscribers receive different variations in their bag, and is mostly dependent on the answers you give in the Ipsy beauty quiz. They try to give you products that match your needs and concerns so not everyone will get the same items. And you can retake the beauty quiz at anytime if you feel that the products didn't really match you.</p>
 
 <p>This review is for my profile so it's just one of the many variations that they sent out.</p>
 
