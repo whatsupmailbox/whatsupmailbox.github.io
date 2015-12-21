@@ -4,7 +4,7 @@ published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Ipsy December 2015 Reviewn + GWS!
+title: Ipsy December 2015 Review + GWS!
 featured: false
 comments: true
 type: photo
