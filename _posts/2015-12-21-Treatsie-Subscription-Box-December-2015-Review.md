@@ -19,7 +19,7 @@ date: 2015-12-22 09:01:39 -08:00
 </a></center>
 <p><b>Subscription:</b> <a href="http://fbuy.me/co5XW" target="_blank">Treatsie</a></p>
 <p><b>Cost:</b> $15/month + $4.95 Shipping for the <b>Standard Box</b> (value up to $25); or $27/month + $4.95 Shipping for the <b>Double Sweets Box</b> (value up to $50)</p>
-<p><b>What's in the box:</b> Gourmet sweets and snacks from vendors all over the country. Boxes ship the week after the 15th.</p>
+<p><b>What's in the box:</b> Gourmet sweets and snacks from vendors all over the country. I find that they send you treats that are unique and from brands that can't be found in your local shops. Great for discovering new and amazing treats! FYI, boxes will ship the week after the 15th.</p>
 <p><b>Coupon:</b> Get Double the Sweets FREE with coupon code <a href="http://fbuy.me/co5XW">FRBUCO01</a>, that's double the sweets (Over $40 Total Value) when you subscribe today!</p>
 <br>
 
@@ -122,7 +122,3 @@ date: 2015-12-22 09:01:39 -08:00
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Minus the caramel, I loved it all. The items had a holiday feel to it and the type of sweets had a good variety for you to enjoy at home with loved ones or by yourself if you don't want to share ;) I especially loved the fact that they included The Art Of Caramel again, and in a new flavor too. And the Red Velvet Sandwhich Cookie, oh how amazing that was. I think I may need to buy more of those! I don't subscribe to them monthly, but when I feel it's time to try out some new sweets, I resubscribe and they haven't disappointed me in their shipments either. If you love trying out new type of sweets or treats, I highly suggest them.</p>
 
 <p>If you want to try them out, you can <a href="http://fbuy.me/co5XW" target="_blank">subscribe here</a> and get Double the Sweets FREE with coupon code <a href="http://fbuy.me/co5XW">FRBUCO01</a>, that's double the sweets (Over $40 Total Value) when you subscribe today!</p>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$31.95</big></i></TD>
-   </TR>
-</TABLE>
