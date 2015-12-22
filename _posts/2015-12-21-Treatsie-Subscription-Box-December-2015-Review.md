@@ -115,7 +115,7 @@ date: 2015-12-22 09:01:39 -08:00
 <DT><b>Avenue Sweets</b> Caramel Assortment</DT>
 </DL>
 
-<p>This caramel assortment includes Pecan (Dark Blue), Sea Salt (Light Blue), Golden Vanilla (Yellow), Peppermint Chocolate (Red), and Sea Salt Chocolate (Purple). I like how they included different flavors and let me know which one they are by their colors in the info card. This way I don't have to guess or eat it all at once just to find a flavor I like. I'm not really a caramel lover, I eat it once in awhile, plus I've just had some dental work done so I'm to avoid anything chewy and sticky, so I think I'll put this in my candy jar that I display for guests to enjoy.</p>
+<p>This caramel assortment includes Pecan (Brown), Sea Salt (Light Blue), Golden Vanilla (Yellow), Peppermint Chocolate (Red), and Sea Salt Chocolate (Purple). I like how they included different flavors and let me know which one they are by their colors in the info card. This way I don't have to guess or eat it all at once just to find a flavor I like. I'm not really a caramel lover, I eat it once in awhile, plus I've just had some dental work done so I'm to avoid anything chewy and sticky, so I think I'll put this in my candy jar that I display for guests to enjoy.</p>
 
 <br>
 
