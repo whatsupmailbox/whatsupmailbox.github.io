@@ -74,7 +74,7 @@ date: 2015-12-22 09:01:39 -08:00
 <DT><b>The Art Of Caramel</b> Brandy-Spiked Eggnog Caramel Popcorn</DT>
 </DL>
 
-<p>I'm a big fan of this brand and I was actually introduced to them by Treatsie in my <a href="http://whatsupmailbox.com/subscriptions/reviews/Treatsie-Subscription-Box-Review-June-2105/" target="_blank">June 2015 Box</a>. This is a new flavor that they came out with for the holidays and boy oh boy does it taste good!</p>
+<p>I'm a big fan of this brand and I was actually introduced to them by Treatsie in my <a href="http://whatsupmailbox.com/subscriptions/reviews/Treatsie-Subscription-Box-Review-June-2105/" target="_blank">June 2015 Box</a>. This is a new flavor that they came out with for the holidays and boy oh boy does it taste good! Who can resist any popcorn that's brandy-spiked, it's such a treat for adults and will surely be a conversation maker if you ever decide to bring this to any party.</p>
 
 <br>
 
@@ -104,7 +104,7 @@ date: 2015-12-22 09:01:39 -08:00
 <img src="/images/TreatsieDec2015MalviRedVelvetMarshmallow2.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
-<p>It's a pretty substantial size as you can see from the picture above, and it will look great on a cookie platter for the holidays.</p>
+<p>It's a pretty substantial size as you can see from the picture above, and it will look great on a cookie platter for the holidays. I'm not going to do that though, these are all going to my secret stash which is not for sharing! =P</p>
 
 <br>
 
@@ -115,7 +115,7 @@ date: 2015-12-22 09:01:39 -08:00
 <DT><b>Avenue Sweets</b> Caramel Assortment</DT>
 </DL>
 
-<p>This caramel assortment includes Pecan (Dark Blue), Sea Salt (Light Blue), Golden Vanilla (Yellow), Peppermint Chocolate (Red), and Sea Salt Chocolate (Purple). I like how they included different flavors and let me know which one they are by their colors in the info card. This way I don't have to guess or eat it all at once just to find a flavor I like. I'm not really a caramel lover, I eat it once in awhile, so I think I'll bring put this in my candy jar that I display for guests to enjoy.</p>
+<p>This caramel assortment includes Pecan (Dark Blue), Sea Salt (Light Blue), Golden Vanilla (Yellow), Peppermint Chocolate (Red), and Sea Salt Chocolate (Purple). I like how they included different flavors and let me know which one they are by their colors in the info card. This way I don't have to guess or eat it all at once just to find a flavor I like. I'm not really a caramel lover, I eat it once in awhile, plus I've just had some dental work done so I'm to avoid anything chewy and sticky, so I think I'll put this in my candy jar that I display for guests to enjoy.</p>
 
 <br>
 
