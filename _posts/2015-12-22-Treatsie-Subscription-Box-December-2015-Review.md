@@ -8,7 +8,7 @@ title: Treatsie Subscription Box Review December 2015 + Free Box!
 featured: false
 comments: true
 type: photo
-imagefeature: TreatsieDec2015Box.jpg
+imagefeature: TreatsieDec2015Items.jpg
 headline: Treatsie Subscription Box Review December 2015 + Free Box!
 tags: [Treatsie, Subscriptions, Reviews, December 2015]
 date: 2015-12-22 09:01:39 -08:00
