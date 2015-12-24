@@ -81,7 +81,7 @@ date: 2015-12-24 10:35:39 -08:00
 </a></center>
 <br>
 
-<p>OMG, look at all the items in here! I think this is the most <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> has ever sent and even before I go into each item, I already can sense that this might be my favorite box from them yet!</p>
+<p>Everything looks so fab! I said that the Fall box might be my favorite from them in my last review, but I think this one trumps it. I can't wait to use them all!</p>
 
 <H4>Items in detail:</H4>
 
