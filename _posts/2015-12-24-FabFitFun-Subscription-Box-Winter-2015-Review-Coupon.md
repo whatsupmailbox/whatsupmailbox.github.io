@@ -163,6 +163,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015FrendsDonnaEarbuds2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+<figcaption>Closer look at the earbuds</figcaption>
 
 <p>Earbuds are great for when you want to listen to music and are wearing big chunky earrings. Wearing headphones would just press your earrings onto your ears and that's not a comfortable feeling. I wish I could use this, but as I mentioned before, it doesn't fit my ears perfectly so off it goes to be gifted.</p>
 
