@@ -13,70 +13,68 @@ published: false
 featured: false
 type: photo
 imagefeature: "FabFitFunWinter2015Items.jpg"
-date: 2015-12-23 09:05:39 -08:00
+date: 2015-12-24 10:35:39 -08:00
 ---
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Box.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <br>
 
-<p><b>Subscription:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a></p>
+<p><b>Subscription:</b> <a href="http://xo.fff.me/dlGvR" target="_blank">FabFitFun</a></p>
 <p><b>Cost:</b> $49.99/quarterly + Free shipping. (Taxes apply to CA)</p>
-<p><b>Coupon:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">Get $10 off your first box through this link</a>!</p>
+<p><b>Coupon:</b> <a href="http://xo.fff.me/cwUVT" target="_blank">Get $10 off your first box through this link</a>, that brings the cost of this box to $39.99!</p>
 <p><b>What's in the box:</b> You'll receive a seasonal gift box filled with the newest most fab items, hand-picked by the FabFitFun Team. Full-sized items will include beauty, fashion, fitness, wellness and home products guaranteed to make you feel like a VIP all year long.</p>
 
-<p>FabFitFun is one of my favorite subscriptions because they have such a good mix of products in their boxes everytime! So as soon as I saw my mailman walking towards my door with this purple box, I went straight for him. Yep, I was that excited to open this box!</p>
+<p>FabFitFun is one of my favorite subscriptions because they have such a good mix of products in their boxes everytime! And lately the items have been getting better and better, so I was excited to open this box up!</p>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015OpenBox.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015OpenBox2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>Not sure why, but the Flawless Skin Fluid box (green box on the right) was opened. Perhaps it was due to movement during shipping that made the box open. But not to fear, the moisturizer tube itself is sealed, so nothing to be worried about, phew!</p>
+<p>Spoilers were released earlier for some items, but as always it's still exciting for me to actually have this box in hand.</p>
 
-<p>Spoilers were released earlier for some items, but as always it's still exciting for me to actually finally have it in my hands.</p>
-
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Info.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>The info magazine</figcaption>
 <br>
 
-<p>This month <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> changed their info sheet into a magazine. I actually love it! It's very informational and they even modeled every item in the box so we can see how it's on/used. So very helpful!</p>
+<p>Starting from the last box, which is the <a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Fall-2015-Review-Coupon/" target="_blank">Fall 2015 Box</a>, <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> changed their info sheet to a magazine. I love this change and think that the magazine is so much more informational and they also include fun and useful tips according to the season.</p>
 
 <p>Here are some pages from the info magazine:</p>
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015Info1.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
-<br>
-
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Info2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Info3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
+<p>Happy Holidays to me!!! =D</p>
+
 <br>
 
-<p>I love how they tell the background of the company, tips on using the items and even some interviews with the artists behind the designs. So much better than their previous info sheets. Good job <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a>!</p>
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015Info4.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>The travel tips are very useful for the holidays since a lot of us will probably be travelling. Much appreciated!</p>
 
 <br>
 
 <H4>And here are the items inside:</H4>
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Items.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <br>
@@ -85,7 +83,7 @@ date: 2015-12-23 09:05:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015Gloves.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
@@ -97,8 +95,8 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015Diffuser.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunFall2015EJHDiffuser.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>EJH</b> Diffuser in Sweet Cookie</DT>
@@ -111,19 +109,22 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015WineStopperSet.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015WineStopperCharm.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015WineStopperCharm2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>FabFitFun</b> Wine Stopper and Charm Set</DT>
 <DD>Value $15</DD>
 </DL>
 
-<p>I prefer silicone wine stoppers because I feel they provide a tight enclosure compared to the stainless steel ones, so this was a great item for me. The design is not really my style, but it's cute and fun.</p>
+<p>I prefer these type of silicone wine stoppers because I feel they provide a tighter enclosure compared to the stainless steel ones, so this was a great item for me. The design is not really my style, but it's cute and fun, and will definitely be used!</p>
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015DermalogicaSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
@@ -133,11 +134,11 @@ date: 2015-12-23 09:05:39 -08:00
 
 <p><i>Note: The Skin Smoothing Cream has an inner foil seal</i></p>
 
-<p>I love Dermalogica, I have a few of their products and they're great on my skin. This set has all the basics for your daily skincare needs and the size is perfect for travelling. I'm sure a lot of us will be travelling during the holiday season, so this set will surely help!</p>
+<p>I love Dermalogica, I have a few of their products and they're great on my skin. This set has all the basics for your daily skincare needs and the size is perfect for travelling. I'm sure a lot of us will be travelling during the holiday season, so this set will surely help! FYI, Aa20% off coupon was also included in this set.</p>
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015FrendsEarbuds.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
@@ -151,7 +152,7 @@ date: 2015-12-23 09:05:39 -08:00
 
 <p>I'm already a proud owner of a FRENDS Taylor Headphones and I'm currently wearing them right now as I'm writing this review. I love the Taylor headphones, but this Donna earbuds falls short in my view. First off, it doesn't fit my ears perfectly (but that just might be me as I do have small ears), and the design looks somewhat plain to me. It's still a great addition to the box and I'm sure this will make a great gift, but I certainly would not have paid $80 for these earbuds.</p>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015FrendsEarbuds2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -159,22 +160,9 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunFall2015Battery4.jpg" border="0" style="border:none;max-width:100%;" alt="HISY Battery Pack" />
-</a></center>
-
-<p>HISY also included a 25% off coupon which I'm sure I'll be using soon.</p>
-
-<br>
-
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015JuaraBodyCreme.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015JuaraBodyCreme2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
 <DL>
 <DT><b>JUARA</b> Candlenut Body Creme</DT>
 <DD>Value $38</DD>
@@ -182,12 +170,19 @@ date: 2015-12-23 09:05:39 -08:00
 
 <p><i>Note: This came with an inner foil seal</i></p>
 
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015JuaraBodyCreme2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015JuaraBodyCreme3.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
 <p>I had somewhat of a hard time taking the seal off of this jar, and once I had it all off, some of the body creme found its way to my hands and wow, it smells heavenly. It's rich and so moisturizing, I think this has got to be my new favorite lotion!</p>
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015Zoya.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015ZoyaNailPolish.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
@@ -201,7 +196,7 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
 <img src="/images/FabFitFunWinter2015ShoptiquesGiftCard.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -216,8 +211,8 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015SweetAndSparkGiftCard.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015Fillers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>Sweet and Spark</b> $40 Gift Card</DT>
@@ -227,9 +222,6 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<center><a href="http://xo.fff.me/cAIsf" target="_blank">
-<img src="/images/FabFitFunWinter2015HelloFresh.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
 <DL>
 <DT>Hello Fresh 3 Free Meals Coupon</DT>
 </DL>
@@ -238,9 +230,17 @@ date: 2015-12-23 09:05:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> FabFitFun has been getting better and better! The items in this box were amazing and even the gift cards too, especially since they look and function as an actual gift card! Sometimes they're more like a coupon and require a minimum purchase, or the items they sell cost way more than the value of the gift card. I think they captured the Winter theme perfectly with the items included, and the total value came up to $315 which is amazing for a $50 box (or $40 if you purchased through my <a href="http://xo.fff.me/cwUVT" target="_blank">personal link for $100 off</a>). Next shipment is Spring 2016, and I sure can't wait to see what they're planning for that box! I'll be posting spoilers as they become available, so check back regularly.</p>
+<DL>
+<DT>ASPCA Info</DT>
+</DL>
 
-<p>If you haven't joined yet, you can <a href="http://xo.fff.me/cwUVT" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
+<p><a href="http://xo.fff.me/dlGvR" target="_blank">FabFitFun</a> is raising awareness to animal cruelty with ASPCA. The ASPCA is the first animal welfare organization in North America to lead the way in fighting cruelty and ending animal homelessness. For every cute picture you post with the hashtags #FFFAnimalLove #FabFitFun #ASPCA and tag @FabFitFun and @ASPCA on Instagram, they'll donate $1 to the ASPCA.</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> FabFitFun has been getting better and better! The items in this box were amazing and even the gift cards too, especially since they look and function as an actual gift card! Sometimes they're more like a coupon and require a minimum purchase, or the items they sell cost way more than the value of the gift card. I think they captured the Winter theme perfectly with the items included, and the total value came up to $315 which is amazing for a $50 box (or $40 if you purchased through my <a href="http://xo.fff.me/dlGvR" target="_blank">personal link for $100 off</a>). Next shipment is Spring 2016, and I sure can't wait to see what they're planning for that box! I'll be posting spoilers as they become available, so check back regularly.</p>
+
+<p>If you haven't joined yet, you can <a href="http://xo.fff.me/dlGvR" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:65%">
@@ -252,48 +252,44 @@ date: 2015-12-23 09:05:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Passport to Beauty - Gold Radiance Mask</TD>
-      <TD>$65</TD>
+      <TD>Whitney Eve X FabFitFun Fingerless Gloves</TD>
+      <TD>$26</TD>
    </TR>
   <TR>
-      <TD>FabFitFun x Tappan Collective Umbrella</TD>
-      <TD>$32</TD>
+      <TD>EJH Diffuser</TD>
+      <TD>$37</TD>
    </TR>
    <TR>
-      <TD>Manna Kadar - Lucky Lip Stain</TD>
-      <TD>$24</TD>
-   </TR>
-    <TR>
-      <TD>Doctor D. Schwab - Flawless Skin Fluid</TD>
-      <TD>$39</TD>
-   </TR>
-    <TR>
-      <TD>HISY Battery Pack</TD>
-      <TD>$24.99</TD>
-   </TR>
-    <TR>
-      <TD>Merrithew - Strength Tubing + DVD</TD>
-      <TD>$33</TD>
-   </TR>
-    <TR>
-      <TD>Tribe Alive - Glass Crystal Bead Bracelet</TD>
-      <TD>$49</TD>
-   </TR>
-    <TR>
-      <TD>Purple Purse Charm by Allstate Foundation</TD>
-      <TD>$10</TD>
-   </TR>
-    <TR>
-      <TD>Jeweler's Wife Gift Card</TD>
+      <TD>FabFitFun Wine Stopper & Charms</TD>
       <TD>$15</TD>
    </TR>
     <TR>
-      <TD>Picture It On Canvas Gift Card</TD>
-      <TD>$75</TD>
+      <TD>Dermalogica Skincare Set</TD>
+      <TD>$45</TD>
+   </TR>
+    <TR>
+      <TD>FRENDS Donna Earbuds</TD>
+      <TD>$80</TD>
+   </TR>
+    <TR>
+      <TD>JUARA Candlenut Body Creme</TD>
+      <TD>$38</TD>
+   </TR>
+    <TR>
+      <TD>Zoya Nail Polish</TD>
+      <TD>$9</TD>
+   </TR>
+    <TR>
+      <TD>Shoptiques Gift Card</TD>
+      <TD>$25</TD>
+   </TR>
+    <TR>
+      <TD>Sweet & Spark Gift Card</TD>
+      <TD>$40</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$366.99</big></b></TD>
+      <TD><b><big>$312</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
