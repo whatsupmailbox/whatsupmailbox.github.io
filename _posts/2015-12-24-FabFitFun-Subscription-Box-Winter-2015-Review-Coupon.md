@@ -252,7 +252,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <p>If you haven't joined yet, you can <a href="http://xo.fff.me/dlGvR" target="_blank"><big>subscribe to FabFitFun through this link and get $10 off your first box</big></a>!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:65%">
+<TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
