@@ -48,7 +48,7 @@ date: 2015-12-24 10:35:39 -08:00
 <figcaption>The info magazine</figcaption>
 <br>
 
-<p>Starting from the last box, which is the <a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Fall-2015-Review-Coupon/" target="_blank">Fall 2015 Box</a>, the info regular <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> info card has been replaced by a magazine. I love this change and think that the magazine is so much more informational, plus they also include fun and useful tips according to the season. So very helpful and visually stunning too!</p>
+<p>Starting from the last box, which is the <a href="http://whatsupmailbox.com/subscriptions/reviews/FabFitFun-Subscription-Box-Fall-2015-Review-Coupon/" target="_blank">Fall 2015 Box</a>, the regular <a href="http://xo.fff.me/cwUVT" target="_blank">FabFitFun</a> info card has been replaced by a magazine. I love this change and think that the magazine is so much more informational, plus they also include fun and useful tips according to the season. So very helpful and visually stunning too!</p>
 
 <p>Here are some pages from the info magazine:</p>
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
