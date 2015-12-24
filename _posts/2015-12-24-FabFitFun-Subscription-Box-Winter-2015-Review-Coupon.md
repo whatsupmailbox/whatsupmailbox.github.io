@@ -199,7 +199,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <DD>Value $9</DD>
 </DL>
 
-<p><i>Subscribers received one of four “berry-toned hues: Vanessa, Sasha, XXX or Blair</i></p>
+<p><i>Subscribers received one of four “berry-toned hues: Vanessa, Sasha, Dakota or Blair</i></p>
 
 <p>I'm already a fan of Zoya. They're a 3-free polish and their colors are named after Female names. I have quite a collection of their colors and I find them to last long and application has always been smooth.</p>
 
