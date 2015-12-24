@@ -235,7 +235,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <DT>Hello Fresh 3 Free Meals Coupon</DT>
 </DL>
 
-<p>I have a ton of these coupons from various subscription boxes, and now I have one more. I've tried them before (<a href="http://whatsupmailbox.com/subscriptions/reviews/Hello-Fresh-May-2015-Review/" target="_blank>read my past review here</a>) and they're a great subscription to have if you like to cook at home but don't have time to constantly buy fresh ingredients. It also makes it easy to plan your dinner meals as each box comes with not only the ingredients of your selected meals (they come out with new dishes every week), but also a detailed recipe card on how to cook it. It was so easy that even my husband who's specialty is toasting bread, could follow and actually cooked a meal for me.</p>
+<p>I have a ton of these coupons from various subscription boxes, and now I have one more. I've tried them before (<a href="http://whatsupmailbox.com/subscriptions/reviews/Hello-Fresh-May-2015-Review/" target="_blank">read my past review here</a>) and they're a great subscription to have if you like to cook at home but don't have time to constantly buy fresh ingredients. It also makes it easy to plan your dinner meals as each box comes with not only the ingredients of your selected meals (they come out with new dishes every week), but also a detailed recipe card on how to cook it. It was so easy that even my husband who's specialty is toasting bread, could follow and actually cooked a meal for me.</p>
 
 <br>
 
