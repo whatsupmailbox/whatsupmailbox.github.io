@@ -55,6 +55,8 @@ date: 2015-12-24 10:35:39 -08:00
 <img src="/images/FabFitFunWinter2015Info2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
+<p>The first page always lists the items in the box and their values.</p>
+
 <br>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
