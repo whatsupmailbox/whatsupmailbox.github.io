@@ -142,7 +142,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 
 <p><i>Note: The Skin Smoothing Cream has an inner foil seal</i></p>
 
-<p>I love Dermalogica, I have a few of their products and they're great on my skin. This set has all the basics for your daily skincare needs and the size is perfect for travelling. I'm sure a lot of us will be travelling during the holiday season, so this set will surely help! FYI, Aa20% off coupon was also included in this set.</p>
+<p>I love Dermalogica, I have a few of their products and they're great on my skin. This set has all the basics for your daily skincare needs and the size is perfect for travelling. I'm sure a lot of us will be travelling during the holiday season, so this set will surely help! FYI, a 20% off coupon was also included in this set.</p>
 
 <br>
 
@@ -227,7 +227,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <DT><b>Sweet and Spark</b> $40 Gift Card</DT>
 </DL>
 
-<p>I've received a gift card from them in a previous Popsugar box. I haven't even used that one yet, but it's mostly because all their jewelry that's $40 or below are sold out, so I keep checking back to see if they add more. What's great is that their gift cards, including this one, never expires.</p>
+<p>I've received a gift card from them in a previous Popsugar box. I haven't even used that one yet, but it's mostly because all their jewelry that's priced below $50 are mostly sold out, so I keep checking back to see if they add more. What's great is that their gift cards, including this one, never expires.</p>
 
 <br>
 
@@ -235,7 +235,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <DT>Hello Fresh 3 Free Meals Coupon</DT>
 </DL>
 
-<p>I have a ton of these coupons from various subscription boxes, and now I have one more. I've tried them before (read my past review here) and they're a great subscription to have if you like to cook at home but don't have time to constantly buy fresh ingredients. It also makes it easy to plan your dinner meals as each box comes with not only the ingredients of your selected meals (they come out with new dishes every week), but also a detailed recipe card on how to cook it. It was so easy that even my husband who's specialty is toasting bread, could follow and actually cooked a meal for me.</p>
+<p>I have a ton of these coupons from various subscription boxes, and now I have one more. I've tried them before (<a href="http://whatsupmailbox.com/subscriptions/reviews/Hello-Fresh-May-2015-Review/" target="_blank>read my past review here</a>) and they're a great subscription to have if you like to cook at home but don't have time to constantly buy fresh ingredients. It also makes it easy to plan your dinner meals as each box comes with not only the ingredients of your selected meals (they come out with new dishes every week), but also a detailed recipe card on how to cook it. It was so easy that even my husband who's specialty is toasting bread, could follow and actually cooked a meal for me.</p>
 
 <br>
 
