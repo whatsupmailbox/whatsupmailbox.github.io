@@ -86,7 +86,7 @@ date: 2015-12-24 10:35:39 -08:00
 <H4>Items in detail:</H4>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015Gloves.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015WhitneyEveGloves.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT>Whitney Eve X FabFitFun Fingerless Gloves</DT>
