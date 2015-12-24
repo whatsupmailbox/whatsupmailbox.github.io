@@ -9,11 +9,11 @@ categories:
 tags: [FabFitFun, Subscriptions, Reviews, December 2015]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "FabFitFunWinter2015Items.jpg"
-date: 2015-12-24 10:35:39 -08:00
+date: 2015-12-24 11:05:39 -08:00
 ---
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
@@ -174,7 +174,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 </a></center>
 <DL>
 <DT><b>JUARA</b> Candlenut Body Creme</DT>
-<DD>Value $38</DD>
+<DD>Value $35</DD>
 </DL>
 
 <p><i>Note: This came with an inner foil seal</i></p>
@@ -282,7 +282,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
    </TR>
     <TR>
       <TD>JUARA Candlenut Body Creme</TD>
-      <TD>$38</TD>
+      <TD>$35</TD>
    </TR>
     <TR>
       <TD>Zoya Nail Polish</TD>
