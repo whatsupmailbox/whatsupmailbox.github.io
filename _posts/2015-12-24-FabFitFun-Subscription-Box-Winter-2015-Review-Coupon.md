@@ -104,7 +104,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <br>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunFall2015EJHDiffuser.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015EJHDiffuser.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>EJH</b> Diffuser in Sweet Cookie</DT>
