@@ -147,7 +147,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <br>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015FrendsEarbuds.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015FrendsDonnaEarbuds.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>FRENDS</b> The Donna Earbuds in Black & Gold</DT>
@@ -161,7 +161,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <p>I'm already a proud owner of a FRENDS Taylor Headphones and I'm currently wearing them right now as I'm writing this review. I love the Taylor headphones, but this Donna earbuds falls short in my view. First off, it doesn't fit my ears perfectly (but that just might be me as I do have small ears), and the design looks somewhat plain to me. It's still a great addition to the box and I'm sure this will make a great gift, but I certainly would not have paid $80 for these earbuds.</p>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015FrendsEarbuds2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015FrendsDonnaEarbuds2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>Earbuds are great for when you want to listen to music and are wearing big chunky earrings. Wearing headphones would just press your earrings onto your ears and that's not a comfortable feeling. I wish I could use this, but as I mentioned before, it doesn't fit my ears perfectly so off it goes to be gifted.</p>
@@ -169,7 +169,7 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <br>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015JuaraBodyCreme.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015JuaraCandlenutBodyCreme.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
 <DT><b>JUARA</b> Candlenut Body Creme</DT>
@@ -179,10 +179,10 @@ It's also great to wear around the house on my stay-at-home days, and the finger
 <p><i>Note: This came with an inner foil seal</i></p>
 
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015JuaraBodyCreme2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015JuaraCandlenutBodyCreme2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <center><a href="http://xo.fff.me/dlGvR" target="_blank">
-<img src="/images/FabFitFunWinter2015JuaraBodyCreme3.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/FabFitFunWinter2015JuaraCandlenutBodyCreme3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>I had somewhat of a hard time taking the seal off of this jar, and once I had it all off, some of the body creme found its way to my hands and wow, it smells heavenly. It's rich and so moisturizing, I think this has got to be my new favorite lotion!</p>
