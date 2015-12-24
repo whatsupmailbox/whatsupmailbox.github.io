@@ -93,7 +93,13 @@ date: 2015-12-24 10:35:39 -08:00
 <DD>Value $26</DD>
 </DL>
 
-<p>I love wearing gloves when it's cold outside, but it doesn't get THAT cold here in Los Angeles so I rarely wear the ones I have. These gloves are perfect though since it's fingerless and quite light in material, I can definitely wear this. It's also great to wear around the house on my off stay-at-home days, and the fingerless part makes these gloves easy to work with no matter what you're doing. Such a great item to include in a Winter themed box!</p>
+<p>I love wearing gloves when it's cold outside, but it doesn't get THAT cold here in Los Angeles so I rarely wear the ones I have. These gloves are perfect though since it's fingerless and quite light in material, I can definitely wear this.</p>
+
+<center><a href="http://xo.fff.me/dlGvR" target="_blank">
+<img src="/images/FabFitFunWinter2015WhitneyEveGloves2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+It's also great to wear around the house on my stay-at-home days, and the fingerless part makes these gloves easy to work with no matter what you're doing. Such a great item to include in a Winter themed box!</p>
 
 <br>
 
