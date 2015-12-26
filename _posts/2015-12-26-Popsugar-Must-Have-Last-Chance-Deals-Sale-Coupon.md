@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Popsugar Last Chance Sale + Coupon!"
+title: "Popsugar Last Chance Sale!"
 description: ""
-headline: "Popsugar Last Chance Sale + Coupon!"
+headline: "Popsugar Last Chance Sale!"
 tags: [Popsugar Must Have, Products, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Products
@@ -20,9 +20,7 @@ date: 2015-12-26 11:01:00 -08:00
 <img src="/images/PopsugarDec2015Sale.png" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Stocking Stuffers Sale" />
 </a></center>
 
-<p>Limited time sale, ends tomorrow December 18th, use coupon code TREND or DECOR to save $25 on the Trendsetter or Decorator Stocking Stuffer sets from <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">POPSUGAR</a>!!! <i>Shipping note: Orders placed by December 18th will arrive by Dec. 24th!</i></p>
-
-<p>That brings the cost of the Trendsetter Stocking Stuffer set down to $90 ($340 Value) and the Decorator Stocking Stuffer set down to $55 ($225 Value), that's an amazing deal! (Fyi, taxes apply to California) I've been eyeing the Decorator set for awhile because it has the Missoni candle, Monica Rich Kosann picture frame, and the Swing Design glass storage box, so I'm totally using this sale and getting one!</p>
+<p>Limited time sale, once they sell out, they're gone forever! No coupon code needed, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">just click here to start shopping</a>!!!</p>
 
 <p>Here are a few from the list of sets on sale:</p>
 
@@ -74,7 +72,7 @@ date: 2015-12-26 11:01:00 -08:00
 
 <br>
 
-<p>FOR THE TRENDSETTER ($115, $90 with coupon):</p>
+<p>FOR THE TRENDSETTER $74.95:</p>
 <ul>
 <li>Clare V. Foldover Clutch, RV $220</li>
 <li>Lancer Skincare The Method: Nourish, RV $125</li>
@@ -83,6 +81,6 @@ date: 2015-12-26 11:01:00 -08:00
 
 <br>
 
-<p>If you're interested in getting this deal, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">click here to purchase</a>, or visit their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> for more info. But hurry, this deal only lasts till tomorrow Dec 18th, so I suggest getting one before it's either gone or the deal ends!</p>
+<p>If you're interested in getting this deal, <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">click here to purchase</a>, or visit their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> for more info. But hurry, this deal only lasts while there's supply, once they sell out, they're gone forever!</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on your purchase at Popsugar, I always use them and get money back!</p>
