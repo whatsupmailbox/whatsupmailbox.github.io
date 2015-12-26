@@ -15,7 +15,7 @@ imagefeature: "JulepMavenDec2015Sale.png"
 date: 2015-12-26 10:34:39 -08:00
 ---
 
-<center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepDec2015.png" border="0" style="border:none;max-width:100%;" />
+<center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepDec2015Sale.png" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <p><i>Savvy offers valid while supplies last. All items purchased from the Savvy Deals catalog are final sale, absolutely no exchanges or returns. No adjustments on previous purchases.</i></p>
 
@@ -39,6 +39,9 @@ date: 2015-12-26 10:34:39 -08:00
 
 <p>I totally took advantage of the 10 Mystery Nail Polish for $20 deal, plus I added a non item sale and used the $10 off coupon, so it's almost like buying the mystery deal and getting something extra for free, such a great deal!</p>
 
+<br>
+<center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepLogo.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 ## Who's Julep?
 <p>For those of you who are not familiar with Julep, they're an innovative and health conscious makeup company that specializes in beauty products including cosmetics, nail color, and skincare. 
 They also have a wildly popular Julep Maven subscription program, the first fully customizable monthly beauty box!</p>
