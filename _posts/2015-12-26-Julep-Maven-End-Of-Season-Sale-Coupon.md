@@ -15,7 +15,7 @@ imagefeature: "JulepMavenDec2015Sale.png"
 date: 2015-12-26 10:34:39 -08:00
 ---
 
-<center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank">"/images/JulepDec2015Sale.png" border="0" style="border:none;max-width:100%;" /></a></center>
+<center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><"img src="/images/JulepDec2015Sale.png" border="0" style="border:none;max-width:100%;" /></a></center>
 <p><i>Savvy offers valid while supplies last. All items purchased from the Savvy Deals catalog are final sale, absolutely no exchanges or returns. No adjustments on previous purchases.</i></p>
 
 <br>
