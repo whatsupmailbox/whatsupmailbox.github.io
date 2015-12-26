@@ -42,7 +42,8 @@ date: 2015-12-26 10:14:39 -08:00
 <br>
 <center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepLogo.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-## Who's Julep?
+
+# Who's Julep?
 <p>For those of you who are not familiar with Julep, they're an innovative and health conscious makeup company that specializes in beauty products including cosmetics, nail color, and skincare. 
 They also have a wildly popular Julep Maven subscription program, the first fully customizable monthly beauty box!</p>
 
