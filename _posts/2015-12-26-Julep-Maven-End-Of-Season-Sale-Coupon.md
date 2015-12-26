@@ -37,7 +37,7 @@ date: 2015-12-26 10:14:39 -08:00
 
 <br>
 
-<p>I totally took advantage of the 10 Mystery Nail Polish for $20 deal, plus I added a non item sale and used the $10 off coupon, so it's almost like buying the mystery deal and getting something extra for free, such a great deal!</p>
+<p>I totally took advantage of the 10 Mystery Nail Polish for $20 deal, plus I added a non sale item and used the $10 off coupon, so it's almost like buying the mystery deal and getting something extra for free, such a great deal!</p>
 
 <br>
 <center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepLogo.jpg" border="0" style="border:none;max-width:100%;" />
