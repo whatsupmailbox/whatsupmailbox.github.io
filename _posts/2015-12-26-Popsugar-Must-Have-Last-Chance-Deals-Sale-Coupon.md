@@ -24,10 +24,10 @@ date: 2015-12-26 11:01:00 -08:00
 
 <p>That brings the cost of the Trendsetter Stocking Stuffer set down to $90 ($340 Value) and the Decorator Stocking Stuffer set down to $55 ($225 Value), that's an amazing deal! (Fyi, taxes apply to California) I've been eyeing the Decorator set for awhile because it has the Missoni candle, Monica Rich Kosann picture frame, and the Swing Design glass storage box, so I'm totally using this sale and getting one!</p>
 
-<p>Here are the list of sets on sale:</p>
+<p>Here are a few from the list of sets on sale:</p>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarNov2015.png" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarMustHaveNov2015.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>The November 2015 Popsugar Must Have Box</figcaption>
 
@@ -47,7 +47,7 @@ date: 2015-12-26 11:01:00 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarNov2015.png" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarHolidaySurvivalKit2015.png" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>POPSUGAR Must Have Special Edition Today Box: Holiday Survival Kit</figcaption>
 
