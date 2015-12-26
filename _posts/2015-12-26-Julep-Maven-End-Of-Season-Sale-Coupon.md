@@ -8,11 +8,11 @@ categories:
 tags: [Julep Maven, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "JulepMavenDec2015Sale.png"
-date: 2015-12-26 10:34:39 -08:00
+imagefeature: "JulepDec2015Sale.png"
+date: 2015-12-26 10:14:39 -08:00
 ---
 
 <center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepDec2015Sale.png" border="0" style="border:none;max-width:100%;" />
@@ -21,7 +21,7 @@ date: 2015-12-26 10:34:39 -08:00
 
 <br>
 
-<p><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank">Julep</a> is having an End-Of-Season Sale with discounts up to 75% off! Items in the sales list includes nail polish, nail accessories, and beauty products. No coupon code needed (prices listed include discount), <a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"> just click here to start shopping</a>!</p> 
+<p><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank">Julep</a> is having an End-Of-Season Sale with discounts up to 75% off! Items on sale includes nail polish, nail accessories, and beauty products. No coupon code needed (prices listed include discount), <a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"> just click here to start shopping</a>!</p> 
 
 <br>
 
