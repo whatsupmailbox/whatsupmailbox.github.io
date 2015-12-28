@@ -14,11 +14,11 @@ tags: [Oui Please, Subscriptions]
 date: 2015-07-10 07:32:39 -08:00
 ---
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
 </a></center>
 <br>
-<p><b>Subscription:</b> <a href="http://ouiplease.com" target="_blank">Oui Please</a></p>
+<p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple versions that subscribers will be receiving with different values. Items will include beauty, jewelry, accessories, apparel, home and epicure.</p>
 <p><b>Coupon:</b> Use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription!</p>
@@ -65,4 +65,4 @@ date: 2015-07-10 07:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i> I'm <strike>so excited</strike> ecstatic about 1.4 Escape to the French Riviera box,  so many amazing and gorgeous goodies, and I hope I get them all! #wishfulthinking</p>
 
-<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
+<p>If you haven't subscribed yet, you can <a href="http://ouipleasebox.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
