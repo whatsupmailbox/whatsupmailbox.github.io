@@ -15,14 +15,14 @@ tags: [Oui Please, Subscriptions, Reviews]
 date: 2015-11-18 09:01:39 -08:00
 ---
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
 </a></center>
 <br>
-<p><b>Subscription:</b> <a href="http://ouiplease.com" target="_blank">Oui Please</a></p>
+<p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple versions that subscribers will be receiving with different values. Items will include beauty, jewelry, accessories, apparel, home and epicure.</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://ouiplease.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://ouipleasebox.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
 <p>First off, I am deeply saddened by the tragedy that occured in Paris. It is unfathomable how such actions can occur. I was actually in Paris 2 weeks ago and left just the day before the events to return to Los Angeles. It is shocking (and I am still in shock) how such atrocities can be carried out by fellow human beings, but one cannot understand evil and I continue to pray for peace in the world.</p>
@@ -199,7 +199,7 @@ date: 2015-11-18 09:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> Oui Please is always exciting to open and such a treat for me to receive every other month. I wish it was every month, hint hint, but I'm sure that would be way too much work for them to accomplish due to customs and shipping. The items I received were a good mix of fashion, skincare and epicure, and I will definitely (if I haven't done so already) be using all of them. Sure there were varieties that others received with some having higher values, but I'm fine with what I have. I also got quite lucky in receiving scents that I actually liked so that was a big plus. With that said, the total value for this box was on the lower side, mostly because the perfume had a really high stated value when you can get the same perfume at a really low price online but I understand its due to their shipping, taxes and import fees. So if you're planning on trying them out, I highly suggest using the 20% discount code. I used it for my annual subscription purchase and that brought down the cost to $87/box, such a great deal! Anywho, next month's destination is "Vol 1.6 White Winter in the Alps", and I so can't wait!</p>
 
-<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
+<p>If you haven't subscribed yet, you can <a href="http://ouipleasebox.com" target="_blank"><big>subscribe here</big></a> and use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
 <br>
 
