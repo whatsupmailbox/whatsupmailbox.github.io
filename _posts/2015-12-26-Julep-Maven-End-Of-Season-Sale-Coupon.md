@@ -55,3 +55,7 @@ They also have a wildly popular Julep Maven subscription program, the first full
 You can customize your monthly box during their Maven Reveal period (20th-24th of every month). 
 You can also send it to a friend instead or skip the month all through your online account.</p>
 <p><b>Coupon:</b> <a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank">Join Julep Maven</a> and use coupon code <a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank">SNOWWAY</a> to get the December Welcome Box FREE - just pay $2.99 shipping!</p>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 5% cashback on your purchase at Julep, I always use them and get money back!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
