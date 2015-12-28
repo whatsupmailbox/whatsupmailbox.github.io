@@ -36,17 +36,16 @@ date: 2015-12-28 09:05:39 -08:00
 </a></center>
 
 <H4>What's Glossybox?</H4>
-<p><b>Subscription:</b> <a href="https://www.beautydna.com" target="_blank">Beauty DNA</a></p>
-<p><b>Cost:</b> $25/monthly</p>
-<p><b>Coupon:</b> <a href="http://www.ideel.com/invite/lorettajie" target="_blank">Purchase on Gilt City</a> and get an additional $25 off your first purchase!</p>
-<p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to you personally through a beauty profile you complete.</p>
+<p><b>Subscription:</b><a href="https://www.glossybox.com/referal?CI=MTMzODY3" target="_blank"> Glossybox</a></p>
+<p><b>Cost:</b> $21/monthly, $126 for 6 months, and $222/annually (taxes apply to New York, New Jersey and Kentucky).</p>
+<p><b>Shipping:</b> Free shipping to the US. $5 for Canadian residents.</p>
+<p><b>What's in the box:</b> Receive a selection of five beauty products that includes trendy, high-end and emerging brands in both deluxe travel sizes and full sizes, housed in a pretty pink reusable keepsake box.</p>
+
 <br>
 
-<center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
-<img src="/images/BeautyDNAIdeel2.png" border="0" style="border:none;max-width:100%;" alt="Beauty DNA Subscription Box on sale at Gilt City!" />
-</a></center>
+<p>You can checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Glossybox-Subscription-Box-December-2015-Review/" target="_blank">my December 2015 Glossybox review here</a>.</p>
 
-<p>Every month they'll match one full-sized beauty product according to your beauty profile. You answer some questions in your account prior to your first shipment and don't worry, you can always modify it at anytime.</p>
+<p>It's one of my favorite boxes to receive and I totally recommend them. Will you be taking advantage of this deal?</p>
 
 <br>
 
