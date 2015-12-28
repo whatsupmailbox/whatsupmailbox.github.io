@@ -31,6 +31,12 @@ date: 2015-12-28 09:05:39 -08:00
 
 <p>Plus, if you're new to Gilt City, you'll get <big>$20 off</big> your Glossybox subscription purchase  <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">through this link</a>. That brings the cost down to $79 for a 6-month subscription, or $130 for a 12-month subscription, that's an awesome deal!</p>
 
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on your purchase at Gilt City as well (extra savings!), I always use them and get money back, yay!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+
+<br>
+
 <center><a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">
 <img src="/images/GlossyboxRuelala2.jpg" border="0" style="border:none;max-width:100%;" alt="Glossybox on sale at Gilt City!" />
 </a></center>
