@@ -9,10 +9,10 @@ categories:
 tags: [Glossybox, Subscriptions, Coupons, Gilt City]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "BeautyDNAIdeel.png"
+imagefeature: "Glossybox.jpg"
 date: 2015-12-28 09:05:39 -08:00
 ---
 
@@ -22,8 +22,8 @@ date: 2015-12-28 09:05:39 -08:00
 
 <p><H2>Here are the prices on <a href="www.giltcity.com/invite/157210226a9yhx2xr9pf" target="_blank">Gilt City</a>:</H2></p>
 <ul>
-<li>6-month Subscription Box $99 (reg. $150)</li>
-<li>12-month Subscription Box $150 (reg. $250)</li>
+<li>6-month Subscription $99 (reg. $150)</li>
+<li>12-month Subscription $150 (reg. $250)</li>
 </ul>
 
 <br>
