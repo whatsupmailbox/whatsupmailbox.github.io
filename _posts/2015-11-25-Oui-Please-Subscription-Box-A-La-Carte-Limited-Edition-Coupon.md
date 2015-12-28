@@ -14,7 +14,7 @@ tags: [Oui Please, Subscriptions]
 date: 2015-11-25 12:48:39 -08:00
 ---
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/ouipleaseALClogo.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
@@ -22,7 +22,7 @@ date: 2015-11-25 12:48:39 -08:00
 
 <br>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseALCslider2.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
@@ -30,7 +30,7 @@ date: 2015-11-25 12:48:39 -08:00
 
 <br>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseALC-spoiler.png" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte Options" />
 </a></center>
 
@@ -40,7 +40,7 @@ date: 2015-11-25 12:48:39 -08:00
 
 <br>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseALC-spoiler2.png" border="0" style="border:none;max-width:100%;" alt="OuiPlease Á La Carte" />
 </a></center>
 
@@ -50,15 +50,15 @@ date: 2015-11-25 12:48:39 -08:00
 
 <H4>Here are the 3 Limited Edition boxes available:</H4>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/ouipleaseboxALCDUCHESSE.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Duchesse Limited Edition Box" />
 </a></center>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/ouipleaseboxALCMADEMOISELLE.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Mademoiselle Limited Edition Box" />
 </a></center>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/ouipleaseboxALCREINE.jpg" border="0" style="border:none;max-width:100%;" alt="OuiPlease Reine Limited Edition Box" />
 </a></center>
 
@@ -68,7 +68,7 @@ date: 2015-11-25 12:48:39 -08:00
 
 <br>
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/ouipleaseboxALCslider1951.jpg" border="0" style="border:none;max-width:100%;" alt="1951 Maison Francaise ON SALE at Oui Please" />
 </a></center>
 
