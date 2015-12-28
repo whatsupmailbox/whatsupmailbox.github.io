@@ -14,14 +14,14 @@ tags: [Oui Please, Subscriptions, Reviews]
 date: 2015-08-04 09:32:39 -08:00
 ---
 
-<center><a href="http://ouiplease.com" target="_blank">
+<center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
 </a></center>
 <br>
-<p><b>Subscription:</b> <a href="http://ouiplease.com" target="_blank">Oui Please</a></p>
+<p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple versions that subscribers will be receiving with different values. Items will include beauty, jewelry, accessories, apparel, home and epicure.</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://ouiplease.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://ouipleasebox.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
 <p>As I mentioned in my previous post, I love luxury subscription boxes and I love France, so this box is absolutely perfect for me.</p>
@@ -206,7 +206,7 @@ date: 2015-08-04 09:32:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I'm happy with the items from my box and I'm totally going to make it my mission to secure the other items I didn't get. There were a lot of skincare products in this box though, more than I need, so hopefully next month it'll be more evenly spread in terms of the type of products I receive. I saw some pictures in Instagram of other variations of the box, and although there were some that had almost the exact items, I did notice one or two that had better versions; they got the shirt, a jewelry item, a makeup pouch plus a beach bag! Oh how I wish I got the beach bag too! Aside from that, I think the idea of having a subscription box with items that are French, a magazine that's like a catalog identifying all items that were released for this box volume, and the quality of the physical box itself being the best that's out there, that's already valuable and unique enough for me to continue subscribing. Everything from the shipment box, the container box, and the items inside were so luxurious and French, I can't stop looking at it with love =) I can't wait to see what 1.5 will offer!</p>
 
-<p>If you haven't subscribed yet, you can <a href="http://ouiplease.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
+<p>If you haven't subscribed yet, you can <a href="http://ouipleasebox.com" target="_blank"><big>subscribe here</big></a> and right now is a better time than ever since you can use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a totes crazy deal!</p>
 
 <br>
 
