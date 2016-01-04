@@ -6,7 +6,7 @@ headline: "Popsugar Must Have Fit New Year 2016 Box On Sale Tomorrow!"
 tags: [Popsugar Must Have, Products, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Products
