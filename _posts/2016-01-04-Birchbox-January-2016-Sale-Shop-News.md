@@ -1,0 +1,67 @@
+---
+layout: post
+published: false
+categories: 
+    - Subscriptions
+    - Reviews
+    - Coupons
+title: Birchbox Sale Shop 30% off, 40% for ACES + Coupon!
+featured: false
+comments: true
+type: photo
+imagefeature: BirchboxJan2016Sale.jpg
+headline: Birchbox Sale Shop 30% off, 40% for ACES + Coupon!
+tags: [Birchbox, Coupons, January 2016]
+date: 2016-1-4 10:30:00 -08:00
+---
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxJan2016Sale.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+</a></center>
+
+<H4>Birchbox Shop Sale Up To 30% Off, or 40% Off for ACES!</H4>
+
+<p><i>Note: Discount will be automatically applied at checkout. Cannot be combined with other offers.</i></p>
+
+<p>Here's some examples of what's on sale, note prices don't reflect discount yet:</p>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxJan2016Sale2.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+</a></center>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxJan2016Sale3.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+</a></center>
+
+<br>
+
+<p>Birchbox Man is also having the same sale shop and here's some items you can find for sale:</p>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxJan2016Sale4.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+</a></center>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxJan2016Sale5.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+</a></center>
+
+<br>
+
+<p>There's more items in the shop, much more, so check it out and see if you'll be taking advantage of this sale. And don't forget to use Ebates to get 4% cash back on your purchase!</p>
+
+<br>
+
+<H4>What's Birchbox?</H4>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxLogo.png" border="0" style="border:none;max-width:100%;" alt="Birchbox!" />
+</a></center>
+
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
+<p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
+<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
+<p><b>Coupon:</b></p>
+* Subscriptions: Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subscribe to Birchbox. OR, <a href="http://fbuy.me/df02-" target="_blank">subscribe through this link</a> to receive 50% off your first box, that brings the cost down to only $5!
+* Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
+
+<br>
