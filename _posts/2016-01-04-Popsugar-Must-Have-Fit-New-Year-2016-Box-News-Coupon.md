@@ -20,7 +20,9 @@ date: 2016-1-4 12:41:00 -08:00
 <img src="/images/PopsugarFitNewYear2016News.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Fit New Year 2016 News!" />
 </a></center>
 
-<p><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Target Fit New Year 2016 Box will be ON SALE tomorrow!!!</p>
+<p><center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Target Fit New Year 2016 Box will be ON SALE tomorrow!!!</center></p>
+
+<br>
 
 <p><b>The Box:</b> Popsugar Must Have Target Fit New Year 2016 Box</p>
 <p><b>The Cost:</b> $75 one-time purchase</b></p>
