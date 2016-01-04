@@ -26,11 +26,11 @@ date: 2016-1-4 10:30:00 -08:00
 <p>Here's some examples of what's on sale, note prices don't reflect discount yet:</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Sale2.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+<img src="/images/BirchboxJan2016Sale2.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Sale3.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+<img src="/images/BirchboxJan2016Sale3.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
 
 <br>
@@ -38,11 +38,11 @@ date: 2016-1-4 10:30:00 -08:00
 <p>Birchbox Man is also having the same sale shop and here's some items you can find for sale:</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Sale4.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+<img src="/images/BirchboxJan2016Sale4.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Sale5.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
+<img src="/images/BirchboxJan2016Sale5.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
 
 <br>
