@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Popsugar Must Have Fit New Year 2016 Box On Sale Tomorrow!"
+title: "Popsugar Must Have Target Fit New Year 2016 Box On Sale Tomorrow!"
 description: ""
-headline: "Popsugar Must Have Fit New Year 2016 Box On Sale Tomorrow!"
+headline: "Popsugar Must Have Target Fit New Year 2016 Box On Sale Tomorrow!"
 tags: [Popsugar Must Have, Products, Coupons]
 comments: true
 mathjax: null
@@ -20,9 +20,16 @@ date: 2016-1-4 12:41:00 -08:00
 <img src="/images/PopsugarFitNewYear2016News.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Fit New Year 2016 News!" />
 </a></center>
 
-<p><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Fit New Year 2016 Box will be ON SALE tomorrow!!!</p>
+<p><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Target Fit New Year 2016 Box will be ON SALE tomorrow!!!</p>
 
-<p>No spoilers were released prior and I'm guessing the cost of this box will be $100, but I will for sure update you tomorrow when it does go on sale. I'm totally grabbing one of these boxes, will you?</p>
+<p><b>The Box:</b> Popsugar Must Have Target Fit New Year 2016 Box</p>
+<p><b>The Cost:</b> $75 one-time purchase</b></p>
+
+<br>
+
+<p>“Time to get motivated and make this year your healthiest yet. POPSUGAR and Target are back again! We’ve teamed up to bring you everything you need to get a jump-start on a healthy 2016. This exclusive box is fit-focused and filled with fun and functional essentials to get you motivated to move!”</p>
+
+<p>I will for sure update you tomorrow when it does go on sale. I'm totally grabbing one of these boxes, will you?</p>
 
 <p>This box is a one-time purchase, but they also have a monthly box for $39.95 (January boxes are still available currently) and you can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> or go to their website <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> to learn more. Don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
