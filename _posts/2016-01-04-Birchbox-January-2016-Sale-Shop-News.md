@@ -47,7 +47,11 @@ date: 2016-1-4 10:30:00 -08:00
 
 <br>
 
-<p>There's more items in the shop, much more, so check it out and see if you'll be taking advantage of this sale. And don't forget to use Ebates to get 4% cash back on your purchase!</p>
+<p>There's more items in the shop, much more, so check it out and see if you'll be taking advantage of this sale.</p>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% cashback on your purchase at Birchbox as well (extra savings!), I always use them and get money back, yay!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
 
 <br>
 
