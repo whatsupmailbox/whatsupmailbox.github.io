@@ -35,7 +35,9 @@ date: 2016-1-4 10:30:00 -08:00
 
 <br>
 
-<p>Birchbox Man is also having the same sale shop and here's some items you can find for sale:</p>
+<p><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a> is also having the same sale shop, and they tend to have cool gears and tech items that can be used for both men or women.</p> 
+
+<p>Here's some items you can find in their sale shop:</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016Sale4.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
@@ -69,3 +71,11 @@ date: 2016-1-4 10:30:00 -08:00
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
+
+<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">BAGGUGIFT</a> to receive a free Standard BAGGU bag (a $9 value!) when you subsribe to Birchbox.</p>
+
+<br>
+
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxDec2015GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
+</a></center>
