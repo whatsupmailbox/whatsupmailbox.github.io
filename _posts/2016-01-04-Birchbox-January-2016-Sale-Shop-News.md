@@ -29,6 +29,8 @@ date: 2016-1-4 10:30:00 -08:00
 <img src="/images/BirchboxJan2016Sale2.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
 
+<br>
+
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016Sale3.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
@@ -37,11 +39,15 @@ date: 2016-1-4 10:30:00 -08:00
 
 <p><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a> is also having the same sale shop, and they tend to have cool gears and tech items that can be used for both men or women.</p> 
 
+<br>
+
 <p>Here's some items you can find in their sale shop:</p>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016Sale4.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
 </a></center>
+
+<br>
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016Sale5.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Shop Sale" />
