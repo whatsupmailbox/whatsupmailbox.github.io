@@ -6,7 +6,7 @@ featured: false
 comments: true
 headline: "Sephora VIB Rouge 2015 Welcome Gift - Marc Jacobs Lipstick"
 categories: 
-  - Coupons
+  - Products
 type: photo
 description: ""
 tags: [Sephora, GWP, January 2016]
