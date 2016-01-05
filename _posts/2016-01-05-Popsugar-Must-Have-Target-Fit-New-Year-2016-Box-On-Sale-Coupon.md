@@ -12,7 +12,7 @@ categories:
       - Products
       - Coupons
 type: photo
-imagefeature: "PopsugarFitNewYear2016News.jpg"
+imagefeature: "PopsugarTargetFitNewYear2016News.jpg"
 date: 2016-1-5 09:31:00 -08:00
 ---
 
