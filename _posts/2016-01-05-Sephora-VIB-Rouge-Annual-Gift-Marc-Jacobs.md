@@ -29,7 +29,7 @@ date: 2016-1-5 10:05:00 -08:00
 
 <br>
 
-<p>The welcome kit includes the lipstick, a VIB Rouge Red Card (if it's your first time to qualify, if it's a renewal you don't get another red card), and a Beauty Studio All-Access Pass.</p>
+<p>The welcome kit includes the lipstick, a VIB Rouge Red Card (if it's your first time to qualify, if it's a renewal you don't get another red card), and a Beauty Studio All-Access Pass (not pictured).</p>
 
 <p>The packaging is beautiful and it feels like I'm part of an exclusive club alright ;)</p>
 
@@ -37,7 +37,7 @@ date: 2016-1-5 10:05:00 -08:00
 
 <center><img src="/images/SephoraVIBRougeAnnualGiftMarcJacobs5.jpg"></center>
 
-<p>The size is mini-sized and perfect for travelling or to carry in a pretty little clutch. Marc Jacobs Le Marc Lip Crème is typically housed in a black casing, but this red casing is exclusive only to this color which I think is so awesome and gorgeous, it will definitely stand out in my makeup bag and when I take it out to reapply my lip color!</p>
+<p>The size is mini-sized and perfect for travelling or to carry in a pretty little clutch. Marc Jacobs Le Marc Lip Crème is a rich, velvety, ultra-hydrating lipstick that delivers dramatic, vivid pigment and 10 hours of luxurious wear. This lipstick is typically housed in a black casing, but this red casing is exclusive only to this color and for VIB Rouge members which I think is so awesome and gorgeous, it will definitely stand out in my makeup bag and when I take it out to reapply my lip color!</p>
 
 <br>
 
