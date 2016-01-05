@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sephora VIB Rouge 2015 Welcome Gift - Marc Jacobs Lipstick"
 featured: false
 comments: true
@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora, GWP, January 2016]
 imagecredit: ""
 imagefeature: SephoraVIBRougeAnnualGiftMarcJacobs2.jpg
-date: 2016-1-5 10:05:00 -08:00
+date: 2016-1-5 10:15:00 -08:00
 ---
 
 <center><img src="/images/SephoraVIBRougeAnnualGiftMarcJacobs.jpg"></center>
