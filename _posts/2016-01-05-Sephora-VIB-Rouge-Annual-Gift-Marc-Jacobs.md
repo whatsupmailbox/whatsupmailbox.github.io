@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora, GWP, January 2016]
 imagecredit: ""
 imagefeature: SephoraVIBRougeAnnualGiftMarcJacobs2.jpg
-date: 2016-1-5 09:00:00 -08:00
+date: 2016-1-5 11:00:00 -08:00
 ---
 
 <center><img src="/images/SephoraVIBRougeAnnualGiftMarcJacobs.jpg"></center>
