@@ -18,7 +18,7 @@ date: 2016-1-5 11:01:39 -08:00
 <center><a href="http://refer.julep.com/v2/share/6232653664775881338" target="_blank"><img src="/images/JulepJan2016Coupon.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>What are your beauty resolutions for 2016? Whether you want to boost your skincare regimen or experiment with color, Julep is here to help! Today through 1/10, use promo code NEW14159X at checkout to save $20 off any $50+ Purchase. You must have $50+ of merchandise in your code in order for the promo code to work.</p>
+<p>What are your beauty resolutions for 2016? Whether you want to boost your skincare regimen or experiment with color, Julep is here to help! Today through 1/10, use promo code <b>NEW14159X</b> at checkout to save $20 off any $50+ Purchase. You must have $50+ of merchandise in your code in order for the promo code to work.</p>
 
 <br>
 
