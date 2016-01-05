@@ -12,7 +12,7 @@ categories:
       - Products
       - Coupons
 type: photo
-imagefeature: "PopsugarTargetFitNewYear2016News.jpg"
+imagefeature: "PopsugarTargetFitNewYear2016Collage.jpg"
 date: 2016-1-5 09:31:00 -08:00
 ---
 
@@ -21,6 +21,8 @@ date: 2016-1-5 09:31:00 -08:00
 </a></center>
 
 <p><center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> Target Fit New Year 2016 Box is ON SALE NOW!!!</center></p>
+
+<p>UPDATE: As of 9:56 AM, this box is now SOLD OUT!</p>
 
 <br>
 
