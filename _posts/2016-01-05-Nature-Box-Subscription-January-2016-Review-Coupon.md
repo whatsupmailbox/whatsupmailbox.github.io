@@ -26,6 +26,8 @@ date: 2016-01-05 13:31:39 -08:00
 
 <DT>This review is for the <i>Taste Snacker Box (3 snacks)</i>.</DT>
 
+<br>
+
 <center><a href="http://fbuy.me/dksQC" target="_blank">
 <img src="/images/NatureBoxJan2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
