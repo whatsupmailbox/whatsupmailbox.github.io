@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Popsugar Must Have + Target Fit New Year 2016 Box On Sale Now!"
+title: "Popsugar Must Have + Target Fit New Year 2016 Box On Sale Now - SOLD OUT!"
 description: ""
-headline: "Popsugar Must Have + Target Fit New Year 2016 Box On Sale Now!"
+headline: "Popsugar Must Have + Target Fit New Year 2016 Box On Sale Now - SOLD OUT!"
 tags: [Popsugar Must Have, Products, Coupons, January 2016]
 comments: true
 mathjax: null
