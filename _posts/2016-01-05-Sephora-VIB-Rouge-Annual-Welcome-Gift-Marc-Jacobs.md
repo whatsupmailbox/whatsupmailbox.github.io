@@ -52,3 +52,7 @@ date: 2016-1-5 10:15:00 -08:00
 <p>The color So Rouge is an exclusive color for VIB Rouge members only, and it's limited edition as well. It's a great shade of red that's oh-so sexy and très chic, I can't wait to wear it with one of my Little Black Dresses!!!</p>
 
 <br>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% (sometimes even 8%) cashback on your purchases at Sephora, I always use them and get money back, yay!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
