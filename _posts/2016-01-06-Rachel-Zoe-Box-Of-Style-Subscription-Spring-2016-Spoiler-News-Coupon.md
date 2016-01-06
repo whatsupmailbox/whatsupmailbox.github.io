@@ -8,7 +8,7 @@ title: Rachel Zoe Box Of Style Spring 2016 Hero Item!
 featured: false
 comments: true
 type: photo
-imagefeature: BoxOfStyleWinter2015HeroItem.png
+imagefeature: BoxOfStyleSpring2016HeroItem.png
 headline: Rachel Zoe Box Of Style Spring 2016 Hero Item!
 tags: [Box of Style, Subscriptions]
 date: 2016-01-06 08:01:39 -08:00
