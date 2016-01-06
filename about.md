@@ -9,7 +9,7 @@ I'm just a gal in sunny Los Angeles, California who loves to shop for new and am
 
 I'll post and review subscription boxes, products or just about anything that gets delivered to my mailbox (both physical and electronic!). All reviews are of my own thoughts and opinions, I'm not (or will ever be) paid for it. If at any time I receive a box or product for free, I will disclose that in my review.
 
-I get so giddy and excited when I look to see what I receive in the mail everyday, I practically run to my mailbox as soon as I get the chance to! -I know you do too ;) Hopefully you'll find this blog to be a useful tool to be informed on what boxes to subscribe to and products that's right for you. Who knows, maybe you'll find yourself saying #WhatsUpMailbox the next time you check your mail =)
+I get so giddy and excited when I look to see what I receive in the mail everyday, I practically run to my mailbox as soon as I get the chance to! -I know you do too ;) Hopefully you'll find this blog to be a useful tool in being informed on what boxes to subscribe to and products that's right for you. Who knows, maybe you'll find yourself saying #WhatsUpMailbox the next time you check your mail =)
 
 <p align="center">xoxo, Loretta</p>
 
