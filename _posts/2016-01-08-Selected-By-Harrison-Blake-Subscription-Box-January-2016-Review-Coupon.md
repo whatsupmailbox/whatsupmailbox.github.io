@@ -87,7 +87,7 @@ date: 2016-1-08 08:39:39 -08:00
 <DD>Value $22</DD>
 </DL>
 
-<p>Pocket squares are a great finisihing touch to your blazer/jacket. It makes any man look oh-so dapper and well put together, and it really doesn't take much effort too, just fold and insert into your pocket and voila, perfection.</p>
+<p>Pocket squares are a great finishing touch to your blazer/jacket. It makes any man look oh-so dapper and well put together. And it really doesn't take much effort too, just fold and insert into your pocket and voila, perfection.</p>
 
 <center><img src="/images/HarrisonBlakeJan2016PocketSquare2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <figcaption>The branding on the pocket square</figcaption>
@@ -114,7 +114,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <br>
 
-<p>This necktie is well made and will surely be used for many years to come.</p>
+<p>The necktie is well made and will surely be used for many years to come.</p>
 
 <br>
 
