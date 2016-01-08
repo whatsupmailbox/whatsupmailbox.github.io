@@ -136,7 +136,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <br>
 
-<center><img src="/images/HarrisonBlakeJan2016Lapel.jpg" border="0" style="border:none;max-width:100%;" /></center>
+<center><img src="/images/HarrisonBlakeJan2016LapelPin.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <DL>
 <DT>Multicolor Felt Lapel Pin</DT>
@@ -146,7 +146,7 @@ date: 2016-1-08 08:39:39 -08:00
 <p>I would describe this lapel as woodsy whimsical. The material is felt which is great when you want to add a different texture to your outfit.</p>
 
 <p>Here's a closer look at the lapel pin:</p>
-<center><img src="/images/HarrisonBlakeJan2016Lapel.jpg" border="0" style="border:none;max-width:100%;" /></center>
+<center><img src="/images/HarrisonBlakeJan2016LapelPin2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <br>
 
