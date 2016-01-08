@@ -94,7 +94,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <br>
 
-<p>The color is a muted medium-dark red that I think will brighten up any outfit without being too overly bright. Just enough to pop up your look. This will be a great addition to my husband's pocket square collection!</p>
+<p>The color is a medium-dark red that I think will brighten up any outfit without being too overly bright. Just enough to pop up your look. This will be a great addition to my husband's pocket square collection!</p>
 
 <br>
 
@@ -106,6 +106,8 @@ date: 2016-1-08 08:39:39 -08:00
 </DL>
 
 <p>In line with the red colored theme, this necktie is also a medium-dark red with white polka dots. This would have been perfect for the recent holidays, but good thing the pattern is quite classic that it'll go great for any occasion as well.</p>
+
+<br>
 
 <center><img src="/images/HarrisonBlakeJan2016Tie2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <figcaption>A closer look at the back of the necktie</figcaption>
@@ -125,7 +127,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about 1/4 inch in length each.</p>
 
-<center><img src="/images/HarrisonBlakeJan2016Bracelet.jpg" border="0" style="border:none;max-width:100%;" /></center>
+<center><img src="/images/HarrisonBlakeJan2016Bracelet2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <figcaption>A closer look at the beads</figcaption>
 
 <br>
