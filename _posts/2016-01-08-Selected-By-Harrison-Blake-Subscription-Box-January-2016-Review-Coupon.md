@@ -129,14 +129,14 @@ date: 2016-1-08 08:39:39 -08:00
 <DD>Value $15</DD>
 </DL>
 
-<p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about 1/4 inch in length each.</p>
+<p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about 1/4 inch in length, so not too bulky or big.</p>
 
 <center><img src="/images/HarrisonBlakeJan2016Bracelet2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <figcaption>A closer look at the beads</figcaption>
 
 <br>
 
-<p>The beads have shades of brown with some wood markings on them. I think it has an urban/outdoor look to it that can go with your everyday attire, either by itself or layered. This will go great with the watch!</p>
+<p>The beads have shades of brown with some wood markings on them. I think it has an urban/outdoor look that can go with your everyday attire, either by itself or layered. This will go great with the watch!</p>
 
 <br>
 
