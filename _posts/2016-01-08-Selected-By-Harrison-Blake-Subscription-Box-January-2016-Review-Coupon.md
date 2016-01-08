@@ -9,11 +9,11 @@ categories:
 tags: [SELECTED by Harrison Blake, Subscriptions, Reviews, January 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "HarrisonBlakeJan2016Items.jpg"
-date: 2016-01-08 08:39:39 -08:00
+date: 2016-01-08 08:29:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
@@ -98,7 +98,7 @@ date: 2016-01-08 08:39:39 -08:00
 
 <br>
 
-<p>The color is a medium-dark red that I think will brighten up any outfit without being too overly bright. Just enough to pop up your look. This will be a great addition to my husband's pocket square collection!</p>
+<p>The color is a medium-dark red that I think will brighten up any outfit without being too overly bright. Just enough to pop up your look. The classic herringbone design is small and compact making this a classic pocket square. This will be a great addition to my husband's collection!</p>
 
 <br>
 
@@ -129,7 +129,7 @@ date: 2016-01-08 08:39:39 -08:00
 <DD>Value $15</DD>
 </DL>
 
-<p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about 1/4 inch in length, so not too bulky or big.</p>
+<p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about a 1/4 inch in length, so not too bulky or big.</p>
 
 <br>
 
