@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "SELECTED by Harrison Blake January 2016 Review + 20% Coupon!"
+title: "SELECTED by Harrison Blake January 2016 Review + Coupon!"
 description: ""
-headline: "SELECTED by Harrison Blake January 2016 Review + 20% Coupon!"
+headline: "SELECTED by Harrison Blake January 2016 Review + Coupon!"
 categories: 
       - Subscriptions
       - Reviews
@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "HarrisonBlakeJan2016Items.jpg"
-date: 2016-1-08 08:39:39 -08:00
+date: 2016-01-08 08:39:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
@@ -23,7 +23,7 @@ date: 2016-1-08 08:39:39 -08:00
 </a></center>
 <p><b>Subscription:</b><a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"> SELECTED by Harrison Blake</a></p>
 <p><b>Cost:</b> $25/monthly for US & Canada. $40/monthly for International packages.</p>
-<p><b>Coupon:</b> Use coupon code SAVE20 to receive 20% off your first box!</p>
+<p><b>Coupon:</b> Use coupon code FASTFIVE to receive $5 off your first box!</p>
 <p><b>Shipping:</b> Free shipping to US and Canada.</p>
 <p><b>What's in the box:</b> Each box will contain 1 necktie and 4 additional accessories, such as pocket squares, lapel pins, tie bars and more... – each box will be completely coordinated and easy to style, making it simple to dress to impress.</p>
 
@@ -158,7 +158,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box is great to subscribe to when you want to expand your accessories or step up your look and achieve that dapper style. Every box always comes in either a themed style or color. This way you don't have to think too much on how to wear each item, just wear it altogther for a well thought out look! No one will know that someone else did the styling for you ;) The total value of this box came up to $117. That's a great value for a $25 box and it included a watch too! Keep in mind that prices are their stated values and some of the items are exclusive to the box, but even so, it's still a great value for the price. If you (or your special man) is into accessorizing or would like to expand and perfect your dapper style, this would be a great subscription to try or even to gift!</p>
 
-<p>If you're interested in subscribing, you can <a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"><big>visit their website or subscribe here</big></a> to start receiving their monthly boxes of dapper accessories. And don't forget to use coupon code <b>SAVE20</b> for 20% off your first box!</p>
+<p>If you're interested in subscribing, you can <a href="http://www.harrisonblakeapparel.com/selected-monthly-club/" target="_blank"><big>visit their website or subscribe here</big></a> to start receiving their monthly boxes of dapper accessories. And don't forget to use coupon code <b>FASTFIVE</b> for $5 off your first box!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:40%">
