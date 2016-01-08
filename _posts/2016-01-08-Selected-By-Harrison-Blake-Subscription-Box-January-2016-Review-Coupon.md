@@ -76,7 +76,7 @@ date: 2016-1-08 08:39:39 -08:00
 
 <center><img src="/images/HarrisonBlakeJan2016Watch2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
-<p>The design is simple and masculine with brown straps and rose gold face watch. I can't wait for my husband to wear this!</p>
+<p>The design is simple and masculine with brown straps and a rose gold face watch. I can't wait for my husband to wear this!</p>
 
 <br>
 
