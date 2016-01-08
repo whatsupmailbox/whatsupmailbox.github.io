@@ -78,6 +78,8 @@ date: 2016-1-08 08:39:39 -08:00
 
 <p>The design is simple and masculine with brown straps and a rose gold face watch. I can't wait for my husband to wear this!</p>
 
+<p>Side note: Initially the watch came with a manufacturer defect on the straps, but Harrison Blake's awesome customer service sent out a new one the next day, such prompt and amazing service!</p>
+
 <br>
 
 <center><img src="/images/HarrisonBlakeJan2016PocketSquare.jpg" border="0" style="border:none;max-width:100%;" /></center>
