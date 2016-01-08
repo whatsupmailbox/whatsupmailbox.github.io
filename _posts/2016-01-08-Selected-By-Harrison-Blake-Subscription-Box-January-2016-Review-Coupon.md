@@ -131,6 +131,8 @@ date: 2016-1-08 08:39:39 -08:00
 
 <p>This bracelet is beaded on a clear elastic material so it's stretchable to fit your wrist. It's very light in weight and the beads themselves are about 1/4 inch in length, so not too bulky or big.</p>
 
+<br>
+
 <center><img src="/images/HarrisonBlakeJan2016Bracelet2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <figcaption>A closer look at the beads</figcaption>
 
