@@ -52,6 +52,8 @@ date: 2016-01-14 13:23:39 -08:00
 
 <center><img src='/images/BeautyDNAJan2016Item.jpg'></center>
 
+<br>
+
 <center><img src='/images/BeautyDNAJan2016EpicurenMask.jpg'></center>
 
 <DL>
