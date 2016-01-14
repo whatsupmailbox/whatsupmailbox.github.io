@@ -12,7 +12,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "BeautyDNAJan2016Items.jpg"
+imagefeature: "BeautyDNAJan2016Item.jpg"
 date: 2016-01-14 13:23:39 -08:00
 ---
 
