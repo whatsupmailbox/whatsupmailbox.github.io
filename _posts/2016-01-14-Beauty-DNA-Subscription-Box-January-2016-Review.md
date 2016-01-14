@@ -42,7 +42,7 @@ date: 2016-1-14 13:23:39 -08:00
 
 <br>
 
-<p>This month I received a skincare product! (It says Skin Report on the top right)</p>
+<p>This month I received a skincare product. (It says Skin Report on the top right)</p>
 
 <br>
 
@@ -58,6 +58,8 @@ date: 2016-1-14 13:23:39 -08:00
 <DT><b>Epicuren Discovery</b> Green Tea & Seaweed Soothing Mask</DT>
 <DD>Full Size 2.5 oz., Value $50</DD>
 </DL>
+
+<p><i>Note: This mask tube came with an inside foil seal.</i></p>
 
 <p>I'm happy that I received a mask as I know I can always use them. Plus I've never heard of Epicuren Discovery before so I'm excited to try them out.</p>
 
