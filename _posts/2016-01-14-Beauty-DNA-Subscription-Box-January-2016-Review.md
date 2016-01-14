@@ -25,7 +25,7 @@ date: 2016-1-14 13:23:39 -08:00
 <p><b>What's in the box:</b> One FULL SIZED beauty product that's matched to your "Beauty Profile" that you complete upon signing up.</p>
 <br>
 
-<p>Beauty DNA is a great subscription to try out new skincare or haircare products. Lately my products have been kind of meh, so I didn't expect much from this month's box, but part of me is hoping for something great.</p>
+<p>Beauty DNA is a great subscription to try out new skincare or haircare products. Lately my products have been kind of meh though, so I didn't expect much from this month's box, but part of me is hoping for something great.</p>
 <br>
 
 <center><img src='/images/BeautyDNAJan2016OpenBox.jpg'></center>
