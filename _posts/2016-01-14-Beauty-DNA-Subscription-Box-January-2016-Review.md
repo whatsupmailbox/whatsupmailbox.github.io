@@ -9,7 +9,7 @@ categories:
 tags: [BeautyDNA, Subscriptions, Reviews, January 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BeautyDNAJan2016Items.jpg"
