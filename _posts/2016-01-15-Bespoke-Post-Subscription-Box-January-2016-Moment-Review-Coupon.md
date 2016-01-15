@@ -91,7 +91,7 @@ date: 2016-01-15 15:01:39 -08:00
 <DD>Value $75</DD>
 </DL>
 
-<p>This watch is stunning and so cool, my husband loves it. The quality is great and sturdy, this will surely last for many years to come.</p>
+<p>This watch is stunning and so cool, my husband loves it. The quality is great and sturdy, and the dial face is also clean and simple. This watch will surely last for many years to come.</p>
 
 <p>Here are the specs from their website:</p>
 <ul>
