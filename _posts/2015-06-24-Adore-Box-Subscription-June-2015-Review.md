@@ -151,7 +151,7 @@ date: 2015-06-24 14:29:39 -08:00
    </TR>
     <TR>
       <TD>Listerine Mouthwash Sample</TD>
-      <TD>$1?/TD>
+      <TD>$1?</TD>
    </TR>
     <TR>
       <TD>Comedone Extractor with Lance</TD>
