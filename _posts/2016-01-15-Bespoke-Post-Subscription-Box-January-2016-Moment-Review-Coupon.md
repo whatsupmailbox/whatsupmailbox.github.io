@@ -12,7 +12,7 @@ categories:
   - Reviews
 type: photo
 imagefeature: "BespokePostJan2016MomentItems.jpg"
-date: 2016-01-14 15:01:39 -08:00
+date: 2016-01-15 15:01:39 -08:00
 ---
 
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
@@ -24,20 +24,21 @@ date: 2016-01-14 15:01:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank"><b>ALONE</b></a> to get 25% off your first box!</p>
 <br>
 
-<p>I was so excited to choose this box when the choices were first revealed earlier this month. You can see the <a href="http://whatsupmailbox.com/subscriptions/Bespoke-Post-Subscription-Box-July-Selections-Coupon/" target="_blank">July box selections here</a>. It was a no brainer choice for my husband and frankly I'm jealous.</p>
+<p>Every month, Bespoke Post comes up with new curated boxes for you to choose from. This month, I opted for their <big>Moment box</big>.</p>
+
 <br>
 
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentOpenBox.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
+
 <br>
 
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentOpenBox2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
-
 
 <br>
 
@@ -47,7 +48,17 @@ date: 2016-01-14 15:01:39 -08:00
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentInfo.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<p>The info card detailing the items inside plus a music playlist suggestion to complete your vibes.</p>
+
+<br>
+
+<center><a href="https://bespokepost.com/r/a0325928" target="_blank">
+<img src="/images/BespokePostJan2016MomentInfo2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<br>
+
+<p>The info card always details the items inside and this time they've included some useful and interesting time fact as well.</p>
+
 <br>
 
 <H4>And here are the items:</H4>
@@ -78,7 +89,23 @@ date: 2016-01-14 15:01:39 -08:00
 <DD>Value $75</DD>
 </DL>
 
-<p>This watch is stunning and so cool, my husband loves it. The quality is great and sturdy.</p>
+<p>This watch is stunning and so cool, my husband loves it. The quality is great and sturdy, this will surely last for many years to come.</p>
+
+<p>Here are the specs from their website:</p>
+<ul>
+<li>Water resistance: 5 ATM (don’t scuba dive or shower while wearing)</li>
+<li>Movement: Miyota 2035</li>
+<li>Case material: Stainless steel</li>
+<li>Case diameter: 40 mm</li>
+<li>Case thickness: 9.6 mm</li>
+<li>Band type: Genuine leather</li>
+<li>Band width: 18 mm – 20 mm</li>
+<li>Lug width: 20 mm</li>
+<li>Buckle width: 20 mm</li>
+<li>Battery: SR920SW battery</li>
+<li>Battery life: 3 years</li>
+<li>Crystal type: Mineral</li>
+</ul>
 
 <br>
 
@@ -86,7 +113,7 @@ date: 2016-01-14 15:01:39 -08:00
 <img src="/images/BespokePostJan2016MomentLineOfTradeSandfordWristwatch4.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The band for this wristwatch is made of 100% leather, making this an all around great watch to use daily or for those special occasions.</p>
+<p>The band for this wristwatch is made of genuine leather, making this an all around great watch to use daily or for those special occasions. I can't wait for my husband to wear this!</p>
 
 <br>
 
@@ -113,13 +140,13 @@ date: 2016-01-14 15:01:39 -08:00
 <img src="/images/BespokePostJan2016MomentTaskOrganizer3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>As you can see, the inside pages are lined with check boxes, great for making "To Do" lists. And it also includes some useful information as well as a ruler for size reference when needed. This is a small but very useful notebook!</p>
+<p>As you can see, the inside pages are lined with check boxes, great for making "To Do" lists. And it also includes some useful information as well, plus a printed ruler on the back of the cover for those moments when you need to measure something quickly. This is a small but very useful notebook!</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy I chose this box! Although it only consisted of two items, what great items they were and definitely worth the cost.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy I chose this box! Although it only consisted of two items, but wow, what great items they were and definitely worth the cost. The watch alone is valued at $75, so that's already a win for me, and the addition of the small but oh-so useful notebook definitely put this box to a major win.</p>
 
-<p>Not a subscriber or want to get a one-time box? You can <a href="https://bespokepost.com/r/a0325928" target="_blank"><big>subscribe or buy here</big></a> and start choosing one of their cool and awesome themed boxes! And the Vibes box is still available as of today if you're interested. Don't forget to use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank">ALONE</a> to get 25% off your first box!</p>
+<p>This box is still available for purchase, so if you're interested, head over to <a href="https://bespokepost.com/r/a0325928" target="_blank">www.bespokepost.com</a> and grab one before it's gone. You can always cancel or opt-out any month after your initial purchase and it's all done through your online account, easy!</p>
 
 <br>
 
