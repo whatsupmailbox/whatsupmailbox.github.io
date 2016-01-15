@@ -21,7 +21,7 @@ date: 2016-01-15 15:01:39 -08:00
 <p><b>Subscription:</b> <a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">Bespoke Post</a></p>
 <p><b>Cost:</b> $45 monthly or $55 for one-time purchases + Free Shipping.</p>
 <p><b>What's in the box:</b> Each box is a limited-edition, themed collection of men's lifestyle gear from up-and-coming brands. It can range from tools, accessories, grooming, fashion and skincare. They have a collection of themed boxes that are available for you to choose, plus new boxes are released every month. You can skip any month if needed (must be done prior to the 5th of that month) and cancellation can be done by emailing them.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank"><b>ALONE</b></a> to get 25% off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank"><b>BOX20</b></a> to get 20% off your first box!</p>
 <br>
 
 <p>Every month, Bespoke Post comes up with new curated boxes for you to choose from. This month, I opted for their <big>Moment box</big>.</p>
@@ -148,7 +148,7 @@ date: 2016-01-15 15:01:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy I chose this box! Although it only consisted of two items, but wow, what great items they were and definitely worth the cost. The watch alone is valued at $75, so that's already a win for me, and the addition of the small but oh-so useful notebook definitely put this box to a major win.</p>
 
-<p>This box is still available for purchase, so if you're interested, head over to <a href="https://bespokepost.com/r/a0325928" target="_blank">www.bespokepost.com</a> and grab one before it's gone. You can always cancel or opt-out any month after your initial purchase and it's all done through your online account, easy!</p>
+<p>This box is still available for purchase, so if you're interested, head over to <a href="https://bespokepost.com/r/a0325928" target="_blank">www.bespokepost.com</a> and grab one before it's gone. You can always cancel or opt-out any month after your initial purchase and it's all done through your online account, easy! And don't forget to use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank"><b>BOX20</b></a> to get 20% off your first box!</p>
 
 <br>
 
