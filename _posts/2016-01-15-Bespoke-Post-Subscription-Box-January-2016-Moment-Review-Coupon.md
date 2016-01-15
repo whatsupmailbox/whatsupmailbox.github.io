@@ -126,7 +126,9 @@ date: 2016-01-15 15:01:39 -08:00
 <DD>Value $10?</DD>
 </DL>
 
-<p>This organizer is quite handy and useful.</p>
+<p><i>Dimensions: (W) 3.5" x (H) 5.5"</i></p>
+
+<p>The size of this notebook is quite ideal for a man as it's not too big or small for everyday use. The style is also simple and clean, but don't let that fool you cause this organizer is packed with useful stuff.</p>
 
 <br>
 
@@ -140,7 +142,7 @@ date: 2016-01-15 15:01:39 -08:00
 <img src="/images/BespokePostJan2016MomentTaskOrganizer3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>As you can see, the inside pages are lined with check boxes, great for making "To Do" lists. And it also includes some useful information as well, plus a printed ruler on the back of the cover for those moments when you need to measure something quickly. This is a small but very useful notebook!</p>
+<p>As you can see, the inside pages are lined with checkboxes, great for making "To-Do" lists. And it also includes some useful information such as conversion tables and basic traveler's info covering 12 different countries. Plus it also has a printed ruler on the back of the cover for those moments when you need to measure something quickly. This is a small but very useful notebook!</p>
 
 <br>
 
