@@ -71,12 +71,14 @@ date: 2016-01-15 15:01:39 -08:00
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentLineOfTradeSandfordWristwatch.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+<figcaption>The Watch Box</figcaption>
 
 <br>
 
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentLineOfTradeSandfordWristwatch2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+<figcaption>"Time Waits For No Man"</figcaption>
 
 <br>
 
