@@ -43,11 +43,13 @@ date: 2016-01-15 09:01:39 -08:00
 <br>
 
 <p>The items inside are always packaged very well, and everything came in perfect condition.</p>
+
 <br>
 
 <center><a href="https://bespokepost.com/r/a0325928" target="_blank">
 <img src="/images/BespokePostJan2016MomentInfo.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+<figcaption>Info Sheet</figcaption>
 
 <br>
 
@@ -57,7 +59,7 @@ date: 2016-01-15 09:01:39 -08:00
 
 <br>
 
-<p>The info card always details the items inside and this time they've included some useful and interesting time fact as well.</p>
+<p>The info sheet always details the items inside and this time they've included some interesting watch fact as well.</p>
 
 <br>
 
