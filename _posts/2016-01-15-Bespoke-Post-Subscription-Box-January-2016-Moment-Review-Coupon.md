@@ -24,7 +24,7 @@ date: 2016-01-15 15:01:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://bespokepost.com/r/a0325928" target="_blank"><b>BOX20</b></a> to get 20% off your first box!</p>
 <br>
 
-<p>Every month, Bespoke Post comes up with new curated boxes for you to choose from. This month, I opted for their <big>Moment box</big>.</p>
+<p>Every month, Bespoke Post comes up with new curated boxes for you to choose from. This month, I opted for their <big>"Moment" Box</big>.</p>
 
 <br>
 
