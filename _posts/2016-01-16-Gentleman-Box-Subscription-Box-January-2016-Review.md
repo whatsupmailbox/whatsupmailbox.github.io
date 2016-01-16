@@ -46,7 +46,7 @@ date: 2016-01-16 09:21:39 -08:00
 
 <br>
 
-<center><img src='/images/GentlemansBoxJan2016OpenBox2.jpg'></center>
+<center><img src='/images/GentlemansBoxJan2016OpenBox3.jpg'></center>
 <figcaption>More unboxing</figcaption>
 
 <br>
@@ -72,20 +72,41 @@ date: 2016-01-16 09:21:39 -08:00
 <DD>Full Size 2.5 oz., Value $50</DD>
 </DL>
 
-<p><i>Note: This mask tube came with an inside foil seal.</i></p>
+<br>
+
+<p>The lapel pin is made of wood so it's both form fitting and unique at the same time, I like it. It'll go well for a spring or summer outdoor event.</p>
 
 <br>
 
-<p>I'm happy that I received a mask as I know I can always use them. Plus I've never heard of Epicuren Discovery before so I'm excited to try them out.</p>
+<DL>
+<DT><b>Brickell</b> Peppermint Lip Balm</DT>
+<DD>Full Size 2.5 oz., Value $50</DD>
+</DL>
 
-<p>"This Aloe Vera based mask contains Sea Clay to nourish and purify the skin, while soothing Seaweed and Green Tea work to instantly comfort and diminish visual redness. The Green Tea & Seaweed Soothing Mask is recommended for all skin types, especially for those with sensitive or inflamed skin conditions."</p>
-
-<p>And with every box they send out, they include a Beauty Report about the product and why it was matched for you (me):</p>
-<p><center><img src='/images/BeautyDNAJan2016Info.jpg'></center></p>
+<p>This lip balms is...</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's product match although not a complete match, wasn't too bad. I can always use another mask and the value is double the cost of the box which is great. Last month's value was quite low so I'm happy with this month's value for sure. One thing to note about this subscription (and other subscriptions for that matter) is that although you may fill out your beauty profile to the tee in terms of what you're looking for and what you'd like to avoid, they can't always completely deliver that but they try their best. So keep that in mind if you're thinking of subscribing.</p>
+<center><img src='/images/GentlemansBoxJan2016Watch.jpg'></center>
+
+<p>Not only is this wristwatch casual and cool at the same, it also has interchangeable straps for you to switch up based on your mood or outfit.</p>
+
+<p>Here's a closer look at the face dial:</p>
+<center><img src='/images/GentlemansBoxJan2016Watch2.jpg'></center>
+
+<br>
+
+<p>I always like watches with clean design, not only for aesthetics, but also because it can then fit into any outfit.</p>
+
+<br>
+
+<center><img src='/images/GentlemansBoxJan2016HappySocks.jpg'></center>
+
+<p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks.</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy with this month's box and it surely met all my expectations. I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. In all honesty, I had secretly hopes that the watch would fit my petite wrist, but my husband can claim this all for himself. The total value of this box came up to $xxx which is amazing for the $25 cost of this box.</p>
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs.</p>
 <br>
