@@ -103,8 +103,6 @@ date: 2016-01-17 12:51:39 -08:00
 <DD>Value $25</DD>
 </DL>
 
-<br>
-
 <p>This lapel pin is made of wood so it's both innovative and unique at the same time, I like it. The style of this wooden lapel will be perfect for a spring or summer outdoor event. My husband definitely does not have a wooden lapel in his collection, so this is a first and I can't wait to see him wear it.</p>
 
 <br>
