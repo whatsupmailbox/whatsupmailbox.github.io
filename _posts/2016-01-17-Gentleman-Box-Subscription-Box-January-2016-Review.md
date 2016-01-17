@@ -27,7 +27,7 @@ date: 2016-01-17 12:51:39 -08:00
 <p><b>What's in the box:</b> Four to six hand-selected products for men, accompanied by the latest issue of GQ Magazine (U.S. and Canada only).</p>
 <br>
 
-<p><i>Note: The GQ magazine that's included with the subscription used to be shipped together in the box, but it now comes separately in the mail.</i></p>
+<p><i>Note: The GQ magazine that's included with the subscription used to be shipped together in the box, but now it comes separately in the mail.</i></p>
 
 <br>
 
