@@ -13,8 +13,10 @@ published: false
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJan2016Items.jpg"
-date: 2016-01-17 09:21:39 -08:00
+date: 2016-01-17 12:51:39 -08:00
 ---
+
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
 
 <center><a href="https://gentlemansbox.com" target="_blank">
 <img src="/images/GentlemansBoxJan2016Box.jpg" border="0" style="border:none;max-width:100%;" />
