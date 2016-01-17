@@ -29,6 +29,8 @@ date: 2016-01-17 12:51:39 -08:00
 
 <p><i>Because this box was received for review, it did not include the GQ magazine, but all subscribers received one.</i></p>
 
+<br>
+
 <p>Men's subscription boxes are quite few to find so I love it when I get the opportunity to review one. It's such a treat!</p>
 
 <br>
