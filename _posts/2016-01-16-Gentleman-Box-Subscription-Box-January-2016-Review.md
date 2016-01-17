@@ -25,7 +25,10 @@ date: 2016-01-16 09:21:39 -08:00
 <p><b>What's in the box:</b> Four to six hand-selected products for men, accompanied by the latest issue of GQ Magazine (U.S. and Canada only).</p>
 <br>
 
-<p>Men's subscription boxes are quite few to find so I'm all gungho when they do appear and I try them out almost instantly.</p>
+<p><i>Because this box was received for review, it did not include the GQ magazine, but all subscribers received one.</i></p>
+
+<p>Men's subscription boxes are quite few to find so I love it when I get the opportunity to review one. It's such a treat!</p>
+
 <br>
 
 <center><img src='/images/GentlemansBoxJan2016OpenBox.jpg'></center>
@@ -59,7 +62,7 @@ date: 2016-01-16 09:21:39 -08:00
 
 <br>
 
-<p>All the items look great and I'm already so excited, especiallt with the inclusion of a watch, score!!!</p>
+<p>All the items look great and I'm already so excited, especially with the inclusion of a watch, score!!!</p>
 
 <br>
 
@@ -74,7 +77,7 @@ date: 2016-01-16 09:21:39 -08:00
 
 <br>
 
-<p>The lapel pin is made of wood so it's both form fitting and unique at the same time, I like it. It'll go well for a spring or summer outdoor event.</p>
+<p>The lapel pin is made of wood so it's both quality and unique at the same time, I like it. It'll go well for a spring or summer outdoor event.</p>
 
 <br>
 
@@ -89,24 +92,24 @@ date: 2016-01-16 09:21:39 -08:00
 
 <center><img src='/images/GentlemansBoxJan2016Watch.jpg'></center>
 
-<p>Not only is this wristwatch casual and cool at the same, it also has interchangeable straps for you to switch up based on your mood or outfit.</p>
+<p>Not only is this wristwatch casual and cool at the same, they also included interchangeable straps for you to switch up based on your mood or outfit. How thoughtful!</p>
 
 <p>Here's a closer look at the face dial:</p>
 <center><img src='/images/GentlemansBoxJan2016Watch2.jpg'></center>
 
 <br>
 
-<p>I always like watches with clean design, not only for aesthetics, but also because it can then fit into any outfit.</p>
+<p>I always like watches with a clean design, not only for aesthetics, but also because it's versatile and can fit into any outfit.</p>
 
 <br>
 
 <center><img src='/images/GentlemansBoxJan2016HappySocks.jpg'></center>
 
-<p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks.</p>
+<p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks. He already has a growing collection and this one will be happily added to that.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm happy with this month's box and it surely met all my expectations. I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. In all honesty, I had secretly hopes that the watch would fit my petite wrist, but my husband can claim this all for himself. The total value of this box came up to $xxx which is amazing for the $25 cost of this box.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What an awesome box! This month's items were great and I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. In all honesty, I had secretly hoped that the watch would fit my petite wrist, but my husband can claim this all for himself. The total value of this box came up to $xxx which is amazing for the $25 cost. This is such a great subscription to have if you're into accessorizing or want to upgrade your looks and be dapper!</p>
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs.</p>
 <br>
