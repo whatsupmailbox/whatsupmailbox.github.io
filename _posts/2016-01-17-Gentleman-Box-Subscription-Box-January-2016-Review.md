@@ -56,11 +56,11 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-<center><img src='/images/GentlemansBoxJan2016Info3.jpg'></center>
+<center><img src='/images/GentlemansBoxJan2016Info4.jpg'></center>
 
 <br>
 
-<center><img src='/images/GentlemansBoxJan2016Info4.jpg'></center>
+<center><img src='/images/GentlemansBoxJan2016Info3.jpg'></center>
 
 <p>The info magazine displays the items included in the box and a little info on them as well. I love it when subscription boxes do this, it just feels quality and shows that they pay attention to the small details.</p>
 
