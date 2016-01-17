@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJan2016Items.jpg"
-date: 2016-01-16 09:21:39 -08:00
+date: 2016-01-17 09:21:39 -08:00
 ---
 
 <center><a href="https://gentlemansbox.com" target="_blank">
@@ -71,8 +71,8 @@ date: 2016-01-16 09:21:39 -08:00
 <center><img src='/images/GentlemansBoxJan2016LapelLipBalm.jpg'></center>
 
 <DL>
-<DT><b>Epicuren Discovery</b> Green Tea & Seaweed Soothing Mask</DT>
-<DD>Full Size 2.5 oz., Value $50</DD>
+<DT><b>Epicuren Discovery</b> Wood Lapel</DT>
+<DD>Value $50</DD>
 </DL>
 
 <br>
@@ -92,6 +92,11 @@ date: 2016-01-16 09:21:39 -08:00
 
 <center><img src='/images/GentlemansBoxJan2016Watch.jpg'></center>
 
+<DL>
+<DT><b>Brickell</b> Wristwatch</DT>
+<DD>Value $50</DD>
+</DL>
+
 <p>Not only is this wristwatch casual and cool at the same, they also included interchangeable straps for you to switch up based on your mood or outfit. How thoughtful!</p>
 
 <p>Here's a closer look at the face dial:</p>
@@ -104,6 +109,10 @@ date: 2016-01-16 09:21:39 -08:00
 <br>
 
 <center><img src='/images/GentlemansBoxJan2016HappySocks.jpg'></center>
+<DL>
+<DT><b>Happy Socks</b> Sock</DT>
+<DD>1 pair, Value $15</DD>
+</DL>
 
 <p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks. He already has a growing collection and this one will be happily added to that.</p>
 
@@ -113,3 +122,37 @@ date: 2016-01-16 09:21:39 -08:00
 
 <p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs.</p>
 <br>
+
+<TABLE  BORDER="5" style="width:40%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Lapel</TD>
+      <TD>$40</TD>
+   </TR>
+   <TR>
+      <TD>Brickell Lip Balm</TD>
+      <TD>$22</TD>
+   </TR>
+  <TR>
+      <TD>Wristwatch</TD>
+      <TD>$25</TD>
+   </TR>
+   <TR>
+      <TD>Happy Socks</TD>
+      <TD>$15</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$117</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$25</big></i></TD>
+   </TR>
+</TABLE>
