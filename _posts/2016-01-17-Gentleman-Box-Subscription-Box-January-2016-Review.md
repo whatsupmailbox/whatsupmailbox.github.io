@@ -98,7 +98,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <DL>
 <DT><b>My Suited Life</b> Wooden Lapel</DT>
-<DD>Value $50</DD>
+<DD>Value $25</DD>
 </DL>
 
 <br>
@@ -109,7 +109,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <DL>
 <DT><b>Brickell</b> Peppermint Lip Balm</DT>
-<DD>Full Size 2.5 oz., Value $50</DD>
+<DD>Value $7.50</DD>
 </DL>
 
 <p>This lip balms is...</p>
@@ -137,7 +137,7 @@ date: 2016-01-17 12:51:39 -08:00
 <center><img src='/images/GentlemansBoxJan2016HappySocks.jpg'></center>
 <DL>
 <DT><b>Happy Socks</b> Half-Striped Socks</DT>
-<DD>1 pair, Value $15</DD>
+<DD>Value $15</DD>
 </DL>
 
 <p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks. He already has a growing collection and this one will be happily added to that.</p>
