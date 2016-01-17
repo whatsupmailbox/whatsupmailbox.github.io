@@ -80,7 +80,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-<p>And finally you see some products! Can't wait to see what they are...</p>
+<p>And finally you see some products!</p>
 
 # All the items for Gentleman's Box January 2016:
 
