@@ -27,7 +27,7 @@ date: 2016-01-17 12:51:39 -08:00
 <p><b>What's in the box:</b> Four to six hand-selected products for men, accompanied by the latest issue of GQ Magazine (U.S. and Canada only).</p>
 <br>
 
-<p><i>Because this box was received for review, it did not include the GQ magazine, but all subscribers received one.</i></p>
+<p><i>Note: The GQ magazine that's included with the subscription used to be shipped together in the box, but it now comes separately in the mail.</i></p>
 
 <br>
 
@@ -174,8 +174,12 @@ date: 2016-01-17 12:51:39 -08:00
       <TD>$12</TD>
    </TR>
    <TR>
+      <TD>GQ Magazine</TD>
+      <TD>$6</TD>
+   </TR>
+   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$94.50</big></b></TD>
+      <TD><b><big>$100.50</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
