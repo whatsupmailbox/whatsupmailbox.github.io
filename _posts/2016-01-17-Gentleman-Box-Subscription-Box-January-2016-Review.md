@@ -92,7 +92,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-## Items in details
+## Items in detail:
 
 <center><img src='/images/GentlemansBoxJan2016LapelLipBalm.jpg'></center>
 
@@ -103,7 +103,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-<p>The lapel pin is made of wood so it's both quality and unique at the same time, I like it. It'll go well for a spring or summer outdoor event.</p>
+<p>This lapel pin is made of wood so it's both innovative and unique at the same time, I like it. The style of this wooden lapel will be perfect for a spring or summer outdoor event. My husband definitely does not have a wooden lapel in his collection, so this is a first and I can't wait to see him wear it.</p>
 
 <br>
 
@@ -112,7 +112,7 @@ date: 2016-01-17 12:51:39 -08:00
 <DD>Value $7.50</DD>
 </DL>
 
-<p>This lip balms is...</p>
+<p>This lip balms is made with the finest natural and organic ingredients. It's also a no shine lip balm so you or your man can moisturize and hydrate your lips without getting that girly shiny gloss that typically comes with it. Plus it also provides broad-spectrum UVA/UVB protection with SPF15. Finally, a great manly lip balm that my husband can actually use!</p>
 
 <br>
 
@@ -130,7 +130,7 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-<p>I always like watches with a clean design, not only for aesthetics, but also because it's versatile and can fit into any outfit.</p>
+<p>I always like watches with a clean design, not only for aesthetics, but also because it's versatile and can fit into any outfit. What a great watch to receive and it will surely be used for many years to come.</p>
 
 <br>
 
