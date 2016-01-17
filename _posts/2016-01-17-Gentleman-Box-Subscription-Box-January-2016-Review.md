@@ -82,6 +82,8 @@ date: 2016-01-17 12:51:39 -08:00
 
 <p>And finally you see some products!</p>
 
+<br>
+
 # All the items for Gentleman's Box January 2016:
 
 <center><img src='/images/GentlemansBoxJan2016Items.jpg'></center>
