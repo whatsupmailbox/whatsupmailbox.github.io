@@ -9,7 +9,7 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, January 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJan2016Items.jpg"
@@ -112,7 +112,7 @@ date: 2016-01-17 12:51:39 -08:00
 <DD>Value $7.50</DD>
 </DL>
 
-<p>This lip balms is made with the finest natural and organic ingredients. It's also a no shine lip balm so you or your man can moisturize and hydrate your lips without getting that girly shiny gloss that typically comes with it. Plus it also provides broad-spectrum UVA/UVB protection with SPF15. Finally, a great manly lip balm that my husband can actually use!</p>
+<p>This lip balm is made with the finest natural and organic ingredients. It's also a no shine lip balm so you or your man can moisturize and hydrate your lips without getting that girly shiny gloss that typically comes with it. Plus it also provides broad-spectrum UVA/UVB protection with SPF15. Finally, a great manly lip balm that my husband can actually use!</p>
 
 <br>
 
@@ -140,11 +140,11 @@ date: 2016-01-17 12:51:39 -08:00
 <DD>Value $15</DD>
 </DL>
 
-<p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks. He already has a growing collection and this one will be happily added to that.</p>
+<p>My husband absolutely loves Happy Socks. They always have fun and sometimes bright patterns or designs for each pair of socks. He already has a growing collection and this one will be "happily" added to that. See what I did there =P</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What an awesome box! All the items were great and I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. The total value of this box came up to $94.50 which is amazing for the $25 cost. This is such a great subscription to have if you're into accessorizing or want to upgrade your looks and be dapper!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What an awesome box! All the items were great and I totally appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. The total value of this box came up to $100.50 which is amazing for the $25 cost. This is such a great subscription to have if you're into accessorizing or want to upgrade your looks and be dapper!</p>
 
 <p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving monthly accessories and lifestyle products for men!</p>
 <br>
