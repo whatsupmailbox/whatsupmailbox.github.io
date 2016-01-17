@@ -71,7 +71,7 @@ date: 2016-01-17 09:21:39 -08:00
 <center><img src='/images/GentlemansBoxJan2016LapelLipBalm.jpg'></center>
 
 <DL>
-<DT><b>Epicuren Discovery</b> Wood Lapel</DT>
+<DT><b>My Suited Life</b> Wooden Lapel</DT>
 <DD>Value $50</DD>
 </DL>
 
@@ -93,11 +93,11 @@ date: 2016-01-17 09:21:39 -08:00
 <center><img src='/images/GentlemansBoxJan2016Watch.jpg'></center>
 
 <DL>
-<DT><b>Brickell</b> Wristwatch</DT>
+<DT><b>Winner Circle Fashion Co.</b> Classic Sports Watch</DT>
 <DD>Value $50</DD>
 </DL>
 
-<p>Not only is this wristwatch casual and cool at the same, they also included interchangeable straps for you to switch up based on your mood or outfit. How thoughtful!</p>
+<p>Not only is this wristwatch casual and cool at the same, they also included two additional interchangeable straps for you to switch up based on your mood or outfit. How thoughtful!</p>
 
 <p>Here's a closer look at the face dial:</p>
 <center><img src='/images/GentlemansBoxJan2016Watch2.jpg'></center>
@@ -110,7 +110,7 @@ date: 2016-01-17 09:21:39 -08:00
 
 <center><img src='/images/GentlemansBoxJan2016HappySocks.jpg'></center>
 <DL>
-<DT><b>Happy Socks</b> Sock</DT>
+<DT><b>Happy Socks</b> Half-Striped Socks</DT>
 <DD>1 pair, Value $15</DD>
 </DL>
 
@@ -118,12 +118,12 @@ date: 2016-01-17 09:21:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What an awesome box! This month's items were great and I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. In all honesty, I had secretly hoped that the watch would fit my petite wrist, but my husband can claim this all for himself. The total value of this box came up to $xxx which is amazing for the $25 cost. This is such a great subscription to have if you're into accessorizing or want to upgrade your looks and be dapper!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What an awesome box! All the items were great and I definitely appreciate the inclusion of a wristwatch, but even more grateful that it also includes two additional interchangeable straps. Especially the camo pattern, a clear favorite. The total value of this box came up to $94.50 which is amazing for the $25 cost. This is such a great subscription to have if you're into accessorizing or want to upgrade your looks and be dapper!</p>
 
-<p>Not a subscriber? You can <a href="https://www.beautydna.com/"><big>join here</big></a> to start your subscription for a monthly full-sized product that's personally matched to your skincare needs.</p>
+<p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving monthly accessories and lifestyle products for men!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:40%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
@@ -132,24 +132,24 @@ date: 2016-01-17 09:21:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Lapel</TD>
-      <TD>$40</TD>
-   </TR>
-   <TR>
-      <TD>Brickell Lip Balm</TD>
-      <TD>$22</TD>
-   </TR>
-  <TR>
-      <TD>Wristwatch</TD>
+      <TD>My Suited Life Wooden Lapel</TD>
       <TD>$25</TD>
    </TR>
    <TR>
-      <TD>Happy Socks</TD>
-      <TD>$15</TD>
+      <TD>Brickell Peppermint Lip Balm</TD>
+      <TD>$7.50</TD>
+   </TR>
+  <TR>
+      <TD>Winner Circle Fashion Co. Wristwatch</TD>
+      <TD>$50</TD>
+   </TR>
+   <TR>
+      <TD>Happy Socks Socks</TD>
+      <TD>$12</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$117</big></b></TD>
+      <TD><b><big>$94.50</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
