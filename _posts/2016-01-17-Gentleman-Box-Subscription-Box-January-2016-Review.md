@@ -38,7 +38,25 @@ date: 2016-01-17 12:51:39 -08:00
 
 <br>
 
-<p>You immediately see the info magazine that they include with every box on the top of the inside packaging. Let's see what lies underneath it!</p>
+<p>You immediately see the info magazine that they include with every box on the top of the inside packaging.</p>
+
+<br>
+
+<center><img src='/images/GentlemansBoxJan2016Info.jpg'></center>
+
+<br>
+
+<p>Pages from the Info Magazine:</p>
+
+<center><img src='/images/GentlemansBoxJan2016Info2.jpg'></center>
+
+<br>
+
+<center><img src='/images/GentlemansBoxJan2016Info3.jpg'></center>
+
+<br>
+
+<center><img src='/images/GentlemansBoxJan2016Info4.jpg'></center>
 
 <br>
 
