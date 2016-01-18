@@ -8,7 +8,7 @@ title: Ipsy January 2016 Review + No Waitlist!
 featured: false
 comments: true
 type: photo
-imagefeature: IpsyDec2015Items.jpg
+imagefeature: IpsyJan2016Items.jpg
 headline: Ipsy January 2016 Review + No Waitlist!
 tags: [Ipsy, Subscriptions, Reviews, January 2016]
 date: 2015-1-18 14:01:39 -08:00
