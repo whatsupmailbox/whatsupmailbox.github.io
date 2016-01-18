@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -123,7 +123,7 @@ date: 2015-1-18 14:01:39 -08:00
 <DD>Travel Size 10 cleansing cloths, Value $5</DD>
 </DL>
 
-<p>I'm super happy I received these facial cleansing clothes! I'm a fan of their eye patches and have always wanted to try these since it has gotten great reviews. I</p>
+<p>I'm super happy I received these facial cleansing clothes! I'm a fan of their eye patches and have always wanted to try these since it has gotten great reviews.</p>
 
 <p>"When you're too tired to deal with the whole cleanser and wash cloth routine, these on-the-go foaming cloths are the ultimate skin savior. Infused with Icelandic glacial waters and beneficial natural extracts, they sweep away makeup, dirt, oil and other impurities while refreshing and soothing stressed skin. Best of all, there's no water required. It has a clean scent, never tacky. Great for travel or every day!"</p>
 
@@ -156,7 +156,7 @@ date: 2015-1-18 14:01:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:70%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
