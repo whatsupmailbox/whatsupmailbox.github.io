@@ -11,7 +11,7 @@ type: photo
 imagefeature: IpsyJan2016Items.jpg
 headline: Ipsy January 2016 Review + No Waitlist!
 tags: [Ipsy, Subscriptions, Reviews, January 2016]
-date: 2015-1-18 14:01:39 -08:00
+date: 2016-1-18 14:01:39 -08:00
 ---
 
 <p></p>
