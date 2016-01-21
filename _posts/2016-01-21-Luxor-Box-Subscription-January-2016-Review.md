@@ -241,7 +241,7 @@ date: 2016-1-21 08:05:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So I think Luxor Box heard my wishes and came up with an amazing curation this month! They really knocked it out of the park and I'm so so happy with every item! The throw itself was so luxurious and such a treat to receive, then they also included other pampering products. Definitely my favorite box as of yet! The total value came up to $304 which is amazing and I really do think they did a great job in curating the products perfectly for the winter. #Applaud</p>
 
-<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is January 2016, but be aware that boxes do get sold out as time gets closer.</p>
+<p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is March 2016!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
