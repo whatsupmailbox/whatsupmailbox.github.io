@@ -78,7 +78,7 @@ date: 2016-1-21 16:05:39 -08:00
 <center><img src="/images/LuxorBoxJan2016Items.jpg"></center>
 <br>
 
-<p>Ahhh, can't even begin to describe how excited I am about all the items, they just look so good and totally me!</p>
+<p>Ahhh, can't even begin to describe how excited I am about all the items, they look amazing and totally me!</p>
 
 <br>
 
@@ -93,7 +93,7 @@ date: 2016-1-21 16:05:39 -08:00
 
 <p>During winter season, there's nothing more comfy than wrapping myself up in a blanket while drinking some hot cocoa and lounging in front of the fireplace. This will surely be used for that and I just might do that tonight!</p>
 
-<p>The packaging of this hot chocolate is so pretty, definitely countertop worthy.</p>
+<p>The packaging of this hot chocolate is so pretty too, definitely countertop worthy.</p>
 
 <br>
 
