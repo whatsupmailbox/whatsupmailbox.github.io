@@ -69,13 +69,13 @@ date: 2016-1-21 15:45:00 -08:00
 
 <br>
 
-<H4>And here are my Birchbox January 2016 items:</H4>
+# And here are my Birchbox January 2016 items:
 
 <p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox January 2016 Items!" /></a></center></p>
 <br>
 
-<H4>Items in detail:</H4>
+## Items in detail:
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/BirchboxJan2016CleanCashmerePerfumeCiateNailPolish.jpg" border="0" style="border:none;max-width:100%;" />
