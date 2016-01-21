@@ -23,7 +23,7 @@ date: 2016-1-21 13:03:00 -08:00
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">LOVEGWS</a> at checkout to receive a free Jurlique Love Balm with your first box! This offer ends January 24, 2015. OR, <a href="http://fbuy.me/df02-" target="_blank">subscribe through this link</a> to receive 50% off your first box, that brings the cost down to only $5!
+* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">LOVEGWS</a> at checkout to receive a free Jurlique Love Balm (a $10 value) with your first box! This offer ends January 24, 2015.
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
@@ -32,7 +32,7 @@ date: 2016-1-21 13:03:00 -08:00
 <img src="/images/BirchboxJan2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox January 2016 Box" />
 </a></center>
 
-<p>This month's box design celebrates a new year and a new resolution! I'm still thinking on what to put in that blank space lol.</p>
+<p>This month's box design celebrates a new year and a new resolution! I'm still thinking on what to put in that blank space, maybe "Monkey" in honor of the Chinese Year of Monkey ;)</p>
 
 <br>
 
