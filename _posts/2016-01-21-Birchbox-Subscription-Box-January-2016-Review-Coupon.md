@@ -97,7 +97,7 @@ date: 2016-1-21 13:03:00 -08:00
 <DD>Mini Paint Pot 5ml., Value $8</DD>
 </DL>
 
-<p>Yay, a nail polish! I always feel like I scored when I receive them in my Birchbox, but that's just me. The color Showgirl is a pinkish red base with red glitter specks. I've never been disappointed with Ciaté in the past so I know it's good, but unfortunately the glittery color is just not for me, so sadly this will be gifted.</p>
+<p>Yay, a nail polish! I always feel like I scored when I receive them in my Birchbox, but that's just me. The color Showgirl is a pinkish red base with red glitter specks. I've never been disappointed with Ciaté in the past so I know it's good. But unfortunately the glittery color is just not for me, so sadly this will be gifted which is a bummer cause I really wanted to keep it.</p>
 
 <br>
 
@@ -110,7 +110,7 @@ date: 2016-1-21 13:03:00 -08:00
 <DD>Deluxe Sample Size, Value $4.50</DD>
 </DL>
 
-<p>I've heard of the FOREO cleansing tool and although the tool itself looks pretty unique, I'm a big fan of Clarisonic brushes so I am staying loyal. It is kind of strange that they included a cleanser that's specifically for a FOREO device, but I'll use this with my Clarisonic Mia2 and would think it'll be just the same, a cleanser is a cleanser.</p>
+<p>I've heard of the FOREO cleansing tool and although the tool itself looks pretty unique, I'm a big fan of Clarisonic brushes so I'm staying loyal. It's kind of strange though that they included a cleanser that's specifically intended for use with a FOREO device, but I'll use this with my Clarisonic Mia2 and would think it'll be just the same, a cleanser is a cleanser.</p>
 
 <br>
 
