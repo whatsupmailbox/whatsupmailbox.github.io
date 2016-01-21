@@ -23,22 +23,26 @@ date: 2016-1-21 16:05:39 -08:00
 
 <p><b>Subscription:</b> <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">Luxor Box</a></p>
 <p><b>Cost:</b> $125/bi-monthly for the Luxor Box (6-9 items) OR $39.95/bi-monthly for the Petite Box (3-4 items) + Free shipping.</p>
-<p><b>What's in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. Starting in September, every shipment will have a $275+ value (raised from $250)!</p>
+<p><b>What's in the box:</b> Items range from high-end spa products, top-shelf beauty products, jewelry, apparel, home accessories and unique treasures from around the world. Every shipment will have a $275+ value!</p>
 
-<p>This is the fourth shipment from Luxor Box ever since it premiered in May.</p>
+<br>
+
+<p>Luxor Box is one of those luxurious subscription boxes that I'm in love with. Their curation has been great so far and I'm always excited when I finally receive mine on my doorstep!</p>
+
+<br>
 
 <center><img src="/images/LuxorBoxJan2016Package.jpg"></center>
-<p>This month's box was shipped in an unmarked brown box (it's typically white) and it's quite large in size.</p>
+<p>This month's box was shipped in an unmarked brown box (it's typically white) and that's probably due to the need for a bigger box to contain the throw that they'll be including in this month's box (it was revealed last month).</p>
 <br>
 
 <center><img src="/images/LuxorBoxJan2016OpenPackage.jpg"></center>
-<p>Upon opening the brown box, you see the actual Luxor Box and a white package which I assume is the throw that they revealed would be in this month's box.</p>
+<p>Upon opening the brown box, you see the actual Luxor Box and a white package which I assume is the throw.</p>
 
 <center><img src="/images/LuxorBoxJan2016OpenBox.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<p>I love how they always package the inside in Luxor Box paper and finished with their sticker. It looks so chic!</p>
+<p>I love how they always package the inside with Luxor Box paper and sticker. It looks so chic!</p>
 
 <br>
 
@@ -46,7 +50,7 @@ date: 2016-1-21 16:05:39 -08:00
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
-<p>As soon as you open the box, you see their info cards. Will get back to that later.</p>
+<p>As soon as you open the box, you see their info cards. We'll get back to that later.</p>
 
 <br>
 
@@ -72,6 +76,10 @@ date: 2016-1-21 16:05:39 -08:00
 <center><img src="/images/LuxorBoxJan2016Items.jpg"></center>
 <br>
 
+<p>Ahhh, can't even begin to describe how excited I am about all the items, they just look so good and totally me!</p>
+
+<br>
+
 <H4>Items in detail:</H4>
 
 <center><img src="/images/LuxorBoxJan2016MarieBelleAztecHotChocolate.jpg"></center>
@@ -81,7 +89,7 @@ date: 2016-1-21 16:05:39 -08:00
 <DD>Value $12</DD>
 </DL>
 
-<p>During winter season, there's nothing more comfy than wrapping myself up in a blanket while drinking some hot cocoa and lounging in front of the fireplace. This will surely be used for that!</p>
+<p>During winter season, there's nothing more comfy than wrapping myself up in a blanket while drinking some hot cocoa and lounging in front of the fireplace. This will surely be used for that and I just might do that tonight!</p>
 
 <p>The packaging of this hot chocolate is so pretty, definitely countertop worthy.</p>
 
@@ -89,7 +97,7 @@ date: 2016-1-21 16:05:39 -08:00
 
 <center><img src="/images/LuxorBoxJan2016MarieBelleAztecHotChocolate2.jpg"></center>
 
-<p>They even include different ways to prepare this hot chocolate; American Style, European Style or Mochaccino. I like both the American and European style since I'm not much of a coffee drinker, but I'm sure my husband will be trying that method.</p>
+<p>They even include different ways to prepare this hot chocolate; American Style, European Style or Mochaccino. I like both the American and European style, not really into Mochaccino since I'm not much of a coffee drinker, but I'm sure my husband will be trying that method. I may even be indulgent and sprinkle this on top of my homemade Tiramisu next time, yum!</p>
 
 <br>
 
@@ -117,7 +125,7 @@ date: 2016-1-21 16:05:39 -08:00
 
 <center><img src="/images/LuxorBoxJan2016BlissHomeDesignFauxFurThrow2.jpg"></center>
 
-<p>It matches my decor perfectly! Absolutely love this, I was literally clapping my hands (presumably to Luxor Box) while I was staging this, love it!</p>
+<p>It matches my decor perfectly! Absolutely love this, I was literally clapping my hands (presumably to Luxor Box) while I was staging it for the picture above. Absolutely love it!</p>
 
 <br>
 
@@ -153,12 +161,12 @@ date: 2016-1-21 16:05:39 -08:00
 <DD>Value $45</DD>
 </DL>
 
-<p>I used to not be a scarf person before my subscription addiction, but now is a different story. I do love me a good scarf but unfortunately the design on this one in particular is just not my style. Jules Smith is a great brand and I've receive quite a few items from them in the past so it's nothing against the quality or brand, just personal preference.</p>
+<p>I used to not be a scarf person before my subscription addiction, but now is a different story. I do love me a good scarf but unfortunately the design on this one particularly is just not my style. Jules Smith is a great brand and I've receive quite a few items from them in the past so it's nothing against the quality or brand, just personal preference.</p>
 <br>
 
 <p>Here's a closer look at the scarf:</p>
 <center><img src="/images/LuxorBoxJan2016JulesSmithScarf3.jpg"></center>
-<p>The material is really soft. I do wish it was in a different design so it looks somewhat good on me, but sadly no so this will be gifted.</p>
+<p>The material is really soft. I do wish it was in a different design so it looks somewhat good on me, but sadly no, so this will be gifted.</p>
 
 <br>
 
@@ -169,10 +177,7 @@ date: 2016-1-21 16:05:39 -08:00
 <DD>Value $45</DD>
 </DL>
 
-<p>This is one expensive mug! But that's because Mottahedeh is a recognized leader in luxury ceramic antique reproductions and historic designs, primarily hard porcelain faience and stoneware. Although I'm not a big fan on this particular design, the whole story of it is quite interesting.</p>
-
-<p>"National Geographic's photo archive is the inspiration for this delicate design. Each actual snowflake was originally hand painted in icy tones of blue and silver.
-The story of this remarkable pattern follows:</p> 
+<p>This is one expensive mug! But that's because Mottahedeh is a recognized leader in luxury ceramic antique reproductions and historic designs. Although I'm not a big fan of this particular design, the whole story of it is quite interesting.</p>
 
 <p>Wilson Bentley(1865–1931) of Jericho, Vermont,was a farmer and a highly-regarded amateur meteorologist who photographed snow—or more precisely, thousands of individual snow crystals. Drawn to their beauty and seemingly endless variety, Bentley isolated and captured these crystals in simple, stark photographs, creating his first successful image—a “photomicrograph” of a single snow crystal—on January 15, 1885. The creamy, matte of the black velvet fabric proved to be the perfect backdrop to showcase the beautiful, feather-like crystals. Soon, his work came to the attention of National Geographic, and Bentley published two articles—in January 1904 and January 1923—that showcased his extraordinary photography while also illustrating the basic science of snow."</p>
 
@@ -180,7 +185,7 @@ The story of this remarkable pattern follows:</p>
 
 <center><img src="/images/LuxorBoxJan2016MottahedehSnowflakeMug3.jpg"></center>
 
-<p>The handle has a striped blue design. This mug is actually quite tall and definitely feels quality. What better mug to use with the decadent Marie Belle Aztec Hot Chocolate than this!</p>
+<p>The handle has a striped blue design which I thought brought a bit of variety to this all-snowflake mug. The size is actually quite tall and it definitely feels quality, I really wish they went with a different design but no matter, I'll still be using it. What better mug to use with the decadent Marie Belle Aztec Hot Chocolate than this!</p>
 
 <br>
 
@@ -193,9 +198,9 @@ The story of this remarkable pattern follows:</p>
 
 <p>Subscribers received 2 of the following scents: Fulfill Mint, Tea Garden, Oh-So-Citrus and Sweet Chai.</p>
 
-<p>Everytime I travel I always have to bring some candles with me. These candles are great for travelling because of the size and that it also comes in a tin.</p>
+<p>Everytime I travel I always have to bring some candles with me. These candles are great for travelling because of the petite size and also because of the tin packaging.</p>
 
-<p>Made with 100% cosmetic grade soy wax and infused with essential oils, this will surely provide me with some aromatherapy whenever needed.</p>
+<p>Made with 100% cosmetic grade soy wax and infused with essential oils, this will surely provide me with some aromatherapy whenever needed. The Tea Garden scent (which is my favorite out of the two) is refreshing and the Sweet Chai smells like... well... Sweet Chai tea.</p>
 
 <br>
 
@@ -213,7 +218,9 @@ The story of this remarkable pattern follows:</p>
 
 <p>Subscribers received 2 of the following scents: Moments in Mint, Pick Me Up, Lost in Lavender and Rose Retreat.</p>
 
-<p>These bath salts smell amazing! I think I may need to soak in a long hot bath tonight and use these. They are a 3-in-1 bath therapy because of the mineralizing sea salts, therapeutic essential oils and curative flowers & herbs, giving you a total restoration and relaxation experience at the same time. My body is already saying, "let's take a bath!" lol.</p>
+<p>These bath salts smell amazing! The scent filled up the whole box and it's all I smell when I was unboxing and taking pictures, so heavenly. It really made me want to soak in a long hot bath, so I guess I'll be doing that tonight and use these.</p>
+
+<p>They are a 3-in-1 bath therapy because of the mineralizing sea salts, therapeutic essential oils and curative flowers & herbs, giving you a total restoration and relaxation experience at the same time. My body is already saying, "let's take a bath!"</p>
 
 <br>
 
@@ -221,18 +228,14 @@ The story of this remarkable pattern follows:</p>
 
 <DL>
 <DT><b>Pura Botanica</b> Lend A Hand Crème Smoother</DT>
-<DD>Value $12</DD>
+<DD>Value $10</DD>
 </DL>
 
 <p>This is an all-natural hand crème that's made with West African Shea Butter and Aloe Vera. I always love me a good hand crème and can never have enough so this was truly appreciated. At first I was wondering why they put a turtle design on the tube, but then I learned that it's because a portion of all proceeds will benefit the National Save the Sea Turtle Foundation. Awww, I love sea turtles, they are amazing creatures and I would totally support this!</p>
 
-<p>You can see my admiration and adoration towards sea turtles by me stalking one while snorkeling in Maui last year:</p>
-
-<center><img src="/images/LorettaAndASeaTurtle.jpg"></center>
-
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Luxor Box is in my good list again after a <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-September-2015-Review/" target="_blank">somewhat disappointing box in September</a>. I loved that they included an ornament, very fitting for the holidays. And the hero item for me was without a doubt the Brandon Blackwood pouch/clutch, just stunning and oh-so useful. The only miss was the necklace, but thankfully the value for that wasn't too high, and even more thankfully it wasn't the big ticket item either. So so happy with everything else. Even with the miss, I think this is probably my favorite box as of yet. Hurray Luxor Box, you've won my heart again. Here's to hoping January's box will be even better (fingers crossed).</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So I think Luxor Box heard my wishes and came up with an amazing curation this month! They really knocked it out of the park and I'm so so happy with every item! The throw itself was so luxurious and such a treat to receive, then they also included other pampering products. Definitely my favorite box as of yet! The total value came up to $304 which is amazing and I really do think they did a great job in curating the products perfectly for the winter. #Applaud</p>
 
 <p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is January 2016, but be aware that boxes do get sold out as time gets closer.</p>
 <br>
@@ -246,32 +249,40 @@ The story of this remarkable pattern follows:</p>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Brandon Blackwood Leather Pouch</TD>
-      <TD>$265</TD>
+      <TD>Marie Belle Aztec Hot Chocolate</TD>
+      <TD>$12</TD>
    </TR>
   <TR>
-      <TD>Jules Smith Necklace</TD>
-      <TD>$45</TD>
+      <TD>Bliss Home & Design Faux Fur Throw</TD>
+      <TD>$100</TD>
    </TR>
    <TR>
-      <TD>Mary Jurek Bowl</TD>
-      <TD>$50</TD>
+      <TD>Etiquette Clothiers Cashmere Socks</TD>
+      <TD>$44</TD>
    </TR>
     <TR>
-      <TD>Mary Jurek Holiday Ornament</TD>
-      <TD>$25</TD>
+      <TD>Jules Smith Crochet Tube Scarf</TD>
+      <TD>$45</TD>
    </TR>
     <TR>
-      <TD>Painted Earth Eye Treatment</TD>
-      <TD>$32.50</TD>
+      <TD>Mottahedeh Snowflake Mug</TD>
+      <TD>$45</TD>
    </TR>
     <TR>
-      <TD>Painted Earth Face Wash</TD>
-      <TD>$27</TD>
+      <TD>Pura Botanica 2x Candle Tins</TD>
+      <TD>$26</TD>
+   </TR>
+    <TR>
+      <TD>Pura Botanica 2x Bath Salts</TD>
+      <TD>$22</TD>
+   </TR>
+    <TR>
+      <TD>Pura Botanica Lend A Hand Crème</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$444.50</big></b></TD>
+      <TD><b><big>$304</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
