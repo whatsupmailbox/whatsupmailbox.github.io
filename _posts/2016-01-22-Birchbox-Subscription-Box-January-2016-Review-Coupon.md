@@ -12,7 +12,7 @@ type: photo
 imagefeature: BirchboxJan2016Items.jpg
 headline: Birchbox January 2016 Review + Coupon!
 tags: [Birchbox, Subscriptions, Reviews, Coupons, January 2016]
-date: 2016-1-21 13:03:00 -08:00
+date: 2016-1-22 13:03:00 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -158,16 +158,16 @@ date: 2016-1-21 13:03:00 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:45%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Birchbox DEC 2015 Items</center></H3>
+         <H3><BR><center>My Birchbox JAN 2016 Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>CLEAN</b> Cashmere Eau de Parfum</TD>
+      <TD>CLEAN Cashmere Eau de Parfum</TD>
       <TD>$1?</TD>
    </TR>
    <TR>
