@@ -9,7 +9,7 @@ categories:
 tags: [Luxor Box, Subscriptions, Reviews, January 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxJan2016Items.jpg"
@@ -207,7 +207,7 @@ date: 2016-1-21 08:05:39 -08:00
 <br>
 
 <center><img src="/images/LuxorBoxJan2016PuraBotanica.jpg"></center>
-<figcaption>Packaging for all other Pura Botanica products</figcaption>
+<figcaption>Packaging for the rest of the Pura Botanica products</figcaption>
 
 <br>
 
