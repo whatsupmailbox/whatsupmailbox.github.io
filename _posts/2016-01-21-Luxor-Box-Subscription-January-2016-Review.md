@@ -233,6 +233,8 @@ date: 2016-1-21 16:05:39 -08:00
 <DD>Value $10</DD>
 </DL>
 
+<p><i>Note: This did not come sealed.</i></p>
+
 <p>This is an all-natural hand crème that's made with West African Shea Butter and Aloe Vera. I always love me a good hand crème and can never have enough so this was truly appreciated. At first I was wondering why they put a turtle design on the tube, but then I learned that it's because a portion of all proceeds will benefit the National Save the Sea Turtle Foundation. Awww, I love sea turtles, they are amazing creatures and I would totally support this!</p>
 
 <br>
