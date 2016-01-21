@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "LuxorBoxJan2016Items.jpg"
-date: 2016-1-21 16:05:39 -08:00
+date: 2016-1-21 08:05:39 -08:00
 ---
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
@@ -181,13 +181,13 @@ date: 2016-1-21 16:05:39 -08:00
 
 <p>This is one expensive mug! But that's because Mottahedeh is a recognized leader in luxury ceramic antique reproductions and historic designs. Although I'm not a big fan of this particular design, the whole story of it is quite interesting.</p>
 
-<p>Wilson Bentley(1865–1931) of Jericho, Vermont,was a farmer and a highly-regarded amateur meteorologist who photographed snow—or more precisely, thousands of individual snow crystals. Drawn to their beauty and seemingly endless variety, Bentley isolated and captured these crystals in simple, stark photographs, creating his first successful image—a “photomicrograph” of a single snow crystal—on January 15, 1885. The creamy, matte of the black velvet fabric proved to be the perfect backdrop to showcase the beautiful, feather-like crystals. Soon, his work came to the attention of National Geographic, and Bentley published two articles—in January 1904 and January 1923—that showcased his extraordinary photography while also illustrating the basic science of snow."</p>
+<p>"Wilson Bentley(1865–1931) of Jericho, Vermont,was a farmer and a highly-regarded amateur meteorologist who photographed snow—or more precisely, thousands of individual snow crystals. Drawn to their beauty and seemingly endless variety, Bentley isolated and captured these crystals in simple, stark photographs, creating his first successful image—a “photomicrograph” of a single snow crystal—on January 15, 1885. The creamy, matte of the black velvet fabric proved to be the perfect backdrop to showcase the beautiful, feather-like crystals. Soon, his work came to the attention of National Geographic, and Bentley published two articles—in January 1904 and January 1923—that showcased his extraordinary photography while also illustrating the basic science of snow."</p>
 
 <br>
 
 <center><img src="/images/LuxorBoxJan2016MottahedehSnowflakeMug3.jpg"></center>
 
-<p>The handle has a striped blue design which I thought brought a bit of variety to this all-snowflake mug. The size is actually quite tall and it definitely feels quality, I really wish they went with a different design but no matter, I'll still be using it. What better mug to use with the decadent Marie Belle Aztec Hot Chocolate than this!</p>
+<p>The handle has a striped blue design which I thought brought a bit of variety to this all-snowflake mug. The size is actually quite tall and it definitely feels quality. I really wish they went with a different design but no matter, I'll still be using it. What better mug to use with the decadent Marie Belle Aztec Hot Chocolate than this!</p>
 
 <br>
 
