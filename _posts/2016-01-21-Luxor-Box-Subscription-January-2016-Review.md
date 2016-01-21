@@ -38,6 +38,8 @@ date: 2016-1-21 16:05:39 -08:00
 <center><img src="/images/LuxorBoxJan2016OpenPackage.jpg"></center>
 <p>Upon opening the brown box, you see the actual Luxor Box and a white package which I assume is the throw.</p>
 
+<br>
+
 <center><img src="/images/LuxorBoxJan2016OpenBox.jpg"></center>
 <figcaption>First look at unboxing</figcaption>
 <br>
