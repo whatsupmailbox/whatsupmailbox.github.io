@@ -54,9 +54,9 @@ date: 2016-1-22 09:01:39 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarJan2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
+<img src="/images/PopsugarJan2016Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
-<p>Each month Popsugar includes this info card and lists all the items that they've included as well as their values.</p>
+<p>Each month Popsugar includes an info card that lists all the items that's in the box as well as their values.</p>
 
 <br>
 
