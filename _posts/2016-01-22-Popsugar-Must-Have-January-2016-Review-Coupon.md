@@ -124,7 +124,7 @@ date: 2016-1-22 09:01:39 -08:00
 <DD>Value $40</DD>
 </DL>
 
-<p>OMG, I love this bin! It's big and roomy, can be folded flat again if needed for storage, and the design is pretty neutral that it will most certainly fit in any decor. You can store magazines, scarves, hats or just about anything you can think of that needs organizing. I'm so happy they included this and it ties in perfectly with the organizing theme!</p>
+<p>OMG, I love this bin! It's big and roomy, can be folded flat again if needed for storage, and the design is pretty neutral that it will certainly fit in any decor. You can store magazines, scarves, hats or just about anything you can think of that needs to be stored. I'm so happy they included this and it ties in perfectly with the organizing theme!</p>
 
 <br>
 
