@@ -5,14 +5,14 @@ description: ""
 headline: "Popsugar Must Have January 2016 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, January 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
   - Reviews
 type: photo
 imagefeature: "PopsugarJan2016Items.jpg"
-date: 2016-1-22 09:01:39 -08:00
+date: 2016-1-22 10:51:39 -08:00
 ---
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
