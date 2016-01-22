@@ -79,7 +79,7 @@ date: 2016-1-22 09:01:39 -08:00
 <p>This book was revealed to be included in this month's box so I knew I was getting it and to be honest, quite excited about it too. It's an illustrated guide book to help you declutter and organize the items in your house. Such an appropriate item to include for the new year!</p>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarJan2016SparkJoyMarieKondoBook.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarJan2016SparkJoyMarieKondoBook2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>The author, Marie Kondo, is a Japanese decluttering guru with her acclaimed KonMari Method. With step-by-step folding illustrations for everything from shirts to socks, plus guidance on specific categories such as kitchen tools, cleaning supplies, hobby goods, and digital photos. It's meant to "Spark Joy" into your life through organization. So excited to get this and can't wait to start reading and organizing!</p>
