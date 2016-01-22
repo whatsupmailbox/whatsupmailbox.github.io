@@ -211,7 +211,7 @@ date: 2016-1-22 09:01:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What a great box to start the year with! It was a good theme to begin with and I think they nailed the items to represent that well. The total value came up to $121.96 and I'm super happy with that too, that's triple the cost of this box, hurray! Next month is Valentine's Day so I'm really hoping for some lovely items to celebrate that with. No spoilers have been released yet even though we're coming towards the end of January. Hopefully soon and I'll be sure to keep you posted!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What a great box to start the year with! It was a good theme for the new year and I think they nailed the items to represent that well. I especially loved the Storage Bin and the Organizing Book, definitely my favorite 2 items out of the whole box. The total value came up to $121.96 and I'm super happy with that too, that's triple the cost of this box, hurray! Next month is Valentine's Day so I'm really hoping for some lovely items to celebrate that with. No spoilers have been released yet even though we're coming towards the end of January. Hopefully soon and I'll be sure to keep you posted!</p>
 
 <p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
