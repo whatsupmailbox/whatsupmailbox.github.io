@@ -190,9 +190,9 @@ date: 2016-1-22 09:01:39 -08:00
 <DD>Value $1.99</DD>
 </DL>
 
-<p>I like how the package is resealable, keeps them gums fresh and crunchy. I also love that the company contributes to a greater cause and mission, giving back to 7 areas of needl; Save the Earth, House the Homeless, Feed the Hungry, Quench the Thirsty, Heal the Sick, Teach them Well, and Hope for Peace. Hence the name Project 7.</p> 
+<p>I like how the package is resealable, keeps them gums fresh and crunchy. I also love that the company contributes to a greater cause and mission, giving back to 7 areas of need; Save the Earth, House the Homeless, Feed the Hungry, Quench the Thirsty, Heal the Sick, Teach them Well, and Hope for Peace. Hence the name Project 7.</p> 
 
-<p>with every 7th pack of this particular flavor, Summer Snow, Project 7 will donate to support anti-bullying programs in the USA.</p>
+<p>With every 7th pack of this particular flavor Summer Snow, Project 7 will donate to support anti-bullying programs in the USA.</p>
 
 <br>
 
