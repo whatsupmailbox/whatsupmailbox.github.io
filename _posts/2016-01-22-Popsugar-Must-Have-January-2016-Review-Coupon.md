@@ -65,6 +65,8 @@ date: 2016-1-22 09:01:39 -08:00
 <img src="/images/PopsugarJan2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box January 2016 Items!" />
 </a></center>
 
+<br>
+
 ## Items in detail:
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
