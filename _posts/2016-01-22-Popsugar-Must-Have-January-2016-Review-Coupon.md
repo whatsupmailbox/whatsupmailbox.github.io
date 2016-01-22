@@ -196,6 +196,14 @@ date: 2016-1-22 09:01:39 -08:00
 
 <br>
 
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarJan2016Project7SummerSnowGum2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>These little gums taste amazing, it's sweet but not overly and in a good way. I tasted one and it was so good that I just had to pop another one in. I think I'll need to buy more soon! FYI, they have them in Target.</p>
+
+<br>
+
 <H4><i class="icon-gift"></i> Bonus item:</H4>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
