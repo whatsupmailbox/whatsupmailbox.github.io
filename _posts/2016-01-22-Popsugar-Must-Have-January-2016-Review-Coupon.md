@@ -145,7 +145,7 @@ date: 2016-1-22 09:01:39 -08:00
 <img src="/images/PopsugarJan2016BlueSkyDayDesignerWeeklyPlanner2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The first few pages asks you to set your goals for this year and what your thoughts and dreams about what you plan to do this year. I thought that was pretty unique and helpful!</p>
+<p>The first few pages asks you to set your goals for this year, your dreams and ideas about the life you want to live, and your vision of what the coming year could be. I thought that was pretty unique and helpful!</p>
 
 <br>
 
@@ -176,7 +176,7 @@ date: 2016-1-22 09:01:39 -08:00
 <DD>3 Masks, Value $20</DD>
 </DL>
 
-<p>Yes! A set of face masks! My face has been going through some flares lately, probably due to the junk I ate during the holidays so it needs some care and loving. So these face masks came just in time.</p>
+<p>Yes! A set of face masks! My face has been going through some flares lately, probably due to the junk I ate during the holidays (too much chocolate) so it needs some care and loving. So these face masks came just in time to the rescue.</p>
 
 <p>This set includes 1 Facial Sheeet each of their Exfoliate, Hydrate and Illuminate masks. I will be using them in exactly that order. I'll exfoliate one day, then hydrate the next day, and finish off with illuminate the day after that. With that plan of care, hopefully my skin will once again be normal. Fingers crossed.</p>
 <br>
