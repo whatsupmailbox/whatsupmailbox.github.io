@@ -178,7 +178,7 @@ date: 2016-1-22 09:01:39 -08:00
 
 <p>Yes! A set of face masks! My face has been going through some flares lately, probably due to the junk I ate during the holidays (too much chocolate) so it needs some care and loving. So these face masks came just in time to the rescue.</p>
 
-<p>This set includes 1 Facial Sheeet each of their Exfoliate, Hydrate and Illuminate masks. I will be using them in exactly that order. I'll exfoliate one day, then hydrate the next day, and finish off with illuminate the day after that. With that plan of care, hopefully my skin will once again be normal. Fingers crossed.</p>
+<p>This set includes 1 Facial Sheet each of their Exfoliate, Hydrate and Illuminate masks. I will be using them in exactly that order. I'll exfoliate one day, then hydrate the next day, and finish off with illuminate the day after that. With that plan of care, hopefully my skin will once again be normal. Fingers crossed.</p>
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
