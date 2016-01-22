@@ -80,6 +80,8 @@ date: 2016-1-22 09:01:39 -08:00
 
 <p>This book was revealed to be included in this month's box so I knew I was getting it and to be honest, quite excited about it too. It's an illustrated guide book to help you declutter and organize the items in your house. Such an appropriate item to include for the new year!</p>
 
+<br>
+
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarJan2016SparkJoyMarieKondoBook2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
