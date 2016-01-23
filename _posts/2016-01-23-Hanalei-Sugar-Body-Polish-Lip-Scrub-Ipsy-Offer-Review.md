@@ -35,7 +35,7 @@ date: 2016-1-23 09:41:39 -08:00
 
 <br>
 
-<p>You can definitely feel the sugar in this scrub which I love. That's why they're called scrubs, they're meant to exfoliate your skin, but it also has essential oils in it too so it feels less coarse and a little silky.</p>
+<p>You can definitely feel the sugar in this scrub which I love, it will surely slough off any dry skin I have. But it also has essential oils in it so it feels both moisturizing and silky at the same time.</p>
 
 <p>Hanalei uses real cane sugar to exfoliate your skin and Sunflower oil to nourish and help maintain a smooth texture. It also uses kukui nut oil that contains high levels of amino acids, which relieves dryness and rehydrates. Plus it's free of parabens, phthalates, and is cruelty free. An all around great body scrub that not only exfoliates well but safely too!</p>
 
