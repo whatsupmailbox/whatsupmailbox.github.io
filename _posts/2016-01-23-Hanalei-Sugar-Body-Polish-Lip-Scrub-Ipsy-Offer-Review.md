@@ -31,7 +31,7 @@ date: 2016-1-23 09:41:39 -08:00
 
 <p>Here's a look at the Body Scrub:</p>
 <center><img src="/images/HanaleiSugarBodyPolishLipScrubSet2.jpg"></center>
-<figcaption>Hanalei Sugar Body Polish, RV $35</figcaption>
+<figcaption>Hanalei Sugar Body Polish 4.9 oz, RV $35</figcaption>
 
 <br>
 
@@ -43,7 +43,7 @@ date: 2016-1-23 09:41:39 -08:00
 
 <p>And on to the lip scrub:</p>
 <center><img src="/images/HanaleiSugarBodyPolishLipScrubSet3.jpg"></center>
-<figcaption>Hanalei Sugar Lip Scrub, RV $20</figcaption>
+<figcaption>Hanalei Sugar Lip Scrub 0.78 oz, RV $20</figcaption>
 
 <br>
 
