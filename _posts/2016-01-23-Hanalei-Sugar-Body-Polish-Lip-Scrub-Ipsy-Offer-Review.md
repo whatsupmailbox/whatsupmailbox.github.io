@@ -57,7 +57,7 @@ date: 2016-1-23 09:41:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm so happy I bought this awesome deal! I've used both the scrubs and my skin is loving it. Winters got nothing on me! That's what my skin said as I was scrubbing away in the shower. And yeah, saving 70% off retail price was just the icing on the cake. FYI, this set is sold out already (I looked yesterday to see if I can buy some more). So if you want to take part in amazing <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> offers like this, subscribe and join at <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> and don't miss another awesome deal like this again =)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm so happy I bought this awesome deal! I've used both the scrubs and my skin and lips are loving it. Winters got nothing on me! That's what my skin said as I was scrubbing away in the shower. And yeah, saving 70% off retail price was just the icing on the cake. FYI, this set is sold out already (I looked yesterday to see if I can buy some more). So if you want to take part in amazing <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> offers like this, subscribe and join at <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> and don't miss another awesome deal like this again =)</p>
 
 <br>
 
