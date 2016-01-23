@@ -23,19 +23,19 @@ date: 2016-1-23 09:41:39 -08:00
 <p><b>What's Ipsy?</b> Ipsy is a $10/monthly subscription that delivers 5 beauty products (both deluxe sample sizes and full-sizes) in an exclusive designed makeup bag. The products are matched to your beauty profile that you complete upon joining. You can update it at anytime as well.</p>
 <br>
 
-<p>I love me a good deal and lately I've been shopping a lot of them through Ipsy. Not only do they have a great subscription that I receive monthly (you can read my Ipsy January review here), but they also come out with monthly offers as well that's hard to resist!</p>
+<p>I love me a good deal and lately I've been shopping a lot of them through <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a>. Not only do they have a great subscription that I receive monthly (<a href="http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Subscription-January-2016-Review/" target="_blank">you can read my Ipsy January 2016 review here</a>), but they also come out with monthly offers as well that's hard to resist!</p>
 
-<p>Last week they offered a set of Hanalei Sugar Body & Lip Scrub for only $16 which is an insane deal since both the scrubs have a retail value of $55, so this set was 70% off! I knew I just had to get it. Plus you can never have enough scrubs.</p>
+<p>Last week they offered a set of Hanalei Sugar Body Polish & Lip Scrub (both full sizes) for only $16 which is an insane deal since the two of them have a combined retail value of $55, so this set was 70% off! I knew I just had to get it. Plus you can never have enough scrubs.</p>
 
 <br>
 
-<p>Here's a look at the Body Scrub:</p>
+<p>Here's a look at the Body Polish:</p>
 <center><img src="/images/HanaleiSugarBodyPolishLipScrubSet2.jpg"></center>
 <figcaption>Hanalei Sugar Body Polish 4.9 oz, RV $35</figcaption>
 
 <br>
 
-<p>You can definitely feel the sugar in this scrub which I love, that's why they're called scrubs, they're meant to exfoliate your skin, but it also has essential oils in it so it feels less coarse and a little silky.</p>
+<p>You can definitely feel the sugar in this scrub which I love. That's why they're called scrubs, they're meant to exfoliate your skin, but it also has essential oils in it too so it feels less coarse and a little silky.</p>
 
 <p>Hanalei uses real cane sugar to exfoliate your skin and Sunflower oil to nourish and help maintain a smooth texture. It also uses kukui nut oil that contains high levels of amino acids, which relieves dryness and rehydrates. Plus it's free of parabens, phthalates, and is cruelty free. An all around great body scrub that not only exfoliates well but safely too!</p>
 
