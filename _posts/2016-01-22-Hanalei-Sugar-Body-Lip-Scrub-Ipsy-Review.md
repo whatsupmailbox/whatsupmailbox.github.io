@@ -19,7 +19,7 @@ date: 2016-1-22 16:41:39 -08:00
 
 <p><b>Product:</b> Hanalei Sugar Body & Lip Scrub</p>
 <p><b>Cost:</b> $16 + Free Shipping (a $55 value!)</p>
-<p><b>Where did I buy it?</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a>  Note, you have to be a subscriber to have access to their deals.</p>
+<p><b>Where did I buy it?</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> <i class="icon-chevron-sign-right"></i> Note, you have to be a subscriber to have access to their deals.</p>
 <p><b>What's Ipsy?</b> Ipsy is a $10/monthly subscription that delivers 5 beauty products (both deluxe sample sizes and full-sizes) in an exclusive designed makeup bag. The products are matched to your beauty profile that you complete upon joining. You can update it at anytime as well.</p>
 <br>
 
