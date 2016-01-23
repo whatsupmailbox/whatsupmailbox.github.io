@@ -17,6 +17,46 @@ date: 2016-1-22 16:41:39 -08:00
 
 <center><img src="/images/HanaleiSugarBodyLipScrubSet.jpg"></center>
 
-<p>I love me a good deal and lately I've been shopping a lot of them through Ipsy. Not only do they have a great subscription that I receive monthly (you can read my Ipsy January review here), but they also come out with deals monthly as well.</p>
+<p><b>Product:</b> Hanalei Sugar Body & Lip Scrub</p>
+<p><b>Cost:</b> $16 + Free Shipping (a $55 value!)</p>
+<p><b>Where did I buy it?</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a>  Note, you have to be a subscriber to have access to their deals.</p>
+<p><b>What's Ipsy?</b> Ipsy is a $10/monthly subscription that delivers 5 beauty products (both deluxe sample sizes and full-sizes) in an exclusive designed makeup bag. The products are matched to your beauty profile that you complete upon joining. You can update it at anytime as well.</p>
+<br>
 
-<p>Last week they offered a set of Hanalei Sugar and Body</p>
+<p>I love me a good deal and lately I've been shopping a lot of them through Ipsy. Not only do they have a great subscription that I receive monthly (you can read my Ipsy January review here), but they also come out with monthly offers as well that's hard to resist!</p>
+
+<p>Last week they offered a set of Hanalei Sugar Body & Lip Scrub for only $16 which is an insane deal since both the scrubs have a retail value of $55, so this set was 70% off! I knew I just had to get it. Plus you can never have enough scrubs.</p>
+
+<br>
+
+<p>Here's a look at the Body Scrub:</p>
+<center><img src="/images/HanaleiSugarBodyLipScrubSet2.jpg"></center>
+<figcaption>Hanalei Sugar Body Polish, RV $35</figcaption>
+
+<br>
+
+<p>You can definitely feel the sugar in this scrub which I love, that's why they're called scrubs, they're meant to exfoliate your skin, but it also has essential oils in it so it feels less coarse and a little silky.</p>
+
+<p>Hanalei uses real cane sugar to exfoliate your skin and Sunflower oil to nourish and help maintain a smooth texture. It also uses kukui nut oil that contains high levels of amino acids, which relieves dryness and rehydrates. Plus it's free of parabens, phthalates, and is cruelty free. An all around great body scrub that not only exfoliates well but safely too!</p>
+
+<br>
+
+<p>And on to the lip scrub:</p>
+<center><img src="/images/HanaleiSugarBodyLipScrubSet3.jpg"></center>
+<figcaption>Hanalei Sugar Body Polish, RV $20</figcaption>
+
+<br>
+
+<p>My lips are constantly dry no matter what the season is. It gets extra dry of course during winter, and that's when lip scrubs come to my rescue. I've used the Fresh Sugar Lip Scrub in the past and wanted to try this one out to compare. First off, the application is slightly different in which the Fresh lip scrub requires you to wash it off with water after scrubbing, while this Hanalei lip scrub only asks you to wipe it off with tissue after. How convenient. This way I can scrub my lips anywhere and anytime, I like that.</p>
+
+<p>Hanalei’s lip scrub uses real Maui sugar crystals. How exotic. I love the island Maui, it's one of my favorite places to go for a tropical, snorkelling vacation. I've gone in both winter (which is pretty much like summer but slightly cooler), and summer (just last year in fact) and the weather is perfect no matter the season.</p>
+
+<p>This scrub also has pure kukui nut oil from Hawaii that contains vital fatty acids and vitamins A, C, and E to naturally soothe your lips. Shea butter is also used to help lock in moisture and restore softness after exfoliation. And of course, it's also paraben free.</p>
+
+<p>I really love this lip scrub, I might have to carry this with me everywhere!</p>
+
+<br>
+
+
+
+
