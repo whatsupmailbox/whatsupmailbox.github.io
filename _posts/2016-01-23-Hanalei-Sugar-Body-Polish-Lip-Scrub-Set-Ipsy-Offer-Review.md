@@ -5,7 +5,7 @@ description: ""
 headline: "Hanalei Sugar Body Polish & Lip Scrub Review"
 tags: [Products, Reviews, January 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
