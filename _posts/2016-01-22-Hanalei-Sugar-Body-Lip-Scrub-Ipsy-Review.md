@@ -57,6 +57,35 @@ date: 2016-1-22 16:41:39 -08:00
 
 <br>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I'm so happy I bought this awesome deal! I've used both the scrubs and my skin is loving it. Winters got nothing on me! That's what my skin said as I was scrubbing away in the shower. And yeah, saving 70% off retail price was just the icing on the cake. FYI, this set is sold out already (I looked yesterday to see if I can buy some more). So if you want to take part in these amazing <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> offers, subscribe and join at <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> and don't miss another amazing deal like this again =)</p>
+
+<br>
+
+<TABLE  BORDER="5" style="width:60%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Hanalei Sugar Body Polish</TD>
+      <TD>$35</TD>
+   </TR>
+   <TR>
+      <TD>Hanalei Sugar Lip Scrub</TD>
+      <TD>$20</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$55</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Product Cost</big></i></TD>
+      <TD><i><big>$16</big></i></TD>
+   </TR>
+</TABLE>
 
 
 
