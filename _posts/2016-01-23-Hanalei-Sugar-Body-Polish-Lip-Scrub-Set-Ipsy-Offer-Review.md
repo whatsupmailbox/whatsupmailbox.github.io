@@ -19,8 +19,8 @@ date: 2016-1-23 09:33:39 -08:00
 
 <p><b>Product:</b> Hanalei Sugar Body Polish & Lip Scrub Set</p>
 <p><b>Cost:</b> $16 + Free Shipping (a $55 value!)</p>
-<p><b>Where did I buy it?</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> <i class="icon-chevron-sign-right"></i> Note, you have to be a subscriber to have access to their deals.</p>
-<p><b>What's Ipsy?</b> Ipsy is a $10/monthly subscription that delivers 5 beauty products (both deluxe sample sizes and full-sizes) in an exclusive designed makeup bag. The products are matched to your beauty profile that you complete upon joining. You can update it at anytime as well.</p>
+<p><b>Where did I buy it?</b>  <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> <i class="icon-chevron-sign-right"></i> Note, you have to be a subscriber to have access to their deals.</p>
+<p><b>What's Ipsy?</b>  Ipsy is a $10/monthly subscription that delivers 5 beauty products (both deluxe sample sizes and full-sizes) in an exclusive designed makeup bag. The products are matched to your beauty profile that you complete upon joining. You can update it at anytime as well.</p>
 <br>
 
 <p>I love me a good deal and lately I've been shopping a lot of them through <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a>. Not only do they have a great subscription that I receive monthly (<a href="http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Subscription-January-2016-Review/" target="_blank">you can read my Ipsy January 2016 review here</a>), but they also come out with monthly offers as well that's hard to resist!</p>
@@ -61,7 +61,7 @@ date: 2016-1-23 09:33:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:40%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
