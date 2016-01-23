@@ -12,7 +12,7 @@ categories:
   - Reviews
 type: photo
 imagefeature: "HanaleiSugarBodyPolishLipScrubSet.jpg"
-date: 2016-1-23 09:41:39 -08:00
+date: 2016-1-23 09:33:39 -08:00
 ---
 
 <center><img src="/images/HanaleiSugarBodyPolishLipScrubSet.jpg"></center>
