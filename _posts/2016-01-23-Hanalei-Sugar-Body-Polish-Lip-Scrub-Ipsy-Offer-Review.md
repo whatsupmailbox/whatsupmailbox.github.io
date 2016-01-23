@@ -49,7 +49,7 @@ date: 2016-1-23 09:41:39 -08:00
 
 <p>My lips are constantly dry no matter what the season is. It gets extra dry of course during winter, and that's when lip scrubs come to my rescue. I've used the Fresh Sugar Lip Scrub in the past and wanted to try this one out to compare. First off, the application is slightly different in which the Fresh lip scrub requires you to wash it off with water after scrubbing, while this Hanalei lip scrub only asks you to wipe it off with tissue after. How convenient. This way I can scrub my lips anywhere and anytime, I like that.</p>
 
-<p>Hanalei’s lip scrub uses real Maui sugar crystals. How exotic. I love the island Maui, it's one of my favorite places to go for a tropical, snorkelling vacation. I've gone in both winter (which is pretty much like summer but slightly cooler), and summer (just last year in fact) and the weather is perfect no matter the season.</p>
+<p>Hanalei’s lip scrub uses real Maui sugar crystals. How exotic. I love the island Maui, it's one of my favorite places to go for a tropical, snorkelling vacation. I've gone in both winter (which is pretty much like summer but slightly cooler), and summer (just last year in fact) and the weather is perfect no matter the season. I'll surely be thinking of this beautiful island everytime I use this.</p>
 
 <p>This scrub also has pure kukui nut oil from Hawaii that contains vital fatty acids and vitamins A, C, and E to naturally soothe your lips. Shea butter is also used to help lock in moisture and restore softness after exfoliation. And of course, it's also paraben free.</p>
 
