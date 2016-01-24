@@ -6,14 +6,14 @@ headline: "Popsugar + Target Fit New Year 2016 Review"
 tags: [Popsugar Must Have, Products, Coupons]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Products
       - Reviews
 type: photo
 imagefeature: "PopsugarTargetJan2016Items.jpg"
-date: 2016-1-24 12:41:00 -08:00
+date: 2016-1-24 11:21:00 -08:00
 ---
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -214,7 +214,7 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016SWBasicsLipBalmSet2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>My favorite has got to be the Cocoa one, makes me smell chocolate everytime I put this one, yumm. That's a win for me ;)</p>
+<p>My favorite has got to be the Cocoa one, makes me smell chocolate everytime I put this on, yumm. That's a win for me ;)</p>
 
 <br>
 
@@ -282,7 +282,7 @@ date: 2016-1-24 12:41:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so glad I bought this! As I was unboxing, I just couldn't believe the amount of items they packed into it, and the type of items too. I definitely felt like I was getting my money's worth especially with the inclusion of a Jawbone! I think Popsugar and Target nailed the curation of this box to match the Fit New Year theme. Plus the items were quite unisex, except perhaps the headband (unless you're one of those men who have long hair), so I also love that you can gift this to that special man in your life or even gift some of the items if you prefer to keep some for yourself ;) The total value of this box came up to $203.42 which is almost triple the cost of this box! Again, super happy with this box!!</p>
 
-<p>Missed out on this box? Popsugar also has a <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">monthly subscription box</a> that I love, <a href="http://whatsupmailbox.com/subscriptions/reviews/Popsugar-Must-Have-January-2016-Review-Coupon/" target="_blank">you can read my January box review here. And if you do decide to subscribe, use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Missed out on this box? Popsugar also has a <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">monthly subscription box</a> that I love, <a href="http://whatsupmailbox.com/subscriptions/reviews/Popsugar-Must-Have-January-2016-Review-Coupon/" target="_blank">you can read my January box review here</a>. And if you do decide to subscribe, use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
 
