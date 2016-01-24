@@ -123,7 +123,7 @@ date: 2016-1-24 11:21:00 -08:00
 
 <p>It comes with a usb cable for charging and it has a battery life of up to 10 days (that's amazing since Fitbit Flex only has up to 5 days). Linking it to the app was also super easy, my husband said that all you had to do was tap the Up band to the app on the phone (like physically tap on your phone screen) and voila, it's linked. My husband was like whoa, that's it?! This amazement is due to the fact that linking our Fitbit Flex bands before was a bit of a longer process that included connecting it with the laptop and following multiple steps to get it linked. Yeah, this one is much much easier!</p>
 
-<p>Anyways, I think I've said all I can say about this awesome gadget and I'm really tempted to get one in gold. But for now, I'm super happy I got this in this box!</p>
+<p>Anyways, I think I've said all I can say about this awesome gadget and I'm really tempted to get one in gold. But for now, I'm super happy I got this!</p>
 
 <br>
 
