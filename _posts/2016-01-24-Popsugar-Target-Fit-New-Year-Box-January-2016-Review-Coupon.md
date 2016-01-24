@@ -132,7 +132,7 @@ date: 2016-1-24 11:21:00 -08:00
 </a></center>
 
 <DL>
-<DT><bSkullcandy</b> Method Earbuds</DT>
+<DT><b>Skullcandy</b> Method Earbuds</DT>
 <DD>Value $14.99</DD>
 </DL>
 
