@@ -85,7 +85,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $99.99</DD>
 </DL>
 
-<p>So I decided to start off with the highest valued item in this box. They revealed that every box will include this Jawbone earlier this month, on the day it was released for sale to be exact. And it got sold out within hours too, crazy!</p>
+<p>They revealed that every box will include this Jawbone earlier this month, on the day it was released for sale to be exact. And it got sold out within hours too, crazy!</p>
 
 <br>
 
@@ -95,7 +95,7 @@ date: 2016-1-24 12:41:00 -08:00
 
 <p>"Being healthy is like looking good from the inside out. And that's how we designed the UP2™ tracker. Inside, world-class technology keeps track of activities, sleep patterns, food logging and more. Outside, UP2 takes style to a whole new level. New colors and a newly designed, lightweight band put UP2 out front when it comes to style. You can call it a tracker. We call it UP2."</p>
 
-<p>I currently have a FitBit, but it's the first version since I bought it years ago so this will be a good upgrade. Then my husband found out that I'll be receiving this and asked if he could have it instead, lol, so I said "okay..." The things we wives do for our husbands ;)</p>
+<p>I currently have a FitBit Flex, but it's getting kind of outdated now since I bought it years ago when they first came out, so this will be a good upgrade. Then my husband found out that I'll be receiving this and asked if he could have it instead, lol, so I said "okay..." The things we wives do for our husbands ;)</p>
 
 <br>
 
@@ -103,7 +103,7 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016JawboneUp23.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>First off, this band is sooo lightweight, you barely feel it on your wrists. And not only that, it looks fashionably chic too! I see that they have a gold band as well as a black and gold band, now those look ultra chic and I may want to get one of those for myself (since my husband took this one).</p>
+<p>First off, this band is sooo lightweight, you barely feel it on your wrists. And not only that, it looks fashionably chic too! I see that they also offer this in a gold band, as well as a black and gold ban. Now those would look ultra chic (I'm more of a gold person) and I may want to get one of those for myself (since my husband took this one).</p>
 
 <p>"<b>What is the band made of?</b> The UP2 band is encased in medical-grade, hypoallergenic rubber. It is smooth, flexible and completely latex-free. Inside, the band contains sophisticated technology so treat your band with care and avoid unnecessary bending.The top and bottom casings are made of anodized aluminum."</p>
 
@@ -113,7 +113,7 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016JawboneUp24.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>I love all the features it has, some of them are quite nifty and cool. The Smart Coach for one is very helpful in having you achieve your health and fitness goals. Then there's the ability to connect your Up band with a Nest device (that's the one that control's the temperature, lights etc of your house), and much more too! My husband is already geeking out on all the stuff he can do with it.</p>
+<p>I love all the features it has, some of them are quite nifty and cool. The Smart Coach for one is very helpful in having you achieve your health and fitness goals. Then there's the ability to connect your Up band with a Nest device (that's the one that control's the temperature, lights etc of your house), and much more! My husband is already geeking out on all the stuff he can do with it.</p>
 
 <br>
 
@@ -121,9 +121,9 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016JawboneUp25.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>It comes with a usb cable for charging and it has a battery life of up to 10 days (that's amazing since Fitbit Flex only has up to 5 days). Linking it to the app was also super easy, my husband said that all you had to do was tap the Up band to the app on the phone (like physically tap) and voila, it's linked. My husband was like whoa, that's it? This amazement is due to the fact that linking our Fitbit Flex bands before was a bit of a longer process that included connecting it with the laptop and following multiple steps to get it linked. Yeah, this one is much much easier!</p>
+<p>It comes with a usb cable for charging and it has a battery life of up to 10 days (that's amazing since Fitbit Flex only has up to 5 days). Linking it to the app was also super easy, my husband said that all you had to do was tap the Up band to the app on the phone (like physically tap on your phone screen) and voila, it's linked. My husband was like whoa, that's it?! This amazement is due to the fact that linking our Fitbit Flex bands before was a bit of a longer process that included connecting it with the laptop and following multiple steps to get it linked. Yeah, this one is much much easier!</p>
 
-<p>Anyways, I think I've said all I can say about this awesome gadget and I'm really tempted to get one in gold. But for now, I'm super happy I got this at an awesome deal through this box!</p>
+<p>Anyways, I think I've said all I can say about this awesome gadget and I'm really tempted to get one in gold. But for now, I'm super happy I got this in this box!</p>
 
 <br>
 
@@ -136,7 +136,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $14.99</DD>
 </DL>
 
-<p>I haven't had the need to purchase any earbuds for a year now thanks to subscription boxes. I don't currently own a Skullcandy earbud, but I have in the past and I remember I loved them. This particular one has DualLock technology that delivers a comfortable and stay-put fit so you can focus more on your workout and less on keeping your earbuds stay well... in your ears. I will surely test this out on my next workout session.</p>
+<p>I haven't had the need to purchase any earbuds for awhile now thanks to subscription boxes. I don't currently own a Skullcandy earbud, but I have in the past and I remember that I loved them. This particular one has DualLock technology that delivers a comfortable and stay-put fit so you can focus more on your workout and less on keeping your earbuds stay... well... in your ears. I will surely test this out on my next workout session.</p>
 
 <br>
 
@@ -165,7 +165,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $19.99</DD>
 </DL>
 
-<p>I have an infuser bottle already thanks to my FabFitFun subscription, but I'll always welcome another one to my collection. I love the inclusion of a hand strap with this one though, makes it so much easier to carry it around either outside or at the gym. The white color is nice too and the quality of the bottle feels strong and sturdy.</p>
+<p>I have an infuser bottle already thanks to my FabFitFun subscription, but I'll always welcome another one to my collection. I love the inclusion of a hand strap with this one though, makes it so much easier to carry around either outside or at the gym. The white color is nice too and the quality of the bottle feels strong and sturdy.</p>
 
 <br>
 
@@ -206,7 +206,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $15.19</DD>
 </DL>
 
-<p>I love S.W. Basics lip balms! I've have one in my posession that I truly love, and now I have 4 more! They really do moisturize your lips.</p>
+<p>I love S.W. Basics lip balms! Ie have one in my posession that I truly love, and now I have 4 more! They really do moisturize your lips.</p>
 
 <br>
 
@@ -214,7 +214,7 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016SWBasicsLipBalmSet2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>My favorite has got to be the Cocoa one, makes me smell chocolate everytime I put this one without "putting on" any calories. That's a win for me ;)</p>
+<p>My favorite has got to be the Cocoa one, makes me smell chocolate everytime I put this one, yumm. That's a win for me ;)</p>
 
 <br>
 
@@ -227,7 +227,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $4.99</DD>
 </DL>
 
-<p>I don't wear headbands everytime I go to the gym, but I do wear them quite often, especially when I'm doing yoga, pilates or any other activity that will require some upside down positions. It helps keep my hair away from my face which can be lifesaving sometimes.</p>
+<p>I don't wear headbands everytime I go to the gym, but I do wear them quite often, especially when I'm doing yoga, pilates or any other activity that will require some upside down positions. It helps keep my hair away from my face which can be lifesaving sometimes. This will surely be used.</p>
 
 <br>
 
@@ -240,7 +240,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $10</DD>
 </DL>
 
-<p>Well the pink packaging totally got me melting for sure since I love pink, it'll look good when I'm freshening up in the locker room.</p>
+<p>Well the pink packaging totally got me melting for sure since I love pink, it'll look good when I'm freshening up in the locker room. It's infused with soothing chamomile and hydrating grapeseed oil so your face can feel refreshed and moisturized anytime you want it to.</p>
 
 <br>
 
@@ -253,7 +253,7 @@ date: 2016-1-24 12:41:00 -08:00
 <DD>Value $5.79</DD>
 </DL>
 
-<p>You had me in Hazelnuts!!! I just wanna workout so I have an excuse to eat this, for reals.</p>
+<p>You had me in Hazelnuts!!! I just wanna workout so I have an excuse to eat this, for reals. It only contains 5 grams of sugar and is also gluten-free. This is a great protein or snack bar to have!</p>
 
 <br>
 
@@ -261,13 +261,28 @@ date: 2016-1-24 12:41:00 -08:00
 <img src="/images/PopsugarTargetJan2016LunaBarDarkChocolateHazelnut2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>They didn't just include 1 bar, they included a whole box.</p>
+<p>I love how this brand focuses to inspire women and strengthen them to be bold and achieve their goals. I'm interested about their LUNAFEST, a film festival they created for, and about women. They have multiple dates throughout the year and allover America. There's one coming up in Feb 5th in Los Angeles, so I may want to check that out. <a href="http://www.lunafest.org/attend-an-event/#/date-only/upcoming/" target"_blank">You can see all the dates and locations here</a>. </p>
+
+<p>Not only is this a great protein bar, but they also have great causes, love it!</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so glad I bought this! As I was unboxing, I just couldn't believe the amount of items they packed into it, I definitely felt like I was getting my money's worth especially with the inclusion of a Jawbone! I think Popsugar and Target nailed the curation of this box to match the Fit New Year theme. Plus the items were quite unisex, except perhaps the headband (unless you're one of those men who have long hair), so I also love that you can gift this to that special man in your life or even gift some of the items if you prefer to keep some for yourself ;) The total value of this box came up to $xxx which is almost triple the cost of this box! Again, super happy with this box.</p>
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SimplyBalancedFreezeDriedStrawberrySlices.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
-<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<DL>
+<DT><b>Simply Balanced</b> Freeze Dried Strawberry Slices</DT>
+<DD>Value $3.49</DD>
+</DL>
+
+<p>Freeze dried fruits are so convenient to eat, plus you can eat a lot more of them compared to eating actual fruits since the size gets shrunk down. This one in particular only has 110 calories per bag, 5 grams of fiber, and no preservatives or additives. They taste yummy and healthy. I never looked for this at Target before, but now I will!</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so glad I bought this! As I was unboxing, I just couldn't believe the amount of items they packed into it, and the type of items too. I definitely felt like I was getting my money's worth especially with the inclusion of a Jawbone! I think Popsugar and Target nailed the curation of this box to match the Fit New Year theme. Plus the items were quite unisex, except perhaps the headband (unless you're one of those men who have long hair), so I also love that you can gift this to that special man in your life or even gift some of the items if you prefer to keep some for yourself ;) The total value of this box came up to $203.42 which is almost triple the cost of this box! Again, super happy with this box!!</p>
+
+<p>Missed out on this box? Popsugar also has a <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">monthly subscription box</a> that I love, <a href="http://whatsupmailbox.com/subscriptions/reviews/Popsugar-Must-Have-January-2016-Review-Coupon/" target="_blank">you can read my January box review here. And if you do decide to subscribe, use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
 
@@ -284,36 +299,44 @@ date: 2016-1-24 12:41:00 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Spark Joy by Marie Kondo</TD>
-      <TD>$18.99</TD>
+      <TD>Jawbone UP2</TD>
+      <TD>$99.99</TD>
    </TR>
    <TR>
-      <TD>Not Soap, Radio Bath & Shower Gel Set</TD>
-      <TD>$22</TD>
+      <TD>Skullcandy Method Earbuds</TD>
+      <TD>$28.99</TD>
    </TR>
     <TR>
-      <TD>Pehr Designs</b> Pebble Speck Bin</TD>
-      <TD>$40</TD>
+      <TD>Define Water Infusion Bottle</TD>
+      <TD>$19.99</TD>
    </TR>
     <TR>
-      <TD>Blue Sky Day Designer Weekly Planner</TD>
-      <TD>$15.99</TD>
+      <TD>Mission EnduraCool Microfiber Towel</TD>
+      <TD>$14.99</TD>
    </TR>
     <TR>
-      <TD>Patchology FlashMasque Trio</TD>
-      <TD>$20</TD>
+      <TD>S.W. Basics Organic Lip Balm Set</TD>
+      <TD>$15.19</TD>
    </TR>
    <TR>
-      <TD>Project 7 Sugar Free Gum</TD>
-      <TD>$1.99</TD>
+      <TD>C9 Champion Headbands</TD>
+      <TD>$4.99</TD>
    </TR>
    <TR>
-      <TD>ChapStick Total Hydration</TD>
-      <TD>$2.99</TD>
+      <TD>Pixi by Petra Facial Cleansing Cloths</TD>
+      <TD>$10</TD>
+   </TR>
+   <TR>
+      <TD>Luna Bar Protein Bars</TD>
+      <TD>$5.79</TD>
+   </TR>
+   <TR>
+      <TD>Simply Balanced Freeze Dried Strawberries</TD>
+      <TD>$3.49</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$200</big></b></TD>
+      <TD><b><big>$203.42</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Cost</big></i></TD>
