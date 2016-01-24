@@ -313,10 +313,10 @@ date: 2016-1-24 12:41:00 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$121.96</big></b></TD>
+      <TD><b><big>$200</big></b></TD>
    </TR>
    <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$39.95</big></i></TD>
+      <TD><i><big>Cost</big></i></TD>
+      <TD><i><big>$75</big></i></TD>
    </TR>
 </TABLE>
