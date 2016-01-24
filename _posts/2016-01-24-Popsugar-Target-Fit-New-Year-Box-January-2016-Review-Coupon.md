@@ -190,6 +190,13 @@ date: 2016-1-24 12:41:00 -08:00
 
 <br>
 
+<p>Here's how it looks like on a person, shown from their packaging:</p>
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016MissionEnduraCoolCoolingMicrofiberTowel.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<br>
+
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarTargetJan2016SWBasicsLipBalmSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
@@ -251,7 +258,7 @@ date: 2016-1-24 12:41:00 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarTargetJan2016LunaBarDarkChocolateHazelnut.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarTargetJan2016LunaBarDarkChocolateHazelnut2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>They didn't just include 1 bar, they included a whole box.</p>
