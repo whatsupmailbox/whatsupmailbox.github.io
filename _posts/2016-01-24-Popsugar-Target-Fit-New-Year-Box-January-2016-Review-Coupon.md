@@ -170,7 +170,7 @@ date: 2016-1-24 12:41:00 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarTargetJan2016DefineBottleSportFlipTop.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarTargetJan2016DefineBottleSportFlipTop2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>I didn't know it until I read the back of the bottle packaging that there's a re-freezable icepack at the base of this bottle. How cool is that, like literally. I can't wait to try it out once the weather gets warmer!</p>
@@ -192,7 +192,7 @@ date: 2016-1-24 12:41:00 -08:00
 
 <p>Here's how it looks like on a person, shown from their packaging:</p>
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarTargetJan2016MissionEnduraCoolCoolingMicrofiberTowel.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarTargetJan2016MissionEnduraCoolCoolingMicrofiberTowel2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
