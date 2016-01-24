@@ -246,7 +246,7 @@ date: 2016-1-22 10:51:39 -08:00
       <TD>$22</TD>
    </TR>
     <TR>
-      <TD>Pehr Designs</b> Pebble Speck Bin</TD>
+      <TD>Pehr Designs Pebble Speck Bin</TD>
       <TD>$40</TD>
    </TR>
     <TR>
