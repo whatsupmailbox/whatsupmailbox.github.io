@@ -127,7 +127,136 @@ date: 2016-1-24 12:41:00 -08:00
 
 <br>
 
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SkullcandyMethodEarbuds.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
+<DL>
+<DT><bSkullcandy</b> Method Earbuds</DT>
+<DD>Value $14.99</DD>
+</DL>
+
+<p>I haven't had the need to purchase any earbuds for a year now thanks to subscription boxes. I don't currently own a Skullcandy earbud, but I have in the past and I remember I loved them. This particular one has DualLock technology that delivers a comfortable and stay-put fit so you can focus more on your workout and less on keeping your earbuds stay well... in your ears. I will surely test this out on my next workout session.</p>
+
+<br>
+
+<p>Here's a few more features that this earbud has:</p>
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SkullcandyMethodEarbuds2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<br>
+
+<p>And here's a closer look at the earbuds themselves:
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SkullcandyMethodEarbuds3.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>Although the color is not my favorite, I'm sure it'll grow on me as I wear it more often. Nevertheless, this is a great item to include for a fitness theme.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016DefineBottleSportFlipTop.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Define Bottle</b> Sport Flip Top</DT>
+<DD>Value $19.99</DD>
+</DL>
+
+<p>I have an infuser bottle already thanks to my FabFitFun subscription, but I'll always welcome another one to my collection. I love the inclusion of a hand strap with this one though, makes it so much easier to carry it around either outside or at the gym. The white color is nice too and the quality of the bottle feels strong and sturdy.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016DefineBottleSportFlipTop.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>I didn't know it until I read the back of the bottle packaging that there's a re-freezable icepack at the base of this bottle. How cool is that, like literally. I can't wait to try it out once the weather gets warmer!</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016MissionEnduraCoolCoolingMicrofiberTowel.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Mission EnduraCool</b> Cooling Microfiber Towel</DT>
+<DD>Value $14.99</DD>
+</DL>
+
+<p>Although I have plenty of workout towels, this one is a cooling towel, I don't have one of those yet! This towel uses EnduraCool microfibers that will activate when wet, making it the perfect towel to have for hot yoga, pilates, the gym or even any activity during a hot day! Can't wait to try it out!</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SWBasicsLipBalmSet.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>S.W. Basics</b> Organic Lip Balm Flight</DT>
+<DD>Value $15.19</DD>
+</DL>
+
+<p>I love S.W. Basics lip balms! I've have one in my posession that I truly love, and now I have 4 more! They really do moisturize your lips.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016SWBasicsLipBalmSet2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>My favorite has got to be the Cocoa one, makes me smell chocolate everytime I put this one without "putting on" any calories. That's a win for me ;)</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016C9ChampionHeadbands.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>C9 Champion</b> 3-Pack Headbands</DT>
+<DD>Value $4.99</DD>
+</DL>
+
+<p>I don't wear headbands everytime I go to the gym, but I do wear them quite often, especially when I'm doing yoga, pilates or any other activity that will require some upside down positions. It helps keep my hair away from my face which can be lifesaving sometimes.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016PixiByPetraMakeupMelthingCleansingCloth.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Pixi by Petra</b> Makeup Melting Cleansing Cloth</DT>
+<DD>Value $10</DD>
+</DL>
+
+<p>Well the pink packaging totally got me melting for sure since I love pink, it'll look good when I'm freshening up in the locker room.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016LunaBarDarkChocolateHazelnut.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Luna Bar</b> Dark Chocolate Hazelnut</DT>
+<DD>Value $5.79</DD>
+</DL>
+
+<p>You had me in Hazelnuts!!! I just wanna workout so I have an excuse to eat this, for reals.</p>
+
+<br>
+
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarTargetJan2016LunaBarDarkChocolateHazelnut.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>They didn't just include 1 bar, they included a whole box.</p>
+
+<br>
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so glad I bought this! As I was unboxing, I just couldn't believe the amount of items they packed into it, I definitely felt like I was getting my money's worth especially with the inclusion of a Jawbone! I think Popsugar and Target nailed the curation of this box to match the Fit New Year theme. Plus the items were quite unisex, except perhaps the headband (unless you're one of those men who have long hair), so I also love that you can gift this to that special man in your life or even gift some of the items if you prefer to keep some for yourself ;) The total value of this box came up to $xxx which is almost triple the cost of this box! Again, super happy with this box.</p>
 
