@@ -15,6 +15,8 @@ imagefeature: SephoraVIBRougeGWPJan2016.png
 date: 2016-1-25 13:40:00 -08:00
 ---
 
+<center><H4>Free Laura Mercier Deluxe Sample Set with $35 purchase!</H4></center>
+
 <center><a href="http://www.sephora.com" target="_blank">
 <img src="/images/SephoraVIBRougeGWPJan2016.png" border="0" style="border:none;max-width:100%;" alt="Sephora GWP: Laura Mercier Deluxe Sample Set - VIB & VIB Rouge Only" />
 </a></center>
