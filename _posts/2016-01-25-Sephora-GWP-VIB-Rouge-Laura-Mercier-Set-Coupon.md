@@ -12,7 +12,7 @@ description: ""
 tags: [Sephora, GWP, Coupons]
 imagecredit: ""
 imagefeature: SephoraVIBRougeGWPJan2016.png
-date: 2016-1-25 14:40:00 -08:00
+date: 2016-01-25 14:40:00 -08:00
 ---
 
 <center><H4>Free Laura Mercier Deluxe Sample Set with $35+ purchase!</H4></center>
