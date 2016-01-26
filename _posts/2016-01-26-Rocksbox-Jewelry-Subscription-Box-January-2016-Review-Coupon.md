@@ -12,7 +12,7 @@ type: photo
 imagefeature: RocksboxJan2016Items.jpg
 headline: Rocksbox January 2016 Review + 50% off!
 tags: [Rocksbox, Subscriptions, Reviews, Coupons, January 2016]
-date: 2016-1-26 14:45:00 -08:00
+date: 2016-1-26 14:05:00 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
@@ -22,7 +22,7 @@ date: 2016-1-26 14:45:00 -08:00
 <p><b>Subscription:</b> <a href="https://www.rocksbox.com" target="_blank">Rocksbox</a></p>
 <p><b>Cost:</b> $19/monthly + Free Shipping</p>
 <p><b>What's in the box:</b> Rocksbox is a jewelry rental subscription. Every month you'll receive 3 jewelry items that's customized to your profile or wishlist. You can keep them as long as you want and return them once you're done to receive a new 3-piece set of jewelry. You'll also receive $10 credit every month to spend on the items you received.</p>
-<p><b>Coupon:</b> Enter coupon code <a href="https://www.rocksbox.com" target="_blank">LORETTABFF15</a> when subscribing and you'll get your first month absolutely FREE!</p>
+<p><b>Coupon:</b> Enter coupon code <a href="https://www.rocksbox.com" target="_blank">LORETTABFF15</a> when subscribing and you'll get your <big>first month of unlimited jewelry absolutely FREE!</big></p>
 
 <br>
 
@@ -139,4 +139,4 @@ date: 2016-1-26 14:45:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I can't believe the first box they sent me was a slam dunk and an absolute perfect match to my style! I knew I was going to love this subscription box!</p>
 
-<p>Interested in subscribing? Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to get your first box absolutely FREE!!!</p>
+<p>Not a subscriber? Get your first month of unlimited jewelry FREE! Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to get your first month absolutely FREE!!!</p>
