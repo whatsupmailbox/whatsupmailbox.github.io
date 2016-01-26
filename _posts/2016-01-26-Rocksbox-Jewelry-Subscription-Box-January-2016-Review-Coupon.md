@@ -124,7 +124,14 @@ date: 2016-1-26 14:45:00 -08:00
 <DD>Retail Value $48</DD>
 </DL>
 
-<p>The style of this necklace is so totally me. I love geometric shapes and delicate necklaces. I love it cause it's both feminine and edgy, which is my type of style. This one is a perfect item choice for me!</p>
+<p>The style of this necklace is so totally me. I love geometric shapes and delicate necklaces. I love it cause it's both feminine and edgy, which is my type of style. 
+
+<br>
+
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016CCSkye2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<p>This one is a perfect item choice for me!</p>
 
 <br>
 
