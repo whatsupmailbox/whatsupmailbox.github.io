@@ -15,7 +15,7 @@ tags: [Rocksbox, Subscriptions, Reviews, Coupons, January 2016]
 date: 2016-1-26 14:05:00 -08:00
 ---
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<center><a href="https://www.rocksbox.com" target="_blank">
 <img src="/images/RocksboxJan2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox!" />
 </a></center>
 
