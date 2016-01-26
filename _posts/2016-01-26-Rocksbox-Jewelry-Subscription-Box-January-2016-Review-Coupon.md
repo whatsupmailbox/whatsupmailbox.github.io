@@ -36,10 +36,6 @@ date: 2016-1-26 14:45:00 -08:00
 <figcaption>First Look at Unboxing</figcaption>
 <br>
 
-<p>A sheet of stickers! These will be perfect to put in my planner, yay.</p>
-
-<br>
-
 <center><a href="https://www.rocksbox.com" target="_blank">
 <img src="/images/RocksboxJan2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
 </a></center>
@@ -84,11 +80,13 @@ date: 2016-1-26 14:45:00 -08:00
 </a></center>
 
 <DL>
-<DT><b>Kendra Scott</b> Earrings</DT>
-<DD>Retail Value $</DD>
+<DT><b>Kendra Scott</b> Skylar Earrings in White Pearl</DT>
+<DD>Retail Value $65 (Insider's Price $52)</DD>
 </DL>
 
-<p>I love Kendra Scott!!! I haven't tried the Elle earrings before so I'm excited I get to now.</p>
+<p><i>Size: 2.25"L X 0.75"W</i></p>
+
+<p>I love Kendra Scott!!! I have a few of her pieces in my collection and just love them. This necklace consists of white pearl stones in the shape of arrowheads and is 14K gold plated over brass. </p>
 
 <br>
 
@@ -107,11 +105,13 @@ date: 2016-1-26 14:45:00 -08:00
 </a></center>
 
 <DL>
-<DT><b>House of Harlow</b> Necklace</DT>
-<DD>Retail Value $38</DD>
+<DT><b>House of Harlow 1960</b> Sunburst Bar Wrap Necklace in Gold</DT>
+<DD>Retail Value $38 (Insider's Price $30)</DD>
 </DL>
 
-<p>This necklace is long, approximately 18" long which is great to wear by itself or to layer with other delicate necklaces. I layered it with some Gorjana pieces and it looked perfect! Another great item choice for me!</p>
+<p><i>Size: 36-38" long</i></p>
+
+<p>This necklace is long, which is great to wear by itself or to layer with other delicate necklaces. I layered it with some Gorjana pieces and it looked perfect! And not only that, it can also be wrapped around twice so you have a double necklace look, how cool is that. Another great item choice for me!</p>
 
 <br>
 
@@ -120,18 +120,20 @@ date: 2016-1-26 14:45:00 -08:00
 </a></center>
 
 <DL>
-<DT><b>CC Skye</b> Necklace</DT>
-<DD>Retail Value $48</DD>
+<DT><b>CC Skye</b> Call Me Necklace in Gold</DT>
+<DD>Retail Value $68 (Insider's Price $54)</DD>
 </DL>
 
-<p>The style of this necklace is so totally me. I love geometric shapes and delicate necklaces. I love it cause it's both feminine and edgy, which is my type of style. 
+<p><i>Size: 17.5" long</i></p>
+
+<p>The style of this necklace is so totally me. I love geometric shapes and delicate necklaces. I love it cause it's both feminine and edgy, which is my type of style. Plus it's also 18k gold plated!</p>
 
 <br>
 
 <center><a href="https://www.rocksbox.com" target="_blank">
 <img src="/images/RocksboxJan2016CCSkye2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<p>This one is a perfect item choice for me!</p>
+<p>The wide triangle-shaped pendant is encrusted with shimmering rhinestones. I love how it sparkles and yet not overly sparkling. It looks great on my neckline. It's sleek and elegant with a modern touch. This one is a perfect item choice for me!</p>
 
 <br>
 
