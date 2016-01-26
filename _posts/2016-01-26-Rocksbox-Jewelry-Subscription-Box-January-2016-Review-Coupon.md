@@ -22,7 +22,7 @@ date: 2016-1-26 14:05:00 -08:00
 <p><b>Subscription:</b> <a href="https://www.rocksbox.com" target="_blank">Rocksbox</a></p>
 <p><b>Cost:</b> $19/monthly + Free Shipping</p>
 <p><b>What's in the box:</b> Rocksbox is a jewelry rental subscription. Every box you receive comes with 3 jewelry items that's customized to your profile or wishlist. You can keep them as long as you want and return them once you're done to receive a new 3-piece set of jewelry. Repeat this as often as you'd like and have unlimited access to their ever-rotating closet of designer jewelry. You'll also receive $10 Shop Credit to use that month on the items you received.</p>
-<p><b>Coupon:</b> Enter coupon code <a href="https://www.rocksbox.com" target="_blank">LORETTABFF15</a> when subscribing and you'll get your first month of unlimited jewelry rental absolutely FREE! Note: Code is limited to the first 3 people who subscribe using this coupon, so hurry up and use it before someone else does!</big></p>
+<p><b>Coupon:</b> Enter coupon code <big>LORETTABFF15</big> when subscribing and you'll get your first month of unlimited jewelry rental absolutely FREE! Note: Code is limited to the first 3 people who subscribe using this coupon, so hurry up and use it before someone else does!</big></p>
 
 <br>
 
