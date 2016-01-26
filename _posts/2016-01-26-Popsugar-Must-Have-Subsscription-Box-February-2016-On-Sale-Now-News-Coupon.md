@@ -6,7 +6,7 @@ headline: "Popsugar Must Have February 2016 Box On Sale Now!"
 tags: [Popsugar Must Have, Subscriptions, Coupons, February 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Subscriptions
@@ -32,7 +32,7 @@ date: 2016-1-26 12:21:00 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
-<p>If you're interested in subscribing, you can go to <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">www.musthave.popsugar.com</a> to subscribe.</p>
+<p>If you're interested in subscribing, you can go to <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">musthave.popsugar.com</a> to subscribe.</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
 
