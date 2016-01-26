@@ -16,7 +16,7 @@ date: 2016-1-26 14:45:00 -08:00
 ---
 
 <center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox!" />
+<img src="/images/RocksboxJan2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://www.rocksbox.com" target="_blank">Rocksbox</a></p>
@@ -26,15 +26,11 @@ date: 2016-1-26 14:45:00 -08:00
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/RocksboxJan2016Box.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
-<p></p>
+<p>I love to accessorize my outfit with jewelry and I do tend to purchase quite a few of them from time to time, but I also get bored or feel like the style is outdated soon after. That's why I decided to try out Rocksbox. This way I can wear current styles from amazing brands and switch them up as often as I want depending on how fast I ship them back. I already have a feeling I'm going to love this box.</p>
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<center><a href="https://www.rocksbox.com" target="_blank">
 <img src="/images/RocksboxJan2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
 </a></center>
 <figcaption>First Look at Unboxing</figcaption>
@@ -44,112 +40,94 @@ date: 2016-1-26 14:45:00 -08:00
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
 </a></center>
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>Now you see the products, I wonder what's in that pillow pack?!</p>
+<p>Seeing a personal note was a pleasant surprise, and very much appreciated!</p>
 
 <br>
 
-<p>Each monthly box includes an info card that details the theme and items you received.</p>
-
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
-<figcaption>Info Card (front)</figcaption>
-<br>
-
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
-<figcaption>Info Card (back)</figcaption>
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016OpenBox3.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<p>I also love the way they package it with this chic tissue paper, so fashionable and a great first impression.</p>
 
 <br>
 
-# And here are my Birchbox January 2016 items:
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016OpenBox4.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<p>And you finally see the items, yay! Can't wait to see what they are.</p>
 
-<p><center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox January 2016 Items!" /></a></center></p>
+<br>
+
+<p>Here's a look at the personalized info card that details the items you received:</p>
+
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
+<figcaption>Info Card</figcaption>
+<br>
+
+# And here are my Rocksbox items:
+
+<p><center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox January 2016 Items!" /></a></center></p>
 <br>
 
 ## Items in detail:
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016CleanCashmerePerfumeCiateNailPolish.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016KendraScott.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
-<DT><b>CLEAN</b> Cashmere Eau de Parfum</DT>
-<DD>Sample Vial 1ml, Value $1?</DD>
+<DT><b>Kendra Scott</b> Earrings</DT>
+<DD>Retail Value $</DD>
 </DL>
 
-<p>"This fragrance opens with bergamot, lime, cedar leaf and lavendin, and has middle and base notes that include mimosa, velvet jasmine, tonka bean, musk, and sandalwood."</p>
-
-<p>So I'm not particularly in love with perfume samples, but I still welcome them as I've discovered great scents because of this in the past. This one though is not for me, plus I prefer my perfume sample in a spray vial so sadly this was a miss.</p>
+<p>I love Kendra Scott!!! I haven't tried the Elle earrings before so I'm excited I get to now.</p>
 
 <br>
 
-<DL>
-<DT><b>Ciaté London</b> Nail Polish in Showgirl</DT>
-<DD>Mini Paint Pot 5ml., Value $8</DD>
-</DL>
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016KendraScott2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+<figcaption>A closer look at the earrings</figcaption>
+<br>
 
-<p>Yay, a nail polish! I always feel like I scored when I receive them in my Birchbox, but that's just me. The color Showgirl is a pinkish red base with red glitter specks. I've never been disappointed with Ciaté in the past so I know it's good. But unfortunately the glittery color is just not for me, so sadly this will be gifted which is a bummer cause I really wanted to keep it.</p>
+<p>I love the combination of white and gold, and this will go nicely with some jeans and a shirt with a blazer. Great item choice for me!</p>
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016ForeoDayCleanser.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016HouseOfHarlow.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
-<DT><b>FOREO</b> Day Cleanser</DT>
-<DD>Deluxe Sample Size, Value $4.50</DD>
+<DT><b>House of Harlow</b> Necklace</DT>
+<DD>Retail Value $38</DD>
 </DL>
 
-<p>I've heard of the FOREO cleansing tool and although the tool itself looks pretty unique, I'm a big fan of Clarisonic brushes so I'm staying loyal. It's kind of strange though that they included a cleanser that's specifically intended for use with a FOREO device, but I'll use this with my Clarisonic Mia2 and would think it'll be just the same, a cleanser is a cleanser.</p>
+<p>This necklace is long, approximately 18" long which is great to wear by itself or to layer with other delicate necklaces. I layered it with some Gorjana pieces and it looked perfect! Another great item choice for me!</p>
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016EyekoFatLiquidEyeliner.jpg" border="0" style="border:none;max-width:100%;" />
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxJan2016CCSkye.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
-<DT><b>Eyeko</b> Fat Liquid Eyeliner</DT>
-<DD>Full Size 0.12 oz. / 3.5 g., Value $16</DD>
+<DT><b>CC Skye</b> Necklace</DT>
+<DD>Retail Value $48</DD>
 </DL>
 
-<p>Black eyeliners are a staple so I'm always happy to receive one. This is a chubby eyeliner and I must confess, I don't have one of these types yet. I go with a cat eye look every now and then, so this will help in making a bolder and thicker line towards the ends of my eyes.</p>
+<p>The style of this necklace is so totally me. I love geometric shapes and delicate necklaces. I love it cause it's both feminine and edgy, which is my type of style. This one is a perfect item choice for me!</p>
 
 <br>
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016TonyMolyTintDelight.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I can't believe the first box they sent me was a slam dunk and an absolute perfect match to my style! I knew I was going to love this subscription box!</p>
 
-<DL>
-<DT><b>TONYMOLY</b> Delight Tony Tint in #2 Red</DT>
-<DD>Sample Size 3ml?, Value $2?</DD>
-</DL>
-
-<p><i>No sizes were stated on the packaging so the value is an estimate.</i></p>
-
-<p>This lip tint smells nice and goes on smooth, but you definitely need to exfoliate your lips before applying as I found it to have a darker color on the areas that are dry or chapped. Once on, the color does stay on and doesn't transfer at all, so I'm happy with that. It is a very bright red and from what I see on their website, they only have 2 other colors for this lip tint, Cherry Pink and Orange Cha Cha. Good thing Birchbox sent me the Red one!</p>
-
-<br>
-
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Well, I'm not sure yet what to make of this month's box. Although the variety and type of items I received were good, it just seemed kind of blah to me, especially since one of my 5 items was a perfume sample vial. That is unfortunate, at least for me. But good thing I get to review my products and get $5 back to spend in the Birchbbox shop, so that makes this box worth it. $5 for a full-sized Eyeko eyeliner is a pretty good deal. I guess I need to update my profile and hope that next month's items will be better!</p>
-
-<p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">LOVEGWS</a> to receive a FREE Jurlique Rose Love Balm (a $10 value!) when you subsribe to Birchbox.</p>
-
-<br>
-
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
-<img src="/images/BirchboxJan2016GWS.png" border="0" style="border:none;max-width:100%;" alt="Birchbox Gift With Subscription" />
-</a></center>
-
-<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% cashback on your purchases at Birchbox, I always use them and get money back, yay!</p>
-
-<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+<p>Interested in subscribing? Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to get your first box absolutely FREE!!!</p>
