@@ -1,16 +1,16 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
     - Coupons
-title: Rocksbox January 2016 Review + 50% off!
+title: Rocksbox January 2016 Review + FREE Month Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: RocksboxJan2016Items.jpg
-headline: Rocksbox January 2016 Review + 50% off!
+headline: Rocksbox January 2016 Review + FREE Month Coupon!
 tags: [Rocksbox, Subscriptions, Reviews, Coupons, January 2016]
 date: 2016-1-26 14:05:00 -08:00
 ---
@@ -133,10 +133,10 @@ date: 2016-1-26 14:05:00 -08:00
 <center><a href="https://www.rocksbox.com" target="_blank">
 <img src="/images/RocksboxJan2016CCSkye2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<p>The wide triangle-shaped pendant is encrusted with shimmering rhinestones. I love how it sparkles and yet not overly sparkling. It looks great on my neckline. It's sleek and elegant with a modern touch. This one is a perfect item choice for me!</p>
+<p>The wide triangle-shaped pendant is encrusted with shimmering rhinestones. I love how it sparkles and yet not overly sparkling. It's sleek and elegant with a modern touch. This one is a perfect item choice for me!</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I can't believe the first box they sent me was a slam dunk and an absolute perfect match to my style! I knew I was going to love this subscription box!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I can't believe the first box they sent me was a slam dunk and an absolute perfect match to my style! I'll probably be keeping this for a bit so I can wear them multiple times, probably till the end of the weekend, and then send them back for a brand new set of jewelry. This is so exciting. I knew I was going to love this subscription box and I can't wait to see what they send me next!</p>
 
 <p>Not a subscriber? Get your first month of unlimited access of jewelry rentals FREE! Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to take advantage of this awesome deal!</p>
