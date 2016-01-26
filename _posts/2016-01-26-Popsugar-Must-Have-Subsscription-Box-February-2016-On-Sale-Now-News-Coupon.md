@@ -20,7 +20,7 @@ date: 2016-1-26 12:21:00 -08:00
 <img src="/images/PopsugarFeb2016OnSaleNowNews.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have February 2016 On Sale Now!" />
 </a></center>
 
-<p>Starting today, if you subscribe to <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a> you'll receive the February 2016 box. There's no spoilers released yet, but since February is Valentine's Day, they tend to go towards a "love" theme.</p>
+<p><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a> February 2016 box is available starting today! There's no spoilers released yet, but since February is Valentine's Day, they tend to go towards a "love" theme.</p>
 
 <br>
 
