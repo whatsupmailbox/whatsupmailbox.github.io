@@ -122,6 +122,14 @@ date: 2016-1-27 09:33:19 -08:00
 <figcaption>Five Four Club branding on the back of the tee</figcaption>
 <br>
 
+<H4>And here's another look at all the items I received this month:</H4>
+
+<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<img src="/images/FiveFourClubJan2016ItemsCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club January 2016 Items" />
+</a></center>
+
+<br>
+
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club never disappoints and is definitely my husband's favorite clothing subscription. This month they sent a super cool jacket plus 2 tees, and they were all a hit! For $60 a month, this subscription has been great at sending quality and stylish clothes, and for us the value is such a deal. Every month my husband looks forward to receiving his items and so do I!!!</p>
 
 <p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get your first package for only $30 through this link</a>, that's an amazing deal!</p> 
