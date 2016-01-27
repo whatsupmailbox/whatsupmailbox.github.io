@@ -64,7 +64,7 @@ date: 2016-1-27 09:33:19 -08:00
 <img src="/images/FiveFourClubJan2016AuroraOliveJacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
 </a></center>
 
-<p>You can close this jacket up with a zipper or button, or both. I love that! This is surely a great jacket to send out and my husband can't wait to wear it!</p> 
+<p>You can close this jacket up with the zipper or button option, or both. I love that! I definitely feel like I scored in receiving this jacket and my husband can't wait to wear it!</p> 
 
 <br>
 
