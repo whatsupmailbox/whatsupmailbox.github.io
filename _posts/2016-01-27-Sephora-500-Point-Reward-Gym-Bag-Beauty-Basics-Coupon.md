@@ -15,7 +15,7 @@ imagefeature: Sephora500RewardGymBagBeautyBasics.jpg
 date: 2016-01-27 12:33:00 -08:00
 ---
 
-<center><H4>NEW Sephora Beauty Insider 500 Point Rewards:</H4></center>
+<center><H4>NEW Sephora Beauty Insider 500 Point Reward:</H4></center>
 
 <center><a href="http://www.sephora.com" target="_blank">
 <img src="/images/Sephora500RewardGymBagBeautyBasics.jpg" border="0" style="border:none;max-width:100%;" alt="Sephora 500 Point Rewards: Gym Bag Beauty Basics" />
@@ -27,6 +27,6 @@ date: 2016-01-27 12:33:00 -08:00
 
 <br>
 
-<H4>>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% (sometimes 8%) cashback on your purchases at Sephora.com, I always use them and get money back, yay!</H4>
+<H4>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 4% (sometimes 8%) cashback on your purchases at Sephora.com, I always use them and get money back, yay!</H4>
 
 <a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
