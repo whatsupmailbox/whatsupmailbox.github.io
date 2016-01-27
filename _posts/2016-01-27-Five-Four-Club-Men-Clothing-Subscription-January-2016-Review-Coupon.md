@@ -61,7 +61,7 @@ date: 2016-1-27 09:33:19 -08:00
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubJan2016AuroraOliveJacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
+<img src="/images/FiveFourClubJan2016AuroraOliveJacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
 </a></center>
 
 <p>You can close this jacket up with a zipper or button, or both. I love that! This is surely a great jacket to send out and my husband can't wait to wear it!</p> 
@@ -87,7 +87,7 @@ date: 2016-1-27 09:33:19 -08:00
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubJan2016AlamoTee2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Alamo Tee" />
+<img src="/images/FiveFourClubJan2016AlamoTee3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Alamo Tee" />
 </a></center>
 <figcaption>Five Four Club branding on the back of the tee</figcaption>
 <br>
