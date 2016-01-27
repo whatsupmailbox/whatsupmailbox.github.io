@@ -1,14 +1,15 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
+    - Coupons
 title: Five Four Club January 2016 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: FiveFourClubDec2015Collage.jpg
+imagefeature: FiveFourClubJan2016Items.jpg
 headline: Five Four Club January 2016 Review + 50% Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, January 2016]
 date: 2016-1-27 09:33:19 -08:00
@@ -20,7 +21,7 @@ date: 2016-1-27 09:33:19 -08:00
 <p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> From now until January 31st, <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is offering 50% off your first two months when you subscribe! Use coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">WINTER50</a>. This is the best deal that they offer and they don't do this often, so if you want to try them out, now is a better time than ever!</p>
+<p><b>Coupon:</b> From now until January 31st, <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is offering 50% off your first two months when you subscribe! That's only $30 each month for 2 months! Use coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">WINTER50</a>. This is the best deal that I've seen them offer and they don't do this often, so if you want to try them out, now is a better time than ever!</p>
 <br>
 
 <p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
@@ -112,7 +113,7 @@ date: 2016-1-27 09:33:19 -08:00
 <img src="/images/FiveFourClubJan2016EurekaBlackTee2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Eureka Tee" />
 </a></center>
 
-<p>A closer look at the collar area shows a different lining, and the black tee actually has some specks of multi-color in them.</p>
+<p>The inside lining on this one is grey and white, and the black tee actually has some specks of multi-color in them.</p>
 
 <br>
 
