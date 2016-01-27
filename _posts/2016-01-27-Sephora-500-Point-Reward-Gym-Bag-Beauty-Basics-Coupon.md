@@ -11,7 +11,7 @@ type: photo
 description: ""
 tags: [Sephora, Rewards]
 imagecredit: ""
-imagefeature: Sephora500RewardGymBagBeautyBasics.jpg
+imagefeature: Sephora500RewardGymBagBeautyBasics2.png
 date: 2016-01-27 12:33:00 -08:00
 ---
 
