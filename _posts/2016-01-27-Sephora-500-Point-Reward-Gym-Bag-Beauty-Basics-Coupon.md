@@ -23,6 +23,8 @@ date: 2016-01-27 12:33:00 -08:00
 
 <br>
 
+<p>Select this 500-point offer on the Beauty Insider Rewards page during checkout, and it will be added to your shopping basket. Limited quantities are available, so once this product is gone, it’s gone.</p>
+
 <p>* Available online and in stores while supplies last. Quantities of each reward are limited; sample substitutions may occur. Limit of one per client. Offers are valid with 500 Beauty Insider points in stores and online with a purchase. Non-transferable. Must be a registered Beauty Insider to redeem offer. Reward is not available in Sephora inside JCPenney stores or online at jcpenney.com. No returns or exchanges.</p>
 
 <br>
