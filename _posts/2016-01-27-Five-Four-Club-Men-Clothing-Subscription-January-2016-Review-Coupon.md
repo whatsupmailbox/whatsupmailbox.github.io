@@ -20,7 +20,7 @@ date: 2016-1-27 09:33:19 -08:00
 <p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get your first package for $30 through this link</a>. That's 50% off for 2-3 clothing items, how awesome is that!</p>
+<p><b>Coupon:</b> From now until January 31st, <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is offering 50% off your first two months when you subscribe! Use coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">WINTER50</a>. This is the best deal that they offer and they don't do this often, so if you want to try them out, now is a better time than ever!</p>
 <br>
 
 <p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
@@ -132,4 +132,4 @@ date: 2016-1-27 09:33:19 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club never disappoints and is definitely my husband's favorite clothing subscription. This month they sent a super cool jacket plus 2 tees, and they were all a hit! For $60 a month, this subscription has been great at sending quality and stylish clothes, and for us the value is such a deal. Every month my husband looks forward to receiving his items and so do I!!!</p>
 
-<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get your first package for only $30 through this link</a>, that's an amazing deal!</p> 
+<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get your first 2 months at 50% off through this link</a> and enter coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">WINTER50</a>, this is the best deal I've seen from them so far so take advantage of it and <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">subscribe now</a>!</p> 
