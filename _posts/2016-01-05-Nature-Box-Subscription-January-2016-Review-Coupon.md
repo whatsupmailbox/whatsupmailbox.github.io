@@ -29,7 +29,7 @@ date: 2016-01-05 13:31:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/dksQC" target="_blank">
-<img src="/images/NatureBoxJan2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/NatureBoxJan2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
