@@ -91,7 +91,7 @@ date: 2016-1-29 09:05:00 -08:00
 <DT>Gillette & Big Ben Stainless Steel Blades</DT>
 </DL>
 
-<p>I'm starting off with the blades since I'll be showing how to insert them into the razor soon after. Each starter box will contain brands of blades that may be not be the same as mine, so there are variations on this.</p>
+<p>I'm starting off with the blades since I'll be showing how to insert them into the razor soon after. Each starter box will contain brands of blades that may not be the same as mine, so there are variations on this.</p>
 
 <br>
 
