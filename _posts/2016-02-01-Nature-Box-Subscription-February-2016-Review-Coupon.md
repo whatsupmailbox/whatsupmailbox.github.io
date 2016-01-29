@@ -56,7 +56,7 @@ date: 2016-02-01 09:31:39 -08:00
 <DD>Net Wt. 4 oz</DD>
 </DL>
 <p>OMG, these pretzels taste amazing! It's crunchy, sweet, fruity, and salty all in one! The strawberry flavor bursts with abundance as soon as it enters in your mouth, then once you crunch on it, you immediately taste the salty goodness of the pretzel. I literally had to stop myself from finishing this bag in one sitting!</p>
-<p><a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> also offers this in Blueberry flavor which is what I'll be ordering next =P</p>
+<p>They also offer this in Blueberry flavor which is what I'll be ordering next =P</p>
 <br>
 
 <center><a href="http://fbuy.me/dksQC" target="_blank">
@@ -86,7 +86,7 @@ date: 2016-02-01 09:31:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> As always, Nature Box fulfills my snack needs and this month came with a new favorite discovery, the Strawberry Greek Yogurt Pretzels! It's such a treat to have awesome snacks delivered to your door every month, and when it does arrive, it becomes official snack tasting day lol. I've already selected what I want to order for next month, so check back to see that review.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> As always, <a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> fulfills my snack needs and this month came with a new favorite discovery, the Strawberry Greek Yogurt Pretzels! It's such a treat to have awesome snacks delivered to your door every month, and when it does arrive, it becomes official snack tasting day lol. I've already selected what I want to order for next month, so check back to see that review.</p>
 
 <p>Not a subscriber? You can <a href="http://fbuy.me/dksQC" target="_blank">get your first box at 50% off through this link</a>. That's only $6.97 for 3-snacks or $9.97 for 5-snacks plus Free Shipping!</p>
 
