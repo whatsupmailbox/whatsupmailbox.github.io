@@ -21,7 +21,7 @@ date: 2016-1-29 09:05:00 -08:00
 
 <p><b>Subscription:</b> <a href="http://www.hershaveco.com" target="_blank">Her Shave Co.</a></p>
 <p><b>Cost:</b> $24.99/monthly + Free Shipping</p>
-<p><b>What's in the box:</b> When you first subscribe, you'll receive their "First Box" which will come equipped with everything you need to get you started on the road to a great shave. Items will include a Vie-Long safety razor, a shaving brush, shaving cream, and replacement blades, along with welcome and instructional cards.</p>
+<p><b>What's in the box:</b> When you first subscribe, you'll receive their starter "First Box" which will come equipped with everything you need to get you started on the road to a great shave. Items will include a Vie-Long safety razor, a shaving brush, shaving cream, and replacement blades, along with welcome and instructional cards.</p>
 <p><b>Coupon:</b> Enter coupon code <b>FIRSTSHAVE</b> to get $5 off your first box!</p>
 
 <br>
