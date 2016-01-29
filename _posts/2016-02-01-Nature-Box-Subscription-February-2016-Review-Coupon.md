@@ -69,7 +69,7 @@ date: 2016-02-01 09:31:39 -08:00
 <DT>Salt & Pepper Lentil Loops</DT>
 <DD>Net Wt. 3 oz</DD>
 </DL>
-<p>This is one of my favorite snacks from them and a permanent recurring item in my snack pantry. Trader Joe's has a version of these lentil loops, but <a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> steps it up a notch by adding pepper in the flavor which may not seem like a big deal, but wow, it really makes a difference in flavor. I only wish they made this in a bigger bag because I end up finishing it in 2 sittings, ooops.</p>
+<p>This is one of my favorite snacks from them and a permanent recurring item in my snack pantry. Trader Joe's has a version of these lentil loops, but <a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> steps it up a notch by adding pepper in the flavor which may not seem like a big deal, but wow, it really makes a difference in flavor. I only wish they made this in a bigger bag because I always end up finishing it in 2 sittings, ooops.</p>
 <br>
 
 <center><a href="http://fbuy.me/dksQC" target="_blank">
