@@ -210,6 +210,6 @@ date: 2016-1-29 09:05:00 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so happy I got to try this box out, I'm really loving this safety razor! The brush was a perfect addition to the experience, as well as the soap. I really do think this is such a great shaving box to have, especially if you routinely shave or are into wet shaving. If you've never tried a safety razor before, I totally recommend for you to try this box out and see the difference for yourself. It's such a great intro box that has everything you need to start shaving smoothly =)</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so happy I got to try this box out, I'm really loving this safety razor! The brush was a perfect addition to the experience, as well as the soap. I really do think this is such a great shaving box to have, especially if you routinely shave or are into wet shaving. If you've never tried a safety razor before, I totally recommend for you to try this box out and see the difference for yourself. It's such a great intro box that has everything you need to start shaving smoothly and stylishly =)</p>
 
-<p>Not a subscriber? Get $5 off your first month of Her Shave Co. with coupon code <a href="http://www.hershaveco.com">FIRSTSHAVE</a> and start shaving in style!</p>
+<p>Not a subscriber? Get $5 off your first month of Her Shave Co. with coupon code <a href="http://www.hershaveco.com">FIRSTSHAVE</a> and you'll receive the "First Box" to get you started towards shaving in style!</p>
