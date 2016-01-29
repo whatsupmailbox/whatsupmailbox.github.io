@@ -99,7 +99,7 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxShavingBlades2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>Each box comes with 5 blades, so a total of 10 blades will be included every month. The amount of days or usage it takes for you to replace the blade is entirely dependent on you. It will depend on your hair growth. If you get really thick hair growth every day, you might see an advantage to switching the blade a little more often than weekly. If you have light hair growth, you could probably get away with 10 or so days/blade. So basically 7 days/blade plus or minus a few days. I had to look it up as I myself am not experience. I shall play around with the amount of days and try weekly first to see how that goes.</p>
+<p>Each box comes with 5 blades, so a total of 10 blades will be included every month. The amount of days or usage it takes for you to replace the blade is entirely dependent on you. It will depend on your hair growth. If you get really thick hair growth every day, you might see an advantage to switching the blade a little more often than weekly. If you have light hair growth, you could probably get away with 10 or so days/blade. So basically 7 days/blade plus or minus a few days. I had to look it up myself since I'm new to this. I shall play around with the amount of days and try weekly first to see how that goes.</p>
 
 <br>
 
