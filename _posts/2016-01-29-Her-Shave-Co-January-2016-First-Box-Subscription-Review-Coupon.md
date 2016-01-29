@@ -21,7 +21,7 @@ date: 2016-1-29 09:05:00 -08:00
 
 <p><b>Subscription:</b> <a href="http://www.hershaveco.com" target="_blank">Her Shave Co.</a></p>
 <p><b>Cost:</b> $24.99/monthly + Free Shipping</p>
-<p><b>What's in the box:</b> When you first subscribe, you'll receive their "First Box" which will come equipped with everything you need to get you started on the road to a great shave. Items will include a Vie-Long safety razor, a shave brush, shaving cream, and replacement blades, along with welcome and instructional cards.</p>
+<p><b>What's in the box:</b> When you first subscribe, you'll receive their "First Box" which will come equipped with everything you need to get you started on the road to a great shave. Items will include a Vie-Long safety razor, a shaving brush, shaving cream, and replacement blades, along with welcome and instructional cards.</p>
 <p><b>Coupon:</b> Enter coupon code <b>FIRSTSHAVE</b> to get $5 off your first box!</p>
 
 <br>
@@ -31,7 +31,7 @@ date: 2016-1-29 09:05:00 -08:00
 <br>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
-<img src="/images/HerShaveCoFirstOpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
+<img src="/images/HerShaveCoFirstBoxOpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
 </a></center>
 <figcaption>First Look at Unboxing</figcaption>
 <br>
@@ -41,7 +41,7 @@ date: 2016-1-29 09:05:00 -08:00
 <br>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
-<img src="/images/HerShaveCoFirstOpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
+<img src="/images/HerShaveCoFirstBoxOpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Second Look at Unboxing" />
 </a></center>
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
@@ -51,7 +51,7 @@ date: 2016-1-29 09:05:00 -08:00
 <br>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
-<img src="/images/HerShaveCoFirstOpenBox3.jpg" border="0" style="border:none;max-width:100%;" alt="More Unboxing" />
+<img src="/images/HerShaveCoFirstBoxOpenBox3.jpg" border="0" style="border:none;max-width:100%;" alt="More Unboxing" />
 </a></center>
 
 <p>And voila, you finally see the items and an instructional card on how to operate your new razor.</p>
@@ -61,9 +61,17 @@ date: 2016-1-29 09:05:00 -08:00
 <p>Here's a closer look at the razor instruction card:</p>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
-<img src="/images/HerShaveCoInfo.jpg" border="0" style="border:none;max-width:100%;" alt="Razor Instructional Card" /></a></center>
+<img src="/images/HerShaveCoFirstBoxInfo.jpg" border="0" style="border:none;max-width:100%;" alt="Razor Instructional Card" /></a></center>
 
 <p>It's actually really easy and I'll be showing step-by-step pictures on how to insert the blades further down this review. Keep reading gals!</p> 
+
+<br>
+
+<center><a href="http://www.hershaveco.com" target="_blank">
+<img src="/images/HerShaveCoFirstBoxInfo2.jpg" border="0" style="border:none;max-width:100%;" alt="Razor Instructional Card" /></a></center>
+<figcaption>Instructional Shaving Card</figcaption>
+
+<p>A helpful instructional shaving card is also included to help you do the correct steps in achieving that perfect shave.</p>
 
 <br>
 
