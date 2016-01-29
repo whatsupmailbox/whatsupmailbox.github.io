@@ -166,7 +166,7 @@ date: 2016-1-29 09:05:00 -08:00
 </a></center>
 <p>The razor is completely assembled and looks great! See how simple it was, it wasn't hard at all ;)</p>
 
-<p>I actually used the razor in the shower already and I gotta say, it glides on really smooth. I didn’t feel it scraping my skin like typical razor sticks feel for me. Due note that with safety razors, pressure does not need to be applied, so just glide the razor onto your skin and it'll do the job. And it really did. I’m super impressed and really loving this style of razor, and the sleek and chic way the shaver looks is definitely an added bonus!</p>
+<p>I actually used the razor in the shower already and I gotta say, it glides on really smooth. I didn’t feel it scraping my skin like typical shaving sticks feel for me. Do note that with safety razors, pressure does not need to be applied, so just glide the razor onto your skin and it'll do the job. And it really did. I’m super impressed and really loving this style of razor, and the sleek and chic way the shaver looks is definitely an added bonus!</p>
 
 <br>
 
