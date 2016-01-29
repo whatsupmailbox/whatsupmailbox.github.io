@@ -169,7 +169,7 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxVieLongSafetyRazor8.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>You see how it perfectly fits, if that is the case then you've done it and it's ready to be enclosed. After the casing is assembled again, you can then attached the handle to the razor head and start twisting it clockwise to close the butterfly head. Your razor is now ready to be used!</p>
+<p>You see how perfectly it fits, if that's the case then you've done it and it's ready to be enclosed. After the casing is assembled again, you can then attached the handle to the razor head and start twisting it clockwise to close the butterfly head. Your razor is now ready to be used!</p>
 
 <br>
 
