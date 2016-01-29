@@ -73,6 +73,8 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxInfo2.jpg" border="0" style="border:none;max-width:100%;" alt="Razor Instructional Card" /></a></center>
 <figcaption>Instructional Shaving Card</figcaption>
 
+<br>
+
 <p>A helpful instructional shaving card is also included to help you do the correct steps in achieving that perfect shave.</p>
 
 <br>
