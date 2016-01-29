@@ -22,7 +22,7 @@ date: 2016-02-01 09:31:39 -08:00
 <p><b>Subscription:</b> <a href="http://fbuy.me/dksQC" target="_blank">NatureBox</a></p>
 <p><b>Cost:</b> 3 snacks for $13.95 OR 5 snacks for $19.95 / month + Free Shipping</p>
 <p><b>What's in the box:</b> Every month you get to choose 3 or 5 full-sized packages of healthy snacks from their ever changing selections. You can also schedule the delivery to any date or frequency you prefer through your online account, and cancelling can be done online as well.</p>
-<p><b>Coupon:</b> Get your first box at <a href="http://fbuy.me/dksQC" target="_blank">50% Off through this link</a>. That's only $6.97 for 3-snacks or $9.97 for 5-snacks plus Free Shipping!</p>
+<p><b>Coupon:</b> Get your <a href="http://fbuy.me/dksQC" target="_blank">first box at 50% off through this link</a>. That's only $6.97 for 3-snacks or $9.97 for 5-snacks plus Free Shipping!</p>
 <br>
 
 <DT>This review is for the <i>Taste Snacker Box (3 snacks)</i>.</DT>
