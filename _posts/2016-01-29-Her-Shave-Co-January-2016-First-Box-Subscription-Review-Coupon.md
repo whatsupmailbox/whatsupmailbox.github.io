@@ -150,6 +150,9 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxVieLongSafetyRazor7.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
+<center><a href="http://www.hershaveco.com" target="_blank">
+<img src="/images/HerShaveCoFirstBoxVieLongSafetyRazor8.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 <br>
 
 <p>Now the casing is ready for you to insert the blades into. Carefully take a new blade, holding it by the ends only, and simply allign it with the mounting posts and insert just like below:</p>
