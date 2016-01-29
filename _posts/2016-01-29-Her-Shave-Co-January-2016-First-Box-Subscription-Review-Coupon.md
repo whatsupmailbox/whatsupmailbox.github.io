@@ -152,12 +152,12 @@ date: 2016-1-29 09:05:00 -08:00
 
 <br>
 
-<p>Now the casing is ready for you to insert the blades into. Carefully take a new blade, holding it by the ends only, and simply allign it with the holes on the casing just like below:</p>
+<p>Now the casing is ready for you to insert the blades into. Carefully take a new blade, holding it by the ends only, and simply allign it with the mounting posts and insert just like below:</p>
 <center><a href="http://www.hershaveco.com" target="_blank">
 <img src="/images/HerShaveCoFirstBoxVieLongSafetyRazor5.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>You see how the holes are perfectly alligned, if that is the case then you've done it and it's ready to be enclosed. After the casing is assembled again, you can then attached the handle by twisting it clockwise and it will close the butterfly head and your razor is now ready to use!</p>
+<p>You see how it perfectly fits, if that is the case then you've done it and it's ready to be enclosed. After the casing is assembled again, you can then attached the handle by twisting it clockwise and it will close the butterfly head and your razor is now ready to used!</p>
 
 <br>
 
