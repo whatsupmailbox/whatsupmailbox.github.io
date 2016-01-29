@@ -120,7 +120,7 @@ date: 2016-1-29 09:05:00 -08:00
 </a></center>
 
 <DL>
-<DT>Vie-Long Razor</DT>
+<DT>Vie-Long Safety Razor</DT>
 </DL>
 
 <p>This razor looks super swanky indeed. I like how it doesn't feel heavy and the length is also perfect for my hands.</p>
