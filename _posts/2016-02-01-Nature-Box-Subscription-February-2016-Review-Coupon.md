@@ -55,7 +55,7 @@ date: 2016-02-01 09:31:39 -08:00
 <DT>Strawberry Greek Yogurt Pretzels</DT>
 <DD>Net Wt. 4 oz</DD>
 </DL>
-<p>OMG, these pretzels taste amazing! It's crunchy, sweet, fruity, and salty all in one! The strawberry flavor burst with abundance as soon as it enters in your mouth, then once you crunch on it, you immediately taste the salty goodness of the pretzel. I literally had to stop myself from finishing this bag in one sitting!</p>
+<p>OMG, these pretzels taste amazing! It's crunchy, sweet, fruity, and salty all in one! The strawberry flavor bursts with abundance as soon as it enters in your mouth, then once you crunch on it, you immediately taste the salty goodness of the pretzel. I literally had to stop myself from finishing this bag in one sitting!</p>
 <p><a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> also offers this in Blueberry flavor which is what I'll be ordering next =P</p>
 <br>
 
@@ -69,7 +69,7 @@ date: 2016-02-01 09:31:39 -08:00
 <DT>Salt & Pepper Lentil Loops</DT>
 <DD>Net Wt. 3 oz</DD>
 </DL>
-<p>This is one of my favorite snacks from them and a permanent recurring item in my snack pantry. Trader Joe's has a version of these lentil loops, but <a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> steps it up a notch by adding pepper in the flavor which may not seem like a big deal, but wow, it really makes a difference in flavor. I only wish they made this in a bigger bag because I end up finishing this in 2 sittings, ooops.</p>
+<p>This is one of my favorite snacks from them and a permanent recurring item in my snack pantry. Trader Joe's has a version of these lentil loops, but <a href="http://fbuy.me/dksQC" target="_blank">Nature Box</a> steps it up a notch by adding pepper in the flavor which may not seem like a big deal, but wow, it really makes a difference in flavor. I only wish they made this in a bigger bag because I end up finishing it in 2 sittings, ooops.</p>
 <br>
 
 <center><a href="http://fbuy.me/dksQC" target="_blank">
