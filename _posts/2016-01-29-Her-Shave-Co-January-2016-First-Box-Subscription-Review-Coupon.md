@@ -46,7 +46,7 @@ date: 2016-1-29 09:05:00 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>Items are nicely wrapped in pink tissue paper and sealed with a sticker.</p>
+<p>Items are nicely wrapped in pastel pink tissue paper and sealed with a sticker.</p>
 
 <br>
 
@@ -58,7 +58,7 @@ date: 2016-1-29 09:05:00 -08:00
 
 <br>
 
-<p>Here's a closer look at the razor instruction card:</p>
+<p>Here's a closer look at the razor manual:</p>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
 <img src="/images/HerShaveCoFirstBoxInfo.jpg" border="0" style="border:none;max-width:100%;" alt="Razor Instructional Card" /></a></center>
@@ -166,7 +166,7 @@ date: 2016-1-29 09:05:00 -08:00
 </a></center>
 <p>The razor is completely assembled and looks great! See how simple it was, it wasn't hard at all ;)</p>
 
-<p>I actually used the razor in the shower already and I gotta say, it glides on really smooth. I didn’t feel it scraping my skin like typical shaving sticks feel for me. Do note that with safety razors, pressure does not need to be applied, so just glide the razor onto your skin and it'll do the job. And it really did. I’m super impressed and really loving this style of razor, and the sleek and chic way the shaver looks is definitely an added bonus!</p>
+<p>I actually used the razor in the shower already and I gotta say, it glides on really smooth. I didn’t feel it scraping my skin like typical plastic shaving sticks feel for me. One thing to note is that with these safety razors, you don't need to apply any pressure when shaving, just glide the razor on your skin and it'll do the job. And it really did. Even along the curves of my knees it provided a close and clean shave without any knicks or cuts or irritation. I’m super impressed and really loving this style of razor, and the sleek and chic look of it is definitely an added bonus. I can now shave in style!</p>
 
 <br>
 
@@ -178,7 +178,7 @@ date: 2016-1-29 09:05:00 -08:00
 <DT><b>Her Shave Co.</b> Shave Brush</DT>
 </DL>
 
-<p>This shaving brush is made of synthetic hair. It's fluffy, it's soft and it fits my hands just fine.</p>
+<p>This shaving brush is made of synthetic bristles. It's fluffy, it's soft and it fits my hands just fine.</p>
 
 <br>
 
@@ -186,7 +186,7 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxShavingBrush2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>So far I haven't noticed any shedding and hope that's the case as I use this more. And for those of you who have not used a shaving brush before, the way to use it is to wet the brush with warm water, shake off the excess water, then swirl it into the soap to gather the right amount of product. After my brush had soap on it, I brushed it along my legs and it really did apply the product smoothly and evenly, I was pleasantly surprised. I can totally get used to this!</p>
+<p>So far I haven't noticed any shedding and hope that remains true as I use this more. And for those of you who have not used a shaving brush before, the way to use it is to wet the brush with warm water, shake off the excess water, then swirl it into the soap to gather the right amount of product. After my brush had soap on it, I brushed it along my legs and it really did apply the product smoothly and evenly, I was pleasantly surprised. I can totally get used to this!</p>
 
 <br>
 
@@ -198,7 +198,7 @@ date: 2016-1-29 09:05:00 -08:00
 <DT><b>Tiki Bar Soap</b> Vegan Shaving Soap in Spiced Candy Apple</DT>
 </DL>
 
-<p>This soap smells great, just like sweet apples. It's not too strong, which is great for me since I can be a bit sensitive when it comes to scents.</p>
+<p>This soap smells great, just like sweet apples. It's not too strong, which is great for me since I can be a bit sensitive when it comes to fragrances.</p>
 
 <br>
 
@@ -206,10 +206,10 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxSpicedAppleSoap2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The consistency is slightly creamy and has a bit of a whipped texture as well. The shaving brush picked up the product with ease and it lathered up well when I brushed it onto my skin. What a great soap to include!</p>
+<p>The consistency of this soap is slightly creamy and has a bit of a whipped texture as well. I also like the fact that because of its texture and the tube that it came in, you can directly swirl the shaving brush into the jar. No need for a separate mug like other shaving soaps require. When I used it, the shaving brush picked up the product with ease and it lathered up well when I brushed it onto my skin. What a great soap to include!</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so happy I got to try this box out, I'm really loving this safety razor! The brush was a perfect addition to the experience, as well as the soap. I really do think this is such a great shaving box to have. If you've never shaved with a safety razor before, I totally recommend for you to try this box out and see the difference for yourself.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am so happy I got to try this box out, I'm really loving this safety razor! The brush was a perfect addition to the experience, as well as the soap. I really do think this is such a great shaving box to have, especially if you routinely shave or are into wet shaving. If you've never tried a safety razor before, I totally recommend for you to try this box out and see the difference for yourself. It's such a great intro box that has everything you need to start shaving smoothly =)</p>
 
 <p>Not a subscriber? Get $5 off your first month of Her Shave Co. with coupon code <a href="http://www.hershaveco.com">FIRSTSHAVE</a> and start shaving in style!</p>
