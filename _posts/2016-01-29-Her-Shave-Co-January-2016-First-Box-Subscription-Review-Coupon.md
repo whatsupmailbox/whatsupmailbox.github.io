@@ -203,7 +203,7 @@ date: 2016-1-29 09:05:00 -08:00
 <br>
 
 <center><a href="http://www.hershaveco.com" target="_blank">
-<img src="/images/HerShaveCoFirstBoxSpicedAppleSoap.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/HerShaveCoFirstBoxSpicedAppleSoap2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>The consistency is slightly creamy and has a bit of a whipped texture as well. The shaving brush picked up the product with ease and it lathered up well when I brushed it onto my skin. What a great soap to include!</p>
