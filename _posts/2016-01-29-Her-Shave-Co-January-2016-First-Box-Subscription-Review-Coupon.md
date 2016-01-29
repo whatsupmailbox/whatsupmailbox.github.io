@@ -46,7 +46,7 @@ date: 2016-1-29 09:05:00 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>Items are nicely wrapped in pink tissue paper and sealed with a motivating sticker.</p>
+<p>Items are nicely wrapped in pink tissue paper and sealed with a sticker.</p>
 
 <br>
 
