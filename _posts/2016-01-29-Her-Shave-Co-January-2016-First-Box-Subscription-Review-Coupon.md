@@ -15,6 +15,8 @@ tags: [Rocksbox, Subscriptions, Reviews, Coupons, January 2016]
 date: 2016-1-29 09:05:00 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
+
 <center><a href="http://www.hershaveco.com" target="_blank">
 <img src="/images/HerShaveCoFirstBox.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co." />
 </a></center>
