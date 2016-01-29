@@ -214,7 +214,7 @@ date: 2016-1-29 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxSpicedAppleSoap2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The consistency of this soap is slightly creamy and has a bit of a whipped texture as well. I also like the fact that because of its texture and the tube that it came in, you can directly swirl the shaving brush into the jar. No need for a separate mug like other shaving soaps require. When I used it, the shaving brush picked up the product with ease and it lathered up well when I brushed it onto my skin. What a great soap to include!</p>
+<p>The consistency of this soap is slightly creamy and has a bit of a whipped texture as well. I also like the fact that because of its texture and the tube that it came in, you can directly swirl the shaving brush into the jar. No need for a separate mug like other wet shaving soaps require. When I used it, the shaving brush picked up the product with ease and it lathered up well when I brushed it onto my skin. What a great soap to include!</p>
 
 <br>
 
