@@ -22,7 +22,7 @@ date: 2016-1-30 09:05:00 -08:00
 
 # Her Shave Co. Giveaway
 
-<p>Get a FREE Her Shave Co. Starter Box by following the steps below:</p>
+<p>Enter for a chance to win a FREE Her Shave Co. Starter Box! All you have to do is:</p>
 <ul>
 <li>Follow and like the Giveaway post on one of these social platforms (the more platforms you enter the better your chance!):
 <p></p>
