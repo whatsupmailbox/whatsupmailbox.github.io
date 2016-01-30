@@ -14,7 +14,7 @@ tags: [Birchbox, Subscriptions, Reviews, Coupons, January 2016]
 date: 2016-1-28 15:45:00 -08:00
 ---
 
-<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<center><a href="https://www.hershaveco.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/GiveawayHerShaveCoJan2016.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co Giveaway!" />
 </a></center>
 
@@ -31,9 +31,15 @@ date: 2016-1-28 15:45:00 -08:00
 <li>Tag a friend that needs a smooth shave using hashtag #ladyshaver on the posts!</li>
 </ul>
 
-<p>Winner will receive the starter "First Box". <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Her-Shave-Co-January-2016-First-Box-Subscription-Review-Coupon/" target="_blank">Checkout my review of this box to see what you'll be getting!</a></p>
+<br>
 
-<p>Entries are excepted until Saturday, February 6th and the winner will be announced on social media Sunday morning. Applies to US and Canadian residents.</p>
+<p>Winner will receive the starter "First Box" which will have the items below. Or, <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Her-Shave-Co-January-2016-First-Box-Subscription-Review-Coupon/" target="_blank">checkout my review of this box to see what you'll be getting!</a></p>
+
+<center><a href="https://www.hershaveco.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/HerShaveCoFirstBoxItems.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co First Box Items!" />
+</a></center>
+
+<p>Entries are excepted until Saturday, February 6th and the winner will be announced on social media the following Sunday morning. Applies to US and Canadian residents.</p>
 
 <p>Good luck everyone!!!</p>
 
