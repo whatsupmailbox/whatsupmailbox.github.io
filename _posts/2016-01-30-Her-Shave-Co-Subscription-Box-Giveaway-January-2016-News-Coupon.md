@@ -4,14 +4,14 @@ published: false
 categories: 
     - Subscriptions
     - Coupons
-title: Birchbox January 2016 Review + Coupon!
+title: GIVEAWAY - Win a Her Shave Co. Box!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxJan2016Items.jpg
-headline: Birchbox January 2016 Review + Coupon!
-tags: [Birchbox, Subscriptions, Reviews, Coupons, January 2016]
-date: 2016-1-28 15:45:00 -08:00
+imagefeature: GiveawayHerShaveCoJan2016.jpg
+headline: GIVEAWAY - Win a Her Shave Co. Box!
+tags: [Her Shave Co, Giveaways, Coupons, January 2016]
+date: 2016-1-30 09:05:00 -08:00
 ---
 
 <center><a href="https://www.hershaveco.com/invite/whatsupmailbox" target="_blank">
