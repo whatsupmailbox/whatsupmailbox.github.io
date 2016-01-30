@@ -45,7 +45,7 @@ date: 2016-1-30 09:05:00 -08:00
 <img src="/images/HerShaveCoFirstBoxItems.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co First Box Items!" />
 </a></center>
 
-<p>Entries are excepted until Saturday, February 6th and the winner will be announced on social media the following Sunday morning. Applies to US and Canadian residents.</p>
+<p>Entries are excepted until Saturday, February 6, 2016 and the winner will be announced on social media the following Sunday morning. Applies to US and Canadian residents.</p>
 
 <p><H4>Good luck everyone!!!</H4></p>
 
