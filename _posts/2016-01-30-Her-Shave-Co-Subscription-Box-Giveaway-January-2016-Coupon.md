@@ -47,7 +47,7 @@ date: 2016-1-30 09:05:00 -08:00
 
 <p>Entries are excepted until Saturday, February 6th and the winner will be announced on social media the following Sunday morning. Applies to US and Canadian residents.</p>
 
-<p><font size="6">Good luck everyone!!!</font></p>
+<p><H4>Good luck everyone!!!</H4></p>
 
 <br>
 
