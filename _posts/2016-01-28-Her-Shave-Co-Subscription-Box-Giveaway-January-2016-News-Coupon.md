@@ -28,7 +28,7 @@ date: 2016-1-28 15:45:00 -08:00
     <p>Facebook: <a href="http://facebook.com/whatsupmailbox" target="_blank">What's Up Mailbox</a> and <a href="http://facebook.com/hershaveco" target="_blank">Her Shave Co.</a></p>
 </li>
 
-<li>Tag a friend that needs a smooth shave using hashtag #ladyshaver ont he posts</li>
+<li>Tag a friend that needs a smooth shave using hashtag #ladyshaver on the posts!</li>
 </ul>
 
 <p>Winner will receive the starter "First Box". <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Her-Shave-Co-January-2016-First-Box-Subscription-Review-Coupon/" target="_blank">Checkout my review of this box to see what you'll be getting!</a></p>
