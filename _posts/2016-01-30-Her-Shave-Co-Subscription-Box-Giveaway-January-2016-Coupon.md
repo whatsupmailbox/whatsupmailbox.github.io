@@ -14,6 +14,8 @@ tags: [Her Shave Co, Giveaways, Coupons, January 2016]
 date: 2016-1-30 09:05:00 -08:00
 ---
 
+<i><font size="2">Disclosure: This Giveaway is sponsored by Her Shave Co. No affiliate links were used.</font></i>
+
 <center><a href="https://www.hershaveco.com/invite/whatsupmailbox" target="_blank">
 <img src="/images/GiveawayHerShaveCoJan2016.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co Giveaway!" />
 </a></center>
@@ -45,7 +47,7 @@ date: 2016-1-30 09:05:00 -08:00
 
 <p>Entries are excepted until Saturday, February 6th and the winner will be announced on social media the following Sunday morning. Applies to US and Canadian residents.</p>
 
-<p>Good luck everyone!!!</p>
+<p><font size="6">Good luck everyone!!!</font></p>
 
 <br>
 
