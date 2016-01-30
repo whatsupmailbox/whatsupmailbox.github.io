@@ -53,9 +53,9 @@ date: 2016-1-30 09:05:00 -08:00
 
 ## What's Her Shave Co.?
 
-<p><b>Subscription:</b> <a href="https://www.hershaveco.com" target="_blank">Her Shave Co.</a></p>
-<p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
-<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
+<p><b>Subscription:</b> <a href="http://www.hershaveco.com" target="_blank">Her Shave Co.</a></p>
+<p><b>Cost:</b> $24.95/monthly + Free Shipping</p>
+<p><b>What's in the box:</b> When you first subscribe, you'll receive their starter "First Box" which will come equipped with everything you need to get you started on the road to a great shave. Items will include a Vie-Long safety razor, a shaving brush, shaving cream, and replacement blades, along with welcome and instructional cards.</p>
 <p><b>Coupon:</b> Use coupon code <a href="https://www.hershaveco.com" target="_blank"><big>SHAVE20</big></a> and get 20% off your first box!</p>
 
 <p>HER SHAVE CO. is a monthly subscription box for women who desire the world's best shave in all the right areas! Why do men get to have all the fun with shaving clubs? We can too now with Her Shave Co!</p>
