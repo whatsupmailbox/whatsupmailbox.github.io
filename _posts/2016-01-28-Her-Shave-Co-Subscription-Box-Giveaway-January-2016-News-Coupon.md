@@ -20,7 +20,7 @@ date: 2016-1-28 15:45:00 -08:00
 
 # Her Shave Co. Giveaway
 
-<p>Get a FREE Her Shave Co. box by following the steps below:</p>
+<p>Get a FREE Her Shave Co. Starter Box by following the steps below:</p>
 
 <p><i class="icon-circle-arrow-right"></i> Must like @whatsupmailbox and @hershaveco on Instagram/Facebook or follow on Twitter</p>
 <p><i class="icon-circle-arrow-right"></i>Tag a friend that needs a smooth shave using hashtag #ladyshaver</p>
