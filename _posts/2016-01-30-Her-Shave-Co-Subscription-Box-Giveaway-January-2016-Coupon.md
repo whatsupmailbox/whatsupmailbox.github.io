@@ -22,7 +22,8 @@ date: 2016-1-30 09:05:00 -08:00
 
 <p>Get a FREE Her Shave Co. Starter Box by following the steps below:</p>
 <ul>
-<li>Follow and like the Giveaway post on one of these social platforms (the more platforms the better your chance!):
+<li>Follow and like the Giveaway post on one of these social platforms (the more platforms you enter the better your chance!):
+<p></p>
 <p>Twitter: <a href="https://twitter.com/whatsupmailbox" target="_blank">@whatsupmailbox</a> and <a href="https://twitter.com/hershaveco1" target="_blank">@hershaveco1</a></p>
 <p>Instagram: <a href="https://www.instagram.com/whatsupmailbox/" target="_blank">@whatsupmailbox</a> and <a href="https://www.instagram.com/hershaveco/" target="_blank">@hershaveco</a></p>
 <p>Facebook: <a href="http://facebook.com/whatsupmailbox" target="_blank">What's Up Mailbox</a> and <a href="http://facebook.com/hershaveco" target="_blank">Her Shave Co.</a></p>
