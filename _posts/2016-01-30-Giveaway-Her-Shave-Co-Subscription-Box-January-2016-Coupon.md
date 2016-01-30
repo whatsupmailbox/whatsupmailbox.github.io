@@ -16,13 +16,13 @@ date: 2016-1-30 09:05:00 -08:00
 
 <i><font size="2">Disclosure: This Giveaway is sponsored by Her Shave Co. No affiliate links were used.</font></i>
 
-<center><a href="https://www.hershaveco.com/invite/whatsupmailbox" target="_blank">
+<center><a href="https://www.hershaveco.com" target="_blank">
 <img src="/images/GiveawayHerShaveCoJan2016.jpg" border="0" style="border:none;max-width:100%;" alt="Her Shave Co Giveaway!" />
 </a></center>
 
 # Her Shave Co. Giveaway
 
-<p>Enter for a chance to win a FREE Her Shave Co. Starter Box! All you have to do is:</p>
+<p>Enter for a chance to win a FREE <a href="https://www.hershaveco.com" target="_blank">Her Shave Co.</a> Starter Box! All you have to do is:</p>
 <ul>
 <li>Follow and like the Giveaway post on one of these social platforms (the more platforms you enter the better your chance!):
 <p></p>
