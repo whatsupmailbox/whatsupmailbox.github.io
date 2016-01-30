@@ -51,17 +51,12 @@ date: 2016-1-30 09:05:00 -08:00
 
 <br>
 
-<H4>Another chance at winning by subscribing!</H4>
-<p>If you subscribe using coupon code <big>SHAVE20</big>, not only will you get 20% off your first box, but you'll also get a chance to win your first box FREE! <i>* Winner will receive 100% full refund of their box.</i> Remember, be sure to enter coupon code <b>SHAVE20</b> to be eligable.</p>
-
-<br>
-
 ## What's Her Shave Co.?
 
 <p><b>Subscription:</b> <a href="https://www.hershaveco.com" target="_blank">Her Shave Co.</a></p>
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://www.hershaveco.com" target="_blank"><big>SHAVE20</big></a> and get 20% off your first box plus be entered to win your first box FREE!</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://www.hershaveco.com" target="_blank"><big>SHAVE20</big></a> and get 20% off your first box!</p>
 
 <p>HER SHAVE CO. is a monthly subscription box for women who desire the world's best shave in all the right areas! Why do men get to have all the fun with shaving clubs? We can too now with Her Shave Co!</p>
 
