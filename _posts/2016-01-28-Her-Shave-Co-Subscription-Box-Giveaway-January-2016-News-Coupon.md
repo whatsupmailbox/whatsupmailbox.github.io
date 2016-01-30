@@ -57,7 +57,7 @@ date: 2016-1-28 15:45:00 -08:00
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b> Use coupon code <a href="https://www.hershaveco.com" target="_blank"><big>SHAVE20</big></a> and get 20% off your first box plus be entered to win your first box FREE!</p>
 
-<p>HER SHAVE CO. is a monthly subscription box for women who desire the world's best shave in all the right areas! Why do men get to have all the fun with shaving clubs? We can to know with Her Shave Co!</p>
+<p>HER SHAVE CO. is a monthly subscription box for women who desire the world's best shave in all the right areas! Why do men get to have all the fun with shaving clubs? We can too now with Her Shave Co!</p>
 
 <p>To see what you'll be getting as your first box, <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Her-Shave-Co-January-2016-First-Box-Subscription-Review-Coupon/" target="_blank">checkout my January 2016 box review of Her Shave Co. here!</a></p>
 
