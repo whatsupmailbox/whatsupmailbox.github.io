@@ -8,7 +8,7 @@ title: Birchbox Gift With Subscription - Free Mally Evercolor Shadow Stick!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxFeb2016GWS.jpg
+imagefeature: BirchboxFeb2016GWS2.jpg
 headline: Birchbox Gift With Subscription - Free Mally Evercolor Shadow Stick!
 tags: [Birchbox, Coupons, February 2016]
 date: 2016-02-02 16:18:00 -08:00
