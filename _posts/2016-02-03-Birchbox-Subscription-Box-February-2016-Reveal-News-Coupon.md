@@ -8,7 +8,7 @@ title: Birchbox February 2016 Reveals Are Up!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxFeb2016RevealBox.jpg
+imagefeature: BirchboxFeb2016RevealBox.png
 headline: Birchbox February 2016 Reveals Are Up!
 tags: [Birchbox, Coupons, February 2016]
 date: 2016-02-03 09:18:00 -08:00
