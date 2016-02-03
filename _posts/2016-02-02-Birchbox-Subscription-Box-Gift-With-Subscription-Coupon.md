@@ -8,7 +8,7 @@ title: Birchbox Gift With Subscription - Free Mally Evercolor Shadow Stick!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxFeb2016GWS.png
+imagefeature: BirchboxFeb2016GWS.jpg
 headline: Birchbox Gift With Subscription - Free Mally Evercolor Shadow Stick!
 tags: [Birchbox, Coupons, February 2016]
 date: 2016-02-02 16:18:00 -08:00
@@ -36,7 +36,9 @@ date: 2016-02-02 16:18:00 -08:00
 <img src="/images/BirchboxLogo.png" border="0" style="border:none;max-width:100%;" alt="Birchbox!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox Man</a></p>
-<p><b>Cost:</b> $20/monthly + Free Shipping (taxes apply to CA)</p>
-<p><b>What's in the box:</b> Each month, your box will feature a range of top-shelf grooming samples—from heritage shave creams to woodsy cologne—plus a full-size product like a gadget, bar tool, or stylish accessory.</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">WRITEIT</a> to receive two free Field Notes pen and a Notebook with your new subscription!</p>
+<p><b>Subscription:</b> <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a></p>
+<p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
+<p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
+<p><b>Coupon:</b></p>
+* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">MALLYGIFT</a> at checkout to receive a free full-size Mally Evercolor Shadow Stick in Copper Rose ($25 value) with your first box! This offer ends February 24, 2016.
+* Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
