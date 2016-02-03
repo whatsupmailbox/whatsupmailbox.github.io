@@ -23,7 +23,7 @@ date: 2016-1-21 15:45:00 -08:00
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">LOVEGWS</a> at checkout to receive a free Jurlique Love Balm (a $10 value) with your first box! This offer ends January 24, 2015.
+* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">LOVEGWS</a> at checkout to receive a free Jurlique Love Balm (a $10 value) with your first box! This offer ends January 24, 2016.
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
 
 <br>
