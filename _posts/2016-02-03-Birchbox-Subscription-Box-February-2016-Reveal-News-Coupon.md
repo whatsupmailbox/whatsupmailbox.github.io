@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Coupons
@@ -8,7 +8,7 @@ title: Birchbox February 2016 Reveals Are Up!
 featured: false
 comments: true
 type: photo
-imagefeature: BirchboxFeb2016GWS2.jpg
+imagefeature: BirchboxFeb2016RevealBox.jpg
 headline: Birchbox February 2016 Reveals Are Up!
 tags: [Birchbox, Coupons, February 2016]
 date: 2016-02-03 09:18:00 -08:00
