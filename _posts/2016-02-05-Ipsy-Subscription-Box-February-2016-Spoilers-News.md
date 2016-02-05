@@ -23,7 +23,7 @@ date: 2016-2-05 12:33:39 -08:00
 
 <br>
 
-<p>You can get early access to your Glam Bag if you share on social media, so I did and here are the items I will be getting:</p>
+<p>You can get early access to your Glam Bag if you share on social media, so I did and here are the items I'll be receiving this month:</p>
 
 <br>
 
