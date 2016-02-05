@@ -135,13 +135,13 @@ date: 2016-2-5 08:01:39 -08:00
 <DD>Value $50</DD>
 </DL>
 
-<p>I received a bracelet from this jeweler before and her designs are quite unique. This gold chain bracelet has a fresh water pearl chip as the charm and is delicate, simple yet feminine in design.</p>
+<p>I received a bracelet from this jeweler before and her designs are quite unique. This one in particular is a Oui Please exclusive design. With a delicate gold chain and a fresh water pearl chip as the charm, this is both simple yet feminine which is just my type of bracelet.</p>
 
 <p>Here's a picture of the bracelet on me:</p>
 
 <center><img src='/images/OuiPleaseVol16TassiaCannelisBracelet3.jpg'></center>
 
-<p>I have petite arms so it looks good on me, but I'm not sure it'll look as good on people with bigger arms, but that's just my opinion. This can be worn either by itself for a casual yet chic outfit, or layered for a more prominent look.</p>
+<p>I love how it looks on and I can totally wear this either by itself for a casual yet chic outfit, or layered for a more prominent look.</p>
 
 <br>
 
