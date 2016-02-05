@@ -135,7 +135,7 @@ date: 2016-2-5 09:01:39 -08:00
 <DD>Value $50</DD>
 </DL>
 
-<p>I received a bracelet from this jeweler before and her designs are quite unique. This gold chain bracelet has a fresh water pearl chip as the charm. With a white pearl disk on it, this particular bracelet is delicate, simple yet feminine in design.</p>
+<p>I received a bracelet from this jeweler before and her designs are quite unique. This gold chain bracelet has a fresh water pearl chip as the charm and is delicate, simple yet feminine in design.</p>
 
 <p>Here's a picture of the bracelet on me:</p>
 
