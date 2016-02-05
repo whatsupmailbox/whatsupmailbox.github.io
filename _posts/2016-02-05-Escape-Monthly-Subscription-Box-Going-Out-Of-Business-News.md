@@ -3,7 +3,6 @@ layout: post
 published: true
 categories: 
     - Subscriptions
-    - Reviews
 title: Escape Monthly No Longer In Business
 featured: false
 comments: true
