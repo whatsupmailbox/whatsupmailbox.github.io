@@ -153,7 +153,7 @@ date: 2016-2-5 08:01:39 -08:00
 
 <p><i>Note: This tube did not come sealed.</i></p>
 
-<p>.This moisturizer is made of 100% naturally derived ingredients, so it's free of parabens, phtalates and fragrance too. It's also anti-aging and detoxifying, and will help your skin achieve a healthy and glowing texture. I can't wait to try this!</p>
+<p>This moisturizer is made of 100% naturally derived ingredients, so it's free of parabens, phtalates and fragrance too. It's also anti-aging and detoxifying, and will help your skin achieve a healthy and glowing texture. I can't wait to try this!</p>
 
 <br>
 
