@@ -101,7 +101,7 @@ date: 2016-2-5 09:01:39 -08:00
 
 <br>
 
-<p>Unfortunately this ring is too big for my petite fingers. I even tried it on with my thumb as you can see. There's no sizing stated since the ring only came inside a red jewelry pouch with no brand packaging or info at all. But I did measure and the diameter is about 1.67cm which translates to size 7. Way too big for my fingers, so so sad. I really wanted to wear this! Oh well, I'll probably trade this with another subscriber or end up gifting it (sad face).</p>
+<p>So yeah, unfortunately this ring is too big for my petite fingers. I even tried it on with my thumb as you can see. There's no sizing stated since the ring only came inside a red jewelry pouch with no brand packaging or info at all. But I did measure and the diameter is about 1.67cm which translates to size 7. Way too big for my size 4 fingers (yes, I'm that petite), so so sad. I really wanted to wear this! Oh well, I'll probably trade this with another subscriber or end up gifting it (sad face).</p>
 
 <br>
 
