@@ -164,7 +164,7 @@ date: 2016-2-5 08:01:39 -08:00
 </DL>
 
 <p><i>Note: This lotion did not come sealed.</i></p>
-<p>I can never have enough body lotions and I love the simple yet chic packaging of this one in particular. The scent is quite exotic and yet very feminine at the same time. I applied it to my hands and it applied really smooth then it dries quickly and left my skin silky smooth. I kid you not. I only used it on one hand to compare and wow, there was quite a difference. They also suggest that you can pour some of this moisturizer into your bathwater for a Cleopatra-style beauty experience and I can't wait to try that out! I'm totally in love with this lotion!</p>
+<p>I can never have enough body lotions and I love the simple yet chic packaging of this one in particular. The scent is quite exotic and yet very feminine at the same time. I applied it to my hand and it went on really smooth, then it quickly dried and left my skin silky smooth. I kid you not. I only used it on one hand to compare and wow, there was quite a difference. They also suggest another use for this moisturizer which is to pour some of it into your bathwater for a Cleopatra-style beauty experience. That sounds like a plan and I can't wait to try that out!</p>
 
 <br>
 
