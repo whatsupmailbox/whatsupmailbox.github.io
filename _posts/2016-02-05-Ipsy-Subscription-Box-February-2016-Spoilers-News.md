@@ -37,7 +37,7 @@ date: 2016-2-05 12:33:39 -08:00
 
 <br>
 
-<H4>What's Ipsy?</p>
+<H4>What's Ipsy?</H4>
 
 <p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
 <p><b>Cost:</b> $10/monthly + Free Shipping</p>
