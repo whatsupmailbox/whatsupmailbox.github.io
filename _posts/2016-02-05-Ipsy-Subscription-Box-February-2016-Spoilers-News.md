@@ -25,13 +25,15 @@ date: 2016-2-05 12:33:39 -08:00
 
 <p>You can get early access to your Glam Bag if you share on social media, so I did and here are the items I will be getting:</p>
 
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016MySpoilerItems.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy February 2016 Items" />
 </a></center>
 
 <br>
 
-<p>I can't say that I'm too excited about this month's items, I was really hoping for a Trust Fund Beauty nail polish, but Ciate is good too so I'l reserve my complete judgement until I have all the items on hand and test them out. What are you getting in your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month?</p>
+<p>I can't say that I'm too excited about this month's items, I was really hoping for a Trust Fund Beauty nail polish, but Ciate is good too so I'll reserve my complete judgement until I have all the items on hand and test them out. What are you getting in your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month?</p>
 
 <br>
 
