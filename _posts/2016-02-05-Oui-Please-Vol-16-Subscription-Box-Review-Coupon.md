@@ -141,7 +141,7 @@ date: 2016-2-5 09:01:39 -08:00
 
 <center><img src='/images/OuiPleaseVol16TassiaCannelisBracelet3.jpg'></center>
 
-<p>I have petite arms so it looks okay on me, but I'm not sure it'll look as good with people with bigger arms, but that's just my opinion. This will look good by itself for a casual yet chic outfit, or layered for a more prominent look.</p>
+<p>I have petite arms so it looks good on me, but I'm not sure it'll look as good on people with bigger arms, but that's just my opinion. This can be worn either by itself for a casual yet chic outfit, or layered for a more prominent look.</p>
 
 <br>
 
