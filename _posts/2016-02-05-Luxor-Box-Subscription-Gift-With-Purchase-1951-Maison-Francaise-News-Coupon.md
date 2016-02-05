@@ -37,4 +37,4 @@ date: 2016-2-5 11:05:39 -08:00
 
 <br>
 
-<p>Checkout my <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-January-2016-Review" target="_blank">January 2016 Luxor Box review to see what you could be getting!</p>
+<p>Checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Luxor-Box-Subscription-January-2016-Review" target="_blank">my January 2016 Luxor Box review</a> to see what you could be getting!</p>
