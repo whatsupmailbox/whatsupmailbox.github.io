@@ -72,10 +72,12 @@ date: 2016-2-5 09:01:39 -08:00
 <p>Oui Please always includes a catalog magazine listing all the items that were included for the current Volume box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.</p>
 <br>
 
+<p>Here's a look at some of the pages:</p>
+<br>
+
 <center><img src='/images/OuiPleaseVol16Info2.jpg'></center>
 <center><img src='/images/OuiPleaseVol16Info3.jpg'></center>
 <center><img src='/images/OuiPleaseVol16Info4.jpg'></center>
-<figcaption>A few pages from inside the catalog</figcaption>
 
 <br>
 
