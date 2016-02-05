@@ -25,7 +25,7 @@ date: 2016-2-5 09:01:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://ouipleasebox.com" target="_blank"><b>OUIWHATSUP</b></a> to get 20% off any subscription, that's such a good deal!</p>
 <br>
 
-<p>I have been waiting forever for this box to arrive so I was beyond ecstatic when I finally saw this beautiful big black box on my doorstep!</p>
+<p>I have been waiting forever for this box to arrive so I was beyond ecstatic when I finally saw this big beautiful black box on my doorstep!</p>
 <br>
 
 <center><H2>Oui Please VOL. 1.6: White Winter In The Alps</H2></center>
