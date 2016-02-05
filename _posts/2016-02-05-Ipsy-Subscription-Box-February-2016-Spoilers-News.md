@@ -15,7 +15,34 @@ imagefeature: "IpsyFeb2016MySpoilerItems.jpg"
 date: 2016-2-05 12:33:39 -08:00
 ---
 
-<center><img src="/images/IpsyFeb2016Spoilers.jpeg"></center>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyFeb2016Spoilers.jpeg" border="0" style="border:none;max-width:100%;" alt="Ipsy February 2016 Spoilers" />
+</a></center>
 
-<p>Ipsy spoilers have been coming out lately and each subscriber will be getting one of the items from the picture above. You can get early access to your Glam Bag if you share on social media, so I did and here are the items I will be getting:</p>
+<p>Ipsy spoilers have been coming out lately and each subscriber will be getting one of the items from the picture above.</p>
 
+<br>
+
+<p>You can get early access to your Glam Bag if you share on social media, so I did and here are the items I will be getting:</p>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyFeb2016MySpoilerItems.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy February 2016 Items" />
+</a></center>
+
+<br>
+
+<p>I can't say that I'm too excited about this month's items, I was really hoping for a Trust Fund Beauty nail polish, but Ciate is good too so I'l reserve my complete judgement until I have all the items on hand and test them out. What are you getting in your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month?</p>
+
+<br>
+
+<H4>What's Ipsy?</p>
+
+<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
+<p><b>Cost:</b> $10/monthly + Free Shipping</p>
+<p><b>What's in the box:</b> You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
+<br>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyJan2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
+</a></center>
+<p>Ipsy always ships their bags in bright neon pink padded envelopes, it's hard to miss it in your mailbox!</p>
