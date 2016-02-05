@@ -5,7 +5,6 @@ description: ""
 headline: "Luxor Box GWP: Free 1951 Maison Francaise card holder!"
 categories: 
       - Subscriptions
-      - Reviews
 tags: [Luxor Box, Subscriptions, Coupons, February 2016]
 comments: true
 mathjax: null
