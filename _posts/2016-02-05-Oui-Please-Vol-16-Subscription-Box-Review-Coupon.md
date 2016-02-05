@@ -81,12 +81,12 @@ date: 2016-2-5 09:01:39 -08:00
 
 <br>
 
-<H4>And here are the items in my box:</H4>
+# And here are the items in my box:
 <center><img src='/images/OuiPleaseVol16Items.jpg'></center>
 
 <br>
 
-<H4>Items in detail:</H4>
+## Items in detail:
 <center><img src='/images/OuiPleaseVol16NodeByJFontesBagueSioulRing.jpg'></center>
 <center><img src='/images/OuiPleaseVol16NodeByJFontesBagueSioulRing2.jpg'></center>
 <DL>
