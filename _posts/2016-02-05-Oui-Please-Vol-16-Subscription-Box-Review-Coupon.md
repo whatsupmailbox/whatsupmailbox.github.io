@@ -106,7 +106,7 @@ date: 2016-2-5 09:01:39 -08:00
 <br>
 
 <center><img src='/images/OuiPleaseVol16MirgioleEarrings.jpg'></center>
-<center><img src='/images/OuiPleaseVol16MirgioleEarrings.jpg'></center>
+<center><img src='/images/OuiPleaseVol16MirgioleEarrings2.jpg'></center>
 <DL>
 <DT><b>Mirgiole</b> Sorbonne Earrings</DT>
 <DD>Value $60</DD>
@@ -143,16 +143,6 @@ date: 2016-2-5 09:01:39 -08:00
 
 <p>I have petite arms so it looks okay on me, but I'm not sure it'll look as good with people with bigger arms, but that's just my opinion. This will look good by itself for a casual yet chic outfit, or layered for a more prominent look.</p>
 
-<br>
-
-<center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine.jpg'></center>
-<center><img src='/images/OuiPlease15HistoriaeHameauDeLaReine2.jpg'></center>
-<DL>
-<DT>Historiae Soap in Hameau De La Reine</DT>
-<DD>Value $10</DD>
-</DL>
-
-<p>A soap in the shape of a heart makes my heart skip a beat. It smells lovely and it went straight to the guest bathroom as both a decoration and as a hand soap, although I do hope they treat it more as the first rather than the latter. Dear house guests, use the liquid soap next to it please!</p>
 <br>
 
 <center><img src='/images/OuiPleaseVol16OolutionGlowUpMoisturizer.jpg'></center>
@@ -217,46 +207,50 @@ date: 2016-2-5 09:01:39 -08:00
 <TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
+         <H3><BR><center>My Oui Please Vol. 1.6 Items:</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Ripauste Small Leather Pochette</TD>
-      <TD>$50</TD>
+      <TD>Node By J.Fontes Sioul Ring</TD>
+      <TD>$150</TD>
    </TR>
   <TR>
-      <TD>Salome Charly Bracelet</TD>
-      <TD>$50</TD>
+      <TD>Mirgiole Sorbonne Earrings</TD>
+      <TD>$60</TD>
    </TR>
   <TR>
-      <TD>La Route des Comptoirs Tea</TD>
-      <TD>$30</TD>
-   </TR>
-  <TR>
-      <TD>Princess Marina De Bourbon Perfume</TD>
-      <TD>$160</TD>
-   </TR>
-  <TR>
-      <TD>Historiae Soap</TD>
-      <TD>$10</TD>
-   </TR>
-  <TR>
-      <TD>Historiae Travel Fragrance</TD>
+      <TD>Histoires De Parfums Blanc Violette</TD>
       <TD>$40</TD>
    </TR>
   <TR>
-      <TD>Concept Provence Body Milk</TD>
-      <TD>$20</TD>
+      <TD>Tassia Cannelis Bracelet</TD>
+      <TD>$50</TD>
    </TR>
   <TR>
-      <TD>Savor & Sens Mustard</TD>
+      <TD>Oolution Glow Up Moisturizer</TD>
+      <TD>$40</TD>
+   </TR>
+  <TR>
+      <TD>Lebon Toothpaste</TD>
+      <TD>$17</TD>
+   </TR>
+  <TR>
+      <TD>Harem Des Sens Fabulous Silk Milk</TD>
+      <TD>$30</TD>
+   </TR>
+  <TR>
+      <TD>L'Attelier Les Ladures</TD>
+      <TD>$25</TD>
+   </TR>
+  <TR>
+      <TD>L'Attelier Caramelized Macadamia Nuts</TD>
       <TD>$15</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$375</big></b></TD>
+      <TD><b><big>$427</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
