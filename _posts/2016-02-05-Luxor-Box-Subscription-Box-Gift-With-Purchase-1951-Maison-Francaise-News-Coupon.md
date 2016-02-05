@@ -9,10 +9,10 @@ categories:
 tags: [Luxor Box, Subscriptions, Coupons, February 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "LuxorBoxGWP1951MaisonFrancaiseFeb2016.jpg"
+imagefeature: "LuxorBoxGWP1951MaisonFrancaiseFeb2016.png"
 date: 2016-2-5 11:05:39 -08:00
 ---
 
