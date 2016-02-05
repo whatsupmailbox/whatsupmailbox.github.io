@@ -9,7 +9,7 @@ title: Oui Please Vol. 1.6 Box Review + 20% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: OuiPlease15Items.jpg
+imagefeature: OuiPleaseVol16Items.jpg
 headline: Oui Please Vol. 1.6 Box Review + 20% Coupon!
 tags: [Oui Please, Subscriptions, Reviews, February 2016]
 date: 2016-2-5 09:01:39 -08:00
@@ -48,7 +48,7 @@ date: 2016-2-5 09:01:39 -08:00
 <br>
 
 <center><img src='/images/OuiPleaseVol16Box.jpg'></center>
-<p>These boxes are my absolute favorite boxes from any subscription out there. It's gorgeous as a storage compartment, plus it's so BIG and sturdy, you can definitely find use of this for so many things. It also feels like a quality box made from high quality materials and you just know something luxurious is inside.</p>
+<p>These boxes are my absolute favorite boxes from any subscription out there. It's gorgeous as a storage compartment, plus it's so BIG and sturdy, you can definitely use this for so many things. It also feels like a quality box made from high quality materials and you just know something luxurious is inside.</p>
 
 <p>Now let's get back to unboxing!</p>
 <br>
@@ -61,7 +61,7 @@ date: 2016-2-5 09:01:39 -08:00
 
 <br>
 
-<center><img src='/images/OuiPleaseVol15OpenBox2.jpg'></center>
+<center><img src='/images/OuiPleaseVol16OpenBox2.jpg'></center>
 <figcaption>Second look at unboxing</figcaption>
 <br>
 
