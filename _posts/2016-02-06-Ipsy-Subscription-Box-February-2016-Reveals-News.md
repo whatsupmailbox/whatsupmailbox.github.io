@@ -1,29 +1,29 @@
 ---
 layout: post
-title: "My Ipsy February 2016 Spoiler Items!"
+title: "Ipsy February 2016 Reveals!"
 description: ""
-headline: "My Ipsy February 2016 Spoiler Items!"
+headline: "Ipsy February 2016 Reveals!"
 tags: [Products, Reviews, January 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Products
   - Reviews
 type: photo
 imagefeature: "IpsyFeb2016MySpoilerItems.jpg"
-date: 2016-2-05 12:33:39 -08:00
+date: 2016-2-06 09:33:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyFeb2016Spoilers.jpeg" border="0" style="border:none;max-width:100%;" alt="Ipsy February 2016 Spoilers" />
+<img src="/images/IpsyFeb2016Spoilers.jpeg" border="0" style="border:none;max-width:100%;" alt="My Ipsy February 2016 Reveal" />
 </a></center>
 
 <p>Ipsy spoilers have been coming out lately and each subscriber will be getting one of the items from the picture above.</p>
 
 <br>
 
-<p>You can get early access to your Glam Bag if you share on social media, so I did and here are the items I'll be receiving this month:</p>
+<p>Reveals to your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month is available now and you can see them if you share on social media, so I did and here are the items I'll be receiving this month:</p>
 
 <br>
 
@@ -33,7 +33,7 @@ date: 2016-2-05 12:33:39 -08:00
 
 <br>
 
-<p>I can't say that I'm too excited about this month's items, I was really hoping for a Trust Fund Beauty nail polish, but Ciate is good too so I'll reserve my complete judgement until I have all the items on hand and test them out. What are you getting in your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month?</p>
+<p>I can't say that I'm too excited about my items, I was really hoping for a Trust Fund Beauty nail polish, but Ciaté is good too so I'll reserve my complete judgement until I have all the items on hand and test them out. What are you getting in your <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy Glam Bag</a> this month?</p>
 
 <br>
 
