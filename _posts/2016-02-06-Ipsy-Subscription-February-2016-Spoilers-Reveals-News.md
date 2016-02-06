@@ -3,7 +3,7 @@ layout: post
 title: "Ipsy February 2016 Reveals!"
 description: ""
 headline: "Ipsy February 2016 Reveals!"
-tags: [Products, Reviews, January 2016]
+tags: [Subscriptions, Reviews, February 2016]
 comments: true
 published: true
 featured: false
