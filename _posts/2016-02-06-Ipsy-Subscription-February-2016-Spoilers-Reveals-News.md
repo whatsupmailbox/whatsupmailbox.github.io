@@ -8,7 +8,7 @@ comments: true
 published: true
 featured: false
 categories: 
-  - Products
+  - Subscriptions
   - Reviews
 type: photo
 imagefeature: "IpsyFeb2016MySpoilerItems.jpg"
