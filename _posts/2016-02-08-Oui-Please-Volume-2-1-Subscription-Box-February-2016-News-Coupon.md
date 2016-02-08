@@ -8,7 +8,7 @@ title: Oui Please Vol. 2.1 News + 20% Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: OuiPleaseFeb2016NewsCoupon.jpg
+imagefeature: OuiPleaseLogo.jpg
 headline: Oui Please Vol. 2.1 News + 20% Coupon!
 tags: [Oui Please, Subscriptions, Coupons, February 2016]
 date: 2016-02-08 10:20:39 -08:00
