@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Coupons
@@ -27,6 +27,7 @@ date: 2016-02-08 10:20:39 -08:00
 <center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
 </a></center>
+
 <br>
 
 <p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
