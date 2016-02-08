@@ -22,10 +22,13 @@ date: 2016-02-08 10:20:39 -08:00
 
 <H4>What's Oui Please?</H4>
 
+<br>
+
 <center><a href="http://ouipleasebox.com" target="_blank">
 <img src="/images/OuiPleaseLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Oui Please" />
 </a></center>
 <br>
+
 <p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple variations that subscribers will be receiving. Items included in the past have been beauty, jewelry, accessories, apparel, home and epicure.</p>
