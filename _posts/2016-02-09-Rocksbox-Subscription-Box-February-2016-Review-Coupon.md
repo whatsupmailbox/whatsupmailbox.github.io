@@ -50,7 +50,7 @@ date: 2016-02-09 09:05:00 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>They always include a personalized note with your name on it. Inside of this note is a list of items you received in this box and a note from your stylist as to why she chose them for you.</p>
+<p>They always include a personalized note with your name on it. Inside of this note is a list of items you received in this box and a note from your stylist as to why she chose them for you. (I completely forgot to take a pic of it this time!)</p>
 
 <br>
 
