@@ -16,7 +16,7 @@ date: 2016-02-09 09:05:00 -08:00
 ---
 
 <center><a href="https://www.rocksbox.com" target="_blank">
-<img src="/images/RocksboxFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox!" />
+<img src="/images/RocksboxFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://www.rocksbox.com" target="_blank">Rocksbox</a></p>
@@ -27,6 +27,14 @@ date: 2016-02-09 09:05:00 -08:00
 <br>
 
 <p>I'm quite new to this subscription but have been loving it so far. It has really upgraded the jewelry that I wear and I find myself accessorizing more because of it!</p>
+
+<br>
+
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="First Look at Unboxing" />
+</a></center>
+
+<p><a href="https://www.rocksbox.com" target="_blank">Rocksbox</a> always sends out their jewels in these cute little boxes and enclosed with a ribbon. Once you're done using the jewelry and want to receive new ones, all you have to do is put them back into this box and ship it out with the padded envelope that it was in. Super easy and convenient!</p>
 
 <br>
 
