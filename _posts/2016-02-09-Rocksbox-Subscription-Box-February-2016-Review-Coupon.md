@@ -99,25 +99,12 @@ date: 2016-02-09 09:05:00 -08:00
 <br>
 
 <center><a href="https://www.rocksbox.com" target="_blank">
-<img src="/images/RocksboxFeb2016KendraScottRayneNecklace.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/RocksboxFeb2016KendraScottRayneNecklace2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>A closer look at the earrings</figcaption>
 <br>
 
 <p>I tend to wear a lot of black so this fits right in with pretty much most of what I wear. The gold tassle at the bottom also makes this necklace pop and will give any outfit a bit of glamour and bling. I love this necklace and am really contemplating on keeping this!</p>
-
-<br>
-
-<center><a href="https://www.rocksbox.com" target="_blank">
-<img src="/images/RocksboxFeb2016SophieHarperPaveBallStuds.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
-<DL>
-<DT><b>Sophie Harper</b> Pavé Ball Studs in Gold</DT>
-<DD>Retail Value $40 (Insider's Price $32)</DD>
-</DL>
-
-<p>I do love me some studs and these are classic enough to wear with anything. This will be great to wear with the Kendra Scott Rayne necklace since it's more delicate and won't clash too much with the necklace's more stated style.</p>
 
 <br>
 
@@ -138,6 +125,19 @@ date: 2016-02-09 09:05:00 -08:00
 <img src="/images/RocksboxFeb2016PerryStreetSeraphinaNecklace2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <p>I wouldn't really call this bold (maybe just blingy) but I'm still happy to try this out. I wore it with a grey sweater and black skinny jeans and it looked great. I was going for a more rock chic style which this necklace can achieve depending on what you wear. I'm glad I got to try this out but I don't think it made my permanent list.</p>
+
+<br>
+
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxFeb2016SophieHarperPaveBallStuds.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Sophie Harper</b> Pavé Ball Studs in Gold</DT>
+<DD>Retail Value $40 (Insider's Price $32)</DD>
+</DL>
+
+<p>I do love me some studs and these are classic enough to wear with anything. This will be great to wear with the Kendra Scott Rayne necklace since it's more delicate and won't clash too much with the necklace's more stated style.</p>
 
 <br>
 
