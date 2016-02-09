@@ -141,6 +141,6 @@ date: 2016-02-09 09:05:00 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was not as great as <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Rocksbox-Jewelry-Subscription-Box-January-2016-Review-Coupon/" target="_blank">my previous one</a> but I did love the Kendra Scott Rayne necklace so it wasn't a complete bust. The other 2 items were just okay and it did look good, it just didn't wow me. I'm going to communicate with my stylist to see if she can send me items that are more my style in the next box, and hopefully she can, fingers crossed. Stay tuned for my next review!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was not as great as <a href="http://whatsupmailbox.com/subscriptions/reviews/coupons/Rocksbox-Jewelry-Subscription-Box-January-2016-Review-Coupon/" target="_blank">my previous one</a> but I did love (totally love) the Kendra Scott Rayne necklace so it wasn't a complete bust. The other 2 items were just okay and it did look good, it just didn't wow me. I'm going to communicate with my stylist to see if she can send me items that are more my style in the next box, and hopefully she can, fingers crossed. Stay tuned for my next review!</p>
 
 <p>Not a subscriber? Get your first month of unlimited access of jewelry rentals FREE! Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to take advantage of this awesome deal!</p>
