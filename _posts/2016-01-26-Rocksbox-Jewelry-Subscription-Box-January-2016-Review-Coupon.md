@@ -139,4 +139,4 @@ date: 2016-1-26 14:05:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I can't believe the first box they sent me was a slam dunk and an absolute perfect match to my style! I'll probably be keeping this for a bit so I can wear them multiple times, probably till the end of the weekend, and then send them back for a brand new set of jewelry. This is so exciting. I knew I was going to love this subscription box and I can't wait to see what they send me next!</p>
 
-<p>Not a subscriber? Get your first month of unlimited access of jewelry rentals FREE! Visit their website<a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to take advantage of this awesome deal!</p>
+<p>Not a subscriber? Get your first month of unlimited access of jewelry rentals FREE! Visit their website <a href="https://www.rocksbox.com">www.rocksbox.com</a> and enter coupon code <a href="https://www.rocksbox.com" target="_blank"><big>LORETTABFF15</big></a> to take advantage of this awesome deal!</p>
