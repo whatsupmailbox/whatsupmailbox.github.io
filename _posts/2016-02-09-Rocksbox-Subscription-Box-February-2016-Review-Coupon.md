@@ -50,7 +50,7 @@ date: 2016-02-09 09:05:00 -08:00
 <figcaption>Second Look at Unboxing</figcaption>
 <br>
 
-<p>They always include a personalized note which is very much appreciated!</p>
+<p>They always include a personalized note with your name on it. Inside of this note is a list of items you received in this box and a note from your stylist as to why she chose these items for you.</p>
 
 <br>
 
@@ -66,13 +66,6 @@ date: 2016-02-09 09:05:00 -08:00
 </a></center>
 <p>And you finally see the items, yay! Can't wait to see what they are.</p>
 
-<br>
-
-<p>Here's a look at the personalized info card that details the items you received:</p>
-
-<center><a href="https://www.rocksbox.com" target="_blank">
-<img src="/images/RocksboxFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" /></a></center>
-<figcaption>Info Card</figcaption>
 <br>
 
 # And here are my Rocksbox items:
