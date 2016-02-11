@@ -8,13 +8,15 @@ title: Little Lace Box February 2016 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: LittleLaceBoxFebt2016Items.jpg
+imagefeature: LittleLaceBoxFeb2016Items.jpg
 headline: Little Lace Box February 2016 Review + Coupon!
 tags: [Little Lace Box, Serendipity, Subscriptions, Reviews, August 2015]
 date: 2016-02-12 09:30:39 -08:00
 ---
 
-<center><img src='/images/LittleLaceBoxFeb2016Box.jpg'></center>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016Package.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
+</a></center>
 
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a></p>
 <p><b>Cost:</b> $59.99/bi-monthly + Free Shipping</p>
@@ -22,35 +24,62 @@ date: 2016-02-12 09:30:39 -08:00
 <p><b>Coupon:</b> Use coupon code <b>REDLACE</b> for $10 off your subscription!</p>
 <br>
 
-<p>Little Lace Box ships through USPS Priority Mail 2-day and they always email you with tracking number as soon as your box is shipped. I find that very helpful so I am reminded when my box is on its way to me!</p>
+<p>Little Lace Box (LLB) ships through USPS Priority Mail 2-day and they always email you with tracking number as soon as your box is shipped. I find that very helpful so I am reminded when my box is on its way to me!</p>
 <br>
 
-<figure>
-      <img src='/images/LittleLaceBoxAugust2015OpenBox.jpg'>
-      <figcaption>First look at unboxing</figcaption>
-</figure>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016OpenPackage.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
+</a></center>
+
+<p>Once you open the package you can see the actualy Little Lace Box!</p>
+
 <br>
 
-<figure>
-      <img src='/images/LittleLaceBoxAugust2015OpenBox2.jpg'>
-      <figcaption>Second look at unboxing</figcaption>
-</figure>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016Box.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+</a></center>
+
+<p>Lately LLB has been sending items that don't really fit into their subscription box and this month it's a canvas tote! More on that later.</p>
+
 <br>
 
-<p>Personal Letter from LLB and info on the items inside the box:</p>
-<center><img src='/images/LittleLaceBoxAugust2015Info3.jpg'></center>
-<figcaption>Front Page</figcaption>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016OpenBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+</a></center>
+<figcaption>First look at unboxing</figcaption>
+
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Info2.jpg'></center>
-<figcaption>Back page</figcaption>
+<p>You immediately see their info pamphlet:</p>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016Info.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
+</a></center>
+
 <br>
 
-## And here are the items for this month's LLB & Serendipity:
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016Info2.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
+</a></center>
 
-<center><img src='/images/LLBAugust2015Items.jpg'></center>
+<br>
 
-<p>It doesn't seem like there's a lot of items for 2 subs, or maybe it's just me.</p>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016OpenBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+</a></center>
+<figcaption>Second look at unboxing</figcaption>
+
+<br>
+
+# And here are all the items for LLB February 2016:
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016Items.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box February 2016 Items" />
+</a></center>
+
+<p>I'm loving the "Love" theme this month, this may just be my favorite box from them yet!</p>
+
+<br>
 
 <H4>Items in detail:</H4>
 
