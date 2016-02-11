@@ -15,7 +15,7 @@ date: 2016-02-12 09:30:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016Package.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
+<img src="/images/LittleLaceBoxFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a></p>
@@ -28,7 +28,7 @@ date: 2016-02-12 09:30:39 -08:00
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016OpenPackage.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
+<img src="/images/LittleLaceBoxFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
 <p>Once you open the package you can see the actualy Little Lace Box!</p>
@@ -36,7 +36,7 @@ date: 2016-02-12 09:30:39 -08:00
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016Box.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+<img src="/images/LittleLaceBoxFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 
 <p>Lately LLB has been sending items that don't really fit into their subscription box and this month it's a canvas tote! More on that later.</p>
@@ -44,7 +44,7 @@ date: 2016-02-12 09:30:39 -08:00
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016OpenBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+<img src="/images/LittleLaceBoxFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
@@ -53,19 +53,19 @@ date: 2016-02-12 09:30:39 -08:00
 <p>You immediately see their info pamphlet:</p>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016Info.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
+<img src="/images/LittleLaceBoxFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016Info2.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
+<img src="/images/LittleLaceBoxFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016OpenBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+<img src="/images/LittleLaceBoxFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
 
@@ -74,7 +74,7 @@ date: 2016-02-12 09:30:39 -08:00
 # And here are all the items for LLB February 2016:
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016Items.jpeg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box February 2016 Items" />
+<img src="/images/LittleLaceBoxFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box February 2016 Items" />
 </a></center>
 
 <p>I'm loving the "Love" theme this month, this may just be my favorite box from them yet!</p>
