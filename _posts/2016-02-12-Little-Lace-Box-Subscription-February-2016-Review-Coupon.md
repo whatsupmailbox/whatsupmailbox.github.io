@@ -61,11 +61,11 @@ date: 2016-02-12 09:30:39 -08:00
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
-
+<figcaption>Details inside the pamphlet</figcaption>
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
+<img src="/images/LittleLaceBoxFeb2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
 
