@@ -56,12 +56,14 @@ date: 2016-02-12 09:30:39 -08:00
 <img src="/images/LittleLaceBoxFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
 <figcaption>A note from LLB on the theme this month</figcaption>
+
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
 <figcaption>Details inside the pamphlet</figcaption>
+
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
@@ -233,7 +235,7 @@ date: 2016-02-12 09:30:39 -08:00
 <DD>Value $8.99</DD>
 </DL>
 
-<p>A shiny red executive pen to write down the love letters, how appropriate! It's also inscribed with "Ever Mine" which LLB says was chosen as "a reminder to listen to my heart and be true to my dreams, my goals, my family, my loves and myself".</p>
+<p>A shiny red executive pen to write down the love letters, how appropriate! It's also inscribed with "Ever Mine" in honor of this month's theme which LLB says was chosen as "a reminder to listen to my heart and be true to my dreams, my goals, my family, my loves and myself".</p>
 
 <br>
 
