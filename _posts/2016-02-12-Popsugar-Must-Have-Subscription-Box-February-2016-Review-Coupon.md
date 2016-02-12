@@ -213,11 +213,11 @@ date: 2016-2-12 09:31:39 -08:00
 
 <p>The size of this lotion is pretty substantial and I love the pump out bottle too, it makes for an easy and mess-free application.</p> 
 
-<p>This lotion is made with their exclusive Cotton Moisture Complex for ultimate hydration and continuous 24-hour moisture. It's infused with coconut milk for its soothing and moisturizing properties, and is also paraben-free. This lotion is already on my bed stand!</p>
+<p>This lotion is made with their exclusive Cotton Moisture Complex for ultimate hydration and continuous 24-hour moisture. It's infused with coconut milk for its soothing and moisturizing properties, and is also paraben-free. This lotion is going straight on my bed stand!</p>
 
 <br>
 
-<H4><i class="icon-gift"></i> Bonus item:</H4>
+<H4><i class="icon-gift"></i> Bonus items:</H4>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarFeb2016VictoriasSecretSportSocks.jpg" border="0" style="border:none;max-width:100%;" />
