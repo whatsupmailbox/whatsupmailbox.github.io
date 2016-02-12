@@ -266,10 +266,10 @@ date: 2016-02-12 09:30:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:70%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>MY LLB ITEMS</center></H3>
+         <H3><BR><center>MY LLB FEB 2016 ITEMS</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
