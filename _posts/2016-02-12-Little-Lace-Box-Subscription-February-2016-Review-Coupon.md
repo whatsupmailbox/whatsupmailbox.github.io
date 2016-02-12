@@ -18,16 +18,16 @@ date: 2016-02-12 09:30:39 -08:00
 <img src="/images/LittleLaceBoxFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank">Little Lace Box</a></p>
+<p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">Little Lace Box</a></p>
 <p><b>Cost:</b> $59.99/bi-monthly + Free Shipping</p>
 <p><b>What's in the box:</b> Little Lace Box is a subscription lifestyle box for women who know they're worth it. Each box will be filled with high quality items from unique or designer brands that range from beauty, jewelry, accessories, home products and more!</p>
-<p><b>Coupon:</b> Use coupon code <b>REDLACE</b> for $10 off your subscription!</p>
+<p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=306605&m=61975&u=1115177" target="_blank">Get $10 off your 6-month or 12-month subscription through this link</a>!</p>
 <br>
 
 <p>Little Lace Box (LLB) ships through USPS Priority Mail 2-day and they always email you with tracking number as soon as your box is shipped. I find that very helpful so I am reminded when my box is on its way to me!</p>
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
@@ -35,7 +35,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 
@@ -43,7 +43,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
@@ -52,19 +52,19 @@ date: 2016-02-12 09:30:39 -08:00
 
 <p>You immediately see their info pamphlet:</p>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
-
+<figcaption>A note from LLB on the theme this month</figcaption>
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Info Pamphlet" />
 </a></center>
 <figcaption>Details inside the pamphlet</figcaption>
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 <figcaption>Second look at unboxing</figcaption>
@@ -73,7 +73,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 # And here are all the items for LLB February 2016:
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box February 2016 Items" />
 </a></center>
 
@@ -83,141 +83,176 @@ date: 2016-02-12 09:30:39 -08:00
 
 <H4>Items in detail:</H4>
 
-<center><img src='/images/LittleLaceBoxAugust2015Vase.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016VineStreetMarketCanvasTote.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT>Elizabeth & Mr. Darcy Flower Vase by Mary Rose Young</DT>
-<DD>Value $124</DD>
+<DT><b>Vine Street Market USA</b> "I Love Hearts" Canvas Tote</DT>
+<DD>Value $36</DD>
 </DL>
 
-<p>I decided to start off with the most expensive item in the box. It's a handmade vase from England that was designed exclusively for LLB's "Elizabeth & Mr. Darcy" theme.</p>
+<p>This canvas tote is huge! The heart print is so cute and I love the canvas material too, it feels sturdy and strong.</p>
 
-<center><img src='/images/LittleLaceBoxAugust2015VaseInfo.jpg'></center>
+<p>Vine Street Market USA is an eco-friendly bag company based in Los Angeles and all their totes are made from re-purposed and organic materials right here in the U.S.</p>
 
-<p>A little note from the artist who created the vase explaining her design. The two white roses etched on the vase represents Elizabeth and Darcy.</p>
-
-<p>Although I do appreciate receiving a vase, I think I would have preferred a bigger less expensive vase that didn't take up the value of the whole box. But that's just my own personal opinion.</p>
-
-<p>Closer look at the vase:</p>
-<center><img src='/images/LittleLaceBoxAugust2015Vase3.jpg'></center>
-<p>I like how the white rose pops out of the vase.</p>
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Vase2.jpg'></center>
-<p>The stamp at the bottom noting that it's "Handmade in England".
+<p>Here's a picture of the canvas from their website:</p>
 
-<p>Don't get me wrong, the vase is beautiful, but the color or style doesn't match my decor so I'm still not sure if I'll keep it or gift it.</p> 
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Perfume.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016VineStreetMarketCanvasTote2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>From now until Feb 14th, if you purchase a canvas tote on <a href="http://www.vinestreetmarketusa.com" target="_blank">their website</a>, you'll get a FREE pink hearts tote in your order, no coupon needed. That's essentially 2 totes for the price of 1! I am totally taking advantage of that!</p>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT><a href="https://definemefragrance.com/defineme-harper.html" target="_blank">DefineMe Fragrance in Harper</a></DT>
-<DD>Full Size 9ml/.3fl oz., Value $36</DD>
+<DT><b>Yedi Housewares</b> Porcelain Inside Out Heart Tea Cup & Saucer</DT>
+<DD>Value $8.99</DD>
 </DL>
 
-<p>Receiving fragrance in my subscription boxes isn't my favorite, but the bottle is so pretty and the scent is quite sultry and exotic. Although it's a rollerball application (I prefer spray), I think it's a better type of application since this is a perfume oil.</p> 
+<p>This is such a cute and unique tea cup! The inside is actually shaped in a heart and you'll see it more clearly when it's filled. See picture below.</p> 
 
-<p>The scent is slightly sweet with notes of grapefruit, bergamot, honeysuckle and amber. I'm more of a fresh, floral kind of girl so it's not a perfect match but I'll definitely keep it for those special occasions where I feel extra bold.</p> 
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Lotion.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer5.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>Isn't it just adorbs! This will be great for having some afternoon tea with my gals. I need a whole set stat!</p> 
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer3.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>A matching heart shaped saucer tops this off to be one of the cutest tea cup set I've ever owned. Perfect for Valentine's!</p>
+
+<br>
+
+<p>Here's a look at the tea cup on my hands:</p>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer5.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>I love the gold on the handle and rim, it gives it a touch of glam without being too much. Aaah, can't get enough of how cute this is!</p>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016DenyDesignsThrowPillow2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016DenyDesignsThrowPillow.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT>Little Lace Box - My Shea-Rona Shea Butter in Coconut Mango Mimosa</DT>
-<DD>Full Size 8 oz., Value $19.99</DD>
+<DT><b>Deny Designs</b> 16" Throw Pillow</DT>
+<DD>Value $39.99</DD>
 </DL>
 
-<p>I loved the sugar scrub they sent out in the last box and I did send out a request to have it made in a lotion as well, so I'm glad they listen to their subscribers and actually made them. I got a different scent this time though, and it smells great.</p>
+<p>This is amazing. Not only do you get a 16" throw pillow, but you get to choose the one you want and shipping is included with this as well! Amazing.</p>
 
-<p>This lotion has 30% shea butter, so it's uber rich in moisturization and will most likely be used in the winter for me.</p>
+<p>There are over 9000 designs to choose from and I can't wait to browse through most of it (don't think I can look at even 1000 designs) and have one picked out so when LLB emails the code, I'll be ready with my choice. This is exciting!</p>
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Bouqs.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT><a href="https://www.thebouqs.com" target="_blank">Bouqs.com</a> $40 Voucher</DT>
-<DD>Value $40</DD>
+<DT>Letters To My Love by Lea Redmond</DT>
+<DD>Value $14.99</DD>
 </DL>
 
-<p>I've heard of this company before and had it in my list to try them out for some flower arrangements, but just never got around to it, so I'm happy I get to now. The flowers are freshly cut upon order and sourced from eco-friendly farms. With that fact combined with their reasonable pricing, free shipping and great floral arrangements, this just might be my new go-to for floral arrangements. I can't wait to use this gift card!</p>
+<p>So this is a booklet that's filled with notes that fold up into an envelope for you to send to your loved ones.</p>
+
+<p>Here's how they instruct you to use this booklet:</p>
+
 <br>
 
-<H2>Serendipity Items:</H2>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove5.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
-<center><img src='/images/LittleLaceBoxAugust2015Info.jpg'></center>
-<figcaption>Serendipity Info Sheet</figcaption>
+<p>So the steps are, you fold out the envelope to reveal a letter page, write down your special message, fold up the envelope and seal it with the included stickers. You then write the date you wrote the letter and the date when the recipient should open it. It's different and quite a unique way to write love letters. I can't wait to try this out with my husband.</p>
+
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Steeper.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>This is where you write the dates, on the backside of the envelope.</p>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove3.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>And here are the included stickers (you'll find it at the very last page of this booklet) to seal the envelopes.</p>
+
+<br>
+
+<p>Some of them can be sent to your bestfriend instead of your significant other such as below:</p>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove4.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<p>It's addressed to you instead of love of my life or my love, so you can definitely use this for your girlfriends too.</p>
+
+<br>
+
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016EverMineRedPen.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT><a href="http://theteaspot.com/steep-and-go-cold-brew-tea.html" target="_blank">Steep & Go by The Tea Spot in Purple</a></DT>
-<DD>Value $5.95</DD>
+<DT>Ever Mine Red Metallic Executive Pen</DT>
+<DD>Value $8.99</DD>
 </DL>
 
-<p>I love tea, mostly hot but during the summer I'll drink them cold. These are great for making cold teas in a jiffy and without the hassle too. You just put loose tea into a water bottle, fill it up with cold water, insert the Steep & Go, shake the bottle to let the tea steep, wait a few minutes and voila, cold brewed tea! This will definitely be put into good use!</p>
+<p>A shiny red executive pen to write down the love letters, how appropriate! It's also inscribed with "Ever Mine" which LLB says was chosen as "a reminder to listen to my heart and be true to my dreams, my goals, my family, my loves and myself".</p>
+
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Tea.jpg'></center>
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
+<img src="/images/LittleLaceBoxFeb2016WildOpheliaPeanutButterCups.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <DL>
-<DT><a href='http://www.artoftea.com/tea/wellness-teas-herbs/chill-out-15-sachets-caffeine-free.html' target="_blank">Chill Out, Organic Loose Leaf Tea (caffeine free)</a></DT>
-<DD>1 sachet, Value $1.29</DD>
+<DT><b>Wild Ophelia</b> Peanut Butter Cups</DT>
+<DD>Value $2.99</DD>
 </DL>
 
-<p>Caffeine free, yes! I'm super sensitive to caffeine so this was totally appreciated since most of the time they include caffeinated ones. I can't wait to try this tea out in my Steep & Go! I love how LLB always includes items that can be used together in the box.</p>
+<p>I love the combination of peanut butter and chocolate, but this steps it up a notch by adding caramelized bananas which I also love. This was so yummy, there were 6 small cups in the package and I had to stop myself at 3. It was hard but I did it. I waited an hour to finish the rest of them lol.</p>
+
+<p>Wild Ophelia's owner Katrina Markoff has a personal mission to inspire, empower, and help activate a movement of American female entrepreneurs. So to honor its commitment, they will donate a percentage of its profits to organizations that fund such women.</p>
+
 <br>
 
-<center><img src='/images/LittleLaceBoxAugust2015Soap.jpg'></center>
-
-<DL>
-<DT><a href='https://mindfulminerals.com/product/just-get-dirty-mud-purifying-bar/' target="_blank">Mindful Minerals - Dead Sea Mud Bar</a></DT>
-<DD>Travel Sized soap bar 35g., Value $4</DD>
-</DL>
-
-<p>"This rich lathering soap made with Dead Sea Mud and pure Eucalyptus essential oil is great for cleansing and detoxifying the skin. This soap has a slight texture from the mud that helps exfoliate and remove dead skin cells while deep cleaning the skin. All natural vegetable oil soaps are made with 100% natural scents and infused with the minerals from the Dead Sea." Great for Eczema, Psoriasis or Acne!</p>
-
-<p>I can't wait to try this soap, it sounds like something that my skin can totally make use of. It's also 100% natural with no parabens, phthalates, or SLS, yay!</p>
-<br>
-
-<center><img src='/images/LittleLaceBoxAugust2015Hair.jpg'></center>
-
-<DL>
-<DT><a href='https://www.malibuc.com/products/CN/3205/' target="_blank">Malibu C - Miracle Repair Hair Reconstructor</a></DT>
-<DD>1 sachet 0.5 ounce, Value $3</DD>
-</DL>
-
-<p>My hair has been feeling quite dry lately. I haven't colored it in awhile but I think my frequent swimming in the ocean/pool plus the summer sun has done a number on it. This hair reconstructor promises to restore and strengthen your hair again with the added bonus of shine and volume. It's 100% vegan made with plant proteins and enriched with Pro Vitamin B5 for extra moisture. My hair needs this ASAP!</p>
-<br>
-
-<center><img src='/images/LittleLaceBoxAugust2015Card.jpg'></center>
-
-<DL>
-<DT><a href='https://www.einvite.com' target="_blank">Einvite.com</a> Thank You Notes</a></DT>
-<DD>4 Cards, Value $5</DD>
-</DL>
-
-<p>I can never have enough Thank You cards, it's a necessity in my house since I need this ever so frequently. I love the laser cut "Thanks" on it and the bright colors it came in.</p>
-
-<center><img src='/images/LittleLaceBoxAugust2015Card2.jpg'></center>
-<figcaption>The back of the card</figcaption>
-<br>
-
-<center><img src='/images/LittleLaceBoxAugust2015Card3.jpg'></center>
-<figcaption>einvite.com markings on the back of the card</figcaption>
-<br>
-
-<p>I wished it didn't have the einvite.com on the back though, now I'm just marketing them everytime I send these to people, sigh. But they're still useful and pretty, so can't complain too much about these.</p>
-<br>
-
-<p>And to wrap things up, here's the theme for October's Little Lace Box:</p>
-<center><img src='/images/LittleLaceBoxAugust2015OctTheme.jpg'></center>
-
-<p>Whenever the word Fashion gets quoted, I'm interested and hooked, so needless to say I'm so excited for the next box!</p>
-<br>
-
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I hate to say this but sadly this month was a miss for me. The Little Lace Box, although the value is quite high, most of it went to the vase which is an item that I didn't really love. I did love the Serendipity items though and that was a hit for me. I'll use everything from Serendipity but for LLB, I think the only items I'll be using is the Bouqs voucher and lotion (maybe the perfume too). Everything else will most likely be gifted or traded. I still love LLB, no love lost there, it's just that this month's theme and items were not my cup of tea. Looking at the theme for October's box which is "Authentic Autumn - Be your authentic self" sounds promising, especially since fashion was quoted and that always gets my attention. Looking forward to receiving that box and hopefully September's Serendipity won't get delayed again.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was awesome and such a great curation. It featured so many new brands and products that I've never heard of, this is truly why I subscribe to Little Lace Box and why they set themself apart from other subscription boxes. I can tell a lot of thought was put into curating this box and boy was it spot on in representing their theme. As I was unboxing and reviewing each item, I was inspired by the love theme and it truly made me feel all warm and loving inside. I kid you not.</p>
 
 <p>You can <a href="http://littlelacebox.com?rfsn=93842.4b16b" target="_blank"><big>subscribe here</big></a> to start receiving their next box which will be in October, and don't forget to use coupon code <b>REDLACE</b> to get $10 off your subscription!</p>
 
@@ -232,67 +267,35 @@ date: 2016-02-12 09:30:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Elizabeth & Mr. Darcy Vase</TD>
-      <TD>$124</TD>
+      <TD>Vine Street Market USA Canvas Tote</TD>
+      <TD>$35.99</TD>
    </TR>
    <TR>
-      <TD>DefineMe Perfume</TD>
-      <TD>$36</TD>
+      <TD>Yedi Housewares Porcelain Tea Cup & Saucer</TD>
+      <TD>$8.99</TD>
    </TR>
    <TR>
-      <TD>Little Lace Box - My Shea-Rona Shea Butter</TD>
-      <TD>$19.99</TD>
+      <TD>Deny Designs Throw Pillow</TD>
+      <TD>$39.99</TD>
    </TR>
    <TR>
-      <TD>Bouqs.com Voucher</TD>
-      <TD>$40</TD>
+      <TD>Letters To My Love by Lea Redmond</TD>
+      <TD>$14.99</TD>
+   </TR>
+   <TR>
+      <TD>Red Metallic Executive Pen</TD>
+      <TD>$8.99</TD>
+   </TR>
+   <TR>
+      <TD>Wile Ophelia Peanut Butter Cups</TD>
+      <TD>$2.99</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$219.99</big></b></TD>
+      <TD><b><big>$111.95</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
       <TD><i><big>$59.99</big></i></TD>
-   </TR>
-</TABLE>
-
-<br>
-
-<TABLE  BORDER="5" style="width:70%">
-   <TR>
-      <TH COLSPAN="2">
-         <H3><BR><center>MY SERENDIPITY ITEMS</center></H3>
-      </TH>
-   </TR>
-      <TH>Product</TH>
-      <TH>Price</TH>
-  <TR>
-      <TD>Steep & Go Tea Steeper</TD>
-      <TD>$5.95</TD>
-   </TR>
-   <TR>
-      <TD>Chill Out Tea</TD>
-      <TD>$1.29</TD>
-   </TR>
-   <TR>
-      <TD>Mindful Minerals Dead Sea Soap</TD>
-      <TD>$4</TD>
-   </TR>
-   <TR>
-      <TD>Malibu C Hair Constructor</TD>
-      <TD>$3</TD>
-   </TR>
-   <TR>
-      <TD>Einvite.com Thank You Notes</TD>
-      <TD>$5</TD>
-   </TR>
-   <TR>
-      <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$19.24</big></b></TD>
-   </TR>
-   <TR>
-      <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$9.99</big></i></TD>
    </TR>
 </TABLE>
