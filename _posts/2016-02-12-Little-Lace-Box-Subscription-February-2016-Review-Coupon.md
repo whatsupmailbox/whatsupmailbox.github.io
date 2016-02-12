@@ -83,7 +83,7 @@ date: 2016-02-12 09:03:39 -08:00
 
 <br>
 
-<H4>Items in detail:</H4>
+## Items in detail:
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016VineStreetMarketCanvasTote.jpg" border="0" style="border:none;max-width:100%;" />
