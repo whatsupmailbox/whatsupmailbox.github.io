@@ -14,7 +14,7 @@ tags: [Little Lace Box, Subscriptions, Reviews, Coupons, February 2016]
 date: 2016-02-12 09:03:39 -08:00
 ---
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
 <img src="/images/LittleLaceBoxFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
