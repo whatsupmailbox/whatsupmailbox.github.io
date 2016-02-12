@@ -132,7 +132,7 @@ date: 2016-02-12 09:30:39 -08:00
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer5.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer5.jpeg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>Isn't it just adorbs! This will be great for having some afternoon tea with my gals. I need a whole set stat!</p> 
