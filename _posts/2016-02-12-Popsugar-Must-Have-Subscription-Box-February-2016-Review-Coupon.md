@@ -115,7 +115,7 @@ date: 2016-2-12 09:31:39 -08:00
 
 <p>"This best-selling balm melts into your skin to hydrate while it cleanses, removing makeup and other impurities but never stripping away moisture. With vitamin C to brighten skin and raspberry and cranberry seed oils to hydrate, the formula can also be used as an intensely nourishing face mask. Bonus? You also get our 100% muslin cloth, softer and easier on skin than a traditional washcloth."</p>
 
-<p>This is one of their best-seller items and the inclusion of a muslin cloth for application is indeed a bonus and much appreciated. It's also paraben-free and has a EWG Skin Deep Rating of 2 which means this cleanser is safe to use!</p>
+<p>This is one of their best-seller items and the inclusion of a muslin cloth for application and a mini plastic spatula is indeed a bonus and much appreciated. It's also paraben-free and has a EWG Skin Deep Rating of 2 which means this cleanser is safe to use!</p>
 
 <br>
 
