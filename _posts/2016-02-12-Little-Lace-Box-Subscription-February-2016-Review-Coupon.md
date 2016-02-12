@@ -21,7 +21,7 @@ date: 2016-02-12 09:30:39 -08:00
 <p><b>Subscription:</b> <a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">Little Lace Box</a></p>
 <p><b>Cost:</b> $59.99/bi-monthly + Free Shipping</p>
 <p><b>What's in the box:</b> Little Lace Box is a subscription lifestyle box for women who know they're worth it. Each box will be filled with high quality items from unique or designer brands that range from beauty, jewelry, accessories, home products and more!</p>
-<p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=306605&m=61975&u=1115177" target="_blank">Get $10 off your 6-month or 12-month subscription through this link</a>!</p>
+<p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=306605&m=61975&u=1115177" target="_blank">Get $10 off a 6 or 12-month subscription through this link</a>!</p>
 <br>
 
 <p>Little Lace Box (LLB) ships through USPS Priority Mail 2-day and they always email you with tracking number as soon as your box is shipped. I find that very helpful so I am reminded when my box is on its way to me!</p>
