@@ -94,7 +94,7 @@ date: 2016-2-12 09:31:39 -08:00
 <img src="/images/PopsugarFeb2016TiloHeartPrintScarf3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The design of the scarf actually has the heart symbols more heavily towards the ends and in the middle section it's pretty solid grey. Although I would not neccessarily buy this scarf at $125, I sure am glad I got this in the box at a fraction of that cost!</p>
+<p>The design of the scarf actually has the heart symbols more heavily towards the ends and in the middle section it's pretty solid grey. Although I would not neccessarily buy this scarf at $125, I sure am glad I got this at a fraction of that cost!</p>
 
 <br>
 
@@ -134,7 +134,7 @@ date: 2016-2-12 09:31:39 -08:00
 <DD>Value $28</DD>
 </DL>
 
-<p>I love it when Popsugar includes a jewelry item. Rings tend to be iffy for me though as I have petite fingers and average sized rings is always too big for me.</p>
+<p>I love it when Popsugar includes a jewelry item. Rings tend to be iffy for me though as I have petite fingers and average sized rings are always too big for me.</p>
 
 <br>
 
