@@ -113,13 +113,13 @@ date: 2016-02-12 09:03:39 -08:00
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewareHeartTeaCupSaucer.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewareHeartTeaCupSaucer2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
@@ -132,7 +132,7 @@ date: 2016-02-12 09:03:39 -08:00
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer5.jpeg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewareHeartTeaCupSaucer5.jpeg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>Isn't it just adorbs! This will be great for having some afternoon tea with my gals. I need a whole set stat!</p> 
@@ -140,7 +140,7 @@ date: 2016-02-12 09:03:39 -08:00
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer3.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewareHeartTeaCupSaucer3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>A matching heart shaped saucer tops this off to be one of the cutest tea cup set I've ever owned. Perfect for Valentine's!</p>
@@ -150,7 +150,7 @@ date: 2016-02-12 09:03:39 -08:00
 <p>Here's a look at the tea cup on my hands:</p>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
-<img src="/images/LittleLaceBoxFeb2016YediHousewaresHeartTeaCupSaucer4.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/LittleLaceBoxFeb2016YediHousewareHeartTeaCupSaucer4.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>I love the gold on the handle and rim, it gives it a touch of glam without being too much. Aaah, can't get enough of how cute this is!</p>
