@@ -56,7 +56,7 @@ date: 2016-2-12 09:31:39 -08:00
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
-<p>Each month Popsugar includes an info sheet that lists all the items that's in the box as well as their values.</p>
+<p>Inside the info sheet lists all the items that's in the box as well as their values.</p>
 
 <br>
 
