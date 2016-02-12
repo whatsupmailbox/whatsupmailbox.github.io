@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -10,8 +10,8 @@ comments: true
 type: photo
 imagefeature: LittleLaceBoxFeb2016Items.jpg
 headline: Little Lace Box February 2016 Review + Coupon!
-tags: [Little Lace Box, Serendipity, Subscriptions, Reviews, August 2015]
-date: 2016-02-12 09:30:39 -08:00
+tags: [Little Lace Box, Subscriptions, Reviews, Coupons, February 2016]
+date: 2016-02-12 09:03:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
