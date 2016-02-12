@@ -5,7 +5,7 @@ description: ""
 headline: "Popsugar Must Have February 2016 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, February 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
