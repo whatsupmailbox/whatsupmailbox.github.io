@@ -24,7 +24,7 @@ date: 2016-02-12 09:30:39 -08:00
 <p><b>Coupon:</b> <a href="http://www.shareasale.com/u.cfm?d=306605&m=61975&u=1115177" target="_blank">Get $10 off a 6 or 12-month subscription through this link</a>!</p>
 <br>
 
-<p>Little Lace Box (LLB) ships through USPS Priority Mail 2-day and they always email you with tracking number as soon as your box is shipped. I find that very helpful so I am reminded when my box is on its way to me!</p>
+<p>Little Lace Box (LLB) ships through USPS Priority Mail 2-day and they always email you the tracking number as soon as your box is shipped. I find that very helpful as I'm notified when my box is on its way to me!</p>
 <br>
 
 <center><a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">
