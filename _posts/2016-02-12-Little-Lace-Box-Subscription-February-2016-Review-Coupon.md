@@ -31,7 +31,7 @@ date: 2016-02-12 09:30:39 -08:00
 <img src="/images/LittleLaceBoxFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box Package" />
 </a></center>
 
-<p>Once you open the package you can see the actualy Little Lace Box!</p>
+<p>Once you open the package you can see the actual Little Lace Box!</p>
 
 <br>
 
@@ -39,7 +39,7 @@ date: 2016-02-12 09:30:39 -08:00
 <img src="/images/LittleLaceBoxFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Little Lace Box" />
 </a></center>
 
-<p>Lately LLB has been sending items that don't really fit into their subscription box and this month it's a canvas tote! More on that later.</p>
+<p>Lately LLB has been sending items that don't really fit inside their subscription box and this month it's a canvas tote! More on that later.</p>
 
 <br>
 
