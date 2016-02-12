@@ -170,7 +170,7 @@ date: 2016-02-12 09:30:39 -08:00
 <DD>Value $39.99</DD>
 </DL>
 
-<p>This is amazing. Not only do you get a 16" throw pillow, but you get to choose the one you want and shipping is included with this as well! Amazing.</p>
+<p>This is amazing. Not only do you get a 16" throw pillow, but you get to choose the one you want and shipping is included as well! Amazing.</p>
 
 <p>There are over 9000 designs to choose from and I can't wait to browse through most of it (don't think I can look at even 1000 designs) and have one picked out so when LLB emails the code, I'll be ready with my choice. This is exciting!</p>
 <br>
