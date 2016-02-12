@@ -181,7 +181,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 <DL>
 <DT>Letters To My Love by Lea Redmond</DT>
-<DD>Value $14.99</DD>
+<DD>Value $14.95</DD>
 </DL>
 
 <p>So this is a booklet that's filled with notes that fold up into an envelope for you to send to your loved ones.</p>
@@ -288,7 +288,7 @@ date: 2016-02-12 09:30:39 -08:00
    </TR>
    <TR>
       <TD>Letters To My Love by Lea Redmond</TD>
-      <TD>$14.99</TD>
+      <TD>$14.95</TD>
    </TR>
    <TR>
       <TD>Red Metallic Executive Pen</TD>
