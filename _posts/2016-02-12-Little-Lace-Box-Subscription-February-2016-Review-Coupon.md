@@ -100,7 +100,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 <br>
 
-<p>Here's a picture of the canvas from their website:</p>
+<p>Here's a picture of the canvas tote unfolded from their website:</p>
 
 <br>
 
