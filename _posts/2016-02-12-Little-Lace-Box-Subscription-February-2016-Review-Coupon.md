@@ -94,7 +94,7 @@ date: 2016-02-12 09:30:39 -08:00
 <DD>Value $36</DD>
 </DL>
 
-<p>This canvas tote is huge! The heart print is so cute and I love the canvas material too, it feels sturdy and strong.</p>
+<p>This canvas tote is huge! The heart print is so cute and I love the canvas material too, it feels sturdy and strong. Plus you can fold up the tote into its pocket, which is what the picture above shows.</p>
 
 <p>Vine Street Market USA is an eco-friendly bag company based in Los Angeles and all their totes are made from re-purposed and organic materials right here in the U.S.</p>
 
