@@ -25,7 +25,7 @@ date: 2016-2-12 09:31:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 <br>
 
-<p>I haven't reviewed my Popsugar boxes in awhile due to the holidays, plus the fact that I end up using all the items before I even get to take pictures of them. But that will change lovelies, regular reviews will be coming your way starting from this month! =)</p>
+<p>Last month Popsugar did such a great job at their curation, I was excited to see what they had in store for this month!</p>
 
 <br>
 
