@@ -35,7 +35,7 @@ date: 2016-2-12 09:31:39 -08:00
 <figcaption>First look at unboxing</figcaption>
 <br>
 
-<p>As soon as you open the box, you see their info card.</p>
+<p>As soon as you open the box, you see their info sheet.</p>
 
 <br>
 
