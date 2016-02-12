@@ -295,7 +295,7 @@ date: 2016-02-12 09:03:39 -08:00
       <TD>$8.99</TD>
    </TR>
    <TR>
-      <TD>Wile Ophelia Peanut Butter Cups</TD>
+      <TD>Wild Ophelia Peanut Butter Cups</TD>
       <TD>$2.99</TD>
    </TR>
    <TR>
