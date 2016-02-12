@@ -91,7 +91,7 @@ date: 2016-2-12 09:31:39 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarFeb2016TiloHeartPrintScarf2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarFeb2016TiloHeartPrintScarf3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>The design of the scarf actually has the heart symbols more heavily towards the ends and in the middle section it's pretty solid grey. Although I would not neccessarily buy this scarf at $125, I sure am glad I got this in the box at a fraction of that cost!</p>
