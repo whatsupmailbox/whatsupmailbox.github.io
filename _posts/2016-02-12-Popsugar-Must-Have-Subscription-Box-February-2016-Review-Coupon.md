@@ -228,7 +228,7 @@ date: 2016-2-12 09:31:39 -08:00
 <DD>Value $5</DD>
 </DL>
 
-<p>I go through socks quite often, especially white socks so these were perfect for me. I like how it's low almost no-show socks which is great for working out.</p>
+<p>I go through socks quite often, especially white socks so these were perfect for me. I like how it's low almost a no-show type of sock which is great for working out.</p>
 
 <p>Here's a pic of the sock on me:</p>
 
@@ -238,7 +238,7 @@ date: 2016-2-12 09:31:39 -08:00
 <img src="/images/PopsugarFeb2016VictoriasSecretSportSocks2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The socks are a one size fits all. I'm a size 6-6.5 in shoes and these socks fit me just fine. I love how they feel and it also has a tighter band in the middle of it (where your foot arch is located) to prevent from it sliding down or moving during your activities. Great bonus item!</p>
+<p>The socks are a one size fits all. I'm a size 6-6.5 in shoes and these socks fit me just fine. I love how soft they feel and the thickness of it, plus it also has a tighter band in the middle section (where your foot arch is located) to prevent from it sliding down or moving during your activities. Great bonus item!</p>
 
 <br>
 
@@ -263,7 +263,7 @@ date: 2016-2-12 09:31:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This was a slam dunk, stand up and applaud worthy type of box! They really nailed the love theme for February and with such great variety of items too. Last month was a great box as well and now this, I am impressed, keep it up Popsugar! I absolutely loved and will be using everything and with a total value of $272.95 for a $39.95 box, that's amazing and totally worth it.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This was a slam dunk, stand up and applaud worthy type of box! They really nailed the love theme for February and with such great variety of items too. With big name brands and quality products, this may just be one of my favorite boxes from them (and I said that last month too!). Two months in a row of great curation, I am impressed, keep it up <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar</a>! I absolutely loved and will be using everything, and with a total value of $272.95 for a $39.95 box, that's an amazing value!</p>
 
 <p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
