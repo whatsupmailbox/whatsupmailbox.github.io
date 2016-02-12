@@ -276,7 +276,7 @@ date: 2016-02-12 09:30:39 -08:00
       <TH>Price</TH>
   <TR>
       <TD>Vine Street Market USA Canvas Tote</TD>
-      <TD>$35.99</TD>
+      <TD>$36</TD>
    </TR>
    <TR>
       <TD>Yedi Housewares Porcelain Tea Cup & Saucer</TD>
@@ -300,7 +300,7 @@ date: 2016-02-12 09:30:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$111.95</big></b></TD>
+      <TD><b><big>$111.91</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
