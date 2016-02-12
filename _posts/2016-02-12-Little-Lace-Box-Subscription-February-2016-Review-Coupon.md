@@ -123,7 +123,7 @@ date: 2016-02-12 09:03:39 -08:00
 </a></center>
 
 <DL>
-<DT><b>Yedi Housewares</b> Porcelain Inside Out Heart Tea Cup & Saucer</DT>
+<DT><b>Yedi Houseware</b> Porcelain Inside Out Heart Tea Cup & Saucer</DT>
 <DD>Value $8.99</DD>
 </DL>
 
@@ -279,7 +279,7 @@ date: 2016-02-12 09:03:39 -08:00
       <TD>$36</TD>
    </TR>
    <TR>
-      <TD>Yedi Housewares Porcelain Tea Cup & Saucer</TD>
+      <TD>Yedi Houseware Porcelain Tea Cup & Saucer</TD>
       <TD>$8.99</TD>
    </TR>
    <TR>
