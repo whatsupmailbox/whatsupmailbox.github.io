@@ -222,7 +222,7 @@ date: 2016-02-12 09:30:39 -08:00
 <img src="/images/LittleLaceBoxFeb2016LeaRedmondLettersToMyLove4.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>It's addressed to you instead of love of my life or my love, so you can definitely use this for your girlfriends too.</p>
+<p>It's addressed to "you" instead of "love of my life" or "my love", so you can definitely use this for your girlfriends too.</p>
 
 <br>
 
@@ -254,7 +254,7 @@ date: 2016-02-12 09:30:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was awesome and such a great curation. It featured so many new brands and products that I've never heard of, this is truly why I subscribe to Little Lace Box and why they set themself apart from other subscription boxes. I can tell a lot of thought was put into curating this box and boy was it spot on in representing their theme. I haven't reviewed their boxes lately only because it's been less than stella, but this month's box has put LLB back in the spotlight and into my top favorites list again.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This box was awesome and such a great curation. It featured so many new brands and products that I've never heard of, this is truly why I subscribe to <a href="http://www.shareasale.com/r.cfm?b=782083&u=1115177&m=61975&urllink=&afftrack=" target="_blank">Little Lace Box</a> and why they set themself apart from other subscription boxes. I can tell a lot of thought was put into curating this box and boy was it spot on in representing their theme. I haven't reviewed their boxes lately only because it's been less than stellar, but this month's box has put LLB back in the spotlight and into my top favorites list again!</p>
 
 <p>Their next box will ship in April and it will have a Broadway and New York theme:</p>
 
