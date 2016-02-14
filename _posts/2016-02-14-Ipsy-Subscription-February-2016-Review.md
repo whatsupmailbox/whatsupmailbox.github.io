@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -170,11 +170,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I wasn't too excited initially when I saw the reveal of my items earlier this month, but now that I have everything in my hands and have used some of them, I'm actually quite happy with it. Especially since the total value came up to $71.50 which is really good for the $10 cost. This month's item had a great variation in products and I really did like the nail polish plus will be using everything else so that's a win for me!</p>
 
-<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! And right now for a limited time (48 hours only!) there's no waitlist to join! FYI, normally when you want to subscribe to Ipsy, you'll be put on a waitlist that can sometimes last for 2-months or more, so this is a great time to subscribe. Go to their website <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> to subscribe now with no waitlist!</p>
-
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyJan2016NoWaitlist.png" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! Or go to their website <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> for more info.</p>
 
 <br>
 
