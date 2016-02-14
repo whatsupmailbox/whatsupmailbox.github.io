@@ -164,7 +164,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <p><i>Note: This jar did not come sealed.</i></p>
 
-<p>I've never heard of this brand before. It's a Canadian company (all products are made in Canada) and is sold in Target. The texture is thick and creamy, which is how I would expect any ultra moisturizing lotion should be. My elbows have been quite dry lately so I tested this on there right away and it really did moisturize the area well. Made with natural ingredients of shea butter, coconut oil and sunflower oil. It's also fragrance free, the only scent I noted was the shea butter but it wasn't too strong. This was a great lotion to try!</p>
+<p>I've never heard of this brand before. It's a Canadian company (all their products are made in Canada) and is sold in Target. The texture is thick and creamy, which is what I would expect any ultra moisturizing lotion should be. My elbows have been quite dry lately so I tested this on there right away and it really did moisturize the area well. Made with natural ingredients of shea butter, coconut oil and sunflower oil. It's also fragrance free, the only scent I noted was the shea butter but it wasn't too strong. This was a great lotion to try!</p>
 
 <br>
 
