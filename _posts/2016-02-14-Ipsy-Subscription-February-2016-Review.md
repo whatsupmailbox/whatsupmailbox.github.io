@@ -75,7 +75,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <p><i>Note: This blush has an inside sticker seal and every subscriber receiving this will get the shade Desert Rose.</i></p>
 
-<p>It's been awhile since I've used a loose powdered blush, I may just be too lazy to swirl, tap and buff. But I'm open to trying it out again. Plus this came in quite a large sized jar (hurray) so this will surely last me for quite some time.</p>
+<p>It's been awhile since I've used a loose powdered blush, I'm just too lazy to swirl, tap and buff. But I'm open to trying it out again. Plus this came in quite a large sized jar (hurray) so this will surely last me for quite some time.</p>
 
 <br>
 
