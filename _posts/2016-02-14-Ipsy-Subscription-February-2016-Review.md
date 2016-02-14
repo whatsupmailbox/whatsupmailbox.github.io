@@ -54,7 +54,7 @@ date: 2016-2-14 10:51:39 -08:00
       <img src='/images/IpsyFeb2016Info2.jpg'>
 </figure>
 
-<p>This month's theme is "Pretty in Ipsy Pink", and since it's their signature color, their celebrating it by including this shade with their subscribers.</p>
+<p>This month's theme is "Pretty in Ipsy Pink", and since it's their signature color, their celebrating it by including this shade in every glam bag.</p>
 <br>
 
 # And here are my Ipsy February 2016 items:</H4>
