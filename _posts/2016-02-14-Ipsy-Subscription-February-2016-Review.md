@@ -14,15 +14,16 @@ tags: [Ipsy, Subscriptions, Reviews, February 2016]
 date: 2016-2-14 10:51:39 -08:00
 ---
 
-<p></p>
-<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
-<p><b>Cost:</b> $10/monthly + Free Shipping</p>
-<p><b>What's in the box:</b> You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a beauty profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
-<br>
-
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
 </a></center>
+
+<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
+<p><b>Cost:</b> $10/monthly + Free Shipping</p>
+<p><b>What's in the box:</b> You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a beauty profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
+
+<br>
+
 <p>Ipsy always ships their bags in bright neon pink padded envelopes, it's hard to miss and I always get happy when I see it in my mailbox!</p>
 
 <p>Ipsy is very similar to <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> where all subscribers receive different variations in their bag, and is mostly dependent on the answers you give in the Ipsy beauty quiz. They try to give you products that match your needs and concerns so not everyone will get the same items. And you can retake the beauty quiz at anytime if you feel that the products didn't really match you.</p>
