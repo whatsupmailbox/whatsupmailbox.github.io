@@ -75,7 +75,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <p><i>Note: This blush has an inside sticker seal and every subscriber receiving this will get the shade Desert Rose.</i></p>
 
-<p>It's been awhile since I've used a loose powdered blush, I may just be too lazy to swirl, tap and buff. But I'm open to trying it out again. Plus this came in quite a large sized jar, hurray, this will surely last me for quite some time.</p>
+<p>It's been awhile since I've used a loose powdered blush, I may just be too lazy to swirl, tap and buff. But I'm open to trying it out again. Plus this came in quite a large sized jar (hurray) so this will surely last me for quite some time.</p>
 
 <br>
 
@@ -97,62 +97,78 @@ date: 2016-2-14 10:51:39 -08:00
 
 <DL>
 <DT><b>IT Cosmetics</b> Bye Bye Under Eye® Anti-Aging Concealer in Tan</DT>
-<DD>Travel Size 0.11 fl.oz. (Full Size .28 fl.oz.), Value $30</DD>
+<DD>Deluxe Sample Size 0.11 fl.oz. (Full Size .28 fl.oz.), Value $9.50</DD>
 </DL>
 
 <p><i>Note: ipsters who receive this product will receive the shade Light, Medium, or Tan.</i></p>
 
 <p>I appreciate the fact that they actually matched the shade of this concealer to my actual skin color. I looked into my beauty profile and I did indicate Tan as my skin tone, so if you got this too, it should be matched to the skin tone you stated in your beauty profile.</p>
 
-<p>This concealer went on smoothly and did not settle on my lines or looked patchy. It I tried to wash my hands with just soap and water, and this swatch would not budge no matter how much I scrubbed. I ended up having to use eye makeup remover to finally get it off. Needless to say, this is a keeper and I just might have to buy more colors!</p>
+<p>This concealer went on smoothly and did not settle on my lines or looked patchy. This will be life saving on those days where I wake up with those dreaded dark circles.</p>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyJan2016OfraEyebrowPencil.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/IpsyFeb2016CiateLondonOliviaPalermoPaintPotSundaysMyOffDutyNude.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <DL>
-<DT><b>OFRA Cosmetics</b> Universal Eyebrow Pencil</DT>
-<DD>Full Size 0.04 oz., Value $13</DD>
+<DT>Olivia Palermo x Ciaté London Paint Pot in "Sundays - My Off Duty Nude"</DT>
+<DD>Mini Paint Pot .17 oz, Value $9</DD>
 </DL>
 
-<p>I've received this eyebrow pencil from Ofra Cosmetics before in my Little Lace Box subscription. I tried it then and did not like it at all. It wasn't very long lasting and in order to get a precise line or filling for my eyebrows, I had to constantly sharpen it because the pencil itself is quite thick. This was both annoying and wasteful in my opinion. Because of that, this eyebrow pencil will be gifted and another miss for me.</p>
+<p>When I saw the reveal of my glam bag earlier this month, I knew I was getting this nail polish and wasn't too excited but now that I have it on hand, I actually love it especially since it's an Oliva Palermo x Ciaté London color.</p>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyJan2016SkynGlacialCleansingCloths.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/IpsyFeb2016CiateLondonOliviaPalermoPaintPotSundaysMyOffDutyNude2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<DL>
-<DT><b>skyn ICELAND</b> Travel Size Glacial Cleansing Cloths</DT>
-<DD>Travel Size 10 cleansing cloths, Value $5</DD>
-</DL>
-
-<p>I'm super happy I received these facial cleansing clothes! I'm a fan of their eye patches and have always wanted to try these since it has gotten great reviews.</p>
-
-<p>"When you're too tired to deal with the whole cleanser and wash cloth routine, these on-the-go foaming cloths are the ultimate skin savior. Infused with Icelandic glacial waters and beneficial natural extracts, they sweep away makeup, dirt, oil and other impurities while refreshing and soothing stressed skin. Best of all, there's no water required. It has a clean scent, never tacky. Great for travel or every day!"</p>
+<p>The name of the color is very fitting especially for today, a Sunday! It's also a nice pretty pastel pink that I can really wear everyday. See picture below.</p>
 
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyJan2016JellyPongPongFairyLashesCurlMascara.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/IpsyFeb2016CiateLondonOliviaPalermoPaintPotSundaysMyOffDutyNude3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<DL>
-<DT><b>Jelly Pong Pong</b> Fairy Lashes CURL Mascara</DT>
-<DD>Full Size 8 ml, Value $21.95</DD>
-</DL>
-
-<p><i>Note: This mascara came sealed.</i></p>
-
-<p>"Fairy Lashes CURL is a sculpting, curling mascara that continually curls lashes throughout the day with a unique synthesis of Moringa Seed resin that dries down and holds the curl of lashes for long-lasting results. The unique brush instantly creates dramatic volume and intense definition."</p>
-
-<p>Although this mascara sounds great and may be perfect for me, unfortunately the ingredients have paraben in them and that's a total no-no for me, so sadly this will have to be passed along.</p>
+<p>I applied two coats (one coat was too sheer for me) and it has this plumping feature as well so it evens out the color on your nails. It's also "formulated with an exclusive and advanced Dual Polymer Mesh Lock Technology that was specially developed to create a long lasting, durable, high-shine lacquer". It looks great on my olive tanned skin, but I think it'll look great on any skin tone as well. It just looks feminine and an all around great everyday color.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Although I'm happy that I received 4 full-sized products out of the 5 that's in the bag, unfortunately most of the products were a miss and will not be used. I did like the eyeliner and the cleansing cloths, and those 2 items alone are worth double the subscription cost, so I'm still happy with it. I have now updated my beauty profile to see if I could get a better match in products next month, and I hope I do.</p>
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyFeb2016VintageJessicaLiebeskindSparklingLipglossPinkSequin.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>VINTAGE by Jessica Liebeskind</b> Sparkling Lipgloss in Pink Sequin</DT>
+<DD>Full Size 0.14 OZ. / 4.0 g, Value $21</DD>
+</DL>
+
+<p><i>Note: This lipgloss came sealed.</i></p>
+
+<p>Although the packaging is different than the regular Full Size packaging you would get directly from the brand, the actual amount is the same which is 0.14 oz., so I was super happy with that!</p>
+
+<p>The color Pink Sequin is a light and sparkly icy-pink lilac. Although I'm not big on shimmer for my lips (I'm more of a matte girl), I will still be trying this and hopefully it wouldn't be too shimmery for my taste.</p>
+
+<br>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyFeb2016SkinfixUltraRichBodyButter.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
+
+<DL>
+<DT><b>Skinfix</b> Ultra Rich Body Butter</DT>
+<DD>Travel Size 1 oz., Value $2</DD>
+</DL>
+
+<p><i>Note: This jar did not come sealed.</i></p>
+
+<p>I've never heard of this brand before. It's a Canadian company (all products are made in Canada) and is sold in Target. The texture is thick and creamy, which is how I would expect any ultra moisturizing lotion should be. My elbows have been quite dry lately so I tested this on there right away and it really did moisturize the area well. Made with natural ingredients of shea butter, coconut oil and sunflower oil. It's also fragrance free, the only scent I noted was the shea butter but it wasn't too strong. This was a great lotion to try!</p>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I wasn't too excited initially when I saw the reveal of my items earlier this month, but now that I have everything in my hands and have used some of them, I'm actually quite happy with it. Especially since the total value came up to $71.50 which is really good for the $10 cost. This month's item had a great variation in products and I really did like the nail polish plus will be using everything else so that's a win for me!</p>
 
 <p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! And right now for a limited time (48 hours only!) there's no waitlist to join! FYI, normally when you want to subscribe to Ipsy, you'll be put on a waitlist that can sometimes last for 2-months or more, so this is a great time to subscribe. Go to their website <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> to subscribe now with no waitlist!</p>
 
@@ -171,28 +187,28 @@ date: 2016-2-14 10:51:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>J.Cat Beauty Blinkle Shimmer Eyeshadow</TD>
-      <TD>$4.99</TD>
+      <TD>BelláPierre Cosmetics Mineral Blush</TD>
+      <TD>$30</TD>
    </TR>
    <TR>
-      <TD>theBalm Cosmetics Mr. Write (Now) Eyeliner</TD>
-      <TD>$17</TD>
+      <TD>IT Cosmetics Bye Bye Under Eye Concealer</TD>
+      <TD>$9.50</TD>
    </TR>
     <TR>
-      <TD>OFRA Cosmetics Universal Eyebrow Pencil</TD>
-      <TD>$13</TD>
+      <TD>Olivia Palermo x Ciaté London Nail Polish</TD>
+      <TD>$9</TD>
    </TR>
     <TR>
-      <TD>skyn ICELAND Glacial Cleansing Cloths</TD>
-      <TD>$5</TD>
+      <TD>VINTAGE by Jessica Liebeskind Sparkling Lipgloss</TD>
+      <TD>$21</TD>
    </TR>
     <TR>
-      <TD>Jelly Pong Pong Fairy Lashes CURL Mascara</TD>
-      <TD>$21.95</TD>
+      <TD>Skinfix Ultra Rich Body Butter</TD>
+      <TD>$2</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$61.94</big></b></TD>
+      <TD><b><big>$71.50</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
