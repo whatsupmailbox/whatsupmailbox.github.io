@@ -59,7 +59,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <br>
 
-# And here are my Ipsy February 2016 items:
+<H4> And here are my Ipsy February 2016 items:</H4>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy February 2016 Glam Bag Items!" />
@@ -67,7 +67,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <br>
 
-## Items in Detail:
+<H4> Items in Detail:</H4>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016BellaPierreCosmeticsMineralBlushDesertRose.jpg" border="0" style="border:none;max-width:100%;" />
