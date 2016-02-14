@@ -59,9 +59,11 @@ date: 2016-2-14 10:51:39 -08:00
 <br>
 
 # And here are my Ipsy February 2016 items:
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy February 2016 Glam Bag Items!" />
 </a></center>
+
 <br>
 
 ## Items in Detail:
@@ -69,6 +71,7 @@ date: 2016-2-14 10:51:39 -08:00
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyFeb2016BellaPierreCosmeticsMineralBlushDesertRose.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+
 <DL>
 <DT><b>BelláPierre Cosmetics</b> Mineral Blush in Desert Rose</DT>
 <DD>Sifter Jar 6g (Full Size is 9g), Value $30</DD>
