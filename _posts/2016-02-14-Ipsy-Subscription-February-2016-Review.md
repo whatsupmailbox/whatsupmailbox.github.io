@@ -132,7 +132,7 @@ date: 2016-2-14 10:51:39 -08:00
 <img src="/images/IpsyFeb2016CiateLondonOliviaPalermoPaintPotSundaysMyOffDutyNude3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>I applied two coats (one coat was too sheer for me) and it has this plumping feature as well so it evens out the color on your nails. It's also "formulated with an exclusive and advanced Dual Polymer Mesh Lock Technology that was specially developed to create a long lasting, durable, high-shine lacquer". It looks great on my olive tanned skin, but I think it'll look great on any skin tone as well. It just looks feminine and an all around great everyday color.</p>
+<p>I applied two coats (one coat was too sheer for me) and it has this plumping feature as well so it evens out the surface of your nails. It's also "formulated with an exclusive and advanced Dual Polymer Mesh Lock Technology that was specially developed to create a long lasting, durable, high-shine lacquer". It looks great on my olive tanned skin, but I think it'll look great on any skin tone as well. It just looks feminine and an all around great everyday color.</p>
 
 <br>
 
