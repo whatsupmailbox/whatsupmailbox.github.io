@@ -38,7 +38,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <br>
 
-<p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design celebrates Valentine's Day with a heart symbol and is really cute, I like it! The texture also has raised little circles giving it a textured look.</p>
+<p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design celebrates Valentine's Day with a heart symbol and is really cute, I like it! The texture also has little raised bumps giving it a textured look.</p>
 
 <p>Here's a look at the back of the bag:</p>
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
