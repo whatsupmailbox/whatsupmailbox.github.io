@@ -147,7 +147,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <p><i>Note: This lipgloss came sealed.</i></p>
 
-<p>Although the packaging is different than the regular Full Size packaging you would get directly from the brand, the actual amount is the same which is 0.14 oz., so I was super happy with that!</p>
+<p>Although the packaging is different, it looks shorter and almost half sized of the regular full size tube you would get directly from the brand, the actual amount is the same which is 0.14 oz. making this in fact Full Sized, so I was super happy with that!</p>
 
 <p>The color Pink Sequin is a light and sparkly icy-pink lilac. Although I'm not big on shimmer for my lips (I'm more of a matte girl), I will still be trying this and hopefully it wouldn't be too shimmery for my taste.</p>
 
