@@ -80,7 +80,7 @@ date: 2016-2-14 10:51:39 -08:00
 <br>
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyFeb2016BellaPierreCosmeticsMineralBlushDesertRose.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/IpsyFeb2016BellaPierreCosmeticsMineralBlushDesertRose2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>This blush looks great and goes on quite naturally on my olive skin tone. It also talc-free, paraben-free, and suitable for all skin types and conditions which is music to my ears. So glad I got this!</p>
