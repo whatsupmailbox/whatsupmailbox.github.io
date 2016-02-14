@@ -175,7 +175,7 @@ date: 2016-2-14 10:51:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
