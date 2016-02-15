@@ -149,7 +149,7 @@ date: 2016-2-15 10:45:00 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> There were some great products but also some misses for me in this box. I especially loved the lip balm which was full size and worth $14 in itself. Overall I did find use for everything except one product and the value to me is still way above what I paid for so it's still a win for me. It's hard to be disappointed with Birchbox because you always get much more than the cost and that's why I stay subscribed.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> There were some great products but also some misses for me in this box. The eye cream that I received was in a quite generous size, more than half the full size, and was worth $24. Plus I especially loved the ARROW (a Birchbox beauty line) lip balm which was full size and worth $14 in itself. Overall I did find use for everything except one product and the value to me is still way above what I paid for so it's still a win for me. With a total value of $51.25 for a $10 box, what's not to love!</p>
 
 <p>Not a subscriber? You can <a href="https://www.birchbox.com/invite/whatsupmailbox"><big>visit their website or subscribe here</big></a> to start receiving their monthly beauty boxes. And don't forget to use coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">MALLYGIFT</a> to receive a FREE full-size Mally Evercolor Shadow Stick in Copper Rose ($25 value!) when you join Birchbox.</p>
 
@@ -168,34 +168,34 @@ date: 2016-2-15 10:45:00 -08:00
 <TABLE  BORDER="5" style="width:45%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Birchbox JAN 2016 Items</center></H3>
+         <H3><BR><center>My Birchbox FEB 2016 Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>CLEAN Cashmere Eau de Parfum</TD>
-      <TD>$1?</TD>
+      <TD>ARROW Lip Balm</TD>
+      <TD>$14</TD>
    </TR>
    <TR>
-      <TD>Ciaté London Nail Polish</TD>
-      <TD>$8</TD>
+      <TD>FHI Brands Argan Oil</TD>
+      <TD>$3.50</TD>
    </TR>
     <TR>
-      <TD>FOREO Day Cleanser</TD>
+      <TD>Sahajan Eye Cream</TD>
+      <TD>$24</TD>
+   </TR>
+    <TR>
+      <TD>The Body Shop Body Butter</TD>
+      <TD>$5.25</TD>
+   </TR>
+    <TR>
+      <TD>Whish Cleansing Oil</TD>
       <TD>$4.50</TD>
-   </TR>
-    <TR>
-      <TD>Eyeko Fat Liquid Eyeliner</TD>
-      <TD>$16</TD>
-   </TR>
-    <TR>
-      <TD>TONYMOLY Delight Tony Tint</TD>
-      <TD>$2?</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$31.50</big></b></TD>
+      <TD><b><big>$51.25</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
