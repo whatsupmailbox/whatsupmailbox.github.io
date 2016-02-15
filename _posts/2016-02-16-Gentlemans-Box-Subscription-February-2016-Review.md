@@ -129,7 +129,7 @@ date: 2016-02-16 09:31:39 -08:00
 <DD>Value $25</DD>
 </DL>
 
-<p>These straight bottomed ties are so chic and modern, my husband has been wearing more of these styles lately and they just look so dapper. This tie is a modern version of your classic black tie and it will surely make you look like you're up to date with style. Plus the tie bar looks great together with this tie (as pictured), great combo!</p>
+<p>These straight bottomed ties are so chic and modern, my husband has been wearing more of these styles lately and they just look so dapper. This tie is a modern version of your classic black tie and it will surely make you look like you're up to date with style. Plus the included tie bar looks great together with this (as pictured), great combo!</p>
 
 <br>
 
@@ -139,12 +139,20 @@ date: 2016-02-16 09:31:39 -08:00
 <DD>Value $24</DD>
 </DL>
 
-<p>Oooh, a leather lapel!</p>
+<p>Oooh, a leather lapel! Made of 100% leather, this will surely make you look so fashionably distinct and uber cool. Love it!</p>
 
 <br>
 
-<center><img src='/images/GentlemansBoxFeb2016UrbanProfessorLaCamilleLapelFlower.jpg'></center>
+<p>Here's a look at the back of the lapel:</p>
+
+<br>
+
+<center><img src='/images/GentlemansBoxFeb2016UrbanProfessorLaCamilleLapelFlower2.jpg'></center>
 <figcaption>The backside of the lapel</figcaption>
+
+<br>
+
+<p>The company Urban Professor is also active in giving back to the community and 25% of the proceeds from the purchase of this item goes towards Silver Spoon Foundation, the preferred empowerment resource for closing the opportunity gap for underprivileged students.</p>
 
 <br>
 
