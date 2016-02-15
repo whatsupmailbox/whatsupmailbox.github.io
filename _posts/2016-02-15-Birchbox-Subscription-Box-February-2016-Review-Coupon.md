@@ -103,7 +103,7 @@ date: 2016-2-15 12:45:00 -08:00
 </a></center>
 
 <DL>
-<DT><b>Sahajan</b>Restorative Eye Cream</DT>
+<DT><b>Sahajan</b> Restorative Eye Cream</DT>
 <DD>Deluxe Sample 8ml (more than Half of Full Size 15ml), Value $24</DD>
 </DL>
 
