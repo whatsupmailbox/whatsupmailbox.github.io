@@ -111,7 +111,7 @@ date: 2016-2-15 10:45:00 -08:00
 
 <p>"This Ayurvedic (a type of complementary and alternative medicine that originated in India) cream utilizes coconut oil to hydrate, honey to repair delicate skin, and triphala (a powerful antioxidant blend of three fruits) to brighten skin’s appearance and hide fine lines. The powerful blend is topped off with neem oil to reduce inflammation and signs of tiredness".</p>
 
-<p>I always welcome eye products so this was a good match for me. I'm constantly staring into the computer for my work as well as working late nights, so a good eye cream to undo the damage I've done to my eyes are of course most welcomed. It does have a bit of a unique smell which might be off putting for some people, but it goes away quickly. I've only used it once so can't really tell if it works or not, but thankfully the size of this sample is really generous so I'll certainly have enough product to see benefits.</p>
+<p>I always welcome eye products so this was a good match for me. I'm constantly staring into the computer for my work as well as working late nights, so a good eye cream to undo the damage is of course most welcomed. It does have a bit of a distinct and unique smell, kind of herbal or medicine scent, which might be off putting for some people, but it goes away quickly. It didn't bother me at all. I've only used it once so I can't really tell if it works or not, but thankfully the size of this sample is really generous so I'll certainly have enough product to see benefits.</p>
 
 <br>
 
