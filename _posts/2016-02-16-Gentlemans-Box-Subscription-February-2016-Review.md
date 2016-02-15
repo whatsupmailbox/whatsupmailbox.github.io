@@ -122,7 +122,7 @@ date: 2016-02-16 09:31:39 -08:00
 
 <center><img src='/images/GentlemansBoxFeb2016MySuitedLifeMidnightSleekTie.jpg'></center>
 
-<center><img src='/images/GentlemansBoxFeb2016MySuitedLifeMidnightSleekTie.jpg'></center>
+<center><img src='/images/GentlemansBoxFeb2016MySuitedLifeMidnightSleekTie2.jpg'></center>
 
 <DL>
 <DT><b>My Suited Life</b> Midnight Sleek Tie</DT>
@@ -140,6 +140,27 @@ date: 2016-02-16 09:31:39 -08:00
 </DL>
 
 <p>Oooh, a leather lapel!</p>
+
+<br>
+
+<center><img src='/images/GentlemansBoxFeb2016UrbanProfessorLaCamilleLapelFlower.jpg'></center>
+<figcaption>The backside of the lapel</figcaption>
+
+<br>
+
+<center><img src='/images/GentlemansBoxFeb2016DudeWipes.jpg'></center>
+<DL>
+<DT><b>Dude Wipes</b></DT>
+<DD>Value $2</DD>
+</DL>
+
+<p>These dude wipes will come in handy for a quick refresh during the summer or any outdoor events.</p>
+
+<br>
+
+<center><img src='/images/GentlemansBoxFeb2016DudeWipes2.jpg'></center>
+
+<p>The ingredients are </p>
 
 <br>
 
