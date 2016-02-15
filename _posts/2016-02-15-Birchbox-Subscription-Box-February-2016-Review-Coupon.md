@@ -94,7 +94,7 @@ date: 2016-2-15 10:45:00 -08:00
 
 <p><i>Note: This came with an inner foil seal.</i></p>
 
-<p>So I'm not a big fan on putting oil on my hair even though I do get frizzy from time to time, but I also get oily hair easily hence why I try to avoid oil based products on my hair. I've tried this though and it does what it's supposed to do, hydrates, de-frizzes, repairs damage, and create a healthy shine. It's also more lightweight than other argan oil hair products, so maybe I can actually use this.</p>
+<p>So I'm not a big fan on putting oil on my hair even though I do get frizzy from time to time, but I also get oily hair easily hence why I try to avoid oil based products on my hair. I've tried this though and it does what it's supposed to do, hydrates, de-frizzes, and create a healthy shine. It's also more lightweight than other argan oil hair products, so maybe I can actually use this.</p>
 
 <br>
 
