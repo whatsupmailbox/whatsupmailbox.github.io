@@ -215,7 +215,7 @@ date: 2016-02-16 09:31:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$86</big></b></TD>
+      <TD><b><big>$92</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
