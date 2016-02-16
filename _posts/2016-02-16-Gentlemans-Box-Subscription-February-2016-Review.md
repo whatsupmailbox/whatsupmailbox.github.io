@@ -129,7 +129,7 @@ date: 2016-02-16 09:31:39 -08:00
 <DD>Value $25</DD>
 </DL>
 
-<p>These square end ties are so chic and modern, my husband has been wearing more of these styles lately and they just look so dapper. This tie is a modern version of your classic black tie and it will surely make you look like you're up to date with style. Plus the included tie bar looks great together with this (as pictured), great combo!</p>
+<p>These square end ties are so chic and modern, my husband has been wearing more of these styles lately and they just look so dapper. This tie is a modern version of your classic black tie and it will surely make you look like you're up to date with style. Plus the included tie bar looks great together with this as pictured above, great combo!</p>
 
 <br>
 
