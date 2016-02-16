@@ -162,21 +162,21 @@ date: 2016-02-16 09:31:39 -08:00
 <DD>2 singles packs</DD>
 </DL>
 
-<p>These flushable wipes were made by four guys who shared an apartment in Chicago after college. They wanted to make wipes specifically for the adult male market.</p>
+<p>These disposable and flushable wipes were made by four guys who shared an apartment in Chicago after college. They wanted to make wipes specifically for the adult male market due to their lack of satisfaction with using baby wipes. So they embarked in a journey of research and design and launched their product in 2012.</p>
 
-<p>I love their "let it rip" statement on the packaging. As a woman myself, I have to use wipes in combination with toilet paper to feel extra clean, and these are specifically made for men so I will surely be buying the bigger package for my husband!</p>
+<p>I love their "let it rip" statement on the packaging. It's funny and... well... quite direct. As a woman myself, I have to use wipes in combination with toilet paper to feel extra clean. These are specifically made for men and personally I think it's well made, so I will surely be buying the bigger package for my husband!</p>
 
 <br>
 
 <center><img src='/images/GentlemansBoxFeb2016DudeWipes2.jpg'></center>
 
-<p>The ingredients are , plus 10% of Proceeds Donated to The Colon Club Charity.</p>
+<p>These wipes are infused with vitamin E and aloe, is alcohol free and also quick drying. They can also be used for your face, hands, pits and dude region. And to top all of that off, 10% of proceeds will be donated to The Colon Club Charity.</p>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $100.50, this is definitely one box a gentleman should have to join the dapper club!</p>
 
-<p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving monthly accessories and lifestyle products for men!</p>
+<p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!</p>
 <br>
 
 <TABLE  BORDER="5" style="width:50%">
