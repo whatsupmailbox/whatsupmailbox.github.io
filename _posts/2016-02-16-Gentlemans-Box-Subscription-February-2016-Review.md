@@ -174,7 +174,7 @@ date: 2016-02-16 09:31:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $100.50, this is definitely one box a gentleman should have to join the dapper club!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $86, this is definitely one box a gentleman should have to join the dapper club!</p>
 
 <p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!</p>
 <br>
@@ -205,7 +205,7 @@ date: 2016-02-16 09:31:39 -08:00
    </TR>
    <TR>
       <TD>Dude Wipes</TD>
-      <TD>$</TD>
+      <TD>$bonus</TD>
    </TR>
    <TR>
       <TD>GQ Magazine</TD>
@@ -213,7 +213,7 @@ date: 2016-02-16 09:31:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$100.50</big></b></TD>
+      <TD><b><big>$86</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
