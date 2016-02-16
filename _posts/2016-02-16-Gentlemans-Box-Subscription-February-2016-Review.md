@@ -78,7 +78,7 @@ date: 2016-02-16 09:31:39 -08:00
 
 <br>
 
-# And here are the items in Gentleman's Box February 2016:
+# And here are the items in this month's Gentleman's Box:
 
 <center><img src='/images/GentlemansBoxFeb2016Items.jpg'></center>
 
