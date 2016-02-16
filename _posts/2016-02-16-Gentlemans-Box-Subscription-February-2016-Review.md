@@ -9,7 +9,7 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, February 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxFeb2016Items.jpg"
@@ -176,7 +176,7 @@ date: 2016-02-16 09:31:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $86, this is definitely one box a gentleman should have to join the dapper club!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $92, this is definitely one box a gentleman should have to join the dapper club!</p>
 
 <p>Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!</p>
 <br>
