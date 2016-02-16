@@ -159,16 +159,18 @@ date: 2016-02-16 09:31:39 -08:00
 <center><img src='/images/GentlemansBoxFeb2016DudeWipes.jpg'></center>
 <DL>
 <DT><b>Dude Wipes</b></DT>
-<DD>Value $2</DD>
+<DD>2 singles packs</DD>
 </DL>
 
-<p>These dude wipes will come in handy for a quick refresh during the summer or any outdoor events.</p>
+<p>These flushable wipes were made by four guys who shared an apartment in Chicago after college. They wanted to make wipes specifically for the adult male market.</p>
+
+<p>I love their "let it rip" statement on the packaging. As a woman myself, I have to use wipes in combination with toilet paper to feel extra clean, and these are specifically made for men so I will surely be buying the bigger package for my husband!</p>
 
 <br>
 
 <center><img src='/images/GentlemansBoxFeb2016DudeWipes2.jpg'></center>
 
-<p>The ingredients are </p>
+<p>The ingredients are , plus 10% of Proceeds Donated to The Colon Club Charity.</p>
 
 <br>
 
