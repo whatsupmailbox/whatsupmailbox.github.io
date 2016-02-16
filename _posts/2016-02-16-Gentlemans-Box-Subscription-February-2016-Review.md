@@ -162,6 +162,8 @@ date: 2016-02-16 09:31:39 -08:00
 <DD>2 singles packs</DD>
 </DL>
 
+<p>There's no value that <a href="https://gentlemansbox.com">Gentleman's Box</a> stated for these so I'm guessing it's either a bonus item or sponsored. Just for comparison, a box of 30 single-packs cost $8.79 on Amazon.</p>
+
 <p>These disposable and flushable wipes were made by four guys who shared an apartment in Chicago after college. They wanted to make wipes specifically for the adult male market due to their lack of satisfaction with using baby wipes. So they embarked in a journey of research and design and launched their product in 2012.</p>
 
 <p>I love their "let it rip" statement on the packaging. It's funny and... well... quite direct. As a woman myself, I have to use wipes in combination with toilet paper to feel extra clean. These are specifically made for men and personally I think it's well made, so I will surely be buying the bigger package for my husband!</p>
