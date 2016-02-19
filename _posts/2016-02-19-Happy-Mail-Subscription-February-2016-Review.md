@@ -167,9 +167,16 @@ date: 2016-2-19 15:21:39 -08:00
 <br>
 
 <figure class="half">
+      <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP6.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" /></a>
+      <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP7.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" /></a>
+        <figcaption>Stickers are included!</figcaption>
+</figure>
 
+<br>
 
-<p>Absolutely loved this planner and so glad I got it as a GWP! FYI, these planners are limited edition.</p>
+<p>I absolutely loved this planner, it's gorgeous and oh-so useful. So glad I got it as a GWP! FYI, these planners are limited edition.</p>
 
 <br>
 
