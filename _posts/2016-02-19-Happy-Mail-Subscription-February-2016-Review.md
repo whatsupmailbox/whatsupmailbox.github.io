@@ -8,10 +8,10 @@ title: Happy Mail February 2016 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: PipsticksFeb2016Items.jpg
+imagefeature: HappyMailFeb2016Items.jpg
 headline: Happy Mail February 2016 Review!
 tags: [Happy Mail, Subscriptions, Reviews, February 2016]
-date: 2016-2-19 12:51:39 -08:00
+date: 2016-2-19 15:21:39 -08:00
 ---
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
@@ -23,7 +23,27 @@ date: 2016-2-19 12:51:39 -08:00
 <p><b>What's in the box:</b> Each month, subscribers will receive $50 (retail value) of stationery at their doorstep. Most of it are greeting cards, but it will also include a couple of fun pieces like note pads, journals or stickers!</p>
 <br>
 
-<p>I've been wanting to try out this subscription for awhile and finally jumped the gun when they had a GWP promo.</p>
+<p>I've been wanting to try out this subscription for awhile and finally jumped the gun when they had a GWP promo: Get a FREE 2016 #PLAN Spiral Planner when you start a 6 or 12-month Happy Mail subscription.</p>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
+</a></center>
+
+<p>Because my first package included this GWP, they send my items out in a box to accomodate the planner. Happy Mail is typically sent with just the envelope packaging as below:</p>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
+</a></center>
+
+<p>This is a thick paper envelope and it's shipped through UPS Ground. It took 6 days for it to arrive to me in Los Angeles.</p>
+
+<br>
+
+<p>Here's a look at the back of the packaging:</p>
 
 <br>
 
@@ -31,12 +51,10 @@ date: 2016-2-19 12:51:39 -08:00
 <img src="/images/HappyMailFeb2016Package2.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
 </a></center>
 
-<p>They send out their kits in this thick paper envelope and it's shipped through USPS.</p>
-
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Package2.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
+<img src="/images/HappyMailFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
@@ -57,42 +75,101 @@ date: 2016-2-19 12:51:39 -08:00
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016GreetingCards.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Stamp" />
 </a></center>
+
+<p>This month's package included a wooden "Happy Mail" stamp! I love stamps and this one is totally adorbs and can be used for pretty much any type of mail. I'll be using this frequently!</p>
 
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016GreetingCards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
 </a></center>
+
+<p>I love the bright and pink colors this month, they're so poppin happy and totally my style.</p>
 
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016GreetingCards2.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
 </a></center>
 
-<p>They also send a postcard in every monthly package. The picture above also includes some stickers from the package. The outer space themed stickers are on clear velum and there's also 2 stamp-sized stickers of cats.</p>
+<p>Birthday cards are always in need and these cards are simple yet chic at the same time.</p>
 
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016GreetingCards3.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
 </a></center>
+
+<p>Each of these cards have words on them. Starting from the left, the light bulb card has the word "our love is electric", the flower card in the middle has the word "my bad." on the back of it, and the right clothes hanger card has the word "Let's Hang Out" inside. All very cute and useful!</p>
 
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016Postcards.jpg" border="0" style="border:none;max-width:100%;" alt="Postcards" />
 </a></center>
 
-<p>These stickers are great for my planner. I can even use some of them as gift labels!</p>
+<p>These two are postcards. They will certainly brighten up any mailbox.</p>
 
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Cards.jpg" border="0" style="border:none;max-width:100%;" alt="Greeting Cards" />
+<img src="/images/HappyMailFeb2016Stickers.jpg" border="0" style="border:none;max-width:100%;" alt="Stickers" />
 </a></center>
+
+<p>Heart stickers are great because you can use this for just about anything. Planners, gifts, mail, scrapbooking and more. Great addition especially for February.</p>
+
+<br>
+
+<p>Now on to the GWP:</p>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
+</a></center>
+
+<p>This planner has a hard cover and spiral bound and has colored monthly tabs, month at a glance pages, weekly & daily to-do pages, and a spot to record your goals for every season. It also has an elastic band to secure your planner so it's travel friendly.</p>
+
+<br>
+
+<p>Here are some pictures of the pages inside:</p>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP2.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
+</a></center>
+<figcaption>The first page</figcaption>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP3.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
+</a></center>
+<figcaption>Weekly & Daily Pages</figcaption>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP4.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
+</a></center>
+<figcaption>Monthly To-Do Pages</figcaption>
+
+<br>
+
+<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
+<img src="/images/HappyMailFeb2016PlannerGWP5.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
+</a></center>
+<figcaption>Record your goals for every season</figcaption>
+
+<br>
+
+<figure class="half">
+
+
+<p>Absolutely loved this planner and so glad I got it as a GWP! FYI, these planners are limited edition.</p>
 
 <br>
 
