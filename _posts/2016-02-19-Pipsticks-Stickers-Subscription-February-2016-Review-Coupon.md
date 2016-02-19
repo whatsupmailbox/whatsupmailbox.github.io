@@ -20,7 +20,7 @@ date: 2016-2-19 09:51:39 -08:00
 
 <p><b>Subscription:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Pipsticks</a> is a monthly sticker subscription.</p>
 <p><b>Cost:</b> Pro Club Classic (15+ sticker sheets) $14.95/month, OR Pro Club Petite (7+ sticker sheets) $9.95/month + Free Shipping (Taxes apply to CA residents)</p>
-<p><b>What's in the box:</b> Each monthly package will include sheets of quality stickers, a quote card and a postcard (Pro Club Classic only) all inside .</p>
+<p><b>What's in the box:</b> Each monthly package will include sheets of quality stickers, a quote card and a postcard (Pro Club Classic only).</p>
 <p><b>Coupon:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Get $5 off your first package through this link</a>. That brings the cost down to $9.95 for 15+ sheets of stickers or $4.95 for 7+ sheets!</p>
 <br>
 
