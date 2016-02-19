@@ -80,12 +80,6 @@ date: 2016-2-19 09:51:39 -08:00
 <br>
 
 <center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
-<img src="/images/PipsticksFeb2016Stickers.jpg" border="0" style="border:none;max-width:100%;" alt="Pipsticks January 2016 Items!" />
-</a></center>
-
-<br>
-
-<center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
 <img src="/images/PipsticksFeb2016PostcardStickers.jpg" border="0" style="border:none;max-width:100%;" alt="Postcard" />
 </a></center>
 
