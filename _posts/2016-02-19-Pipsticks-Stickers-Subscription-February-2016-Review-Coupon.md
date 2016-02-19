@@ -15,7 +15,7 @@ date: 2016-2-19 09:51:39 -08:00
 ---
 
 <center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
-<img src="/images/PipsticksLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Pipsticks!" />
+<img src="/images/PipsticksLogo.png" border="0" style="border:none;max-width:100%;" alt="Pipsticks!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Pipsticks</a> is a monthly sticker subscription.</p>
@@ -87,7 +87,7 @@ date: 2016-2-19 09:51:39 -08:00
 <br>
 
 <center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
-<img src="/images/PipsticksFeb2016Postcard.jpg" border="0" style="border:none;max-width:100%;" alt="Postcard" />
+<img src="/images/PipsticksFeb2016PostcardStickers.jpg" border="0" style="border:none;max-width:100%;" alt="Postcard" />
 </a></center>
 
 <p>They also send a postcard in every monthly package. The picture above also includes some stickers from the package and as you can see, the cat theme is there.</p>
