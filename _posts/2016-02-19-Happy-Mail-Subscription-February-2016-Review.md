@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: HappyMailFeb2016Items.jpg
 headline: Happy Mail February 2016 Review!
 tags: [Happy Mail, Subscriptions, Reviews, February 2016]
-date: 2016-2-19 15:21:39 -08:00
+date: 2016-2-19 15:41:39 -08:00
 ---
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
@@ -123,8 +123,6 @@ date: 2016-2-19 15:21:39 -08:00
 <br>
 
 <p>Now on to the GWP:</p>
-
-<br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
 <img src="/images/HappyMailFeb2016PlannerGWP.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Planner GWP" />
