@@ -79,7 +79,7 @@ date: 2016-2-19 15:21:39 -08:00
 <br>
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016GreetingCards.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Stamp" />
+<img src="/images/HappyMailFeb2016Stamp.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Stamp" />
 </a></center>
 
 <p>This month's package included a wooden "Happy Mail" stamp! I love stamps and this one is totally adorbs and can be used for pretty much any type of mail. I'll be using this frequently!</p>
