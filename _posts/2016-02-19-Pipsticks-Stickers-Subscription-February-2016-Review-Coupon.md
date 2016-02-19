@@ -133,7 +133,7 @@ date: 2016-2-19 09:51:39 -08:00
 <img src="/images/PipsticksFeb2016Stickers5.jpg" border="0" style="border:none;max-width:100%;" alt="Stickers" />
 </a></center>
 
-<p>Stickers in shapes are great for planners. Either to cover a mistake or to highlight a certain date in your calendar page. That is exactly what I'll be using them for.
+<p>Stickers in shapes are great for planners. Either to cover a mistake or to highlight a certain date in your calendar page. That is exactly what I'll be using them for.</p>
 
 <br>
 
