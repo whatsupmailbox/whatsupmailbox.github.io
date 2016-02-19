@@ -18,7 +18,7 @@ date: 2016-2-19 12:51:39 -08:00
 <img src="/images/HappyMailFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">Happy Mail by A Beautiful Mess</a> is a monthly stationary subscription!</p>
+<p><b>Subscription:</b> <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">Happy Mail by A Beautiful Mess</a> is a monthly stationery subscription!</p>
 <p><b>Cost:</b> $15/month (12-month commitment), OR $18/month (6-month commitment), OR $20/month (month to month) + Free Shipping</p>
 <p><b>What's in the box:</b> Each month, subscribers will receive $50 (retail value) of stationery at their doorstep. Most of it are greeting cards, but it will also include a couple of fun pieces like note pads, journals or stickers!</p>
 <br>
@@ -96,6 +96,6 @@ date: 2016-2-19 12:51:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really enjoyed my first package from them! All the greeting cards were of high quality and the designs are totally usable for me. I especially loved this month's inclusion of a wooden stamp, I can forsee that being used quite frequently. With so many cards plus the stamp, the value for me personally is way above the $15 cost, so that was a win. I've committed to a 12-month subscription and I can honestly say that I'm happy I did so. I'll have a good collection of stationary now and won't need to rush to the store for a last minute greeting card situation that I tend to find myself in quite often. So happy I subscribed to this!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I really enjoyed my first package from them! All the greeting cards were of high quality and the designs are totally usable for me. I especially loved this month's inclusion of a wooden stamp, I can forsee that being used quite frequently. With so many cards plus the stamp, the value for me personally is way above the $15 cost, so that was a win. I've committed to a 12-month subscription and I can honestly say that I'm happy I did so. I'll have a good collection of stationery now and won't need to rush to the store for a last minute greeting card situation that I tend to find myself in quite often. So happy I subscribed to this!</p>
 
 <p>Interested in subscribing? You can <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">subscribe here</a> to start your monthly sticker subscription, or go to their website <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">shop.abeautifulmess.com</a> for more info. Once you subscribe, your first shipment should send within a few business days.</p>
