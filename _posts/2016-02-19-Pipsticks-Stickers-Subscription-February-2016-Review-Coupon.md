@@ -21,6 +21,7 @@ date: 2016-2-19 09:51:39 -08:00
 <p><b>Subscription:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Pipsticks</a> is a monthly sticker subscription.</p>
 <p><b>Cost:</b> Pro Club Classic (15+ sticker sheets) $14.95/month, OR Pro Club Petite (7+ sticker sheets) $9.95/month + Free Shipping (Taxes apply to CA residents)</p>
 <p><b>What's in the box:</b> Each monthly package will include sheets of quality stickers, a quote card and a postcard (Pro Club Classic only).</p>
+<p><b>Coupon:</b> Use coupon code <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">FRIENDSROCK</a> to get $5 off your first package!</p>
 <br>
 
 <p>So I've joined the whole planner addict community this year and in doing so, I've been really into decorating it with stickers and making it all pretty. There's nothing more encouraging than looking at your schedule with cute images and motivating pictures next to it! =)</p>
@@ -139,4 +140,4 @@ date: 2016-2-19 09:51:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So there were A LOT of stickers in this pack. Some cute, some very useful and then some of them are just downright funky and funny. I enjoyed the diversity of it all and all of them were of great quality. The packaging itself is beautiful and very crafty which started my whole unboxing experience on a great note. For $14.95, I definitely received more than the cost in terms of stickers. If you're into scrapbooking, planner decoration or love decorating your items with stickers, try this subscription out and see if it fits your taste. Every month is a different theme and I can't wait to see what next month's package will have in store for me!</p>
 
-<p>Interested in subscribing? You can <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">subscribe here</a> to start your monthly sticker subscription, or go to their website <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">www.pipsticks.com</a> for more info.</p>
+<p>Interested in subscribing? You can <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">subscribe here</a> to start your monthly sticker subscription, or go to their website <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">www.pipsticks.com</a> for more info. And don't forget to use coupon code <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">FRIENDSROCK</a> to get $5 off your first package!</p>
