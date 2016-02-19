@@ -31,7 +31,7 @@ date: 2016-2-19 15:21:39 -08:00
 <img src="/images/HappyMailFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
 </a></center>
 
-<p>Because my first package included this GWP, they send my items out in a box to accomodate the planner. Happy Mail is typically sent with just the envelope packaging as below:</p>
+<p>Because my first package included this GWP, they sent my items out in a box to accomodate the planner. Happy Mail is typically sent with just the envelope packaging as below:</p>
 
 <br>
 
