@@ -15,7 +15,7 @@ date: 2016-2-19 15:21:39 -08:00
 ---
 
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
+<img src="/images/HappyMailFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">Happy Mail by A Beautiful Mess</a> is a monthly stationery subscription!</p>
@@ -26,10 +26,6 @@ date: 2016-2-19 15:21:39 -08:00
 <p>I've been wanting to try out this subscription for awhile and finally jumped the gun when they had a GWP promo: Get a FREE 2016 #PLAN Spiral Planner when you start a 6 or 12-month Happy Mail subscription.</p>
 
 <br>
-
-<center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
-<img src="/images/HappyMailFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail!" />
-</a></center>
 
 <p>Because my first package included this GWP, they sent my items out in a box to accomodate the planner. Happy Mail is typically sent with just the envelope packaging as below:</p>
 
