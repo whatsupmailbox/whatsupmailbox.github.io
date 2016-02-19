@@ -118,7 +118,7 @@ date: 2016-2-19 09:51:39 -08:00
 <img src="/images/PipsticksFeb2016Stickers2.jpg" border="0" style="border:none;max-width:100%;" alt="Stickers" />
 </a></center>
 
-<p>Sheets of animal stickers! One sheet is fully dedicated to cats and since I own one, I can surely relate to the love people have for these wonderful creatures and will surely be using this.</p>
+<p>Sheets of animal stickers! One sheet is fully dedicated to cats and since I own one, I can relate to the love people have for these wonderful creatures and will surely be using this.</p>
 
 <br>
 
