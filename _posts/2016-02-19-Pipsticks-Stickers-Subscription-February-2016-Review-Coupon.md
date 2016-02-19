@@ -21,7 +21,7 @@ date: 2016-2-19 09:51:39 -08:00
 <p><b>Subscription:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Pipsticks</a> is a monthly sticker subscription.</p>
 <p><b>Cost:</b> Pro Club Classic (15+ sticker sheets) $14.95/month, OR Pro Club Petite (7+ sticker sheets) $9.95/month + Free Shipping (Taxes apply to CA residents)</p>
 <p><b>What's in the box:</b> Each monthly package will include sheets of quality stickers, a quote card and a postcard (Pro Club Classic only) all inside .</p>
-<p><b>Coupon:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Get $5 off your first package through this link</a>. That bring the cost down to $9.95 for 15+ sheets of stickers!</p>
+<p><b>Coupon:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Get $5 off your first package through this link</a>. That brings the cost down to $9.95 for 15+ sheets of stickers or $4.95 for 7+ sheets!</p>
 <br>
 
 <p>So I've joined the whole planner addict community this year and in doing so, I've been really into decorating it with stickers and making it all pretty. There's nothing more encouraging than looking at your schedule with cute images and motivating pictures next to it! =)</p>
@@ -36,7 +36,7 @@ date: 2016-2-19 09:51:39 -08:00
 <img src="/images/PipsticksFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Pipsticks!" />
 </a></center>
 
-<p>They send out their stickers in this see through packaging and inside of it is a thick glassine envelope that contains all the sticker goodies. I love this packaging!</p>
+<p>They send out their stickers in this see through plastic packaging and inside of it is a thick glassine envelope that contains all the sticker goodies. I love this packaging!</p>
 
 <br>
 
