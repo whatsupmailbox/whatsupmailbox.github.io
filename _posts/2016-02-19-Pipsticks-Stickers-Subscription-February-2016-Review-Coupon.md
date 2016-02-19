@@ -30,6 +30,8 @@ date: 2016-2-19 09:51:39 -08:00
 
 <p><b>This review is for the Pro Club Classic package.</b></p>
 
+<p><i>Note: The following package is actually January's pack. Pipsticks shipped their "January" pack on Jan 1st and Feb 15th and shipped out their Valentine's Day pack on Jan 15th and Feb 1st. This meant that everyone was able to get their V-Day stickers in time to use them on V-Day. So if you subscribe after Feb 1st (which is what I did), you'll receive January's pack.</i></p>
+
 <br>
 
 <center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
