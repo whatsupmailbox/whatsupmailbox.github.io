@@ -15,7 +15,7 @@ date: 2016-2-19 09:51:39 -08:00
 ---
 
 <center><a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">
-<img src="/images/PipsticksFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Pipsticks!" />
+<img src="/images/PipsticksLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Pipsticks!" />
 </a></center>
 
 <p><b>Subscription:</b> <a href="https://pipsticks.com/refer/Loret-REKAFKUO" target="_blank">Pipsticks</a> is a monthly sticker subscription.</p>
