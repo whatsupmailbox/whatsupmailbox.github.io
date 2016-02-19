@@ -8,7 +8,7 @@ title: Pipsticks February 2016 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: IpsyFeb2016Items.jpg
+imagefeature: PipsticksFeb2016Items.jpg
 headline: Pipsticks February 2016 Review!
 tags: [Pipsticks, Subscriptions, Reviews, February 2016]
 date: 2016-2-19 09:51:39 -08:00
