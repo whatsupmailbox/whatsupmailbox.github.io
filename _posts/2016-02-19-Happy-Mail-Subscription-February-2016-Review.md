@@ -53,6 +53,10 @@ date: 2016-2-19 15:21:39 -08:00
 
 <br>
 
+<p>Now let's start opening this up!</p>
+
+<br>
+
 <center><a href="http://shop.abeautifulmess.com/happy-mail" target="_blank">
 <img src="/images/HappyMailFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Happy Mail Unboxing" />
 </a></center>
