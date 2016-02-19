@@ -90,7 +90,7 @@ date: 2016-2-19 09:51:39 -08:00
 <img src="/images/PipsticksFeb2016PostcardStickers.jpg" border="0" style="border:none;max-width:100%;" alt="Postcard" />
 </a></center>
 
-<p>They also send a postcard in every monthly package. The picture above also includes some stickers from the package. The out space themed stickers are on clear velum and two stamp-sized stickers of cats.</p>
+<p>They also send a postcard in every monthly package. The picture above also includes some stickers from the package. The outer space themed stickers are on clear velum and there's also 2 stamp-sized stickers of cats.</p>
 
 <br>
 
