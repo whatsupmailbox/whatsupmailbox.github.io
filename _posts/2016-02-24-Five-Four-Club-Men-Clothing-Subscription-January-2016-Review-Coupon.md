@@ -73,7 +73,7 @@ date: 2016-2-24 09:33:19 -08:00
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016CutlerNavyShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
+<img src="/images/FiveFourClubFeb2016CutlerNavyShirt2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
 </a></center>
 <figcaption>The inside lining of the shirt on the collar.</figcaption>
 
