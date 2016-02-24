@@ -25,6 +25,8 @@ date: 2016-2-24 09:33:19 -08:00
 
 <p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
 
+<br>
+
 <p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club January 2016" />
 </a></center></p>
