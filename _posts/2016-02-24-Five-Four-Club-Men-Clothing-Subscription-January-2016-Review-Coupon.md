@@ -79,6 +79,10 @@ date: 2016-2-24 09:33:19 -08:00
 
 <br>
 
+<p>The inside lining looks more interesting and fashion forward. If only the patterns were flipped, I'd love this shirt more.</p>
+
+<br>
+
 <H4>And here's another look at all the items I received this month:</H4>
 
 <br>
