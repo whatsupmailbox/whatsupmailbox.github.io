@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-    - Coupons
 title: Five Four Club February 2016 Review + 50% Coupon!
 featured: false
 comments: true
