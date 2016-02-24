@@ -42,88 +42,46 @@ date: 2016-2-24 09:33:19 -08:00
 
 <H4>Items in detail:</H4>
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016AuroraOliveJacket.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
+<img src="/images/FiveFourClubFeb2016EllerdaleHeatherGraySweater.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Ellerdale Heather Gray Sweater" />
 </a></center>
 
 <DL>
-<DT>Aurora Jacket in Olive color</DT>
+<DT>Ellerdale Heather Gray Sweater</DT>
 </DL>
 
-<p>It's always a great month when Five Four Club decides to send a jacket! This jacket is cool in every way, from the color to the style. It's something my husband doesn't have yet and will totally wear.</p>
+<p>This sweater looks just like it's pictured, quite plain in my opinion and definitely not fashion forward. My husband will still wear this though since the material is not too thick so it'll be okay for our warm winter here in California.</p>
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016AuroraOliveJacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
+<img src="/images/FiveFourClubFeb2016EllerdaleHeatherGraySweater2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Ellerdale Heather Gray Sweater" />
 </a></center>
 
-<p>A closer look at the collar area shows a different lining inside with a red and blue checkered pattern.</p>
+<p>A closer look at the collar area shows a yellow lining inside. Too bad there wasn't any of this color on the outside to make this sweater somewhat interesting.</p>
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016AuroraOliveJacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Aurora Olive Jacket" />
-</a></center>
-
-<p>You can close this jacket up with the zipper or button option, or both. I love that! I definitely feel like I scored in receiving this jacket and my husband can't wait to wear it!</p> 
-
-<br>
-
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubJan2016AlamoTee.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Alamo Tee" />
+<img src="/images/FiveFourClubJan2016CutlerNavyShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
 </a></center>
 <DL>
-<DT>Alamo Tee in Off White</DT>
+<DT>Cutler Navy Shirt</DT>
 </DL>
 
-<p>This tee is soft and a great basic style and color to have for any season. The color of the sleeves are different, it's a light grey color, giving this tee a pop of color and a bit of modern style.</p> 
+<p>Although my husband loves getting their shirts, this one is again plain in style. What's going on here?! I double checked the profile I submitted in my account and it definitely says "Fashion Forward". I think this fits more towards the "Classic" style. So disappointed.</p> 
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016AlamoTee2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Alamo Tee" />
+<img src="/images/FiveFourClubJan2016CutlerNavyShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
 </a></center>
-<figcaption>Five Four Club patch on the bottom right of the tee</figcaption>
+<figcaption>The inside lining of the shirt on the collar.</figcaption>
 
-<br>
-
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016AlamoTee3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Alamo Tee" />
-</a></center>
-<figcaption>Five Four Club branding on the back of the tee</figcaption>
-<br>
-
-<p>This tee will go great with the olive jacket, which is what my husband will be layering this with.</p>
-
-<br>
-
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016EurekaBlackTee.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Eureka Tee" />
-</a></center>
-<DL>
-<DT>Eureka Tee in Black</DT>
-</DL>
-
-<p>Another tee that's soft to the touch! This one is also a great addition to my husband's wardrobe as it's basic yet with a slight touch of modern. You can see that the sleeves and the bottom opening of the shirt has a second layer with additional material in light grey.</p>
-
-<p>My husband loves simple styles that have a twist or additional uniqueness to it, and this certainly says all that.</p>
-<br>
-
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016EurekaBlackTee2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Eureka Tee" />
-</a></center>
-
-<p>The inside lining on this one is grey and white, and the black tee actually has some specks of multi-color in them.</p>
-
-<br>
-
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016EurekaBlackTee3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Eureka Tee" />
-</a></center>
-<figcaption>Five Four Club branding on the back of the tee</figcaption>
 <br>
 
 <H4>And here's another look at all the items I received this month:</H4>
+
+<br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubFeb2016ItemsCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club February 2016 Items" />
@@ -131,6 +89,6 @@ date: 2016-2-24 09:33:19 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club never disappoints and is definitely my husband's favorite clothing subscription. This month they sent a super cool jacket plus 2 tees, and they were all a hit! For $60 a month, this subscription has been great at sending quality and stylish clothes, and for us the value is such a deal. Every month my husband looks forward to receiving his items and so do I!!!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This has got to be the first time that I'm disappointed in my Five Four Club items. It was a case of mistaken style as I'm pretty sure the 2 items I received fit more towards the "Classic" style and not the "Fashion Forward" style. They even have pictures of models wearing outfits to represent each style when you fill out your online profile, and even with that it looks more towards the "Classic" style. I wouldn't have bought these 2 items myself if I went shopping, so needless to say, this really bummed me out. I'm going to give them another try next month to see what they send and I'll decide then if I'll continue subscribing. Here's to hoping they do a better job!</p>
 
-<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get your first 2 months at 50% off through this link</a> and enter coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">WINTER50</a>, this is the best deal I've seen from them so far so take advantage of it and <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">subscribe now</a>!</p> 
+<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get your first package at 50% off through this link</a>!</p> 
