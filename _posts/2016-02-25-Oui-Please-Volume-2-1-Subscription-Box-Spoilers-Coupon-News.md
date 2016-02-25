@@ -34,7 +34,9 @@ date: 2016-2-25 10:30:39 -08:00
 
 <p><i class="icon-dropbox"></i> Their next box is "Oui Please Vol. 2.1 La Vie en Rose" and just by the theme alone I'm super excited! Boxes will start delivering in March.</p>
 
-<p>And to build the excitement, here are some spoilers:</p>
+<p>And to build the excitement, here are some spoilers.</p>
+
+<br>
 
 <center><H4>Oui Please Vol. 2.1 Spoilers:</H4></center>
 
