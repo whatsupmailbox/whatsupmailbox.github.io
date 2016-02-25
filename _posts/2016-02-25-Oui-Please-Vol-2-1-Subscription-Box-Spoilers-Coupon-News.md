@@ -29,10 +29,10 @@ date: 2016-2-25 10:30:39 -08:00
 <br>
 
 <center><a href="http://ouipleasebox.com" target="_blank">
-<img src="/images/OuiPleaseVol16.png" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 2.1 La Vie en Rose" />
+<img src="/images/OuiPleaseVol21.png" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 2.1 La Vie en Rose" />
 </a></center>
 
-<p><i class="icon-dropbox"></i> Their next box is "Oui Please Vol. 2.1 La Vie en Rose" and just by the theme alone I'm super excited!</p>
+<p><i class="icon-dropbox"></i> Their next box is "Oui Please Vol. 2.1 La Vie en Rose" and just by the theme alone I'm super excited! Boxes will start delivering in March.</p>
 
 <p>And to build the excitement, here are some spoilers:</p>
 
