@@ -5,14 +5,14 @@ description: ""
 headline: "Ipsy March 2016 Spoilers!"
 tags: [Ipsy, Subscriptions, Reviews, March 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
   - Reviews
 type: photo
 imagefeature: "IpsyMar2016Spoilers.png"
-date: 2016-3-03 10:33:39 -08:00
+date: 2016-3-03 10:03:39 -08:00
 ---
 
 <p><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> March 2016 spoilers have been coming out lately and here are some of the items you may receive in this month's Glam Bag:</p>
