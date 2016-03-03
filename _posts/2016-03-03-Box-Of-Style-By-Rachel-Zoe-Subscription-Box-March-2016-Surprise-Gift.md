@@ -47,7 +47,9 @@ date: 2016-03-03 13:21:39 -08:00
 
 <br>
 
-<p>So happy I got this gift card and I already know what I'm torn on two items to get with it. Either some earrings or a cool sneaker, decisions decision =P</p>
+<p>Each gift card comes with a unique code to redeem (I took mine off of this picture for the purpose of the blog).</p>
+
+<p>So happy I got this gift card and I'm already planning on what to buy. I'm torn on two items though, either some earrings or a cool sneaker, decisions decisions =P</p>
 
 <br>
 
