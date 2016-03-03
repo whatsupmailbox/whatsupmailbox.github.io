@@ -17,6 +17,8 @@ date: 2016-3-03 10:33:39 -08:00
 
 <p><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> March 2016 spoilers have been coming out lately and here are some of the items you may receive in this month's Glam Bag:</p>
 
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyMar2016Spoilers.png" border="0" style="border:none;max-width:100%;" alt="Ipsy March 2016 Spoilers" />
 </a></center>
@@ -86,4 +88,4 @@ date: 2016-3-03 10:33:39 -08:00
 <p><b>What's in the box:</b> You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
 <br>
 
-<p>Checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Subscription-January-2016-Review" target="_blank">my Ipsy January 2016 Glam Bag review here</a> to see what I got last month!</p>
+<p>Checkout <a href="http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Subscription-February-2016-Review/" target="_blank">my Ipsy February 2016 Glam Bag review here</a> to see what I got last month!</p>
