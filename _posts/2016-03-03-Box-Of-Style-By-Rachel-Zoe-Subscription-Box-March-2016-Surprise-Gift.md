@@ -15,7 +15,7 @@ date: 2016-03-03 13:21:39 -08:00
 ---
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard.png" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
+<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
 </a></center>
 
 <p>I was totally caught off guard yesterday when I received this in the mail! It's a $50 gift card to spend on <a href="https://rachelzoe.com" target="_blank">rachelzoe.com</a>!!!</p>
@@ -23,7 +23,7 @@ date: 2016-03-03 13:21:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard1.png" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
+<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard1.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
 </a></center>
 
 <br>
@@ -33,7 +33,7 @@ date: 2016-03-03 13:21:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard2.png" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
+<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard2.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
 </a></center>
 
 <figcaption>$50 RachelZoe.com Gift Card</figcaption>
@@ -41,7 +41,7 @@ date: 2016-03-03 13:21:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard2.png" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
+<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard2.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
 </a></center>
 
 <figcaption>Back of the Gift Card</figcaption>
