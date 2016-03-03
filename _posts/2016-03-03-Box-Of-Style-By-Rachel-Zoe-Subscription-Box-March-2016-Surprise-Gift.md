@@ -28,7 +28,7 @@ date: 2016-03-03 13:21:39 -08:00
 
 <br>
 
-<p>Rachel Zoe recently launched a pop-up store in Los Angeles (The Grove) and I wanted to go so bad but alas I had to be in San Francisco for work that day. To celebrate the launch of her newly designed web store, they sent out $50 gift cards to Box Of Style subscribers, yay! I'm not sure if every subscriber received this, but just in case, if you're a subscriber watchout for this package in your mailbox!</p>
+<p>Rachel Zoe recently launched a pop-up store in Los Angeles (The Grove) and I wanted to go so bad but alas I had to be in San Francisco for work that day. To celebrate the launch of her newly designed web store, they sent out $50 gift cards to <a href="http://fbuy.me/cJCZ1" target="_blank">Box Of Style</a> subscribers, yay! I'm not sure if every subscriber received this, but just in case, if you're a subscriber watchout for this package in your mailbox!</p>
 
 <br>
 
@@ -41,7 +41,7 @@ date: 2016-03-03 13:21:39 -08:00
 <br>
 
 <center><a href="http://fbuy.me/cJCZ1" target="_blank">
-<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard2.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
+<img src="/images/BoxOfStyleRachelZoeMar2016GiftCard3.jpg" border="0" style="border:none;max-width:100%;" alt="Rachel Zoe Gift Card!" />
 </a></center>
 
 <figcaption>Back of the Gift Card</figcaption>
