@@ -1,9 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
-    - Coupons
 title: Rachel Zoe Box Of Style Surprise Gift!
 featured: false
 comments: true
@@ -28,7 +27,7 @@ date: 2016-03-03 13:21:39 -08:00
 
 <br>
 
-<p>Rachel Zoe recently launched a pop-up store in Los Angeles (The Grove) and I wanted to go so bad but alas I had to be in San Francisco for work that day. To celebrate the launch of her newly designed web store, they sent out $50 gift cards to <a href="http://fbuy.me/cJCZ1" target="_blank">Box Of Style</a> subscribers, yay! I'm not sure if every subscriber received this, but just in case, if you're a subscriber watchout for this package in your mailbox!</p>
+<p>Rachel Zoe recently launched her first ever pop-up shop in Los Angeles (The Grove) and I wanted to go so bad but alas I had to be in San Francisco for work that day. To celebrate the launch of her newly designed web store, they sent out $50 gift cards to <a href="http://fbuy.me/cJCZ1" target="_blank">Box Of Style</a> subscribers, yay! I'm not sure if every subscriber received this, but just in case, if you're a subscriber watchout for this package in your mailbox!</p>
 
 <br>
 
