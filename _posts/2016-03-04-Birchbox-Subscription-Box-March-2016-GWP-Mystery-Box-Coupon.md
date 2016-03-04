@@ -15,7 +15,7 @@ date: 2016-03-04 10:10:00 -08:00
 
 <p></p>
 
-<p><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> recently had a Free Birchbox Mystery Box with $50+ Birchbox Shop Purchase, so I totally took advantage of that since I needed to upgrade my Clarisonic brush and had points to redeem as well.</p>
+<p><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">Birchbox</a> recently had a Free Birchbox Mystery Box with $50+ Birchbox Shop Purchase (this promo is no longer available), so I totally took advantage of that since I needed to upgrade my Clarisonic brush and had points to redeem as well.</p>
 
 <br>
 
