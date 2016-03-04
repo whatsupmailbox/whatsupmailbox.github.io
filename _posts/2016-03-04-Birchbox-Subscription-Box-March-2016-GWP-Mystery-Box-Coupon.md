@@ -30,7 +30,7 @@ date: 2016-03-04 10:10:00 -08:00
 
 <br>
 
-<p>This box came from the November 2015 shipments. That month, I chose the guest editor box "BIRCHBOX X GLAMLIFEGURU curated by YouTube beauty star Tati Westbrook (<a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-November-2015-Review-Coupon/" target="_blank">read my review of it here</a>), so the box design was different and now I get this one too. 
+<p>This box came from the November 2015 shipments. That month, I chose the guest editor box "BIRCHBOX X GLAMLIFEGURU" curated by YouTube beauty star Tati Westbrook (<a href="http://whatsupmailbox.com/subscriptions/reviews/Birchbox-Subscription-Box-November-2015-Review-Coupon/" target="_blank">read my review of it here</a>), so the box design was different and now I get this one too. 
 
 <p>Every box that month included a LOC eye shadow stick or lipstick. I received the eye shadow stick because that's what was in the curated box, so now I'm happy to finally try out the lipstick. The color is also a gorgeous red and matte color which is a great addition to my lipstick collection.</p>
 
