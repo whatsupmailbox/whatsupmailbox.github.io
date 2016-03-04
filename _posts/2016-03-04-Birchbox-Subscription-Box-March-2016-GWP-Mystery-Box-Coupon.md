@@ -1,9 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
-    - Coupons
 title: Birchbox Mystery Box GWP
 featured: false
 comments: true
