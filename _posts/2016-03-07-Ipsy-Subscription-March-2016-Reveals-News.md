@@ -43,6 +43,8 @@ date: 2016-3-07 13:33:39 -08:00
 
 <p>Other than those 2 items, I can't really say I'm too excited about the rest, but as usual, I say that now and once I have the products in hand I tend to change my mind.</p>
 
+<br>
+
 <p>Did you access your Glam Bag early? What are you getting?</p>
 
 <p>And for more spoilers, checkout my <a href="http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Subscription-March-2016-Spoilers/" target="_blank">Ipsy March 2016 Spoilers post here</a>.</p>
