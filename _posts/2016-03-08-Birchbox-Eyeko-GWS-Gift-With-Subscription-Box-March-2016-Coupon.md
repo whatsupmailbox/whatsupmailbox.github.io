@@ -22,7 +22,7 @@ date: 2016-03-08 12:38:00 -08:00
 
 <br>
 
-<p>Use coupon code <b>EYEKOGIFT</b> at checkout to receive a free, full-size Eyeko Fat Liquid LIner when you join Birchbox. It’s smudgeproof and richly pigmented with a thicker, bolder-than-ever line. An $18 value!</p>
+<p>Use coupon code <b>EYEKOGIFT</b> at checkout to receive a free, full-size Eyeko Fat Liquid Liner when you join Birchbox. It’s smudgeproof and richly pigmented with a thicker, bolder-than-ever line. An $18 value!</p>
 
 <p><i>* Offer available while supplies last. Your free gift will ship with your first subscription box. Please note that this code is only valid for new subscribers. Redemption of this code for existing subscribers does not guarantee receipt of these promotional items.</i></p>
 
@@ -44,5 +44,5 @@ date: 2016-03-08 12:38:00 -08:00
 <p><b>Cost:</b> $10/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What's in the box:</b> Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.</p>
 <p><b>Coupon:</b></p>
-* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">MALLYGIFT</a> at checkout to receive a free full-size Mally Evercolor Shadow Stick in Copper Rose ($25 value) with your first box! This offer ends February 24, 2016.
+* Subscriptions: Enter coupon code <a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">EYEKOGIFT</a> at checkout to receive a free full-size Eyeko Fat Liquid Liner ($18 value) with your first box! This offer is good while supplies last.
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
