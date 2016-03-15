@@ -28,7 +28,7 @@ date: 2016-2-24 09:33:19 -08:00
 <br>
 
 <p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club January 2016" />
+<img src="/images/FiveFourClubFeb2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club February 2016" />
 </a></center></p>
 <figcaption>First look at unpacking</figcaption>
 <br>
@@ -37,7 +37,7 @@ date: 2016-2-24 09:33:19 -08:00
 
 <H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club January 2016 Items" />
+<img src="/images/FiveFourClubFeb2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club February 2016 Items" />
 </a></center>
 <br>
 
