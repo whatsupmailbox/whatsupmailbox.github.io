@@ -86,9 +86,13 @@ date: 2016-3-16 09:33:19 -08:00
 
 <p>Here's a picture of the jacket on a model from their website:</p>
 
+<br>
+
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubMar2016BogartBlackJacket4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
+
+<br>
 
 <p>So happy I received this jacket and I love how versatile it is. My husband can definitely wear it casually or even dress it up a little for date nights.</p>
 
