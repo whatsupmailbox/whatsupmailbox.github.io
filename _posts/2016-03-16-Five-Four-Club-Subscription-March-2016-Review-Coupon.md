@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: FiveFourClubMar2016Items.jpg
 headline: Five Four Club March 2016 Review + Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, March 2016]
-date: 2016-3-16 10:33:19 -08:00
+date: 2016-3-16 09:33:19 -08:00
 ---
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
@@ -49,6 +49,7 @@ date: 2016-3-16 10:33:19 -08:00
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubMar2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club March 2016 Items" />
 </a></center>
+
 <br>
 
 <H4>Items in detail:</H4>
@@ -89,7 +90,7 @@ date: 2016-3-16 10:33:19 -08:00
 <img src="/images/FiveFourClubMar2016BogartBlackJacket4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
-<p>So happy I received this jacket and I love how versatile it is. My husband can definitely wear it casually or even dress it up a little for date nights. Love it!</p>
+<p>So happy I received this jacket and I love how versatile it is. My husband can definitely wear it casually or even dress it up a little for date nights.</p>
 
 <br>
 
@@ -117,7 +118,7 @@ date: 2016-3-16 10:33:19 -08:00
 <img src="/images/FiveFourClubMar2016GableTaupeShirt3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
 
-<p>I love the tags that come with this month's collaboration items. They look classy and totally high fashion label!</p>
+<p>The tags that came with this month's collaboration items look classy and totally high fashion label!</p>
 
 <br>
 
