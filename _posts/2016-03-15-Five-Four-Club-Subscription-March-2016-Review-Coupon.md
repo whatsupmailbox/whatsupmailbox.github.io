@@ -63,7 +63,7 @@ date: 2016-3-16 10:33:19 -08:00
 <DT>Bogart Jacket in Black</DT>
 </DL>
 
-<p>I always love it when <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> sends me jackets. My husband and I are going on a trip to Europe this week so this will surely be a great outerwear for him while we're there.</p>
+<p>I always love it when <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> sends me jackets. My husband tends to buy a lot of shirts but not enough jackets. And the style on this jacket is totally cool. Very rocker, biker cool. All it needs is a pair of jeans, any t-shirt and aviator glasses to complete this look. That's totally how my husband would wear this ;)</p>
 
 <br>
 
@@ -79,7 +79,7 @@ date: 2016-3-16 10:33:19 -08:00
 <img src="/images/FiveFourClubMar2016BogartBlackJacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
-<p>More button details on the side pockets and I love that it's gold. I'd like to think it represents Hollywood, so a little pop of gold on this jacket makes it uber cool.</p>
+<p>More button details on the side pockets and I love that the buttons and the zipper are gold. I'd like to think it represents Hollywood, so a little pop of gold on this jacket makes it uber cool.</p>
 
 <br>
 
@@ -101,15 +101,13 @@ date: 2016-3-16 10:33:19 -08:00
 <DT>Gable Shirt in Taupe</DT>
 </DL>
 
-<p>I love the two tone color on this shirt and taupe is another versatile color that will go with pretty much anything; jeans, khakis, or even shorts.</p> 
+<p>I love the two tone color on this shirt and taupe is another versatile color that will go with pretty much anything.</p> 
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
-
-<br>
 
 <p>The collaboration branding is shown at the bottom left of this shirt. Small yet pertinent.</p>
 
@@ -118,8 +116,6 @@ date: 2016-3-16 10:33:19 -08:00
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
-
-<br>
 
 <p>I love the tags that come with this month's collaboration items. They look classy and totally high fashion label!</p>
 
