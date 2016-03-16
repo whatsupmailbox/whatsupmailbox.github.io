@@ -84,7 +84,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<p>Here's a picture of the jacket on a model from their website:</p>
+<p>Here's how the jacket looks on a model from their website:</p>
 
 <br>
 
