@@ -11,7 +11,7 @@ type: photo
 imagefeature: FiveFourClubMar2016Items.jpg
 headline: Five Four Club March 2016 Review + Coupon!
 tags: [Five Four Club, Subscriptions, Reviews, March 2016]
-date: 2016-3-15 13:33:19 -08:00
+date: 2016-3-16 10:33:19 -08:00
 ---
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
@@ -78,52 +78,62 @@ date: 2016-3-15 13:33:19 -08:00
 <img src="/images/FiveFourClubMar2016BogartBlackJacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
-<p>More button details on the side pockets and I love that it's gold. I'd like to think it represents Hollywood, so a little pop of gold on this jacket is so versatile because of the color and style. I love it on my husband, it's uber cool.</p>
+<p>More button details on the side pockets and I love that it's gold. I'd like to think it represents Hollywood, so a little pop of gold on this jacket makes it uber cool.</p>
 
 <br>
 
 <p>Here's a picture of the jacket on a model from their website:</p>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubMar2016BogartBlackJacket4.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
+<img src="/images/FiveFourClubMar2016BogartBlackJacket4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
-<p>A closer look at the collar area shows a yellow lining inside. Too bad there wasn't any of this color on the outside to make this sweater somewhat interesting.</p>
+<p>So happy I received this jacket and I love how versatile it is. My husband can definitely wear it casually or even dress it up a little for date nights. Love it!</p>
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016CutlerNavyShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
+<img src="/images/FiveFourClubMar2016GableTaupeShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
+
 </a></center>
 <DL>
-<DT>Cutler Navy Shirt</DT>
+<DT>Gable Shirt in Taupe</DT>
 </DL>
 
-<p>Although my husband loves getting their shirts, this one is again plain in style. What's going on here?! I double checked the profile I submitted in my account and it definitely says "Fashion Forward". I think this fits more towards the "Classic" style. So disappointed.</p> 
+<p>I love the two tone color on this shirt and taupe is another versatile color that will go with pretty much anything; jeans, khakis, or even shorts.</p> 
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016CutlerNavyShirt2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Cutler Navy Shirt" />
+<img src="/images/FiveFourClubMar2016GableTaupeShirt2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
-<figcaption>The inside lining of the shirt on the collar.</figcaption>
 
 <br>
 
-<p>The inside lining looks more interesting and fashion forward. If only the patterns were flipped, I'd love this shirt more.</p>
-
-<br>
-
-<H4>And here's another look at all the items I received this month:</H4>
+<p>The collaboration branding is shown at the bottom left of this shirt. Small yet pertinent.</p>
 
 <br>
 
 <center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
-<img src="/images/FiveFourClubFeb2016ItemsCollage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club February 2016 Items" />
+<img src="/images/FiveFourClubMar2016GableTaupeShirt3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This has got to be the first time that I'm disappointed in my Five Four Club items. It was a case of mistaken style as I'm pretty sure the 2 items I received fit more towards the "Classic" style and not the "Fashion Forward" style. They even have pictures of models wearing outfits to represent each style when you fill out your online profile, and even with that it looks more towards the "Classic" style. I wouldn't have bought these 2 items myself if I went shopping, so needless to say, this really bummed me out. I'm going to give them another try next month to see what they send and I'll decide then if I'll continue subscribing. Here's to hoping they do a better job!</p>
+<p>I love the tags that come with this month's collaboration items. They look classy and totally high fashion label!</p>
+
+<br>
+
+<p>And here's a look at the shirt on a model from their website:</p>
+
+<br>
+
+<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<img src="/images/FiveFourClubMar2016GableTaupeShirt4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
+</a></center>
+
+<br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy with this month's items, totally my husband's style and fashion forward indeed. My husband would have picked these items himself if he went out shopping so that's a definite good sign. And on top of that, this month's items were a collaboration with Robert Geller, a men's high fashion designer focusing in modern and innovative style. T-Shirts from his own brand alone costs upwards of $100! So at $60, these 2 items more than make up the cost.</p>
 
 <p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $15 off your first package through this link</a>. That brings the cost down to $45 for 2-3 fashion items!</p> 
