@@ -136,6 +136,6 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy with this month's items, totally my husband's style and fashion forward indeed. My husband would have picked these items himself if he went out shopping so that's a definite good sign. And on top of that, this month's items were a collaboration with Robert Geller, a men's high fashion designer focusing in modern and innovative style. T-Shirts from his own brand alone costs upwards of $100! So at $60, these 2 items more than make up the cost.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy with this month's items, totally my husband's style and fashion forward indeed. My husband would have picked these items himself if he went out shopping so that's a definite good sign. And on top of that, this month's collection are part of an exclusive collaboration with Robert Geller, a men's high fashion designer with modern style. T-Shirts from his own brand alone costs upwards of $100! So at $60, these 2 items more than make up the cost. I love it when Five Four Club does collaborations and hope many more are to come this year!</p>
 
 <p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p> 
