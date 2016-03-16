@@ -20,7 +20,7 @@ date: 2016-2-24 09:33:19 -08:00
 <p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get $15 off your first package through this link</a>. That brings the cost down to $45 for 2-3 fashion items!</p>
+<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p>
 <br>
 
 <p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
@@ -96,4 +96,4 @@ date: 2016-2-24 09:33:19 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This has got to be the first time that I'm disappointed in my Five Four Club items. It was a case of mistaken style as I'm pretty sure the 2 items I received fit more towards the "Classic" style and not the "Fashion Forward" style. They even have pictures of models wearing outfits to represent each style when you fill out your online profile, and even with that it looks more towards the "Classic" style. I wouldn't have bought these 2 items myself if I went shopping, so needless to say, this really bummed me out. I'm going to give them another try next month to see what they send and I'll decide then if I'll continue subscribing. Here's to hoping they do a better job!</p>
 
-<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $15 off your first package through this link</a>. That brings the cost down to $45 for 2-3 fashion items!</p> 
+<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p> 
