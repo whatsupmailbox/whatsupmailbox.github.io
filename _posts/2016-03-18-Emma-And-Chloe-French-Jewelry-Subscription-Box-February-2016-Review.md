@@ -84,7 +84,7 @@ date: 2016-3-18 09:33:19 -08:00
 <p>Here's a couple of pages from inside the magazine:</p>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+<img src="/images/Emma&ChloeFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
 </a></center>
 
 <br>
@@ -100,7 +100,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016SchadeJewelleryRing2.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Bague Feu dorée Gold Ring" />
+<img src="/images/Emma&ChloeFeb2016SchadeJewelleryRing2.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Bague Feu dorée Gold Ring" />
 </a></center>
 
 <DL>
