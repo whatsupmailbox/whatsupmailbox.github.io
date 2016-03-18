@@ -33,6 +33,8 @@ date: 2016-3-18 09:33:19 -08:00
 
 <p>When you first subscribe, you'll answer a couple of questions to input your preferences.</p>
 
+<p>They also have an online shop and as a subscriber, you'll receive 20% discount on everything in the shop!</p>
+
 <br>
 
 <p>And here's the Emma & Chloe box:</p>
