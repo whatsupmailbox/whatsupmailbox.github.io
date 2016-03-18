@@ -8,14 +8,14 @@ title: Emma & Chloe February 2016 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: EmmaAndChloeFeb2016SchadeJewelleryRing2.jpg
+imagefeature: Emma&ChloeFeb2016SchadeJewelleryRing2.jpg
 headline: Emma & Chloe February 2016 Review!
 tags: [Emma & Chloe, Subscriptions, Reviews, February 2016]
 date: 2016-3-18 09:33:19 -08:00
 ---
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+<img src="/images/Emma&ChloeFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 <p><b>Subscription:</b> <a href="http://www.emma-chloe.com/us/" target="_blank">Emma & Chloe</a>, a French designer jewelry subscription box!</p>
 <p><b>Cost:</b> $35/monthly + Free Shipping. Cheaper options for 3, 6, and 12 month plans.</p>
@@ -40,7 +40,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+<img src="/images/Emma&ChloeFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 
 <br>
@@ -50,7 +50,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Box2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+<img src="/images/Emma&ChloeFeb2016Box2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 
 <br>
@@ -60,7 +60,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+<img src="/images/Emma&ChloeFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 
 <br>
@@ -70,7 +70,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+<img src="/images/Emma&ChloeFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
 </a></center>
 
 <br>
@@ -88,7 +88,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+<img src="/images/Emma&ChloeFeb2016Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
 </a></center>
 
 <br>
@@ -113,7 +113,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016SchadeJewelleryRing.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Bague Feu dorée Gold Ring" />
+<img src="/images/Emma&ChloeFeb2016SchadeJewelleryRing.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Bague Feu dorée Gold Ring" />
 </a></center>
 
 <p>Every jewelry piece will come with the Emma & Chloe black jewelry pouch, as well as a certificate of authenticity.</p>
@@ -121,7 +121,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Certificate.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Authenticity Certificate" />
+<img src="/images/Emma&ChloeFeb2016Certificate.jpg" border="0" style="border:none;max-width:100%;" alt="SCHADE JEWELLERY Authenticity Certificate" />
 </a></center>
 
 <p>The fact that they include the certificate of authenticity just adds that extra trust as a subscriber. Especially for us in the U.S. who may or may not be too familiar with French jewelry designers.</p>
@@ -133,7 +133,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Postcard.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/Emma&ChloeFeb2016Postcard.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
@@ -147,7 +147,7 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
-<img src="/images/EmmaAndChloeFeb2016Postcard2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/Emma&ChloeFeb2016Postcard2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
