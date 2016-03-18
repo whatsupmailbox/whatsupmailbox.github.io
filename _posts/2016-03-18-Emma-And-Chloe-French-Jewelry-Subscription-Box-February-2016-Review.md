@@ -140,7 +140,7 @@ date: 2016-3-18 08:33:19 -08:00
 
 <br>
 
-<p>They also included this postcard that shows a model wearing the ring. It looks so gorgeous on, I totally wish I had normal sized fingers to wear this!</p>
+<p>They also included this postcard that shows a model wearing the ring. The info magazine is also filled with pictures of models wearing the ring as well (scroll up again to see the pics). It looks so gorgeous on, I totally wish I had normal sized fingers to wear this!</p>
 
 <br>
 
