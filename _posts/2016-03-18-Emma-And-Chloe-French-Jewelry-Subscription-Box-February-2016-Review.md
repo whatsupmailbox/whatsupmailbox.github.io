@@ -28,16 +28,72 @@ date: 2016-3-18 09:33:19 -08:00
 <br>
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/Emma&ChloeFeb2016SubscribeOptions.png" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Options" />
+</a></center>
+
+<p>When you first subscribe, you'll answer a couple of questions to input your preferences.</p>
+
+<br>
+
+<p>And here's the Emma & Chloe box:</p>
+
+<br>
+
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
 <img src="/images/EmmaAndChloeFeb2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 
 <br>
 
-<p>First impression of the box is totally luxe and chic. It's made of thick and sturdy cardboard material that's totally reusable. </p>  
+<p>First impression of the box is totally luxe and chic. It's made of thick and sturdy cardboard material that's totally reusable.</p>  
 
 <br>
 
-<p>When you subscribe, you'll take a profile survey to input your size and style preferences. My husband selected "Fashion Forward" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.</p>
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/EmmaAndChloeFeb2016Box2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+</a></center>
+
+<br>
+
+<p>The box opens up like a book. I like that a lot. It makes it easier to open and close versus boxes that have a lid on them.</p>
+
+<br>
+
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/EmmaAndChloeFeb2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
+</a></center>
+
+<br>
+
+<p>Upon opening the box you see the jewelry pouch and their info magazine.</p>
+
+<br>
+
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/EmmaAndChloeFeb2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+</a></center>
+
+<br>
+
+<p>I love it when subscription boxes include info magazines that are both informational and filled with other fashion info. Definitely an added bonus.</p>
+
+<br>
+
+<p>Here's a couple of pages from inside the magazine:</p>
+
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/EmmaAndChloeFeb2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+</a></center>
+
+<br>
+
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/EmmaAndChloeFeb2016Info3.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Info Magazine" />
+</a></center>
+
+<br>
+
+<H4>And here is February's jewelry item:</H4>
 
 <br>
 
