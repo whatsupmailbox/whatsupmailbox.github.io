@@ -14,16 +14,16 @@ tags: [Emma & Chloe, Subscriptions, Reviews, February 2016]
 date: 2016-3-18 09:33:19 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
+
+<br>
+
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
 <img src="/images/Emma&ChloeFeb2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe!" />
 </a></center>
 <p><b>Subscription:</b> <a href="http://www.emma-chloe.com/us/" target="_blank">Emma & Chloe</a>, a French designer jewelry subscription box!</p>
 <p><b>Cost:</b> $35/monthly + Free Shipping. Cheaper options for 3, 6, and 12 month plans.</p>
 <p><b>What you get:</b> Each month you'll receive an authentic piece of French jewelry valued between $50 and $200 and a magazine with all the French trends delivered every month in your mailbox.</p>
-
-<br>
-
-<p>I received this box just a few days ago but it's actually their February 2016 box.</p>
 
 <br>
 
