@@ -89,7 +89,7 @@ date: 2016-3-21 09:31:39 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarMar2016NanetteNannetteLeporeClassicRoseGoldWatch2.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>The design of the watch is simple yet feminine and chic. I love watches with white face dials and when you pair that with rose gold, it's a perfect match. At least for me.</p>
@@ -101,7 +101,7 @@ date: 2016-3-21 09:31:39 -08:00
 <br>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarMar2016NanetteNannetteLeporeClassicRoseGoldWatch3.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <p>Although I do wear an Apple Watch everyday, I like to switch it up sometimes as it doesn't always match my outfit. This looks great on me and I can't wait to wear this out!</p>
