@@ -80,7 +80,7 @@ date: 2016-3-21 09:31:39 -08:00
 <DD>Value $55</DD>
 </DL>
 
-<p>This item was revealed to be included in the box prior and I was quite excited to be receiving a watch! I've only received one watch in a subscription box before and that was from Rachel Zoe's Box Of Style, so this will happily be added into my watch collection.</p>
+<p>This item was revealed to be included in the box prior and I was quite excited to be receiving a watch! I've only received one watch in a subscription box before and that was from <a href="http://fbuy.me/cJCZ1" target="_blank">Rachel Zoe's Box Of Style</a>, so this will happily be added into my watch collection.</p>
 
 <br>
 
@@ -104,7 +104,7 @@ date: 2016-3-21 09:31:39 -08:00
 <img src="/images/PopsugarMar2016NanetteNannetteLeporeClassicRoseGoldWatch3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>Although I do wear an Apple Watch everyday, I like to switch it up sometimes as it doesn't always match every outfit I wear. This looks great on me and I can't wait to wear this out!</p>
+<p>Although I do wear an Apple Watch everyday, I like to switch it up sometimes as it doesn't always match my outfit. This looks great on me and I can't wait to wear this out!</p>
 
 <br>
 
@@ -117,7 +117,7 @@ date: 2016-3-21 09:31:39 -08:00
 <DD>Value $38</DD>
 </DL>
 
-<p>I'm not sure if it's just me but this design is either totally fashionable or down right plain weird. I myself think it looks kind of weird, at least on me when I tried it on. Maybe it's just not my stle. It's a definite pass and will be gifted.</p>
+<p>I'm not sure if it's just me but this design is either totally fashionable or down right plain weird. I myself think it looks kind of weird, at least on me when I tried it on. Maybe it's just not my style. It's a definite pass and will be gifted.</p>
 
 <br>
 
@@ -129,7 +129,7 @@ date: 2016-3-21 09:31:39 -08:00
 <img src="/images/PopsugarMar2016MissIvyPearlFiveTasselNecklace2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>I actually have necklaces with tassels, but the tassels are made of leather for a rocker chic look which is more my style. These tassels are made of different shades of teal threads which I think will look great for spring or summer. I'm sure some gals would love this and it just might be there next favorite bauble, but sadly not for me.</p>
+<p>I actually have necklaces with tassels, but the tassels are made of leather for a rocker chic look which is more my style. These tassels are made of different shades of teal threads which I think will look great for spring or summer. I'm sure some gals would love this and it just might be they're next favorite bauble, but sadly not for me.</p>
 
 <br>
 
@@ -144,7 +144,7 @@ date: 2016-3-21 09:31:39 -08:00
 
 <p>This is a palette of two highlighters, two cheek tints and four eye shadows. I have so many of these already that I decided to gift this hence why I didn't open it for pictures.</p>
 
-<p>There's actually 3 types of Book of Beauty by Pixi. There's a Touch of Blush, Contour Creator and this Minimal Makeup. I kind of wished we got the Contour Creator but they editors probably decided to go with Minimal Makeup because it's a combination of products for an all-in-one palette.</p>
+<p>There's actually 3 types of Book of Beauty by Pixi. There's a Touch of Blush, Contour Creator and this Minimal Makeup. I kind of wished we got the Contour Creator but the editors probably decided to go with Minimal Makeup because it's a combination of products for an all-in-one palette.</p>
 
 <br>
 
@@ -152,7 +152,7 @@ date: 2016-3-21 09:31:39 -08:00
 <img src="/images/PopsugarMar2016PixiByPetraBookOfBeauty2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>The brand Pixi itself is quite good and I have some items from them that I use so I know these will probably have the same quality. Who knows, I may end up using it in the end ;)</p>
+<p>The brand Pixi itself is quite good, and I have some items from them that I use so I know these will probably have the same quality. Who knows, I may end up using it in the end ;)</p>
 
 <br>
 
@@ -171,7 +171,7 @@ date: 2016-3-21 09:31:39 -08:00
 <DD>Value $4.49</DD>
 </DL>
 
-<p>First off, the packaging looks cool and I'm already loving this toothpaste. Then as I opened the box, I'm pleasantly happy that the toothpaste tube itself is also silver and looks cool as well. I was actually unboxing this as I was packing and getting ready for my trip to Europe and I immediately packed this to bring with me. I have now used it daily and must say that this is my favorite toothpaste right now and I will definitely be buying more!</p>
+<p>First off, the packaging looks cool and I'm already loving this toothpaste. Then as I opened the box, I'm pleasantly happy that the toothpaste tube itself is also silver and looks cool as well. I was actually unboxing this as I was packing and getting ready for my trip to Europe last week and it went straight into my suitcase. I have now used it daily and must say that this is my favorite toothpaste currently and I will definitely be buying more!</p>
 
 <br>
 
