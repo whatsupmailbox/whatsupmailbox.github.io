@@ -43,7 +43,7 @@ date: 2016-3-21 09:31:39 -08:00
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarMar2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
-<figcaption>The Info Card/figcaption>
+<figcaption>The Info Card</figcaption>
 <br>
 
 
