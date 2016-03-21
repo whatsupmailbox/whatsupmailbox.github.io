@@ -72,7 +72,7 @@ date: 2016-3-21 09:31:39 -08:00
 ## Items in detail:
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarMar2016NanetteNannetteLeporeClassicRoseGoldWatch.jpg" border="0" style="border:none;max-width:100%;" />
+<img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
