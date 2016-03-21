@@ -171,7 +171,7 @@ date: 2016-3-21 09:31:39 -08:00
 <DD>Value $4.49</DD>
 </DL>
 
-<p>First off, the packaging looks cool and I'm already loving this toothpaste. Then as I opened the box, I'm pleasantly happy that the toothpaste tube itself is also silver and looks cool as well. I was actually unboxing this as I was packing and getting ready for my trip to Europe last week and it went straight into my suitcase. I have now used it daily and must say that this is my favorite toothpaste currently and I will definitely be buying more!</p>
+<p>First off, the packaging looks cool and I'm already loving this toothpaste. Then as I opened the box, I'm pleasantly happy that the toothpaste tube itself is also silver and looks cool as well. And not only is it good in looks, it's also good in ingredients. No preservative or artificial sweetener. I was actually unboxing this as I was packing and getting ready for my trip to Europe last week and it went straight into my suitcase. I have now used it daily and must say that this is my favorite toothpaste now and I will definitely be buying more!</p>
 
 <br>
 
