@@ -167,7 +167,7 @@ date: 2016-3-21 08:31:39 -08:00
 </a></center>
 
 <DL>
-<DT><b>Hello</b> Extra Whitening Fluoride Toothpaste</DT>
+<DT><b>Hello</b> Extra Whitening Fluoride Toothpaste in Pure Mint</DT>
 <DD>Value $4.49</DD>
 </DL>
 
