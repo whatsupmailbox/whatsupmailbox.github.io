@@ -226,7 +226,7 @@ date: 2016-3-21 09:31:39 -08:00
 
 <p>My Lola is a subscription for tampons that are 100% cotton — which means they're 100% natural, 100% biodegradable, and 100% easy to feel good about. Can't wait to try this!</p>
 
-<p><i>Note: Each card has a unique redeption code. Offer valid through 4/30/16. Valid on one-box orders only. New customers only. One per customer.</i></p> 
+<p><i>Note: Each card has a unique redemption code. Offer valid through 4/30/16. Valid on one-box orders only. New customers only. One per customer.</i></p> 
 
 <br>
 
