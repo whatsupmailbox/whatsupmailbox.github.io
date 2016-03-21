@@ -5,14 +5,14 @@ description: ""
 headline: "Popsugar Must Have March 2016 Review + Coupon!"
 tags: [Popsugar Must Have, Subscriptions, Reviews, March 2016]
 comments: true
-published: false
+published: true
 featured: false
 categories: 
   - Subscriptions
   - Reviews
 type: photo
 imagefeature: "PopsugarMar2016Items.jpg"
-date: 2016-3-21 09:31:39 -08:00
+date: 2016-3-21 08:31:39 -08:00
 ---
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -249,7 +249,7 @@ date: 2016-3-21 09:31:39 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Nanette Lepore Watch</TD>
+      <TD>Nanette Nanette Lepore Watch</TD>
       <TD>$55</TD>
    </TR>
    <TR>
