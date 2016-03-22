@@ -12,7 +12,7 @@ categories:
       - Subscriptions
 type: photo
 imagefeature: "PopsugarMini.jpg"
-date: 2016-3-22 11:31:00 -08:00
+date: 2016-3-22 11:11:00 -08:00
 ---
 
 <center><H2>Introducing <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a>, available NOW!</H2></center>
