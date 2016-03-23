@@ -15,7 +15,8 @@ imagefeature: "PopsugarMini.jpg"
 date: 2016-3-22 11:11:00 -08:00
 ---
 
-<center><H2>Introducing <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a>, available NOW!</H2></center>
+<center><H2>Introducing <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a>,</H2></center>
+<center><H2>Available NOW!</H2></center>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
 <img src="/images/PopsugarMini.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Mini!" />
