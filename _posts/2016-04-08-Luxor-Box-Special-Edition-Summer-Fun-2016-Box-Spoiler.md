@@ -23,6 +23,7 @@ date: 2016-4-8 09:45:39 -08:00
 <center><a href="http://www.luxorbox.com/#!special-edition-june-summer-fun-box/c16d" target="_blank">
 <img src="/images/LuxorBoxSpecialEditionSummer2016Spoiler.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+
 <br>
 
 <p><center>Each box is available for a one-time purchase (no subscription required)<center></p>
@@ -33,9 +34,12 @@ date: 2016-4-8 09:45:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.luxorbox.com/#!special-edition-june-summer-fun-box/c16d" target="_blank">
 <img src="/images/LuxorBoxSpecialEditionSummer2016Spoiler2.png" border="0" style="border:none;max-width:100%;" />
 </a></center>
+
 <br>
 
 <p>There are VERY limited quantities of this box and it is ONLY available for pre-order purchase until
