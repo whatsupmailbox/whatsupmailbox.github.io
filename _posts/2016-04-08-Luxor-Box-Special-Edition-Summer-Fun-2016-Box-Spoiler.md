@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Luxor Box Special Edition "Summer Fun" 2016 Box Spoiler!"
+title: "Luxor Box Special Edition Summer Fun 2016 Box Spoiler!"
 description: ""
-headline: "Luxor Box Special Edition "Summer Fun" 2016 Box Spoiler!"
+headline: "Luxor Box Special Edition Summer Fun 2016 Box Spoiler!"
 categories: 
       - Subscriptions
 tags: [Luxor Box, Subscriptions, April 2016]
