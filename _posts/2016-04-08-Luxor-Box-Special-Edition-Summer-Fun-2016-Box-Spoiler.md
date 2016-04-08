@@ -8,11 +8,11 @@ categories:
 tags: [Luxor Box, Subscriptions, April 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxSpecialEditionSummer2016Spoiler.jpg"
-date: 2016-4-8 10:05:39 -08:00
+date: 2016-4-8 09:45:39 -08:00
 ---
 
 <p></p>
@@ -40,7 +40,7 @@ date: 2016-4-8 10:05:39 -08:00
 
 <p>There are VERY limited quantities of this box and it is ONLY available for pre-order purchase until
 Sunday, April 10th 2016 at 5pm EST.  3 days ONLY or while supplies last.
-Our last Special Edition Box sold out in less than 30 hours!</p>
+Their last Special Edition Box sold out in less than 30 hours!</p>
 
 <p>For more details & answers to ALL of your questions on this box,
 please visit <a href="http://www.luxorbox.com/#!june-special-edition-faq/c1rp8" target="_blank">The June Special Edition FAQ page</a>.</p>
