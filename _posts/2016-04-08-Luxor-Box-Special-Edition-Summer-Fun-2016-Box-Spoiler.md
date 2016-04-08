@@ -16,7 +16,7 @@ date: 2016-4-8 09:45:39 -08:00
 ---
 
 <p></p>
-<H2>Luxor Box Special Edition "Summer Fun" Box available now!</H2>
+<center><H2>Luxor Box Special Edition "Summer Fun" Box available now!</H2></center>
 
 <br>
 
