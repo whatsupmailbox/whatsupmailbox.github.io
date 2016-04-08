@@ -31,7 +31,7 @@ date: 2016-4-08 10:13:39 -08:00
 
 <ul>The items are (from top left to right):
 
-<li>tarte cosmetics - LipSurgence™ lip crème in wonder</li
+<li>tarte cosmetics - LipSurgence™ lip crème in wonder</li>
 <li>Ipsy April 2016 Bag</li>
 <li>Luxie Beauty - Dreamcatcher Tapered Highlighter Brush 522</li>
 <li>Pretty Woman - Nail Polish in Pouty</li>
