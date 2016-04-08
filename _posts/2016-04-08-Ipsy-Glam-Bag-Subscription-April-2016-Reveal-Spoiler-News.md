@@ -41,7 +41,9 @@ date: 2016-4-08 10:13:39 -08:00
 
 <br>
 
-<p>I always love getting beauty tools in my Ipsy bags so I was delighted to see a highlighter brush especially since I'll also be getting a highlight trio palette, how thoughful. I honestly can say that I'm excited about my bag this month!</p>
+<p>I always love getting beauty tools in my Ipsy bags so I was delighted to see a highlighter brush especially since I'll also be getting a highlight trio palette, how thoughful.</p> 
+
+<p>I honestly can say that I'm excited about my bag this month!</p>
 
 <br>
 
