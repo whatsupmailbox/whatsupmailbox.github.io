@@ -26,11 +26,11 @@ date: 2016-4-8 09:45:39 -08:00
 
 <br>
 
-<p><center>Each box is available for a one-time purchase (no subscription required)<center></p>
+<p><center>Each box is available for a one-time purchase (no subscription required)</center></p>
 
 <p><center><b>$200 (USA) or $230 (CANADA)</b></center></p>
  
-<p><center>~Free shipping included and shipping the week of June 20th 2016~</center></p>
+<p><center> ~Free shipping included and shipping the week of June 20th 2016~ </center></p>
 
 <br>
 
