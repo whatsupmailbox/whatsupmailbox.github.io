@@ -75,7 +75,7 @@ date: 2016-4-11 16:01:39 -08:00
 <center><img src='/images/OuiPlease21LesPetiteParisScarf.jpg'></center>
 <center><img src='/images/OuiPlease21LesPetiteParisScarf2.jpg'></center>
 <DL>
-<DT><b>Les Petites... Paris</b> Paris Scarf - A OuiPlease Exclusive</DT>
+<DT><b>Les Petites... Paris</b> Scarf - A OuiPlease Exclusive</DT>
 <DD>Value $120</DD>
 </DL>
 
@@ -83,7 +83,7 @@ date: 2016-4-11 16:01:39 -08:00
 
 <br>
 
-<center><img src='/images/OuiPlease21LesPetiteParisScarf2.jpg'></center>
+<center><img src='/images/OuiPlease21LesPetiteParisScarf3.jpg'></center>
 
 <p>I love the color and pattern of this scarf. It'll be great during spring and I plan on wearing this tied in a knot around my neck with a white crisp shirt for that chic look. All I need is a vintage convertible and Saint Tropez as my backdrop to complete this look.</p>
 
