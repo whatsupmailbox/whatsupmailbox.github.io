@@ -100,7 +100,7 @@ date: 2016-4-11 16:01:39 -08:00
 
 <br>
 
-<center><img src='/images/OuiPlease21PluieDetoilesBijouxIloeBangleBracelet2.jpg'></center>
+<center><img src='/images/OuiPlease21PluieDetoilesBijouxIloeBangleBracelet3.jpg'></center>
 
 <p>The inside of the bangle has the brand's imprint on it. I totally love this bracelet and am wearing it already!</p> 
 
