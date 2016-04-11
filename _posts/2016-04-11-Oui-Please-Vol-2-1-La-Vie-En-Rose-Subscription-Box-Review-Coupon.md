@@ -72,7 +72,7 @@ date: 2016-4-11 16:01:39 -08:00
 
 ## Items in detail:
 
-<center><img src='/images/OuiPlease21LesPetiteParisScarf.jpg'></center>
+<center><img src='/images/OuiPlease21LesPetitesParisScarf.jpg'></center>
 <center><img src='/images/OuiPlease21LesPetitesParisScarf2.jpg'></center>
 <DL>
 <DT><b>Les Petites... Paris</b> Scarf - A OuiPlease Exclusive</DT>
