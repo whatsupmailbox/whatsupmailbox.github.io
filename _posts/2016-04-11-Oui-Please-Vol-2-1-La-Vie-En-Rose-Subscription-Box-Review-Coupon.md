@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -12,7 +12,7 @@ type: photo
 imagefeature: OuiPlease21Items.jpg
 headline: Oui Please Vol. 2.1 Box Review + 20% Coupon!
 tags: [Oui Please, Subscriptions, Reviews, Coupons, April 2016]
-date: 2016-4-11 16:01:39 -08:00
+date: 2016-4-11 16:51:39 -08:00
 ---
 
 <center><a href="http://ouipleasebox.com" target="_blank">
@@ -158,7 +158,7 @@ date: 2016-4-11 16:01:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I like the variation of items that were in this volume's box, especially the Les Petites... Paris exclusive scarf, what a treat! Kind of sad that the ring was too big for me, especially since I actually loved it. Everything else will surely be used and I must say that although this box's value wasn't as high as my previous one, it still felt luxe and very french. I'm hoping that in the future there will be more inclusions of bags or clutches, like in the past, so here's to hoping. Their next box Vol. 2.2: Joie De Vivre will be shipping next month in May, and no spoilers have come out yet as to what would be included. But hopefully something spring/summer themed!</p>
+<p><i class="icon-exclamation-sign"></i> <b>My Thoughts:</b> I like the variation of items that were in this volume's box, especially the Les Petites... Paris exclusive scarf, what a treat! Kind of sad that the ring was too big for me, especially since I actually loved it. Everything else will surely be used and I must say that although this box's value wasn't as high as my previous one, it still felt luxe and very french. I'm hoping that in the future there will be more inclusions of bags or clutches like in the past, so here's to hoping. Their next box Vol. 2.2: Joie De Vivre will be shipping next month in May, and no spoilers have come out yet as to what would be included. But hopefully something that'll be great for summer!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://ouipleasebox.com" target="_blank"><big>subscribe here</big></a> and use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription. That brings the cost down to $120 for this box or $520 for a whole year! That's a très good deal!</p>
 
