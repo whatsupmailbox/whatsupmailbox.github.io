@@ -10,6 +10,7 @@ published: true
 featured: false
 categories: 
       - Subscriptions
+      - Reviews
 type: photo
 imagefeature: "PopsugarMiniApr2016Items.jpg"
 date: 2016-4-12 13:21:00 -08:00
