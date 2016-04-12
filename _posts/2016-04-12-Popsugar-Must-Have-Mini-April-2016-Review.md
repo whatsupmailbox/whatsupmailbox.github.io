@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Introducing Popsugar Must Have Mini!"
+title: "Popsugar Must Have Mini April 2016 Review!"
 description: ""
-headline: "Introducing Popsugar Must Have Mini!"
-tags: [Popsugar Must Have Mini, Subscriptions]
+headline: "Popsugar Must Have Mini April 2016 Review!"
+tags: [Popsugar Must Have Mini, Subscriptions, April 2016]
 comments: true
 mathjax: null
 published: true
