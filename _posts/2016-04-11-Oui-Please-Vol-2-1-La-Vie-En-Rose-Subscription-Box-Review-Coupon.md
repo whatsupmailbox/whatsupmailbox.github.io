@@ -167,7 +167,7 @@ date: 2016-4-11 16:51:39 -08:00
 <TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Oui Please Vol. 1.6 Items:</center></H3>
+         <H3><BR><center>My Oui Please Vol. 2.1 Items:</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
