@@ -6,7 +6,7 @@ headline: "Introducing Popsugar Must Have Mini!"
 tags: [Popsugar Must Have Mini, Subscriptions]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 categories: 
       - Subscriptions
