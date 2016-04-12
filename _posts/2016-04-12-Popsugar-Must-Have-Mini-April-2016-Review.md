@@ -35,6 +35,13 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
+<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<img src="/images/PopsugarMiniApr2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
+</a></center>
+<figcaption>Info Card</figcaption>
+
+<br>
+
 <H2>And here are the items for Popsugar Must Have Mini April 2016:</H2>
 
 <center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
@@ -99,3 +106,38 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> First off, I'm happy that Popsugar came out with a mini version that's completely different from their bigger box. The price point is affordable plus it promises to have a value of over $30. With that said, I did expect something more from their first launch box, like a grand opening, people expect to be wowed. I do love the product and will definitely be using them, and it would have been great if this came out as their 2nd box or 3rd, just not as their first ever box. Or am I asking too much? I did notice a farm fresh theme in the products and thought that was cute. Again, I'm totally happy with the items and both are definitely worth the price, just thought they could have done better for a launch box.</p>
+
+<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
+
+<p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+
+<br>
+
+<TABLE  BORDER="5" style="width:55%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Greenmarket Purveying Co. Candle</TD>
+      <TD>$16</TD>
+   </TR>
+   <TR>
+      <TD>Farmacy Lip Bloom</TD>
+      <TD>$16.50</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$32.50</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$18.95</big></i></TD>
+   </TR>
+</TABLE>
