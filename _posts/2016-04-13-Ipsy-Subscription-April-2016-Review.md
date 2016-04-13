@@ -39,7 +39,7 @@ date: 2016-4-13 13:51:39 -08:00
 
 <br>
 
-<p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's colors remind me of sunset or Coachella, but that's just me.</p>
+<p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's colors remind me of sunset or the desert, but that's just me.</p>
 
 <p>Here's a look inside the bag:</p>
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
@@ -51,11 +51,9 @@ date: 2016-4-13 13:51:39 -08:00
 <p>Every bag also includes a card with the theme of this month's glam bag.<p>
 
 <figure class="half">
-      <img src='/images/IpsyFeb2016Info.jpg'>
-      <img src='/images/IpsyFeb2016Info2.jpg'>
+      <img src='/images/IpsyApr2016Info.jpg'>
+      <img src='/images/IpsyApr2016Info2.jpg'>
 </figure>
-
-<p>This month's theme is "Dreamers".</p>
 
 <br>
 
