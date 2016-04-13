@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: IpsyApr2016Items.jpg
 headline: Ipsy April 2016 Review!
 tags: [Ipsy, Subscriptions, Reviews, April 2016]
-date: 2016-4-13 13:51:39 -08:00
+date: 2016-4-13 16:31:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
@@ -171,7 +171,7 @@ date: 2016-4-13 13:51:39 -08:00
 
 <br>
 
-<TABLE  BORDER="5" style="width:70%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
