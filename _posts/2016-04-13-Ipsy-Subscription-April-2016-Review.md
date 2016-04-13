@@ -125,7 +125,7 @@ date: 2016-4-13 16:31:39 -08:00
 
 <DL>
 <DT><b>City Color Cosmetics</b>Highlight Trio</DT>
-<DD>Deluxe Sample Palette 3 x .08 oz. / 4.0 g, Value $5?</DD>
+<DD>Deluxe Sample Palette 3 x .08 oz., Value $5?</DD>
 </DL>
 
 <p><i>Note: This palette came sealed.</i></p>
