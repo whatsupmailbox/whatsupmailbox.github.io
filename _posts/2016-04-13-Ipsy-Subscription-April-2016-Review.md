@@ -76,7 +76,7 @@ date: 2016-4-13 16:31:39 -08:00
 <DD>Deluxe Sample Size .05 oz. (half of full size), Value $12</DD>
 </DL>
 
-<p>This lipstick is infused with their famous maracuja oil to leave lips feeling oh-so soft. Every subscriber who received this item will get the same shade, Wonder, a soft poppy pink shade.</p>
+<p>This lipstick is infused with their famous maracuja oil to leave lips feeling oh-so soft. Every subscriber who received this item will get the same shade, Wonder, a bright poppy pink shade.</p>
 
 <p>I'm a fan of Tarte products and I have tons of their cheek and lip tints. Their colors are great and they stay on really well. Needless to say, I was super delighted to get this in my glam bag.</p>
 
