@@ -11,7 +11,7 @@ type: photo
 imagefeature: StudioCalicoApr2016Items.jpg
 headline: Studio Calico Planner Kit April 2016 Review!
 tags: [Studio Calico, Subscriptions, Reviews, April 2016]
-date: 2016-4-19 10:31:39 -08:00
+date: 2016-4-19 10:11:39 -08:00
 ---
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
@@ -130,21 +130,11 @@ date: 2016-4-19 10:31:39 -08:00
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
-<img src="/images/StudioCalicoApr2016HelloForeverIconStickers.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
-<DL>
-<DT>(2) 4x6 Vellum Icon Stickers (Studio Calico)</DT>
-</DL>
-
-<br>
-
-<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HydrateStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <DL>
-<DT>(3) 3x4 Vellum Hydrate Stickers (Studio Calico)</DT>
+<DT>(2) 4x6 Vellum Hydrate Stickers (Studio Calico)</DT>
 </DL>
 
 <br>
