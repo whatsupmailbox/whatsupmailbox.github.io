@@ -82,20 +82,14 @@ date: 2016-4-19 10:11:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016PlannerDivider.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>A5 Floral Divider (Studio Calico)</DT>
-</DL>
+<figcaption>A5 Floral Divider (Studio Calico)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016PageFinder.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>Scripty Words Page Finder (Studio Calico)</DT>
-</DL>
+<figcaption>Scripty Words Page Finder (Studio Calico)</figcaption>
 
 <br>
 
@@ -112,60 +106,42 @@ date: 2016-4-19 10:11:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016AlphabetStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>(2) 4x6 Pink Alpha Sticker (Studio Calico)</DT>
-</DL>
+<figcaption>(2) 4x6 Pink Alpha Sticker (Studio Calico)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HelloForeverIconStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>(3) 3x4 Vellum Icon Stickers (Studio Calico)</DT>
-</DL>
+<figcaption>(3) 3x4 Vellum Icon Stickers (Studio Calico)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HydrateStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>(2) 4x6 Vellum Hydrate Stickers (Studio Calico)</DT>
-</DL>
+<figcaption>(2) 4x6 Vellum Hydrate Stickers (Studio Calico)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016StampSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>3x4 Stamp Set (Hello Forever)</DT>
-</DL>
+<figcaption>3x4 Stamp Set (Hello Forever)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016ColoredBinderClipsPlannerTassels.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>Colored Binder Clips (Studio Calico) & Pink and Yellow Tassel (Maya Road)</DT>
-</DL>
+<figcaption>Colored Binder Clips (Studio Calico) & Pink and Yellow Tassel (Maya Road)</figcaption>
 
 <br>
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016MetalBinderClip.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-
-<DL>
-<DT>Metal Binder Clip (Studio Calico)</DT>
-</DL>
+<figcaption>Metal Binder Clip (Studio Calico)</figcaption>
 
 <br>
 
