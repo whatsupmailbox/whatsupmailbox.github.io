@@ -79,7 +79,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <H4> Items in Detail:</H4>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016PlannerDivider.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -89,7 +89,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016PageFinder.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -99,7 +99,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016ColorTheoryTinyHeartsStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -111,7 +111,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016AlphabetStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -121,7 +121,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HelloForeverIconStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -131,7 +131,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HelloForeverIconStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -141,7 +141,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HydrateStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -151,7 +151,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016StampSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -161,7 +161,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016ColoredBinderClipsPlannerTassels.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -171,7 +171,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016MetalBinderClip.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -180,3 +180,7 @@ date: 2016-4-19 10:31:39 -08:00
 </DL>
 
 <br>
+
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I am loving this planner kit subscription! It has a good variety of items and the stickers fit perfectly in my Webster's Pages planner (not too big yet not tiny either). The colors are vibrant and the quality is great too. From the items, to the reusable bag, and the monthly theme, I have to say that this is one of those planner kits you should definitely subscribe to if you're a planner addict like myself. Try them out once and if you love it, switch to the annual commitment for a lower monthly fee. Can't wait to find out what next month's theme is!</p>
+
+<p>Interested in subscribing? You can <a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank"><big>subscribe here</big></a> and start receiving their monthly planner kit bags filled with colorful goodies!</p>
