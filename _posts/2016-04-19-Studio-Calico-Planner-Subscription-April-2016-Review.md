@@ -18,7 +18,7 @@ date: 2016-4-19 10:11:39 -08:00
 <img src="/images/StudioCalicoApr2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Studio Calico Planner Kit" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
+<p><b>Subscription:</b> <a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">Studio Calico Planner Kit</a></p>
 <p><b>Cost:</b> $24.99/mo. - month-to-month, $22.99/mo. - 6 months, or $19.99/mo. - 12 months + Free Shipping</p>
 <p><b>What's in the box:</b> A planner kit that's packed with everything you need to be creative and to decorate your planner all month long. Each month has a different theme of both style and colors, plus it's all packed into a cool and oh-so-useful bag.</p>
 
