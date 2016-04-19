@@ -86,6 +86,8 @@ date: 2016-4-19 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016PageFinder.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
@@ -93,13 +95,14 @@ date: 2016-4-19 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016ColorTheoryTinyHeartsStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+<figcaption>(2) 3x4 Vellum Heart Stickers (Studio Calico)</figcaption>
 
-<DL>
-<DT>(2) 3x4 Vellum Heart Stickers (Studio Calico)</DT>
-</DL>
+<br>
 
 <br>
 
@@ -110,10 +113,14 @@ date: 2016-4-19 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016HelloForeverIconStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>(3) 3x4 Vellum Icon Stickers (Studio Calico)</figcaption>
+
+<br>
 
 <br>
 
@@ -124,10 +131,14 @@ date: 2016-4-19 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016StampSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>3x4 Stamp Set (Hello Forever)</figcaption>
+
+<br>
 
 <br>
 
@@ -138,10 +149,14 @@ date: 2016-4-19 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoApr2016MetalBinderClip.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>Metal Binder Clip (Studio Calico)</figcaption>
+
+<br>
 
 <br>
 
