@@ -47,7 +47,7 @@ date: 2016-4-19 10:31:39 -08:00
 
 <br>
 
-<p>Inside you'll see a clear, grid-patterned zipper bag that contains the planner kit items. This is how your kit will arrive every month with these bags. I love that as it certainly helps in organizing all my stickers and planner accessories. Very useful indeed!</p>
+<p>Inside you'll see a clear, grid-patterned zipper bag that contains the planner kit items. This is how your kit will arrive every month with these bags, how awesome is that. It certainly helps in organizing all my stickers and planner accessories. Very useful indeed!</p>
 
 <br>
 
@@ -106,8 +106,6 @@ date: 2016-4-19 10:31:39 -08:00
 <DL>
 <DT>(2) 3x4 Vellum Heart Stickers (Studio Calico)</DT>
 </DL>
-
-<p>I love getting nail polish in my Ipsy glam bags, it makes me venture out and try colors that I wouldn't have bought myself and most of the time I end up loving the colors too. Pouty is a fucshia lavender color. It's a very bright and vibrant color which goes well for summer so I can't complain.</p>
 
 <br>
 
