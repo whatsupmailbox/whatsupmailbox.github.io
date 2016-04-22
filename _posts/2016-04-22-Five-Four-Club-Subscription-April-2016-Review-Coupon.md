@@ -21,6 +21,7 @@ date: 2016-4-22 13:31:19 -08:00
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
 <p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items! OR for a limited time, get FREE Wayfarer Sunglasses with coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">SPRINGSHADES<a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">.</p>
+
 <br>
 
 <p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
