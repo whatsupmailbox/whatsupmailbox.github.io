@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -8,10 +8,10 @@ title: Victory Box May 2016 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: VictoryBoxMay2016Box.jpg
+imagefeature: VictoryBoxMay2016Items.jpg
 headline: Victory Box May 2016 Review + Coupon!
 tags: [Victory Box, Subscriptions, Reviews, May 2016]
-date: 2016-05-09 16:22:39 -08:00
+date: 2016-05-10 08:22:39 -08:00
 ---
 
 <center><a href="http://www.winnerscirclefashion.com/victorybox" target="_blank">
