@@ -23,7 +23,9 @@ date: 2016-05-09 16:22:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://www.winnerscirclefashion.com/victorybox" target="_blank"><big>WCFC5</big></a> to receive $5 off your first box!</p>
 <br>
 
-<p>Victory Box ships around the 10th of every month. Note, you'll need to subscribe before the 1st of the month to receive the upcoming month's box.</p>
+<p>Victory Box is a new men's accessories subscription box from the brand <a href="http://www.winnerscirclefashion.com" target="_blank">Winners Circle Fashion Co.</a> and this is their first launch box! It ships around the 10th of every month, and you'll need to subscribe before the 1st of the month to receive the upcoming month's box.</p>
+
+<p>First off, I like how the box has the checkered pattern, it's so distinct and cool. It was a welcomed sight to find it in my mailbox. Now let's start unboxing!</p>
 
 <br>
 
@@ -41,7 +43,7 @@ date: 2016-05-09 16:22:39 -08:00
 </a></center>
 <br>
 
-<p>I'm loving the patriotic colors this month. As summer is coming, these will go great for outdoor events or even a laid back yet fashionable sunday brunch.</p>
+<p>I'm loving the color theme this month. As summer is coming, these will go great for outdoor events or even a laid back yet fashionable sunday brunch.</p>
 
 <br>
 
