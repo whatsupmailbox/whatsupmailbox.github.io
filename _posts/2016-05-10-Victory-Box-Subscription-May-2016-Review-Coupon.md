@@ -14,6 +14,10 @@ tags: [Victory Box, Subscriptions, Reviews, May 2016]
 date: 2016-05-10 08:22:39 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
+
+<br>
+
 <center><a href="http://www.winnerscirclefashion.com/victorybox" target="_blank">
 <img src="/images/VictoryBoxMay2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Victory Box May 2016" />
 </a></center>
