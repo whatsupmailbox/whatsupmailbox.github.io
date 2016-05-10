@@ -121,10 +121,10 @@ date: 2016-05-09 16:22:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love the curation as well as the color scheme of this month's box. It has all the items a dapper man would need to complete his look! It can all be used together (thanks to their thoughtful color theme) or individually. The total value for this month's box came up to $92.99! And for $16, I must say, this is such an amazing deal. The watch itself is worth more than triple that amount, insanity. This is definitely a must have box for all you dapper men out there who's looking to add some pizaaz in your wardrobe or look!</p>
 
-<p>If you haven't subscribed yet, you can <a href="http://www.winnerscirclefashion.com/victorybox8" target="_blank">click here to subscribe to Victory Box</a> and don't forget to use coupon code <b>WCFC5</b> to get $5 off your first box! And remember, subscribe before the 1st of June if you want to receive a box next month.</p>
+<p>If you haven't subscribed yet, you can <a href="http://www.winnerscirclefashion.com/victorybox8" target="_blank">click here to subscribe to Victory Box</a> and don't forget to use coupon code <b>WCFC5</b> to get $5 off your first box! And remember, subscribe before the 1st of June if you want to receive next month's box.</p>
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE BOX</center></H3>
