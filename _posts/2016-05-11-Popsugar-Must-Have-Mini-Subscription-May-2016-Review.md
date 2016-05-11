@@ -56,7 +56,7 @@ date: 2016-5-11 09:21:00 -08:00
 <DD>Value $12.99</DD>
 </DL>
 
-<p>This is a 22oz citrus-infuser bottle and it's BPA Free and Dishwasher safe as well.</p>
+<p>This is a 22oz citrus-infuser bottle and it's BPA free and dishwasher safe as well.</p>
 
 <p>I love infused flavored water, they make drinking water less boring and more tasty! And summer is definitely the season to start drinking more of these infused waters so this water bottle came just in time. I typically love infusing my water with lime rather than lemon, and they even suggest adding some mint leaves with the lime for a virgin take of a mojito. I am going to try that asap. With that said, I'm pretty sure I'll be using this water bottle all summer long!</p>
 
