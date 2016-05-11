@@ -103,7 +103,7 @@ date: 2016-5-11 09:21:00 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$42.99</big></b></TD>
+      <TD><b><big>$50.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
