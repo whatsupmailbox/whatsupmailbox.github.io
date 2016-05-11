@@ -51,12 +51,6 @@ date: 2016-5-11 09:21:00 -08:00
 
 <br>
 
-<H2>Items in detail:</H2>
-
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarMiniMay2016WaterInfuser.jpg" border="0" style="border:none;max-width:100%;"/>
-</a></center>
-
 <DL>
 <DT><b>Greenmarket Purveying Co.</b> White Melon Pantry Soy Candle</DT>
 <DD>Value $16</DD>
@@ -65,10 +59,6 @@ date: 2016-5-11 09:21:00 -08:00
 <p>I love infused flavored water, they make drinking water less boring and more tasty! And summer is definitely the season to start drinking more of these infused waters so this water bottle came just in time. I typically love infusing my water with lime rather than lemon, but that's because I grew up in a tropical island where lime is more abundant than lemon hence I've grown more acustomed to it. I'm pretty sure I'll be using this water bottle all summer long!</p>
 
 <br>
-
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
-<img src="/images/PopsugarMiniMay2016H2OMoisturizer.jpg" border="0" style="border:none;max-width:100%;"/>
-</a></center>
 
 <DL>
 <DT><b>H2O</b> Moisturizer</DT>
