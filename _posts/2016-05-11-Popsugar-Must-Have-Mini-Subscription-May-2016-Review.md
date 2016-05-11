@@ -52,20 +52,24 @@ date: 2016-5-11 09:21:00 -08:00
 <br>
 
 <DL>
-<DT><b>Greenmarket Purveying Co.</b> White Melon Pantry Soy Candle</DT>
-<DD>Value $16</DD>
+<DT><b>Zing Anything.</b> Zingo Tritan White</DT>
+<DD>Value $12.99</DD>
 </DL>
 
-<p>I love infused flavored water, they make drinking water less boring and more tasty! And summer is definitely the season to start drinking more of these infused waters so this water bottle came just in time. I typically love infusing my water with lime rather than lemon, but that's because I grew up in a tropical island where lime is more abundant than lemon hence I've grown more acustomed to it. I'm pretty sure I'll be using this water bottle all summer long!</p>
+<p>This is a 22oz citrus-infuser bottle and it's BPA Free and Dishwasher safe as well.</p>
+
+<p>I love infused flavored water, they make drinking water less boring and more tasty! And summer is definitely the season to start drinking more of these infused waters so this water bottle came just in time. I typically love infusing my water with lime rather than lemon, and they even suggest adding some mint leaves with the lime for a virgin take of a mojito. I am going to try that asap. With that said, I'm pretty sure I'll be using this water bottle all summer long!</p>
 
 <br>
 
 <DL>
-<DT><b>H2O</b> Moisturizer</DT>
-<DD>Value $32</DD>
+<DT><b>H2O+</b> Oasis Hydrating Treatment</DT>
+<DD>Value $38</DD>
 </DL>
 
-<p>I have quite a few bath and body products by H2O but nothing in the skincare line so I'm excited to try this.</p>
+<p>I have quite a few bath and body products by H2O+ but nothing in the skincare line so I'm excited to try this. Especially since their website says that this is their bestselling product.</p>
+
+<p>This moisturizer has a blend of vitamins A, C & E that helps increase skin’s elasticity while delivering powerful antioxidants to help repair and prevent cell damage. I find the texture light and non-greasy which is exactly how I like them to be. A tip from their website says to place the jar in the refrigerator 1-2 hours before use for a refreshing, cooling mask. I will definitely need to try that!</p>
 
 <br>
 
