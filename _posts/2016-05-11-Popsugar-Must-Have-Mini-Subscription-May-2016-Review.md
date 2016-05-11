@@ -52,7 +52,7 @@ date: 2016-5-11 09:21:00 -08:00
 <br>
 
 <DL>
-<DT><b>Zing Anything.</b> Zingo Tritan White</DT>
+<DT><b>Zing Anything</b> Zingo Tritan White Infuser Bottle</DT>
 <DD>Value $12.99</DD>
 </DL>
 
@@ -92,16 +92,16 @@ date: 2016-5-11 09:21:00 -08:00
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Water Infuser Bottle</TD>
-      <TD>$16</TD>
+      <TD>Zingo Infuser Bottle</TD>
+      <TD>$12.99</TD>
    </TR>
    <TR>
-      <TD>H2O Moisturizer</TD>
-      <TD>$32</TD>
+      <TD>H2O+ Oasis Hydrating Treatment</TD>
+      <TD>$38</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$32.50</big></b></TD>
+      <TD><b><big>$42.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
