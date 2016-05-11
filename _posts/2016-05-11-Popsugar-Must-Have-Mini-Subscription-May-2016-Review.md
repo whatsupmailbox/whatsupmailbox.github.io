@@ -22,7 +22,7 @@ date: 2016-5-11 09:21:00 -08:00
 
 <p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a></p>
 <p><b>Cost:</b> $18.95/monthly + Free Shipping (additional taxes apply to CA)</p>
-<p><b>What's in the box:</b> In the Must Have MINI Box you will receive 2 full-size items worth over $30. Please note that the products in the Must Have MINI Box will be different from the products offered in the Must Have Box.</p>
+<p><b>What's in the box:</b> In the Popsugar Must Have MINI Box you will receive 2 full-size items worth over $30. Please note that the products in the Must Have MINI Box will be different from the products offered in the regular Popsugar Must Have Box.</p>
 <br>
 
 <p>Popsugar Must Have Mini is a fairly new subscription box released by Popsugar as a smaller and totally different version of their Popsugar Must Have box. This is only their second box since they launched last month.</p>
