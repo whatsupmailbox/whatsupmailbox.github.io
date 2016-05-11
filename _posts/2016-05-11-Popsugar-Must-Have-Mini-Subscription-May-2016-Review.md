@@ -73,7 +73,7 @@ date: 2016-5-11 09:21:00 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I love that they included a water bottle this month, and the moisturizer will definitely be put to use. I'm still kind of hoping for something better from this box, so I'll keep subscribing for a couple of months longer since they did just launch last month so perhaps they're still figuring things out and getting customer feedback for future shipments. I think more accessories would be appreciated or even some makeup tools, but that's just my wishful thinking. What would you like to see in your Popsugar Must Have Mini Box?</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved that they included a water bottle this month, and the moisturizer will definitely be put to use. I'm still kind of hoping for something better from this box, so I'll keep subscribing for a couple of months longer since they did just launch last month so perhaps they're still figuring things out and getting customer feedback for future shipments. I think more accessories would be appreciated or even some makeup tools, but that's just my wishful thinking. What would you like to see in your Popsugar Must Have Mini Box?</p>
 
 <p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
 
