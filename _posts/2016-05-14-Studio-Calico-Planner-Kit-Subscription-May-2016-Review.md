@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: StudioCalicoPlannerKitMay2016Items.jpg
 headline: Studio Calico Planner Kit May 2016 Review!
 tags: [Studio Calico, Subscriptions, Reviews, May 2016]
-date: 2016-5-14 10:11:39 -08:00
+date: 2016-5-14 10:08:39 -08:00
 ---
 
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
@@ -70,10 +70,14 @@ date: 2016-5-14 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016PocketPageRaindropStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>Floral Planner Pocket Page (Jasmine Jones) & (2) 3x4 Vellum Raindrop Stickers (Studio Calico)</figcaption>
+
+<br>
 
 <br>
 
@@ -84,10 +88,14 @@ date: 2016-5-14 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016PuffyCircleStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>3x6 Time Icon Puffy Circle Stickers (Hello Forever)</figcaption>
+
+<br>
 
 <br>
 
@@ -98,10 +106,14 @@ date: 2016-5-14 10:11:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016ChecklistStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>(2) Grey Vellum Checklist Stickers (Studio Calico)</figcaption>
+
+<br>
 
 <br>
 
@@ -113,9 +125,14 @@ date: 2016-5-14 10:11:39 -08:00
 <br>
 
 <p>Here's how the checklist looks on my planner:</p>
+
+<br>
+
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016ChecklistStickers3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+
+<br>
 
 <br>
 
@@ -123,6 +140,8 @@ date: 2016-5-14 10:11:39 -08:00
 <img src="/images/StudioCalicoPlannerKitMay2016DieCutLabelsClockStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>(2) 4x6 Planner Die Cut Labels (Hello Forever) & (2) 4x6 Clock Stickers (Hello Forever)</figcaption>
+
+<br>
 
 <br>
 
@@ -134,12 +153,12 @@ date: 2016-5-14 10:11:39 -08:00
 
 <br>
 
-<br>
-
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016Stamp.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 <figcaption>Roller Stamp (Studio Calico)</figcaption>
+
+<br>
 
 <br>
 
@@ -150,6 +169,6 @@ date: 2016-5-14 10:11:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's kit was bright in colors and had a clock theme to it too. I love and will be using every single item in this kit, and I've already done so for some of the items as you can see from my review. Studio Calico makes great stationery items and their planner kit includes other brands as well, making this the perfect planner kit to have. Can't wait for next month's delivery and theme!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's kit was bright in colors and had a clock theme to it too. I love and will be using every single item in this kit, so much that I've already used some of the items as you can see from my review. Studio Calico makes great stationery items and their planner kit includes other brands as well so you get a good variety. I think it's a great subscription to have for your basic planner needs, and I've been enjoying them for a few months now and so far so good. Can't wait for next month's delivery and theme!</p>
 
 <p>Interested in subscribing? You can <a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank"><big>subscribe here</big></a> and start receiving their monthly planner kit bags filled with colorful goodies!</p>
