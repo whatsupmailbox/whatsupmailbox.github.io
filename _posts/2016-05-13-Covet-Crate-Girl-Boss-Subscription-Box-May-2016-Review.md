@@ -32,44 +32,37 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate May 2016 Open Box" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate May 2016 Open Box" /></center>
 <figcaption>First look at unboxing</figcaption>
 
 <br>
 
 <p>And another look at unboxing:</p>
-<center><img src="/images/CovetCrateMay2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate May 2016 Open Box" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016OpenBox2.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate May 2016 Open Box" /></center>
 
 <br>
 
 <p>Every box includes an Info Magazine that spotlights a woman/lady figure who is an inspiration to others through their work or achievement. This month they featured Malala Yousafzai.<p>
-<center><img src="/images/CovetCrateMay2016InfoMagazine.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Info Magazine" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016InfoMagazine.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Info Magazine" /></center>
 
 <p>Her story of survival and her passion for the right of education for girls in Pakistan has truly touched and inspired many people around the world. I am one of those people and I truly admire her strength, her determination and courage!</p>
 
 <br>
 
 <p>The Info Magazine also details the box items inside with a description of not only the items itself, but also the company and/or artist behind it.</p>
-<center><img src="/images/CovetCrateMay2016InfoMagazine2.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Info Magazine" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016InfoMagazine2.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Info Magazine" /></center>
 
 <br>
 
 <H4> And here are the items:</H4>
 
-<center><img src="/images/CovetCrateMay2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss May 2016 Items" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss May 2016 Items" /></center>
 
 <br>
 
 <H4> Items in Detail:</H4>
 
-<center><img src="/images/CovetCrateMay2016ParrisChicBoutiqueHomeSweetHomePillowCover.jpg" border="0" style="border:none;max-width:100%;" alt="Parris Chic Boutique Home Sweet Home Pillow Cover" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016ParrisChicBoutiqueHomeSweetHomePillowCover.jpg" border="0" style="border:none;max-width:100%;" alt="Parris Chic Boutique Home Sweet Home Pillow Cover" /></center>
 
 <DL>
 <DT><b>Parris Chic Boutique</b> Home Sweet Home Pillow Cover</DT>
@@ -80,16 +73,13 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><img src="/images/CovetCrateMay2016ParrisChicBoutiqueHomeSweetHomePillowCover2.jpg" border="0" style="border:none;max-width:100%;" alt="Parris Chic Boutique Home Sweet Home Pillow Cover" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016ParrisChicBoutiqueHomeSweetHomePillowCover2.jpg" border="0" style="border:none;max-width:100%;" alt="Parris Chic Boutique Home Sweet Home Pillow Cover" /></center>
 
 <p>All of their items are handmade from start to finish and the material they use for this pillow cover is a light weight, unbleached Osnaburg fabric which is a faux linen. It comes in an off white, oatmeal color and feature hand lettered calligraphy by owner of PCB, Alyssa Thiel.</p>
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016LizDavenportOrderFromChaosBook.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016LizDavenportOrderFromChaosBook.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <DL>
 <DT><b>Order From Chaos</b> by Liz Davenport</DT>
@@ -100,17 +90,13 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016LizDavenportOrderFromChaosBook2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016LizDavenportOrderFromChaosBook2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <p>I think it's great that a guidebook to organizing is included. I personally am both excited and scared to start reading this book. I just know that once I start, I'm totally going to go overboard with this organization system.</p>
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016WatercolorArtPrintNotepads.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016WatercolorArtPrintNotepads.jpg" border="0" style="border:none;max-width:100%;" /></center>
 <DL>
 <DT><b>Covet Crate</b> Watercolor Art Print, Notepad, and Sticky Notes</DT>
 <DD>Value $15?</DD>
@@ -121,9 +107,7 @@ date: 2016-5-13 17:01:39 -08:00
 <br>
 
 <p>The print came in a protected sleeve to ensure it's safe and perfect arrival:</p>
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016WatercolorArtPrint2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016WatercolorArtPrint2.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <br>
 
@@ -135,7 +119,7 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.etsy.com/listing/198617733/soft-ethereal-light-blue-watercolor?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=art%20print&ref=sr_gallery_44" target="_blank">
 <img src="/images/CovetCrateMay2016WatercolorArtPrint3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -145,9 +129,7 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016PoppinPaperClips.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016PoppinPaperClips.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <DL>
 <DT><b>Poppin</b> Assorted Paperclips</DT>
@@ -158,9 +140,7 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016PoppinBitsBobsTray.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016PoppinBitsBobsTray.jpg" border="0" style="border:none;max-width:100%;" /></center>
 
 <DL>
 <DT><b>Poppin</b> Bits + Bobs Tray</DT>
@@ -171,9 +151,8 @@ date: 2016-5-13 17:01:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/CovetCrateMay2016PoppinBitsBobsTray2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<center><img src="/images/CovetCrateMay2016PoppinBitsBobsTray2.jpg" border="0" style="border:none;max-width:100%;" />
+</center>
 
 <p>The Covet Crate sticky note fits perfectly and the other two compartments are great for smaller items such as paper clips or push pins etc. A great little organizer tray!</p>
 
