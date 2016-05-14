@@ -93,7 +93,7 @@ date: 2016-5-13 17:01:39 -08:00
 
 <DL>
 <DT><b>Order From Chaos</b> by Liz Davenport</DT>
-<DD>Value $12.99</DD>
+<DD>Value $12.50</DD>
 </DL>
 
 <p>Order From Chaos is an organizing book with a "six easy steps" system that will help you clean up your act. From clearing up your desk, to managing your calendar, it guides you and provides a no-fail system for prioritization.</p>
@@ -197,7 +197,7 @@ date: 2016-5-13 17:01:39 -08:00
    </TR>
    <TR>
       <TD>Order From Chaos Book</TD>
-      <TD>$12.99</TD>
+      <TD>$12.50</TD>
    </TR>
     <TR>
       <TD>Covet Crate Art Print</TD>
@@ -217,7 +217,7 @@ date: 2016-5-13 17:01:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$56.99</big></b></TD>
+      <TD><b><big>$56.50</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
