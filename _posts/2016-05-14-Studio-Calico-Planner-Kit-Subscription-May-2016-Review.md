@@ -66,7 +66,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016TransparencyGoal.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>6x8 Transparency Goal (Studio Calico)</figcaption>
+<center><p>6x8 Transparency Goal (Studio Calico)</p></center>
 
 <br>
 
@@ -75,7 +75,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016PocketPageRaindropStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>Floral Planner Pocket Page (Jasmine Jones) & (2) 3x4 Vellum Raindrop Stickers (Studio Calico)</figcaption>
+<center><p>Floral Planner Pocket Page (Jasmine Jones) & (2) 3x4 Vellum Raindrop Stickers (Studio Calico)</p></center>
 
 <br>
 
@@ -84,7 +84,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016AlarmClockStickyNotes.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>Alarm Clock Sticky Notes (Hello Forever)</figcaption>
+<center><p>Alarm Clock Sticky Notes (Hello Forever)</p></center>
 
 <br>
 
@@ -93,7 +93,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016PuffyCircleStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>3x6 Time Icon Puffy Circle Stickers (Hello Forever)</figcaption>
+<center><p>3x6 Time Icon Puffy Circle Stickers (Hello Forever)</p></center>
 
 <br>
 
@@ -102,7 +102,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016PuffyCircleStickers2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>Closer look at the puffy stickers</figcaption>
+<center><p>Closer look at the puffy stickers</p></center>
 
 <br>
 
@@ -111,7 +111,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016ChecklistStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>(2) Grey Vellum Checklist Stickers (Studio Calico)</figcaption>
+<center><p>(2) Grey Vellum Checklist Stickers (Studio Calico)</p></center>
 
 <br>
 
@@ -139,7 +139,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016DieCutLabelsClockStickers.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>(2) 4x6 Planner Die Cut Labels (Hello Forever) & (2) 4x6 Clock Stickers (Hello Forever)</figcaption>
+<center><p>(2) 4x6 Planner Die Cut Labels (Hello Forever) & (2) 4x6 Clock Stickers (Hello Forever)</p></center>
 
 <br>
 
@@ -156,7 +156,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016Stamp.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>Roller Stamp (Studio Calico)</figcaption>
+<center><p>Roller Stamp (Studio Calico)</p></center>
 
 <br>
 
@@ -165,7 +165,7 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016GoldTrianglePaperClips.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<figcaption>(10) Gold Triangle Paper Clips</figcaption>
+<center><p>(10) Gold Triangle Paper Clips</p></center>
 
 <br>
 
