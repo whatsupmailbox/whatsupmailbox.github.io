@@ -66,7 +66,8 @@ date: 2016-5-14 10:08:39 -08:00
 <center><a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank">
 <img src="/images/StudioCalicoPlannerKitMay2016TransparencyGoal.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
-<center><p>6x8 Transparency Goal (Studio Calico)</p></center>
+
+<center>6x8 Transparency Goal (Studio Calico)</center>
 
 <br>
 
