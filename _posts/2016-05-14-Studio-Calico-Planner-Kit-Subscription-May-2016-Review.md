@@ -169,6 +169,6 @@ date: 2016-5-14 10:08:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's kit was bright in colors and had a clock theme to it too. I love and will be using every single item in this kit, so much that I've already used some of the items as you can see from my review. Studio Calico makes great stationery items and their planner kit includes other brands as well so you get a good variety. I think it's a great subscription to have for your basic planner needs, and I've been enjoying them for a few months now and so far so good. Can't wait for next month's delivery and theme!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's kit was bright in colors and had a clock theme to it too. I love and will be using every single item in this kit, so much that I've already used some of the items as you can see from my review. Studio Calico makes great stationery items and you get a good variety too. I think it's a great subscription to have for your basic planner needs, and I've been enjoying them for a few months now and so far so good. Can't wait for next month's delivery and theme!</p>
 
 <p>Interested in subscribing? You can <a href="http://www.studiocalico.com/kits/film-club/planner-kit/subscribe" target="_blank"><big>subscribe here</big></a> and start receiving their monthly planner kit bags filled with colorful goodies!</p>
