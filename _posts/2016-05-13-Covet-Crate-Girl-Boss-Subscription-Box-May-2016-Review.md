@@ -151,7 +151,7 @@ date: 2016-5-13 17:01:39 -08:00
 
 <DL>
 <DT><b>Poppin</b> Assorted Paperclips</DT>
-<DD> Value $4</DD>
+<DD>Qty 50, Value $4</DD>
 </DL>
 
 <p>These clips are colorful and bright. It will surely keep my documents together in style!</p>
