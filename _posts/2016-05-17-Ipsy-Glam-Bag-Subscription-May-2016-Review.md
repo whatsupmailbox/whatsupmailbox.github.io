@@ -174,7 +174,7 @@ date: 2016-5-17 08:31:39 -08:00
 <TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>My Items</center></H3>
+         <H3><BR><center>My Ipsy Glam Bag Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
