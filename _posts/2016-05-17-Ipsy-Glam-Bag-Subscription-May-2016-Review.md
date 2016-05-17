@@ -135,26 +135,21 @@ date: 2016-5-17 09:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
+<figure class="half">
+      <img src='/images/IpsyMay2016HikariCosmeticsShimmerBronzer.jpg'>
+      <img src='/images/IpsyMay2016HikariCosmeticsShimmerBronzer1.jpg'>
+</figure>
 
 <br>
-
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
-
-<br>
-
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
-<img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer2.jpg" border="0" style="border:none;max-width:100%;" />
-</a></center>
 
 <DL>
 <DT><b>Hikari Cosmetics</b> Shimmer Bronzer in Radiate</DT>
 <DD>Full Size, Value $17</DD>
 </DL>
+
+<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer2.jpg" border="0" style="border:none;max-width:100%;" />
+</a></center>
 
 <p>I'm all about contouring and a bronzer is a must have for that. I'm happy to receive this item because of that, but this specific bronzer does have quite a bit of shimmer in it. I prefer mine to be matte so sadly this will be gifted.</p>
 
