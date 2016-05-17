@@ -155,6 +155,8 @@ date: 2016-5-17 08:31:39 -08:00
 <DD>Full Size, Value $17</DD>
 </DL>
 
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
