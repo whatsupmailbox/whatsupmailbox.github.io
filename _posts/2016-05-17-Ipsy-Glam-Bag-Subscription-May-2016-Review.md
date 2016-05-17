@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: IpsyMay2016Items.jpg
 headline: Ipsy May 2016 Review!
 tags: [Ipsy, Subscriptions, Reviews, May 2016]
-date: 2016-5-17 09:31:39 -08:00
+date: 2016-5-17 08:31:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
@@ -41,7 +41,12 @@ date: 2016-5-17 09:31:39 -08:00
 
 <p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design has a travel theme and includes icons of landmarks around the world.</p>
 
+<br>
+
 <p>Here's a closer look at the bag:</p>
+
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016Bag.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy May 2016 Glam Bag!" />
 </a></center>
@@ -81,6 +86,8 @@ date: 2016-5-17 09:31:39 -08:00
 <DD>Exclusive Ipsy Size .07 oz., Value $10?</DD>
 </DL>
 
+<br>
+
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016PacificaNaturalMineralCoconutEyeShadowTrio3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
@@ -109,6 +116,7 @@ date: 2016-5-17 09:31:39 -08:00
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016TheOrganicPharmacyAntioxidantLipBalm.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
+
 <DL>
 <DT><b>The Organic Pharmacy</b> Antioxidant Lip Balm</DT>
 <DD>Full Size .24 fl oz, Value $22</DD>
