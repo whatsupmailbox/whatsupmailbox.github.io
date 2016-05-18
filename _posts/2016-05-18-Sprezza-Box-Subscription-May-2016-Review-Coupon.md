@@ -175,7 +175,7 @@ date: 2016-05-18 08:22:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What a great box! I loved the color theme as well as the variety of products. And with a total value of $161.95 for a $25 box, well that's just amazing! Can't wait for next month's box!</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What a great box! I loved the color theme as well as the variety of products. Plus it had an extra free month trial of teeth whitening which includes quite a bit of products. And with a total value of $161.95 for a $25 box, well that's just amazing! Can't wait for next month's box!</p>
 
 <p>If you haven't subscribed yet, you can <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">click here to subscribe to Sprezza Box</a> and don't forget to use coupon code <b>COMEBACK5</b> to get $5 off your first box!</p>
 
