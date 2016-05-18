@@ -23,7 +23,7 @@ date: 2016-05-18 08:22:39 -08:00
 <p><b>Coupon:</b> Use coupon code <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank"><big>COMEBACK5</big></a> for $5 off your first box!</p>
 <br>
 
-<p>It's been awhile since my last review of Sprezza Box and I'm happy that now that I have the opportunity to review this box again, yay!</p>
+<p>It's been awhile since I reviewed a SprezzaBox and I'm happy that now I have the opportunity to review this box again, yay!</p>
 
 <br>
 
