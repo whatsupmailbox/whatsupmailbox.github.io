@@ -79,6 +79,8 @@ date: 2016-05-18 08:22:39 -08:00
 
 <br>
 
+<br>
+
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxMay2016BedStuSocks.jpg" border="0" style="border:none;max-width:100%;" alt="BED | STÜ Socks" />
 </a></center>
@@ -148,6 +150,8 @@ date: 2016-05-18 08:22:39 -08:00
 </a></center>
 
 <p>The branding is evident inside. This pocket square was designed in Sprezza's LA office, so it's exclusively their product.</p>
+
+<br>
 
 <br>
 
