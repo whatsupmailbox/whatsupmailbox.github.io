@@ -171,7 +171,7 @@ date: 2016-05-18 08:22:39 -08:00
 <img src="/images/SprezzaBoxMay2016SuperSmileToothpaste2.jpg" border="0" style="border:none;max-width:100%;" alt="Supersmile Whitening Toothpaste" />
 </a></center>
 
-<p>They also included a free 30-day trial that includes the products below. How awesome is that! I mean, who doesn't want whiter teeth. I'm totally signing up and can't wait to see the results!</p>
+<p>They also included a free 30-day trial ($39.95 value) that includes the products below. How awesome is that! I mean, who doesn't want whiter teeth. I'm totally signing up and can't wait to see the results!</p>
 
 <br>
 
