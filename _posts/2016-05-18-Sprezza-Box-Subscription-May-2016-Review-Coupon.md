@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -107,7 +107,7 @@ date: 2016-05-18 08:22:39 -08:00
 <DD>Value $39.95</DD>
 </DL>
 
-<p>AUS is an Australian brand that has hundreds of cuff link styles on their website. This particular design is of a knot, which in my opinion is quite classy.</p>
+<p>AUS is an Australian brand that has hundreds of cuff link styles on their website.</p>
 
 <br>
 
@@ -118,6 +118,8 @@ date: 2016-05-18 08:22:39 -08:00
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
 <img src="/images/SprezzaBoxMay2016AusCufflinks2.jpg" border="0" style="border:none;max-width:100%;" alt="AUS Cuff Links" />
 </a></center>
+
+<p>This particular design is of a knot, which in my opinion is quite classy.</p>
 
 <br>
 
