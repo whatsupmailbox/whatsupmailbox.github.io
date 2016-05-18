@@ -51,6 +51,10 @@ date: 2016-05-18 08:22:39 -08:00
 
 <p>The back of the info card lists all the items inside and their values:</p>
 
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxMay2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
+</a></center>
+
 <br>
 
 <H4>And here are the items:</H4>
@@ -71,15 +75,15 @@ date: 2016-05-18 08:22:39 -08:00
 <DD>Value $78</DD>
 </DL>
 
-<p>I love the combination of pink and blue, and the colors are bright and light, perfect for summer. SprezzaBox suggests to pair this with a heather gray suit.</p>
+<p>A necktie valued at $78, why yes please. I love the combination of pink and blue, and the colors are bright and light, perfect for summer. SprezzaBox suggests to pair this with a heather gray suit.</p>
 
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoxMay2016BedStuSocks.jpg" border="0" style="border:none;max-width:100%;" alt="Bed | Stu Socks" />
+<img src="/images/SprezzaBoxMay2016BedStuSocks.jpg" border="0" style="border:none;max-width:100%;" alt="BED | STÜ Socks" />
 </a></center>
 <DL>
-<DT><b>Bed | Stu</b> Socks</DT>
+<DT><b>BED | STÜ</b> Socks</DT>
 <DD>Value $15</DD>
 </DL>
 
@@ -88,7 +92,7 @@ date: 2016-05-18 08:22:39 -08:00
 <br>
 
 <center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
-<img src="/images/SprezzaBoxMay2016BedStuSocks.jpg" border="0" style="border:none;max-width:100%;" alt="Bed | Stu Socks" />
+<img src="/images/SprezzaBoxMay2016BedStuSocks2.jpg" border="0" style="border:none;max-width:100%;" alt="Bed | Stu Socks" />
 </a></center>
 
 <p>The underside of the socks has the branding as well. These socks are bright and cheerful, it makes me happy just looking at them! They will certainly brighten up your attire even if it's just during glimpses when you walk or sit down.</p>
