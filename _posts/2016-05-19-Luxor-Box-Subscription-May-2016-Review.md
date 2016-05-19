@@ -142,6 +142,7 @@ date: 2016-5-19 08:05:39 -08:00
 <figure class="half">
     <img src="/images/LuxorBoxMay2016RoseEtMariusTumblerInfo.jpg">
     <img src="/images/LuxorBoxMay2016RoseEtMariusTumblerInfo2.jpg">
+</figure>
 
 <p>Some info about the brand and what inspired their tumbler designs. I can't believe that this is made of porcelain with platinum finish, how luxurious! It is also entirely handmade in France and can be used as a cup or filled with a candle. I think I'll be purchasing both their candle and diffuser that fits inside of this tumbler. You can also use pretty much any candle that fits inside. When you put a candle inside, it will illuminate through the design, projecting a pretty glow from inside of the tumbler. I can't wait to see that!</p>
 
