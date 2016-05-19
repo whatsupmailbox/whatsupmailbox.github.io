@@ -208,7 +208,7 @@ date: 2016-5-19 08:05:39 -08:00
 <p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is July 2016!</p>
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:45%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
