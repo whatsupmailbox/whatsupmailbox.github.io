@@ -9,7 +9,7 @@ categories:
 tags: [Luxor Box, Subscriptions, Reviews, May 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "LuxorBoxMay2016Items.jpg"
@@ -202,7 +202,7 @@ date: 2016-5-19 08:05:39 -08:00
 
 <br>
 
-<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, wow and wow. This box was ah-mazing! I absolutely LOVED everything, great job Luxor Box! It had a good variety of products and the tumbler from Rose et Marius made this box extra special and hands down my favorite box from them ever.</p>
+<p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Wow, wow and wow. This box was ah-mazing! I absolutely LOVED everything, great job Luxor Box! It had a good variety of products and the tumbler from Rose et Marius made this box extra special and hands down my favorite box from them ever. Although there seemed to be less items this month compared to past months, all of the items were definitely in the luxury category versus 1 or 2 high-valued items mixed in with smaller items that seems more like fillers. I definitely prefer less items but more quality. Hopefully they keep this trend for the upcoming boxes!</p>
 
 <p>If you haven't joined yet, you can <a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank"><big>subscribe to Luxor Box here</big></a>. Their next shipment is July 2016!</p>
 <br>
@@ -237,7 +237,7 @@ date: 2016-5-19 08:05:39 -08:00
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$368</big></b></TD>
+      <TD><b><big>$388</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
