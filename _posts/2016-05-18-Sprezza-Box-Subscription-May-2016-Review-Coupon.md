@@ -22,9 +22,9 @@ date: 2016-05-18 08:22:39 -08:00
 <img src="/images/SprezzaBoxMay2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Box May 2016" />
 </a></center>
 <p><b>Subscription:</b> <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">Sprezza Box</a></p>
-<p><b>Cost:</b> $25/month + Free Shipping</p>
+<p><b>Cost:</b> $28/month + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive 5-6 of the latest men's fashion, lifestyle and grooming products from new and up-and-coming brands all delivered to your doorstep!</p>
-<p><b>Coupon:</b> Use coupon code <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank"><big>COMEBACK5</big></a> for $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank"><big>WHATSUPMAILBOX</big></a> for 10% off your first box!</p>
 <br>
 
 <p>It's been awhile since I reviewed a SprezzaBox and I'm happy that now I have the opportunity to review this box again, yay!</p>
