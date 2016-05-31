@@ -16,9 +16,6 @@ imagefeature: "GentlemansBoxMay2016Items.jpg"
 date: 2016-05-30 15:31:39 -08:00
 ---
 
-
-# Gentleman's Box May 2016 Review
-
 <sup>*Disclosure: This box was received complimentary in exchange for a review. No affiliate links were used.*<sup>
 
 ![Gentleman's Box May 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxMay2016Box.jpg)
