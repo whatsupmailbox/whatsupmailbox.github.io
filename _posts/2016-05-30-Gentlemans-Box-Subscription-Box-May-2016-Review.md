@@ -162,25 +162,57 @@ This is a non-toxic premium shoe polish that protects your leather shoes from ou
 
 ![El Patron Hair Pomade](http://whatsupmailbox.com/images/GentlemansBoxMay2016ElPatronHairPomade2.jpg)
 
-**El Patron Hair Pomade**, Deluxe Sample Size, *Value $4.20*
+**El Patron Hair Pomade**, Bonus Item: Deluxe Sample Size, *Value $4.20*
 
 This hair pomade has maximum hold with high shine, great for thick and unruly hair. Its "water-based formula rinses clean and offers ultimate control." It's also great to add texture to your hair as well as a strong styling hold. Plus this size is perfect for traveling.
 
 <br>
 
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I'm always pleased with the curation of Gentleman's Box, they continuously introduce cool brands and items that would keep any gentleman up to date in style. This month's theme and style is perfect for summer, and those cufflinks are super cool. With a total value of $97.20, that's almost quadruple the box cost! This is definitely a box to try out for all you dapper or soon to be dapper gentleman out there =)
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I'm always pleased with the curation of Gentleman's Box, they continuously introduce cool brands and items that would keep any gentleman up to date in style. This month's theme and style is perfect for summer, and those cufflinks are super cool. With a total value of $99, that's pretty much quadruple the box cost! This is definitely a box to try out for all you dapper or soon to be dapper gentleman out there =)
 
 Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!
 
 <br>
 
-Gentleman's Box Items     | Value
-------------------------- | -------------
-Salt + Dapper Bowtie      | $45
-Crosby & Co. Cuff Links   | $30
-Dapper Ganger Socks       | $12
-Ray Charles Easy Polish   | $6
-El Patron Hair Pomade     | $4.20
-**TOTAL VALUE**           | $97.20
-*Subscription Cost*       | $25
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>Gentleman's Box Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Salt + Dapper Bowtie </TD>
+      <TD>$45</TD>
+   </TR>
+   <TR>
+      <TD>Crosby & Co. Cuff Links</TD>
+      <TD>$30</TD>
+   </TR>
+  <TR>
+      <TD>Dapper Ganger Socks</TD>
+      <TD>$12</TD>
+   </TR>
+   <TR>
+      <TD>Ray Charles Easy Polish</TD>
+      <TD>$6</TD>
+   </TR>
+   <TR>
+      <TD>El Patron Hair Pomade</TD>
+      <TD>$bonus</TD>
+   </TR>
+   <TR>
+      <TD>GQ Magazine</TD>
+      <TD>$6</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$99</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$25</big></i></TD>
+   </TR>
+</TABLE>
