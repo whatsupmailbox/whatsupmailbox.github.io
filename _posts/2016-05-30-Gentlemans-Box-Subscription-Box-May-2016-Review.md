@@ -158,12 +158,14 @@ This is a non-toxic premium shoe polish that protects your leather shoes from ou
 
 ![El Patron Hair Pomade](http://whatsupmailbox.com/images/GentlemansBoxMay2016ElPatronHairPomade2.jpg)
 
-**El Patron Hair Pomade**, Deluxe Sample Size
+**El Patron Hair Pomade**, Deluxe Sample Size, *Value $4.20*
 
-This hair pomade is xxx
+This hair pomade has maximum hold with high shine, great for thick and unruly hair. Its "water-based formula rinses clean and offers ultimate control." It's also great to add texture to your hair as well as a strong styling hold. Plus this size is perfect for traveling.
+
+<br>
 
 
-<i class="icon-exclamation-sign"></i>**My Thoughts:** Another great dapper curation from Gentleman's Box! Every item compliments each other and looks fashionably modern and chic. I can't wait for my husband to wear all the items just like they suggested in their info booklet. With a total value of $92, this is definitely one box a gentleman should have to join the dapper club!
+<i class="icon-exclamation-sign"></i>**My Thoughts:** I'm always pleased with the curation of Gentleman's Box, they continuously introduce cool brands and items that would keep any gentleman up to date in style. This month's theme and style is perfect for summer, and those cufflinks are super cool. With a total value of $97.20, that's almost quadruple the box cost! This is definitely a box to try out for all you dapper or soon to be dapper gentleman out there =)
 
 Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!
 
@@ -171,10 +173,10 @@ Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</bi
 
 Gentleman's Box Items     | Value
 ------------------------- | -------------
-Salt + Dapper Bowtie      | $25
-Crosby & Co. Cuff Links   | $45
-Dapper Ganger Socks       | $20
+Salt + Dapper Bowtie      | $45
+Crosby & Co. Cuff Links   | $30
+Dapper Ganger Socks       | $12
 Ray Charles Easy Polish   | $6
-El Patron Hair Pomade     | $3?
-**TOTAL VALUE**           | $100
+El Patron Hair Pomade     | $4.20
+**TOTAL VALUE**           | $97.20
 *Subscription Cost*       | $25
