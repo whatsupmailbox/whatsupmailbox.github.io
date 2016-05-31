@@ -98,7 +98,7 @@ How awesome are these! Love the red and blue color theme, great for Memorial Day
 
 <br>
 
-This bowties has a 2.5" width and is made of silk. Such luxury and the pattern is perfect for summer events. Plus I think bowties are so fun, I try to get my husband to wear these type of ties more often so getting this will surely be a good reason to now!
+This bowties has a 2.5" width and is made of 100% cotton. It feels quality and the pattern is perfect for summer events. Plus I think bowties are so fun, I try to get my husband to wear these type of ties more often so getting this will surely be a good reason to now!
 
 <br>
 
