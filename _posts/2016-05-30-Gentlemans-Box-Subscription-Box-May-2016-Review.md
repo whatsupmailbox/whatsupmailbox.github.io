@@ -84,7 +84,7 @@ They also include a page on how to wear all the items together for a super dappe
 
 <br>
 
-<H4>And here are all the items:</H4
+<H4>And here are all the items:</H4>
 ![Gentleman's Box May 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxMay2016Items.jpg)
 
 How awesome are these! Love the red and blue color theme, great for Memorial Day weekend and for 4th of July as well!
