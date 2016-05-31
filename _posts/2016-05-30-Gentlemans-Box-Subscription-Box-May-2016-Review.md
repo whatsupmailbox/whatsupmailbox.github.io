@@ -105,7 +105,7 @@ This bowties has a 2.5" width and is made of silk. Such luxury and the pattern i
 
 ![Crosby & Co. Cufflinks](http://whatsupmailbox.com/images/GentlemansBoxMay2016CrosbyCoCuffLinks.jpg)
 
-**Crosby & Co. Cuff Links**, *Value $40*
+**Crosby & Co. Cuff Links**, *Value $30*
 
 <br>
 
@@ -169,7 +169,7 @@ Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</bi
 
 <br>
 
-Gentleman's Box Items                     | Value
+Gentleman's Box Items     | Value
 ------------------------- | -------------
 Salt + Dapper Bowtie      | $25
 Crosby & Co. Cuff Links   | $45
