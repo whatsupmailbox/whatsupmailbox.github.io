@@ -26,6 +26,8 @@ date: 2016-05-30 15:31:39 -08:00
 
 **What's in the box:** Four to six hand-selected products for men, accompanied by the latest issue of GQ Magazine (U.S. and Canada only).
 
+**Coupon:** Use coupon code MEMORIAL to get 30% off your first box!
+
 *Note: The GQ magazine that's included with the subscription used to be shipped together in the box, but now it comes separately in the mail.*
 
 <br>
@@ -34,7 +36,7 @@ Men's subscription boxes are quite few to find so I love it when I get the oppor
 
 <br>
 
-<H4>This month's box is The “Favorite Soul King” Box</H4>
+<H4>This month's box title is “Our Favorite Soul King” Box</H4>
 
 <br>
 
