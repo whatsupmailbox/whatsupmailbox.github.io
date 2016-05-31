@@ -47,7 +47,7 @@ I love these tips that they put in the box!
 
 ![Open Box](http://whatsupmailbox.com/images/GentlemansBoxMay2016OpenBox.jpg)
 
-<center>*First look at unboxing*</center>
+<figcaption>First look at unboxing*</figcaption>
 
 <br>
 
@@ -57,7 +57,7 @@ You immediately see the info magazine that they include with every box on the to
 
 ![Open Box](http://whatsupmailbox.com/images/GentlemansBoxMay2016OpenBox3.jpg)
 
-<center>*Second look at unboxing*</center>
+<figcaption>Second look at unboxing</figcaption>
 
 <br>
 
@@ -65,7 +65,7 @@ All the items packaged inside the box. Can't wait to see them all in detail!
 
 <br>
 
-######Info Magazine:
+<p><b>Info Magazine:</b></p>
 
 ![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxMay2016Info.jpg)
 <center>*Table of Contents*</center>
@@ -84,14 +84,14 @@ They also include a page on how to wear all the items together for a super dappe
 
 <br>
 
-##And here are all the items:
+<H4>And here are all the items:</H4
 ![Gentleman's Box May 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxMay2016Items.jpg)
 
 How awesome are these! Love the red and blue color theme, great for Memorial Day weekend and for 4th of July as well!
 
 <br>
 
-##Items in detail:
+<H4>Items in detail:</H4>
 ![Salt + Dapper Bowtie](http://whatsupmailbox.com/images/GentlemansBoxMay2016SaltDapperBowTie.jpg)
 
 **Salt + Dapper Bowtie**, *Value $45*
@@ -110,6 +110,8 @@ This bowties has a 2.5" width and is made of 100% cotton. It feels quality and t
 <br>
 
 Cuff links are an understated accessory. I think it adds an extra touch of class to your whole outfit, something that says you're of a certain class.
+
+<br>
 
 Here's a closer look at the cuff links:
 
@@ -133,6 +135,8 @@ These are so gorgeous! The square design and the checkered pattern will surely g
 Yay for cool and fun socks! Great colors and the material is nice, thick and cushiony. It will surely last a long time!
 
 The packaging of the socks were quite cool as well, a silver ziplock type of bag that's transparent in the back for you to see the fun and bright patterns it contains inside.
+
+<br>
 
 Here's a look at the packaging:
 
@@ -165,7 +169,7 @@ This hair pomade has maximum hold with high shine, great for thick and unruly ha
 <br>
 
 
-<i class="icon-exclamation-sign"></i>**My Thoughts:** I'm always pleased with the curation of Gentleman's Box, they continuously introduce cool brands and items that would keep any gentleman up to date in style. This month's theme and style is perfect for summer, and those cufflinks are super cool. With a total value of $97.20, that's almost quadruple the box cost! This is definitely a box to try out for all you dapper or soon to be dapper gentleman out there =)
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I'm always pleased with the curation of Gentleman's Box, they continuously introduce cool brands and items that would keep any gentleman up to date in style. This month's theme and style is perfect for summer, and those cufflinks are super cool. With a total value of $97.20, that's almost quadruple the box cost! This is definitely a box to try out for all you dapper or soon to be dapper gentleman out there =)
 
 Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!
 
