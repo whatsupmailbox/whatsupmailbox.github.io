@@ -15,7 +15,7 @@ imagefeature: "IpsyJune2016ItemsReveal.jpg"
 date: 2016-06-06 11:11:39 -08:00
 ---
 
-[Ipsy](https://www.ipsy.com/new?refer=uns8d target="_blank") reveals for June Glam Bags are up!
+[Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} reveals for June Glam Bags are up!
 
 Here's what I'll be getting this month:
 
