@@ -19,7 +19,7 @@ date: 2016-06-06 11:11:39 -08:00
 
 Here's what I'll be getting this month:
 
-![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)
+[![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)](https://www.ipsy.com/new?refer=uns8d target="_blank")
 
 I'm quite pleased with my items and can't wait to get them on hand soon!
 
