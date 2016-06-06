@@ -21,6 +21,15 @@ Here's what I'll be getting this month:
 
 [![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)](https://www.ipsy.com/new?refer=uns8d target="_blank")
 
+<ul>
+<li>Ipsy June 2016 Glam Bag</li>
+<li>Elizabeth Mott - Show Me Your Cheeks Blush in Peach Pink</li>
+<li>Royal & Langnickel MODA - Crease/Smudge Brush</li>
+<li>theBalm Cosmetics - Meet Matt(e) Trimony Eyeshadow in Matt Kumar or Matt Moskowitz</li>
+<li>ColourPop Cosmetics - Crème Gel Liner in Get Paid or Swerve</li>
+<li>clariSEA - Deep Pore Detox Activated Charcoal Exfoliating Mask</li>
+</ul>
+
 I'm quite pleased with my items and can't wait to get them on hand soon!
 
 Are you going to peak into your Glam Bag?
