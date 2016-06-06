@@ -30,6 +30,8 @@ Here's what I'll be getting this month:
 <li>clariSEA - Deep Pore Detox Activated Charcoal Exfoliating Mask</li>
 </ul>
 
+<br>
+
 I'm quite pleased with my items and can't wait to get them on hand soon!
 
 Are you going to peak into your [Glam Bag](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}?
