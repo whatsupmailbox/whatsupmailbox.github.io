@@ -12,7 +12,7 @@ published: true
 featured: false
 type: photo
 imagefeature: "IpsyJune2016ItemsReveal.jpg"
-date: 2016-06-06 11:31:39 -08:00
+date: 2016-06-06 11:11:39 -08:00
 ---
 
 [Ipsy](https://www.ipsy.com/new?refer=uns8d target="_blank") reveals for June Glam Bags are up!
