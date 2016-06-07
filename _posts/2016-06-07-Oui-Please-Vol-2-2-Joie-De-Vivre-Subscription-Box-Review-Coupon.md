@@ -175,7 +175,7 @@ Not only do they make amazing products, I love how eco-friendly they are with th
 
 **Les Interchangeables** Fine Rock Bracelet in Blue, *Value $45*
 
-One of my favorite things to receive in my [OuiPlease](https://ouipleasebox.com){:target="_blank"> boxes are their jewelry items. I get to discover new and amazing jewelry brands from France that I would never have known otherwise.
+One of my favorite things to receive in my [OuiPlease](https://ouipleasebox.com){:target="_blank"} boxes are their jewelry items. I get to discover new and amazing jewelry brands from France that I would never have known otherwise.
 
 This bracelet is stretchable as well as adjustable. It also incorporates Swarovski crystals, yay, more dazzle!
 
@@ -217,8 +217,88 @@ I received their body lotion in my [Vol. 1.6 box](http://whatsupmailbox.com/subs
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonBoissierChocolatePetals.jpg)
 
-**Maison Boissier** Chocolate Petals, *Value $20*
+**Maison Boissier** Fruit Chocolate Petals, *Value $20*
 
+On their website, these chocolates actually go for €34, so they actually cost more than what [OuiPlease](https://ouipleasebox.com){:target="_blank"} states!
 
+Chocolates, yum! And such pretty ones too! Leave it to the French to make their epicures look equally gorgeous as they are delicious.
+
+<br>
+
+Here's a closer look at the chocolates:
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonBoissierChocolatePetals2.jpg)
+
+Aren't they pretty?! The white chocolate petals are flavored with Strawberry, Mandarin, Lemon and Green tea. Then there's also dark chocolate and milk chocolate petals.
+
+This will look great displayed for an afternoon tea party with my gals. Oooh, can't wait!
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016CousuDeFilBlancSoapBar.jpg)
+
+**Cousu de Fil Blanc** Mountain Milk Soap Bar, *Value $10*
+
+"Cousu de Fil Blanc soaps are handmade in France by a master soapmaker using traditional techniques. Soaps are made with high quality natural ingredients including vegetable oils, clays, honey, and essential oils."
+
+I received the Mountain Milk soap which has sweet almond oil and mountain honey in its ingredients. They describe the scent to be mountain pastures, and I find it to be a very earthy and fresh.
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I am consistently impressed with [OuiPlease](https://ouipleasebox.com){:target="_blank"} box after box. Such great curation and amazing items, I am loving every single one of them! I may have a penchant for French and luxurious items, and this subscription certainly delivers that. I'm still in happy mode from receiving a set of lingerie and a personalized silk scarf, so happy! Not only were the items things that I will totally use, but I also discovered new brands that I've fallen in love with and will certainly be buying more of. Ahhh, can't rave enough about this box! Now the waiting begins again for Vol. 2.3 which 
+
+If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.com){:target="_blank"} and use coupon code **OUIWHATSUP** to get 20% off any subscription. That brings the cost down to $120 for one box or $520 for a whole year! That's a très good deal! 
+
+*FYI, Vol. 2.2 box is still available so if you subscribe now, you'll be getting this box. Just remember that variations exist for this subscription so you may not be getting the same items as me, but the personalized scarf will for sure be included.*
+
+<br>
+
+<TABLE  BORDER="5" style="width:50%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>Gentleman's Box Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Maison Lejaby Top</TD>
+      <TD>$85</TD>
+   </TR>
+   <TR>
+      <TD>Maison Lejaby Tanga Panty</TD>
+      <TD>$65</TD>
+   </TR>
+  <TR>
+      <TD>Sencha & Bourbon Silk Beach Cover</TD>
+      <TD>$130</TD>
+   </TR>
+   <TR>
+      <TD>Les Interchangeables Fine Rock Bracelet</TD>
+      <TD>$45</TD>
+   </TR>
+   <TR>
+      <TD>David Jourquin Fragrance</TD>
+      <TD>$30</TD>
+   </TR>
+   <TR>
+      <TD>Harem Des Sens Luscious Shower Cream</TD>
+      <TD>$25</TD>
+   </TR>
+   <TR>
+      <TD>Maison Boissier Fruit Chocolate Petals</TD>
+      <TD>$20</TD>
+   </TR>
+   <TR>
+      <TD>Cousu de Fil Blanc Mountain Milk Soap Bar</TD>
+      <TD>$10</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$410</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$150</big></i></TD>
+   </TR>
+</TABLE>
