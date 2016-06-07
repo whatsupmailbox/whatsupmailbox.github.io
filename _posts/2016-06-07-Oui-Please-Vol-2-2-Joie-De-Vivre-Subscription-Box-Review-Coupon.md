@@ -52,6 +52,8 @@ Et voila, the infamous OuiPlease box! I love love love these boxes, they're so s
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016OpenBox.jpg)
 
+What better way to open my [OuiPlease](https://ouipleasebox.com){:target="_blank"} box than with my Eiffel Tower gold scissors ;)
+
 First look at unboxing you see a big cardstock sign with a French statement. This month is the classic yet very much used "Bonjour" phrase, which means Good Morning or Hello. They send one with every box and I collect them all to frame. It's a simple yet chic way to decorate any wall.
 
 <br>
