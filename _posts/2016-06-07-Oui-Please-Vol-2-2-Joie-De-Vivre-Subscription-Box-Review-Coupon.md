@@ -199,7 +199,7 @@ I love how I can wear this bracelet either casually during the day, or pair this
 
 **David Jourquin** Fragrance in Cuir Mandarine and Cuir Solaire, *Value $30 ($15/each)*
 
-Subscribers who receives these will get 2 fragrances in either Cuir Solaire, Cuir Mandarine, Cuir Tabac, Cuir Caraibes, Cuir de R'Eve, or Cuir Altesse.
+Subscribers who receive these will get 2 fragrances in either Cuir Solaire, Cuir Mandarine, Cuir Tabac, Cuir Caraibes, Cuir de R'Eve, or Cuir Altesse.
 
 Such cute packaging! These drawstring bags are made of leather like material. Definitely reusable and I love the bright colors too. Inside are the sample spray vials in 5ml sizes each.
 
