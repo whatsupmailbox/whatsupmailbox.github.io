@@ -217,6 +217,8 @@ I received their body lotion in my [Vol. 1.6 box](http://whatsupmailbox.com/subs
 
 "Almond and argan powder exfoliant gently polishes your skin, leaving you silky smooth and wrapped up in a warm, amber scent."
 
+Can't wait to try this in the shower tonight!
+
 <br>
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonBoissierChocolatePetals.jpg)
@@ -245,7 +247,7 @@ This will look great displayed for an afternoon tea party with my gals. Oooh, ca
 
 "Cousu de Fil Blanc soaps are handmade in France by a master soapmaker using traditional techniques. Soaps are made with high quality natural ingredients including vegetable oils, clays, honey, and essential oils."
 
-I received the Mountain Milk soap which has sweet almond oil and mountain honey in its ingredients. They describe the scent to be mountain pastures, and I find it to be a very earthy and fresh.
+I received the Mountain Milk soap which has sweet almond oil and mountain honey in its ingredients. They describe the scent to be mountain pastures, and I find it to be a very earthy and fresh scent.
 
 <br>
 
