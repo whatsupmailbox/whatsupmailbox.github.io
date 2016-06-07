@@ -32,7 +32,7 @@ My day instantly becomes amazing when I see this box on my doorstep. It's such a
 
 <br>
 
-##Oui Please VOL. 2.2: Joie de Vivre
+<H2>Oui Please VOL. 2.2: Joie de Vivre</H2>
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Package.jpg)
 
@@ -79,7 +79,7 @@ Here's a look inside the booklet:
 
 <br>
 
-#And here are the items in my box:
+<H4>And here are the items in my box:</H4>
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Items.jpg)
 
@@ -87,7 +87,7 @@ OMG, everything looks so gorgeous! I am absolutely in LOVE and ecstatic about ev
 
 <br>
 
-#Items in detail:
+<H4>Items in detail:</H4>
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonLejabyCrystalCollectionLingerie.jpg)
 
