@@ -262,7 +262,7 @@ If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.co
 <TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>Gentleman's Box Items</center></H3>
+         <H3><BR><center>My OuiPlease Vol. 2.2 Box Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
