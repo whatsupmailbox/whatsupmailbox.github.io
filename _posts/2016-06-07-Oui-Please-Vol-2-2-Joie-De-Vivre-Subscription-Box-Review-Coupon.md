@@ -93,9 +93,11 @@ OMG, everything looks so gorgeous! I am absolutely in LOVE and ecstatic about ev
 
 **Maison Lejaby** Top, *Value $85*
 
-When I saw that I got a lingerie in my box, I was literally jumping up and down in pure bliss. This is amazing and such quality too. It's so soft thanks to the Lycra material and it bedazzled ever so softly with blue swarovski crystals.
+When I saw that I got a lingerie in my box, I was literally jumping up and down in pure bliss. This is amazing and such quality too. It's so soft thanks to the Lycra material and it's also bedazzled ever so softly with blue swarovski crystals.
 
 <br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonLejabyCrystalCollectionLingerieTop4.jpg)
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonLejabyCrystalCollectionLingerieTop2.jpg)
 
@@ -113,7 +115,7 @@ The branding is located on the upper left side, where your left arm would rest.
 
 **Maison Lejaby** Tanga Panty, *Value $65*
 
-I love laces, something about them just makes you feel and look sexy. Needless to say, I am beyond happy to receive this matching lingerie panty. I tried both the top and bottom right away, and boy will my husband get a surprise tonight =P
+Oh la la, this panty is just gorge! I love laces, something about them just makes you feel and look sexy. Needless to say, I am beyond happy to receive this matching lingerie panty. I tried both the top and bottom right away, and boy will my husband get a surprise tonight =P
 
 This matching bottom is made of the same Lycra material in a bikini panty style. It's also bedazzled with blue swarovski crystals just like the matching top, but for the panty, the crystals are located on the sides.
 
@@ -125,8 +127,57 @@ Here's a look from the backside:
 
 The lace is actually on the backside of this panty and it will surely make your bottom look extra sexy ;)
 
-And on top of that, it also has the blue swarovski crystals!
+And on top of that, it also has the blue swarovski crystals! Aaaaahhhh, I'm so so happy I got this!
 
 <br>
+
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole.jpg)
+
+**Sencha & Bourbon** Beach Cover Stole with your personal initials, *Value $130*
+
+
+[OuiPlease](https://ouipleasebox.com){:target="_blank"> revealed this item last month that every subscriber will be receiving this item in their box. What a great item to include AND it's also personalized with your own initials! How amazing is that!
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole2.jpg)
+
+The colors are so pretty and it's totally my style, so glad I got this. Plus it's super soft and feels uber luxurious. 
+
+You can wear this as a scarf, a beach cover up or a glamorous stole for the chilly evenings. Made from silk and personalized with your initials, this has got to be one of the most unique items I've ever received in a subscription box. Bravo [OuiPlease](https://ouipleasebox.com){:target="_blank">!
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole3.jpg)
+
+The brand tag is also really unique, so unique that I just had to feature it in my review.
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole4.jpg)
+
+First off, the background story of this brand as well as the materials used is explained.
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole5.jpg)
+
+Then in the middle section, it explains how the tags are made of seed paper so instead of throwing it away as you would normally with other tags, you can plant it instead. How cool is that!
+
+Not only do they make amazing products, I love how eco-friendly they are with their packaging as well. Love it!
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue.jpg)
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue2.jpg)
+
+**Les Interchangeables** Fine Rock Bracelet in Blue, *Value $45*
+
+One of my favorite things to receive in my [OuiPlease](https://ouipleasebox.com){:target="_blank"> boxes are their jewelry items. I get to discover new and amazing jewelry brands from France that I would never have known otherwise.
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue3.jpg)
+
 
 
