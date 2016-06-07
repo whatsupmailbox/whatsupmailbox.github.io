@@ -46,7 +46,7 @@ When you open the package, you see the actual box inside and it's safely covered
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Box.jpg)
 
-Et voila, the infamous OuiPlease box! I love love love these boxes, they're so strong and sturdy, I use them as keepsake boxes for tons of stuff! From jewelry, to beauty products and so much more. Best actual box out there amongst all the other subscription boxes!
+Et voila, the infamous OuiPlease box! I love love love these boxes, they're so strong and sturdy, I use them as keepsake boxes for tons of stuff! From jewelry, to beauty products and so much more. Best reusable box out there amongst all the other subscription boxes!
 
 <br>
 
