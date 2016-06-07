@@ -9,10 +9,10 @@ categories:
 tags: [Oui Please, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "OuiPlease22June2016Items.jpg"
+imagefeature: "OuiPleaseVol22June2016Items.jpg"
 date: 2016-06-07 09:31:39 -08:00
 ---
 
@@ -259,7 +259,7 @@ If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.co
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>Gentleman's Box Items</center></H3>
