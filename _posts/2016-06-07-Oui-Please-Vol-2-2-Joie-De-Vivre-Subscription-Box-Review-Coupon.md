@@ -18,7 +18,7 @@ date: 2016-06-07 09:31:39 -08:00
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseLogo.jpg)
 
-**Subscription:** [OuiPlease](https://ouipleasebox.com){:target="_blank">
+**Subscription:** [OuiPlease](https://ouipleasebox.com){:target="_blank"}
 
 **Cost:** $150/bimonthly or $650/annually + Free Shipping.
 
@@ -36,7 +36,7 @@ My day instantly becomes amazing when I see this box on my doorstep. It's such a
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Package.jpg)
 
-[OuiPlease](https://ouipleasebox.com){:target="_blank"> safely packs their precious boxes inside a bigger black packaging box. They are also shipped through UPS Ground so if you're registered with My UPS, you'll get notification as soon as it's shipped and tracking details too.
+[OuiPlease](https://ouipleasebox.com){:target="_blank"} safely packs their precious boxes inside a bigger black packaging box. They are also shipped through UPS Ground so if you're registered with My UPS, you'll get notification as soon as it's shipped and tracking details too.
 
 <br>
 
