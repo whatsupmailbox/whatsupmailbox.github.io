@@ -139,7 +139,7 @@ And on top of that, it also has the blue Swarovski crystals! Aaaaahhhh, I'm so s
 **Sencha & Bourbon** Beach Cover Stole with your personal initials, *Value $130*
 
 
-[OuiPlease](https://ouipleasebox.com){:target="_blank"> revealed this item last month that every subscriber will be receiving this item in their box. What a great item to include AND it's also personalized with your own initials! How amazing is that!
+[OuiPlease](https://ouipleasebox.com){:target="_blank"} revealed this item last month that every subscriber will be receiving this item in their box. What a great item to include AND it's also personalized with your own initials! How amazing is that!
 
 <br>
 
@@ -147,7 +147,7 @@ And on top of that, it also has the blue Swarovski crystals! Aaaaahhhh, I'm so s
 
 The colors are so pretty and it's totally my style, so glad I got this. Plus it's super soft and feels uber luxurious. 
 
-You can wear this as a scarf, a beach cover up or a glamorous stole for the chilly evenings. Made from silk and personalized with your initials, this has got to be one of the most unique items I've ever received in a subscription box. Bravo [OuiPlease](https://ouipleasebox.com){:target="_blank">!
+You can wear this as a scarf, a beach cover up or a glamorous stole for the chilly evenings. Made from silk and personalized with your initials, this has got to be one of the most unique items I've ever received in a subscription box. Bravo [OuiPlease](https://ouipleasebox.com){:target="_blank"}!
 
 <br>
 
