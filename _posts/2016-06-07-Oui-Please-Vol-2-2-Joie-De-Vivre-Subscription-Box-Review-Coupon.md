@@ -181,7 +181,7 @@ Not only do they make amazing products, I love how eco-friendly they are with th
 
 One of my favorite things to receive in my [OuiPlease](https://ouipleasebox.com){:target="_blank"} boxes are their jewelry items. I get to discover new and amazing jewelry brands from France that I would never have known otherwise.
 
-This bracelet is stretchable as well as adjustable. It also incorporates Swarovski crystals, yay, more dazzle!
+This bracelet is stretchable as well as adjustable. It also incorporates Swarovski crystals. Yay, more dazzle!
 
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue4.jpg)
 
