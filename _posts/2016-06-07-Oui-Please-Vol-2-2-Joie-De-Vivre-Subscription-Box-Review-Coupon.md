@@ -177,7 +177,48 @@ Not only do they make amazing products, I love how eco-friendly they are with th
 
 One of my favorite things to receive in my [OuiPlease](https://ouipleasebox.com){:target="_blank"> boxes are their jewelry items. I get to discover new and amazing jewelry brands from France that I would never have known otherwise.
 
+This bracelet is stretchable as well as adjustable. It also incorporates Swarovski crystals, yay, more dazzle!
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue4.jpg)
+
+<br>
+
+Here's a look at the bracelet on me:
+
 ![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016LesInterchangeablesFineRockBraceletBlue3.jpg)
 
+I love how I can wear this bracelet either casually during the day, or pair this to add some sparkle to my evening attire. Plus did I mention it's adjustable? Music to my small petite wrists!
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016DavidJourquinFragranceCuirMandarineCuirSolaire.jpg)
+
+**David Jourquin** Fragrance in Cuir Mandarine and Cuir Solaire, *Value $30 ($15/each)*
+
+Subscribers who receives these will get 2 fragrances in either Cuir Solaire, Cuir Mandarine, Cuir Tabac, Cuir Caraibes, Cuir de R'Eve, or Cuir Altesse.
+
+Such cute packaging! These drawstring bags are made of leather like material. Definitely reusable and I love the bright colors too. Inside are the sample spray vials in 5ml sizes each.
+
+Cuir Mandarine has top notes of blended Lavender, middle notes of Leather, Mandarin, Black Pepper, and Light Tobacco Leaf, and base notes of Patchouli.
+
+Cuir Solaire has top notes of Orange and Bergamot, middle notes of Jasmine, Clove and Sea Notes, and base notes of Labdanum, Amber, Patchouli, Leather and Vanilla.
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016HaremDesSensLusciousShowerCream.jpg)
+
+**Harem Des Sens** Luscious Shower Cream, *Value $25*
+
+I received their body lotion in my [Vol. 1.6 box](http://whatsupmailbox.com/subscriptions/reviews/coupons/Oui-Please-Volume-1-6-Subscription-Box-Review-Coupon/){:target="_blank"} last February and loved it. So I'm happy I get to try out their shower gel.
+
+"Almond and argan powder exfoliant gently polishes your skin, leaving you silky smooth and wrapped up in a warm, amber scent."
+
+<br>
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonBoissierChocolatePetals.jpg)
+
+**Maison Boissier** Chocolate Petals, *Value $20*
 
 
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016MaisonBoissierChocolatePetals2.jpg)
