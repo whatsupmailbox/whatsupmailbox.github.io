@@ -149,6 +149,12 @@ And on top of that, it also has the blue Swarovski crystals! Aaaaahhhh, I'm so s
 
 The colors are so pretty and it's totally my style. So glad I got this color combo! Plus it's super soft and feels uber luxurious. 
 
+<br>
+
+Here's another look at the scarf:
+
+![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016SenchaAndBourbonBeachCoverStole6.jpg)
+
 You can wear this as a scarf, a beach cover up or a glamorous stole for the chilly evenings. Made from silk and personalized with your initials, this has got to be one of the most unique items I've ever received in a subscription box. Bravo [OuiPlease](https://ouipleasebox.com){:target="_blank"}!
 
 <br>
