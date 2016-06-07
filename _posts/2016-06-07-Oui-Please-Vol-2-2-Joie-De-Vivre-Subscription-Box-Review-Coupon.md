@@ -251,7 +251,7 @@ I received the Mountain Milk soap which has sweet almond oil and mountain honey 
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I am consistently impressed with [OuiPlease](https://ouipleasebox.com){:target="_blank"} box after box. Such great curation and amazing items, I am loving every single one of them! I may have a penchant for French and luxurious items, and this subscription certainly delivers that. I'm still in happy mode from receiving a set of lingerie and a personalized silk scarf, so happy! Not only were the items things that I will totally use, but I also discovered new brands that I've fallen in love with and will certainly be buying more of. Ahhh, can't rave enough about this box! Now the waiting begins again for Vol. 2.3 which 
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I am consistently impressed with [OuiPlease](https://ouipleasebox.com){:target="_blank"} box after box. Such great curation and amazing items, I am loving every single one of them! I may have a penchant for French and luxurious items, and this subscription certainly delivers that. I'm still in happy mode from receiving a set of lingerie and a personalized silk scarf, so so happy! Not only were the items things that I will totally use, but I also discovered new brands that I've fallen in love with and will certainly be buying more of. Plus with a total value of $410, that's almost triple the cost of the box! Ahhh, can't rave enough about this box!
 
 If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.com){:target="_blank"} and use coupon code **OUIWHATSUP** to get 20% off any subscription. That brings the cost down to $120 for one box or $520 for a whole year! That's a très good deal! 
 
