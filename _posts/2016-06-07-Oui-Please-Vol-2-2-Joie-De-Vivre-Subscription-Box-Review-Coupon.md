@@ -95,7 +95,7 @@ OMG, everything looks so gorgeous! I am absolutely in LOVE and ecstatic about ev
 
 **Maison Lejaby** Top, *Value $85*
 
-When I saw that I got a lingerie in my box, I was literally jumping up and down in pure bliss. This is amazing and such quality too. It's so soft thanks to the Lycra material and it's also bedazzled ever so softly with blue swarovski crystals.
+When I saw that I got a lingerie in my box, I was literally jumping up and down in pure bliss. This is amazing and such quality too. It's so soft thanks to the Lycra material and it's also bedazzled ever so softly with blue Swarovski crystals.
 
 <br>
 
@@ -119,7 +119,7 @@ The branding is located on the upper left side, where your left arm would rest.
 
 Oh la la, this panty is just gorge! I love laces, something about them just makes you feel and look sexy. Needless to say, I am beyond happy to receive this matching lingerie panty. I tried both the top and bottom right away, and boy will my husband get a surprise tonight =P
 
-This matching bottom is made of the same Lycra material in a bikini panty style. It's also bedazzled with blue swarovski crystals just like the matching top, but for the panty, the crystals are located on the sides.
+This matching bottom is made of the same Lycra material in a bikini panty style. It's also bedazzled with blue Swarovski crystals just like the matching top, but for the panty, the crystals are located on the sides.
 
 <br>
 
@@ -129,7 +129,7 @@ Here's a look from the backside:
 
 The lace is actually on the backside of this panty and it will surely make your bottom look extra sexy ;)
 
-And on top of that, it also has the blue swarovski crystals! Aaaaahhhh, I'm so so happy I got this!
+And on top of that, it also has the blue Swarovski crystals! Aaaaahhhh, I'm so so happy I got this!
 
 <br>
 
