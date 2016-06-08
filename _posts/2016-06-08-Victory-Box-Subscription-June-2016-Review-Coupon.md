@@ -71,8 +71,6 @@ What a great tie to receive and very seasonally appropriate!
 
 Pocket Squares used to be something that my husband wouldn't wear in a million years. But after getting introduced to them through subscription boxes, he is now super comfortable in wearing them. In fact, he finds himself grabbing for one to complete his look when he's going to any event, be it casual or formal.
 
-<br>
-
 ![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionPocketSquare2.jpg)
 
 This pocket square is made of 100% cotton. It feels soft and high quality. Plus the checkered pattern is super versatile so you know it can go with just about anything.
