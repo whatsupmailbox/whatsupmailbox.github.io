@@ -9,11 +9,11 @@ categories:
 tags: [Victory Box, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "VictoryBoxJune2016Items.jpg"
-date: 2016-06-08 09:31:39 -08:00
+date: 2016-06-08 09:21:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
