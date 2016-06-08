@@ -35,7 +35,7 @@ Victory Box is a new men's accessories subscription box from the brand [Winners 
 <br>
 
 [![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016OpenBox.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
-<center>*First look at unboxing*</center>
+<figcaption>First look at unboxing</figcaption>
 
 <br>
 
