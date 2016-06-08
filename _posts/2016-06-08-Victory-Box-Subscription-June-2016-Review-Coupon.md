@@ -39,12 +39,12 @@ Victory Box is a new men's accessories subscription box from the brand [Winners 
 
 <br>
 
-##And here are this month's items:
+<H4>And here are this month's items:</H4>
 [![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016Items.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
 
 <br>
 
-##Items in detail:
+<H4>Items in detail:</H4>
 ![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie.jpg)
 
 **Winners Circle Fashion Co.** Neck Tie, *Value $24*
