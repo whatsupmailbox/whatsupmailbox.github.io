@@ -30,7 +30,7 @@ date: 2016-06-08 09:21:39 -08:00
 
 <br>
 
-Victory Box is a new men's accessories subscription box from the brand [Winners Circle Fashion Co.](http://www.winnerscirclefashion.com){:target="_blank"}</a> and this is their second box since they launched last month. It ships around the 10th of every month, and you'll need to subscribe before the 1st of the month to receive the upcoming month's box.  
+Victory Box is a new men's accessories subscription box from the brand [Winners Circle Fashion Co.](http://www.winnerscirclefashion.com){:target="_blank"} and this is their second box since they launched last month. It ships around the 10th of every month, and you'll need to subscribe before the 1st of the month to receive the upcoming month's box.  
 
 <br>
 
