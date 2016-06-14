@@ -16,7 +16,9 @@ imagefeature: "FiveFourClubJune2016Items.jpg"
 date: 2016-06-14 09:21:39 -08:00
 ---
 
-<center>[![Five Four Club](http://whatsupmailbox.com/images/FiveFourClubLogo.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}</center>
+<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<img src="/images/FiveFourClubLogo.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club" />
+</a></center>
 
 **Subscription:** [Five Four Club](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
 
