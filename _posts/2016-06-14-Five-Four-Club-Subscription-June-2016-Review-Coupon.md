@@ -49,22 +49,6 @@ When you subscribe to [Five Four Club](https://www.fivefourclub.com/getstarted?r
 
 <H4>Items in detail:</H4>
 
-[![Five Four Club Boat Tire Tee Shirt](http://whatsupmailbox.com/images/FiveFourClubJune2016BoatTireHeatherGrayTeeShirt.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
-
-**Boat Tire Tee Shirt** in Heather Gray
-
-The design is perfect for those pool days or beach days. The color is also light as well as the fabric which is appropriate for the hot summer weather of California.
-
-<br>
-
-[![Five Four Club Axle Tee Shirt](http://whatsupmailbox.com/images/FiveFourClubJune2016AxleWhiteTeeShirt.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
-
-**Axle Tee Shirt** in White
-
-Another cool and light shirt that's great for summer! It's kind of hard to see, but there's actually a band in the middle section of this shirt that gives a different dimension and adds a bit of style to this classic white shirt.
-
-<br>
-
 [![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016PikesNavyWhiteModernSwimTrunks.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
 
 **Pikes Swim Trunks** in Navy White Stripes
@@ -91,7 +75,39 @@ The inside is lined which is just how my husband likes his trunks to be. My husb
 
 <br>
 
-[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
+[![Five Four Club Boat Tire Tee Shirt](http://whatsupmailbox.com/images/FiveFourClubJune2016BoatTireHeatherGrayTeeShirt.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
+
+**Boat Tire Tee Shirt** in Heather Gray
+
+The design is perfect for those pool days or beach days. The color is also light as well as the fabric which is appropriate for the hot summer weather of California.
+
+<br>
+
+And here's a picture of this shirt paired with the swim trunks:
+
+<br>
+
+[![Five Four Club June 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJune2016Items2.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
+
+Great combo and it will surely be his next outfit for when we head out to the beach next weekend!
+
+<br>
+
+[![Five Four Club Axle Tee Shirt](http://whatsupmailbox.com/images/FiveFourClubJune2016AxleWhiteTeeShirt.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
+
+**Axle Tee Shirt** in White
+
+Another cool and light shirt that's great for summer! It's kind of hard to see, but there's actually a band in the middle section of this shirt that gives a different dimension and adds a bit of style to this classic white shirt.
+
+<br>
+
+[![Five Four Club June 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJune2016Items3.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
+
+I like this combination too, perhaps even more than the other one. My husband said that it feels lightweight, breathable and comfortable too. A definite win!
+
+<br>
+
+[![Five Four Club Coney Navy Socks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
 
 **Coney Socks**
 
@@ -113,7 +129,7 @@ So I actually re-subscribed after being on hiatus for sometime, especially since
 
 **Sonora Tortoise Sunglasses**
 
-These sunglasses are valued at $75! My husband doesn't have this style of sunglasses yet so they're certainly a great addition! Plus I love the fact that they included a case for them as well as the cleaning cloth too!
+These sunglasses are valued at $75! My husband doesn't have these style of sunglasses yet so they're certainly a great addition! Plus I love the fact that they included a case for them as well as the cleaning cloth too!
 
 <br>
 
