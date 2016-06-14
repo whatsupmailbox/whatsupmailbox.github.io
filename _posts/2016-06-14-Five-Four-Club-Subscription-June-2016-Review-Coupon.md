@@ -41,7 +41,7 @@ When you subscribe to [Five Four Club](https://www.fivefourclub.com/getstarted?r
 
 <br>
 
-<H4>Based on my husband's "Fashion Forward" profile, here is what they sent:</H4>
+<H4>Based on my husband's "Casual" profile, here is what they sent:</H4>
 
 [![Five Four Club June 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJune2016Items.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
 
