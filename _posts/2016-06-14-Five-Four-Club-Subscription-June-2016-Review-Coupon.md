@@ -37,7 +37,7 @@ date: 2016-06-14 09:21:39 -08:00
 
 <br>
 
-When you subscribe to [Five Four Club](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}, you take a profile survey to input your size and style preferences. My husband selected "Casual" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.</p>
+When you subscribe to [Five Four Club](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}, you take a profile survey to input your size and style preferences. My husband selected "Casual" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.
 
 <br>
 
