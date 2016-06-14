@@ -33,7 +33,7 @@ date: 2016-06-14 09:21:39 -08:00
 <br>
 
 [![First look at unpacking](http://whatsupmailbox.com/images/FiveFourClubJune2016OpenPackage.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
-<center>*First look at unpacking*</center>
+<figcaption>First look at unpacking*</figcaption>
 
 <br>
 
