@@ -123,7 +123,7 @@ How cool are these! Totally love the fun "left" and "right" labels as well as th
 
 <br>
 
-<i class="icon-gift"></i><H6>FREE GWP</H6>
+<p><H6>FREE GWP</H6></p>
 
 So I actually re-subscribed after being on hiatus for sometime, especially since they sent me an email about getting a free pair of sunglasses if I come back, so that totally made my decision to resubscribe easier plus it became a sweeter deal.
 
