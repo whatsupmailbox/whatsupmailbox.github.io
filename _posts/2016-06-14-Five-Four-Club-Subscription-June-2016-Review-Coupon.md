@@ -24,7 +24,7 @@ date: 2016-06-14 09:31:39 -08:00
 
 **What you'll get:** Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.
 
-**Coupon:** [Get $25 off your first package through this link](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}. That brings the cost down to $35 for 2-3 fashion items!
+**Coupon:** [Get $15 off your first package through this link](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}, OR use coupon code **CLUBMASTERS** get a pair of limited Five Four Clubmaster sunglasses, cleaning cloth, and hard case ($75 value) FREE in your first package!
 
 <br>
 
@@ -97,7 +97,7 @@ Great combo and it will surely be his next outfit for when we head out to the be
 
 **Axle Tee Shirt** in White
 
-Another cool and light shirt that's great for summer! It's kind of hard to see, but there's actually a band in the middle section of this shirt that gives a different dimension and adds a bit of style to this classic white shirt.
+Another cool and light shirt that's great for summer! It's kind of hard to see from the pic above (you can see better in the picture below), but there's actually a band in the middle section of this shirt that gives a different dimension and adds a bit of style to this classic white shirt.
 
 <br>
 
@@ -139,7 +139,7 @@ The inside has the Five Four branding. It's designed in LA but made in China.
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club totally nailed the style for my husband this month! All the items were both weather appropriate as well as seasonally in style.
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club totally nailed the style for my husband this month! All the items were both weather appropriate as well as seasonally in style. I also like the fact that they have swimming trunks for the summer, and that I actually received one. With all the items I received this month, it was totally worth the cost if not more. So happy I resubscribed and can't wait to see what they'll send next month!
 
-If you haven't subscribed yet, you can [get $25 off your first package through this link](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}. That brings the cost down to $35 for 2-3 clothing items!
+If you haven't subscribed yet, you can [get $15 off your first package through this link](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}, OR use coupon code **CLUBMASTERS** get a pair of limited Five Four Clubmaster sunglasses, cleaning cloth, and hard case ($75 value) FREE in your first package!
 
