@@ -64,7 +64,7 @@ The supplement guide lists what vitamins are included in your pack (the Essentia
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
-Not only does it lists the type of vitamins that is included, but it also lists the amount of each of them as well.
+Not only does it lists the type of vitamins that are included, but it also lists the amount for each of them as well.
 
 <br>
 
