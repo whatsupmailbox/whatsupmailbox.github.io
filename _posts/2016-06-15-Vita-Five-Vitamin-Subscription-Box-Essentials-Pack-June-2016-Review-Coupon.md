@@ -54,6 +54,8 @@ Once you unbox the outer packaging, you see a welcome message and the actual box
 
 The box has an info guide attached to it.
 
+<br>
+
 Here's a closer look at the guide:
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
