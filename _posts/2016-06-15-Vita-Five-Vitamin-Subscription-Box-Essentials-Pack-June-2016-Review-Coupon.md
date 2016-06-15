@@ -60,7 +60,7 @@ Here's a closer look at the guide:
 
 <br>
 
-The supplement guide lists what vitamins are included in the Essentials Pack as shown below:
+The supplement guide lists what vitamins are included in your pack (the Essentials Pack in this case) as shown below:
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
