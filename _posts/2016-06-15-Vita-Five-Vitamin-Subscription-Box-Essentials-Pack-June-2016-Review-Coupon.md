@@ -26,7 +26,7 @@ date: 2016-06-15 09:21:39 -08:00
 
 **What's in the box:** You'll receive personalized gummy vitamin packs that are prepackaged into one convenient pack for each day of the week! So convenient that you can take these packs with you anywhere. No more going to the store to sift through the bottles of vitamins, no more organizing your vitamins into your pill organizer, and no more cluttered vitamin jars filling up your kitchen counters.
 
-**Coupon:** Use coupon code **wum30** to get 30% off your first pack!
+**Coupon:** Use coupon code [wum30](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"} to get 30% off your first pack!
 
 <br>
 
@@ -46,7 +46,7 @@ Once you unbox the outer packaging, you see a welcome message and the actual box
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
-VitaFive has so many health pack options for you to try. Vitamin packs that are focused on improving your brain, heart, sleep, beauty, immune system and more. Or you can even customize your own pack to target your own specific needs. Plus, kids packs are available too so everyone in your house is taken care of!
+[VitaFive](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"} has so many health pack options for you to try. Vitamin packs that are focused on improving your brain, heart, sleep, beauty, immune system and more. Or you can even customize your own pack to target your own specific needs. Plus, kids packs are available too so everyone in your house are taken care of!
 
 <br>
 
@@ -54,7 +54,7 @@ VitaFive has so many health pack options for you to try. Vitamin packs that are 
 
 The box has an info guide attached to it.
 
-Here's a closer look at it:
+Here's a closer look at the guide:
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
