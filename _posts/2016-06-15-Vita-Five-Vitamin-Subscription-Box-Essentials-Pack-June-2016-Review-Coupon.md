@@ -30,7 +30,7 @@ date: 2016-06-15 09:21:39 -08:00
 
 <br>
 
-I personally love taking my vitamins in gummy form. It makes it fun to eat and I find that I end up remembering taking my daily vitamins everyday more because I look forward to it!
+I personally love taking my vitamins in gummy form. It makes it fun to eat (not to mention yummy too) and I find that I end up remembering taking my daily vitamins everyday more because I look forward to it!
 
 So when I was given the opportunity to review this subscription, I was excited and totally on board! So here it goes.
 
