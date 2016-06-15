@@ -44,17 +44,17 @@ Once you unbox the outer packaging, you see a welcome message and the actual box
 
 <br>
 
-[![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
-
-The box has an info guide attached to it.
-
-Here's a closer look at it:
-
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
 VitaFive has so many health pack options for you to try. Vitamin packs that are focused on improving your brain, heart, sleep, beauty, immune system and more. Or you can even customize your own pack to target your own specific needs. Plus, kids packs are available too so everyone in your house is taken care of!
 
 <br>
+
+[![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
+
+The box has an info guide attached to it.
+
+Here's a closer look at it:
 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
