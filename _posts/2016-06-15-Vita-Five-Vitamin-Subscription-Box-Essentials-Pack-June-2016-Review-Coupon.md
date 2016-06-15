@@ -24,9 +24,9 @@ date: 2016-06-15 09:21:39 -08:00
 
 **Cost:** Starts at $14.99 - $39.99/month depending on which pack you choose. Shipping is Free in the U.S.
 
-**What's in the box:** You'll receive personalized gummy vitamin packs that are prepackaged into one convenient pack for each day of the week! So convenient that you can take these packs with you anywhere. No more going to the store to sift through the horse-sized vitamins, no more organizing your vitamins into your pill organizer, and no more cluttered vitamin jars filling up your kitchen counters.
+**What's in the box:** You'll receive personalized gummy vitamin packs that are prepackaged into one convenient pack for each day of the week! So convenient that you can take these packs with you anywhere. No more going to the store to sift through the bottles of vitamins, no more organizing your vitamins into your pill organizer, and no more cluttered vitamin jars filling up your kitchen counters.
 
-**Coupon:** Use coupon code **XXX** to get 10% off your first pack!
+**Coupon:** Use coupon code **wum30** to get 30% off your first pack!
 
 <br>
 
@@ -52,6 +52,12 @@ The box has an info guide attached to it.
 
 Here's a closer look at it:
 
+[![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
+
+VitaFive has so many health pack options for you to try. Vitamin packs that are focused on improving your brain, heart, sleep, beauty, immune system and more. Or you can even customize your own pack to target your own specific needs. Plus, kids packs are available too so everyone in your house is taken care of!
+
+<br>
+
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
 <br>
@@ -61,12 +67,6 @@ The supplement guide lists what vitamins are included in the Essentials Pack as 
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Info2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
 Not only does it lists the type of vitamins that is included, but it also lists the amount of each of them as well.
-
-<br>
-
-[![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016Box2.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
-
-VitaFive has so many health pack options for you to try. Vitamin packs that are focused on improving your brain, heart, sleep, beauty, immune system and more. Or you can even customize your own pack to target your own specific needs. Plus, kids packs are available too so everyone in your house is taken care of!
 
 <br>
 
@@ -98,4 +98,4 @@ Each type of vitamin had its own unique taste. Some were more tart, while others
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> What a game changer! These vitamin packs are totally something that will be included in my daily routine from now on. I personally already take vitamins in gummy form, but having it packaged in these single packs totally makes a big difference. This way I remember to take all my vitamins in one sitting instead of only remembering to take one and forgetting the others because I didn't have time to reach for that extra bottle. Plus the personalized name in the back is so very helpful (not to mention, making it extra special), especially when there's multiple packs or members in the household. No confusions there. So happy that such a subscription like this exists!
 
-If you haven't subscribed yet, you can [get $15 off your first package through this link](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}, OR use coupon code **CLUBMASTERS** to get a pair of limited Five Four Clubmaster sunglasses, cleaning cloth, and hard case ($75 value) FREE in your first package!
+If you haven't subscribed yet, you can [get 30% off your first package with coupon wum30](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}, that makes it as low as $10.49 for your first vitamin pack!
