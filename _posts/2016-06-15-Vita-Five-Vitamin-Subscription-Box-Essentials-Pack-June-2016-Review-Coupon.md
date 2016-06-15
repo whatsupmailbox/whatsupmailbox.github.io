@@ -34,8 +34,6 @@ I personally love taking my vitamins in gummy form. It makes it fun to eat and I
 
 So when I was given the opportunity to review this subscription, I was excited and totally on board! So here it goes.
 
-<br>
-
 [![VitaFive Essentials Pack](http://whatsupmailbox.com/images/VitaFiveEssentialsPackJune2016OpenPackage.jpg)](http://www.shareasale.com/r.cfm?B=849597&U=1115177&M=65127&urllink=){:target="_blank"}
 
 <figcaption>First look at unboxing</figcaption>
