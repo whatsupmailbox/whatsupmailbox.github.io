@@ -9,11 +9,11 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyJune2016Items.jpg"
-date: 2016-06-16 09:21:39 -08:00
+date: 2016-06-16 09:31:39 -08:00
 ---
 
 <center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
