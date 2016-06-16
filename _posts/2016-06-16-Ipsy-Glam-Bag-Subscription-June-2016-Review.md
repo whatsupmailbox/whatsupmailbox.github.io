@@ -126,7 +126,7 @@ I like getting eyeshadows but this sample is tiny! I've received these tiny samp
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So I gotta be honest, I wasn't too excited when I got a peek at my glam bag items earlier this month, and having it on hand didn't change that either. The only saving grace are the eyeshadow brush and eyeliner, and those two alone made me break even with the $10 cost of this subscription. The total value of my items this month didn't amount to much either, definitely way lower than what I'm used to getting so that was also a bummer. I guess it's time for me to update my profile preference to see if that will make a difference for next month's glam bag. Really hoping it will!
 
-If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to start receiving your own monthly glam bags!
+If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
 
 <br>
 
@@ -155,7 +155,7 @@ If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ip
       <TD>$5.99?</TD>
    </TR>
     <TR>
-      <TD>theBalm Cosmetics** Meet Matt(e) Trimony Eyeshadow</TD>
+      <TD>theBalm Cosmetics Meet Matt(e) Eyeshadow</TD>
       <TD>$3?</TD>
    </TR>
    <TR>
