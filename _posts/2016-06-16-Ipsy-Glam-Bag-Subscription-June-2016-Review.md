@@ -28,7 +28,7 @@ date: 2016-06-16 09:21:39 -08:00
 
 <br>
 
-Ipsy always ships their bags in bright neon pink padded envelopes, it's hard to miss it and I always get happy when I see it in my mailbox!
+Ipsy always ships their glam bags in bright neon pink padded envelopes, it's hard to miss it and I always get happy when I see it in my mailbox!
 
 <br>
 
