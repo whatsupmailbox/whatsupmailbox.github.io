@@ -67,7 +67,7 @@ Every month [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} sends
 
 [![](http://whatsupmailbox.com/images/IpsyJune2016ClariSEADeepPoreDetoxActivatedCharcoalExfoliatingMask.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
 
-**clariSEA** Deep Pore Detox Activated Charcoal Exfoliating Mask
+**clariSEA** Deep Pore Detox Activated Charcoal Exfoliating Mask  
 Deluxe Sample Size 1 oz, *Value $4.50*
 
 This is an all natural mask that has Bamboo Charcoal, Kaolin Clay and Calendula to blast away the dirt and oil in pores, clearing away blackheads and preventing breakouts. It's in a powder form and can be used as a cleanser or a mask! And because it's powder, you can rest assure that it won't leak in your makeup bag and take it with you when you travel.
