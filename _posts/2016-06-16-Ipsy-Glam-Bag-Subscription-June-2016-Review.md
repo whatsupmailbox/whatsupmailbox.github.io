@@ -129,3 +129,41 @@ I like getting eyeshadows but this sample is tiny! I've received these tiny samp
 If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to start receiving your own monthly glam bags!
 
 <br>
+
+<TABLE  BORDER="5" style="width:55%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Ipsy Glam Bag Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>clariSEA Mask</TD>
+      <TD>$4.50</TD>
+   </TR>
+   <TR>
+      <TD>ColourPop Cosmetics Gel Eyeliner</TD>
+      <TD>$5</TD>
+   </TR>
+    <TR>
+      <TD>Elizabeth Mott Blush</TD>
+      <TD>$11.50</TD>
+   </TR>
+    <TR>
+      <TD>Royal & Langnickel Crease Brush</TD>
+      <TD>$5.99?</TD>
+   </TR>
+    <TR>
+      <TD>theBalm Cosmetics** Meet Matt(e) Trimony Eyeshadow</TD>
+      <TD>$3?</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$29.99</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$10</big></i></TD>
+   </TR>
+</TABLE>
