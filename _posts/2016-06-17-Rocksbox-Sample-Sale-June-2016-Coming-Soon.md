@@ -27,7 +27,7 @@ To find out more about [Rocksbox](https://www.rocksbox.com){:target="_blank"}, c
 
 <br>
 
-<H4>What's Rocksbox</H4>
+<H2>What's Rocksbox</H2>
 
 [![Rocksbox](http://whatsupmailbox.com/images/RocksboxMar2016Box.jpg)](https://www.rocksbox.com){:target="_blank"}
 
