@@ -15,7 +15,9 @@ imagefeature: "RocksboxSampleSaleJune2016.jpg"
 date: 2016-06-17 09:21:39 -08:00
 ---
 
-[![Rocksbox Sample Sale](http://whatsupmailbox.com/images/RocksboxSampleSaleJune2016.jpg)](https://www.rocksbox.com){:target="_blank"}
+<center><a href="https://www.rocksbox.com" target="_blank">
+<img src="/images/RocksboxSampleSaleJune2016.jpg" border="0" style="border:none;max-width:100%;" alt="Rocksbox Sample Sale" />
+</a></center>
 
 If you're a subscriber, get ready for some major savings this coming Monday! The Rocksbox Sample Sale will start on Monday, June 20th at 8am Pacific Standard Time. So set your clocks ladies and make sure you take part on this big sale!
 
