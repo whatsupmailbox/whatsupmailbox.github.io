@@ -160,7 +160,7 @@ I've tried LA Fresh foot wipes and they were great so I'm excited to try this su
 <br>
 
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Gentleman's Box delivers great and unique products that are useful too! Definitely appreciated the razor that's packaged in a nice box so it can be gifted if needed, and the wooden tie clip was really cool too. The total value came up to $90 which is pretty awesome for a $25 box.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Gentleman's Box delivers great and unique products that are useful too! Definitely appreciated the razor that's packaged in a nice box so it can be gifted if needed, and the wooden tie clip was really cool. The total value came up to $90 which is pretty awesome for a $25 box. Great curation and looking forward to next month's box!
 
 Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!
 
