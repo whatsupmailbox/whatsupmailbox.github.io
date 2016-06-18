@@ -153,7 +153,7 @@ This is definitely a tie clip that my husband does not have yet in his collectio
 
 ![LA Fresh Sunscreen Wipes](http://whatsupmailbox.com/images/GentlemansBoxJune2016LaFreshTravelLiteSunscreen.jpg)
 
-**LA Fresh Sunscreen Wipes**, Bonus Item: 2 Sample Packets, *Value $*
+**LA Fresh Sunscreen Wipes**, Bonus Item: 2 Sample Packets
 
 I've tried LA Fresh foot wipes and they were great so I'm excited to try this sunscreen wipes. These wipes are SPF 30 and made with a natural formula that's neither greasy or irritating to the skin. These packets are great to bring with you to the beach or during your hikes for convenient reapplication of sunscreen.
 
@@ -164,7 +164,7 @@ I've tried LA Fresh foot wipes and they were great so I'm excited to try this su
       <img src='/images/GentlemansBoxJune2016HelloFreshCoupon2.jpg'>
 </figure>
 
-**Hello Fresh $35Coupon**
+**Hello Fresh $35 Coupon**
 
 They also included a [Hello Fresh](https://www.hellofresh.com){:target="_blank"} coupon for $35 off your first box. The coupon code is unique and must be claimed within 30 days. You can also use coupon code [3E724E](www.hellofresh.com/raf-helloshare/?c=3E724E){:target="_blank"} for $40 off your first box, and that one doesn't expire.
 
