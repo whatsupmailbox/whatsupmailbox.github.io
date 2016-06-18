@@ -9,18 +9,18 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJune2016Items.jpg"
-date: 2016-06-19 09:31:39 -08:00
+date: 2016-06-18 14:31:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
 
 ![Gentleman's Box June 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)
 
-**Subscription:** [Gentleman's Box](https://gentlemansbox.com" target="_blank")
+**Subscription:** [Gentleman's Box](https://gentlemansbox.com"){:target="_blank"}
 
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
@@ -159,6 +159,16 @@ I've tried LA Fresh foot wipes and they were great so I'm excited to try this su
 
 <br>
 
+<figure class="half">
+      <img src='/images/GentlemansBoxJune2016HelloFreshCoupon.jpg'>
+      <img src='/images/GentlemansBoxJune2016HelloFreshCoupon2.jpg'>
+</figure>
+
+**Hello Fresh $35Coupon**
+
+They also included a [Hello Fresh](https://www.hellofresh.com){:target="_blank"} coupon for $35 off your first box. The coupon code is unique and must be claimed within 30 days. You can also use coupon code [3E724E](www.hellofresh.com/raf-helloshare/?c=3E724E){:target="_blank"} for $40 off your first box, and that one doesn't expire.
+
+<br>
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Gentleman's Box delivers great and unique products that are useful too! Definitely appreciated the razor that's packaged in a nice box so it can be gifted if needed, and the wooden tie clip was really cool. The total value came up to $90 which is pretty awesome for a $25 box. Great curation and looking forward to next month's box!
 
