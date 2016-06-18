@@ -47,7 +47,7 @@ I love these tips that they put in the box!
 
 ![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016OpenBox.jpg)
 
-<figcaption>First look at unboxing*</figcaption>
+<figcaption>First look at unboxing</figcaption>
 
 <br>
 
