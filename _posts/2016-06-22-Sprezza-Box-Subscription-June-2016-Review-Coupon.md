@@ -133,7 +133,9 @@ The Laundress is an NYC based company and I've tried their fabric freshener befo
 
 <br>
 
-[![The Laundress Wash & Stain Bar](http://whatsupmailbox.com/images/SprezzaBoxJune2016TheLaundressWashAndStainBar2.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxJune2016TheLaundressWashAndStainBar2.jpg" border="0" style="border:none;max-width:100%;" alt="The Laundress Wash & Stain Bar" />
+</a></center>
 
 Made in USA, Animal Cruelty Free, smells amazing, travel-friendly, need I say more?
 
