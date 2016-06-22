@@ -73,7 +73,7 @@ The back of the info card lists all the items inside the box as well as their va
 
 **Bedford & Broome** Pocket Square, *Value $18*
 
-This pocket square has a star pattern allover. It's a collaboration between Bedford & Broome with Sprezza's design team especially for the upcoming holiday. It definitely screams Independance Day to me and this will totally be worn on July 4th!
+This pocket square has a star pattern all over. It's a collaboration between Bedford & Broome with Sprezza's design team especially for the upcoming holiday. It definitely screams Independance Day to me and this will totally be worn on July 4th!
 
 <br>
 
