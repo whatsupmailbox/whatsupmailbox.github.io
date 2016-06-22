@@ -9,7 +9,7 @@ categories:
 tags: [Sprezza Box, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SprezzaBoxJune2016Items.jpg"
@@ -137,7 +137,7 @@ Made in USA, Animal Cruelty Free, smells amazing, travel-friendly, need I say mo
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** This month's items fit perfect for a summer day in the park theme. Definitely a couple of items that were a great discovery (the cigar cutter and the wash & stain bar), and the bright yellow color represent the summer season to the tee. The total value this month came up to 103, and although it's less than [last month's box](http://whatsupmailbox.com/subscriptions/reviews/Sprezza-Box-Subscription-May-2016-Review-Coupon/){:target="_blank"}, it's still quadruple the cost so that's a total win still. Can't wait to wear the star patterned pocket square for July 4th. Can't believe it's just around the corner, time surely flies!
 
-Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b8) to start receiving their monthly dapper accessories!
+Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b8) to start receiving their monthly dapper accessories. And don't forget to use coupon code **WHATSUPMAILBOX** for 10% off your first box!
 
 <br>
 
