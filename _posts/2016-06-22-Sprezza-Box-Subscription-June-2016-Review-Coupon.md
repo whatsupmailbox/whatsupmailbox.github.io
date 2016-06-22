@@ -55,7 +55,9 @@ The June 2016 box is titled <big>The Madison</big>. Sprezza Box is located in NY
 
 <br>
 
-[![Info Card Back](http://whatsupmailbox.com/images/SprezzaBoxJune2016Info2.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxJune2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card Back" />
+</a></center>
 
 The back of the info card lists all the items inside the box as well as their values.
 
@@ -113,7 +115,9 @@ Oooh, a cigar cutter! Although my husband doesn't smoke cigars that often, when 
 
 <br>
 
-[![Sprezza Lapel Pin](http://whatsupmailbox.com/images/SprezzaBoxJune2016SprezzaLapelPin.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxJune2016SprezzaLapelPin.jpg" border="0" style="border:none;max-width:100%;" alt="Sprezza Lapel Pin" />
+</a></center>
 
 **Sprezza** Lapel Pin, *Value $15*
 
