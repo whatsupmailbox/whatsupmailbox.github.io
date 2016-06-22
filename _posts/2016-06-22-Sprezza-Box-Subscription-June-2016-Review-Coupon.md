@@ -30,7 +30,7 @@ date: 2016-06-22 09:21:39 -08:00
 
 <br>
 
-[Sprezza Box](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"} is a men's accessories subscription box that will surely upgrade your look.
+[Sprezza Box](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"} is a men's accessories subscription box that delivers items such as ties, pocket squares and all other cool outfit add-ons that will surely upgrade your look.
 
 <br>
 
