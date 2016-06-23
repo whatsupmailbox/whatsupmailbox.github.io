@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "RocksboxJune2016Items.jpg"
-date: 2016-06-23 09:21:39 -08:00
+date: 2016-06-23 11:41:39 -08:00
 ---
 
 [![Rocksbox June 2016 Box](http://whatsupmailbox.com/images/RocksboxJune2016Box.jpg)](http://www.rocksbox.com){:target="_blank"}
@@ -34,7 +34,7 @@ Subscribing to Rocksbox has totally changed the way I accessorize. I can now be 
 
 [![Rocksbox June 2016 Info](http://whatsupmailbox.com/images/RocksboxJune2016Info.jpg)](http://www.rocksbox.com){:target="_blank"}
 
-With every box that they send out, a personal message is included as well as details on the jewelry inside. You'll receive special insider pricing if you decide to keep any of the pieces and don't forget to give feedback on your items so that the next shipment will be on point to your style.
+With every box that they send out, a personal message is included as well as details of the jewelry inside. You'll receive special insider pricing if you decide to keep any of the pieces and don't forget to give feedback on your items so that the next shipment will be on point to your style.
 
 <br>
 
