@@ -44,8 +44,9 @@ With every box that they send out, a personal message is included as well as det
 
 ## Items in detail:
 
-
-[![House of Harlow 1960 Peak to Peak Fringe Earrings Gold](http://whatsupmailbox.com/images/RocksboxJune2016HouseOfHarlow1960PeakToPeakFringeEarringsGold.jpg)](https://www.houseofharlow1960.com/peak-to-peak-fringe-earrings/118354-657326){:target="_blank"}
+<center><a href="https://www.houseofharlow1960.com/peak-to-peak-fringe-earrings/118354-657326" target="_blank">
+<img src="/images/RocksboxJune2016HouseOfHarlow1960PeakToPeakFringeEarringsGold.jpg" border="0" style="border:none;max-width:100%;" alt="House of Harlow 1960 Peak to Peak Fringe Earrings Gold" />
+</a></center>
 
 **House of Harlow 1960** Peak to Peak Fringe Earrings  
 Retail $58, *Price to keep $46*
@@ -55,7 +56,9 @@ I had a crush on these earrings when I saw it posted on their Instagram, I knew 
 
 <br>
 
-[![Kendra Scott Eleanor Ivory Mother Of Pearl Necklace Gold](http://whatsupmailbox.com/images/RocksboxJune2016KendraScottEleanorIvoryMotherOfPearlNecklaceGold.jpg)](http://www.kendrascott.com/eleanor-necklace-in-ivory-pearl.html){:target="_blank"}
+<center><a href="http://www.kendrascott.com/eleanor-necklace-in-ivory-pearl.html" target="_blank">
+<img src="/images/RocksboxJune2016KendraScottEleanorIvoryMotherOfPearlNecklaceGold.jpg" border="0" style="border:none;max-width:100%;" alt="Kendra Scott Eleanor Ivory Mother Of Pearl Necklace Gold" />
+</a></center>
 
 **Kendra Scott** Eleanor Necklace in Ivory Mother of Pearl  
 Retail $65, *Price to keep $52*
@@ -65,7 +68,9 @@ Another hit piece for me! I'm a major fan of Kendra Scott (aren't we all?!) and 
 
 <br>
 
-[![House of Harlow Prana Double Pendant Necklace in Turquoise](http://whatsupmailbox.com/images/RocksboxJune2016HouseOfHarlow1960PranaDoublePendantNecklaceTurquoise.jpg)](https://www.houseofharlow1960.com/prana-double-pendant-necklace/116939-646947){:target="_blank"}
+<center><a href="https://www.houseofharlow1960.com/prana-double-pendant-necklace/116939-646947" target="_blank">
+<img src="/images/RocksboxJune2016HouseOfHarlow1960PranaDoublePendantNecklaceTurquoise.jpg" border="0" style="border:none;max-width:100%;" alt="House of Harlow Prana Double Pendant Necklace in Turquoise" />
+</a></center>
 
 **House of Harlow 1960** Prana Double Pendant Necklace in Turquoise  
 Retail $53, *Price to keep $42*
