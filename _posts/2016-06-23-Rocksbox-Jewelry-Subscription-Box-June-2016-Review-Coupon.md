@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Rocksbox June 2016 Review + Coupon!"
+title: "Rocksbox June 2016 Review + Free Box Coupon!"
 description: ""
-headline: "Rocksbox June 2016 Review + Coupon!"
+headline: "Rocksbox June 2016 Review + Free Box Coupon!"
 categories: 
       - Subscriptions
       - Reviews
 tags: [Rocksbox, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "RocksboxJune2016Items.jpg"
