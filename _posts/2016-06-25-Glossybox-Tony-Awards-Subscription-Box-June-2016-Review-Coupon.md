@@ -30,7 +30,7 @@ date: 2016-06-25 13:19:39 -08:00
 
 <br>
 
-So I've been taking a break from Glossybox since the beginning of this year because I just had way too many makeup and skincare. After taking a bit of hiatus, I decided to come back for their special collaboration with Broadway's Tony Awards box to see what curation they'd come up with. So here it is!
+So I've been taking a break from [Glossybox](https://gbx.to/r/USCI=MTMzODY3){:target="_blank"} since the beginning of this year because I just had way too many makeup and skincare. After taking a bit of hiatus, I decided to come back for their special collaboration with Broadway's Tony Awards box to see what curation they'd come up with. So here it is!
 
 <br>
 
