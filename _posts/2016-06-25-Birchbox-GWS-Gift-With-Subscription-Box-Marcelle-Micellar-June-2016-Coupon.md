@@ -49,6 +49,6 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
 
 **What's in the box:** Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.
 
-**Coupon:**  
+<b>Coupon:</b>
 * Subscriptions: Enter coupon code [SOLUTION](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} at checkout to receive a free Marcelle 3-in-1 Micellar Solution deluxe sample with your first box! This offer is good while supplies last.
 * Shopping: Try coupon codes TAKEOFF20, COMEBACK20, MOBILE20, WELCOMEOFFER20, or TAKEOFF10 to get additional discounts with your purchase. And don’t forget to add the Mystery Sample Pack to your cart with your $35+ shop purchase!
