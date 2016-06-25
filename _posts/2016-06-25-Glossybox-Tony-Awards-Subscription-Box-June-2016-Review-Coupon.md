@@ -9,7 +9,7 @@ categories:
 tags: [Glossybox, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxJune2016TonyAwardsItems.jpg"
@@ -89,7 +89,7 @@ The brush is a rounded shape and the bristles are short. I'm not sure this will 
 
 **Sebastian Professional** Shaper Fierce Finishing Hairspray. *Value $3 (estimated)*
 
-I've never tried this brand before and to be honest, I rarely use hairspray in my daily routine, but I do use it for special events. It does say ultra-firm finishing hairspray though which sounds like there would be a lot of hold and probably no movement in hair. I like more of a natural look hairspray so I may have to pass this along.
+I've never tried this brand before and to be honest, I rarely use hairspray in my daily routine, but I do use it for special events. It does say ultra-firm finishing hairspray though which sounds like there would be a lot of hold and probably no movement in hair. I like more of a natural look hairspray so I will have to pass this along.
 
 <br>
 
@@ -97,7 +97,7 @@ I've never tried this brand before and to be honest, I rarely use hairspray in m
 
 **Sebastian Professional** Dark Oil. **Bonus Item*
 
-So this came along as an extra to accompany the hairspray. These type of oils are great for hair that feels extra dry or frizzy. They also suggest mixing this dark oil with a moisturizing conditioner and leave it one like a hair mask for 5-10 minutes. I will definitely have to try that.
+This came along as an extra to accompany the included hairspray. These type of oils are great for hair that feels extra dry or frizzy. They also suggest mixing this dark oil with a moisturizing conditioner and leave it on like a hair mask for 5-10 minutes. I will definitely have to try that.
 
 <br>
 
@@ -105,7 +105,7 @@ So this came along as an extra to accompany the hairspray. These type of oils ar
 
 **SinfulColors** Kylie Jenner Trend Matters Nail Polish in Kitty Pink. *Value $3*
 
-I do love receiving nail polishes in my sub boxes, but not one that's a drugstore brand though. The color is a nice everyday pastel pink color so I may still be using this, just kind of disappointed that they went with this brand.
+I do love receiving nail polishes in my sub boxes, but not one that's a drugstore brand. The color is a nice everyday pastel pink color so I may still be using this, just kind of disappointed that they went with this brand.
 
 <br>
 
@@ -129,7 +129,7 @@ The towelettes in these sample packs are smaller than their regular sized ones, 
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** Honestly, this was one of my least favorite boxes from them. It's supposed to be a collaboration box with Broadway's Tony Awards, which should mean glamour and luxury or prestige, but nothing in this box represented that at all. How disappointing. The only thing that comes close is the actual box, and that's kind of sad to say, I'll probably be using 2 out of the 7 items in this box, and those 2 items certainly cost less than the subscription price. So sad and such a bummer, was really hoping that they would do great with this curation. Oh well, it's back to unsubscribing again until they come up with a spoiler that will peek my interest.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** Honestly, this was one of my least favorite boxes from them. It's supposed to be a collaboration box with Broadway's Tony Awards, which should mean glamour and luxury or prestige, but nothing in this box represented that at all. How disappointing. The only thing that comes close is the actual box, and that's kind of sad to say. I'll probably be using 2 out of the 7 items in this box, and those 2 items certainly cost less than the subscription price. So sad and such a bummer, was really hoping that they would do great with this curation. Oh well, it's back to unsubscribing again until they come up with a spoiler that will peek my interest.
 
 Not a subscriber? You can [visit their website or subscribe here](https://www.glossybox.com/referal?CI=MTMzODY3) to start receiving monthly pink boxes!</p>
 
