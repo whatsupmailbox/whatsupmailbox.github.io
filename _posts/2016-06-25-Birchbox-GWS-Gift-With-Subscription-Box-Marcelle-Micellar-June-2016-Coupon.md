@@ -16,9 +16,13 @@ imagefeature: "BirchboxGWSJune2016.jpg"
 date: 2016-06-25 09:41:39 -08:00
 ---
 
-[![Birchbox GWS - Marcelle 3-in-1 Micellar Solution](http://whatsupmailbox.com/images/BirchboxGWSJune2016MarcelleMicellar.jpg)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxGWSJune2016MarcelleMicellar.jpg" border="0" style="border:none;max-width:100%;" alt="Birchbox GWS - Marcelle 3-in-1 Micellar Solution" />
+</a></center>
 
-[![Birchbox GWS - Marcelle 3-in-1 Micellar Solution](http://whatsupmailbox.com/images/BirchboxGWSJune2016MarcelleMicellar2.png)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
+<center><a href="https://www.birchbox.com/invite/whatsupmailbox" target="_blank">
+<img src="/images/BirchboxGWSJune2016MarcelleMicellar2.png" border="0" style="border:none;max-width:100%;" alt="Birchbox GWS - Marcelle 3-in-1 Micellar Solution" />
+</a></center>
 
 
 Use coupon code **SOLUTION** at checkout to receive a free Marcelle 3-in-1 Micellar Solution deluxe sample with the purchase of a women's monthly or yearly rebillable subscription. Offer available while supplies last. Your free gift will ship with your first subscription box. 
