@@ -9,10 +9,10 @@ categories:
 tags: [Birchbox, Subscriptions, Coupons, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "BirchboxGWSJune2016.jpg"
+imagefeature: "BirchboxGWSJune2016MarcelleMicellar.jpg"
 date: 2016-06-25 09:41:39 -08:00
 ---
 
