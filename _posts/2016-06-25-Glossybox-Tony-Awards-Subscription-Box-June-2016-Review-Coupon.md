@@ -131,9 +131,9 @@ The towelettes in these sample packs are smaller than their regular sized ones, 
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** Honestly, this was one of my least favorite boxes from them. It's supposed to be a collaboration box with Broadway's Tony Awards, which should mean glamour and luxury or prestige, but nothing in this box represented that at all. How disappointing. The only thing that comes close is the actual box, and that's kind of sad to say. I'll probably be using 2 out of the 7 items in this box, and those 2 items certainly cost less than the subscription price. So sad and such a bummer, was really hoping that they would do great with this curation. Oh well, it's back to unsubscribing again until they come up with a spoiler that will peek my interest.
 
-Not a subscriber? You can [visit their website or subscribe here](https://www.glossybox.com/referal?CI=MTMzODY3) to start receiving monthly pink boxes!</p>
+Not a subscriber? You can [visit their website or subscribe here](https://www.glossybox.com/referal?CI=MTMzODY3) to start receiving monthly pink boxes!
 
-And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337){:target="_blank"} to get $2.75 cashback on your purchase at Glossybox, I always use them and get money back!</p>
+And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337){:target="_blank"} to get $2.75 cashback on your purchase at Glossybox, I always use them and get money back!
 
 <a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
 
