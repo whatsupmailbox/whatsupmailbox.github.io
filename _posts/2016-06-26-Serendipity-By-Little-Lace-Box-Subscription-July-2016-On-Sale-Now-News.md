@@ -19,7 +19,7 @@ date: 2016-06-26 12:19:39 -08:00
 
 <br>
 
-<p>They are now offering two subscription options:</p>
+<center><p>They are now offering two subscription options:</p></center>
 
 <br>
 
