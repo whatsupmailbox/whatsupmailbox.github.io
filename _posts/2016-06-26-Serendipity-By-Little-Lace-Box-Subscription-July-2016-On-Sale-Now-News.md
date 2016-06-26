@@ -3,7 +3,6 @@ layout: post
 published: true
 categories: 
     - Subscriptions
-    - Reviews
 title: Serendipity by Little Lace Box is Now On Sale!
 featured: false
 comments: true
