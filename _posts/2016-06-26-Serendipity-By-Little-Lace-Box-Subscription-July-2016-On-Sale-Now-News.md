@@ -7,7 +7,7 @@ title: Serendipity by Little Lace Box is Now On Sale!
 featured: false
 comments: true
 type: photo
-imagefeature: http://static.shareasale.com/image/61975/serendipity_logo.jpg
+imagefeature: SerendipityByLLBLogo.jpg
 headline: Serendipity by Little Lace Box is Now On Sale!
 tags: [Serendipity by LLB, Subscriptions, June 2015]
 date: 2016-06-26 12:19:39 -08:00
