@@ -15,7 +15,7 @@ date: 2016-06-26 12:19:39 -08:00
 
 <center><a target="_blank" href="http://shareasale.com/r.cfm?b=877983&amp;u=1115177&amp;m=61975&amp;urllink=&amp;afftrack="><img src="http://static.shareasale.com/image/61975/SerendipityMaysmaller.jpg" border="0" /></a></center>
 
-<center><H4>July Serendipity by LLB is available today!</H4>
+<center><H4>July Serendipity by LLB is available today!</H4></center>
 
 <br>
 
