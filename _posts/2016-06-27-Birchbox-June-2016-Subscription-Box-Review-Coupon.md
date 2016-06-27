@@ -108,7 +108,7 @@ Kiehl's is a well known brand in the skincare industry and although I've used th
 
 <br>
 
-[![Ardency Inn Modster Smooth Ride Supercharged Eyeliner](http://whatsupmailbox.com/images/BirchboxJune2016OribeWhishKiehls.jpg)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
+[![Ardency Inn Modster Smooth Ride Supercharged Eyeliner](http://whatsupmailbox.com/images/BirchboxJune2016ArdencyInnModsterEyeliner.jpg)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
 
 **Ardency Inn** Modster Smooth Ride Supercharged Eyeliner, Deluxe Sample Size (2/3 of Full Size) *Value $13.50*
 
