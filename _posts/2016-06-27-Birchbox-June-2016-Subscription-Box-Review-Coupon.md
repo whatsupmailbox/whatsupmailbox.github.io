@@ -136,7 +136,7 @@ Not a subscriber? You can [visit their website or subscribe here](https://www.bi
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
