@@ -116,6 +116,8 @@ I love black eyeliners, especially waterproof ones like this, but I prefer them 
 
 <br>
 
+<H4>Gift With Subscription:</H4>
+
 [![Smith & Cult Lipgloss](http://whatsupmailbox.com/images/BirchboxJune2016GWSSmithAndCultLipgloss.jpg)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
 
 **Smith & Cult** The Shining Lip Lacquer in Her Name is Bubbles, *Value $22*
