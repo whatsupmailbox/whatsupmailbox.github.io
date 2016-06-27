@@ -55,7 +55,7 @@ The Info Card:
 
 <br>
 
-<H4>And here are my Ipsy June 2016 items:</H4>
+<H4>And here are my Glossybox "Tony Awards" items:</H4>
 
 [![Glossybox June 2016 Tony Awards Items](http://whatsupmailbox.com/images/GlossyboxJune2016TonyAwardsItems.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
