@@ -122,7 +122,7 @@ This round towel is made of 100% cotton and has a diameter of 1500 mm which roug
 
 **LONDONTOWN** Lakur Nail Polish in Royal Wedding, *Value $16*
 
-I'm always up for some nail polishes and love when I get introduced to new brands. I've honestly never heard of LondonTown but they are a vegan and 9-free formula so it's safe to use! All of their nail colors are infused with Florium Complex, a blend of natural botanical extracts and oils that will help to improve the appearance of dry, weak and brittle nails. That all sounds great to me!
+I'm always up for some new nail polishes and love when I get introduced to new brands. I've honestly never heard of LondonTown but they are a vegan and 9-free formula so it's safe to use! All of their nail colors are infused with Florium Complex, a blend of natural botanical extracts and oils that will help to improve the appearance of dry, weak and brittle nails. That all sounds great to me!
 
 <br>
 
