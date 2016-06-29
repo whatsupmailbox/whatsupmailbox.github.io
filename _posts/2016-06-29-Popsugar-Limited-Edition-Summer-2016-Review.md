@@ -162,6 +162,14 @@ How cute are these! So cute that I'm giddy like a kid in a toy store. It was so 
 
 <br>
 
+<p>This box is a one-time purchase and is no longer available. But they have their monthly boxes for $39.95 (July boxes are now being sold) and you can <a href="http://popsugar-must-have.evyy.net/c/164125/198666/2706" target="_blank"><big>subscribe here</big></a> or go to their website <a href="http://popsugar-must-have.evyy.net/c/164125/198666/2706" target="_blank">www.musthave.popsugar.com</a> to learn more. Don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/198666/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+
+<p>Want more savings? Use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
+
+<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+
+<br>
+
 <TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
