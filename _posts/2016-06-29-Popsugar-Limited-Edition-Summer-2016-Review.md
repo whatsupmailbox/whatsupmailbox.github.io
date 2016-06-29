@@ -72,7 +72,7 @@ I'm going crazy in love with all these items! So perfect for summer, it almost l
 
 [![Hat Attack Beach Tote](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016HatAttackBeachTote.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Hat Attack** Beach Tote, *Value $*
+**Hat Attack** Twisted Stripe Beach Tote, *Value $95*
 
 This tote is big! The material is like what you would find on a straw hat and it's totally perfect for the beach. I also love the simply yet summery pattern.
 
@@ -86,23 +86,23 @@ There's no lining inside as shown in the picture above. Maybe it's better this w
 
 [![Corkcicle Canteen](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016CorkcicleCanteenWhite.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Corkcicle** Canteen in White, *Value $35*
+**Corkcicle** Canteen in White, *Value $27.95*
 
-I love any type of liquid container that can keep its temperature for a long period of time. I've been a big fan of the S'Well bottle since it first came out years ago, and now I get to try out a new brand, yay!
+I love any type of liquid container that can keep its temperature for a long period of time. I've been a big fan of the S'Well bottles since it first came out years ago, and now I get to try out a new brand, yay!
 
 <br>
 
 [![Corkcicle Canteen](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016CorkcicleCanteenWhite2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-This canteen bottle has a screw top and has a metal lining inside. It keeps hot liquid up to xx hours and cold up to xx hours. I love the color and holding this bottle was comfortable and non slippery as well. I can't wait to try this out with some cold white wine ;)
+This canteen bottle has a screw top and is made of stainless steel. It keeps drinks ice cold for 25 hours and hot for 12 hours. I love the color and holding this bottle was comfortable and non slippery as well. I can't wait to try this out with some cold white wine ;)
 
 <br>
 
 [![Tofino Round Beach Towel](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016BeachTowel.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Tofino** Round Beach Towel, *Value $100*
+**Tofino Towel Co** THE CHESTERMAN Round Beach Towel, *Value $74.99*
 
-How gorgeous is this beach towel! I've never had a round towel before so I'm super happy I have one now, and such a pretty one too. The round shape is great for when you're at the beach (or pretty much anywhere) laying down and need to reposition yourself (to get that perfect tan) without having to move your towel everytime.
+How gorgeous is this beach towel! I've never had a round towel before so I'm super happy I have one now, and such a pretty one plus it's soft too. The round shape is great for when you're at the beach (or pretty much anywhere) laying down and need to reposition yourself (to get that perfect tan) without having to move your towel everytime.
 
 <br>
 
@@ -120,19 +120,19 @@ This round towel is made of 100% cotton and has a diameter of 1500 mm which roug
 
 [![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**LondonTown** Lakur Nail Polish in Royal Wedding, *Value $18*
+**LONDONTOWN** Lakur Nail Polish in Royal Wedding, *Value $16*
 
-I'm always up for some nail polishes and love when I get introduced to new brands. I've honestly never heard of LondonTown but they are a 5-free formula so it's safe to use!
+I'm always up for some nail polishes and love when I get introduced to new brands. I've honestly never heard of LondonTown but they are a vegan and 9-free formula so it's safe to use! All of their nail colors are infused with Florium Complex, a blend of natural botanical extracts and oils that will help to improve the appearance of dry, weak and brittle nails. That all sounds great to me!
 
 <br>
 
 [![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-The color on this one is just my type. Bright, peachy and summery.
+Royal Wedding is a coral, pastel orange color (at least that's how it looks on me). This color is just my type. Bright, peachy and summery.
 
 <br>
 
-[![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish3.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+[![LondonTown Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish3.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
 The color looks brighter in person and suits my tanned skin well. It's super creamy, I only had to apply 1 coat for the picture above, and the brush also applied the colors well (no streaks). A good all-around nail polish which I'm glad to add to my collection!
 
@@ -140,17 +140,17 @@ The color looks brighter in person and suits my tanned skin well. It's super cre
 
 [![Herbivore Rose Hibiscus Hydrating Face Mist](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016HerbivoreRoseHibiscusFaceMist.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Herbivore** Rose Hibiscus Hydrating Face Mist, *Value $*
+**Herbivore Botanicals** Rose Hibiscus Hydrating Face Mist, *Value $32*
 
-Face mists are a must in my skincare stash. I use it a lot for when I'm travelling 30,000 feet high in the air, or ground level at home in front of my computer.
+Face mists are a must in my skincare stash. I use it a lot when I'm travelling 30,000 feet high in the air, or above sea level tanning on the beach. Either way, misting my face from time to time not only refreshes my skin, it also calms me down for those stressful moments. And since this mist has a rose scent which I love, I'm sure I'll be spritzing this all summer long! 
 
 <br>
 
 [![Sugarfina Ice Cream Cones](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016SugarfinaIceCreamCones.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Sugarfina** Ice Cream Cones, *Value $*
+**Sugarfina** Ice Cream Cones, *Value $7.50*
 
-I LOVE Sugarfina! They're like candies for grown ups! They have all kinds of yummy flavors that I've tried and am a big fan of their champagne gummy bears. I haven't tried this one though so I'm super excited to try this!
+I LOVE Sugarfina! They're like candies for grown ups! They have all kinds of yummy flavors that I've tried and am a big fan of their champagne gummy bears. I haven't tried this one though so I'm super excited!
 
 [![Sugarfina Ice Cream Cones](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016SugarfinaIceCreamCones2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
@@ -158,4 +158,48 @@ How cute are these! So cute that I'm giddy like a kid in a toy store. It was so 
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVED this box! Everything was perfectly "summer" so it was a great curation and definitely spot on! It was like getting a luxury beach kit, I probably want more of these to give out as welcome baskets for when I have guests this summer. With that said, comparing this to their summer boxes from previous years does seem like it's somewhat lacking in value and items, but I still love it and 
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVED this box! Everything was perfectly "summer" so it was a great curation and definitely spot on! It was like getting a luxury beach kit when you're checking into a 5 star Malibu hotel. All the items and brands felt luxe to me and they were definitely quality. Exactly what one should expect from a Limited Edition box. I will totally be using everything in this box and with a total value of $253, it was absolutely worth the $100 cost!
+
+<br>
+
+<TABLE  BORDER="5" style="width:60%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>Popsugar Limited Edition Summer 2016 Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Hat Attack Beach Stripe Tote</TD>
+      <TD>$95</TD>
+   </TR>
+   <TR>
+      <TD>Corkcicle Canteen Bottle</TD>
+      <TD>$27.95</TD>
+   </TR>
+    <TR>
+      <TD>Tofino Towel Co. Round Beach Towel</TD>
+      <TD>$74.99</TD>
+   </TR>
+    <TR>
+      <TD>LONDONTOWN Nail Polish</TD>
+      <TD>$16</TD>
+   </TR>
+    <TR>
+      <TD>Herbivore Botanicals Rose Face Mist</TD>
+      <TD>$32</TD>
+   </TR>
+   <TR>
+      <TD>Sugarfina Ice Cream Cones</TD>
+      <TD>$7.50</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$253.44</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Box Cost</big></i></TD>
+      <TD><i><big>$100</big></i></TD>
+   </TR>
+</TABLE>
