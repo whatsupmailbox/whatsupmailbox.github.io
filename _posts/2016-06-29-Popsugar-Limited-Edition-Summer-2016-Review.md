@@ -94,7 +94,9 @@ I love any type of liquid container that can keep its temperature for a long per
 
 [![Corkcicle Canteen](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016CorkcicleCanteenWhite2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-This canteen bottle has the
+This canteen bottle has a screw top and has a metal lining inside. It keeps hot liquid up to xx hours and cold up to xx hours. I love the color and holding this bottle was comfortable and non slippery as well. I can't wait to try this out with some cold white wine ;)
+
+<br>
 
 [![Tofino Round Beach Towel](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016BeachTowel.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
@@ -115,4 +117,14 @@ I put the bag and canteen on it so you can see how big this towel is!
 This round towel is made of 100% cotton and has a diameter of 1500 mm which roughly converts to 5 feet.
 
 <br>
+
+[![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+
+**LondonTown** Lakur Nail Polish in Royal Wedding, *Value $18*
+
+I'm always up for some nail polishes and the color on this one is just my type. Bright, peachy and summery.
+
+<br>
+
+[![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
