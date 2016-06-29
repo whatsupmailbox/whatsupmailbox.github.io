@@ -122,9 +122,40 @@ This round towel is made of 100% cotton and has a diameter of 1500 mm which roug
 
 **LondonTown** Lakur Nail Polish in Royal Wedding, *Value $18*
 
-I'm always up for some nail polishes and the color on this one is just my type. Bright, peachy and summery.
+I'm always up for some nail polishes and love when I get introduced to new brands. I've honestly never heard of LondonTown but they are a 5-free formula so it's safe to use!
 
 <br>
 
 [![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
+The color on this one is just my type. Bright, peachy and summery.
+
+<br>
+
+[![LondonTowen Lakur Nail Polish](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016LondonTownLakurNailPolish3.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+
+The color looks brighter in person and suits my tanned skin well. It's super creamy, I only had to apply 1 coat for the picture above, and the brush also applied the colors well (no streaks). A good all-around nail polish which I'm glad to add to my collection!
+
+<br>
+
+[![Herbivore Rose Hibiscus Hydrating Face Mist](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016HerbivoreRoseHibiscusFaceMist.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+
+**Herbivore** Rose Hibiscus Hydrating Face Mist, *Value $*
+
+Face mists are a must in my skincare stash. I use it a lot for when I'm travelling 30,000 feet high in the air, or ground level at home in front of my computer.
+
+<br>
+
+[![Sugarfina Ice Cream Cones](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016SugarfinaIceCreamCones.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+
+**Sugarfina** Ice Cream Cones, *Value $*
+
+I LOVE Sugarfina! They're like candies for grown ups! They have all kinds of yummy flavors that I've tried and am a big fan of their champagne gummy bears. I haven't tried this one though so I'm super excited to try this!
+
+[![Sugarfina Ice Cream Cones](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016SugarfinaIceCreamCones2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
+
+How cute are these! So cute that I'm giddy like a kid in a toy store. It was so hard to resist from opening this up before doing this review, I just wanted to take the picture and be done with it so I can finally gobble this all up!
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVED this box! Everything was perfectly "summer" so it was a great curation and definitely spot on! It was like getting a luxury beach kit, I probably want more of these to give out as welcome baskets for when I have guests this summer. With that said, comparing this to their summer boxes from previous years does seem like it's somewhat lacking in value and items, but I still love it and 
