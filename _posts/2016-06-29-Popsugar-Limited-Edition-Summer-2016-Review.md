@@ -48,7 +48,7 @@ When you open the box, you see it's wrapped with tissue paper and sealed with th
 
 [![Open Box 2](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016OpenBox2.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-Each item inside the box are individually wrapped with tissue paper and padding on some when it is needed. This ensures minimal movement during shipping plus it also looks better. I give extra points to boxes who care how their packaging looks.
+Each item inside the box are individually wrapped with tissue paper (and padding on some). This ensures minimal movement during shipping plus it also looks better. I give extra points to boxes who care how their packaging looks.
 
 <br>
 
