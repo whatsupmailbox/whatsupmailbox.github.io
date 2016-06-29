@@ -16,11 +16,9 @@ imagefeature: "PopsugarLimitedEditionSummer2016Items.jpg"
 date: 2016-06-29 12:19:39 -08:00
 ---
 
-<p></p>
-
 [![Popsugar Must Have Limited Edition Summer 2016](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016Sign.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
 
-**Box:** [Popsugar Must Have](http://popsugar-must-have.evyy.net/c/164125/198666/2706) Limited Edition Summer 2016 Box{:target="_blank"}
+**Box:** [Popsugar Must Have](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"} Limited Edition Summer 2016 Box
 
 **Cost:** $100 one time fee + Free Shipping (taxes apply to CA).
 
