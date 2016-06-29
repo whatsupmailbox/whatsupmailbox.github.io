@@ -22,8 +22,6 @@ date: 2016-06-27 15:19:39 -08:00
 
 **Cost:** $10/monthly + Free Shipping (taxes apply to CA).
 
-**Shipping:** Free shipping to the US. $5 for Canadian residents.
-
 **What's in the box:** Every month you'll receive 4-5 beauty samples that's based on a profile you complete. You can adjust this profile at any time through your online account and sometimes you get to choose a Sample Choice as well.
 
 <p><b>Coupon:</b></p>
