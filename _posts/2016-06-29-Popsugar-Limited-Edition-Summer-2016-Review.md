@@ -142,7 +142,7 @@ The color looks brighter in person and suits my tanned skin well. It's super cre
 
 **Herbivore Botanicals** Rose Hibiscus Hydrating Face Mist, *Value $32*
 
-Face mists are a must in my skincare stash. I use it a lot when I'm travelling 30,000 feet high in the air, or above sea level tanning on the beach. Either way, misting my face from time to time not only refreshes my skin, it also calms me down for those stressful moments. And since this mist has a rose scent which I love, I'm sure I'll be spritzing this all summer long! 
+Face mists are a must in my skincare stash. I use it a lot when I'm travelling 30,000 feet high in the air, or slightly above sea level tanning on the beach. Either way, misting my face from time to time not only refreshes my skin, it also calms me down for those stressful moments. And since this mist has a rose scent which I love, I'm sure I'll be spritzing this all summer long! 
 
 <br>
 
