@@ -22,7 +22,7 @@ date: 2016-06-29 11:19:39 -08:00
 
 **Cost:** $100 one time fee + Free Shipping (taxes apply to CA).
 
-**What's in the box:** A special curation of the ultimate box for her to enjoy during this special time of year. This box is one chic and stylish treat, perfect to give or keep for yourself.
+**What's in the box:** A special curation of cool, outdoor-chic essentials that's perfect for summer. This box is one chic and stylish treat, perfect to give or keep for yourself.
 
 <br>
 
