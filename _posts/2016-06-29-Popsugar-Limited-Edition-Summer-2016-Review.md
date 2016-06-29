@@ -9,11 +9,11 @@ categories:
 tags: [Popsugar Must Have, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "PopsugarLimitedEditionSummer2016Items.jpg"
-date: 2016-06-29 11:19:39 -08:00
+date: 2016-06-29 12:19:39 -08:00
 ---
 
 [![Popsugar Must Have Limited Edition Summer 2016](http://whatsupmailbox.com/images/PopsugarLimitedEditionSummer2016Sign.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
