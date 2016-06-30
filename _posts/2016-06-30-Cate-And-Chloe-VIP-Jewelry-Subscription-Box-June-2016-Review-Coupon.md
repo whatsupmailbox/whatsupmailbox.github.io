@@ -106,7 +106,7 @@ Cate & Chloe sends their jewelry items in these cute boxes (or in jewelry bags i
 
 *Size: 39cm from end to end of PVC leather*
 
-Wrap bracelets are totally in style right now and this leather bracelet is just that. This bracelet came with a jewelry back instead of the box due to its size.
+Wrap bracelets are totally in style right now and this leather bracelet is just that. This bracelet came with a jewelry bag instead of the box due to its size.
 
 <br>
 
