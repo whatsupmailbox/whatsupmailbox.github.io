@@ -175,7 +175,7 @@ Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.co
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Cate & Chloe Items</center></H3>
