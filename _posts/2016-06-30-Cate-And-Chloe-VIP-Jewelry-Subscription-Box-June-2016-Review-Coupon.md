@@ -22,9 +22,9 @@ date: 2016-06-30 13:41:39 -08:00
 
 **Subscription:** [Cate & Chloe VIP Program](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-**Cost:** $19.99/month - The Starter Package (One Piece of Jewelry), $29.99 - Double the Fun (2 pieces of jewelry), $39.99 - Full VIP Status (3 pieces of jewelry) + Free Shipping.
+**Cost:** $19.99/month - The Starter Package (1 Piece of Jewelry), $29.99 - Double the Fun (2 pieces of jewelry), $39.99 - Full VIP Status (3 pieces of jewelry) + Free Shipping.
 
-**What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE signature Cate & Chloe travel make up bag and a $35 coupon off your first box to try HelloFresh!
+**What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE signature Cate & Chloe travel make up bag and a $35 coupon off your first box to try [HelloFresh](http://www.hellofresh.com/?c=3E724E)!
 
 **Coupon:** Use coupon code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=) to get 20% off the Cate & Chloe Starter Package! That brings down the cost to $15.99/month!
 
@@ -159,7 +159,7 @@ The inside setting gives these earrings a multi-dimensional look of bling that's
 
 [![Hello Fresh Gift Card](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016HelloFreshGiftCard.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-As a subscriber, you'll received these $35 off Hello Fresh gift cards with every shipment. This is a subscription box that sends you fresh ingredients to a dish of your choosing from a weekly rotating menu. I've tried them before and they were great. I'm just too ~~busy~~ lazy to cook so I'm not a regular subscriber. I do go back from time to time though and they have always been great.
+As a subscriber, you'll received these $35 off [HelloFresh](http://www.hellofresh.com/?c=3E724E) gift cards with every shipment. This is a subscription box that sends you fresh ingredients to a dish of your choosing from a weekly rotating menu. I've tried them before and they were great. I'm just too ~~busy~~ lazy to cook so I'm not a regular subscriber. Checkout [my HelloFresh review from last year](http://whatsupmailbox.com/subscriptions/reviews/Hello-Fresh-May-2015-Review/).
 
 <br>
 
