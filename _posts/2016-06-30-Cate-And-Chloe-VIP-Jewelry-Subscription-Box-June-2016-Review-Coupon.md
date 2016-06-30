@@ -106,6 +106,8 @@ Cate & Chloe sends their jewelry items in these cute boxes (or in jewelry bags i
 
 *Size: 39cm from end to end of PVC leather*
 
+<br>
+
 Wrap bracelets are totally in style right now and this leather bracelet is just that. This bracelet came with a jewelry bag instead of the box due to its size.
 
 <br>
@@ -126,6 +128,8 @@ I totally like the style (edgy and yet chic) and the brown leather will definite
 
 *Size: Shorter chain = 17", Longer chain = 18" with 3" extender*
 
+<br>
+
 Turquoise is one of my favorite colors so I was happy to see this necklace with turquoise beads on them! This necklace comes in both gold and silver, but I received gold as that is my preferred choice of metal. 
 
 <br>
@@ -143,6 +147,8 @@ The gold disks and layered look are totally my style. Plus this way I just have 
 **Isabella Diamond Simulated Hoop Earrings - 1.62"**, *Value $119*
 
 *Product Dimensions: 1.625"L x 1.625"H x 0.125"W*
+
+<br>
 
 I love love love hoop earrings, it's a must have in my jewelry collection! And a girl can't just have one right, I mean they come in all different styles and sizes ;) So I'm totally happy I received these gorgeous earrings!
 
