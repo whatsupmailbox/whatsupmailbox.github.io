@@ -9,7 +9,7 @@ categories:
 tags: [Cate & Chloe VIP, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "CateAndChloeVIPJune2016Items.jpg"
@@ -169,7 +169,7 @@ Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.co
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Cate & Chloe Items</center></H3>
