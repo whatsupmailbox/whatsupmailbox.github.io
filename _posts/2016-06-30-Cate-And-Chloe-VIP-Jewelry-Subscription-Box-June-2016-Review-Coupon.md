@@ -26,7 +26,7 @@ date: 2016-06-30 13:41:39 -08:00
 
 **What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE signature Cate & Chloe travel make up bag and a $35 coupon off your first box to try [HelloFresh](http://www.hellofresh.com/?c=3E724E)!
 
-**Coupon:** Use coupon code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=) to get 20% off the Cate & Chloe Starter Package! That brings down the cost to $15.99/month!
+**Coupon:** For a limited time, get your first The Starter Package for $15.99 (20% off) with coupon code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=)!
 
 <br>
 
