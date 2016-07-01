@@ -15,14 +15,14 @@ imagefeature: "PopsugarMar2016Items.jpg"
 date: 2016-3-21 08:31:39 -08:00
 ---
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have</a></p>
+<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have</a></p>
 <p><b>Cost:</b> $39.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> You'll receive lifestyle items that are curated by Popsugar Editor in Chief, Lisa Sugar and her team, ranging from makeup, jewelry, fitness, food, home and more!</p>
-<p><b>Coupon:</b> Use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
+<p><b>Coupon:</b> Use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><b>MUSTHAVE5</b></a> to get $5 off your first box!</p>
 
 <br>
 
@@ -30,7 +30,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="First look at unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
@@ -40,14 +40,14 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
 <figcaption>The Info Card</figcaption>
 <br>
 
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016Theme.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar March 2016 Theme" />
 </a></center>
 
@@ -55,7 +55,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
 <p>Inside the info sheet lists all the items that's in the box as well as their values.</p>
@@ -63,7 +63,7 @@ date: 2016-3-21 08:31:39 -08:00
 <br>
 
 # And here are the Popsugar March 2016 items:
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Box March 2016 Items!" />
 </a></center>
 
@@ -71,7 +71,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 ## Items in detail:
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -88,7 +88,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -100,7 +100,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016NanetteNanetteLeporeClassicRoseGoldWatch3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -108,7 +108,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016MissIvyPearlFiveTasselNecklace.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -125,7 +125,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016MissIvyPearlFiveTasselNecklace2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -133,7 +133,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016PixiByPetraBookOfBeauty.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -148,7 +148,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016PixiByPetraBookOfBeauty2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -156,7 +156,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016HelloExtraWhiteningFluorideToothpaste.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -175,7 +175,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016GovinoGoEverywhereCarafeWaterGlassSet.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -196,13 +196,13 @@ date: 2016-3-21 08:31:39 -08:00
 
 <p>Here's how it looks from their website:</p>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016GovinoGoEverywhereCarafeWaterGlassSet2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016GoodieGirlCookiesToffeeChaos.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -215,7 +215,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMar2016LolaGiftCard.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -232,7 +232,7 @@ date: 2016-3-21 08:31:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I liked everything in this box except the necklace which is still fine since I can gift that. The total value came up to $151.44, almost quadruple the cost. I think this box had a spring theme to it based on the items and colors, spring spring here we come! My favorites from this box has got to be the watch, which made a great addition to my watch collection, and also the toothpaste which is now the only toothpaste I will ever use. Another good box from Popsugar, yay!</p>
 
-<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription and don't forget to use coupon code <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
+<p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription and don't forget to use coupon code <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">MUSTHAVE5</a> to get $5 off your first box!</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
 
