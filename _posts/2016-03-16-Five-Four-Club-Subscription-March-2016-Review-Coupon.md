@@ -14,20 +14,20 @@ tags: [Five Four Club, Subscriptions, Reviews, March 2016]
 date: 2016-3-16 09:33:19 -08:00
 ---
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club!" />
 </a></center>
-<p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
+<p><b>Subscription:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p>
+<p><b>Coupon:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p>
 <br>
 
-<p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
+<p><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
 
 <br>
 
-<p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<p><center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club March 2016" />
 </a></center></p>
 <figcaption>First look at unpacking</figcaption>
@@ -46,7 +46,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club March 2016 Items" />
 </a></center>
 
@@ -56,7 +56,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016BogartBlackJacket.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
@@ -64,11 +64,11 @@ date: 2016-3-16 09:33:19 -08:00
 <DT>Bogart Jacket in Black</DT>
 </DL>
 
-<p>I always love it when <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> sends me jackets. My husband tends to buy a lot of shirts but not enough jackets. And the style on this jacket is totally cool. Very rocker, biker cool. All it needs is a pair of jeans, any t-shirt and aviator glasses to complete this look. That's totally how my husband would wear this ;)</p>
+<p>I always love it when <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a> sends me jackets. My husband tends to buy a lot of shirts but not enough jackets. And the style on this jacket is totally cool. Very rocker, biker cool. All it needs is a pair of jeans, any t-shirt and aviator glasses to complete this look. That's totally how my husband would wear this ;)</p>
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016BogartBlackJacket3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
@@ -76,7 +76,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016BogartBlackJacket2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
@@ -88,7 +88,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016BogartBlackJacket4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Bogart Jacket in Black" />
 </a></center>
 
@@ -98,7 +98,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 
 </a></center>
@@ -110,7 +110,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
 
@@ -118,7 +118,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
 
@@ -130,7 +130,7 @@ date: 2016-3-16 09:33:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubMar2016GableTaupeShirt4.jpeg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Gable Taupe Shirt" />
 </a></center>
 
@@ -138,4 +138,4 @@ date: 2016-3-16 09:33:19 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So happy with this month's items, totally my husband's style and fashion forward indeed. My husband would have picked these items himself if he went out shopping so that's a definite good sign. And on top of that, this month's collection are part of an exclusive collaboration with Robert Geller, a men's high fashion designer with modern style. T-Shirts from his own brand alone costs upwards of $100! So at $60, these 2 items more than make up the cost. I love it when Five Four Club does collaborations and hope many more are to come this year!</p>
 
-<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p> 
+<p>If you haven't subscribed yet, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items!</p> 
