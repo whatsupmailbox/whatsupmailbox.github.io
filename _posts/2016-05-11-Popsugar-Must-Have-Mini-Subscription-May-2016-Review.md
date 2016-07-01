@@ -16,11 +16,11 @@ imagefeature: "PopsugarMiniMay2016Items.jpg"
 date: 2016-5-11 09:21:00 -08:00
 ---
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniMay2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Mini!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a></p>
+<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Mini</a></p>
 <p><b>Cost:</b> $18.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> In the Popsugar Must Have MINI Box you will receive 2 full-size items worth over $30. Please note that the products in the Must Have MINI Box will be different from the products offered in the regular Popsugar Must Have Box.</p>
 <br>
@@ -29,14 +29,14 @@ date: 2016-5-11 09:21:00 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniMay2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniMay2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
 <figcaption>Info Card</figcaption>
@@ -45,7 +45,7 @@ date: 2016-5-11 09:21:00 -08:00
 
 <H2>And here are the items for Popsugar Must Have Mini May 2016:</H2>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniMay2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Mini May 2016 Items" />
 </a></center>
 
@@ -75,7 +75,7 @@ date: 2016-5-11 09:21:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I loved that they included a water bottle this month, and the moisturizer will definitely be put to use. I'm still kind of hoping for something better from this box, so I'll keep subscribing for a couple of months longer since they did just launch last month so perhaps they're still figuring things out and getting customer feedback for future shipments. I think more accessories would be appreciated or even some makeup tools, but that's just my wishful thinking. What would you like to see in your Popsugar Must Have Mini Box?</p>
 
-<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
+<p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
 
 <br>
 
