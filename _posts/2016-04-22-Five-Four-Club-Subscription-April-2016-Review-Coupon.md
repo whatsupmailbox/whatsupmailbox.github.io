@@ -14,28 +14,28 @@ tags: [Five Four Club, Subscriptions, Reviews, April 2016]
 date: 2016-4-22 13:31:19 -08:00
 ---
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club!" />
 </a></center>
-<p><b>Subscription:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a></p>
+<p><b>Subscription:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a></p>
 <p><b>Cost:</b> $60/monthly + Free Shipping (taxes apply to CA)</p>
 <p><b>What you get:</b> Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.</p>
-<p><b>Coupon:</b> <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items! OR for a limited time, get FREE Wayfarer Sunglasses with coupon code <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">SPRINGSHADES<a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">.</p>
+<p><b>Coupon:</b> <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 fashion items! OR for a limited time, get FREE Wayfarer Sunglasses with coupon code <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">SPRINGSHADES<a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">.</p>
 
 <br>
 
-<p><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
+<p><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a> is a great subscription for men who don't have time to shop or need the extra fashion help to bump up their style. I find their products to be of high quality and their style on trend. My husband loves them!</p>
 
 <br>
 
-<p><center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<p><center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club April 2016" />
 </a></center></p>
 <figcaption>First look at unpacking</figcaption>
 
 <br>
 
-<p>When you subscribe to <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">Five Four Club</a>, you take a profile survey to input your size and style preferences. My husband selected "Fashion Forward" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.</p>
+<p>When you subscribe to <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">Five Four Club</a>, you take a profile survey to input your size and style preferences. My husband selected "Fashion Forward" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.</p>
 
 <br>
 
@@ -43,7 +43,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club April 2016 Items" />
 </a></center>
 
@@ -53,7 +53,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016HinokiWhiteSweater.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Hinoki White Sweater" />
 </a></center>
 
@@ -67,7 +67,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016HinokiWhiteSweater2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Hinoki White Sweater" />
 </a></center>
 
@@ -75,7 +75,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016TyronBlueSlimJeans.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Tyron Blue Slim Jeans" />
 </a></center>
 
@@ -89,7 +89,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016TyronBlueSlimJeans2.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Tyron Blue Slim Jeans" />
 </a></center>
 
@@ -97,7 +97,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016TyronBlueSlimJeans3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Tyron Blue Slim Jeans" />
 </a></center>>
 
@@ -109,7 +109,7 @@ date: 2016-4-22 13:31:19 -08:00
 
 <br>
 
-<center><a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">
+<center><a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">
 <img src="/images/FiveFourClubApr2016HinokiWhiteSweater3.jpg" border="0" style="border:none;max-width:100%;" alt="Five Four Club Hinoki Sweater & Tyron Jeans" />
 </a></center>
 
@@ -117,4 +117,4 @@ date: 2016-4-22 13:31:19 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Can't complain about the items this month, especially with the jeans! California may be hot and sunny, but it can still get quite cool during the night so a lightweight sweater is a must have. So both items are totally appropriate for my husband, both in style and in comfort. And they both match perfectly when worn together. I can't say enough good things about this subscription, it's definitely a must have if you're either too busy to shop for clothing or need to step up your style. Definitely worth the price in my opinion, plus their customer service is stellar!</p>
 
-<p>If you haven't subscribed yet, you can <a href="https://www.fivefourclub.com/getstarted?referrer=RE731318" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 clothing items!</p> 
+<p>If you haven't subscribed yet, you can <a href="http://fivefourclub.7eer.net/c/164125/122548/2570" target="_blank">get $25 off your first package through this link</a>. That brings the cost down to $35 for 2-3 clothing items!</p> 
