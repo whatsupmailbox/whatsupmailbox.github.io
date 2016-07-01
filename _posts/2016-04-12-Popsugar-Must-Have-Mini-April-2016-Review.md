@@ -16,27 +16,27 @@ imagefeature: "PopsugarMiniApr2016Items.jpg"
 date: 2016-4-12 13:21:00 -08:00
 ---
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniApr2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Mini!" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a></p>
+<p><b>Subscription:</b> <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Mini</a></p>
 <p><b>Cost:</b> $18.95/monthly + Free Shipping (additional taxes apply to CA)</p>
 <p><b>What's in the box:</b> In the Must Have MINI Box you will receive 2 full-size items worth over $30. Please note that the products in the Must Have MINI Box will be different from the products offered in the Must Have Box.</p>
 <br>
 
-<p>This is the very first box of <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">Popsugar Must Have Mini</a> and I was so excited to finally unbox this! It's also the first box since Popsugar redesigned their boxes and I must say, I love how simple, clean and modern it looks. Love the new box design!</p>
+<p>This is the very first box of <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">Popsugar Must Have Mini</a> and I was so excited to finally unbox this! It's also the first box since Popsugar redesigned their boxes and I must say, I love how simple, clean and modern it looks. Love the new box design!</p>
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniApr2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Unboxing" />
 </a></center>
 <figcaption>First look at unboxing</figcaption>
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniApr2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card" />
 </a></center>
 <figcaption>Info Card</figcaption>
@@ -45,7 +45,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <H2>And here are the items for Popsugar Must Have Mini April 2016:</H2>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniApr2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="Popsugar Must Have Mini April 2016 Items" />
 </a></center>
 
@@ -53,7 +53,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <H2>Items in detail:</H2>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank">
 <img src="/images/PopsugarMiniApr2016GreenmarketPurveyingCoWhiteMelonPantryCandle.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
@@ -66,7 +66,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706"" target="_blank">
 <img src="/images/PopsugarMiniApr2016GreenmarketPurveyingCoWhiteMelonPantryCandle2.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
@@ -76,7 +76,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706"" target="_blank">
 <img src="/images/PopsugarMiniApr2016FarmacyLipBloom.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
@@ -91,7 +91,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706"" target="_blank">
 <img src="/images/PopsugarMiniApr2016FarmacyLipBloom2.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
@@ -99,7 +99,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <br>
 
-<center><a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank">
+<center><a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706"" target="_blank">
 <img src="/images/PopsugarMiniApr2016FarmacyLipBloom3.jpg" border="0" style="border:none;max-width:100%;"/>
 </a></center>
 
@@ -109,7 +109,7 @@ date: 2016-4-12 13:21:00 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> First off, I'm happy that Popsugar came out with a mini version that's completely different from their bigger box. The price point is affordable plus it promises to have a value of over $30. With that said, I did expect something more from their first launch box, like a grand opening, people expect to be wowed. I do love the product and will definitely be using them, and it would have been great if this came out as their 2nd box or 3rd, just not as their first ever box. Or am I asking too much? I did notice a farm fresh theme in the products and thought that was cute. Again, I'm totally happy with the items and both are definitely worth the price, just thought they could have done better for a launch box.</p>
 
-<p>Not a subscriber? You can <a href="https://musthave.popsugar.com/p/monthly-subscription?utm_source=link&utm_medium=confirmation-page&utm_campaign=referral&utm_content=u:16301514" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
+<p>Not a subscriber? You can <a href="http://popsugar-must-have.evyy.net/c/164125/137737/2706" target="_blank"><big>subscribe here</big></a> to start your subscription!</p>
 
 <p>And don't forget to use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 3% cashback on any purchase at Popsugar, I always use them and get money back!</p>
 
