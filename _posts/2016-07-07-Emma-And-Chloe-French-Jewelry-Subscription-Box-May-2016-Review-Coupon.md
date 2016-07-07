@@ -154,7 +154,7 @@ With every box, Emma & Chloe also includes a postcard with the front picture bei
 
 <figure class="half">
       <img src='/images/Emma-Chloe-May-2016-Postcard.jpg' alt="Emma & Chloe Postcard" />
-      <img src='/images/Emma-Chloe-May-2016-Postcard2.jpg' alt="Emma & Chloe Postcard" />
+      <img src='/images/Emma-Chloe-May-2016-Postcard-02.jpg' alt="Emma & Chloe Postcard" />
 </figure>
 
 <br>
