@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -8,7 +8,7 @@ title: Emma & Chloe May 2016 Review!
 featured: false
 comments: true
 type: photo
-imagefeature: EmmaAndChloeMay2016Item.jpg
+imagefeature: Emma-Chloe-May-2016-Item.jpg
 headline: Emma & Chloe May 2016 Review!
 tags: [Emma & Chloe, Subscriptions, Reviews, May 2016]
 date: 2016-7-07 08:33:19 -08:00
