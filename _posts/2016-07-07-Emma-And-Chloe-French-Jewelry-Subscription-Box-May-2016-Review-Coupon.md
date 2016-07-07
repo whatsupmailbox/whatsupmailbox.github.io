@@ -152,11 +152,10 @@ Here's a look at how a model wore it from the info magazine:
 
 With every box, Emma & Chloe also includes a postcard with the front picture being a model wearing the jewelry item of the month.
 
-[![Emma & Chloe May 2016 Postcard](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Postcard.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
-
-<br>
-
-[![Emma & Chloe May 2016 Postcard](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Postcard-02.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+<figure class="half">
+      <img src='/images/Emma-Chloe-May-2016-Postcard.jpg' alt="Emma & Chloe Postcard" />
+      <img src='/images/Emma-Chloe-May-2016-Postcard2.jpg' alt="Emma & Chloe Postcard" />
+</figure>
 
 <br>
 
