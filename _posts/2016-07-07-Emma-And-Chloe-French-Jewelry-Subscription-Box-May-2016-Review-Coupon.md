@@ -90,7 +90,7 @@ It wouldn't be a french box if it didn't dedicate a section towards a beautiful 
 
 [![Emma & Chloe Jewelry Pouch](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Jewelry-Pouch.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-[Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"} sends their monthly jewelry pieces in these black drawstring pouches. Because what good are your jewelry if its not kept properly right? I'm not sure if they're anti tarnish, but they are super handy for when you need to travel and separate your jewels from scratching each other.
+[Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"} sends their monthly jewelry pieces in these black drawstring pouches. Because what good are your jewelry if it's not kept properly right? I'm not sure if they're anti tarnish, but they are super handy for when you need to travel and separate your jewels from scratching each other.
 
 <br>
 
