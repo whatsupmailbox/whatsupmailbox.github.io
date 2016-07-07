@@ -30,7 +30,7 @@ If you're interested in subscribing, go to their website [www.ouipleasebox.com](
 
 <br>
 
-<center><H4>What's OuiPlease?</H4></center>
+<H4>What's OuiPlease?</H4>
 
 <br>
 
