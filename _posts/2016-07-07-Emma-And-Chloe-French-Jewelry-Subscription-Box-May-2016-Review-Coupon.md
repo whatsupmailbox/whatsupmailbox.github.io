@@ -159,6 +159,6 @@ With every box, Emma & Chloe also includes a postcard with the front picture bei
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVE this subscription! I could never have been exposed to such talented jewelry designers and French brands without it, and the item itself is of quality and worth way more than the $35 cost! I can't rave enough about it. Emma & Chloe has continuously exceeded my expectations and I find myself longing to see what next month brings! Stay tuned gals!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVE this subscription! It's fast becoming one of my favorites and definitely a must have for a jewelry addict and French addict like myself! I could never have been exposed to such talented jewelry designers and French brands without it, and the items that they send have always been of quality and worth way more than the $35 cost! I can't rave enough about it. Emma & Chloe has continuously exceeded my expectations and I find myself longing to see what next month brings! Stay tuned gals!
 
 Interested in subscribing? Visit their [website](http://www.emma-chloe.com/us/){:target="_blank"} to subscribe and start receiving French jewelry in your mailbox! And don't forget to use code **WHATSUPBOX50** to get 50% off or $17.50 for your first box!
