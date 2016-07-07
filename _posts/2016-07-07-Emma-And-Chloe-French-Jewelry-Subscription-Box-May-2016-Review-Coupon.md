@@ -32,6 +32,8 @@ date: 2016-7-07 08:33:19 -08:00
 
 When you first subscribe, you'll be prompted to answer a couple of questions regarding your jewelry preferences.
 
+<br>
+
 [![Emma & Chloe Jewelry Preferences](http://whatsupmailbox.com/images/Emma-Chloe-Jewelry-Preferences.png)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 And as a bonus for being a subscriber, you'll also receive 20% discount on anything in their online shop!
@@ -59,6 +61,8 @@ First look at unboxing shows their jewelry pouch as well as their info magazine,
 <br>
 
 Here are some pages from the info magazine:
+
+<br>
 
 [![Emma & Chloe Info Magazine](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Info-Magazine.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
@@ -108,6 +112,8 @@ The cuff itself is plated in 16k gold and embellished with a row of ever so gorg
 
 Details of the bracelet in the info magazine:
 
+<br>
+
 [![Emma & Chloe May 2016 Info Magazine](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Info-Magazine-04.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 As you can see, the cuff comes in either silver or gold. I received gold because that was my preference of metals.
@@ -116,11 +122,11 @@ As you can see, the cuff comes in either silver or gold. I received gold because
 
 Here's a closer look at the lapis stones on the cuff:
 
+<br>
+
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-02.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 I love how raw the design is and yet it's still classy and chic. The blue color is so intense and deep, it looks great in contrast with the gold. I also love that this cuff is adjustable, great news for my super petite hands!
-
-<br>
 
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-03.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
@@ -136,6 +142,8 @@ They also include a "Certificate of Authenticity" with every jewelry item, so yo
 
 Here's a look at the bracelet on me:
 
+<br>
+
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-04.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 I wanted the blue to stand out so I wore it with a bright pink summer dress and I loved the look! This gorgeous lapis bracelet has surely honored its presence into my jewelry collection!
@@ -143,6 +151,8 @@ I wanted the blue to stand out so I wore it with a bright pink summer dress and 
 <br>
 
 Here's a look at how a model wore it from the info magazine:
+
+<br>
 
 [![Emma & Chloe May 2016 Info Magazine](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Info-Magazine-03.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
