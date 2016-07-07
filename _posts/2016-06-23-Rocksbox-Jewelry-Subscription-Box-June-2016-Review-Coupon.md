@@ -1,22 +1,20 @@
 ---
 layout: post
-title: "Rocksbox June 2016 Review + Free Box Coupon!"
-description: ""
-headline: "Rocksbox June 2016 Review + Free Box Coupon!"
-categories: 
-      - Subscriptions
-      - Reviews
-tags: [Rocksbox, Subscriptions, Reviews, June 2016]
-comments: true
-mathjax: null
 published: true
+categories: 
+    - Subscriptions
+    - Reviews
+title: Emma & Chloe February 2016 Review!
 featured: false
+comments: true
 type: photo
-imagefeature: "RocksboxJune2016Items.jpg"
-date: 2016-06-23 11:41:39 -08:00
+imagefeature: Emma&ChloeFeb2016SchadeJewelleryRing2.jpg
+headline: Emma & Chloe February 2016 Review!
+tags: [Emma & Chloe, Subscriptions, Reviews, February 2016]
+date: 2016-3-18 08:33:19 -08:00
 ---
 
-[![Rocksbox June 2016 Box](http://whatsupmailbox.com/images/RocksboxJune2016Box.jpg)](http://www.rocksbox.com){:target="_blank"}
+[![Emma & Chloe](http://whatsupmailbox.com/images/EmmaAndChloeMay2016Package.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 **Subscription:** [Rocksbox](http://www.rocksbox.com){:target="_blank"}
 
