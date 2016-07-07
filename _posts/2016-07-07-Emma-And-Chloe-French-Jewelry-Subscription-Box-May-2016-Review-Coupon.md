@@ -14,7 +14,9 @@ tags: [Emma & Chloe, Subscriptions, Reviews, May 2016]
 date: 2016-7-07 08:33:19 -08:00
 ---
 
-[![Emma & Chloe Logo](http://whatsupmailbox.com/images/Emma-Chloe-Logo.png)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><a href="http://www.emma-chloe.com/us/" target="_blank">
+<img src="/images/Emma-Chloe-Logo.png" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Logo" />
+</a></center>
 
 **Subscription:** [Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"}
 
