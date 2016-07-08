@@ -1,40 +1,42 @@
 ---
 layout: post
-title: "My Ipsy June 2016 Items Reveal!"
+title: "My Ipsy July 2016 Glam Bag Reveal!"
 description: ""
-headline: "My Ipsy June 2016 Items Reveal!"
+headline: "My Ipsy July 2016 Glam Bag Reveal!"
 categories: 
       - Subscriptions
-tags: [Ipsy, Subscriptions, June 2016]
+tags: [Ipsy, Subscriptions, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "IpsyJune2016ItemsReveal.jpg"
-date: 2016-06-06 11:11:39 -08:00
+imagefeature: "IpsyJuly2016GlamBagReveal.png"
+date: 2016-07-08 10:35:39 -08:00
 ---
 
-[Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} reveals for June Glam Bags are up!
+[Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} reveals for July Glam Bags are up!
+
+If you're not aware, Ipsy has changed their system and now you don't have to share through social media anymore to see what items you'll be getting in your glam bag every month! Finally! That whole sharing just to reveal my items was getting pretty annoying. So now all you have to do is login to your account and you'll see your items, easy peasy!
 
 Here's what I'll be getting this month:
 
-[![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}
+[![My Ipsy July 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/IpsyJuly2016GlamBagReveal.png)](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}
 
 <ul>
-<li>Ipsy June 2016 Glam Bag</li>
-<li>Elizabeth Mott - Show Me Your Cheeks Blush in Peach Pink</li>
-<li>Royal & Langnickel MODA - Crease/Smudge Brush</li>
-<li>theBalm Cosmetics - Meet Matt(e) Trimony Eyeshadow in Matt Kumar or Matt Moskowitz</li>
-<li>ColourPop Cosmetics - Crème Gel Liner in Get Paid or Swerve</li>
-<li>clariSEA - Deep Pore Detox Activated Charcoal Exfoliating Mask</li>
+<li>Ipsy July 2016 Glam Bag</li>
+<li>Trust Fund Beauty - Nail Polish in No Filter</li>
+<li>J. Cat Beauty - Perfect Duo Brow Pencil in Dark Brown</li>
+<li>Mellow Cosmetics - Baked Eyeshadow in Coco or Plum</li>
+<li>Eva NYC - Get Glossed! Hair Serum</li>
+<li>MAKE UP FOR EVER - Excessive Lash Mascara</li>
 </ul>
 
 <br>
 
-I'm quite pleased with my items and can't wait to get them on hand soon!
+I'm super happy that I'll be getting a Trust Fund Beauty nail polish, yay! The other items look great as well and so far it seems like they are all items that I can use, double yay!
 
-Are you going to peak into your [Glam Bag](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}?
+Are you going to see your [Glam Bag](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"} reveal?
 
 <br>
 
