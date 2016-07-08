@@ -19,7 +19,11 @@ date: 2016-07-08 10:35:39 -08:00
 
 If you're not aware, Ipsy has changed their system and now you don't have to share through social media anymore to see what items you'll be getting in your glam bag every month! Finally! That whole sharing just to reveal my items was getting pretty annoying. So now all you have to do is login to your account and you'll see your items, easy peasy!
 
+<br>
+
 Here's what I'll be getting this month:
+
+<br>
 
 [![My Ipsy July 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/IpsyJuly2016GlamBagReveal.png)](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}
 
