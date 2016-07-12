@@ -20,7 +20,7 @@ date: 2016-07-12 12:29:39 -08:00
 
 **Subscription:** [Panduh Box](http://www.panduhbox.com){:target="_blank"}
 
-**Cost:** $29.95/monthly (cheaper options for longer terms) + Free Shipping to the US. International shipping available, fee varies with address.
+**Cost:** $29.95/monthly (cheaper options for longer terms) + Free Shipping to the U.S.; International shipping available, fee varies with address.
 
 **What's in the box:** The Panduh Box is a surprise monthly subscription box that is perfect for the planner addict or stationery enthusiast! Expect to receive washi tapes, stickers, pens, sticky notes and other planner goodies! Each box will come with 6 to 10 exclusive items. FYI, Panduh boxes are shipped out from the 15th - 18th of every month!
 
