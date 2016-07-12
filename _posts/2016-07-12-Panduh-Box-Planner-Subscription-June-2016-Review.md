@@ -48,7 +48,7 @@ The front side of the note features a bright yellow pineapple with the title of 
 
 ![Panduh Box June 2016 Info Card](http://whatsupmailbox.com/images/PanduhBoxJune2016Info2.jpg)
 
-A note from the owner/curator Maricris Emma describing her theme this month and what went behind her curation. Every month also comes with a special discount code to shop in the [Paper Panduh shop](http://www.paperpanduh.com){:target="_blank"}.
+A note from the owner/curator Maricris Emma describing the theme this month and what went behind her curation. Every month also comes with a special discount code to shop in the [Paper Panduh shop](http://www.paperpanduh.com){:target="_blank"}.
 
 <br>
 
