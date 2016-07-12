@@ -9,7 +9,7 @@ categories:
 tags: [Panduh Box, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "PanduhBoxJune2016Items.jpg"
@@ -76,7 +76,7 @@ So many pretty die cuts as well as a couple of note cards. Loving all the pastel
 
 **Pink with gold foil Washi Tapes** (2 rolls)
 
-How pretty are these washi tapes! Pink and gold are one of my favorite combos so needless to say, these will go everywhere in my planner. I love washi tapes, they are so multifunctional and it doesn't hurt that they look pretty no matter where you put them! Another plus is that these washi tapes can just be ripped off thanks to its paper material, so no need to have a scissor on hand.
+How pretty are these washi tapes! Pink and gold are one of my favorite combos so needless to say, these will go everywhere in my planner. I love washi tapes, they are so multifunctional and it doesn't hurt that they look pretty no matter where you put them! Another plus is that these washi tapes can just be ripped off thanks to its paper material, so no need to have scissors on hand.
 
 <br>
 
@@ -120,7 +120,7 @@ Now on to the stickers!
 
 ![Panduh Box June 2016 Raspberyl Designs Paper Town Co. Stickers](http://whatsupmailbox.com/images/PanduhBoxJune2016StStickers.jpg)
 
-[Paper Panduh](http://www.paperpanduh.com){:target="_blank"} Sticker (1 sheet)
+[Paper Panduh](http://www.paperpanduh.com){:target="_blank"} Stickers (1 sheet)
 
 <br>
 
