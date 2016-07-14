@@ -115,7 +115,7 @@ This hair serum is lightweight and will add shine, tame frizz and protect your h
 
 [![Make Up Forever Excessive Lash Mascara](http://whatsupmailbox.com/images/IpsyJuly2016MakeUpForeverExcessiveLashMascara.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
 
-*Make Up Forever** Excessive Lash Mascara  
+**Make Up Forever** Excessive Lash Mascara  
 Sample Size 2.5 ml., Value $7.35
 
 <br>
