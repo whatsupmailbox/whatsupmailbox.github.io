@@ -20,7 +20,7 @@ date: 2016-7-14 13:01:39 -08:00
 
 <br>
 
-[Oui Please](http://ouipleasebox.com){:target="_blank"} is having an amazing coupon going on now till Sunday (July 17th), get 30% off any length of subscription!!! This is by far the best coupon they've ever came out with so if you've been secretly wishing to try this luxe French subscription out, now is definitely the best time to do so!
+[Oui Please](http://ouipleasebox.com){:target="_blank"} is having an amazing coupon going on now till Sunday (July 17th). Get 30% off any length of subscription with code <b>BASTILLE</b>!!! This is by far the best coupon they've ever came out with so if you've been secretly wishing to try this luxe French subscription out, now is definitely the best time to do so!
 
 I'm actually almost up for my annual renewal so I used this coupon for another year of amazing French goodies. If you purchase the annual plan (which does not auto-renew), each box will end up costing $75.83 for a box that costs $150 regularly. That my dear, is pretty much 50% off! Ah-mazing.
 
@@ -34,7 +34,7 @@ If you sign up now, your first box will be Vol. 2.3: Summer Escapade and spoiler
 
 Looking at the spoilers, Vol 2.3 is set to be an amazing box, and I can't wait to receive already!
 
-If you're interested in subscribing, go to their website [www.ouipleasebox.com](http://ouipleasebox.com){:target="_blank"} and use code <b>BASTILEE</b> to get 30% off any length of subscription! #noexcuse
+If you're interested in subscribing, go to their website [www.ouipleasebox.com](http://ouipleasebox.com){:target="_blank"} and use code <b>BASTILLE</b> to get 30% off any length of subscription! #noexcuse
 
 <br>
 
