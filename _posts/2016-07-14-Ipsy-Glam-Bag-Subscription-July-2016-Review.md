@@ -9,11 +9,11 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyJuly2016Items.jpg"
-date: 2016-07-14 09:31:39 -08:00
+date: 2016-07-14 08:31:39 -08:00
 ---
 
 [![Ipsy July 2016 Package](http://whatsupmailbox.com/images/IpsyJuly2016Package.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
@@ -120,11 +120,11 @@ Sample Size 2.5 ml., Value $7.35
 
 <br>
 
-I'm always up for trying new mascaras, especially one from Make Up Forever! This mascara promises high volume and buildable intensity in color for that bold lash look. I can't wait to try it!
+I'm always up for trying new mascaras, especially one from Make Up Forever! This mascara promises high volume, and the color intensity is buildable to achieve that bold lash look. I can't wait to try it!
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So if you've read my [Ipsy review from last month](http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Glam-Bag-Subscription-June-2016-Review/){:target="_blank"}, you'd know that I was quite disappointed which prompted me to update my style profile to see if that would help. Well guess what, it did! I finally received items that I will use and am happy to use! The Trust Fund Beauty nail polish definitely made this bag great, but the other items certainly made it better. I received 3 full-sized items, out of 5 that they sent, and the total value came up to $37.94 which is more than  triple the cost. I'm super happy with that as well! This month's bag definitely redeemed Ipsy from my disappointment last month and I am not excited again to see what next month brings!
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So if you've read my [Ipsy review from last month](http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Glam-Bag-Subscription-June-2016-Review/){:target="_blank"}, you'd know that I was quite disappointed which prompted me to update my style profile to see if that would help. Well guess what, it did! I finally received items that I will use and am happy to use! The Trust Fund Beauty nail polish definitely made this bag great, but the other items certainly made it better. I received 3 full-sized items, out of 5 that they sent, and the total value came up to $37.94 which is more than  triple the cost. I'm super happy with that as well! This month's bag definitely redeemed Ipsy from my disappointment last month and I am now excited again to see what next month brings!
 
 If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
 
