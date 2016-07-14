@@ -68,6 +68,8 @@ Every month [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} sends
 **J. Cat Beauty** Duo Brow Pencil in Dark Brown  
 Full Size .25 g., *Value $3.99*
 
+<br>
+
 My brows have to be on point everyday. I'm not really blessed with thick and perfect brows, so a little help is needed and brows definitely shape your face. Although I'm not too excited about the brand, it's more of a drugstore brand, I do like brow pencils especially one that's mechanical and includes a built-in brush, so this will be used and is still appreciated.
 
 <br>
@@ -91,6 +93,8 @@ The color "No Filter" is a deep neutral with greyish-purple undertones. I would 
 Full Size 4.8g, *Value $8*
 
 *Note: Subscribers will receive this eyeshadow in Coco or Plum.*
+
+<br>
 
 The color Coco is a metallic milk chocolate shade. I'm glad I received this color versus the Plum color as I use mostly shades of brown for my everyday neutral eyes look.
 
