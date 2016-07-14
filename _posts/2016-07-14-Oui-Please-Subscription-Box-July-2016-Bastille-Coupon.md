@@ -4,12 +4,12 @@ published: true
 categories: 
     - Subscriptions
     - Coupons
-title: Oui Please 30% Coupon!
+title: Oui Please 30% Off Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: OuiPleaseJuly2016Coupon.png
-headline: Oui Please 30% Coupon!
+headline: Oui Please 30% Off Coupon!
 tags: [Oui Please, Subscriptions, Coupons]
 date: 2016-7-14 13:01:39 -08:00
 ---
