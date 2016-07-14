@@ -49,7 +49,7 @@ The back side of the card has a few announcements of changes to their website.
 <br>
 
 [![Ipsy July 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2016GlamBag.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
-<figcaption>Ipsy June 2016 Glam Bag</figcaption>
+<figcaption>Ipsy July 2016 Glam Bag</figcaption>
 
 <br>
 
