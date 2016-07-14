@@ -130,7 +130,7 @@ If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ip
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Ipsy Glam Bag Items</center></H3>
