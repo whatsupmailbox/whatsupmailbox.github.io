@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Coupons
@@ -51,6 +51,6 @@ If you're interested in subscribing, go to their website [www.ouipleasebox.com](
 <p><b>Subscription:</b> <a href="http://ouipleasebox.com" target="_blank">Oui Please</a></p>
 <p><b>Cost:</b> $150/bimonthly or $650/annually + Free Shipping</p>
 <p><b>What's in the box:</b> Every box has a French regional theme and will feature unique selections of full sized French products based on that theme. This subscription is different in a way where every box is different, so there are multiple variations that subscribers will be receiving. Items included in the past have been beauty, jewelry, accessories, apparel, home and epicure.</p>
-<p><b>Coupon:</b> Use coupon code <b>OUIWHATSUP</b> to get 20% off any subscription!</p>
+<p><b>Coupon:</b> Use coupon code <b>BASTILLE</b> to get 30% off any subscription!</p>
 
 [Checkout my past OuiPlease reviews here](http://whatsupmailbox.com/tags/index.html#Oui%20Please){:target="_blank"}.
