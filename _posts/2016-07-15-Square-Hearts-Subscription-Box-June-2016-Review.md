@@ -9,7 +9,7 @@ categories:
 tags: [Square Hearts, Subscriptions, Reviews, June 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SquareHeartsJune2016Items.jpg"
