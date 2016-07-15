@@ -46,7 +46,13 @@ Once you unpack the tissue paper, you finally see the actual items inside. I won
 
 ![Square Hearts June 2016 Info](http://whatsupmailbox.com/images/SquareHeartsJune2016Info.jpg)
 
-The info card details the items that were included in your box as well as some styling tips.
+The info card details the items that were included in your box.
+
+<br>
+
+![Square Hearts June 2016 Info](http://whatsupmailbox.com/images/SquareHeartsJune2016Info.jpg)
+
+It also shows some styling tips on how to wear your items
 
 <br>
 
@@ -92,6 +98,14 @@ I love rompers so I was quite happy to see this. It did fit me well, not too loo
 
 <br>
 
+![Square Hearts June 2016 Free To Live Panties](http://whatsupmailbox.com/images/SquareHeartsJune2016JeuneColetteGoldBracelet.jpg)
+
+**Jeune Colette** Gold Bracelet
+
+I'm happy that I received a gold jewelry item as that is my preferred metal. The leaf design does fit well with summer style but it still feels kind of cheap to me. I did a bit of research and it seems this brand's price range tends to be in the $10-20 range.
+
+<br>
+
 ![Square Hearts June 2016 Free To Live Panties](http://whatsupmailbox.com/images/SquareHeartsJune2016FreeToLivePanties.jpg)
 
 **Free To Live** Panties, Size Small
@@ -114,12 +128,18 @@ I do love me some leave in hair conditioners so this was happily accepted.
 
 ![Square Hearts June 2016 Nabi Nail Polish](http://whatsupmailbox.com/images/SquareHeartsJune2016NabiNailPolish.jpg)
 
-**Nabi** Nail Polish in
+**Nabi** Nail Polish in Pastel Misty
 
 <br>
 
-Nail polishes are something that I love to collect and this color is great for summer.
+Nail polishes are something that I love to collect and this color looks great on me plus it's appropriate for the summer season so I'm happy with that.
+
+<H4>Free Gift With Subscription</H4>
+
+![Square Hearts June 2016 Nabi Nail Polish](http://whatsupmailbox.com/images/SquareHeartsJune2016FreeGift.jpg)
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** So this was my first Square Hearts box and honestly, it will be my last. I am not impressed by the quality of the items especially for a $49.99 box. When compared to other subscription boxes at that price point, you receive much more value and products that come from a well known brand. The idea is great, a curation of clothing, accessories and beauty products, but sadly they send out items that are cheap and of low quality. Maybe it's just me and maybe I'm just too spoiled with what other subscription boxes send out, but hey, if I'm paying the same and get better products elsewhere, I'm going elsewhere. But that's just me.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** So this was my first Square Hearts box and honestly, it will be my last. I am not impressed by the quality of the items especially for a $49.99 box. When compared to other subscription boxes at that price point, you receive much more value and products that come from a well known brand. The idea is great - a curation of clothing, accessories and beauty products, but sadly they send out items that are cheap and of low quality. Maybe it's just me and maybe I'm just too spoiled with what other subscription boxes send out, but hey, if I'm paying the same and get better products elsewhere, I'm going elsewhere. But that's just me.
+
+I didn't do a price breakdown for this review because most of the brands are those that do not have a website of their own or can only be bought through wholesale. But if you want to know more about this subscription and what they tend to send out, go to their website [www.squarehearts.com](https://www.squarehearts.com){:target="_blank"} to get more info. I'd also suggest doing a search of their past reviews as well.
