@@ -50,7 +50,7 @@ The info card details the items that were included in your box.
 
 <br>
 
-![Square Hearts June 2016 Info](http://whatsupmailbox.com/images/SquareHeartsJune2016Info.jpg)
+![Square Hearts June 2016 Info](http://whatsupmailbox.com/images/SquareHeartsJune2016Info2.jpg)
 
 It also shows some styling tips on how to wear your items
 
