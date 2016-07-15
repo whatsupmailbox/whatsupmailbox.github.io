@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "SquareHeartsJune2016Items.jpg"
-date: 2016-07-13 12:19:39 -08:00
+date: 2016-07-15 11:39:39 -08:00
 ---
 
 ![Square Hearts June 2016 Box](http://whatsupmailbox.com/images/SquareHeartsJune2016Box.jpg)
@@ -138,8 +138,12 @@ Nail polishes are something that I love to collect and this color looks great on
 
 ![Square Hearts June 2016 Nabi Nail Polish](http://whatsupmailbox.com/images/SquareHeartsJune2016FreeGift.jpg)
 
+They had a promo last month where if you subscribed you'll receive a free set of beauty and skincare products. It includes a Your Minerals setting powder and eyeshadow powder, a Gorge leave-in hair conditioner, and a Hello Legs shaving lotion.
+
+I love the Gorge leave-in conditioner, that alone is worth $25. And the Hello Legs lotion is a favorite too that I've received in a [FabFitFun](http://xo.fff.me/dlGvR){:target="_blank"} box and that's valued at $20.
+
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** So this was my first Square Hearts box and honestly, it will be my last. I am not impressed by the quality of the items especially for a $49.99 box. When compared to other subscription boxes at that price point, you receive much more value and products that come from a well known brand. The idea is great - a curation of clothing, accessories and beauty products, but sadly they send out items that are cheap and of low quality. Maybe it's just me and maybe I'm just too spoiled with what other subscription boxes send out, but hey, if I'm paying the same and get better products elsewhere, I'm going elsewhere. But that's just me.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** So this was my first Square Hearts box and honestly, it will be my last. I am not impressed by the quality of the items especially for a $49.99 box. When compared to other subscription boxes at that price point, you receive much more value and products that come from a well known brand. The idea is great - a curation of clothing, accessories and beauty products, but sadly they send out items that are cheap and of low quality. Maybe it's just me and maybe I'm just too spoiled with what other subscription boxes send out, but hey, if I'm paying the same and get better products elsewhere, I'm going elsewhere. But that's just me. With that said, because I received a free gift with beauty and skincare products, that made this box worth the cost. So in the end I am happy with what I received, but will not continue to subscribe.
 
 I didn't do a price breakdown for this review because most of the brands are those that do not have a website of their own or can only be bought through wholesale. But if you want to know more about this subscription and what they tend to send out, go to their website [www.squarehearts.com](https://www.squarehearts.com){:target="_blank"} to get more info. I'd also suggest doing a search of their past reviews as well.
