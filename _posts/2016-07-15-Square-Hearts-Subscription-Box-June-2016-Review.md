@@ -94,7 +94,7 @@ The hand strap was included for you to attach to the wallet. Although I may have
 
 <br>
 
-I love rompers so I was quite happy to see this. It did fit me well, not too loose or tight, but again the quality is just not as I would like it to be. You could compare this to something you would get at Charlotte Ruse. Oh well, at least it fits and I will be wearing this at some point.
+I love rompers so I was quite happy to see this. It did fit me well, not too loose or tight, but again the quality is just not as I would like it to be. You could compare this to something you would get at Charlotte Russe. Oh well, at least it fits and I will be wearing this at some point.
 
 <br>
 
