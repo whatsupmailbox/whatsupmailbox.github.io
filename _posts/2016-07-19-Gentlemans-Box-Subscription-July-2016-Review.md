@@ -34,7 +34,7 @@ date: 2016-07-19 09:31:39 -08:00
 
 <br>
 
-<H4>This month's box title is “Our Favorite Fashion Mogul” Box</H4>
+<H4>This month's box title is “Our Favorite Fashion Mogul” Box.</H4>
 
 <br>
 
