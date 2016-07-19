@@ -187,7 +187,7 @@ Not a subscriber? You can <a href="http://mbsy.co/d7GnS"><big>join here</big></a
       <TD>$25</TD>
    </TR>
   <TR>
-      <TD>William & Sterling Socks</TD>
+      <TD>William & Sterling No Show Socks</TD>
       <TD>$10</TD>
    </TR>
    <TR>
