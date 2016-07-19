@@ -16,11 +16,11 @@ imagefeature: "GentlemansBoxJuly2016Items.jpg"
 date: 2016-07-19 09:31:39 -08:00
 ---
 
-<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-![Gentleman's Box June 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)
+[![Gentleman's Box June 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-**Subscription:** [Gentleman's Box](https://gentlemansbox.com"){:target="_blank"}
+**Subscription:** [Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"}
 
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
@@ -39,13 +39,13 @@ Men's subscription boxes are quite few to find so I love it when I get the oppor
 <br>
 
 
-![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox.jpg)
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox.jpg)](http://mbsy.co/d7GnS)
 
 I love the uplifting words that are printed on the inside cover, Look Good - Feel Good - Be Good!
 
 <br>
 
-![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox2.jpg)
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox2.jpg)](http://mbsy.co/d7GnS)
 
 <figcaption>First look at unboxing</figcaption>
 
@@ -57,11 +57,11 @@ This month includes a couple of boxed items, interesting, can't wait to see what
 
 <p><b>Info Magazine:</b></p>
 
-![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info.jpg)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info.jpg)](http://mbsy.co/d7GnS)
 
 <br>
 
-![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info2.jpg)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info2.jpg)](http://mbsy.co/d7GnS)
 
 <center>*Table of Contents*</center>
 
@@ -69,21 +69,23 @@ The info magazine that they include with every box are so very useful. It detail
 
 <br>
 
-![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)](http://mbsy.co/d7GnS)
 
 They also include a section on how to wear all the items in the box all together for a super dapper look!
 
 <br>
 
 <H4>And here are all the items:</H4>
-![Gentleman's Box July 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Items.jpg)
+
+[![Gentleman's Box July 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Items.jpg)](http://mbsy.co/d7GnS)
 
 I'm loving the colors this month brings, bright red with vintage browns.
 
 <br>
 
 <H4>Items in detail:</H4>
-![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet.jpg)
+
+[![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet.jpg)](http://mbsy.co/d7GnS)
 
 **Kiko** Brown Leather Wallet, *Value $45*
 
@@ -99,9 +101,9 @@ The inside has 4 card slots and a long section to keep your cash organized. An a
 
 <br>
 
-![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn.jpg)
+[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn.jpg)](http://mbsy.co/d7GnS)
 
-**Gentlemen Essentials** Leather Shoe Horn, *Value $*
+**Gentlemen Essentials** Leather Shoe Horn, *Value $25*
 
 <br>
 
@@ -109,16 +111,16 @@ Leather shoe horns are a luxury to have. It beats plastic cheap looking ones tha
 
 <br>
 
-![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn2.jpg)
+[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn2.jpg)](http://mbsy.co/d7GnS)
 
 I like that it comes with a strap, so you can hang it somewhere so it's easy to find versus rummaging through a drawer to find it.
 
 <br>
 
 
-![William Sterling Premium No Show Socks](http://whatsupmailbox.com/images/GentlemansBoxJuly2016WilliamSterlingNoShowSocks.jpg)
+[![William Sterling Premium No Show Socks](http://whatsupmailbox.com/images/GentlemansBoxJuly2016WilliamSterlingNoShowSocks.jpg)](http://mbsy.co/d7GnS)
 
-**William Sterling** Premium No Show Socks, *Value $*
+**William Sterling** Premium No Show Socks, *Value $10*
 
 <br>
 
@@ -126,9 +128,9 @@ No show socks are a must during the hot summer season. The colors on this one is
 
 <br>
 
-![Nikolas Ryan Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJuly2016NikolasRyanPocketSquare.jpg)
+[![Nikolas Ryan Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJuly2016NikolasRyanPocketSquare.jpg)](http://mbsy.co/d7GnS)
 
-**Nikolas Ryan** Pocket Square, *Value $*
+**Nikolas Ryan** Pocket Square, *Value $15*
 
 <br>
 
@@ -136,25 +138,25 @@ I am loving this pocket square. Both the design and color is so popping bright t
 
 <br>
 
-![Balla Body Powder](http://whatsupmailbox.com/images/GentlemansBoxJuly2016BallaBodyPowder.jpg)
+[![Balla Body Powder](http://whatsupmailbox.com/images/GentlemansBoxJuly2016BallaBodyPowder.jpg)](http://mbsy.co/d7GnS)
 
-**Balla** Body Powder, *Value $*
+**Balla** Body Powder, *Value $6*
 
 I've received this before in another subscription box so I know that this is a good product.
 
 <br>
 
-![Balla Body Powder](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Coupons.jpg)
+[![Gentleman's Box July 2016 Coupons](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Coupons.jpg)](http://mbsy.co/d7GnS)
 
 **Various Coupons**
 
-A few coupons were also included in this month's box.
+A few coupons were also included in this month's box which includes an exclusive coupon for **Debonaire Scent** First Month Free! Debonaire Scent is a monthly cologne discovery box. Every month you'll receive three different colognes that's matched to your scent profile from hundreds of designer and niche brands for only $15/month. So this coupon alone is worth $15! I'm totally going to try them out!
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** Super loving this month's items! I feel like I've been receiving way too many ties lately so I appreciate that this month they decided to send a couple of accessory items instead, the leather shoe horn and wallet.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** Super loving this month's items! I feel like I've been receiving way too many ties lately so I appreciate that this month they decided to send a couple of accessory items instead, the leather shoe horn and wallet. And on top of that I'm introduced to a new subscription by way of a coupon for my first month free, so excited about that as well. I love trying out new subs! [Gentleman's Box](http://mbsy.co/d7GnS){:target="_blank"} continues to send out a great box month after month.
 
-Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</big></a> to start receiving their monthly accessories and lifestyle products for men!
+Not a subscriber? You can <a href="http://mbsy.co/d7GnS"><big>join here</big></a> to start receiving their monthly accessory and lifestyle products for men!
 
 <br>
 
@@ -167,24 +169,24 @@ Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</bi
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Something Strong Tie</TD>
-      <TD>$30</TD>
+      <TD>Kiko Leather Wallet</TD>
+      <TD>$45</TD>
    </TR>
    <TR>
-      <TD>Sock Fancy Socks</TD>
-      <TD>$12</TD>
+      <TD>Gentlemen Essentials Leather Shoe Horn</TD>
+      <TD>$25</TD>
    </TR>
   <TR>
-      <TD>Harry's Razor</TD>
-      <TD>$18</TD>
+      <TD>William & Sterling Socks</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
-      <TD>Woodchuck USA Tie Clip</TD>
-      <TD>$30</TD>
+      <TD>Nikolas Ryan Pocket Square</TD>
+      <TD>$15</TD>
    </TR>
    <TR>
-      <TD>LA Fresh Sunscreen Wipes</TD>
-      <TD>$bonus</TD>
+      <TD>Balla Body Powder</TD>
+      <TD>$6</TD>
    </TR>
    <TR>
       <TD>GQ Magazine</TD>
@@ -192,7 +194,7 @@ Not a subscriber? You can <a href="https://gentlemansbox.com"><big>join here</bi
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$96</big></b></TD>
+      <TD><b><big>$107</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
