@@ -75,7 +75,7 @@ The info magazine that they include with every box are so very useful. It detail
 
 [![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)](http://mbsy.co/d7GnS)
 
-They also include a section on how to wear all the items in the box all together for a super dapper look!
+They also include a section on how to wear all the items in the box together for a super dapper look!
 
 <br>
 
