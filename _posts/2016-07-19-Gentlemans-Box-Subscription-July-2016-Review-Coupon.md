@@ -79,6 +79,12 @@ They also include a section on how to wear all the items in the box together for
 
 <br>
 
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)](http://mbsy.co/d7GnS)
+
+A recipe for Spiked Arnold Palmer! This drink is great for brunch and is simple to make too, I will be trying this recipe soon!
+
+<br>
+
 <H4>And here are all the items:</H4>
 
 [![Gentleman's Box July 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Items.jpg)](http://mbsy.co/d7GnS)
