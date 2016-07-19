@@ -160,7 +160,7 @@ I've received this before in another subscription box so I know that this is a g
 
 **Various Coupons**
 
-A few coupons were also included in this month's box which includes an exclusive coupon for **Debonaire Scent** First Month Free! Debonaire Scent is a monthly cologne discovery box. Every month you'll receive three different colognes that's matched to your scent profile from hundreds of designer and niche brands for only $15/month. So this coupon alone is worth $15! I'm totally going to try them out!
+A few coupons were also included in this month's box which includes an exclusive coupon for **Debonair Scent** First Month Free! [Debonair Scent](https://www.debonairscent.com){:target="_blank"} is a monthly cologne discovery box. Every month you'll receive three different colognes that's matched to your scent profile from hundreds of designer and niche brands for only $15/month. So this coupon alone is worth $15! I'm totally going to try them out!
 
 <br>
 
