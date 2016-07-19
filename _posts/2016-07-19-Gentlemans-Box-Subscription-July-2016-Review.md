@@ -51,7 +51,7 @@ I love the uplifting words that are printed on the inside cover, Look Good - Fee
 
 <br>
 
-This month includes a couple of boxed items, interesting, can't wait to see what they are!
+This month includes a couple of boxed items. Interesting... can't wait to see what they are!
 
 <br>
 
