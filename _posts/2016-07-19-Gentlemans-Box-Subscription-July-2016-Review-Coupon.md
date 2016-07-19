@@ -123,7 +123,7 @@ Leather shoe horns are a luxury to have. It beats plastic cheap looking ones tha
 
 [![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn2.jpg)](http://mbsy.co/d7GnS)
 
-I like that it comes with a strap, so you can hang it somewhere so it's easy to find versus rummaging through a drawer to find it.
+I like that it comes with a strap so you can hang it somewhere that's easy to find versus rummaging through a drawer to find it.
 
 <br>
 
