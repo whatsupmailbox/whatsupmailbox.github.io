@@ -30,6 +30,10 @@ date: 2016-07-19 09:31:39 -08:00
 
 <br>
 
+[Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
+
+<br>
+
 <H4>This month's box title is “Our Favorite Fashion Mogul” Box</H4>
 
 <br>
