@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Gentleman's Box July 2016 Review!"
+title: "Gentleman's Box July 2016 Review + Coupon!"
 description: ""
-headline: "Gentleman's Box July 2016 Review!"
+headline: "Gentleman's Box July 2016 Review + Coupon!"
 categories: 
       - Subscriptions
       - Reviews
 tags: [Gentleman's Box, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJuly2016Items.jpg"
@@ -25,6 +25,8 @@ date: 2016-07-19 09:31:39 -08:00
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
 **What's in the box:** Four to six hand-selected products for men, accompanied by the latest issue of GQ Magazine (U.S. and Canada only).
+
+**Coupon:** Use code SAVE5 to get $5 off your first box.
 
 *Note: The GQ magazine that's included with the subscription used to be shipped together in the box, but now it comes separately in the mail.*
 
