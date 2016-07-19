@@ -152,7 +152,7 @@ I am loving this pocket square. Both the design and color is so popping bright t
 
 **Balla** Body Powder, *Value $6*
 
-I've received this before in another subscription box so I know that this is a good product.
+I've received this before in another subscription box so I know that this is a good product. It's a talc powder that will leave your manly parts fresh, clean and dry.
 
 <br>
 
