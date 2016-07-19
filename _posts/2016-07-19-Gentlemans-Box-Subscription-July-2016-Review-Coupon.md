@@ -65,7 +65,9 @@ This month includes a couple of boxed items. Interesting... can't wait to see wh
 
 [![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info2.jpg)](http://mbsy.co/d7GnS)
 
-<center>*Table of Contents*</center>
+<figcaption>Table of Contents</figcaption>
+
+<br>
 
 The info magazine that they include with every box are so very useful. It details each item in the box as well as the brand/creator behind it.
 
