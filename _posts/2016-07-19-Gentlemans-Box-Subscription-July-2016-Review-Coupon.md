@@ -166,7 +166,7 @@ A few coupons were also included in this month's box which includes an exclusive
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** Super loving this month's items! I feel like I've been receiving way too many ties lately so I appreciate that this month they decided to send a couple of accessory items instead, the leather shoe horn and wallet. And on top of that I'm introduced to a new subscription by way of a coupon for my first month free, so excited about that as well. I love trying out new subs! [Gentleman's Box](http://mbsy.co/d7GnS){:target="_blank"} continues to send out a great box month after month.
 
-Not a subscriber? You can <a href="http://mbsy.co/d7GnS"><big>join here</big></a> to start receiving their monthly accessory and lifestyle products for men!
+Not a subscriber? You can <a href="http://mbsy.co/d7GnS"><big>join here</big></a> to start receiving their monthly accessory and lifestyle products for men! And don't forget to use coupon [SAVE5](http://mbsy.co/d7GnS){:target="_blank") to get $5 off your first box!
 
 <br>
 
