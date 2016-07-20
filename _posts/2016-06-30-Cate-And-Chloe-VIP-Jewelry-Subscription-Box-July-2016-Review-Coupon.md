@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Cate & Chloe VIP Box June 2016 Review + Coupon!"
+title: "Cate & Chloe VIP Box July 2016 Review + Coupon!"
 description: ""
-headline: "Cate & Chloe VIP Box June 2016 Review + Coupon!"
+headline: "Cate & Chloe VIP Box July 2016 Review + Coupon!"
 categories: 
       - Subscriptions
       - Reviews
-tags: [Cate & Chloe VIP, Subscriptions, Reviews, June 2016]
+tags: [Cate & Chloe VIP, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
 published: true
@@ -18,7 +18,7 @@ date: 2016-06-30 13:41:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Cate & Chloe June 2016 Box](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Box.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe July 2016 Box](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Box.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 **Subscription:** [Cate & Chloe VIP Program](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
@@ -70,23 +70,23 @@ Under the tissue paper, a welcome card appears! Hello VIP indeed!
 
 The Welcome Card:
 
-[![Cate & Chloe VIP June 2016 Info Card](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP July 2016 Info Card](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Info.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 <br>
 
-[![Cate & Chloe VIP June 2016 Info Card](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Info2.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP July 2016 Info Card](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Info2.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 On the back of the card you'll find details of the jewelry you received. I can't wait to see them!
 
 <br>
 
-[![Cate & Chloe VIP June 2016 Makeup Bag](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016MakeupBag.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP July 2016 Makeup Bag](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016MakeupBag.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 All packages come with a special signature Cate & Chloe travel make up bag, and this month's bag comes with a motivational "good vibes" statement. Its simple design and pink font fits right into my style.
 
 <br>
 
-[![Cate & Chloe VIP June 2016 Jewelry Box](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016JewelryBox.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP July 2016 Jewelry Box](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016JewelryBox.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 Cate & Chloe sends their jewelry items in these cute boxes (or in jewelry bags if the item doesn't fit). It definitely makes a difference to find your jewelry packaged in cute and functional boxes versus a cheap and regular plastic packaging. So I commend them for that!
 
@@ -94,7 +94,7 @@ Cate & Chloe sends their jewelry items in these cute boxes (or in jewelry bags i
 
 <H4>And here are my items for this month:</H4>
 
-[![Cate & Chloe VIP June 2016 Items](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Items.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP July 2016 Items](http://whatsupmailbox.com/images/CateAndChloeVIPJune2016Items.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 <br>
 
