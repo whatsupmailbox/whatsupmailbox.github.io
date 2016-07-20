@@ -185,6 +185,6 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
-      <TD><i><big>$25</big></i></TD>
+      <TD><i><big>$28</big></i></TD>
    </TR>
 </TABLE>
