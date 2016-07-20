@@ -9,11 +9,11 @@ categories:
 tags: [Sprezza Box, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SprezzaBoxJuly2016Items.jpg"
-date: 2016-07-20 09:21:39 -08:00
+date: 2016-07-20 08:21:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
@@ -159,7 +159,7 @@ A bonus coupon card is included this month to try out the [Hooch App](3500 Lenox
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** The curation this month was on point yet again. The floral patterned tie was uber trendy, the bracelet was minimalistic cool, the notebook and the pen made a great combo to include, just everything in the box was curated to work well into your everyday life and compliment your style. It's always a treat to open up this box and they never disappoint!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** The curation this month was on point yet again. The floral patterned tie was uber trendy, the bracelet was minimalistic cool, the notebook and the pen made a great combo, just everything in the box was curated to work well into your everyday life and compliment your style. It's always a treat to open up this box and they never disappoint!
 
 Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b8) to start receiving their monthly dapper accessories. And don't forget to use coupon code **WHATSUPMAILBOX** for 10% off your first box!
 
