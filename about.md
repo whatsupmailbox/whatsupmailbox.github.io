@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-<center><img src="/images/Loretta_Jie_WUM_About_Me.JPG" alt="What's Up Mailbox - Loretta Jie" width="500" /></center>
+<center><img src="/images/Loretta_Jie_WUM_About_Me.JPG" alt="What's Up Mailbox - Loretta Jie" width="300" /></center>
 
 <br>
 
