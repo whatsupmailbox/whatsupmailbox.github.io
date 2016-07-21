@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-<center><img src="/images/Loretta_Jie_WUM_About_Me.JPG" alt="What's Up Mailbox - Loretta Jie" /></center>
+<center><img src="/images/Loretta_Jie_WUM_About_Me.JPG" alt="What's Up Mailbox - Loretta Jie" style="border:none;max-width:50%;/></center>
 
 I'm just a gal in sunny Los Angeles, California who loves to shop for new and amazing products. But I'm not above deals either, I mean who doesn't like to save money when shopping! And what better way to do it than online with my (juicy) sweats on, yeah! Then last year I was introduced to the world of subscription boxes and bamm, I was hooked. So now I subscribe to more boxes than I need to. And because of that, I created Whats Up Mailbox to share my <strike>addiction</strike> love for subscription boxes and online shopping. 
 
