@@ -150,7 +150,7 @@ I like how delicate the strands are and yet the size of the pendant is substanti
 
 <br>
 
-**Bonus Item:**
+<H4>Bonus Item:</H4>
 
 [![Cate & Chloe VIP August 2016 Bonus Item](http://whatsupmailbox.com/images/CateChloeVIPAug2016VioletLoveHeadband.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
