@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "CateChloeVIPAug2016Items.jpg"
-date: 2016-07-20 13:41:39 -08:00
+date: 2016-07-21 08:41:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
@@ -24,7 +24,7 @@ date: 2016-07-20 13:41:39 -08:00
 
 **Cost:** $19.99/month - The Starter Package (1 Piece of Jewelry), $29.99 - Double the Fun (2 pieces of jewelry), $39.99 - Full VIP Status (3 pieces of jewelry) + Free Shipping.
 
-**What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
+**What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE gift item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
 
 **Coupon:** For a limited time, get your first The Starter Package for $15.99 (20% off) with coupon code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=)!
 
@@ -32,23 +32,7 @@ date: 2016-07-20 13:41:39 -08:00
 
 This is the second time I get to review this subscription box and knowing what I got last month ([you can read that review here](http://whatsupmailbox.com/subscriptions/reviews/Cate-And-Chloe-VIP-Jewelry-Subscription-Box-July-2016-Review-Coupon/){:target="_blank"}) which was great, I'm excited to see what this month brings!
 
-<br>
-
-When you first sign up, you're invited to complete their Style Quiz so they get a better sense of your jewelry preferences and style.
-
-First you state your metal preference and the types of jewelry you wear most often:
-
-[![Cate & Chloe VIP Style Quiz](http://whatsupmailbox.com/images/CateAndChloeStyleQuiz.png)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
-
-<br>
-
-Then you pick out the styles of jewelry that you love from a variety of choices:
-
-[![Cate & Chloe VIP Style Quiz](http://whatsupmailbox.com/images/CateAndChloeStyleQuiz2.png)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
-
-This style question goes on to necklaces and earrings as well. I found this to be really helpful and promising to know that they try their best to send out jewelry items that match your style.
-
-Now let's start unboxing!
+When you first sign up, you're invited to complete their Style Quiz so they get a better sense of your jewelry preferences and style. You can [read more about it in my previous review](http://whatsupmailbox.com/subscriptions/reviews/Cate-And-Chloe-VIP-Jewelry-Subscription-Box-July-2016-Review-Coupon/){:target="_blank"}.
 
 <br>
 
@@ -120,8 +104,6 @@ I can totally wear this for both work days and casual weekends. The length is pe
 
 **Ashlyn "Nature" Pearl Leaf Earrings**, *Value $79*
 
-*Size: Shorter chain = 17", Longer chain = 18" with 3" extender*
-
 <br>
 
 The matching earrings are exactly like the pendant on the necklace. I'm thinking of tropical vibes now and it would be perfect to wear for an island getaway.
@@ -140,7 +122,7 @@ And here they are on me:
 
 [![Cate & Chloe Ashlyn Nature Pearl Leaf Earrings](http://whatsupmailbox.com/images/CateChloeVIPAug2016AshlynNaturePearlLeafEarrings3.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-The size of these earrings are just right.
+The size of these earrings are just right and the pearl adds a touch of class and texture to the style. It's also very lightweight so for those of you who don't like to wear heavy earrings, rejoice!
 
 <br>
 
@@ -168,13 +150,29 @@ I like how delicate the strands are and yet the size of the pendant is substanti
 
 <br>
 
+**Bonus Item:**
+
 [![Cate & Chloe VIP August 2016 Bonus Item](http://whatsupmailbox.com/images/CateChloeVIPAug2016VioletLoveHeadband.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-All packages come with a special signature Cate & Chloe travel make up bag, and this month's bag comes with a motivational "good vibes" statement. Its simple design and pink font fits right into my style.
+**Violet Love** Headband in LENA print. *Value $19*
+
+*Note: Subscribers received various prints.*
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** My first experience with Cate & Chloe VIP was pretty awesome. I loved the different styles of jewelry I received and really appreciated that they were packaged in jewelry boxes and bags. And on top of that I also received a cool makeup bag. I definitely felt that all the items in total were worth way way more than the $39.99 cost. Everything was quality and on trend! If you're a jewelry addict (such as myself), then try their subscription and see how quickly you're jewelry collection will grow! Time to dazzle ladies!
+This month's bonus item is a headband by [Violet Love](http://violetloveheadbands.com){:target="_blank"}. I really like the pattern I got, and it's actually from their Black Label line which means it's "slightly thicker and more absorbant fabric with a tighter stretch than our Signature line."
+
+<br>
+
+[![Cate & Chloe VIP August 2016 Bonus Item](http://whatsupmailbox.com/images/CateChloeVIPAug2016VioletLoveHeadband2.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+
+It came packaged with their info and it states that this headband is soft, ultra comfortable, won't give you headaches, and won't slip either.
+
+I actually hate wearing headbands because it does give me headaches most of the time so I'm definitely going to test this headband out and see if it delivers what it promises. If it does, I'll be using the 50% coupon to buy some more!
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I think I love this set more than what I received last month! It's always fun to try new jewelry styles and I certainly don't have one with leaf pendants so this was such a treat! Plus all 3 items matched and look well paired together. The bonus headband was also a great new brand discovery, I never knew a headband could be so buttery soft. This subscription is definitely one to try if you're a jewelry lover like myself, and you definitely get more than what you pay for.
 
 Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=) to join their VIP subscription boxes for as low as $15.99 a month (20% discount) with code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=)!
 
@@ -201,8 +199,12 @@ Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.co
       <TD>$79</TD>
    </TR>
    <TR>
+      <TD>Violet Love Headband</TD>
+      <TD>$19</TD>
+   </TR>
+   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$247</big></b></TD>
+      <TD><b><big>$266</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
