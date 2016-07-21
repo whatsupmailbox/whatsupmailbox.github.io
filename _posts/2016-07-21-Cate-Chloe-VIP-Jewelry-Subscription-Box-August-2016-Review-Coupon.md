@@ -166,7 +166,7 @@ This month's bonus item is a headband by [Violet Love](http://violetloveheadband
 
 [![Cate & Chloe VIP August 2016 Bonus Item](http://whatsupmailbox.com/images/CateChloeVIPAug2016VioletLoveHeadband2.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-It came packaged with their info and it states that this headband is soft, ultra comfortable, won't give you headaches, and won't slip either.
+It came packaged with their info and it states that this headband is soft, ultra comfortable, won't give you headaches, and won't slip either. And it's also Made in LA!
 
 I actually hate wearing headbands because it does give me headaches most of the time so I'm definitely going to test this headband out and see if it delivers what it promises. If it does, I'll be using the 50% coupon to buy some more!
 
