@@ -64,7 +64,7 @@ The back of the info sheet has some interesting booze facts. I always wanted to 
 
 <br>
 
-<H4>And here are the items inside the box:</H4>
+<H4>And here are the items inside the "Island" box:</H4>
 
 [![Bespoke Post Island Box Items](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016Items.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
 
