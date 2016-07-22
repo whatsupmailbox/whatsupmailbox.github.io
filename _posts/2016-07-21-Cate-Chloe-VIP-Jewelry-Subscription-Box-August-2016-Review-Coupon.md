@@ -172,7 +172,7 @@ I actually hate wearing headbands because it does give me headaches most of the 
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I think I love this set more than what I received last month! It's always fun to try new jewelry styles and I certainly don't have one with leaf pendants so this was such a treat! Plus all 3 items matched and look well paired together. The bonus headband was also a great new brand discovery, I never knew a headband could be so buttery soft. This subscription is definitely one to try if you're a jewelry lover like myself, and you definitely get more than what you pay for.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I think I love this set more than what I received last month! It's always fun to try new jewelry styles and I certainly don't have one with leaf pendants so this was such a treat! Plus all 3 items matched and look well paired together. The bonus headband was also a great new brand discovery, I never knew a headband could be so buttery soft. This subscription is definitely one to try if you're a jewelry lover like myself, and you definitely get more than what you pay for!
 
 Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 50% off any subscription with code [WUMBAUG50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends August 10th!
 
