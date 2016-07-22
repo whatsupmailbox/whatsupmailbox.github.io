@@ -17,7 +17,7 @@ date: 2016-07-22 08:21:39 -08:00
 ---
 
 <center><a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">
-<img src="/images/BespokePostIslandBoxJuly2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Bespoke Post Island Box" width="300" />
+<img src="/images/BespokePostIslandBoxJuly2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Bespoke Post Island Box" width="400" />
 </a></center>
 
 **Subscription:** [Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
