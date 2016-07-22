@@ -106,7 +106,9 @@ Their Pineapple logo is also imprinted at the bottom of the tumbler. I love that
 
 <br>
 
-[![Liber & Co. Tropical Passion Fruit Syrup](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016LiberCoTropicalPassionFruitSyrup.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
+<center><a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">
+<img src="/images/BespokePostIslandBoxJuly2016LiberCoTropicalPassionFruitSyrup.jpg" border="0" style="border:none;max-width:100%;" alt="Liber & Co. Tropical Passion Fruit Syrup" width="500" />
+</a></center>
 
 **Liber & Co.** Tropical Passion Fruit Syrup, 8.5 fl oz. *Value $10*
 
