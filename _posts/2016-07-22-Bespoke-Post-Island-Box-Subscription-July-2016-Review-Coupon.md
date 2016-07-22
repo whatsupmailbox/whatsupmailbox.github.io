@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "BespokePostIslandBoxJuly2016Items.jpg"
-date: 2016-07-22 09:21:39 -08:00
+date: 2016-07-22 08:21:39 -08:00
 ---
 
 [![Bespoke Post Island Box](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016Box.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
@@ -28,13 +28,13 @@ date: 2016-07-22 09:21:39 -08:00
 
 <br>
 
-Bespoke Post is one of those subscription boxes that feels like a great gift box to me. I mostly gift it to myself, but it's also a great gift to give to someone else as well. The curation is themed and the products are always high quality and worth way more than what you pay for.
+[Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} is one of those subscription boxes that feels like a great curated gift box to me. I mostly gift it to myself (guilty), but it's also a great gift to give to someone else as well. And since they come up with so many different themes, there's always something for everyone. Plus you get way more than what you pay for.
 
 <br>
 
 [![First unboxing look](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016OpenBox.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
 
-First look at unboxing shows their info card describing the items inside.
+First look at unboxing shows their info sheet describing the items inside.
 
 <br>
 
@@ -72,7 +72,7 @@ OMG, I am just speechless! I'm loving everything I see and can't wait to use the
 
 **Pineapple Co.** Pineapple Tumblers, Set of 2, 12 oz. *Value $70 ($35/each)*
 
-I've seen these tumblers before (last year I think) and I thought to myself, I gotta have one of those! I mean look at them, they're so gorgeous and you can use the bottom of the pineapple as a stand. So cool! But as usual, it got put away in the back of my to do list and I forgot about them. Now that Pineapples are so in this summer, plus I saw that [Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} had a box with them this month, it was a done deal. I clicked and I bought.
+I've seen these tumblers before (last year I think) and I thought to myself, I gotta have one of those! I mean look at them, they're so gorgeous and you can use the bottom of the pineapple as a stand. So cool! But as usual, it got put away in the back of my to do list and I forgot about purchasing them. Now that Pineapples are so in this summer, plus I saw that [Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} had a box that included these this month, it was a done deal. I clicked and I bought.
 
 <br>
 
@@ -96,7 +96,7 @@ The drinking vessel itself is just the right size for you to hold, not too big o
 
 [![Pineapple Co. Pineapple Tumblers](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016PineappleCoPineappleTumbler4.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
 
-Their Pineapple logo is also imprinted at the bottom of the tumbler. I love that it's just their logo with no wordings on it. So simple, so pretty, aaahhh, it's just so darn pretty! I love these and I can't wait to show them off in my next party!
+Their Pineapple logo is also imprinted at the bottom of the tumbler. I love that it's just their logo with no wordings on it. So simple, so pretty, aaahhh, it's just so darn gorgeous! I love these and I can't wait to show them off in my next party!
 
 <br>
 
@@ -110,7 +110,7 @@ Being born and raised in a tropical place, passion fruit has always been one of 
 
 [![Bespoke Post Custom Tropical Coasters](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016CustomTropicalCoasters.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
 
-**Bespoke Post** Custom Tropical Coasters, Set of 2. *Value $5?*
+**Bespoke Post** Custom Tropical Coasters, Set of 2.
 
 Of course they had to include a set of coasters, it just wouldn't be right if they didn't. It's the perfect addition and the perfect design too!
 
@@ -140,11 +140,11 @@ Not a subscriber? You can [join here](http://bespoke.evyy.net/c/164125/70438/180
    </TR>
    <TR>
       <TD>Bespoke Post Custom Tropical Coasters</TD>
-      <TD>$5?</TD>
+      <TD>bonus</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$85</big></b></TD>
+      <TD><b><big>$80</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
