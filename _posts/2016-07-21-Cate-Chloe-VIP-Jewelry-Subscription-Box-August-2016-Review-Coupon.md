@@ -26,7 +26,7 @@ date: 2016-07-21 08:41:39 -08:00
 
 **What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE gift item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
 
-**Coupon:** For a limited time, get your first The Starter Package for $15.99 (20% off) with coupon code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=)!
+**Coupon:** Get 50% off on any subscription with coupon code [WUMBAUG50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends August 10th!
 
 <br>
 
@@ -174,7 +174,7 @@ I actually hate wearing headbands because it does give me headaches most of the 
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** I think I love this set more than what I received last month! It's always fun to try new jewelry styles and I certainly don't have one with leaf pendants so this was such a treat! Plus all 3 items matched and look well paired together. The bonus headband was also a great new brand discovery, I never knew a headband could be so buttery soft. This subscription is definitely one to try if you're a jewelry lover like myself, and you definitely get more than what you pay for.
 
-Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=) to join their VIP subscription boxes for as low as $15.99 a month (20% discount) with code [WHATSUPBOXVIP20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=)!
+Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 50% off any subscription with code [WUMBAUG50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends August 10th!
 
 <br>
 
