@@ -22,15 +22,19 @@ date: 2016-07-22 08:21:39 -08:00
 
 **Subscription:** [Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
 
-**Cost:** $45/month + Free Shipping.
+**Cost:** $45/month + Free Shipping. Note: You are only charged if you choose a box, you can opt-out or skip anytime.
 
 **What's in the box:** Choose from one of their themed curated boxes that includes fashion items, homeware, accessories, tools and more. They release new boxes every month and you can skip anytime as well.
 
-**Coupon:** Use coupon code **BOX20** to get 20% off your first box!
+**Coupon:** Use coupon code **JOIN20** to get 20% off your first box!
 
 <br>
 
-[Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} is one of those subscription boxes that feels like a great curated gift box to me. I mostly gift it to myself (guilty), but it's also a great gift to give to someone else as well. And since they come up with so many different themes, there's always something for everyone. Plus you get way more than what you pay for.
+[Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} is a subscription box that offers various curated and themed boxes. It's one of those subscription boxes that feels like a great gift box to me. I mostly gift it to myself (guilty), but it also makes for a perfect gift box to give to someone else as well. And since they come up with so many different types of style, there's always something for everyone. Plus you get way more than what you pay for.
+
+They typically come out with around 4 new boxes every month that's appropriate to the season and trend. Upon subscribing you'll be asked a few questions on your lifestyle and preferences, and they select a box for you based on that. If you don't like the box chosen, you can swap that out with another box, or opt-out entirely if you're not feeling any of the boxes. Easy peasy!
+
+Now let's get to unboxing!
 
 <br>
 
@@ -126,7 +130,7 @@ Of course they had to include a set of coasters, it just wouldn't be right if th
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** This has got to be one of my favorite boxes from them! I absolutely LOVED everything! The pineapple tumblers are the hero items of course, but the inclusion of the passion fruit syrup and the tropical coasters just made it even more perfect. Plus it's such a good deal, the tumblers themselves are sold for $35 each, and you get 2 with this box so it's an amazing deal. It's almost like a buy one get one free if you count the syrup price into it. I am just super happy that they curated this box, thank you [Bespoke Post](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}, you definitely made my summer boozy with happiness!
 
-Not a subscriber? You can [join here](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} to start receiving their awesome curated boxes. And don't forget to use coupon code **BOX20** to get 20% off your first box!
+Not a subscriber? You can [join here](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"} to start receiving their awesome curated boxes. And don't forget to use coupon code **JOIN20** to get 20% off your first box!
 
 <br>
 
