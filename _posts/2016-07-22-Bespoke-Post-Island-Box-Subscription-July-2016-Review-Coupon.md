@@ -48,13 +48,17 @@ The items inside are packaged neatly and safely with bubble wrap on the ones tha
 
 **The Info Sheet:**
 
-[![Bespoke Post Island Box Info Card](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016Info.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
+<center><a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">
+<img src="/images/BespokePostIslandBoxJuly2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Bespoke Post Info Sheet" width="300" />
+</a></center>
 
 Their info sheet is more like a guidebook on how to use all the items in your box. It's always fun and helpful reading it.
 
 <br>
 
-[![Bespoke Post Island Box Info Card](http://whatsupmailbox.com/images/BespokePostIslandBoxJuly2016Info2.jpg)](http://bespoke.evyy.net/c/164125/70438/1804){:target="_blank"}
+<center><a href="http://bespoke.evyy.net/c/164125/70438/1804" target="_blank">
+<img src="/images/BespokePostIslandBoxJuly2016Info2.jpg" border="0" style="border:none;max-width:100%;" alt="Bespoke Post Info Sheet" width="300" />
+</a></center>
 
 The back of the info sheet has some interesting booze facts. I always wanted to know what the difference is between white and dark rum. I must be a newbie.
 
