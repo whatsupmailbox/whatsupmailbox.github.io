@@ -17,7 +17,7 @@ date: 2016-7-26 08:05:39 -08:00
 ---
 
 <center><a href="http://www.luxorbox.com/#!become-a-member/cjg9" target="_blank">
-<img src="/images/LuxorBoxSpecialEditionSummerFunJuly2016OpenBox.jpg" border="0" style="border:none;max-width:100%;" alt="Luxor Box" />
+<img src="/images/LuxorBox.jpeg" border="0" style="border:none;max-width:100%;" alt="Luxor Box" />
 </a></center>
 
 **Box:** [Luxor Box](http://www.luxorbox.com/#!become-a-member/cjg9){:target="_blank"} Special Edition Summer Fun Box
