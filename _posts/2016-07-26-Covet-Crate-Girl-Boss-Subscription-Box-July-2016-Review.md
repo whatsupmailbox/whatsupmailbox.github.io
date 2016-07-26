@@ -158,7 +158,7 @@ Subscribers received various colors for this headband and the color I got is a l
 
 <br>
 
-![Pitaya Plus Coupon Card](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard.jpg)
+<center><img src="/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard.jpg" border="0" style="border:none;max-width:100%;" alt="Pitaya Plus Coupon Card" width="400" /></center>
 
 **Pitaya Plus** Coupon Card, 15% Discount.
 
@@ -166,7 +166,7 @@ Pitaya is also known as Dragon Fruit which is a fruit rich in antioxidants, vita
 
 <br>
 
-![Pitaya Plus Coupon Card](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard2.jpg)
+<center><img src="/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard2.jpg" border="0" style="border:none;max-width:100%;" alt="Pitaya Plus Coupon Card" width="400" /></center>
 
 You need to scratch off the box to get your code so I'm guessing it'll be unique codes.
 
