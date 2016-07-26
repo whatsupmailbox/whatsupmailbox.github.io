@@ -118,7 +118,7 @@ The pages are lined in pink and above every page is a floral stamp. A great note
 
 **Rifle Paper Co.** Pink Floral Weekly Desk Planner. *Value $12*
 
-Although I personally use a daily planner, this weekly desktop planner that can be utilized as a mouse pad is certainly too pretty and cute to pass up. I will totally use this and since it's not dated, you can use it on any week!
+Although I personally use a daily planner, this weekly desktop planner (that can be utilized as a mouse pad as well) is certainly too pretty and cute to pass up. I will totally use this and since it's not dated, you can use it on any week!
 
 <br>
 
