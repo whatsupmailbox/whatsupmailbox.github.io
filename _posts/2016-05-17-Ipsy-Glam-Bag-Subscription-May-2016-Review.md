@@ -14,11 +14,11 @@ tags: [Ipsy, Subscriptions, Reviews, May 2016]
 date: 2016-5-17 08:31:39 -08:00
 ---
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy Glam Bag Packaging" />
 </a></center>
 
-<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a></p>
+<p><b>Subscription:</b> <a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">Ipsy</a></p>
 <p><b>Cost:</b> $10/monthly + Free Shipping</p>
 <p><b>What's in the box:</b> You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a beauty profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.</p>
 
@@ -32,14 +32,14 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016OpenPackage.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy May 2016 Glam Bag!" />
 </a></center>
 <figcaption>Ipsy May 2016 Glam Bag</figcaption>
 
 <br>
 
-<p>Every month <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design has a travel theme and includes icons of landmarks around the world.</p>
+<p>Every month <a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">Ipsy</a> sends their items in makeup bags with an exclusive design. This month's design has a travel theme and includes icons of landmarks around the world.</p>
 
 <br>
 
@@ -47,7 +47,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016Bag.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy May 2016 Glam Bag!" />
 </a></center>
 
@@ -55,7 +55,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <p>Every bag also includes a card with the theme of this month's glam bag. And since this month's theme is Destination Chic, they've put a postcard with a greetings message for all ipsters to fill out and mail back.<p>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy May 2016 Theme" />
 </a></center>
 
@@ -63,7 +63,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <H4> And here are my Ipsy May 2016 items:</H4>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016Items.jpg" border="0" style="border:none;max-width:100%;" alt="My Ipsy May 2016 Glam Bag Items!" />
 </a></center>
 
@@ -71,13 +71,13 @@ date: 2016-5-17 08:31:39 -08:00
 
 <H4> Items in Detail:</H4>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016PacificaNaturalMineralCoconutEyeShadowTrio.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016PacificaNaturalMineralCoconutEyeShadowTrio2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -88,7 +88,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016PacificaNaturalMineralCoconutEyeShadowTrio3.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -98,7 +98,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016SmashboxXRatedMascara.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -113,7 +113,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016TheOrganicPharmacyAntioxidantLipBalm.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -126,7 +126,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016EtatLibreDOrangeRemarkablePeopleFragrance.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -157,7 +157,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <br>
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyMay2016HikariCosmeticsShimmerBronzer2.jpg" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
@@ -167,7 +167,7 @@ date: 2016-5-17 08:31:39 -08:00
 
 <p><i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I've had quite good luck in my Ipsy bags lately but this month was a bit disappointing. I think I'll only be using 2 out of the 5 items, and although the value of those 2 items alone go past the cost of this subscription, it's still kind of a bummer. But oh well, at least I got double my money's worth which is not bad at all. I'm thinking I need to update my beauty profile to see if that will help for next month's glam bag, hopefully that will do the trick. Fingers crossed.</p>
 
-<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! Or go to their website <a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">www.ipsy.com</a> for more info.</p>
+<p>If you haven't joined yet, you can <a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank"><big>subscribe to Ipsy here</big></a> and start receiving their monthly bags filled with beauties! Or go to their website <a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">www.ipsy.com</a> for more info.</p>
 
 <br>
 
