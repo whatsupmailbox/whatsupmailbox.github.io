@@ -15,11 +15,11 @@ imagefeature: "IpsyJune2016ItemsReveal.jpg"
 date: 2016-06-06 11:11:39 -08:00
 ---
 
-[Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} reveals for June Glam Bags are up!
+[Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} reveals for June Glam Bags are up!
 
 Here's what I'll be getting this month:
 
-[![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}
+[![My Ipsy June 2016 Items Reveal](http://whatsupmailbox.com/images/IpsyJune2016ItemsReveal.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 <ul>
 <li>Ipsy June 2016 Glam Bag</li>
@@ -34,15 +34,15 @@ Here's what I'll be getting this month:
 
 I'm quite pleased with my items and can't wait to get them on hand soon!
 
-Are you going to peak into your [Glam Bag](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}?
+Are you going to peak into your [Glam Bag](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}?
 
 <br>
 
 # What's Ipsy?
 
-[![Ipsy Glam Bag Subscription](http://whatsupmailbox.com/images/IpsyLogo.jpg)](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}
+[![Ipsy Glam Bag Subscription](http://whatsupmailbox.com/images/IpsyLogo.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
-**Subscription:** [Ipsy](https://www.ipsy.com/new?refer=uns8d target="_blank"){:target="_blank"}, a monthly beauty subscription created by Michelle Phan, a YouTube beauty guru.
+**Subscription:** [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}, a monthly beauty subscription created by Michelle Phan, a YouTube beauty guru.
 
 **Cost:** $10/monthly + Free Shipping.
 
