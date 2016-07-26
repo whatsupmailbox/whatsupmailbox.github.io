@@ -30,7 +30,7 @@ I've only subscribed to them recently and this will be my second box that I've r
 
 <br>
 
-**This review is for the "Girl Boss" box.
+**This review is for the "Girl Boss" box.**
 
 <br>
 
