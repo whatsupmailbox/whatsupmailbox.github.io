@@ -102,7 +102,15 @@ The back has a loop for a belt which I thought was pretty cool.
 
 ![1951 Maison Francaise Besace Bag Camel](http://whatsupmailbox.com/images/LuxorBoxSpecialEditionSummerFunJuly20161951MaisonFrancaiseBesaceBagCamel3.jpg)
 
-Behind the 1951 branding inside is actually a pocket to store some cards or small items. You also see their signature polka dot lining. The inside is actually quite roomy and is enough to fit my iPhone 6 (It would fit the iPhone 6+ as well) and my compact powder, a card holder and various small items. It's the perfect size for a small crossbody, I love it!
+Behind the 1951 branding inside is a pocket to store some cards or small items. You also see their signature polka dot lining. The inside is actually quite roomy and is enough to fit my iPhone 6 (It would fit the iPhone 6+ as well) and my compact powder, a card holder and various small items. It's the perfect size for a small crossbody, I love it!
+
+<br>
+
+And here's how it looks like on me:
+
+![1951 Maison Francaise Besace Bag Camel](http://whatsupmailbox.com/images/LuxorBoxSpecialEditionSummerFunJuly20161951MaisonFrancaiseBesaceBagCamel4.jpg)
+
+I wore the bag all weekend long and it was perfect. Side note, I shortened the length of the bag because it was too long for me initially. If that's the case for you too, just use a very sharp scissor to cut the strap to your desired length and redo the knot to keep it in place. And if you haven't done so already, [follow me on Instagram](http://instagram.com/whatsupmailbox/){:target="_blank"} to see more pictures of me that are non subscription related ;)
 
 <br>
 
@@ -116,7 +124,7 @@ What a cute small coin pouch to include with this bag! I wasn't expecting this!
 
 ![1951 Maison Francaise Porte-Monnaie Camel](http://whatsupmailbox.com/images/LuxorBoxSpecialEditionSummerFunJuly20161951MaisonFrancaisePorteMonnaieCamel2.jpg)
 
-The 1951 branding can be found when you open the flap and you see their signature polka dot lining inside as well. This small pouch actually fits credit cards too (not just coins) so I used it as a card holder when I actually used this bag last weekend and it fits perfectly with all the other necessities I had in there. A nice surprise to find and totally appreciated!
+The 1951 branding can be found when you open the flap and you see their signature polka dot lining inside again. This small pouch actually fits credit cards too (not just coins) so I used it as a card holder when I used this bag last weekend and it fits perfectly with all the other necessities I had in there. A nice surprise to find and totally appreciated!
 
 <br>
 
