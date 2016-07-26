@@ -16,9 +16,7 @@ imagefeature: "CovetCrateGirlBossJuly2016Items.jpg"
 date: 2016-07-26 08:21:39 -08:00
 ---
 
-<center><a href="http://bespoke.evyy.net/c/164125/73528/1804" target="_blank">
-<img src="/images/CovetCrateGirlBossJuly2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss Box" width="400" />
-</a></center>
+<center><img src="/images/CovetCrateGirlBossJuly2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss Box" width="400" /></center>
 
 **Subscription:** [Covet Crate](http://www.covetcrate.com){:target="_blank"}
 
@@ -28,7 +26,7 @@ date: 2016-07-26 08:21:39 -08:00
 
 <br>
 
-I've only subscribed to them recently and this will be my second box that I've reviewed. I loved the last box that they sent out ([you can read that review here](http://whatsupmailbox.com/subscriptions/reviews/Covet-Crate-Girl-Boss-Subscription-Box-May-2016-Review/){:target="_blank"}) and hope this one will be great as well!
+I've only subscribed to them recently and this will be my second box that I've reviewed. The last box wasn't too exciting for me ([you can read that review here](http://whatsupmailbox.com/subscriptions/reviews/Covet-Crate-Girl-Boss-Subscription-Box-May-2016-Review/){:target="_blank"}) so I'm hoping this one will be better!
 
 <br>
 
