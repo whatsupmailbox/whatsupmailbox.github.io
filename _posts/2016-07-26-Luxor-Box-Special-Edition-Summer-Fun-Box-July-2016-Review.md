@@ -212,7 +212,7 @@ This oil is a multi-tasker and can be used on hair, skin, in the bath or on your
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
