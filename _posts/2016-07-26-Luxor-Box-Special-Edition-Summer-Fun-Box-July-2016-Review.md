@@ -158,7 +158,7 @@ The side view shows no branding and is just simple and clean. It was definitely 
 
 **Jules Smith** Gemma Necklace. *Value $75*
 
-I have quite a few Jules Smith jewelry pieces thanks to various subscription boxes and am happy to add more to my collection. This necklace is 14k Gold Plated and has Swarovski Crystals. I love turquoise and layered pieces so this necklace is definitely my style!
+I have quite a few Jules Smith jewelry pieces thanks to various subscription boxes and am happy to add more to my collection. This necklace is 14k Gold Plated and has Swarovski Crystals. I love turquoise and layered pieces so this necklace is definitely my style! It may be hard to see, but I was wearing this necklace in the picture above where I'm wearing the bag.
 
 <br>
 
@@ -166,7 +166,7 @@ I have quite a few Jules Smith jewelry pieces thanks to various subscription box
 
 **Jules Smith** Gemma Earrings. *Value $65*
 
-And of course a set of matching earrings, yay! Plus it's also 14k Gold Plated. You can wear the top piece alone as a mini stud, or combine both pieces for a beautiful long look. I wore them together and loved it!
+And of course a set of matching earrings, yay! Plus it's also 14k Gold Plated. You can wear the top piece alone as a mini stud, or combine both pieces for a beautiful long look. I wore them together and loved it! Again, I was wearing these in my picture above.
 
 <br>
 
