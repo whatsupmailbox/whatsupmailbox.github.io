@@ -17,7 +17,7 @@ date: 2016-5-13 17:01:39 -08:00
 <center><img src="/images/CovetCrateMay2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate" /></center>
 
 <p><b>Subscription:</b> <a href="http://www.covetcrate.com" target="_blank">Covet Crate</a></p>
-<p><b>Cost:</b>  $94.95/bi-monthly for the Lady Boss OR $54.99/bi-monthly for the Girl Boss</p>
+<p><b>Cost:</b>  $94.95/bi-monthly for the Lady Boss OR $54.95/bi-monthly for the Girl Boss</p>
 <p><b>What's in the box:</b> Items include things such as: office supplies and accessories, stationery, office decor, style accessories, beauty and skincare items, office snacks, books, discounts (on things such as business/life coaching, classes, etc.), and anything else that may empower, motivate, inspire, and encourage you!</p>
 
 <br>
