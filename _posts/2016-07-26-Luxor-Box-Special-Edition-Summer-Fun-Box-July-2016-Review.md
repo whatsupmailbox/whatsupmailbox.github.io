@@ -210,8 +210,9 @@ This oil is a multi-tasker and can be used on hair, skin, in the bath or on your
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** This Special Edition box was amazing! I thought the curation was on point with the summer theme and they included quality brands as well. I absolutely loved the 1951 Maison Francaise bag (so gorgeous), and appreciated that they let us choose the color of our choice. Every item in the box felt luxe and are definitely items you would want to find in a $200 box. The total value came up to $615 which is triple the cost, and it felt like I received $600 worth of products instead of over inflated values that sometimes other boxes tend to do. This has got to be my favorite special edition box from them as of yet!
 
+<br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
@@ -257,6 +258,6 @@ This oil is a multi-tasker and can be used on hair, skin, in the bath or on your
    </TR>
    <TR>
       <TD><i><big>Box Cost</big></i></TD>
-      <TD><i><big>$2050/big></i></TD>
+      <TD><i><big>$200</big></i></TD>
    </TR>
 </TABLE>
