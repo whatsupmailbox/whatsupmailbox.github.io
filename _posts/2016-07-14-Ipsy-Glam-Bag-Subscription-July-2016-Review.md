@@ -16,9 +16,9 @@ imagefeature: "IpsyJuly2016Items.jpg"
 date: 2016-07-14 08:31:39 -08:00
 ---
 
-[![Ipsy July 2016 Package](http://whatsupmailbox.com/images/IpsyJuly2016Package.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy July 2016 Package](http://whatsupmailbox.com/images/IpsyJuly2016Package.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
-**Subscription:** [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+**Subscription:** [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Cost:** $10/month + Free Shipping.
 
@@ -36,34 +36,34 @@ This review is for my profile so it's just one of the many variations that they 
 
 <br>
 
-[![Ipsy July 2016 Info Card](http://whatsupmailbox.com/images/IpsyJuly2016Info.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy July 2016 Info Card](http://whatsupmailbox.com/images/IpsyJuly2016Info.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 Every package includes an info postcard with the theme of the month. This month's theme is "Hot Summer Nights".
 
 <br>
 
-[![Ipsy July 2016 Info Card](http://whatsupmailbox.com/images/IpsyJuly2016Info2.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy July 2016 Info Card](http://whatsupmailbox.com/images/IpsyJuly2016Info2.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 The back side of the card has a few announcements of changes to their website.
 
 <br>
 
-[![Ipsy July 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2016GlamBag.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy July 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2016GlamBag.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 <figcaption>Ipsy July 2016 Glam Bag</figcaption>
 
 <br>
 
-Every month [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} sends their items in makeup bags with an exclusive design. This month's design has a holographic material and a pattern of beach umbrellas all over. The print is only on the front side though, the back side has the same material but with no prints.
+Every month [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} sends their items in makeup bags with an exclusive design. This month's design has a holographic material and a pattern of beach umbrellas all over. The print is only on the front side though, the back side has the same material but with no prints.
 
 <br>
 
 <H4>And here are my Ipsy July 2016 items:</H4>
 
-[![Ipsy July 2016 Items](http://whatsupmailbox.com/images/IpsyJuly2016Items.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy July 2016 Items](http://whatsupmailbox.com/images/IpsyJuly2016Items.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 <H4>Items in Detail:</H4>
 
-[![J. Cat Beauty Duo Brow Pencil](http://whatsupmailbox.com/images/IpsyJuly2016JCatBeautyDuoBrowPencil.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![J. Cat Beauty Duo Brow Pencil](http://whatsupmailbox.com/images/IpsyJuly2016JCatBeautyDuoBrowPencil.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **J. Cat Beauty** Duo Brow Pencil in Dark Brown  
 Full Size .25 g., *Value $3.99*
@@ -74,7 +74,7 @@ My brows have to be on point everyday. I'm not really blessed with thick and per
 
 <br>
 
-[![Trust Fund Beauty Nail Polish in No Filter](http://whatsupmailbox.com/images/IpsyJuly2016TrustFundBeautyNailPolishNoFilter.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Trust Fund Beauty Nail Polish in No Filter](http://whatsupmailbox.com/images/IpsyJuly2016TrustFundBeautyNailPolishNoFilter.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Trust Fund Beauty** Nail Polish in No Filter  
 Full Size 17 ml., *Value $15*
@@ -87,7 +87,7 @@ The color "No Filter" is a deep neutral with greyish-purple undertones. I would 
 
 <br>
 
-[![Mellow Cosmetics Baked Eyeshadow in Coco](http://whatsupmailbox.com/images/IpsyJuly2016MellowCosmeticsBakedEyeshadowCoco.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Mellow Cosmetics Baked Eyeshadow in Coco](http://whatsupmailbox.com/images/IpsyJuly2016MellowCosmeticsBakedEyeshadowCoco.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Mellow Cosmetics** Baked Eyeshadow in Coco  
 Full Size 4.8g, *Value $8*
@@ -102,7 +102,7 @@ This eyeshadow is highly pigmented and has a silky smooth powder texture that's 
 
 <br>
 
-[![Eva NYC Get Glossed Hair Serum](http://whatsupmailbox.com/images/IpsyJuly2016EvaNYCGetGlossedHairSerum.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Eva NYC Get Glossed Hair Serum](http://whatsupmailbox.com/images/IpsyJuly2016EvaNYCGetGlossedHairSerum.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Eva NYC** Get Glossed Hair Serum
 Deluxe Sample Size 10 ml., *Value $3.60*
@@ -113,7 +113,7 @@ This hair serum is lightweight and will add shine, tame frizz and protect your h
 
 <br>
 
-[![Make Up Forever Excessive Lash Mascara](http://whatsupmailbox.com/images/IpsyJuly2016MakeUpForeverExcessiveLashMascara.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Make Up Forever Excessive Lash Mascara](http://whatsupmailbox.com/images/IpsyJuly2016MakeUpForeverExcessiveLashMascara.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Make Up Forever** Excessive Lash Mascara  
 Sample Size 2.5 ml., Value $7.35
@@ -126,7 +126,7 @@ I'm always up for trying new mascaras, especially one from Make Up Forever! This
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So if you've read my [Ipsy review from last month](http://whatsupmailbox.com/subscriptions/reviews/Ipsy-Glam-Bag-Subscription-June-2016-Review/){:target="_blank"}, you'd know that I was quite disappointed which prompted me to update my style profile to see if that would help. Well guess what, it did! I finally received items that I will use and am happy to use! The Trust Fund Beauty nail polish definitely made this bag great, but the other items certainly made it better. I received 3 full-sized items, out of 5 that they sent, and the total value came up to $37.94 which is more than  triple the cost. I'm super happy with that as well! This month's bag definitely redeemed Ipsy from my disappointment last month and I am now excited again to see what next month brings!
 
-If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
+If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
 
 <br>
 
