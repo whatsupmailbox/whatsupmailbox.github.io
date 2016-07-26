@@ -16,11 +16,11 @@ imagefeature: "IpsyJune2016Items.jpg"
 date: 2016-06-16 09:31:39 -08:00
 ---
 
-<center><a href="https://www.ipsy.com/new?refer=uns8d" target="_blank">
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
 <img src="/images/IpsyJune2016Package.jpg" border="0" style="border:none;max-width:100%;" alt="Ipsy" />
 </a></center>
 
-**Subscription:** [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+**Subscription:** [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Cost:** $10/month + Free Shipping.
 
@@ -38,34 +38,34 @@ This review is for my profile so it's just one of the many variations that they 
 
 <br>
 
-[![Info Card](http://whatsupmailbox.com/images/IpsyJune2016Info.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Info Card](http://whatsupmailbox.com/images/IpsyJune2016Info.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 Every package includes an info postcard with the theme of the month. This month's theme is "Rebel, Rebel".
 
 <br>
 
-[![Info Card](http://whatsupmailbox.com/images/IpsyJune2016Info2.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Info Card](http://whatsupmailbox.com/images/IpsyJune2016Info2.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 The back side of the card has a short description of their Rebel theme and asking subscribers to tag their Glam Bags with a couple of hashtags.
 
 <br>
 
-[![Ipsy June 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyJune2016GlamBag.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy June 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyJune2016GlamBag.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 <figcaption>Ipsy June 2016 Glam Bag</figcaption>
 
 <br>
 
-Every month [Ipsy](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} sends their items in makeup bags with an exclusive design. This month's design is in line with the rebel theme hence the graffiti. It's so wild and colorful, nothing like they've ever sent before!
+Every month [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} sends their items in makeup bags with an exclusive design. This month's design is in line with the rebel theme hence the graffiti. It's so wild and colorful, nothing like they've ever sent before!
 
 <br>
 
 <H4>And here are my Ipsy June 2016 items:</H4>
 
-[![Ipsy June 2016 Items](http://whatsupmailbox.com/images/IpsyJune2016Items.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Ipsy June 2016 Items](http://whatsupmailbox.com/images/IpsyJune2016Items.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 <H4>Items in Detail:</H4>
 
-[![](http://whatsupmailbox.com/images/IpsyJune2016ClariSEADeepPoreDetoxActivatedCharcoalExfoliatingMask.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![](http://whatsupmailbox.com/images/IpsyJune2016ClariSEADeepPoreDetoxActivatedCharcoalExfoliatingMask.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **clariSEA** Deep Pore Detox Activated Charcoal Exfoliating Mask  
 Deluxe Sample Size 1 oz, *Value $4.50*
@@ -74,7 +74,7 @@ This is an all natural mask that has Bamboo Charcoal, Kaolin Clay and Calendula 
 
 <br>
 
-[![ColourPop Cosmetics Creme Gel Liner](http://whatsupmailbox.com/images/IpsyJune2016ColourPopCosmeticsGelEyeLiner.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![ColourPop Cosmetics Creme Gel Liner](http://whatsupmailbox.com/images/IpsyJune2016ColourPopCosmeticsGelEyeLiner.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **ColourPop Cosmetics** Crème Gel Liner in Swerve  
 Full Size 0.2g, *Value $5*
@@ -99,7 +99,7 @@ The blush itself is okay. The color seems universally compatible with all skin t
 
 <br>
 
-[![Royal & Langnickel MODA Crease Smudge Brush](http://whatsupmailbox.com/images/IpsyJune2016RoyalLangnickelMODACreaseSmudgeBrush.jpg)](https://www.ipsy.com/new?refer=uns8d){:target="_blank"}
+[![Royal & Langnickel MODA Crease Smudge Brush](http://whatsupmailbox.com/images/IpsyJune2016RoyalLangnickelMODACreaseSmudgeBrush.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 **Royal & Langnickel MODA** Crease/Smudge Brush
 Double-Ended Brush, *Value $5.99?*
@@ -126,7 +126,7 @@ I like getting eyeshadows but this sample is tiny! I've received these tiny samp
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> So I gotta be honest, I wasn't too excited when I got a peek at my glam bag items earlier this month, and having it on hand didn't change that either. The only saving grace are the eyeshadow brush and eyeliner, and those two alone made me break even with the $10 cost of this subscription. The total value of my items this month didn't amount to much either, definitely way lower than what I'm used to getting so that was also a bummer. I guess it's time for me to update my profile preference to see if that will make a difference for next month's glam bag. Really hoping it will!
 
-If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
+If you're interested in subscribing, you can go to [www.ipsy.com](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} to join and start receiving your own monthly glam bags!
 
 <br>
 
