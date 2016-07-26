@@ -52,9 +52,19 @@ Once you unwrap the tissue paper, you see their info magazine and a lot of bubbl
 
 ![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016Info.jpg)
 
+Every box includes an Info Magazine that spotlights a woman/lady figure who is an inspiration to others through their work or achievement. This month they featured Marie Curie.
+
+<br>
+
 ![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016Info2.jpg)
 
+Inside you'll find the Table of Contents.
+
+<br>
+
 ![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016Info3.jpg)
+
+They detail each item that was included in the box as well as a description of not only the items itself, but also the company and/or artist behind it.
 
 <br>
 
