@@ -150,7 +150,7 @@ And here's a picture of the shirt on:
 
 [![Five Four Club Adamson Dress Shirt Gray](http://whatsupmailbox.com/images/FiveFourClubJuly2016AdamsonDressShirtGray3.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
-This shirt is slim fit with a checkered pattern.
+This shirt is slim fit with a checkered pattern. Another item that my husband would have purchased himself!
 
 <br>
 
@@ -202,6 +202,6 @@ These no-show socks are perfect for when you're wearing loafers.
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club totally nailed the style for my husband this month! All the items were both weather appropriate as well as seasonally in style. I also like the fact that they have swimming trunks for the summer, and that I actually received one. With all the items I received this month, it was totally worth the cost if not more. So happy I resubscribed and can't wait to see what they'll send next month!
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> I felt like I won the lottery receiving so many items this month! And they totally nailed it again in terms of matching my husband's style. For the price I paid, it certainly is a great deal especially since all the items are of high quality and design. Can't rave enough about this sub, it's a must have if you're either too busy to shop for clothes or looking to expand your wardrobe.
 
 If you haven't subscribed yet, you can [get $300 value of items in your first package](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"} with coupon code [CLUB300](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}! This offer is only valid until July 31, 2016 at 11:59PM PST, so if you've been wanting to try this subscription out, hurry up and use this promo before it ends!
