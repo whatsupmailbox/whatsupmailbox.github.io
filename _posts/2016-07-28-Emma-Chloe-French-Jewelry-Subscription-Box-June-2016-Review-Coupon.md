@@ -120,7 +120,7 @@ Here's a closer look of the necklace:
 
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver2.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-I love how raw the design is and yet it's still classy and chic. The blue color is so intense and deep, it looks great in contrast with the gold. I also love that this cuff is adjustable, great news for my super petite hands!
+This necklace is gold plated with a bar pendant that has a row of turquoise stones. I find the style to be simple yet chic, plus you can wear this alone for a minimalistic look or layered for extra glam.
 
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-03.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
@@ -155,6 +155,6 @@ With every box, Emma & Chloe also includes a postcard with the front picture bei
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** It's such a treat to open up my Emma & Chloe boxes, I'm always looking forward to see what they send everytime! And knowing that the jewels are from French designers, I know that it's unique and truly special. And the quality, such high quality that you rarely see in costume jewelry especially with the $35 price! I can't rave enough about this subscription and it is one that I treasure and will keep subscribing for as long as they deliver!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** It's such a treat to open up my Emma & Chloe boxes, I'm always looking forward to see what they send everytime! And knowing that the jewels are from French designers, I know that it's unique and truly special. And the quality, such high quality that you rarely see in costume jewelry especially with the $35 price! The necklace that this month brings is simple in design but chic in everyway with it's I can't rave enough about this subscription and it is one that I treasure and will keep subscribing for as long as they deliver!
 
 Interested in subscribing? Visit their [website](http://www.emma-chloe.com/us/){:target="_blank"} to subscribe and start receiving French jewelry in your mailbox! And don't forget to use coupon code **WHATSUPBOX50** to get 50% off your first box! That brings the cost down to only $17.50 for a gorgeous French Jewelry item!
