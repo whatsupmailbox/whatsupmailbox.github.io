@@ -9,11 +9,11 @@ categories:
 tags: [Five Four Club, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "FiveFourClubJuly2016Items.jpg"
-date: 2016-07-27 09:21:39 -08:00
+date: 2016-07-27 08:21:39 -08:00
 ---
 
 [![Five Four Club](http://whatsupmailbox.com/images/FiveFourClubJuly2016Package.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
@@ -172,7 +172,7 @@ And here's how it looks on:
 
 [![Five Four Club Ash Blue Zip Hoodie](http://whatsupmailbox.com/images/FiveFourClubJuly2016AshBlueZipHoodie3.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
-My husband paired it with the collared shirt to show how versatile hoodies can be, it can be worn with casual t-shirts or with more business like shirts. It actually also looks great with the other two tops that's in the package, he just didn't want to model it all.
+My husband paired it with the collared shirt to show how versatile hoodies can be, it can be worn with casual t-shirts or with more business like shirts. It actually also looks great with the other two tops that's in the package, he just didn't want to model it all ;)
 
 <br>
 
