@@ -43,11 +43,11 @@ They also include a lookbook for this month's items.
 
 <br>
 
-When you subscribe to [Five Four Club](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}, you take a profile survey to input your size and style preferences. My husband selected "Casual" as his style with a preference in vibrant rich colors. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all.
+When you subscribe to [Five Four Club](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}, you take a profile survey to input your size and style preferences. There are 4 options in style; Classic, Casual, Fashion Forward or a Mix of all. My husband selected "Mix" as his style with a preference in vibrant rich colors.
 
 <br>
 
-<H4>Based on my husband's "Casual" profile, here is what they sent:</H4>
+<H4>Based on my husband's "Mix" profile, here is what they sent:</H4>
 
 [![Five Four Club July 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJuly2016Items.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
