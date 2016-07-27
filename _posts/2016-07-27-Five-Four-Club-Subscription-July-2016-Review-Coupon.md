@@ -106,7 +106,7 @@ Their branding can be seen at the bottom right side of the shirt.
 
 [![Five Four Club Hickory Wine Henley](http://whatsupmailbox.com/images/FiveFourClubJuly2016HickoryWineHenley3.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
-The color suits me and the style is classic, one that I would purchase myself. Plus it can be worn layered when the weather gets colder.
+The color is great and the style is classic, one that my husband would purchase himself. Plus it can be worn layered when the weather gets colder.
 
 <br>
 
