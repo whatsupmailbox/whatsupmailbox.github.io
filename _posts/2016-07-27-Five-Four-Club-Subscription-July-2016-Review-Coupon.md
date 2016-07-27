@@ -39,7 +39,7 @@ date: 2016-07-27 09:21:39 -08:00
 
 [![Second look at unpacking](http://whatsupmailbox.com/images/FiveFourClubJuly2016OpenPackage2.jpg)](https://www.fivefourclub.com/getstarted?referrer=RE731318){:target="_blank"}
 
-They also include a lookbook for this month's items, and under that are the items!
+They also include a lookbook for this month's items.
 
 <br>
 
