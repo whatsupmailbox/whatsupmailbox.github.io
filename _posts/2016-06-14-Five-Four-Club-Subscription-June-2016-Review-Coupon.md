@@ -103,13 +103,13 @@ Another cool and light shirt that's great for summer! It's kind of hard to see f
 
 <br>
 
-[![Five Four Club June 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJune2016Items3.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
+[![Five Four Club June 2016 Items](http://whatsupmailbox.com/images/FiveFourClubJune2016Items3.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
 I like this combination too, perhaps even more than the other one. My husband said that it feels lightweight, breathable and comfortable too. A definite win!
 
 <br>
 
-[![Five Four Club Coney Navy Socks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
+[![Five Four Club Coney Navy Socks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
 **Coney Socks**
 
@@ -117,7 +117,7 @@ Yay for socks! My husband can never have enough socks and since it's summer, the
 
 <br>
 
-[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks2.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
+[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016ConeyNavySocks2.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
 How cool are these! Totally love the fun "left" and "right" labels as well as the bright colors.
 
@@ -127,15 +127,15 @@ How cool are these! Totally love the fun "left" and "right" labels as well as th
 
 So I actually re-subscribed after being on hiatus for sometime, especially since they sent me an email about getting a free pair of sunglasses if I come back, so that totally made my decision to resubscribe easier plus it became a sweeter deal.
 
-[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016SonoraTortoiseSunglasses.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
+[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016SonoraTortoiseSunglasses.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
 **Sonora Tortoise Sunglasses**
 
-These sunglasses are valued at $75! My husband doesn't have these style of sunglasses yet so they're certainly a great addition! Plus I love the fact that they included a case for them as well as the cleaning cloth too! You too can get one if you're a new subscriber by [subscribing here](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"} and using coupon code **CLUBMASTERS**.
+These sunglasses are valued at $75! My husband doesn't have these style of sunglasses yet so they're certainly a great addition! Plus I love the fact that they included a case for them as well as the cleaning cloth too! You too can get one if you're a new subscriber by [subscribing here](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"} and using coupon code **CLUBMASTERS**.
 
 <br>
 
-[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016SonoraTortoiseSunglasses2.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
+[![Five Four Club Pikes Swim Trunks](http://whatsupmailbox.com/images/FiveFourClubJune2016SonoraTortoiseSunglasses2.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
 The inside has the Five Four branding. It's designed in LA but made in China.
 
@@ -143,5 +143,5 @@ The inside has the Five Four branding. It's designed in LA but made in China.
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Five Four Club totally nailed the style for my husband this month! All the items were both weather appropriate as well as seasonally in style. I also like the fact that they have swimming trunks for the summer, and that I actually received one. With all the items I received this month, it was totally worth the cost if not more. So happy I resubscribed and can't wait to see what they'll send next month!
 
-If you haven't subscribed yet, you can [get $15 off yohttp://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570ur first package through this link](http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}, OR use coupon code **CLUBMASTERS** to get a pair of limited Five Four Clubmaster sunglasses, cleaning cloth, and hard case ($75 value) FREE in your first package!
+If you haven't subscribed yet, you can [get $15 off your first package through this link](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}, OR use coupon code **CLUBMASTERS** to get a pair of limited Five Four Clubmaster sunglasses, cleaning cloth, and hard case ($75 value) FREE in your first package!
 
