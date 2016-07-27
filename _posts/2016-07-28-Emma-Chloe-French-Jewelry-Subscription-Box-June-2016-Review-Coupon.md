@@ -114,19 +114,16 @@ Subscribers will receive this necklace in either gold or silver (depending on yo
 
 <br>
 
-Here's a closer look of the necklace:
+Here's a closer look of the pendant:
 
 <br>
 
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver2.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-This necklace is gold plated with a bar pendant that has a row of turquoise stones. I find the style to be simple yet chic, plus you can wear this alone for a minimalistic look or layered for extra glam.
-
-[![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-03.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
-
-The Azucar brand can be seen on the inner side of the cuff towards one of the ends.
+This necklace is brass gilded with fine silver with a bar pendant that has a row of turquoise stones. I find the style to be simple yet chic, plus you can wear this alone for a minimalistic look or layered for extra glam.
 
 <br>
+
 
 [![Emma & Chloe - Louise Hendricks Certificate of Authenticity](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksCertificateOfAuthenticity.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
@@ -134,13 +131,13 @@ They also include a "Certificate of Authenticity" with every jewelry item, so yo
 
 <br>
 
-Here's a look at the bracelet on me:
+And here it is on me:
 
 <br>
 
-[![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/Emma-Chloe-May-2016-Azucar-Lapis-Lazuli-Cuff-Gold-Bracelet-04.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+[![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver3.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-I wanted the blue to stand out so I wore it with a bright pink summer dress and I loved the look! This gorgeous lapis bracelet has surely honored its presence into my jewelry collection!
+I tend to wear silver with a more casual jeans look. I like the simplicity of this necklace and how the turquoise blue shines at certain angles. This is definitely one of those styles that are delicate and a good basic design to have in your jewelry collection.
 
 <br>
 
