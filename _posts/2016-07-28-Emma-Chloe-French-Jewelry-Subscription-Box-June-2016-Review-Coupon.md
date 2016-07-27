@@ -120,7 +120,7 @@ Here's a closer look of the pendant:
 
 [![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver2.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-This necklace is brass gilded with fine silver with a bar pendant that has a row of turquoise stones. I find the style to be simple yet chic, plus you can wear this alone for a minimalistic look or layered for extra glam.
+This necklace is brass gilded with fine silver and a bar pendant that has a row of turquoise stones. I find the style to be simple yet chic, plus you can wear this alone for a minimalistic look or layered for extra glam.
 
 <br>
 
