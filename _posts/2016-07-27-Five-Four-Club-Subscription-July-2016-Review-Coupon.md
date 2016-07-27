@@ -198,7 +198,7 @@ As I mentioned last month, totally love the "left" and "right" sign on the socks
 
 [![Five Four Club Coney Black No Show Socks](http://whatsupmailbox.com/images/FiveFourClubJuly2016ConeyBlackNoShowSocks4.jpg)](http://fivefourclub.7eer.net/c/164125/122548/2570){:target="_blank"}
 
-These no-show socks are perfect for when you're wearing loafers.
+These no-show socks are perfect for when you're wearing loafers and will make a great conversation piece when you take your shoes off.
 
 <br>
 
