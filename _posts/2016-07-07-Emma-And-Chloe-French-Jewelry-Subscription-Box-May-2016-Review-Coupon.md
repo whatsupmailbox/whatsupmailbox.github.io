@@ -4,12 +4,12 @@ published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Emma & Chloe May 2016 Review!
+title: Emma & Chloe May 2016 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: Emma-Chloe-May-2016-Item.jpg
-headline: Emma & Chloe May 2016 Review!
+headline: Emma & Chloe May 2016 Review + 50% Coupon!
 tags: [Emma & Chloe, Subscriptions, Reviews, May 2016]
 date: 2016-7-07 08:33:19 -08:00
 ---
