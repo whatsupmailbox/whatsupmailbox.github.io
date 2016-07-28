@@ -34,7 +34,7 @@ When you first subscribe, you'll be prompted to answer a couple of questions reg
 
 <br>
 
-[![Emma & Chloe Jewelry Preferences](http://whatsupmailbox.com/images/Emma-Chloe-Jewelry-Preferences.png)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><img src="/images/Emma-Chloe-Jewelry-Preferences.png" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Jewelry Preferences" width="400" /></center>
 
 And as a bonus for being a subscriber, you'll also receive 20% discount on anything in their online shop!
 
@@ -88,7 +88,7 @@ They also always seem to have a "Homemade Beauty" section and this month they fo
 
 <br>
 
-[![Emma & Chloe Jewelry Pouch](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksJewelryPouch.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><img src="/images/EmmaChloeJune2016LouiseHendricksJewelryPouch.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Jewelry Pouch" width="500" /></center>
 
 [Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"} sends their monthly jewelry pieces in these black drawstring pouches. Because what good are your jewelry if it's not kept properly right? I'm not sure if they're anti tarnish, but they are super handy for when you need to travel and separate your jewels from scratching each other.
 
@@ -124,8 +124,7 @@ This necklace is brass gilded with fine silver and a bar pendant that has a row 
 
 <br>
 
-
-[![Emma & Chloe - Louise Hendricks Certificate of Authenticity](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksCertificateOfAuthenticity.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><img src="/images/EmmaChloeJune2016LouiseHendricksCertificateOfAuthenticity.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe - Louise Hendricks Certificate of Authenticity" width="500" /></center>
 
 They also include a "Certificate of Authenticity" with every jewelry item, so you know it's 100% authentic, gorgeous and precious too!
 
