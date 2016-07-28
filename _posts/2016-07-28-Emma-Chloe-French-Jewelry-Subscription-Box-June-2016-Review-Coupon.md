@@ -96,7 +96,7 @@ They also always seem to have a "Homemade Beauty" section and this month they fo
 
 <H4>And here is this month's jewelry item:</H4>
 
-[![Emma & Chloe June 2016 Item - Louise Hendricks Mara Necklace Silver](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><img src="/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe June 2016 Item - Louise Hendricks Mara Necklace Silver" width="700" /></center>
 
 **Louise Hendricks** Mara Necklace in Silver, *Value $89*
 
