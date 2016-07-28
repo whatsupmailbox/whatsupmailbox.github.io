@@ -24,7 +24,7 @@ date: 2016-7-07 08:33:19 -08:00
 
 **What's in the box:** Each month you'll receive an authentic piece of French jewelry valued between $50 and $200 and a magazine with all the French trends delivered every month in your mailbox.
 
-**Coupon:** Use code **WHATSUPBOX50** and get 50% off your first box! That brings the cost down to $17.50!
+**Coupon:** Use coupon code **WHATSUPBOX50** to get 50% off your first box! That brings the cost down to $17.50!
 
 <br>
 
