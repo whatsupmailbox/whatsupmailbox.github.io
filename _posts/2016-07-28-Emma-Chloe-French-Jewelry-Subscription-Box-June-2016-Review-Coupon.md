@@ -1,17 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
-title: Emma & Chloe June 2016 Review!
+title: Emma & Chloe June 2016 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver.jpg
-headline: Emma & Chloe June 2016 Review!
+headline: Emma & Chloe June 2016 Review + 50% Coupon!
 tags: [Emma & Chloe, Subscriptions, Reviews, June 2016]
-date: 2016-7-27 08:33:19 -08:00
+date: 2016-7-28 08:33:19 -08:00
 ---
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
@@ -110,7 +110,7 @@ Details of the bracelet in the info magazine:
 
 [![Emma & Chloe May 2016 Info Magazine](http://whatsupmailbox.com/images/EmmaChloeJune2016InfoMagazine5.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-Subscribers will receive this necklace in either gold or silver (depending on your preference) and although gold is my preferred metal of choice, sometimes silver just looks better on certain outfits. FYI, you can have them surprise you with either gold or silver, instead of the same metal for every shipment, as that is a choice you can select in your style preference.
+Subscribers will receive this necklace in either gold or silver (depending on your preference) and although gold is my preferred metal of choice, sometimes silver just looks better on certain outfits. FYI, you can have them surprise you with either gold or silver instead of the same metal for every shipment. It's one of the options you can select in your style preference.
 
 <br>
 
