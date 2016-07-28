@@ -24,6 +24,7 @@ date: 2016-3-18 08:33:19 -08:00
 <p><b>Subscription:</b> <a href="http://www.emma-chloe.com/us/" target="_blank">Emma & Chloe</a>, a French designer jewelry subscription box!</p>
 <p><b>Cost:</b> $35/monthly + Free Shipping. Cheaper options for 3, 6, and 12 month plans.</p>
 <p><b>What you get:</b> Each month you'll receive an authentic piece of French jewelry valued between $50 and $200 and a magazine with all the French trends delivered every month in your mailbox.</p>
+<p><b>Coupon:</b> Use coupon code <b>WHATSUPBOX50</b> to get 50% off your first box! That brings the cost down to $17.50!</p>
 
 <br>
 
