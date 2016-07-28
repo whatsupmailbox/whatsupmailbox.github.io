@@ -96,7 +96,7 @@ They also always seem to have a "Homemade Beauty" section and this month they fo
 
 <H4>And here is this month's jewelry item:</H4>
 
-<center><img src="/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe June 2016 Item - Louise Hendricks Mara Necklace Silver" width="500" /></center>
+[![Emma & Chloe June 2016 Item - Louise Hendricks Mara Necklace Silver](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
 **Louise Hendricks** Mara Necklace in Silver, *Value $89*
 
@@ -134,7 +134,7 @@ And here it is on me:
 
 <br>
 
-[![Emma & Chloe May 2016 Azucar Lapis Cuff Gold](http://whatsupmailbox.com/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver3.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
+<center><img src="/images/EmmaChloeJune2016LouiseHendricksMaraNecklaceSilver3.jpg" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe June 2016 Item - Louise Hendricks Mara Necklace Silver" width="600" /></center>
 
 I tend to wear silver with a more casual jeans look. I like the simplicity of this necklace and how the turquoise blue shines at certain angles. This is definitely one of those styles that are delicate and a good basic design to have in your jewelry collection.
 
