@@ -68,9 +68,11 @@ Here are a couple of examples of the Style Profile:
 
 [![Trendy Butler - CHSV Plaid Shirt](http://whatsupmailbox.com/images/TrendyButlerJuly2016CHSVShirt.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-**CHSV** Plaid Shirt, *Value $?*
+[Cohesive & Co](https://www.cohesiveapparel.com){:target="_blank} Belmont Buttondown Shirt in Blue.
 
-I communicated with them that my husband dresses mostly business casual and that he can never have enough dress shirts since you can wear them with jeans for a casual look, or trousers for a more formal look. So I wasn't surprised to see that they sent this shirt, and this was happily received too!
+I couldn't really find this exact shirt online but their buttondowns retail for $100+ and I see a lot of different style on sale at various retailers for $50+.
+
+My husband's profile is "Work Hard, Play Hard" and he mostly dresses in business casual. Dress shirts are definitely a must and an obvious choice for this profile so I wasn't surprised to see that they sent this. He loves buttondown shirts and can never have enough of them since you can wear them both casually or formal. This was a match!
 
 <br>
 
@@ -80,7 +82,7 @@ Here's a closer look at the collar area:
 
 [![Trendy Butler - CHSV Plaid Shirt](http://whatsupmailbox.com/images/TrendyButlerJuly2016CHSVShirt2.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-It says that the fit on this shirt is slim so we'll see how that looks like on my husband (picture below).
+It says that the fit on this shirt is "Sharp Fit" and my husband typically likes his buttondowns to be slim so we'll see how this fits (picture below).
 
 <br>
 
@@ -92,9 +94,9 @@ The fit is perfect and just how my husband likes them. The small plaid pattern i
 
 [![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweReversibleShorts.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-**Howe** Reversible Shorts, *Value $*
+[Howe](http://howeclothing.com){:target="_blank"} 'Switch Stance' Reversible Shorts in Oyster Bar, *Value $85*
 
-A quick search online showed that these shorts were available at Nordstrom's but no longer in stock. I am using the value based on another retailer's price.
+These shorts are available for sale at [Nordstrom](http://shop.nordstrom.com/s/howe-switch-stance-reversible-shorts/4156194?origin=category-personalizedsort&fashioncolor=NAVY%20BLAZE){:target="_blank"}! They don't have this exact color but it's exactly the same.
 
 I was surprised when I read that these shorts are REVERSIBLE! I don't think my husband has these type of shorts before and when I showed it to him, he seemed skeptical at first but became excited at the prospect of having 2 shorts in 1.
 
@@ -158,6 +160,6 @@ These socks are comfortable and fit well. Nothing to complain here!
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first experience with Trendy Butler and I have to say that it was pretty good. My husband tends to buy his clothes from Nordstrom or Neiman Marcus and I would say that the items they sent are definitely on par in terms of quality and brand. They definitely listen to what your style or needs are and try their best to deliver. If you're a busy professional who doesn't have time to shop for clothes that often, or need additional fashion assistance to step up your style, I would say try this subscription out. It's like having a personal stylist that delivers brand name clothes to you every month. I can't wait to see what they send next month! 
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first experience with Trendy Butler and I have to say that it's pretty good. My husband tends to buy his clothes from Nordstrom or Neiman Marcus and I would say that the items they sent are definitely on par in terms of quality and brand, especially since the shorts are actually still sold in Nordstrom! The other brand featured is also on trend and modern, just the type my husband likes. They definitely listen to what your style or needs are and try their best to deliver. If you're a busy professional who doesn't have time to shop for clothes that often, or need additional fashion assistance to step up your style, I would say try this subscription out. It's like having a personal stylist that delivers brand name clothes to you every month. I can't wait to see what they send next month! 
 
 If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code [STYLEU10](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}!
