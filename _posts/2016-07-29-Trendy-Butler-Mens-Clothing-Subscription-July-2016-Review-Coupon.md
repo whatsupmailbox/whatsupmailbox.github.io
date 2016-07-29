@@ -26,7 +26,7 @@ date: 2016-07-29 09:21:39 -08:00
 
 **What you'll get:** Receive a custom package of menswear clothing from an array of both well known brands and todays hottest newest designers worth $150+ that's picked by a stylist for you. Whether it's a wardrobe upgrade or special occasion, Trendy Butler has you covered.
 
-**Coupon:** [Get $10 off your first package](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code [STYLEU10](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}!
+**Coupon:** [Get $10 off your first package through this link](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} and use coupon code **STYLEU10**!
 
 <br>
 
@@ -172,4 +172,4 @@ These socks are comfortable and fit well. Nothing to complain here!
 
 <i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first experience with Trendy Butler and I have to say that it's pretty good. My husband tends to buy his clothes from Nordstrom or Neiman Marcus and I would say that the items they sent are definitely on par in terms of quality and brand, especially since the shorts are actually still sold in Nordstrom! The other brands featured are also on trend and modern, just the type my husband likes. They definitely listen to what your style or needs are and try their best to deliver. Plus the value is totally there and for the price you pay, you certainly get more with the added bonus of convenience. If you're a busy professional who doesn't have time to shop for clothes that often, or need additional fashion assistance to step up your style, I would say try this subscription out. It's like having a personal stylist that delivers fashionable clothes to you every month. I can't wait to see what they send next month! 
 
-If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code [STYLEU10](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}!
+If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code **STYLEU10**!
