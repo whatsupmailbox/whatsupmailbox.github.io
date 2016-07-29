@@ -30,7 +30,7 @@ date: 2016-07-29 08:21:39 -08:00
 
 <br>
 
-[Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} is a subscription that delivers brand name men's clothing based on your style profile. And since men's clothing subscription are few and limited, I'm always up for reviewing one!
+[Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} is a subscription that delivers brand name and trendy men's clothing based on a style profile that you complete upon subscribing. And since men's clothing subscription are few and limited, I'm always up for reviewing one!
 
 Now let's get to the review!
 
@@ -42,11 +42,11 @@ First look at unpacking shows the items packaged together with brown paper wrapp
 
 <br>
 
-When you subscribe to [Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}, you complete a style profile so that they can send out items that match your preferences and size.
+When you subscribe to [Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}, you complete a style profile so that they can send out items that match your preferences and size. Each month your stylist will go through their partnered apparel network and with the criteria of your style profile, coupled with your location and feedback from previous shipments, they will select items to fit your needs at a price that wont break the bank. FYI, if you have a special occasion or specific need from time to time, you can send them a Special Request just by emailing them.
 
 <br>
 
-Here are a couple of examples of what they ask:
+Here are a couple of examples of the Style Profile:
 
 <br>
 
