@@ -9,11 +9,11 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerJuly2016Items.jpg"
-date: 2016-07-29 08:21:39 -08:00
+date: 2016-07-29 09:21:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
