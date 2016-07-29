@@ -148,9 +148,11 @@ These shorts look good and feel great. An item that my husband would never have 
 
 [![Trendy Butler - Ministry of Supply Socks](http://whatsupmailbox.com/images/TrendyButlerJuly2016MinistryOfSupplySocks2.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-**Ministry of Supply** Socks, *Value $*
+**[Ministry of Supply] Atlas Dress Socks**
 
-These socks are made of.... The herringbone pattern with purple patches make a great combo.
+These socks are being sold for $15 currently and the material is made of 40% coffee-infused recycled polyester, 40% cotton, and 20% elastane. I've never heard of coffee-infused material before but it tunrs out that they have an odor control benefit. The herringbone pattern with purple patches on these socks make a great combo.
+
+And as an added bonus, they also included a 15% coupon code in the packaging.
 
 <br>
 
