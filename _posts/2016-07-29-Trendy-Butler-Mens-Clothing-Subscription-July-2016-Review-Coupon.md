@@ -22,7 +22,7 @@ date: 2016-07-29 08:21:39 -08:00
 
 **Cost:** $65/month + Free Shipping.
 
-**What you'll get:** Five Four Club is a monthly men’s clothing subscription. Each month you'll receive an apparel package (2-3 items) valued at $120 or more that's selected according to your style profile and preferences.
+**What you'll get:** Receive a custom box of menswear clothing from an array of both well known brands and todays hottest newest designers worth $150+ that's picked by a stylist for you. Whether it's a wardrobe upgrade or special occasion, Trendy Butler has you covered.
 
 **Coupon:** [Get $10 off your first package](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code [STYLEU10](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}!
 
