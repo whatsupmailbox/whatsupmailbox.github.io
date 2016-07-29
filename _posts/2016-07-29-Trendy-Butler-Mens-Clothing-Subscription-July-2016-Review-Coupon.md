@@ -16,7 +16,7 @@ imagefeature: "TrendyButlerJuly2016Items.jpg"
 date: 2016-07-29 09:21:39 -08:00
 ---
 
-<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
+<i><font size="2">Disclosure: This package was sent to me in exchange for an honest review.</font></i>
 
 [![Trendy Butler](http://whatsupmailbox.com/images/TrendyButlerJuly2016Package.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
@@ -115,6 +115,8 @@ The back side of the shorts show two pockets that are secured with buttons. A cl
 <br>
 
 And here's how it looks reversed:
+
+<br>
 
 [![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweSwitchStanceReversibleShorts3.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
