@@ -30,7 +30,7 @@ date: 2016-07-29 08:21:39 -08:00
 
 <br>
 
-[Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} is a subscription that delivers brand name and trendy men's clothing based on a style profile that you complete upon subscribing. And since men's clothing subscription are few and limited, I'm always up for reviewing one!
+[Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} is a subscription that delivers brand name and trendy menswear based on a style profile that you complete upon subscribing. And since men's clothing subscription are few and limited, I'm always up for reviewing one!
 
 Now let's get to the review!
 
