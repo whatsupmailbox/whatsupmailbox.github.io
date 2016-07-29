@@ -50,6 +50,12 @@ Here are a couple of examples of what they ask:
 
 [![Trendy Butler Style Questionnaire](http://whatsupmailbox.com/images/TrendyButlerStylePreference.png)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
+<br>
+
+[![Trendy Butler Style Questionnaire](http://whatsupmailbox.com/images/TrendyButlerStylePreference2.png)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
+
+<br>
+
 <H4>Based on my husband's profile, here is what they sent:</H4>
 
 [![Trendy Butler July 2016 Items](http://whatsupmailbox.com/images/TrendyButlerJuly2016Items.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
@@ -62,7 +68,7 @@ Here are a couple of examples of what they ask:
 
 **CHSV** Plaid Shirt, *Value $?*
 
-I communicated with them that my husband dresses mostly business casual and that he can never have enough dress shirts since you can wear them with jeans for a casual look, or trousers for a more formal look. So I wasn't surprised to see that they sent this shirt to me, and this was happily received too!
+I communicated with them that my husband dresses mostly business casual and that he can never have enough dress shirts since you can wear them with jeans for a casual look, or trousers for a more formal look. So I wasn't surprised to see that they sent this shirt, and this was happily received too!
 
 <br>
 
@@ -72,7 +78,7 @@ Here's a closer look at the collar area:
 
 [![Trendy Butler - CHSV Plaid Shirt](http://whatsupmailbox.com/images/TrendyButlerJuly2016CHSVShirt2.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-It says that the fit on this shirt is slim so we'll see how that looks like on me (picture below).
+It says that the fit on this shirt is slim so we'll see how that looks like on my husband (picture below).
 
 <br>
 
@@ -100,7 +106,7 @@ The back side of the shorts show two pockets that are secured with buttons. A cl
 
 <br>
 
-And here's how it looks like reversed:
+And here's how it looks reversed:
 
 [![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweReversibleShorts3.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
@@ -146,7 +152,7 @@ These socks are made of.... The herringbone pattern with purple patches make a g
 
 [![Trendy Butler - Ministry of Supply Socks](http://whatsupmailbox.com/images/TrendyButlerJuly2016MinistryOfSupplySocks3.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-These socks are comfortable and fit well.
+These socks are comfortable and fit well. Nothing to complain here!
 
 <br>
 
