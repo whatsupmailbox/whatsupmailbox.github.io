@@ -70,6 +70,8 @@ Here are a couple of examples of the Style Profile:
 
 **[Cohesive & Co](https://www.cohesiveapparel.com){:target="_blank} Belmont Buttondown Shirt in Blue**
 
+<br>
+
 I couldn't really find this exact shirt online but their buttondowns retail for $100+ and I see a lot of different style on sale at various retailers for $50+.
 
 My husband's profile is "Work Hard, Play Hard" and he mostly dresses in business casual. Dress shirts are definitely a must and an obvious choice for this profile so I wasn't surprised to see that they sent this. He loves buttondown shirts and can never have enough of them since you can wear them both casually or formal. This was a match!
@@ -95,6 +97,8 @@ The fit is perfect and just how my husband likes them. The small plaid pattern i
 [![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweSwitchStanceReversibleShorts.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
 **[Howe](http://howeclothing.com){:target="_blank"} 'Switch Stance' Reversible Shorts in Oyster Bar**
+
+<br>
 
 These shorts are available for sale at [Nordstrom](http://shop.nordstrom.com/s/howe-switch-stance-reversible-shorts/4156194?origin=category-personalizedsort&fashioncolor=NAVY%20BLAZE){:target="_blank"} for $85! They don't have this exact color anymore but it's exactly the same style.
 
@@ -149,6 +153,8 @@ These shorts look good and feel great. An item that my husband would never have 
 [![Trendy Butler - Ministry of Supply Socks](http://whatsupmailbox.com/images/TrendyButlerJuly2016MinistryOfSupplyAtlasDressSocks2.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
 **[Ministry of Supply Atlas Dress Socks](https://www.ministryofsupply.com/products/atlas-dress-socks){:target="_blank"}**
+
+<br>
 
 These socks are being sold for $15 currently and the material is made of 40% coffee-infused recycled polyester, 40% cotton, and 20% elastane. I've never heard of coffee-infused material before but it tunrs out that they have an odor control benefit. The herringbone pattern with purple patches on these socks make a great combo.
 
