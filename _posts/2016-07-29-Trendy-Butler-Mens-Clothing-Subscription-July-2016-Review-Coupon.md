@@ -16,6 +16,8 @@ imagefeature: "TrendyButlerJuly2016Items.jpg"
 date: 2016-07-29 08:21:39 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
+
 [![Trendy Butler](http://whatsupmailbox.com/images/TrendyButlerJuly2016Package.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
 **Subscription:** [Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
