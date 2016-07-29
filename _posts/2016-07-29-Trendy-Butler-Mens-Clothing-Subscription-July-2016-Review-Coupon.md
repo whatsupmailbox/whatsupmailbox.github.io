@@ -116,7 +116,7 @@ The back side of the shorts show two pockets that are secured with buttons. A cl
 
 And here's how it looks reversed:
 
-[![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweReversibleShorts3.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
+[![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweSwitchStanceReversibleShorts3.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
 When reversed, these shorts become a solid light khaki color! It still has the front two pockets, the belt loops, the button closure... it literally looks exactly like the reversible side minus the plaids. This is amazing!
 
