@@ -68,7 +68,7 @@ Here are a couple of examples of the Style Profile:
 
 [![Trendy Butler - CHSV Plaid Shirt](http://whatsupmailbox.com/images/TrendyButlerJuly2016CHSVShirt.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-[Cohesive & Co](https://www.cohesiveapparel.com){:target="_blank} Belmont Buttondown Shirt in Blue.
+**[Cohesive & Co](https://www.cohesiveapparel.com){:target="_blank} Belmont Buttondown Shirt in Blue**
 
 I couldn't really find this exact shirt online but their buttondowns retail for $100+ and I see a lot of different style on sale at various retailers for $50+.
 
@@ -94,9 +94,9 @@ The fit is perfect and just how my husband likes them. The small plaid pattern i
 
 [![Trendy Butler - Howe Reversible Shorts](http://whatsupmailbox.com/images/TrendyButlerJuly2016HoweReversibleShorts.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-[Howe](http://howeclothing.com){:target="_blank"} 'Switch Stance' Reversible Shorts in Oyster Bar, *Value $85*
+**[Howe](http://howeclothing.com){:target="_blank"} 'Switch Stance' Reversible Shorts in Oyster Bar**
 
-These shorts are available for sale at [Nordstrom](http://shop.nordstrom.com/s/howe-switch-stance-reversible-shorts/4156194?origin=category-personalizedsort&fashioncolor=NAVY%20BLAZE){:target="_blank"}! They don't have this exact color but it's exactly the same.
+These shorts are available for sale at [Nordstrom](http://shop.nordstrom.com/s/howe-switch-stance-reversible-shorts/4156194?origin=category-personalizedsort&fashioncolor=NAVY%20BLAZE){:target="_blank"} for $85! They don't have this exact color anymore but it's exactly the same style.
 
 I was surprised when I read that these shorts are REVERSIBLE! I don't think my husband has these type of shorts before and when I showed it to him, he seemed skeptical at first but became excited at the prospect of having 2 shorts in 1.
 
@@ -160,6 +160,6 @@ These socks are comfortable and fit well. Nothing to complain here!
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first experience with Trendy Butler and I have to say that it's pretty good. My husband tends to buy his clothes from Nordstrom or Neiman Marcus and I would say that the items they sent are definitely on par in terms of quality and brand, especially since the shorts are actually still sold in Nordstrom! The other brand featured is also on trend and modern, just the type my husband likes. They definitely listen to what your style or needs are and try their best to deliver. If you're a busy professional who doesn't have time to shop for clothes that often, or need additional fashion assistance to step up your style, I would say try this subscription out. It's like having a personal stylist that delivers brand name clothes to you every month. I can't wait to see what they send next month! 
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This is my first experience with Trendy Butler and I have to say that it's pretty good. My husband tends to buy his clothes from Nordstrom or Neiman Marcus and I would say that the items they sent are definitely on par in terms of quality and brand, especially since the shorts are actually still sold in Nordstrom! The other brand featured is also on trend and modern, just the type my husband likes. They definitely listen to what your style or needs are and try their best to deliver. Plus the value is totally there and for the price you pay, you certainly get more with the added bonus of convenience. If you're a busy professional who doesn't have time to shop for clothes that often, or need additional fashion assistance to step up your style, I would say try this subscription out. It's like having a personal stylist that delivers brand name clothes to you every month. I can't wait to see what they send next month! 
 
 If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} with coupon code [STYLEU10](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}!
