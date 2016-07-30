@@ -26,11 +26,11 @@ date: 2016-07-30 10:19:39 -08:00
 
 **What's in the box:** Receive a selection of five beauty products that include trendy, high-end and emerging brands in both deluxe travel sizes and full size, housed in a pretty pink reusable keepsake box.
 
-**Coupon:** Use coupon code **COOLOFF** to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
+**Coupon:** Use coupon code [COOLOFF](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"} to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
 
 <br>
 
-Glossybox is one of those subscription boxes that sends out beauty products such as skincare and makeup. It's different than some beauty subscriptions out there in that the sizes include full sizes - not all, but sometimes quite a few.
+Glossybox is one of those subscription boxes that sends out beauty products such as skincare and makeup. It's different than some beauty subscriptions out there in that the sizes include full sizes - not all, but quite a few.
 
 <br>
 
@@ -160,24 +160,15 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
       <TD>$16</TD>
    </TR>
    <TR>
-      <TD>Sebastian Professional Dark Oil</TD>
-      <TD>$bonus</TD>
+      <TD>Eyeko Fat Eye Stickl</TD>
+      <TD>$12</TD>
    </TR>
-   <TR>
-      <TD>SinfulColors Kylie Jenner Nail Polish</TD>
-      <TD>$3</TD>
-   </TR>
-   <TR>
-      <TD>Caolion Hot Cool Pore Pack Duo</TD>
-      <TD>$10</TD>
-   </TR>
-   <TR>
-      <TD>Tan Towel Self-Tan Towelette</TD>
-      <TD>$8</TD>
+   <TR>Glov Quick Treat</TD>
+      <TD>$5</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$61</big></b></TD>
+      <TD><b><big>$43</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
