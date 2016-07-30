@@ -163,7 +163,8 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
       <TD>Eyeko Fat Eye Stickl</TD>
       <TD>$12</TD>
    </TR>
-   <TR>Glov Quick Treat</TD>
+   <TR>
+      <TD>Glov Quick Treat</TD>
       <TD>$5</TD>
    </TR>
    <TR>
