@@ -109,7 +109,9 @@ This is something new that I've never seen before. It's a small cloth glove that
 
 <br>
 
-[![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat2.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+<center><a href="glossybox.evyy.net/c/164125/266055/4265" target="_blank">
+<img src="/images/GlossyboxJuly2016GlovQuickTreat2.jpg" border="0" style="border:none;max-width:100%;" alt="Glov Quick Treat Makeup Remover" />
+</a></center>
 
 As you can see, this size is meant to be inserted on to your finger. They do come in bigger sizes as I think this might be too small to remove my complete makeup everytime, but it does come in handy when you're traveling on the plane or when space is of essence.
 
