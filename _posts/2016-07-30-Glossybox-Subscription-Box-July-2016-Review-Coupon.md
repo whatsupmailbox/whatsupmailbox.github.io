@@ -146,7 +146,7 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:40%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Items</center></H3>
