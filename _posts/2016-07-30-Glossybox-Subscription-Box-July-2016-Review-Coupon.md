@@ -124,8 +124,10 @@ From their info, it says that it's reusable for up to 3 months! I will surely pu
 
 **Bonus Item:**
 
+<br>
+
 <center><a href="http://glossybox.evyy.net/c/164125/266055/4265" target="_blank">
-<img src="/images/GlossyboxJuly2016HelloFreshGiftCard.jpg" border="0" style="border:none;max-width:100%;" alt="Hello Fresh $50 Gift Card" width="500" />
+<img src="/images/GlossyboxJuly2016HelloFreshGiftCard.jpg" border="0" style="border:none;max-width:100%;" alt="Hello Fresh $50 Gift Card" width="400" />
 </a></center>
 
 **Hello Fresh** $50 Gift Card*
