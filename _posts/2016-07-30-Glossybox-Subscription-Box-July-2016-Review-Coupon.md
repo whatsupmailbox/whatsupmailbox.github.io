@@ -97,7 +97,7 @@ This spray will speed up your manicure drying process and keep your newly colore
 
 **Eyeko** Fat Eye Stick, Full Size. *Value $12*
 
-I have quite a few eyeliners from Eyeko thanks to other subs and they work pretty well. I don't have this type of eye stick though so it'll be great to try. There's no color stated on the stick, but it's a dark bronze color that has shimmer. You can wear it lightly during the day and layer it on more intense for the night.
+I have quite a few eyeliners from Eyeko thanks to other subs and they work pretty well. I don't have this eye stick though so it'll be great to try. There's no color stated on the stick, but it's a dark bronze color that has shimmer. You can wear it lightly during the day and layer it on more intense for the night.
 
 <br>
 
@@ -111,9 +111,9 @@ This is something new that I've never seen before. It's a small cloth glove that
 
 [![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat2.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-As you can see, this size is meant to be inserted on to your finger. They do come in bigger sizes as I think this might be too small to remove my complete face makeup everytime, but it does come in handy when you're traveling on the plane or when space is of essence.
+As you can see, this size is meant to be inserted on to your finger. They do come in bigger sizes as I think this might be too small to remove my complete makeup everytime, but it does come in handy when you're traveling on the plane or when space is of essence.
 
-PRODUCT APPLICATION
+PRODUCT APPLICATION  
 The 4 easy steps to use GLOV: moisten with water, remove make-up, hand wash with soap and let it dry for re-use!
 
 From their info, it says that it's reusable for up to 3 months! I will surely put that to the test.
