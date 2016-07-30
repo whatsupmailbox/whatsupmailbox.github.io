@@ -119,6 +119,7 @@ PRODUCT APPLICATION
 The 4 easy steps to use GLOV: moisten with water, remove make-up, hand wash with soap and let it dry for re-use!
 
 From their info, it says that it's reusable for up to 3 months! I will surely put that to the test.
+
 <br>
 
 **Bonus Item:**
