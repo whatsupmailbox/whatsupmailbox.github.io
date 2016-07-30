@@ -71,42 +71,52 @@ The Info Card:
 
 [![Fango Essenziali Moisturize Mask](http://whatsupmailbox.com/images/GlossyboxJuly2016FangoEssenzialiMoisturizeMask.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**Fango Essenziali** Moisturize Mask, 1 sheet. *Value $*
+**Fango Essenziali** Moisturize Treatment Sheet Mask, 1 sheet. *Value $7*
 
 This mask will help to deeply moisturize dry skin. It has Avocado, Kelp and Acai berry to name a few of its ingredients. I think I'll be saving this for Winter when my skin actually gets pretty parched.
 
 <br>
 
-[![SINFULSHINE Top Coat](http://whatsupmailbox.com/images/GlossyboxJuly2016SinfulShineTopCoat.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![SINFULSHINE Top Coat](http://whatsupmailbox.com/images/GlossyboxJuly2016SinfulColorsTopCoat.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**SINFULSHINE** Top Coat, Full Size. *Value $*
+**SINFULCOLORS** Top Coat, Full Size. *Value $3*
 
-Subscribers received different colors and I am super happy that I got a top coat instead. I was actually in need of one so this couldn't have come at a better time.
+Subscribers received either a color polish or this top coat and I'm super happy that I got the top coat. I was actually in need of one so this couldn't have come at a better time.
 
 <br>
 
 [![Leighton Denny Miracle Mist Speed Drying Spray for Nail Polish](http://whatsupmailbox.com/images/GlossyboxJuly2016LeightonDennyMiracleMistSpeedDryingSprayNailPolish.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**Leighton Denny** Miracle Mist Speed Drying Spray for Nail Polish, Full Size. *Value $*
+**Leighton Denny** Miracle Mist Speed Drying Spray for Nail Polish, Full Size. *Value $16*
 
-We all know that when it comes to doing your manicure, time can get lost just by waiting for your newly applied colors to dry. I myself always try to use top coats that will dry fast so that I can continue doing what I need to do instead of sitting around with my hands idle. This spray will help you save time and get you going in no time.
+This spray will speed up your manicure drying process and keep your newly colored nails smudge-free for days. I've always just used fast-drying top coats so I'm excited to try this out.
 
 <br>
 
 [![Eyeko Fat Eye Stick](http://whatsupmailbox.com/images/GlossyboxJuly2016EyekoFatEyeStick.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**Eyeko** Fat Eye Stick, Full Size. *Value $*
+**Eyeko** Fat Eye Stick, Full Size. *Value $12*
 
-I have quite a few eyeliners from Eyeko thanks to other subs and they work pretty well. I don't have this type of eye stick though so it'll be great to try. You can use this both as an eyeliner or eyeshadow. Based on how fat it is, I think I'll use it as an eyeshadow.
+I have quite a few eyeliners from Eyeko thanks to other subs and they work pretty well. I don't have this type of eye stick though so it'll be great to try. There's no color stated on the stick, but it's a dark bronze color that has shimmer. You can wear it lightly during the day and layer it on more intense for the night.
 
 <br>
 
 [![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**Glov** Quick Treat Makeup Remover, Sample Foil Packet. *Value $*
+**Glov** Quick Treat Makeup Remover, Full Size. *Value $5*
 
-I'm not a big fan of receiving foil packet samples in any of my subs. It just seems cheap and you can get them free anyway from department stores. Oh well, I guess I'll still try it out since it's a makeup remover so I wouldn't need to use it often to see results.
+This is something new that I've never seen before. It's a small cloth glove that fits on your finger to remove makeup.
 
+<br>
+
+[![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat2.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+
+As you can see, this size is meant to be inserted on to your finger. They do come in bigger sizes as I think this might be too small to remove my complete face makeup everytime, but it does come in handy when you're traveling on the plane or when space is of essence.
+
+PRODUCT APPLICATION
+The 4 easy steps to use GLOV: moisten with water, remove make-up, hand wash with soap and let it dry for re-use!
+
+From their info, it says that it's reusable for up to 3 months! I will surely put that to the test.
 <br>
 
 **Bonus Item:**
@@ -119,7 +129,7 @@ This Hello Fresh gift card is good for $50 off your first 2 months. Each month c
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** So last month's box was quite a disappointment and although this month's box faired better, it was still lacking in my opinion. A foil packet sample should not be counted as an item and everything else just seemed meh to me. I do appreciate the nail polish top coat and the eyeshadow stick, but I'm not sure those two alone should cost me $21 which is the price of this sub. Oh well, off I go to unsubscribe for awhile until I see some good spoiler or promo to get me to subscribe again.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** So last month's box was quite a disappointment and although this month's box faired better, it was still lacking in my opinion. Personally I don't think I would have purchased anything myself if I was given the choice, but since I've already paid for the box, I'm glad that at least I'm able to use every single item in it, so I guess it's still of some value to me. Glossybox is one of those boxes to me where sometime you receive amazing items and sometimes it's a total miss. But, they do have a great promo going on now though, where you'll receive 2 extra bonus boxes with your first box, so that would totally make the cost of this box a truly great deal. So if you haven't subscribed and are a makeup and skincare junkie, now is probably a great time to try them out. You can always cancel after your first box, just be sure to do it before the 14th of the month prior to your next shipment (e.g. you must cancel by January 14th if you want to cancel your February charge/box).
 
 Interested in subscribing? You can [visit their website or subscribe here](glossybox.evyy.net/c/164125/266055/4265) to start receiving monthly pink boxes! Plus use coupon code **COOLOFF** to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
 
@@ -138,16 +148,16 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>LA Splash Diamond Lipgloss</TD>
-      <TD>$18</TD>
+      <TD>Fango Moisturize Mask</TD>
+      <TD>$7</TD>
    </TR>
    <TR>
-      <TD>Icona Milano Mascara</TD>
-      <TD>$19</TD>
+      <TD>SINFULCOLORS Top Coat</TD>
+      <TD>$3</TD>
    </TR>
   <TR>
-      <TD>Sebastian Professional Hairspray</TD>
-      <TD>$3</TD>
+      <TD>Leighton Denny Drying Spray</TD>
+      <TD>$16</TD>
    </TR>
    <TR>
       <TD>Sebastian Professional Dark Oil</TD>
