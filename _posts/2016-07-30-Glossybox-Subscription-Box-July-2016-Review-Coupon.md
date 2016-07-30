@@ -9,7 +9,7 @@ categories:
 tags: [Glossybox, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GlossyboxJuly2016Items.jpg"
@@ -123,7 +123,9 @@ From their info, it says that it's reusable for up to 3 months! I will surely pu
 
 **Bonus Item:**
 
-[![Hello Fresh $50 Gift Card](http://whatsupmailbox.com/images/GlossyboxJuly2016HelloFreshGiftCard.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+<center><a href="http://glossybox.evyy.net/c/164125/266055/4265" target="_blank">
+<img src="/images/GlossyboxJuly2016HelloFreshGiftCard.jpg" border="0" style="border:none;max-width:100%;" alt="Hello Fresh $50 Gift Card" width="500" />
+</a></center>
 
 **Hello Fresh** $50 Gift Card*
 
