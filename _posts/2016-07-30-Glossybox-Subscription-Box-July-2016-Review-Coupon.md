@@ -16,9 +16,9 @@ imagefeature: "GlossyboxJuly2016Items.jpg"
 date: 2016-07-30 10:19:39 -08:00
 ---
 
-[![Glossybox July 2016 Package](http://whatsupmailbox.com/images/GlossyboxJuly2016Package.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Glossybox July 2016 Package](http://whatsupmailbox.com/images/GlossyboxJuly2016Package.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
-**Subscription:** [Glossybox](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+**Subscription:** [Glossybox](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Cost:** $21/monthly, $126 for 6 months, and $222/annually (taxes apply to New York, New Jersey and Kentucky).
 
@@ -26,7 +26,7 @@ date: 2016-07-30 10:19:39 -08:00
 
 **What's in the box:** Receive a selection of five beauty products that include trendy, high-end and emerging brands in both deluxe travel sizes and full size, housed in a pretty pink reusable keepsake box.
 
-**Coupon:** Use coupon code [COOLOFF](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"} to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
+**Coupon:** Use coupon code [COOLOFF](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"} to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
 
 <br>
 
@@ -34,19 +34,19 @@ Glossybox is one of those subscription boxes that sends out beauty products such
 
 <br>
 
-[![First look at unboxing](http://whatsupmailbox.com/images/GlossyboxJuly2016OpenPackage.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![First look at unboxing](http://whatsupmailbox.com/images/GlossyboxJuly2016OpenPackage.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 First look at unboxing shows the actual Glossybox inside, a pretty pastel pink box that is totally reusable.
 
 <br>
 
-[![Glossybox July 2016 Box](http://whatsupmailbox.com/images/GlossyboxJuly2016Box.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Glossybox July 2016 Box](http://whatsupmailbox.com/images/GlossyboxJuly2016Box.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 I have a lot of these boxes by now and I use them to keep pretty little things inside.
 
 <br>
 
-[![Glossybox July 2016 Open Box](http://whatsupmailbox.com/images/GlossyboxJuly2016OpenBox.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Glossybox July 2016 Open Box](http://whatsupmailbox.com/images/GlossyboxJuly2016OpenBox.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 Inside you'll find your items nicely packaged and wrapped with tissue paper then finished off with a black ribbon. You also see the info card that they always include with every box.
 
@@ -63,13 +63,13 @@ The Info Card:
 
 <H4>And here are my Glossybox items:</H4>
 
-[![Glossybox July 2016 Items](http://whatsupmailbox.com/images/GlossyboxJuly2016Items.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Glossybox July 2016 Items](http://whatsupmailbox.com/images/GlossyboxJuly2016Items.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 <br>
 
 <H4>Items in Detail:</H4>
 
-[![Fango Essenziali Moisturize Mask](http://whatsupmailbox.com/images/GlossyboxJuly2016FangoEssenzialiMoisturizeMask.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Fango Essenziali Moisturize Mask](http://whatsupmailbox.com/images/GlossyboxJuly2016FangoEssenzialiMoisturizeMask.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Fango Essenziali** Moisturize Treatment Sheet Mask, 1 sheet. *Value $7*
 
@@ -77,7 +77,7 @@ This mask will help to deeply moisturize dry skin. It has Avocado, Kelp and Acai
 
 <br>
 
-[![SINFULSHINE Top Coat](http://whatsupmailbox.com/images/GlossyboxJuly2016SinfulColorsTopCoat.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![SINFULSHINE Top Coat](http://whatsupmailbox.com/images/GlossyboxJuly2016SinfulColorsTopCoat.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **SINFULCOLORS** Top Coat, Full Size. *Value $3*
 
@@ -85,7 +85,7 @@ Subscribers received either a color polish or this top coat and I'm super happy 
 
 <br>
 
-[![Leighton Denny Miracle Mist Speed Drying Spray for Nail Polish](http://whatsupmailbox.com/images/GlossyboxJuly2016LeightonDennyMiracleMistSpeedDryingSprayNailPolish.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Leighton Denny Miracle Mist Speed Drying Spray for Nail Polish](http://whatsupmailbox.com/images/GlossyboxJuly2016LeightonDennyMiracleMistSpeedDryingSprayNailPolish.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Leighton Denny** Miracle Mist Speed Drying Spray for Nail Polish, Full Size. *Value $16*
 
@@ -93,7 +93,7 @@ This spray will speed up your manicure drying process and keep your newly colore
 
 <br>
 
-[![Eyeko Fat Eye Stick](http://whatsupmailbox.com/images/GlossyboxJuly2016EyekoFatEyeStick.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Eyeko Fat Eye Stick](http://whatsupmailbox.com/images/GlossyboxJuly2016EyekoFatEyeStick.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Eyeko** Fat Eye Stick, Full Size. *Value $12*
 
@@ -101,7 +101,7 @@ I have quite a few eyeliners from Eyeko thanks to other subs and they work prett
 
 <br>
 
-[![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Glov Quick Treat Makeup Remover](http://whatsupmailbox.com/images/GlossyboxJuly2016GlovQuickTreat.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Glov** Quick Treat Makeup Remover, Full Size. *Value $5*
 
@@ -109,7 +109,7 @@ This is something new that I've never seen before. It's a small cloth glove that
 
 <br>
 
-<center><a href="glossybox.evyy.net/c/164125/266055/4265" target="_blank">
+<center><a href="http://glossybox.evyy.net/c/164125/266055/4265" target="_blank">
 <img src="/images/GlossyboxJuly2016GlovQuickTreat2.jpg" border="0" style="border:none;max-width:100%;" alt="Glov Quick Treat Makeup Remover" />
 </a></center>
 
@@ -123,7 +123,7 @@ From their info, it says that it's reusable for up to 3 months! I will surely pu
 
 **Bonus Item:**
 
-[![Hello Fresh $50 Gift Card](http://whatsupmailbox.com/images/GlossyboxJuly2016HelloFreshGiftCard.jpg)](glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
+[![Hello Fresh $50 Gift Card](http://whatsupmailbox.com/images/GlossyboxJuly2016HelloFreshGiftCard.jpg)](http://glossybox.evyy.net/c/164125/266055/4265){:target="_blank"}
 
 **Hello Fresh** $50 Gift Card*
 
@@ -133,7 +133,7 @@ This Hello Fresh gift card is good for $50 off your first 2 months. Each month c
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** So last month's box was quite a disappointment and although this month's box faired better, it was still lacking in my opinion. Personally I don't think I would have purchased anything myself if I was given the choice, but since I've already paid for the box, I'm glad that at least I'm able to use every single item in it, so I guess it's still of some value to me. Glossybox is one of those boxes to me where sometimes you receive amazing items and sometimes it's a total miss. But, they do have a great promo going on now though, where you'll receive 2 extra bonus boxes with your first box, so that would totally make the cost of this box a truly great deal. So if you haven't subscribed and are a makeup and skincare junkie, now is probably a great time to try them out. You can always cancel after your first box, just be sure to do it before the 14th of the month prior to your next shipment (e.g. you must cancel by January 14th if you want to cancel your February charge/box).
 
-Interested in subscribing? You can [visit their website or subscribe here](glossybox.evyy.net/c/164125/266055/4265) to start receiving monthly pink boxes! Plus use coupon code **COOLOFF** to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
+Interested in subscribing? You can [visit their website or subscribe here](http://glossybox.evyy.net/c/164125/266055/4265) to start receiving monthly pink boxes! Plus use coupon code **COOLOFF** to get two FREE Bonus boxes when you subscribe to GLOSSYBOX! *Offer valid through July 31st, 2016; 11:59 pm ET. New subscribers only.
 
 And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337){:target="_blank"} to get $2.75 cashback on your purchase at Glossybox, I always use them and get money back!
 
