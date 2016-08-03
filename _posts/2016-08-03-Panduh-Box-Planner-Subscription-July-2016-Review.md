@@ -70,7 +70,7 @@ Gorgeous. Gorgeous. Gourgeous!
 
 <H4>Items in detail:</H4>
 
-![Panduh Box July 2016 - Haribo Gummy Bears](http://whatsupmailbox.com/images/Panduh-Box-July-2016-Haribo-Gold-Gummy-Bears.jpg)
+<center><img src="/images/Panduh-Box-July-2016-Haribo-Gold-Gummy-Bears.jpg" border="0" style="border:none;max-width:100%;" alt="Panduh Box July 2016 - Haribo Gummy Bears" width="400" /></center>
 
 **Haribo Gummy Bears**
 
