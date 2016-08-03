@@ -123,7 +123,7 @@ From their info, it says that it's reusable for up to 3 months! I will surely pu
 <br>
 
 <center><a href="http://glossybox.evyy.net/c/164125/266055/4265" target="_blank">
-<img src="/images/GlossyboxJuly2016SabonShowerOilDelicateJasmine.jpg" border="0" style="border:none;max-width:100%;" alt="Sabon Shower Oil in Delicate Jasmine" />
+<img src="/images/GlossyboxJuly2016SabonShowerOilDelicateJasmine.jpg" border="0" style="border:none;max-width:100%;" alt="Sabon Shower Oil in Delicate Jasmine" width="500" />
 </a></center>
 
 **Sabon** Shower oil in Delicate Jasmine, Travel Size 50 ml. *Value $2.30*
