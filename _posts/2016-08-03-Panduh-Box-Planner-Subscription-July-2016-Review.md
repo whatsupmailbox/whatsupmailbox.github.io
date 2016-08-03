@@ -46,7 +46,7 @@ I love unboxing this box, it's always a surprise (and joy) to find how it's deco
 
 <H4>Note from the curator:</H4>
 
-![Panduh Box July 2016 Info Card](http://whatsupmailbox.com/images/Panduh-Box-July-2016-Gift-Voucher-Stickers.jpg)
+<center><img src="/images/Panduh-Box-July-2016-Gift-Voucher-Stickers.jpg" border="0" style="border:none;max-width:100%;" alt="Panduh Box July 2016 Info Card" width="400" /></center>
 
 Instead of a welcome card that was in my last box, for July it has been replaced with a sheet of bonus stickers and a $5 gift voucher to spend at [PaperPanduh.com](http://www.paperpanduh.com/){:target="_blank"}. I can honestly say that I like this format better, I mean who doesn't like extra stickers!!
 
