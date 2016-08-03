@@ -122,6 +122,16 @@ From their info, it says that it's reusable for up to 3 months! I will surely pu
 
 <br>
 
+<center><a href="http://glossybox.evyy.net/c/164125/266055/4265" target="_blank">
+<img src="/images/GlossyboxJuly2016SabonShowerOilDelicateJasmine.jpg" border="0" style="border:none;max-width:100%;" alt="Sabon Shower Oil in Delicate Jasmine" />
+</a></center>
+
+**Sabon** Shower oil in Delicate Jasmine, Travel Size 50 ml. *Value $2.30*
+
+Subscribers received either this shower oil or the lotion version. I have way too many lotions going on now thanks to other subs so I'm glad I get to try out their shower oil. Plus I love the scent of Jasmine so this will definitely be used.
+
+<br>
+
 **Bonus Item:**
 
 <br>
@@ -175,8 +185,12 @@ And don't forget to use [EBATES](http://www.ebates.com/rf.do?referrerid=nFbj2Dqr
       <TD>$5</TD>
    </TR>
    <TR>
+      <TD>Sabon Shower Oil</TD>
+      <TD>$2.30</TD>
+   </TR>
+   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$43</big></b></TD>
+      <TD><b><big>$45.30</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
