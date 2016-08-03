@@ -78,7 +78,7 @@ How sweet is this litte treat! First off, I need to spotlight the fact that she 
 
 <br>
 
-![Panduh Box July 2016 - 15 Ways To Treat Yo Self](http://whatsupmailbox.com/images/Panduh-Box-July-2016-15-Ways-To-Treat-Yourself.jpg)
+<center><img src="/images/Panduh-Box-July-2016-15-Ways-To-Treat-Yourself.jpg" border="0" style="border:none;max-width:100%;" alt="Panduh Box July 2016 - 15 Ways To Treat Yo Self" width="500" /></center>
 
 **15 Ways To Treat Yo' Self**
 
