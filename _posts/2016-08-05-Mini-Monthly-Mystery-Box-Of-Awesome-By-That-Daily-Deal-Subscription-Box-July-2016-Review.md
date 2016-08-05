@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "mini-monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Package.jpg"
-date: 2016-08-04 07:29:39 -08:00
+date: 2016-08-05 10:29:39 -08:00
 ---
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/mini-monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-package.jpg)
