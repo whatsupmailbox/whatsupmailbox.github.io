@@ -186,7 +186,7 @@ I wouldn't say it was really bright, but for the size, it's pretty good and look
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** My first Mystery Box and I can honestly say I have a bit of mixed feelings about it. On one hand, I knew that I would get the hammock and that made the cost of the box somewhat justifiable. On the other hand, I'm not so sure I enjoy the other items. I can certainly find use in them and will use them eventually. The total value also outdid the cost so at least I'm happy with that. I guess this month's items were just not up my alley. I've seen what they've sent in previous months and loved them, so hopefully this month was just a bit of a dud and next month's box will be better. Fingers crossed!
 
-Interested in subscribing? You can go [subscribe here](http://www.thatdailydeal.com/home.php?id=18483){:target="_blank"} to start receiving their monthly mystery boxes!
+Interested in subscribing? You can [subscribe here](http://www.thatdailydeal.com/home.php?id=18483){:target="_blank"} to start receiving their monthly mystery boxes! I dare you!
 
 <br>
 
