@@ -74,7 +74,7 @@ You can purchase this game online at [Target.com](http://goto.target.com/c/16412
 
 I couldn't really find a value for this exact item as there are so many varieties at many different price points. So the value is just based on my personal judgement.
 
-I can't really say I was happy to see this in my package, but hey, it is a mystery box so I can't complain too much. I would not personally use this, but know that our friends who have children will so this will be given to them.
+I can't really say I was happy to see this in my package, but hey, it is a mystery box so I can't complain too much. I wouldn't use it myself, but I know that our friends who have children will, so this will be given to them.
 
 <br>
 
