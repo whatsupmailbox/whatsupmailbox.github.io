@@ -148,7 +148,7 @@ They definitely magnify and act as binoculars. You can't see really far though, 
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-hot-wheels-dc-comics-dream-van-xgw.jpg)
 
-**Hot Wheels DC Comics Dream Van XGW**, *Value $5.35* ([Amazon](https://www.amazon.com/Hot-Wheels-DC-Comics-Darkseid/dp/B008SAWIL8){:target="_blank"})*
+**Hot Wheels DC Comics Dream Van XGW**, *Value $5.35 ([Amazon](https://www.amazon.com/Hot-Wheels-DC-Comics-Darkseid/dp/B008SAWIL8){:target="_blank"})*
 
 <br>
 
