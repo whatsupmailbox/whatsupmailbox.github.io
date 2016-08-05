@@ -15,7 +15,9 @@ imagefeature: "Ipsy-August-2016-Glam-Bag-Reveal.png"
 date: 2016-08-05 11:21:39 -08:00
 ---
 
-[Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} reveals for July Glam Bags are up!
+<p></p>
+
+<center>[Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} reveals for August Glam Bags are up!</center>
 
 If you're not aware, Ipsy has changed their system and now you don't have to share through social media anymore to see what items you'll be getting in your glam bag every month! Finally! That whole sharing just to reveal my items was getting pretty annoying. So now all you have to do is login to your account and you'll see your items, easy peasy!
 
