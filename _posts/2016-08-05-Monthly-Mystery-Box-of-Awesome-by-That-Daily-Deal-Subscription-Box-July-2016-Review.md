@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Monthly Mystery Box of Awesome by That Daily Deal July 2016 Review!"
+title: "Monthly Mystery Box of Awesome by That Daily Deal - July 2016 Review!"
 description: ""
-headline: "Monthly Mystery Box of Awesome by That Daily Deal July 2016 Review!"
+headline: "Monthly Mystery Box of Awesome by That Daily Deal - July 2016 Review!"
 categories: 
       - Subscriptions
       - Reviews
