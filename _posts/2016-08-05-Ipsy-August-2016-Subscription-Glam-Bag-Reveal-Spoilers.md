@@ -27,7 +27,7 @@ Here's what I'll be getting this month:
 
 <br>
 
-[![My Ipsy August 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/Ipsy-August-2016-Glam-Bag-Reveall.png)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+[![My Ipsy August 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/Ipsy-August-2016-Glam-Bag-Reveal.png)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 <ul>
 <li>Ipsy August 2016 Glam Bag</li>
