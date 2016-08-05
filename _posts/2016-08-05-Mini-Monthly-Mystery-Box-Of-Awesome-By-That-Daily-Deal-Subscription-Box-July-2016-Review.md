@@ -12,7 +12,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "mini-monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Package.jpg"
+imagefeature: "mini-monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-package.jpg"
 date: 2016-08-05 15:15:39 -08:00
 ---
 
