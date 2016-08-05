@@ -52,7 +52,9 @@ Every month, they do a promotion of one (or more) people receiving SUPER boxes. 
 
 <H4>Items in detail:</H4>
 
-![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-hammock.jpg)
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Ultra-Light-Parachute-Hammock-Travel-Bag.jpg)
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Ultra-Light-Parachute-Hammock-Travel-Bag-02.jpg)
 
 **Ultra Light Parachute Hammock w/ Built In Travel Bag** *Value $12.49  ([13deals.com](http://www.13deals.com/store/products/37872-ultra-light-parachute-hammock-w-built-in-travel-bag-with-exclusive-secret-in-cart-deals-ships-free){:target="_blank"})*
 
