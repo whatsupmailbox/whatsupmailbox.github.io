@@ -9,11 +9,11 @@ categories:
 tags: [Monthly Mystery Box of Awesome, Subscriptions, Reviews, July 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Package.jpg"
-date: 2016-08-04 08:29:39 -08:00
+date: 2016-08-05 08:29:39 -08:00
 ---
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-Package.jpg)
@@ -22,7 +22,7 @@ date: 2016-08-04 08:29:39 -08:00
 
 **Cost:** $24.99/month for the Standard Box or $34.98/month for the Deluxe Box + Free Shipping to the U.S.
 
-**What's in the box:** Every month you will receive an exclusive mystery box with goodies ONLY for the people on the monthly mystery box program.
+**What's in the box:** Every month you will receive an exclusive mystery box with goodies ONLY for the people on the monthly mystery box program. Subscribe before the 10th to get the current month's box. Boxes ship between the 15th and the 19th of every month.
 
 <br>
 
@@ -184,7 +184,7 @@ I wouldn't say it was really bright, but for the size, it's pretty good and look
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** My first Mystery Box and I can honestly say I have a bit of mixed feelings about it. On one hand, I knew that I would get the hammock and that made the cost of the box somewhat justifiable. On the other hand, I'm not so sure I enjoy the other items. I can certainly find use in them and will use them eventually. The total value also outdid the cost so at least I'm happy with that. I guess this month's items were just not up my alley. I've seen what they've sent in previous months and loved them, so hopefully this month was just a bit of a dud and next month's box will be better. Fingers crossed!
 
-Interested in subscribing? You can go [subscribe here](http://www.thatdailydeal.com/home.php?id=18483){:target="_blank"} to start receiving their monthly mystery boxes! Subscribe before the 10th to get the current month's box. Boxes ship between the 15th and the 19th of every month.
+Interested in subscribing? You can go [subscribe here](http://www.thatdailydeal.com/home.php?id=18483){:target="_blank"} to start receiving their monthly mystery boxes!
 
 <br>
 
