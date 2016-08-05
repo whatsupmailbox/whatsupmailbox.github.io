@@ -54,7 +54,7 @@ Every month, they do a promotion of one (or more) people receiving SUPER boxes. 
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-hammock.jpg)
 
-**Hammock with Travel Bag**
+**Ultra Light Parachute Hammock w/ Built In Travel Bag** *Value $12.49  ([13deals.com](http://www.13deals.com/store/products/37872-ultra-light-parachute-hammock-w-built-in-travel-bag-with-exclusive-secret-in-cart-deals-ships-free){:target="_blank"})*
 
 <br>
 
@@ -64,7 +64,7 @@ This item was revealed to be in the box prior, so I knew I was getting this. My 
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-contour-3-in-1-massage-pillow.jpg)
 
-**Contour 3-in-1 Massage Pillow**
+**Contour 3-in-1 Massage Pillow**, *Value $12.45 ([Amazon](https://www.amazon.com/GetSet2Save-Contour-3-in-1-Massage-Pillow/dp/B00SBOIGJ4){:target="_blank"})*
 
 <br>
 
@@ -102,17 +102,17 @@ It felt comfortable and it did vibrate/massage nicely. I'm more of a deep-tissue
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-kp-industries-raft-air-pump.jpg)
 
-**KP Industries Raft Air Pump**
+**KP Industries Raft Air Pump**, *Value $14.99 (Ebay)*
 
 <br>
 
-This is an air pump that you can use to inflate all your outdoor or indoor inflatables. From air-beds to pool loungers, you name it. I already have one that I love so I'm not sure if I'll be using this right away, but it's good to have a spare just in case.
+This is an air pump that you can use to inflate all your outdoor or indoor inflatables. From rafts to air-beds to pool loungers, you name it. I already have one that I love so I'm not sure if I'll be using this right away, but it's good to have a spare just in case.
 
 <br>
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-lighting-science-basics-led-bulbs.jpg)
 
-**Lighting Science Basics LED Light Bulbs**
+**Lighting Science Basics LED Light Bulbs**, *Value $14.99 ([Amazon](https://www.amazon.com/Lighting-Science-Equivalent-Non-Dimmable-4-Pack/dp/B0175I79RQ){:target="_blank"})*
 
 <br>
 
@@ -130,6 +130,94 @@ As I mentioned earlier, I did buy some mystery add-ons to this month's box, 3 to
 
 ![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-zoomies-hands-free-binoculars.jpg)
 
-**Zoomies Hands-Free Binoculars**
+**Zoomies Hands-Free Binoculars**, *Value $9.50 ([Amazon](https://www.amazon.com/As-Seen-On-TV-ZM013124/dp/B00DVQF1F4){:target="_blank"})*
 
-This looked really weird at first when I took it out of the box. But I was being a good sport so I put these on (
+This looked really weird at first when I took it out of the box. But I was being a good sport so I put these on (away from any living person who can possible see me in these). 
+
+<br>
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-zoomies-hands-free-binoculars-02.jpg)
+
+You adjust the strength through the side knobs (both left and right) and there's even a sliding switch inside that makes the lenses tinted, they call it sunglasses mode. #lol
+
+They definitely magnify and act as binoculars. You can't see really far though, but it is pretty nifty and cool. I just don't think I'll be using this in public. My husband on the other hand has no issues with it so it's safe to say, he can have this.
+
+<br>
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-hot-wheels-dc-comics-dream-van-xgw.jpg)
+
+**Hot Wheels DC Comics Dream Van XGW**, *Value $5.35* ([Amazon](https://www.amazon.com/Hot-Wheels-DC-Comics-Darkseid/dp/B008SAWIL8){:target="_blank"})*
+
+<br>
+
+I know this is a mystery box, but man oh man, this was a shocker to receive (at least for me)! Thankfully I have friends who have children and can gift it to them.
+
+<br>
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-dcule-pocket-lamp.jpg)
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-dcule-pocket-lamp-02.jpg)
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-dcule-pocket-lamp-03.jpg)
+
+**dcule 5 x LED Pocket Lamp**, *Value $3.02 ([Amazon](https://www.amazon.com/Pocket-Credit-Card-Wallet-Light/dp/B0055S41CA){:target="_blank"})*
+
+This is a pocket lamp in a size of a credit card. It's very compact that you can slip it in your wallet for when you need emergency light. The silhoutte looks like a light bulb and you flip that up to turn on the light.
+
+<br>
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-dcule-pocket-lamp-04.jpg)
+
+You can lay it flat on a surface or carry it around with you as some sort of flashlight. It's very lightweight and easy to grip.
+
+<br>
+
+Here's how it looks in the dark:
+
+<br>
+
+![Monthly Mystery Box of Awesome by That Daily Deal](http://whatsupmailbox.com/images/monthly-mystery-box-of-awesome-by-that-daily-deal-july-2016-dcule-pocket-lamp-05.jpg)
+
+I wouldn't say it was really bright, but for the size, it's pretty good and looks cool. Plus it was part of the $.98 mystery add on so this is totally worth that price!
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** My first Mystery Box and I can honestly say I have a bit of mixed feelings about it. On one hand, I knew that I would get the hammock and that made the cost of the box somewhat justifiable. On the other hand, I'm not so sure I enjoy the other items. I can certainly find use in them and will use them eventually. The total value also outdid the cost so at least I'm happy with that. I guess this month's items were just not up my alley. I've seen what they've sent in previous months and loved them, so hopefully this month was just a bit of a dud and next month's box will be better. Fingers crossed!
+
+Interested in subscribing? You can go [subscribe here](http://www.thatdailydeal.com/home.php?id=18483){:target="_blank"} to start receiving their monthly mystery boxes! Subscribe before the 10th to get the current month's box. Boxes ship between the 15th and the 19th of every month.
+
+<br>
+
+<TABLE  BORDER="5" style="width:40%">
+   <TR>
+      <TH COLSPAN="2">
+         <H3><BR><center>My Mystery Box Items</center></H3>
+      </TH>
+   </TR>
+      <TH>Product</TH>
+      <TH>Price</TH>
+  <TR>
+      <TD>Parachute Hammock</TD>
+      <TD>$12.49</TD>
+   </TR>
+   <TR>
+      <TD>Massage Pillow</TD>
+      <TD>$12.45</TD>
+   </TR>
+  <TR>
+      <TD>Air Raft Pump</TD>
+      <TD>$14.99</TD>
+   </TR>
+   <TR>
+      <TD>LED Light Bulbs</TD>
+      <TD>$14.99</TD>
+   </TR>
+   <TR>
+      <TD><b><big>TOTAL VALUE</big></b></TD>
+      <TD><b><big>$45.30</big></b></TD>
+   </TR>
+   <TR>
+      <TD><i><big>Subscription Cost</big></i></TD>
+      <TD><i><big>$54.92</big></i></TD>
+   </TR>
+</TABLE>
