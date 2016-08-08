@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "Mostess-Box-Summer-2016-Items.jpg"
-date: 2016-08-08 08:29:39 -08:00
+date: 2016-08-08 14:22:39 -08:00
 ---
 
 ![Mostess Box Summer 2016](http://whatsupmailbox.com/images/Mostess-Box-Summer-2016-Box.jpg)
@@ -112,11 +112,13 @@ Although I don't drink shots that often, I do drink some cordials from time to t
 
 ![Mostess Box Summer 2016 Package](http://whatsupmailbox.com/images/Mostess-Box-Summer-2016-Signature-Summer-Table-Runner.jpg)
 
-![Mostess Box Summer 2016 Package](http://whatsupmailbox.com/images/Mostess-Box-Summer-2016-Signature-Summer-Table-Runner-02.jpg)
-
 **Mostess Signature Summer Table Runner** *Value $25?*
 
 I couldn't really find a value so I'm estimating based on other similar runners.
+
+<br>
+
+![Mostess Box Summer 2016 Package](http://whatsupmailbox.com/images/Mostess-Box-Summer-2016-Signature-Summer-Table-Runner-02.jpg)
 
 Table runners are such an easy and great way to dress up your table! This design is simple yet classic, it will surely fit with a lot of colors and themes.
 
