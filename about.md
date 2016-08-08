@@ -18,4 +18,4 @@ I get so giddy and excited when I look to see what I receive in the mail everyda
 <p align="center">xoxo, Loretta</p>
 
 <br>
-<p>Contact info: whatsupmailbox@gmail.com</p>
+<p>Contact: info@whatsupmailbox.com</p>
