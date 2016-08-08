@@ -202,7 +202,7 @@ Interested in subscribing? You can go to their website [www.mostessbox.com](http
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Mystery Box Items</center></H3>
