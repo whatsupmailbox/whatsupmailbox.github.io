@@ -196,7 +196,7 @@ All of this is making me hungry! I may just have to host myself today so I can m
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** My first box from Mostess and it's amazing, I am super happy with their Summer 2016 curation! All the items were totally me and truly fit my style as a hostess. It definitely felt very summery and yet still elegant and high quality. 
+<i class="icon-exclamation-sign"></i> **My Thoughts:** My first box from Mostess and it's amazing, I am super happy with their Summer 2016 curation! All the items were totally me and truly fit my style as a hostess. It definitely felt very summery and yet still elegant and high quality. And not only will these items be great for myself, they are all items that can be gifted too. I am impressed with my first box from Mostess and am excited to find out what they have in store for Fall!
 
 Interested in subscribing? You can go to their website [www.mostessbox.com](http://www.mostessbox.com){:target="_blank"} to start receiving their gorgeous curated hostess boxes! And don't forget to use coupon code **NEWMOSTESS** to get $12 off your first box!
 
