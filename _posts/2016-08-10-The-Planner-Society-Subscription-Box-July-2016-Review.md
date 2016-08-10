@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "The-Planner-Society-Kit-July-2016-Items.jpg"
-date: 2016-08-03 08:29:39 -08:00
+date: 2016-08-10 12:29:39 -08:00
 ---
 
 ![The Planner Society](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Box.jpg)
@@ -82,11 +82,33 @@ The girl stickers are adorable and so cute! I love them! It looks very summery, 
 
 <br>
 
+![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Sticker-Holder-Book.jpg)
+
+**Sticker Holder/Organizer**
+
+This is so darn cute and useful! I love the black dots design, reminds me of Kate Spade, so chic!
+
+<br>
+
+![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Sticker-Holder-Book-02.jpg)
+
+The material is pleather I believe and it is thick and sturdy.
+
+<br>
+
+![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Sticker-Holder-Book-03.jpg)
+
+The stickers that were included fits perfectly. There are 10 pages inside and the inserts are double sided so you can store 20 pages of stickers in here. Love love love this!
+
+<br>
+
 ![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Journal-Cards.jpg)
 
 **Journal Cards**
 
-These cards are great for journaling, scrapbooking, and card making. You can also stick it onto your current dashboard or planner divider to decorate it more. I'm still new to journaling cards so I will have to play around with what I will use this for.
+These cards are great for journaling, scrapbooking, and card making. You can also stick it onto your current dashboard or planner divider to decorate it more. 
+
+The girls have made an appearance on these cards and I love it, I also love the uplifting words on the others. 
 
 <br>
 
@@ -94,7 +116,7 @@ These cards are great for journaling, scrapbooking, and card making. You can als
 
 **Die Cuts**
 
-These die cuts are so adorable! They match the stickers and you can use these as embellishments to your planner, your card making project, and many more.
+These die cuts are so adorable! They match the stickers and you can use them as embellishments to your planner, your card making project, and many more.
 
 <br>
 
@@ -132,11 +154,26 @@ These are stamps that you put on acryclic blocks and put them back on this sheet
 
 <br>
 
+![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Wood-Stickers.jpg)
+
+**Wood Stickers**
+
+This is new to me, I've never had any wood stickers but there's always a first right.
+
+<br>
+
+![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-The-Creative-Bee-Planner-Clip.jpg)
+
+**The Creative Bee Planner Clip**
+
+A gorgeous paper clip is a must to decorate and manage my planner. This clip is made with thick cardstock and has glitter on the flower petal part. It's quite big in size so you won't miss it when you put it on your planner pages.
+
+
 ![The Planner Society July 2016 Items](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Mason-Jar-Notepad.jpg)
 
 **Mason Jar Notepad**
 
-What a cute little notepad! I love mason jars.
+What a cute little notepad! I make lists a lot, and I mean a lot. It just helps me to organize my day, my thoughts, my anything. The size of this notepad is petite and will fit easily into any of my bags.
 
 <br>
 
@@ -160,6 +197,6 @@ Refills for the pen were included in the box, 3 refills to be exact. How thought
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This box is amazing! Since this is my first ever box from them, I don't have much to compare it with, but I do know that I loved everything and will totally be using it asap in my planner and paper projects. The designs are gorgeous and so beautifully done, and it fits perfectly with my style. What I love most is that these designs are exclusive to The Planner Society subscribers, so you won't see them being sold anywhere else. I can't believe I didn't subscribe earlier, but I'm so happy I finally did and I can't wait for next month's box! FYI, the theme for next month was revealed to be "Nautical". 
+<i class="icon-exclamation-sign"></i> **My Thoughts:** What an amazing box! Since this is my first ever box from them, I don't have much to compare it with, but I do know that I loved everything and will totally be using it asap in my planner and paper projects. The designs are gorgeous and so beautifully done, and it fits perfectly with my style. What I love most is that these designs are exclusive to The Planner Society subscribers, so you won't see them being sold anywhere else. I can't believe I didn't subscribe earlier, but I'm so happy I finally did and I can't wait for next month's box! FYI, the theme for next month was revealed to be "Nautical". 
 
 Interested in subscribing? You can [go to their website](http://www.scarletlime.com/plannersociety15.html){:target="_blank"} to start receiving their monthly planner boxes! FYI, they take official signups from the 2nd - 14th of each month.
