@@ -16,7 +16,7 @@ imagefeature: "The-Planner-Society-Kit-July-2016-Items.jpg"
 date: 2016-08-03 08:29:39 -08:00
 ---
 
-![The Planner Society](http://whatsupmailbox.com/images/The-Planner-Society-July-2016-Box.jpg)
+![The Planner Society](http://whatsupmailbox.com/images/The-Planner-Society-Kit-July-2016-Box.jpg)
 
 **Subscription:** [The Planner Society Kit](http://www.scarletlime.com/plannersociety15.html){:target="_blank"}
 
@@ -28,7 +28,7 @@ date: 2016-08-03 08:29:39 -08:00
 
 If you're a planner addict such as myself, you know how it can be so fun to decorate your planners with cute and useful adornments. It's so addicting, I just can't seem to have enough of it!
 
-I'm always on the lookout for cool and interesting subscription boxes, especially for planners and that's when I found out about The Planner Society. This box has a huge following and have been getting great reviews, I knew I just had to subscribe!
+I'm always on the lookout for cool and interesting subscription boxes, especially for planners and that's when I found out about [The Planner Society Kit](http://www.scarletlime.com/plannersociety15.html){:target="_blank"}. This box was created by Christy Tomlinson who is a talented designer and personally designs all the artwork for the items in this box. With a huge following and the fact that this box has been getting great reviews, I knew I just had to subscribe!
 
 <br>
 
