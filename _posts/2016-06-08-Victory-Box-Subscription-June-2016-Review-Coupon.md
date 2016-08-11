@@ -34,18 +34,18 @@ Victory Box is a new men's accessories subscription box from the brand [Winners 
 
 <br>
 
-[![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016OpenBox.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
+[![Victory Box Unboxing](http://whatsupmailbox.com/images/VictoryBoxJune2016OpenBox.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
 <figcaption>First look at unboxing</figcaption>
 
 <br>
 
 <H4>And here are this month's items:</H4>
-[![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016Items.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
+[![Victory Box June 2016 Items](http://whatsupmailbox.com/images/VictoryBoxJune2016Items.jpg)](http://www.winnerscirclefashion.com/victorybox){:target="_blank"}
 
 <br>
 
 <H4>Items in detail:</H4>
-![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie.jpg)
+![Victory Box - Neck Tie](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie.jpg)
 
 **Winners Circle Fashion Co.** Neck Tie, *Value $24*
 
@@ -53,19 +53,19 @@ The colors on this tie are perfect for summer, it reminds me of a cool aqua blue
 
 <br>
 
-![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie2.jpg)
+![Victory Box - Neck Tie](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie2.jpg)
 
 The pattern is very modern and personally I think it will go great with many summer outfits.
 
 <br>
 
-![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie3.jpg)
+![Victory Box - Pocket Square](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionNeckTie3.jpg)
 
 What a great tie to receive and very seasonally appropriate!
 
 <br>
 
-![Victory Box June 2016 Box](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionPocketSquare.jpg)
+![Victory Box - Pocket Square](http://whatsupmailbox.com/images/VictoryBoxJune2016WinnersCircleFashionPocketSquare.jpg)
 
 **Winners Circle Fashion Co.** Pocket Square, *Value $14*
 
@@ -83,7 +83,7 @@ Not a subscriber? You can [join here](http://www.winnerscirclefashion.com/victor
 
 <br>
 
-<TABLE  BORDER="5" style="width:65%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>Victory Box Items</center></H3>
