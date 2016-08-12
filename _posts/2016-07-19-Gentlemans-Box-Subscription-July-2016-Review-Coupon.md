@@ -18,7 +18,7 @@ date: 2016-07-19 09:31:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box June 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box July 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Subscription:** [Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"}
 
@@ -41,13 +41,13 @@ date: 2016-07-19 09:31:39 -08:00
 <br>
 
 
-[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox.jpg)](http://mbsy.co/d7GnS)
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 I love the uplifting words that are printed on the inside cover, Look Good - Feel Good - Be Good!
 
 <br>
 
-[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox2.jpg)](http://mbsy.co/d7GnS)
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJuly2016OpenBox2.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 <figcaption>First look at unboxing</figcaption>
 
@@ -63,7 +63,7 @@ This month includes a couple of boxed items. Interesting... can't wait to see wh
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info2.jpg)](http://mbsy.co/d7GnS)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info2.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 <figcaption>Table of Contents</figcaption>
 
@@ -73,13 +73,13 @@ The info magazine that they include with every box are so very useful. It detail
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)](http://mbsy.co/d7GnS)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info3.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 They also include a section on how to wear all the items in the box together for a super dapper look!
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info4.jpg)](http://mbsy.co/d7GnS)
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Info4.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 A recipe for Spiked Arnold Palmer! This drink is great for brunch and is simple to make too, I will be trying this recipe soon!
 
@@ -87,7 +87,7 @@ A recipe for Spiked Arnold Palmer! This drink is great for brunch and is simple 
 
 <H4>And here are all the items:</H4>
 
-[![Gentleman's Box July 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Items.jpg)](http://mbsy.co/d7GnS)
+[![Gentleman's Box July 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Items.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 I'm loving the colors this month brings, bright red with vintage browns.
 
@@ -95,7 +95,7 @@ I'm loving the colors this month brings, bright red with vintage browns.
 
 <H4>Items in detail:</H4>
 
-[![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet.jpg)](http://mbsy.co/d7GnS)
+[![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Kiko** Brown Leather Wallet, *Value $45*
 
@@ -105,13 +105,13 @@ I think this is the first time ever I received a leather wallet from a subscript
 
 <br>
 
-![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet2.jpg)
+![Kiko Brown Leather Wallet](http://whatsupmailbox.com/images/GentlemansBoxJuly2016KikoLeatherWallet2.jpg)(http://mbsy.co/d7GnS){:target="_blank"}
 
 The inside has 4 card slots and a long section to keep your cash organized. An all around great wallet!
 
 <br>
 
-[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn.jpg)](http://mbsy.co/d7GnS)
+[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Gentlemen Essentials** Leather Shoe Horn, *Value $25*
 
@@ -121,14 +121,14 @@ Leather shoe horns are a luxury to have. It beats plastic cheap looking ones tha
 
 <br>
 
-[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn2.jpg)](http://mbsy.co/d7GnS)
+[![Gentlemen Essentials Leather Shoe Horn](http://whatsupmailbox.com/images/GentlemansBoxJuly2016GentlemenEssentialsLeatherShoeHorn2.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 I like that it comes with a strap so you can hang it somewhere that's easy to find versus rummaging through a drawer to find it.
 
 <br>
 
 
-[![William Sterling Premium No Show Socks](http://whatsupmailbox.com/images/GentlemansBoxJuly2016WilliamSterlingNoShowSocks.jpg)](http://mbsy.co/d7GnS)
+[![William Sterling Premium No Show Socks](http://whatsupmailbox.com/images/GentlemansBoxJuly2016WilliamSterlingNoShowSocks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **William Sterling** Premium No Show Socks, *Value $10*
 
@@ -138,7 +138,7 @@ No show socks are a must during the hot summer season. The colors on this one is
 
 <br>
 
-[![Nikolas Ryan Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJuly2016NikolasRyanPocketSquare.jpg)](http://mbsy.co/d7GnS)
+[![Nikolas Ryan Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJuly2016NikolasRyanPocketSquare.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Nikolas Ryan** Pocket Square, *Value $15*
 
@@ -148,7 +148,7 @@ I am loving this pocket square. Both the design and color is so popping bright t
 
 <br>
 
-[![Balla Body Powder](http://whatsupmailbox.com/images/GentlemansBoxJuly2016BallaBodyPowder.jpg)](http://mbsy.co/d7GnS)
+[![Balla Body Powder](http://whatsupmailbox.com/images/GentlemansBoxJuly2016BallaBodyPowder.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Balla** Body Powder, *Value $6*
 
@@ -156,7 +156,7 @@ I've received this before in another subscription box so I know that this is a g
 
 <br>
 
-[![Gentleman's Box July 2016 Coupons](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Coupons.jpg)](http://mbsy.co/d7GnS)
+[![Gentleman's Box July 2016 Coupons](http://whatsupmailbox.com/images/GentlemansBoxJuly2016Coupons.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Various Coupons**
 
