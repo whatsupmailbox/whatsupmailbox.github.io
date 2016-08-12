@@ -18,7 +18,7 @@ date: 2016-08-12 12:31:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box August 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxJune2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box August 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxAugust2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Subscription:** [Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"}
 
