@@ -9,7 +9,7 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, August 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxAugust2016Items.jpg"
