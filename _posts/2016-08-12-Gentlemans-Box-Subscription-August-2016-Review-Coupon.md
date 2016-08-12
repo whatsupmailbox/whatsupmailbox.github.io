@@ -132,7 +132,7 @@ It's made of 100% cotton and has a smooth feel. Great for wearing during the las
 
 <br>
 
-What a cool way of packaging pocket squares!
+What a cool way of packaging pocket squares! I'm already impressed!
 
 <br>
 
