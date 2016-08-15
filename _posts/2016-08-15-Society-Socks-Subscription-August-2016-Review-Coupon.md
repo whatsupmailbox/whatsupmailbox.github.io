@@ -9,7 +9,7 @@ categories:
 tags: [Society Socks, Subscriptions, Reviews, August 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SocietySocksAugust2016OpenPackage.jpg"
