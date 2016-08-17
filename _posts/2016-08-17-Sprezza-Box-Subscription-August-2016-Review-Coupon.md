@@ -55,7 +55,9 @@ The August 2016 box is titled <big>The Hanover</big> and the focus this month is
 
 <br>
 
-[![Info Card Back](http://whatsupmailbox.com/images/SprezzaBoxAugust2016Info02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+<center><a href="http://www.sprezzabox.com?rfsn=103516.e98b8" target="_blank">
+<img src="/images/SprezzaBoxAugust2016Info02.jpg" border="0" style="border:none;max-width:100%;" alt="Info Card Back" width="400" />
+</a></center>
 
 The back of the info card lists all the items inside the box as well as their values.
 
@@ -139,7 +141,7 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
 
 <br>
 
-<TABLE  BORDER="5" style="width:50%">
+<TABLE  BORDER="5" style="width:45%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE BOX</center></H3>
