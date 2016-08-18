@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Julep Free 8-pc Gift Set for New Subscribers (Valued at $150)!"
+title: "Julep Free 8-pc Gift Set for New Subscribers ($150 Value)!"
 description: ""
 headline: "Julep Free 8-pc Gift Set for New Subscribers (Valued at $150)!"
 categories: 
