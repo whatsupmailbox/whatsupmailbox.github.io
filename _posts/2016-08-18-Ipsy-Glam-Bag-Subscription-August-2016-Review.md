@@ -9,7 +9,7 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, August 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyAugust2016Items.jpg"
@@ -103,8 +103,6 @@ The brush has a slanted tip which makes lining your lips easy, no need for anoth
 
 [![Pacifica SUNDREAMS LOTUS INFUSED BRONZER in Sunkissed](http://whatsupmailbox.com/images/IpsyAugust2016PacificaSundreamLotusInfusedBronzerSunkissed.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
-<br>
-
 **Pacifica** Sundreams Lotus Infused Bronzer in Sunkissed  
 Deluxe Sample Size .88 oz/2.5 g., *Value $10*
 
@@ -135,7 +133,7 @@ Deluxe Sample Size 0.5 fl. oz./13 ml., *Value $5.50*
 
 <br>
 
-Sunbeam is a soft pink shade that has shimmer and will give you a pop of glow. Second to bronzer, highlighters are my ultimate go to for contouring. I typically like non liquid ones though, but I'm always up for trying new things so I'll be putting this to the test to see if it stands up to my other highlighters that I love.
+Sunbeam is a soft pink shade that has shimmer and will give you a pop of glow. Second to bronzers, highlighters are my ultimate go to for contouring. I typically like non liquid ones though, but I'm always up for trying new things so I'll be putting this to the test to see if it stands up to my other highlighters that I love.
 
 <br>
 
