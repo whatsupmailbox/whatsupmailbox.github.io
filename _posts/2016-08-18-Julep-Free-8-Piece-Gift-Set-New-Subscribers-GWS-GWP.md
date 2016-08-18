@@ -11,7 +11,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "Julep-Free-8-Piece-Gift-With-Subscription-August-2016n.jpg"
+imagefeature: "Julep-Free-8-Piece-Gift-With-Subscription-August-2016.jpg"
 date: 2016-08-18 11:11:39 -08:00
 ---
 
