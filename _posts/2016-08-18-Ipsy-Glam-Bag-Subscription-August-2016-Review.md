@@ -16,7 +16,9 @@ imagefeature: "IpsyAugust2016Items.jpg"
 date: 2016-08-18 09:31:39 -08:00
 ---
 
-[![Ipsy](http://whatsupmailbox.com/images/IpsyLogo.png)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+<center><a href="https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d" target="_blank">
+<img src="/images/IpsyLogo.png" border="0" style="border:none;max-width:100%;" alt="Ipsy" />
+</a></center>
 
 **Subscription:** [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
