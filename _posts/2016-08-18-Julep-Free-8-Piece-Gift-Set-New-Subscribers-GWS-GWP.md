@@ -20,9 +20,9 @@ date: 2016-08-18 11:11:39 -08:00
 <center><a href="http://shareasale.com/r.cfm?b=898326&u=1115177&m=49325&urllink=&afftrack=" target="_blank"><img src="/images/Julep-Free-8-Piece-Gift-With-Subscription-August-2016-Coupon.png" border="0" style="border:none;max-width:100%;" />
 </a></center>
 
-<p>Amazing Julep promo starting today!! Now when you sign up, you get a FREE 8 piece Beauty Set filled with $150 worth of bestselling beauty and polish!</p>
+<p>Amazing Julep promo starting today!! Now when you <a href="http://shareasale.com/r.cfm?b=898326&u=1115177&m=49325&urllink=&afftrack=" target="_blank">sign up</a>, you get a FREE 8 piece Beauty Set filled with $150 worth of bestselling beauty and polish!</p>
 
-<p>To get this $150 beauty gift for FREE, join Julep Beauty Box and add the FREE 8 piece Beauty Set to your cart and use code COLOR8 at checkout.</p>
+<p>To get this $150 beauty gift for FREE, <a href="http://shareasale.com/r.cfm?b=898326&u=1115177&m=49325&urllink=&afftrack=" target="_blank">join Julep Beauty Box</a> and add the FREE 8 piece Beauty Set to your cart and use code COLOR8 at checkout.</p>
 
 <br>
 
