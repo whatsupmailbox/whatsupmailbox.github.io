@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Five Four Club August 2016 Review + Coupon!"
+title: "Five Four Club August 2016 Review + 50% Coupon!"
 description: ""
-headline: "Five Four Club August 2016 Review + Coupon!"
+headline: "Five Four Club August 2016 Review + 50% Coupon!"
 categories: 
       - Subscriptions
       - Reviews
 tags: [Five Four Club, Subscriptions, Reviews, August 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "FiveFourClubAugust2016Items.jpg"
@@ -119,7 +119,7 @@ As you can see, it matches the shirt and although it's a "slim" pant fit, it sti
 
 **Fairway Dad Navy Hat**
 
-I think this is the first hat that they've ever sent us. My husband wears a lot of hats since we live in California were it's almost always sunny so this was happily received. Although it does have a pretty big branding on it, it's not too obnoxious and my husband is comfortable wearing it.
+I think this is the first hat that they've ever sent us. My husband wears a lot of hats since we live in California were it's almost always sunny so this was happily received. Although it does have a pretty big branding on it, it's not too obnoxious so my husband is comfortable wearing it.
 
 <br>
 
