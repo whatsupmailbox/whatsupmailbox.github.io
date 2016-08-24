@@ -16,6 +16,8 @@ date: 2016-8-24 14:23:19 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
+<br>
+
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
 <img src="/images/Emma-Chloe-Logo.png" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Logo" />
 </a></center>
