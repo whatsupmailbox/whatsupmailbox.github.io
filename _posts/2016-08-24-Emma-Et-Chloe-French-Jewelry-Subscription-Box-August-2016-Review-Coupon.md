@@ -14,6 +14,8 @@ tags: [Emma & Chloe, Subscriptions, Reviews, August 2016]
 date: 2016-8-24 14:23:19 -08:00
 ---
 
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
+
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
 <img src="/images/Emma-Chloe-Logo.png" border="0" style="border:none;max-width:100%;" alt="Emma & Chloe Logo" />
 </a></center>
@@ -110,7 +112,7 @@ Some cocktail recipes, yum! The watermelon one looks super delish and so refresh
 
 **Peter Hopper** Petit Bateau Ring in Silver or Gold, *Value $68*
 
-Subscribers will receive this ring in either Silver or Gold, depending on their jewelry preferences. I received both as I have one personal subscription that I pay myself, and another one that's sponsored.
+Subscribers will receive this ring in either Silver or Gold, depending on their jewelry preferences. I received both as I have one personal subscription that I pay myself, and another one that's sent to me in exchange for a review.
 
 The ring's design is very geometric and modern. Totally my style, simple and classic with a modern twist.
 
