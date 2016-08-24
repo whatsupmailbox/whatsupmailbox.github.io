@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -11,7 +11,7 @@ type: photo
 imagefeature: EmmaEtChloeAugust2016PeterHopperPetitBateauGoldSilverRingsCollage.jpg
 headline: Emma & Chloe August 2016 Review + 50% Coupon!
 tags: [Emma & Chloe, Subscriptions, Reviews, August 2016]
-date: 2016-8-24 14:33:19 -08:00
+date: 2016-8-24 14:23:19 -08:00
 ---
 
 <center><a href="http://www.emma-chloe.com/us/" target="_blank">
