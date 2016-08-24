@@ -46,7 +46,7 @@ First look at unboxing reveals their pretty tissue paper packaging.
 
 [![Unboxing Pictures](http://whatsupmailbox.com/images/CateChloeVIPSeptember2016OpenBox02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-After unwrapping the packaging, you see their info card stating "Hello, VIP", that's me!
+After unwrapping the packaging, you see their info card stating "Hey, VIP", that's me!
 
 <br>
 
