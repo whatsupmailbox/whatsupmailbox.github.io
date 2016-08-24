@@ -174,7 +174,7 @@ You can see that it has slots for your credit cards, a section to insert your ph
 
 There's also a hand strap that you can attach to the wallet for those times where you'll be using this as your only bag. 
 
-This is definitely a useful item and it does fit my iPhone 6s, but only if I take my protective cover off. When it's on, it can barely close and most likely will not fit anything else. Either way, it was still a very thoughtful and useful item to include.
+This is definitely a useful item and it does fit my iPhone 6s, but only if I take the protective cover off. When it's on, it can barely close and most likely will not fit anything else. Either way, it was still a very thoughtful and useful item to include.
 
 <br>
 
