@@ -58,11 +58,15 @@ You finally see the items under the info card. 3 jewelry boxes plus a bonus item
 
 The Info Card:
 
-[![Cate & Chloe VIP September 2016 Info Card](http://whatsupmailbox.com/images/CateChloeVIPSeptember2016InfoCard.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+<center><a href="http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=" target="_blank">
+<img src="/images/CateChloeVIPSeptember2016InfoCard.jpg" border="0" style="border:none;max-width:100%;" alt="Cate & Chloe VIP September 2016 Info Card" width="400" />
+</a></center>
 
 <br>
 
-[![Cate & Chloe VIP September 2016 Info Card](http://whatsupmailbox.com/images/CateChloeVIPSeptember2016InfoCard02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+<center><a href="http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=" target="_blank">
+<img src="/images/CateChloeVIPSeptember2016InfoCard02.jpg" border="0" style="border:none;max-width:100%;" alt="Cate & Chloe VIP September 2016 Info Card" width="400" />
+</a></center>
 
 The "Perk of the Month" this time around is a wallet that doubles as a phone case. I can't wait to see how that looks!
 
