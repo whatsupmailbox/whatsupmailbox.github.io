@@ -26,7 +26,7 @@ date: 2016-08-25 08:41:39 -08:00
 
 **What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE gift item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
 
-**Coupon:** Get 50% off on any subscription with coupon code [WUMBSEP50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends September 5th!
+**Coupon:** Get 50% off on any subscription with coupon code [WUMBSEPT50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends September 5th!
 
 <br>
 
@@ -184,7 +184,7 @@ This is definitely a useful item and it does fit my iPhone 6s, but only if I tak
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** I absolutely loved all my jewelry items this month! They couldn't have picked a better set than this and I'm still doing my happy dance from getting all this pretty goodness. Opening up my [Cate & Chloe](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} boxes is such a treat, I never know what I'll be getting and so far it's been all great. This month was definitely my favorite box as of yet and I can't believe that I get all this for only $39.99, definitely worth it and such a great deal! If you're a jewelry addict like myself, I would definitely recommend this box for you to subscribe to. Even if one or two items are not necessarily your style (be sure to answer your style quiz or update it if that happens), it will make an amazing gift since it comes in it's own giftable jewelry box. I can't rave enough about this awesome subscription and I'm excited to find out what they'll send next month! Stay tuned for my next review ;)
 
-Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 50% off any subscription with code [WUMBSEP50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends September 5th!
+Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 50% off any subscription with code [WUMBSEPT50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends September 5th!
 
 <br>
 
