@@ -60,6 +60,8 @@ You finally see the items under the info card. 3 jewelry boxes plus a bonus item
 
 The Info Card:
 
+<br>
+
 <center><a href="http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=" target="_blank">
 <img src="/images/CateChloeVIPSeptember2016InfoCard.jpg" border="0" style="border:none;max-width:100%;" alt="Cate & Chloe VIP September 2016 Info Card" width="400" />
 </a></center>
@@ -190,7 +192,7 @@ Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.co
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Cate & Chloe Items</center></H3>
