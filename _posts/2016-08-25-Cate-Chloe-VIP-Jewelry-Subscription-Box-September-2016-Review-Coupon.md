@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cate & Chloe VIP Box September 2016 Review + Coupon!"
+title: "Cate & Chloe VIP Box September 2016 Review + 50% Coupon!"
 description: ""
 headline: "Cate & Chloe VIP Box September 2016 Review + Coupon!"
 categories: 
@@ -9,7 +9,7 @@ categories:
 tags: [Cate & Chloe VIP, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "CateChloeVIPSeptember2016Items.jpg"
@@ -17,6 +17,8 @@ date: 2016-08-25 08:41:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
+
+<br>
 
 [![Cate & Chloe VIP September 2016 Box](http://whatsupmailbox.com/images/CateChloeVIPSeptember2016Box.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
