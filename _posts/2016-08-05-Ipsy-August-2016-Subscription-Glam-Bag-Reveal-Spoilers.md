@@ -17,7 +17,7 @@ date: 2016-08-05 11:21:39 -08:00
 
 <p></p>
 
-[Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} reveals for August Glam Bags are up!
+[Ipsy](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"} reveals for August Glam Bags are up!
 
 If you're not aware, Ipsy has changed their system and now you don't have to share through social media anymore to see what items you'll be getting in your glam bag every month! Finally! That whole sharing just to reveal my items was getting pretty annoying. So now all you have to do is login to your account and you'll see your items, easy peasy!
 
@@ -27,7 +27,7 @@ Here's what I'll be getting this month:
 
 <br>
 
-[![My Ipsy August 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/Ipsy-August-2016-Glam-Bag-Reveal.png)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+[![My Ipsy August 2016 Glam Bag Reveal](http://whatsupmailbox.com/images/Ipsy-August-2016-Glam-Bag-Reveal.png)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
 <ul>
 <li>Ipsy August 2016 Glam Bag</li>
@@ -42,15 +42,15 @@ Here's what I'll be getting this month:
 
 I'm super happy that I'll be getting a Trust Fund Beauty liquid lipstick PLUS a nail polish, double yay! The other items also look great and I think this is going to be one awesome bag. Can't wait to get it on hand!
 
-Are you going to see your [Glam Bag](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"} reveal?
+Are you going to see your [Glam Bag](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"} reveal?
 
 <br>
 
 # What's Ipsy?
 
-[![Ipsy Glam Bag Subscription](http://whatsupmailbox.com/images/IpsyLogo.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+[![Ipsy Glam Bag Subscription](http://whatsupmailbox.com/images/IpsyLogo.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
-**Subscription:** [Ipsy](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}, a monthly beauty subscription created by Michelle Phan, a YouTube beauty guru.
+**Subscription:** [Ipsy](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}, a monthly beauty subscription created by Michelle Phan, a YouTube beauty guru.
 
 **Cost:** $10/monthly + Free Shipping.
 
