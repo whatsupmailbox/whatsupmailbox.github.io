@@ -59,7 +59,7 @@ And under that you finally see the actual Little Lace Box as well as other items
 
 [![Little Lace Box Unboxing](http://whatsupmailbox.com/images/LittleLaceBoxAugust2016OpenBox.jpg)](http://www.shareasale.com/r.cfm?B=782083&U=1115177&M=61975&urllink=){:target="_blank"}
 
-Upon opening the actual Little Lace Box, you see a coupon from Hello Fresh, and another box packaging (we'll get back to that later on in the review).
+Upon opening the actual Little Lace Box, you see a coupon from Hello Fresh, and another box packaging.
 
 <br>
 
@@ -172,6 +172,12 @@ Subscribers received this in either Argain Oil, Macadamia, or Olive Oil. I total
 **Primal Kitchen Dark Chocolate Almond Bar**, *Value $2.99*
 
 Well this spa themed box wouldn't be complete without some sweet treats! Although mine got a bit disformed during shipment, most likely due to the heat here in California, but it wasn't too bad and still tasted great! You can take these as a quick and healthy breakfast bar, or for a boost of energy prior to working out.
+
+<br>
+
+[![Hello Fresh $50 Coupon](http://whatsupmailbox.com/images/LittleLaceBoxAugust2016HelloFreshCoupon.jpg)](http://www.shareasale.com/r.cfm?B=782083&U=1115177&M=61975&urllink=){:target="_blank"}
+
+They've included a [Hello Fresh](http://www.hellofresh.com/?c=3E724E){:target="_blank"} coupon that's good for $50 off of your first 2 boxes. I've been getting these coupons a lot from various subscription boxes that I now have a lot and just give them out to friends since I don't think I'll be able to use them all.
 
 <br>
 
