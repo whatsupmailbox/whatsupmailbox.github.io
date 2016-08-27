@@ -194,7 +194,7 @@ Not a subscriber? You can [get $10 off your first box through this link](http://
 <TABLE  BORDER="5" style="width:70%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>MY LLB FEB 2016 ITEMS</center></H3>
+         <H3><BR><center>MY LITTLE LACE BOX ITEMS</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
