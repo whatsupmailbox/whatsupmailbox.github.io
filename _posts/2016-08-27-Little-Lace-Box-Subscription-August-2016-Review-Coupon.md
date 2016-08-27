@@ -191,7 +191,7 @@ Not a subscriber? You can [get $10 off your first box through this link](http://
 
 <br>
 
-<TABLE  BORDER="5" style="width:65%">
+<TABLE  BORDER="5" style="width:70%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>MY LLB FEB 2016 ITEMS</center></H3>
