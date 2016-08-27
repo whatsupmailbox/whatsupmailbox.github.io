@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -175,7 +175,9 @@ Well this spa themed box wouldn't be complete without some sweet treats! Althoug
 
 <br>
 
-[![Hello Fresh $50 Coupon](http://whatsupmailbox.com/images/LittleLaceBoxAugust2016HelloFreshCoupon.jpg)](http://www.shareasale.com/r.cfm?B=782083&U=1115177&M=61975&urllink=){:target="_blank"}
+<center><a href="http://www.shareasale.com/r.cfm?B=782083&U=1115177&M=61975&urllink=" target="_blank">
+<img src="/images/LittleLaceBoxAugust2016HelloFreshCoupon.jpg" border="0" style="border:none;max-width:100%;" alt="Hello Fresh $50 Coupon" width="400" />
+</a></center>
 
 They've included a [Hello Fresh](http://www.hellofresh.com/?c=3E724E){:target="_blank"} coupon that's good for $50 off of your first 2 boxes. I've been getting these coupons a lot from various subscription boxes that I now have a lot and just give them out to friends since I don't think I'll be able to use them all.
 
