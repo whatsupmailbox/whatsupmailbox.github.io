@@ -9,7 +9,7 @@ categories:
 tags: [The Planner Society Kit, Subscriptions, Reviews, August 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "ThePlannerSocietyKitAugust2016Items.jpg"
