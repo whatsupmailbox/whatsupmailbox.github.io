@@ -28,7 +28,7 @@ date: 2016-09-07 09:31:39 -08:00
 
 <br>
 
-When the day finally comes for my Oui Please box to arrive, it's time to pop some champagne to celebrate and unbox my french goodies!
+When the day finally comes for my OuiPlease box to arrive, it's time to pop some champagne to celebrate and unbox my french goodies!
 
 <br>
 
