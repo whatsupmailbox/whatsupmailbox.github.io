@@ -54,24 +54,37 @@ Under that you finally see the box neatly and safely packaged inside, surrounded
 
 <center><img src="/images/OuiPleaseVol23September2016Unboxing.gif" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 2.3 Box" width="800" /></center>
 
-Et voila, the infamous OuiPlease box! I love love love these boxes, they're so strong and sturdy, I use them as keepsake boxes for tons of stuff! From jewelry, to beauty products and so much more. Best reusable box out there amongst all the other subscription boxes!
+Et voila, the infamous OuiPlease box! I absolutely adore these boxes, I use them as keepsake boxes for tons of stuff! From jewelry, to beauty products and so much more. Best reusable box out there amongst all the other subscription boxes!
 
 <br>
 
 **The Info Magazine:**
 
-![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Info.jpg)
+![Oui Please Vol. 2.3 - Info Magazine](http://whatsupmailbox.com/images/OuiPleaseVol23September2016InfoMagazine.jpg)
 
-Oui Please always includes a catalog magazine listing all the items that were included for the current Volume box. I think it's great and so informational, plus they're made with such good quality, I collect all of them to browse around when I have French withdrawals.
+Oui Please always includes a catalog magazine listing all the items that were included for the current Volume box as well as other useful info. I always love reading through threm, plus they're made with such good quality.
 
 <br>
 
 Here's a look inside the booklet:
+
 <br>
 
-![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Info2.jpg)
+![Oui Please Vol. 2.3 - Info Magazine](http://whatsupmailbox.com/images/OuiPleaseVol23September2016InfoMagazine02.jpg)
 
-![Oui Please Vol. 2.2 Box](http://whatsupmailbox.com/images/OuiPleaseVol22June2016Info3.jpg)
+Info on one of the products inside the box as well as their value.
+
+<br>
+
+![Oui Please Vol. 2.3 - Info Magazine](http://whatsupmailbox.com/images/OuiPleaseVol23September2016InfoMagazine03.jpg)
+
+French beauty tips that I found quite interesting.
+
+<br>
+
+![Oui Please Vol. 2.3 - Info Magazine](http://whatsupmailbox.com/images/OuiPleaseVol23September2016InfoMagazine04.jpg)
+
+A savory Tomato Tart recipe that uses one of the items inside the box to finish off this helpful info magazine!
 
 <br>
 
@@ -89,15 +102,19 @@ Here's a look inside the booklet:
 
 ![Oui Please Vol. 2.3 Les Interchangeables Beige Star Bracelet](http://whatsupmailbox.com/images/OuiPleaseVol23September2016LesInterchangeablesBeigeStarBracelet.jpg)
 
-**Les Interchangeables Beige Star Bracelet**, *Value $35*
+**Les Interchangeables** Beige Star Bracelet, *Value $35*
 
-I love these bracelets and collect them! I have three so far so this will be my fourth, I just can't seem to get enough of them, especially since they look amazing when stacked together.
+I love these bracelets and collect them! I have three so far so this will be my fourth. I just can't seem to get enough of them, especially since they look amazing when stacked together.
 
 <br>
 
 ![Oui Please Vol. 2.3 Les Interchangeables Beige Star Bracelet](http://whatsupmailbox.com/images/OuiPleaseVol23September2016LesInterchangeablesBeigeStarBracelet02.jpg)
 
 The design on this bracelet has five stars in a row with Swarovski crystals in between them. It's so gorgeous and rocker chic at the same time, love it!
+
+<br>
+
+Here's how it looks on:
 
 <br>
 
@@ -119,13 +136,17 @@ Another pretty bracelet! The charm itself is in the shape of a blackberry, but t
 
 <br>
 
+Here's how it looks on:
+
+<br>
+
 ![Oui Please Vol. 2.3 - Les Nereides Paris Blackberry Charm Bracelet](http://whatsupmailbox.com/images/OuiPleaseVol23September2016LesNereidesParisBlackberryCharmBracelet02.jpg)
 
 <br>
 
 ![Oui Please Vol. 2.3 - Les Nereides Paris Blackberry Charm Bracelet](http://whatsupmailbox.com/images/OuiPleaseVol23September2016LesNereidesParisBlackberryCharmBracelet03.jpg)
 
-This bracelet is also adjustable and made of hand-enameled brass and 14k gold plated brass chain.
+This bracelet is made of hand-enameled brass and 14k gold plated brass chain. I love bracelets that are adjustable with a pull string, they tend to fit my petite wrists much better.
 
 <br>
 
@@ -133,7 +154,7 @@ This bracelet is also adjustable and made of hand-enameled brass and 14k gold pl
 
 **Mille et Une Fouta Towel**, *Value $25*
 
-This towel was revealed to be in every subscribers box. It's made of 100% cotton and is quite large!
+This towel was revealed to be in every subscribers box. Colors received varied and I got the blue color. It's made of 100% cotton and is quite large!
 
 <br>
 
@@ -153,7 +174,7 @@ This serum promises to effectively illuminate and even out your complexion, by b
 
 ![Oui Please Vol. 2.3 - Pomone Paris Munificence Creme Jour & Nuit](http://whatsupmailbox.com/images/OuiPleaseVol23September2016PomoneParisMunificenceCremeJourNuit.jpg)
 
-**Pomone Paris** Munificence Creme Jour & Nuit, 15ml *Value $19.50*
+**Pomone Paris** Munificence Creme Jour & Nuit, 15ml *Value $21*
 
 This day & night cream targets the signs of aging and is recommended for all skin types. 
 
@@ -171,7 +192,7 @@ The packaging was fun to open and the size of this jar is actually a travel size
 
 ![Oui Please Vol. 2.3 - Nailmatic Nail Polish in Lena & Dina](http://whatsupmailbox.com/images/OuiPleaseVol23September2016NailmaticNailPolishLenaDina.jpg)
 
-**Nailmatic** Nail Polish in Dina & Lena, *Value $14 each*
+**Nailmatic** Nail Polish in Dina & Lena, *Value $10 each*
 
 I love trying out new nail polishes and I've never heard of this one! Dina is the light pastel pink color, and Lena is the violet pastel color.
 
@@ -193,7 +214,7 @@ I definitely love the pink more, which is Dina. The violet pastel color (Lena) j
 
 ![Oui Please Vol. 2.3 - Saisons D'Eden Paris Le Creme De Beaute Revitalizing Cream](http://whatsupmailbox.com/images/OuiPleaseVol23September2016SaisonsDEdenParisLeCremeDeBeauteRevitalizingCream.jpg)
 
-**Saisons D'Eden Paris** Le Creme De Beaute Spring - Summer Revitalizing Cream, *Value $54*
+**Saisons D'Eden Paris** Le Creme De Beaute Spring - Summer Revitalizing Cream, *Value $45*
 
 This cream moisturizer is made for normal to dry skin. It's on the rich and thick side so it'll be great for winter and nighttime. The ingredients are natural and the scent is sweet and fresh, it reminds me of sweet grapes for some reason.
 
@@ -201,7 +222,7 @@ This cream moisturizer is made for normal to dry skin. It's on the rich and thic
 
 ![Oui Please Vol. 2.3 - Nuxe Huile Prodigieuse Multi Purpose Dry Oil](http://whatsupmailbox.com/images/OuiPleaseVol23September2016NuxeHuileProdigieuseMultiPurposeDryOil.jpg)
 
-**Nuxe** Huile Prodigieuse Multi Purpose Dry Oil, 30ml, *Value $17.50*
+**Nuxe** Huile Prodigieuse Multi Purpose Dry Oil, 30ml, *Value $20*
 
 I have tons of this dry oil thanks to other subscription boxes, but they are really good so I can't complain in getting more! You can use this oil on your skin or hair, but I mostly use it on my body both to moisturize and to give it a good glow.
 
@@ -229,7 +250,7 @@ Herbes de Provence is a mix of dried herbs that's typically found in the South o
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This "Summer Escapade" box probably would have been more appreciated during the summer, but thankfully I live in Los Angeles where even in early September it's still hot and sunny, so I can still fully appreciate all the items in this box. There were a couple of brand repeats in this box from Vol. 2.2, but I loved those brands so I'm totally not complaining! One thing that I probably was not expecting was the amount of face creams I received, 3 in total! Personally I'm not too excited about skincare since I have very specific needs and super sensitive skin, but that's just me. I'm sure those of you who are skincare addicts would rejoice in receiving these moisturizers. All totaled up, the value of this box came up to $330 which is more than double the cost!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This "Summer Escapade" box probably would have been more appreciated during the summer, but thankfully I live in Los Angeles where even in early September it's still hot and sunny, so I can still fully appreciate all the items in this box. There were a couple of brand repeats in this box from Vol. 2.2, but I loved those brands so I'm totally not complaining! One thing that I probably was not expecting was the amount of face creams I received, 3 in total! Personally I'm not too excited about skincare since I have very specific needs and super sensitive skin, but that's just me. I'm sure those of you who are skincare addicts would rejoice in receiving these moisturizers. All totaled up, the value of this box came up to $393 which is more than double the cost!
 
 If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.com){:target="_blank"} and use coupon code **OUIWHATSUP** to get 20% off any subscription. That brings the cost down to $120 for one box or $520 for a whole year! That's a très good deal! 
 
@@ -261,31 +282,27 @@ If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.co
    </TR>
    <TR>
       <TD>Pomone Paris Creme Jour & Nuit</TD>
-      <TD>$19.50</TD>
+      <TD>$21</TD>
    </TR>
   <TR>
       <TD>Nailmatic Nail Polish in Dina</TD>
-      <TD>$14</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
       <TD>Nailmatic Nail Polish in Lena</TD>
-      <TD>$14</TD>
+      <TD>$10</TD>
    </TR>
    <TR>
       <TD>Saisons D'Eden Paris Le Creme De Beaute</TD>
-      <TD>$54</TD>
+      <TD>$45</TD>
    </TR>
    <TR>
       <TD>Nuxe Huile Prodigieuse Dry Oil</TD>
-      <TD>$17.50</TD>
+      <TD>$20</TD>
    </TR>
    <TR>
-      <TD>Boissier Paris Lemon Bon Bons</TD>
-      <TD>$12.50</TD>
-   </TR>
-   <TR>
-      <TD>Boissier Paris Strawberry Bon Bons</TD>
-      <TD>$12.50</TD>
+      <TD>Boissier Paris Bon Bons</TD>
+      <TD>$25</TD>
    </TR>
    <TR>
       <TD>Herbes De Provence</TD>
@@ -293,7 +310,7 @@ If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.co
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$380</big></b></TD>
+      <TD><b><big>$393</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
