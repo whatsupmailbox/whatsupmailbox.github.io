@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Oui Please Vol. 2.3: Summer Escapade Box Review!"
+title: "Oui Please Vol. 2.3: Summer Escapade Box Review + Coupon"
 description: ""
-headline: "Oui Please Vol. 2.2: Summer Escapade Box Review!"
+headline: "Oui Please Vol. 2.3: Summer Escapade Box Review + Coupon"
 categories: 
       - Subscriptions
       - Reviews
 tags: [Oui Please, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "OuiPleaseVol23September2016Items.jpg"
-date: 2016-09-07 09:31:39 -08:00
+date: 2016-09-07 09:30:39 -08:00
 ---
 
 ![Oui Please Vol. 2.3 Box](http://whatsupmailbox.com/images/OuiPleaseLogo.jpg)
