@@ -229,11 +229,9 @@ Herbes de Provence is a mix of dried herbs that's typically found in the South o
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This "Summer Escapade" box probably would have been more appreciated during the summer, but thankfully I live in Los Angeles where even in early September it's still hot and sunny, so I can still fully appreciate all the items in this box. There were a couple of brand repeats in this box from Vol. 2.2, but I loved those brands so I'm totally not complaining! One thing that I probably was not expecting was the amount of face creams I received, 3 in total! Personally I'm not too excited about skincare since I have very specific needs and super sensitive skin, but that's just me. I'm sure those of you who are skincare addicts would rejoice in receiving these moisturizers. All totaled up, the value of this box came up to $
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This "Summer Escapade" box probably would have been more appreciated during the summer, but thankfully I live in Los Angeles where even in early September it's still hot and sunny, so I can still fully appreciate all the items in this box. There were a couple of brand repeats in this box from Vol. 2.2, but I loved those brands so I'm totally not complaining! One thing that I probably was not expecting was the amount of face creams I received, 3 in total! Personally I'm not too excited about skincare since I have very specific needs and super sensitive skin, but that's just me. I'm sure those of you who are skincare addicts would rejoice in receiving these moisturizers. All totaled up, the value of this box came up to $330 which is more than double the cost!
 
 If you haven't subscribed yet, you can [subscribe here] (https://ouipleasebox.com){:target="_blank"} and use coupon code **OUIWHATSUP** to get 20% off any subscription. That brings the cost down to $120 for one box or $520 for a whole year! That's a très good deal! 
-
-*FYI, Vol. 2.2 box is still available so if you subscribe now, you'll be getting this box. Just remember that variations exist for this subscription so you may not be getting the same items as me, but the personalized scarf will for sure be included.*
 
 <br>
 
