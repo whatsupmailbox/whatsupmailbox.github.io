@@ -52,7 +52,7 @@ Under that you finally see the box neatly and safely packaged inside, surrounded
 
 <br>
 
-![Oui Please Vol. 2.3 Box](http://whatsupmailbox.com/images/OuiPleaseVol23September2016Unboxing.gif)
+<center><img src="/images/OuiPleaseVol23September2016Unboxing.gif" border="0" style="border:none;max-width:100%;" alt="Oui Please Vol. 2.3 Box" width="500" /></center>
 
 Et voila, the infamous OuiPlease box! I love love love these boxes, they're so strong and sturdy, I use them as keepsake boxes for tons of stuff! From jewelry, to beauty products and so much more. Best reusable box out there amongst all the other subscription boxes!
 
