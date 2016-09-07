@@ -62,7 +62,7 @@ Et voila, the infamous OuiPlease box! I absolutely adore these boxes, I use them
 
 ![Oui Please Vol. 2.3 - Info Magazine](http://whatsupmailbox.com/images/OuiPleaseVol23September2016InfoMagazine.jpg)
 
-Oui Please always includes a catalog magazine listing all the items that were included for the current Volume box as well as other useful info. I always love reading through threm, plus they're made with such good quality.
+OuiPlease always includes a catalog magazine listing all the items that were included for the current Volume box as well as other useful info. I always love reading through threm, plus they're made with such good quality.
 
 <br>
 
