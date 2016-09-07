@@ -36,7 +36,7 @@ When the day finally comes for my OuiPlease box to arrive, it's time to pop some
 
 ![Oui Please Vol. 2.3 Package](http://whatsupmailbox.com/images/OuiPleaseVol23September2016Package.jpg)
 
-[OuiPlease](https://ouipleasebox.com){:target="_blank"} safely packs their precious boxes inside a bigger black packaging box. They are also shipped through UPS Ground so if you're registered with My UPS, you'll get notification as soon as it's shipped and tracking details too.
+[OuiPlease](https://ouipleasebox.com){:target="_blank"} safely packs their precious boxes inside a bigger black packaging box. They are also shipped through FedEx Ground and you'll receive and email when your box is shipped with tracking details, and another email when your box has finally arrived.
 
 <br>
 
