@@ -75,7 +75,7 @@ Here's a look inside the booklet:
 
 <br>
 
-<H4>And here are the items in my box:</H4>
+<H4>And here are the items in my Vol. 2.3 box:</H4>
 
 <br>
 
