@@ -206,6 +206,8 @@ These nail polishes have a 4-free formula and are also sold in vending machines 
 
 Here's how the colors look on me:
 
+<br>
+
 ![Oui Please Vol. 2.3 - Nailmatic Nail Polish in Lena & Dina](http://whatsupmailbox.com/images/OuiPleaseVol23September2016NailmaticNailPolishLenaDina03.jpg)
 
 I definitely love the pink more, which is Dina. The violet pastel color (Lena) just looks a bit off on my skin tone - not bad, just not great either. But they did apply smoothly and it only took 2 coats for me to complete my nails.
