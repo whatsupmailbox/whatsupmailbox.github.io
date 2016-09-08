@@ -9,7 +9,7 @@ categories:
 tags: [Victory Box, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "VictoryBoxSeptember2016Items.jpg"
