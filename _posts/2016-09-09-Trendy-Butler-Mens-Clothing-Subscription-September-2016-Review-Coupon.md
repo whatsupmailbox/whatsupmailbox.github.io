@@ -112,7 +112,7 @@ If you haven't subscribed yet, you can get $10 off your first package [through t
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Trendy Butler Items</center></H3>
