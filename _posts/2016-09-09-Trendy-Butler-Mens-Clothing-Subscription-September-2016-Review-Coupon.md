@@ -38,7 +38,7 @@ Now let's get to the review!
 
 [![First look at unpacking](http://whatsupmailbox.com/images/TrendyButlerSeptember2016OpenPackage.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-First look at unpacking shows the items packaged together with brown paper wrapping and their logo sticker.
+Trendy Butler sends their items in a thick brown paper envelope and when you open that, you see the items packaged neatly inside.
 
 <br>
 
