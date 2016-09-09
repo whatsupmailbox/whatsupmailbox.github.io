@@ -9,7 +9,7 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerSeptember2016ItemsPackage.jpg"
@@ -68,7 +68,7 @@ Trendy Butler sends their items in a thick brown paper envelope and when you ope
 
 [![Trendy Butler - Howe 5 Star Baseball Henley Shirt](http://whatsupmailbox.com/images/TrendyButlerSeptember2016Howe5StarsBaseballHenleyShirt.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
 
-**[Howe 5 Star Baseball Henley Shirt](http://www.theartofstyleboutique.com/howe-5-stars-60247.html){:target="_blank}**, *Value $52*
+**[Howe - 5 Star Baseball Henley Shirt](http://www.theartofstyleboutique.com/howe-5-stars-60247.html){:target="_blank}**, *Value $52*
 
 <br>
 
@@ -121,7 +121,7 @@ If you haven't subscribed yet, you can get $10 off your first package [through t
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Howe 5 Star Baseball Henley Shirt</TD>
+      <TD>Howe - 5 Star Baseball Henley Shirt</TD>
       <TD>$52</TD>
    </TR>
    <TR>
