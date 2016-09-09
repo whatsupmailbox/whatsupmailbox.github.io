@@ -32,16 +32,6 @@ date: 2016-09-09 13:51:39 -08:00
 
 [Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"} is a subscription that delivers brand name and trendy menswear based on a style profile that you complete upon subscribing. And since men's clothing subscription are few and limited, I'm always up for reviewing one!
 
-Now let's get to the review!
-
-<br>
-
-[![First look at unpacking](http://whatsupmailbox.com/images/TrendyButlerSeptember2016OpenPackage.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
-
-Trendy Butler sends their items in a thick brown paper envelope and when you open that, you see the items packaged neatly inside.
-
-<br>
-
 When you subscribe to [Trendy Butler](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}, you complete a style profile so that they can send out items that match your preferences and size. Each month your stylist will go through their partnered apparel network and with the criteria of your style profile, coupled with your location and feedback from previous shipments, they will select items to fit your needs at a price that wont break the bank. FYI, if you have a special occasion or specific need from time to time, you can send them a Special Request just by emailing them.
 
 <br>
@@ -55,6 +45,16 @@ Here are a couple of examples of the Style Profile:
 <br>
 
 [![Trendy Butler Style Questionnaire](http://whatsupmailbox.com/images/TrendyButlerStylePreference2.png)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
+
+<br>
+
+Now let's get to the review!
+
+<br>
+
+[![First look at unpacking](http://whatsupmailbox.com/images/TrendyButlerSeptember2016OpenPackage.jpg)](http://trendybutlers.com/share/9D37B8DF/){:target="_blank"}
+
+Trendy Butler sends their items in a thick brown paper envelope and when you open that, you see the items packaged neatly inside.
 
 <br>
 
