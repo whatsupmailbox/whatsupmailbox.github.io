@@ -9,7 +9,7 @@ categories:
 tags: [Products, Reviews]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SimplyGildedHaulSep2016.jpg"
