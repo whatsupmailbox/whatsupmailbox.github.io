@@ -34,6 +34,6 @@ Shipping was fast and her packaging was pretty too, that bunny is so darn cute! 
 
 If you're not aware of [Etsy](https://www.etsy.com){:target="blank"}, it's a marketplace where creative and artistic people sell their products and creations. I've been obsessed with them since way back when I was planning my wedding (almost 6 years ago!) and have been buying tons of stuff ever since. #guilty
 
-And when you shop there, you can use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 1-2% cashback on all your purchases at Etsy, I always use them and get money back!</p>
+And when you shop there, you can use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 1-2% cashback on all your purchases at Etsy, I always use them and get money back!
 
 <a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
