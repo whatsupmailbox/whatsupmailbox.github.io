@@ -16,7 +16,7 @@ imagefeature: "SimplyGildedHaulSep2016.jpg"
 date: 2016-09-15 11:11:39 -08:00
 ---
 
-![Etsy Haul](http://whatsupmailbox.com/images/SimplyGildedHaulSep2016.jpg)
+![Etsy Haul: Simply Gilded](http://whatsupmailbox.com/images/SimplyGildedHaulSep2016.jpg)
 
 Don't you just love pretty stationery products?! I can never have enough of them and I find myself constantly browsing [Etsy](https://www.etsy.com){:target="blank"} for more - I may have a problem.
 
@@ -24,7 +24,7 @@ I found this cute shop [Simply Gilded](https://www.etsy.com/shop/SimplyGildedCo?
 
 <br>
 
-![Etsy Haul](http://whatsupmailbox.com/images/SimplyGildedHaulPackagingSep2016.jpg)
+![Simply Gilded Packaging](http://whatsupmailbox.com/images/SimplyGildedHaulPackagingSep2016.jpg)
 
 Shipping was fast and her packaging was pretty too, that bunny is so darn cute! So happy all these beauties are in my collection now and I can't wait to use them!
 
