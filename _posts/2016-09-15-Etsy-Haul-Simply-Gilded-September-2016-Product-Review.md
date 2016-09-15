@@ -22,7 +22,9 @@ Don't you just love pretty stationery products?! I can never have enough of them
 
 I found this cute shop [Simply Gilded](https://www.etsy.com/shop/SimplyGildedCo?ref=l2-shopheader-name){:target="blank"} and just fell in love with some of her designs and had to make a purchase. Especially since there was a set of washi and planner clip that was made in collaboration with [The Creative Bee Shop](https://www.etsy.com/shop/TheCreativeBeeShop?ref=shop_sugg){:target="blank"}, another great Etsy shop that makes cute planner clips, it didn't take long before I clicked next, next and done!
 
-Shipping was fast and her packaging was cute too. So happy all these beauties are in my collection now and I can't wait to use them!
+![Etsy Haul](http://whatsupmailbox.com/images/SimplyGildedPackagingHaulSep2016.jpg)
+
+Shipping was fast and her packaging was pretty too, that bunny is so darn cute! So happy all these beauties are in my collection now and I can't wait to use them!
 
 <br>
 
