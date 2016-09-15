@@ -36,4 +36,4 @@ If you're not aware of [Etsy](https://www.etsy.com){:target="blank"}, it's a mar
 
 And when you shop there, you can use <a href="http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=30337" target="_blank">EBATES</a> to get 1-2% cashback on all your purchases at Etsy, I always use them and get money back!
 
-<a href='http://www.ebates.com/rf.do?referrerid=nFbj2DqrCN%2BpB5AWKzmAFQ%3D%3D&eeid=28585' target='_blank' rel='nofollow'><img src='http://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+<a href='https://www.ebates.com/r/LORETT1403?eeid=28585' target='_blank' rel='nofollow'><img src='https://www.ebates.com/referral/2012/global_files/images/ebates_logo.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
