@@ -4,7 +4,8 @@ title: "New iPhone 7!"
 description: ""
 headline: "New iPhone 7!"
 categories: 
-      - Subscriptions
+      - Products
+      - Reviews
 tags: [Products, Reviews, September 2016]
 comments: true
 mathjax: null
