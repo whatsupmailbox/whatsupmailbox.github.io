@@ -9,10 +9,10 @@ categories:
 tags: [Cate & Chloe VIP, Subscriptions, Coupons, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
-imagefeature: "CateChloeVIPOctober2016Spoiler.jpg"
+imagefeature: "CateChloeVIPOctober2016Spoiler.gif"
 date: 2016-09-19 17:21:39 -08:00
 ---
 
