@@ -26,6 +26,8 @@ A spoiler into Cate & Chloe's Fall VIP Box has been revealed and the perk of the
 
 The Fall Fantasy VIP box coming next month (October) will also be the release of their luxe new Swarovski styles and layering pieces! I'm so excited to see what they are!
 
+If you're interested in subscribing, you can [join here](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} and use coupon code **WUMFNTSY20** to get 20% off the Starter Package, but hurry, offer ends October 5th!
+
 <br>
 
 <H2>What's Cate & Chloe VIP?</H2>
@@ -36,9 +38,6 @@ The Fall Fantasy VIP box coming next month (October) will also be the release of
 
 **What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE gift item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
 
-**Coupon:** Get 20% off on any subscription with coupon code [WUMFNTSY20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends October 5th!
-
-Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 20% off any subscription with code [WUMFNTSY20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends October 5th!
+**Coupon:** Get 20% off the Starter Package with coupon code [WUMFNTSY20](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends October 5th!
 
 Read all my previous [Cate & Chloe VIP Box reviews](http://whatsupmailbox.com/tags/index.html#Cate%20&%20Chloe%20VIP){:target="_blank"} to see what it's all about.
-
