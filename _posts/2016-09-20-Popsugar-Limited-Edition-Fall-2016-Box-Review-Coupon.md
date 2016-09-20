@@ -9,11 +9,11 @@ categories:
 tags: [Popsugar Must Have, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "PopsugarLimitedEditionFall2016Items.jpg"
-date: 2016-09-20 10:19:39 -08:00
+date: 2016-09-20 10:00:39 -08:00
 ---
 
 [![Popsugar Must Have Limited Edition Fall 2016](http://whatsupmailbox.com/images/PopsugarLimitedEditionFall2016Box.jpg)](http://popsugar-must-have.evyy.net/c/164125/198666/2706){:target="_blank"}
@@ -159,7 +159,7 @@ One end has a built-in brush, while the other holds the product. The brush comes
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This box was made for me! It had the right type of products and seasonally appropriate too. The fashion items are on-trend, and the beauty products are quality and useful. A great curation in book! My favorite has got to be the headphones of course, it's such a statement piece to wear that's also functional, a combo that I need in my technological everyday life. It's so refreshing to get a box once in awhile that totally gets you and your style, and this was definitely it! Plus the total value came to a whopping $444, that's quadruple the cost! This has got to be one of my favorite limited edition boxes from them as of yet. Bravo Popsugar.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This box was made for me! It had the right type of products and seasonally appropriate too. The fashion items are on-trend, and the beauty products are quality and useful. A great curation in my book! My favorite has got to be the headphones of course, it's such a statement piece to wear that's also functional, a combo that I need in my technological everyday life. It's so refreshing to get a box once in awhile that totally gets you and your style, and this was definitely it! Plus the total value came to a whopping $444, that's quadruple the cost! This has got to be one of my favorite limited edition boxes from them as of yet. Bravo Popsugar.
 
 <br>
 
