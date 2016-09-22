@@ -85,7 +85,15 @@ They also include a section on how to wear all the items in the box together for
 
 <br>
 
-These socks have red and blue stripes with white lines in between them. I can see how they're called Patriot socks! 
+These socks have red and blue stripes with white lines in between them. I can see how they're called Patriot socks! It's also made of 80% cashmere blend, how luxe!
+
+The company behind these socks is owned by former professional basketball player Andreas Schreiber, and they have a mission to give back to the world through various social causes.
+
+<br>
+
+[![Evoke Patriot Socks](http://whatsupmailbox.com/images/GentlemansBoxSeptember2016EvokePatriotSocks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+
+I love supporting companies that have a social mission as well.
 
 <br>
 
