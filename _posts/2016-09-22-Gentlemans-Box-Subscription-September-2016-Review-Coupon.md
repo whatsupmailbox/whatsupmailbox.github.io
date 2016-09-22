@@ -85,7 +85,7 @@ They also include a section on how to wear all the items in the box together for
 
 <br>
 
-These socks have red and blue stripes with white lines in between them. I can see how they're called Patriot socks! It's also made of 80% cashmere blend, and you can feel how soft it is, how luxe!
+These socks have red and blue stripes with white lines in between them. I can see how they're called Patriot socks! It's also made of 80% cashmere blend, and you can feel how soft it is!
 
 The company behind these socks is owned by former professional basketball player Andreas Schreiber, and they have a mission to give back to the world through various social causes.
 
