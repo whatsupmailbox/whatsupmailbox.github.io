@@ -161,7 +161,7 @@ Not a subscriber? You can <a href="http://mbsy.co/d7GnS"><big>join here</big></a
 
 <br>
 
-<TABLE  BORDER="5" style="width:40%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>Gentleman's Box Items</center></H3>
