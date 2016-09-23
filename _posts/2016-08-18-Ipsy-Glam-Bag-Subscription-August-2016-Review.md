@@ -30,7 +30,7 @@ date: 2016-08-18 09:31:39 -08:00
 
 <br>
 
-[![Ipsy August 2016 Package](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+[![Ipsy August 2016 Package](http://whatsupmailbox.com/images/IpsyAugust2016Package.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 Ipsy always ships their glam bags in bright neon pink padded envelopes. It stands out in your mailbox and you can't miss when it actually arives!
 
