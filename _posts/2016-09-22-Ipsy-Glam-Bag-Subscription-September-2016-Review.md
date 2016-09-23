@@ -9,7 +9,7 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsySeptember2016Items.jpg"
@@ -52,7 +52,7 @@ First peek at unboxing shows the gorgeous glam bag and their post card! This mon
 
 [![Ipsy September 2016 Glam Bag](http://whatsupmailbox.com/images/IpsySeptember2016GlamBag.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
-This month's glam bag is, well, glam of course! The girls on the bag spell out the word "IPSY" and they remind me of synschronized swimmers, all glam and proper =)
+This month's glam bag is cute! The girls on the bag spell out the word "IPSY" and they remind me of cheerleaders minus the pom poms =)
 
 <br>
 
@@ -141,7 +141,7 @@ Interested in subscribing? You can go to [www.ipsy.com](https://www.ipsy.com/new
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:65%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Ipsy Glam Bag Items</center></H3>
