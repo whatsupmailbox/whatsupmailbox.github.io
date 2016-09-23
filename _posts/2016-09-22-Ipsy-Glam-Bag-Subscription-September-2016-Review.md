@@ -44,7 +44,7 @@ This review is for my profile so it's just one of the many variations that they 
 
 [![Ipsy September 2016 Open Package](http://whatsupmailbox.com/images/IpsySeptember2016OpenPackage.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
-First peek at unboxing shows the gorgeous glam bag and their post card! This month's theme is 
+First peek at unboxing shows the gorgeous glam bag and their post card! This month's theme is Glamazon!
 
 <br>
 
