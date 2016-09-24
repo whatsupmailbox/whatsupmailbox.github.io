@@ -32,7 +32,7 @@ date: 2016-9-24 09:23:19 -08:00
 
 <br>
 
-[Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"} is a French jewelry subscription box that ships 1 jewelry item every month that's made in France. They initially only shipped to Europe but started shipping to U.S. this year (so happy when that happened!). And since I love everything French, I subscribed in a heartbeat!
+[Emma & Chloe](http://www.emma-chloe.com/us/){:target="_blank"} is a French jewelry subscription box that ships a jewelry item every month that's made in France. They initially only shipped to Europe but started shipping to U.S. this year.
 
 When you first subscribe, you'll be prompted to answer a couple of questions regarding your jewelry preferences such as silver or gold, and pin or clip earrings. And as a bonus for being a subscriber, you'll also receive 20% discount on anything in their online shop!
 
