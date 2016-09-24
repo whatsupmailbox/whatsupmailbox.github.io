@@ -26,7 +26,7 @@ date: 2016-09-23 09:31:39 -08:00
 
 **Cost:** $10/month + Free Shipping.
 
-**What you'll get:** You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a beauty profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.
+**What you'll get:** You'll receive 5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a beauty profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.
 
 <br>
 
