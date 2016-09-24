@@ -56,7 +56,7 @@ The box opens up like a book and inside you see their jewelry bag as well as the
 
 [![Emma & Chloe Info Magazine](http://whatsupmailbox.com/images/EmmaEtChloeSeptember2016InfoMagazine.jpg)](http://www.emma-chloe.com/us/){:target="_blank"}
 
-Their Info Magazine is quite thick and full of useful details as you'll see in the pics below.
+Their Info Magazine is quite thick and full of useful details. I always enjoy reading them!
 
 <br>
 
@@ -84,7 +84,7 @@ You'll also find a travel section and guide of touring Paris in two days!
 
 **May & June** Tumen Bracelet in Gold, *Value $60*
 
-Subscribers will receive this bracelet in either Silver or Gold, depending on your jewelry preferences. I received gold because I wear it most often when compared to silver.
+Subscribers will receive this bracelet in either Silver or Gold, depending on your jewelry preferences. I chose gold because I wear it most often when compared to silver.
 
 You can see both designs in the info magazine as shown below.
 
