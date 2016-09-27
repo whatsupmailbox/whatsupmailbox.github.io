@@ -9,7 +9,7 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerSeptember2016BPackage02.jpg"
