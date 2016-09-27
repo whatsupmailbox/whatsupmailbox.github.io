@@ -18,7 +18,7 @@ date: 2016-09-26 18:16:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Sprezza Box September 2016 Box](http://whatsupmailbox.com/images/SprezzaBoxAugust2016Box.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Sprezza Box September 2016 Box](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016Box.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
 **Subscription:** [Sprezza Box](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
