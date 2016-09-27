@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "SprezzaBoxSeptember2016Items.jpg"
-date: 2016-09-26 11:21:39 -08:00
+date: 2016-09-26 18:16:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
@@ -46,7 +46,7 @@ Once you unwrap the sticker, you finally see the items inside with the info card
 
 <br>
 
-[![Info Card Front](http://whatsupmailbox.com/images/SprezzaBoxASeptember2016Info.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Info Card Front](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016Info.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 <figcaption>The Info Card</figcaption>
 
 <br>
@@ -75,7 +75,7 @@ The back of the info card lists all the items inside the box as well as their va
 
 **MRKT** Sunglasses Case, *Value $15*
 
-This is a case to protect your sunglasses from scratches and dirt. Closure is done by a wrap around tie as shows in the picture.
+This is a case to protect your sunglasses from scratches and dirt. Closure is done by a wrap around tie as shown in the picture.
 
 <br>
 
@@ -95,7 +95,7 @@ At first I was a bit worried because the case is flat and wondered how on earth 
 
 **Sprezza NYC** Neck Tie, *Value $30*
 
-This red and blue tie has the classic diagonal stripes pattern that my husband will have no problem wearing.
+This red and blue tie has the classic diagonal stripes pattern that my husband will have no problem wearing. It's made of 100% Silk and is Dry Clean only of course. It feels high quality as all Sprezza brand products are.
 
 <br>
 
@@ -107,13 +107,13 @@ A silver tie clip with the Fleur-de-lis symbol that represents perfection, light
 
 <br>
 
-Here's a closer look at the tie clip:
+Here's a closer look at it:
 
 <br>
 
 [![Gent's Lounge Tie Clip](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016GentsLoungeTieClip02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-The detail is very intricate and well done.
+The detail is very intricate and well done. The spring for the clip is also smooth and grips the tie well without damaging the material. A very well made tie clip that will surely last!
 
 <br>
 
@@ -121,7 +121,7 @@ The detail is very intricate and well done.
 
 **Sprezza** Pocket Square, *Value $18*
 
-The pattern on this pocket square is funky and...
+I'm loving the pattern on this pocket square! It's fun and modern but still classy at the same time. The blue will perfectly tie in with the tie and pocket square. Made of 100% cotton - Dry Clean only.
 
 <br>
 
@@ -129,7 +129,7 @@ The pattern on this pocket square is funky and...
 
 **Weekend Casual** Socks, *Value $10*
 
-Polka dot socks! The colors match the tie and I like that they went with a different pattern for the socks.
+Polka dot socks! The colors are blue and red of course and my husband loves this. It fits into his business work life and will go great when he needs to dress up to meet clients. It also feels soft and has a good grip when worn so it doesn't slide down.
 
 <br>
 
@@ -137,11 +137,11 @@ Polka dot socks! The colors match the tie and I like that they went with a diffe
 
 **Niche For Men** Multi Wash, *Value $3.99*
 
-This is an all-in-one shampoo, body wash and shave cream.
+This is an all-in-one shampoo, body wash and shave cream. Just the type of product my husband loves - something easy and all-in-one. This way he just needs to bring this one item when traveling versus separate products for each purpose. It's also all-natural with aloe vera and essential oils, and it smeels very fresh and clean too. A great multi-wash that I'm sure any man would appreciate!
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month had items that were very functional. Everything will surely be used and although it felt a bit lacking in the wow factor as I typically am with this box, it still had its high value. The total value of everything in this box came up to $105, which is exactly the same as last month's, but the items were definitely more up my alley then versus now. The silk tie was the definite winner in this box and made the cost totally worth it. Here's to hoping next month will bring more exciting items!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This month had items that were very functional. Everything will surely be used and although it felt a bit lacking in the wow factor as I typically am with this box (personal preference), it still had its high value. The total value of everything in this box came up to $101.99 which is more than triple the cost! The silk tie was the definite winner in this box and made the cost totally worth it. Here's to hoping next month will bring more exciting items!
 
 Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b8) to start receiving their monthly dapper accessories. And don't forget to use coupon code **WHATSUPMAILBOX** for 10% off your first box!
 
@@ -156,32 +156,32 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>DIY Shoe Brush & Rag Set</TD>
-      <TD>$10</TD>
+      <TD>MRKT Sunglasses Case</TD>
+      <TD>$15</TD>
    </TR>
   <TR>
-      <TD>Knottery New York Neck Tie</TD>
-      <TD>$55</TD>
+      <TD>Sprezza NYC Neck Tie</TD>
+      <TD>$30</TD>
+   </TR>
+  <TR>
+      <TD>Gent's Lounge Tie Clip</TD>
+      <TD>$25</TD>
    </TR>
    <TR>
       <TD>Sprezza Pocket Square</TD>
       <TD>$18</TD>
    </TR>
     <TR>
-      <TD>Stesso Socks</TD>
-      <TD>$12</TD>
+      <TD>Weekend Casual Socks</TD>
+      <TD>$10</TD>
    </TR>
     <TR>
-      <TD>Bickmore Bick1 Leather Cleaner</TD>
-      <TD>$5</TD>
-   </TR>
-    <TR>
-      <TD>The Mens Shoe Club Shoe Lace</TD>
-      <TD>$5</TD>
+      <TD>Niche For Men Multi Wash</TD>
+      <TD>$3.99</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$105</big></b></TD>
+      <TD><b><big>$101.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
