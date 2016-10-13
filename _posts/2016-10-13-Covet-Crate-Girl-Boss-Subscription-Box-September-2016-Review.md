@@ -48,13 +48,13 @@ And under the info magazine are the items safely packaged inside.
 
 <H4>The Info Magazine:</H4>
 
-![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Info.jpg)
+![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016InfoMagazine.jpg)
 
 Every box includes an Info Magazine that spotlights a woman/lady figure who is an inspiration to others through their work or achievement. This month they featured Marie Curie.
 
 <br>
 
-![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Info02.jpg)
+![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016InfoMagazine02.jpg)
 
 They detail each item that was included in the box as well as a description of not only the items itself, but also the company and/or artist behind it.
 
