@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "CovetCrateGirlBossSeptember2016Items.jpg"
-date: 2016-10-13 12:11:39 -08:00
+date: 2016-10-13 18:11:39 -08:00
 ---
 
 <center><img src="/images/CovetCrateGirlBossSeptember2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss Box" width="400" /></center>
@@ -50,7 +50,7 @@ And under the info magazine are the items safely packaged inside.
 
 ![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016InfoMagazine.jpg)
 
-Every box includes an Info Magazine that spotlights a woman/lady figure who is an inspiration to others through their work or achievement. This month they featured Marie Curie.
+Every box includes an Info Magazine that spotlights a woman/lady figure who is an inspiration to others through their work or achievement. This month they featured Penelope Barker, the woman behind The Edenton Tea Party.
 
 <br>
 
@@ -189,7 +189,7 @@ This snack bar consists of salted peanuts and milk chocolate. They've also inclu
       <TD>$3.50</TD>
    </TR>
     <TR>
-      <TD>Golden Jacks Salted Peanut & Milk Chocolate Bar</TD>
+      <TD>Golden Jacks Salted Peanut and Milk Chocolate Bar</TD>
       <TD>$3</TD>
    </TR>
    <TR>
