@@ -106,15 +106,17 @@ As you can see from the instructions that's attached to the bottle, it's really 
 
 <br>
 
-![Rifle Paper Co. Pink Floral Weekly Desk Planner](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RiflePaperCoPinkFloralWeeklyDeskPlanner.jpg)
+![Teemas Tea - Tea Gift Pack](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeemaTeasTeaGiftPack02.jpg)
 
-**Rifle Paper Co.** Pink Floral Weekly Desk Planner. *Value $12*
+![Teemas Tea - Tea Gift Pack](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeemaTeasTeaGiftPack.jpg)
 
-Although I personally use a daily planner, this weekly desktop planner (that can be utilized as a mouse pad as well) is certainly too pretty and cute to pass up. I will totally use this and since it's not dated, you can use it on any week!
+**Teemas Tea** Tea Gift Pack. *Value $14*
+
+A tea gift pack to use with my new tea bottle, yay! The teas included inside this gift pack are, Lemongrass Black Tea, Peppermint Green Tea, Osmathus Oolong Tea, and Immortality Tea (caffeine free).
 
 <br>
 
-![LWJ Designs Boss Lady Tumbler](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016LWJDesignsBossLadyTumbler.jpg)
+![Southern Hospitality - Sweet Tea Foot Soak Georgia Peach](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016SouthernHospitalitySweetTeaFootSoakGeorgiaPeach.jpg)
 
 **LWJ Designs** Boss Lady Tumbler, 16 oz. *Value $12*
 
