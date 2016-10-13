@@ -189,7 +189,7 @@ This snack bar consists of salted peanuts and milk chocolate. They've also inclu
       <TD>$3.50</TD>
    </TR>
     <TR>
-      <TD>Golden Jacks Salted Peanut and Milk Chocolate Bar</TD>
+      <TD>Golden Jacks Salted Peanut & Milk Chocolate Bar</TD>
       <TD>$3</TD>
    </TR>
    <TR>
