@@ -68,41 +68,41 @@ They detail each item that was included in the box as well as a description of n
 
 <H4>Items in detail:</H4>
 
-![Rifle Paper Co. Garance Doré Leopard Notebook Set](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RosannaJetSetterTrayHelloBeautiful.jpg)
+![Rifle Paper Co. Garance Doré Leopard Notebook Set](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016RiflePaperCoGaranceDoreNotebookSet.jpg)
 
-**Rosanna** Jet Setter Tray Hello Beautiful. *Value $22*
+![Rifle Paper Co. Garance Doré Leopard Notebook Set](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016RiflePaperCoGaranceDoreNotebookSet02.jpg)
 
-*Dimensions: 4.25" x 6.25"*
+**Rifle Paper Co.** Garance Doré Leopard Notebook Set. *Value $15*
 
-<br>
+I love love love Rifle Paper Co. so I was happy to find a notebook set from them in this box! The Garance Doré line is super chic too which is gorgeous and totally my style.
 
-I'm a big fan of Rosanna and have quite a bit of their items in my collection. Their designs are always so pretty and chic, this one included.
-
-<br>
-
-![Rosanna Jet Setter Tray Hello Beautiful](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RosannaJetSetterTrayHelloBeautiful2.jpg)
-
-The "Hello Beautiful" message is uplifting and the colors are happy and bright. I'm putting this on top of my entryway console to welcome me when I come home!
+They included items from this brand in their last box as well, but I'm not complaining - if their items are included everytime I'd be ecstatic.
 
 <br>
 
-![Rifle Paper Co. Jardin De Paris Memoir Notebook](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RiflePaperCoJardinDeParisMemoirNotebook.jpg)
+![Rifle Paper Co. Garance Doré Leopard Notebook Set](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016RiflePaperCoGaranceDoreNotebookSet03.jpg)
 
-**Rifle Paper Co.** Jardin De Paris Memoir Notebook. *Value $15*
-
-Another great company that I'm a fan of. They're famous for their floral designs and oh how pretty they are indeed! I don't have this particular pattern so I'm happy to add this to my collection.
+Inside are unlined pages ready for you to jot down your creative ideas or drawings.
 
 <br>
 
-![Rifle Paper Co. Jardin De Paris Memoir Notebook](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RiflePaperCoJardinDeParisMemoirNotebook2.jpg)
+![Steep & Go - Cold Brew Tea Bottle](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeaBottle.jpg)
 
-You can find a section to input your name inside the cover. It says, "From the Desk Of".
+**Steep & Go** Cold Brew Tea Bottle (20 oz.). *Value $12.95*
+
+I personally drink a lot of tea. Cold during summer and hot during winter. Making cold tea requires more preparation and effort but with this bottle, it's super easy and fast too. And not to mention, you can practically make cold tea anywhere, even on the go!
 
 <br>
 
-![Rifle Paper Co. Jardin De Paris Memoir Notebook](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RiflePaperCoJardinDeParisMemoirNotebook3.jpg)
+![Steep & Go - Cold Brew Tea Bottle](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeaBottle02.jpg)
 
-The pages are lined in pink and above every page is a floral stamp. A great notebook to have to write pretty little notes!
+The bottle consists of a tea filter and a sports cap. It's BPA-free and dishwasher safe (top rack).
+
+<br>
+
+![Steep & Go - Cold Brew Tea Bottle](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeaBottle03.jpg)
+
+As you can see from the instructions that's attached to the bottle, it's really simple and fast to make. Just add tea and water into the bottle, screw the tea filter on, shake the bottle to release the tea flavor, wait 10 minutes and enjoy! Love this nifty bottle, my only complaint is they should have sent this when summer just started so I can use it more!
 
 <br>
 
