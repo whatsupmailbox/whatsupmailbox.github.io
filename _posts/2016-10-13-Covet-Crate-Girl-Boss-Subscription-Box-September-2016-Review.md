@@ -88,7 +88,7 @@ Inside are unlined pages ready for you to jot down your creative ideas or drawin
 
 ![Steep & Go - Cold Brew Tea Bottle](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TeaBottle.jpg)
 
-**Steep & Go** Cold Brew Tea Bottle (20 oz.). *Value $12.95*
+**Steep & Go** Cold Brew Tea Bottle, 20 oz. *Value $12.95*
 
 I personally drink a lot of tea. Cold during summer and hot during winter. Making cold tea requires more preparation and effort but with this bottle, it's super easy and fast too. And not to mention, you can practically make cold tea anywhere, even on the go!
 
@@ -116,57 +116,47 @@ A tea gift pack to use with my new tea bottle, yay! The teas included inside thi
 
 <br>
 
-![Southern Hospitality - Sweet Tea Foot Soak Georgia Peach](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016SouthernHospitalitySweetTeaFootSoakGeorgiaPeach.jpg)
+![Secrets of Six-Figure Women Book by Barbara Stanny](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016SecretsOfSixFigureWomenBarbaraStannyBook.jpg)
 
-**LWJ Designs** Boss Lady Tumbler, 16 oz. *Value $12*
+**Secrets of Six-Figure Women Book by Barbara Stanny**. *Value $14.99*
 
-Boss Lady, yep, that's me! What a cute and fun tumbler, I love it! It's made of acrylic and designed with outdoor grade vinyl. The only drawback for me is that it's hand-wash only, so I need to remind myself not to put this in the dishwasher accidently.
-
-Side note, this actual tumbler came with a crack on the lid but I sent a quick email to their customer support and a new one will be sent to replace it.
+This book is geared to help women in reaching financial independence, become smart (or smarter) with money, and earn more than what you're making now. I can't say I'm too excited about this book, or if I had to be honest, I'm never excited to find any book in subscription boxes. It's such a personal preference item plus I love my kindle, so I may just gift this. 
 
 <br>
 
-![Kelli Marie Design Raspberry Sangria Hand Poured Soy Wax Candle](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016KelliMarieDesignRaspberrySangriaSoyCandle.jpg)
+![Southern Hospitality - Sweet Tea Foot Soak in Georgia Peach](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016SouthernHospitalitySweetTeaFootSoakGeorgiaPeach.jpg)
 
-**Kelli Marie Design** Raspberry Sangria Hand-Poured Soy Wax Candle, 2 oz. *Value $5*
+**Southern Hospitality** Sweet Tea Foot Soak in Georgia Peach. *Value $5*
 
-I may have mentioned this before, but I have so many candles in my house right now, I probably can open up a stand and start selling them. But I can't complain since I do love candles and just can't seem to have enough of them. And I certainly don't have one with a raspberry sangria scent yet.
-
-<br>
-
-![Kelli Marie Design Raspberry Sangria Hand Poured Soy Wax Candle](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016KelliMarieDesignRaspberrySangriaSoyCandle2.jpg)
-
-This candle smells amazing! It's sweet and refreshing, it does remind me of sangria and I love that the size is travel friendly.
+My feet have taken a beating from the summer flip flop season, so this foot soak has come at a perfect time. The scent is pleasant and all you need to do is dispense the product in 8 cups of warm water and soak feet for 15-20 minutes. Will need to do this asap!
 
 <br>
 
-![Little White Feather Shop Thin Lace Stretch Headband](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016LittleWhiteFeatherShopThinLaceStretchHeadband.jpg)
+![The Jane Soap Company - Vanilla Chai Soap Bar](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TheJaneSoapCompanyVanillaChaiSoapBar.jpg)
 
-**Little White Feather Shop** Thin Lace Stretch Headband. *Value $11*
+**The Jane Soap Company** Vanilla Chai Soap Bar. *Value $3.50*
 
-*Dimensions: 8.5" x 2.5"*
-
-<br>
-
-Subscribers received various colors for this headband and the color I got is a light baby blue color. The value they put for this headband seems a bit high to me ($11), I'm not sure I'd purchase it at that price. Plus I don't really wear headbands that often, and when I do, it's typically when I exercise so I think I'll be gifting this to someone who will actually use it.
+What an interesting soap bar. It smells exactly like vanilla chai tea, and you can totally tell that this soap bar is made of all natural ingredients.
 
 <br>
 
-<center><img src="/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard.jpg" border="0" style="border:none;max-width:100%;" alt="Pitaya Plus Coupon Card" width="400" /></center>
+![The Jane Soap Company - Vanilla Chai Soap Bar](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016TheJaneSoapCompanyVanillaChaiSoapBar02.jpg)
 
-**Pitaya Plus** Coupon Card, 15% Discount.
-
-Pitaya is also known as Dragon Fruit which is a fruit rich in antioxidants, vitamins and high in fiber. [Pitaya Plus](http://www.pitayaplus.com){:target="_blank"} offers smoothie packs and cubes that are made with 100% Pitaya fruit and no added sugar. I can't say I'm a big fan of the Dragon Fruit taste, it's slightly sweet and has the consistency of a kiwi.
+On one end of the soap bar you'll see traces of the masala chai tea ingredients which is cinnamon sticks, cloves, cardamom, ginger and black tea. It probably will also function well as an exfoliator if you use this side of the bar to soap yourself, will definitely have to test that out and see!
 
 <br>
 
-<center><img src="/images/CovetCrateGirlBossJuly2016PitayaPlusCouponCard2.jpg" border="0" style="border:none;max-width:100%;" alt="Pitaya Plus Coupon Card" width="400" /></center>
+![Golden Jacks - Salted Peanut and Milk Chocolate Bar](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016GoldenJacksSaltedPeanutMilkChocolateBar.jpg)
 
-You need to scratch off the box to get your code so I'm guessing it'll be unique codes.
+**Golden Jacks** Salted Peanut and Milk Chocolate Bar. *Value $3*
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month is their first box since they switched over to bi-monthly delivery and although most of the items were great, it seemed a bit lacking still for me. I felt the same way in my previous box ([you can read that review here](http://whatsupmailbox.com/subscriptions/reviews/Covet-Crate-Girl-Boss-Subscription-Box-May-2016-Review/){:target="_blank"}), and was hoping to get a better experience in my next box (which is this one) and I'm left wanting more. If this was a $30 box, I would rave about it. But no, this my dear costs $55 and I expect much more with that price. I am of course comparing to other lifestyle boxes out there with similar price points such as [Popsugar](http://popsugar-must-have.evyy.net/c/164125/137737/2706){:target="_blank"} and [FabFitFun](http://fabfitfun-vip.evyy.net/c/164125/63686/1731){:target="_blank"}. The total value of this box came up to $77, and that's with a headband that I think is a bit overpriced. So in actual, I probably would have paid a little bit more if I just purchased all the items individually without the subscription. I'm still on the fence about continuing the subscription or just cancelling it altogether. Mostly because there have been good curations in the past. Perhaps I'll give them one more chance? Decisions. Decisions.
+This snack bar consists of salted peanuts and milk chocolate. They've also included a coupon code for you to use online.
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** To be honest, I'm quite disappointed with this box. I wasn't that impressed with the last box either but wanted to give them another chance to see if I'll continue subscribing, and sadly, I don't think I will. I do love the tea bottle and notebook set, but everything else was just meh. After tallying up the total value of all the items, it only came up to $53.45 which is slightly below the $54.95 cost, I mean what the gummy bears. Oh well, I did give them another try, but sadly this subscription will be cancelled.
 
 <br>
 
@@ -179,32 +169,32 @@ You need to scratch off the box to get your code so I'm guessing it'll be unique
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Rosanna Hello Beautiful Tray</TD>
-      <TD>$22</TD>
-   </TR>
-   <TR>
-      <TD>Rifle Paper Co. Notebook</TD>
+      <TD>Rifle Paper Co. Notebook Set</TD>
       <TD>$15</TD>
    </TR>
-    <TR>
-      <TD>Rifle Paper Co. Weekly Desk Planner</TD>
-      <TD>$12</TD>
+   <TR>
+      <TD>Steep & Go Cold Brew Tea Bottle</TD>
+      <TD>$12.95</TD>
    </TR>
     <TR>
-      <TD>LWJ Designs Boss Lady Tumbler</TD>
-      <TD>$12</TD>
+      <TD>Teemas Tea - Tea Gift Pack</TD>
+      <TD>$14</TD>
    </TR>
     <TR>
-      <TD>Kelli Marie Design Raspberry Sangria Soy Candle</TD>
+      <TD>Southern Hospitality Foot Soak</TD>
       <TD>$5</TD>
    </TR>
     <TR>
-      <TD>Little White Feather Shop Lace Headband</TD>
-      <TD>$11</TD>
+      <TD>The Jane Soap Company - Vanilla Chai Soap</TD>
+      <TD>$3.50</TD>
+   </TR>
+    <TR>
+      <TD>Golden Jacks Salted Peanut and Milk Chocolate Bar</TD>
+      <TD>$3</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$77</big></b></TD>
+      <TD><b><big>$53.45</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
