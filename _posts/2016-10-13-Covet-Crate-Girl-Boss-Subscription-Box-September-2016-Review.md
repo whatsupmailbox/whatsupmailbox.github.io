@@ -9,11 +9,11 @@ categories:
 tags: [Covet Crate, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "CovetCrateGirlBossSeptember2016Items.jpg"
-date: 2016-10-13 18:11:39 -08:00
+date: 2016-10-13 09:25:39 -08:00
 ---
 
 <center><img src="/images/CovetCrateGirlBossSeptember2016Box.jpg" border="0" style="border:none;max-width:100%;" alt="Covet Crate Girl Boss Box" width="400" /></center>
