@@ -26,7 +26,7 @@ date: 2016-10-13 18:11:39 -08:00
 
 <br>
 
-I've only subscribed to them recently and this will be my second box that I've reviewed. The last box wasn't too exciting for me ([you can read that review here](http://whatsupmailbox.com/subscriptions/reviews/Covet-Crate-Girl-Boss-Subscription-Box-May-2016-Review/){:target="_blank"}) so I'm hoping this one will be better!
+Covet Crate is a subscription box that is more of a stationery and office product type of box. I enjoyed my last box (you can read my review here) so I had high hopes for this box as well. Let's find out what's in it!
 
 <br>
 
@@ -36,13 +36,13 @@ I've only subscribed to them recently and this will be my second box that I've r
 
 ![First unboxing look](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016OpenBox.jpg)
 
-First look at unboxing shows the items inside are wrapped with tissue paper and finished off with a black bowtie.
+First look at unboxing shows the info magazine.
 
 <br>
 
-![Second unboxing look](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016OpenBox2.jpg)
+![Second unboxing look](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016OpenBox02.jpg)
 
-Once you unwrap the tissue paper, you see their info magazine and a lot of bubble wrap to keep your items safe from damage during shipment.
+And under the info magazine are the items safely packaged inside.
 
 <br>
 
@@ -54,13 +54,7 @@ Every box includes an Info Magazine that spotlights a woman/lady figure who is a
 
 <br>
 
-![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Info2.jpg)
-
-Inside you'll find the Table of Contents.
-
-<br>
-
-![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Info3.jpg)
+![Covet Crate Info Magazine](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Info02.jpg)
 
 They detail each item that was included in the box as well as a description of not only the items itself, but also the company and/or artist behind it.
 
