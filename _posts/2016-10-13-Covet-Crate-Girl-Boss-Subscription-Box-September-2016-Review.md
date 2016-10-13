@@ -64,13 +64,11 @@ They detail each item that was included in the box as well as a description of n
 
 ![Covet Crate Girl Boss September 2016 Items](http://whatsupmailbox.com/images/CovetCrateGirlBossSeptember2016Items.jpg)
 
-I love florals and I love gold, so I'm super happy about the items so far, plus they look so pretty!
-
 <br>
 
 <H4>Items in detail:</H4>
 
-![Rosanna Jet Setter Tray Hello Beautiful](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RosannaJetSetterTrayHelloBeautiful.jpg)
+![Rifle Paper Co. Garance Doré Leopard Notebook Set](http://whatsupmailbox.com/images/CovetCrateGirlBossJuly2016RosannaJetSetterTrayHelloBeautiful.jpg)
 
 **Rosanna** Jet Setter Tray Hello Beautiful. *Value $22*
 
