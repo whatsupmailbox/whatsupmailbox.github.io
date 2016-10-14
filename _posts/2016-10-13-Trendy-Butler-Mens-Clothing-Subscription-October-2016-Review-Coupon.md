@@ -9,7 +9,7 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, October 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerOctober2016OpenPackage02.jpg"
