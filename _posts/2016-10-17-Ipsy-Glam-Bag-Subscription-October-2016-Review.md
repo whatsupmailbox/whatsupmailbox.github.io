@@ -9,11 +9,11 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, October 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyOctober2016Items.jpg"
-date: 2016-10-17 09:31:39 -08:00
+date: 2016-10-17 09:51:39 -08:00
 ---
 
 <br>
