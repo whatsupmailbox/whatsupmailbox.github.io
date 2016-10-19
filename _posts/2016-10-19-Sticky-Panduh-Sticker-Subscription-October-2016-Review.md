@@ -6,10 +6,10 @@ headline: "Sticky Panduh Sticker Subscription October 2016 Review!"
 categories: 
       - Subscriptions
       - Reviews
-tags: [Panduh Box, Subscriptions, Reviews, October 2016]
+tags: [Sticky Panduh, Subscriptions, Reviews, October 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "StickyPanduhOctober2016Items.jpg"
