@@ -48,7 +48,7 @@ The stickers are housed in a Paper Panduh folder, it's both cute, functional and
 
 <H4>Items in detail:</H4>
 
-![Sticky Panduh October 2016 - Soda Pop Studio Planner Stickers](http://whatsupmailbox.com/images/StickyPanduhOctober2016SodaPopPlannerStickers.jpg)
+![Sticky Panduh October 2016 - Soda Pop Studio Planner Stickers](http://whatsupmailbox.com/images/StickyPanduhOctober2016SodaPopStudioPlannerStickers.jpg)
 
 **Soda Pop Studio** Planner Stickers
 
@@ -60,7 +60,9 @@ This month's sticker theme is fall and hello fall indeed! One sheet has half box
 
 **Pink Sunshine Designs** Planner Stickers
 
-Another fall woodland theme stickers. This time there's a whole sheet of full boxes which I love since I use the Erin Condren Lifeplanner Vertical layout which these boxes are perfect for! Another sheet is dedicated to deco stickers, while the last sheet on the right is functional stickers.
+Another fall woodland theme stickers. This time there's a whole sheet of full boxes which I love since I use the Erin Condren Lifeplanner Vertical layout which these boxes are perfect for! Another sheet is dedicated to deco stickers, while the last sheet on the right is functional stickers. 
+
+All sheets are matte, except for the deco sticker sheet on the very left. Those stickers are glossy which is perfect since you won't need to write on them.
 
 <br>
 
@@ -74,10 +76,10 @@ Because this is the very first Sticky Panduh package, a freebie sticker sheet is
 
 **Paper Panduh** Freebie Planner Stickers
 
-More fox stickers with the fall theme!
+More fox stickers with the fall theme! This sheet is also glossy and perfect to decorate your weekly schedule.
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** What a nice and pleasant first package from the Sticky Panduh subscription! Although I was expecting a fall theme for the stickers, I definitely didn't think that it would all be foxes galore, lol. But still, they're cute and I will definitely use them in my planner. For the price, this is way cheaper than buying individual stickers on Etsy, so that's a win for me. I'm hoping the next package will bring more stickers that have the same theme throughout but not exactly the same.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** What a nice and pleasant first package from the Sticky Panduh subscription! Although I was expecting a fall theme for the stickers, I definitely didn't think that it would all be foxes galore, lol. But still, they're cute and I will definitely use them in my planner. For the price, this is way cheaper than buying individual sticker sets on Etsy, so that's a win for me. I'm hoping the next package will bring more stickers that have the same theme throughout but not exactly the same type of stickers. Perhaps a sweater weather theme? That would be so perfect! Hint hint ;)
 
-Interested in subscribing? You can go to [www.panduhbox.com](http://www.panduhbox.com){:target="_blank"} to start receiving their monthly planner boxes! Subscribe before the 15th to get the current month's box.
+Interested in subscribing? You can go to [www.panduhbox.com](http://www.panduhbox.com){:target="_blank"} to start receiving their monthly sticker package!
