@@ -52,6 +52,12 @@ And inside you'll find all the items nicely packaged in jewelry boxes.
 
 <br>
 
+[![Cate & Chloe VIP September 2016 Jewelry Boxes](http://whatsupmailbox.com/images/CateChloeVIPOctober2016JewelryBox.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+
+Cate & Chloe sends their jewelry items in these cute boxes. It definitely makes a difference to find your jewelry packaged in cute and reusable boxes versus a cheap and regular plastic packaging.
+
+<br>
+
 The Info Card:
 
 <br>
@@ -61,12 +67,6 @@ The Info Card:
 </a></center>
 
 They always include an info card that lists the jewelry items inside the box.
-
-<br>
-
-[![Cate & Chloe VIP September 2016 Jewelry Boxes](http://whatsupmailbox.com/images/CateChloeVIPOctober2016JewelryBox.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
-
-Cate & Chloe sends their jewelry items in these cute boxes. It definitely makes a difference to find your jewelry packaged in cute and reusable boxes versus a cheap and regular plastic packaging.
 
 <br>
 
