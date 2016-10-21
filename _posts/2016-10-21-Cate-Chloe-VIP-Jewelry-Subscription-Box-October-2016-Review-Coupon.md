@@ -62,9 +62,7 @@ The Info Card:
 
 <br>
 
-<center><a href="http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=" target="_blank">
-<img src="/images/CateChloeVIPOctober2016Info.jpg" border="0" style="border:none;max-width:100%;" alt="Cate & Chloe VIP September 2016 Info Card" width="400" />
-</a></center>
+[![Cate & Chloe October 2016 Info Card](http://whatsupmailbox.com/images/CateChloeVIPOctober2016Info.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 They always include an info card that lists the jewelry items inside the box.
 
