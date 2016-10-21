@@ -86,7 +86,7 @@ They always include an info card that lists the jewelry items inside the box.
 
 **Mel "Magnificent" Ring - Gold**, *Value $49*
 
-This ring is gold plated and lined with Cubic Zirconia. It's gorgeous and just my style. It's a one size fits all so you can be sure it'll fit your fingers. Unfortunately MY fingers are super petite (I'm a size 3.5 in ring size!) so it was too big for me to even try on. Such a bummer cause I really LOVE this. In my opinion, without adjusting it, it should fit a size 6 and above.
+This ring is gold plated and lined with Cubic Zirconia. It's gorgeous and just my style. It's a one size fits all so you can be sure it'll fit your fingers. Unfortunately MY fingers are super petite (I'm a size 3.5 in ring size!) so it was too big for me to even try on. Such a bummer cause I really LOVE this. In my opinion, it should fit a size 6 and above.
 
 <br>
 
