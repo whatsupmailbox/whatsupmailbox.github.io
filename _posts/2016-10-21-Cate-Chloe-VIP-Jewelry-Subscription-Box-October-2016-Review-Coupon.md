@@ -118,7 +118,7 @@ I wore it all day and it wasn't heavy at all. Definitely got compliments, and th
 
 <br>
 
-This 3 piece layered necklace is 18k gold plated with a Turquoise circle, gold bar, and Wishbone pendant. I love the combo and it just works. 
+This 3 piece layered necklace is 18k gold plated with a Turquoise circle, gold bar, and Wishbone pendant. I love the combo, it's so boho chic. 
 
 <br>
 
@@ -128,7 +128,7 @@ And here's how it looks on me:
 
 [![Cate & Chloe Melanie Wish 18K Gold 3 Piece Layered Necklace](http://whatsupmailbox.com/images/CateChloeVIPOctober2016MelanieWishGoldLayeredNecklace02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-It goes really well with the Hazel earrings, I really love the look! Now if only the ring would fit me too, that would totally complete it!
+It goes really well with the Hazel earrings, I just love the look! Now if only the ring would fit me too, that would totally complete it!
 
 <br>
 
@@ -158,7 +158,7 @@ It also gives tips on how to use it as an eyeshadow, how to highlight perfectly,
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Cate & Chloe delivered beautiful jewelry items that are totally my style. The layered necklace has now become my go-to necklace, and the earrings, I would have bought them myself if I saw it in a store. Although the ring was a bit big on me, to be fair, no one makes rings in size 3.5 so that's on me. The bonus item this month was also a great item. I know the brand and am already a fan so that was a major plus for me.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Cate & Chloe delivered beautiful jewelry items that are totally my style. The layered necklace has now become my go-to necklace, and the earrings, I would have bought them myself if I saw it in a store. Although the ring was a bit big on me, to be fair, no one makes rings in size 3.5 so that's on me. The bonus item this month was also a great item, especially since I know the brand and am already a fan so that was a major plus. It's always exciting to find out what they send me every month and I can't wait for next month's jewels!
 
 Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 50% off any subscription with code [WUMBSEPT50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends September 5th!
 
