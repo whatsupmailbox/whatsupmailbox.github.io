@@ -104,6 +104,8 @@ Statement earrings are SO me, and I'm so happy I got this! It consists of 2 part
 
 Here's how it looks on me:
 
+<br>
+
 [![Cate & Chloe Hazel Brave Earrings](http://whatsupmailbox.com/images/CateChloeVIPOctober2016HazelBraveEarrings03.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 I wore it all day and it wasn't heavy at all. Definitely got compliments, and the blush pink and white stones adds a feminine touch to this modern and bold look. Love it!
