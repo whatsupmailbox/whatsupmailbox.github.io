@@ -28,7 +28,7 @@ date: 2016-10-21 08:41:39 -08:00
 
 **What's in the box:** Receive 1-3 pieces of jewelry from their own Cate & Chloe brand in your monthly VIP box along with other perks! All packages come with a special FREE gift item on top of your jewelry. These items may include makeup bags, hair accessories, etc.
 
-**Coupon:** Get 50% off on any subscription with coupon code [WUMBSEPT50](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends September 5th!
+**Coupon:** Get 25% off the Month to Month Starter Package with coupon code [WUMBINVINCIBLEVIP](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, this offer ends November 5th!
 
 <br>
 
