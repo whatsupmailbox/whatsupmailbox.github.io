@@ -43,6 +43,7 @@ When you first sign up, you're invited to complete their Style Quiz so they get 
 [![First look at unboxing](http://whatsupmailbox.com/images/CateChloeVIPOctober2016OpenBox.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 First look at unboxing reveals their info card stating "Hey, VIP", that's me!
+
 <br>
 
 [![Unboxing Pictures](http://whatsupmailbox.com/images/CateChloeVIPOctober2016OpenBox02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
