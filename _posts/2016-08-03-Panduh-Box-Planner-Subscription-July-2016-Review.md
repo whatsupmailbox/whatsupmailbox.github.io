@@ -64,7 +64,7 @@ Once you unwrap the purple ribbon and confetti tissue paper, you see the items i
 
 ![Panduh Box July 2016 Items](http://whatsupmailbox.com/images/Panduh-Box-July-2016-Items.jpg)
 
-Gorgeous. Gorgeous. Gourgeous!
+Gorgeous. Gorgeous. Gorgeous!
 
 <br>
 
