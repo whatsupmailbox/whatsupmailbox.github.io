@@ -65,69 +65,75 @@ The back of the info card lists all the items inside the box as well as their va
 
 <H4>Items in Detail:</H4>
 
-[![MRKT Sunglasses Case](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016MRKTSunglassesCase.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Countess Mara Neck Tie](http://whatsupmailbox.com/images/SprezzaBoxOctober2016CountessMaraNeckTie.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-**MRKT** Sunglasses Case, *Value $15*
+**Countess Mara** Necktie, *Value $65*
 
-This is a case to protect your sunglasses from scratches and dirt. Closure is done by a wrap around tie as shown in the picture.
-
-<br>
-
-[![MRKT Sunglasses Case](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016MRKTSunglassesCase02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
-
-Once you open it up, you see that it has two slots to insert your sunglasses.
+This is a 100% silk tie and it has a unique Inteli-Stretch Technology built into the neck for maximum comfort. The houndstooth pattern wih black and silver color is also uber modern, perfect for that cool dapper look. And in case you want to expand your Countess Mara collection, they are available for purchase at Macy's.
 
 <br>
 
-[![MRKT Sunglasses Case](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016MRKTSunglassesCase03.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Sprezza NYC Cufflinks](http://whatsupmailbox.com/images/SprezzaBoxOctober2016SprezzaNYCCuffLinks.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-At first I was a bit worried because the case is flat and wondered how on earth will sunglasses fit in this, but it works and it really does protect it. My husband will definitely be using this when he's traveling and doesn't want to use the typical sunglasses case that are bulky and big.
+**Sprezza NYC** Cufflinks, *Value $20*
 
-<br>
-
-[![Sprezza NYC Necktie](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016SprezzaNeckTie.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
-
-**Sprezza NYC** Neck Tie, *Value $30*
-
-This red and blue tie has the classic diagonal stripes pattern that my husband will have no problem wearing. It's made of 100% Silk and is Dry Clean only of course. It feels high quality as all Sprezza brand products are.
+Cufflinks are an accessory that I think often gets forgotten amongst the majority of men, but it really is a statement piece to wear and certainly adds great value to your whole look, especially when you're in the executive level of work or even if you want to have an uber dapper look. So this was a great item to include for this month's box!
 
 <br>
 
-[![Gent's Lounge Tie Clip](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016GentsLoungeTieClip.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Sprezza NYC Cufflinks](http://whatsupmailbox.com/images/SprezzaBoxOctober2016SprezzaNYCCuffLinks02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-**Gent's Lounge** Tie Clip, *Value $25*
-
-A silver tie clip with the Fleur-de-lis symbol that represents perfection, light, and life.
+These cufflinks will surely be used and I love the silver and black look, it goes with just about anything and perfect for my husband's style.
 
 <br>
 
-Here's a closer look at it:
+[![Paul Evans Socks](http://whatsupmailbox.com/images/SprezzaBoxOctober2016PaulEvansSocks.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+
+**Paul Evans** Socks, *Value $20*
+
+Black socks are my husband's favorite, he wears them with just about anything because they're just so versatile.
 
 <br>
 
-[![Gent's Lounge Tie Clip](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016GentsLoungeTieClip02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Paul Evans Socks](http://whatsupmailbox.com/images/SprezzaBoxOctober2016PaulEvansSocks02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-The detail is very intricate and well done. The spring for the clip is also smooth and grips the tie well without damaging the material. A very well made tie clip that will surely last!
-
-<br>
-
-[![Sprezza Pocket Square](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016SprezzaPocketSquare.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
-
-**Sprezza** Pocket Square, *Value $18*
-
-I'm loving the pattern on this pocket square! It's fun and modern but still classy at the same time. The blue will perfectly tie in with the tie and pocket square. Made of 100% cotton - Dry Clean only.
+Made of XXX
 
 <br>
 
-[![Weekend Casual Socks](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016WeekendCasualSocks.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Classic Business Card Holder](http://whatsupmailbox.com/images/SprezzaBoxOctober2016ClassicBusinessCardHolder.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-**Weekend Casual** Socks, *Value $10*
+**Classic** Business Card Holder, *Value $15*
 
-Polka dot socks! The colors are blue and red of course and my husband loves this. It fits into his business work life and will go great when he needs to dress up to meet clients. It also feels soft and has a good grip when worn so it doesn't slide down.
+A business card holder is a must for my husband because he travels a lot for business and you just never know when you meet people for networking no matter where you are.
 
 <br>
 
-[![Niche For Men Multi Wash](http://whatsupmailbox.com/images/SprezzaBoxSeptember2016NicheForMenMultiWash.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Classic Business Card Holder](http://whatsupmailbox.com/images/SprezzaBoxOctober2016ClassicBusinessCardHolder02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+
+This card holder is all silver and all stylishly sleek. It fits business cards perfectly and snaps closed without any issue. The only problem I encountered is because it's silver allover, it does easily transfer fingerprints and smudges easily when handling it, but one simple swipe with a cloth and it's all gone.
+
+<br>
+
+[![The Fashion Anchor](http://whatsupmailbox.com/images/SprezzaBoxOctober2016TheFashionAnchor.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+
+**The Fashion Anchor** 6-pack, *Value $3*
+
+These are sticky circle dots that you can attach to your collar so that they stay put and don't curl or fly away.
+
+<br>
+
+Here's how they actually look:
+
+<br>
+
+[![The Fashion Anchor](http://whatsupmailbox.com/images/SprezzaBoxOctober2016TheFashionAnchor02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+
+Such a simple tool yet so useful and easy to use. My husband will surely be using this a lot!
+
+<br>
+
+[![Niche For Men Multi Wash](http://whatsupmailbox.com/images/SprezzaBoxOctober2016FreyForMenOakMuskDetergent.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
 **Niche For Men** Multi Wash, *Value $3.99*
 
