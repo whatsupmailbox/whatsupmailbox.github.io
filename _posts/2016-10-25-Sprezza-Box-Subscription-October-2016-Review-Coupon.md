@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "SprezzaBoxOctober2016Items.jpg"
-date: 2016-10-25 09:16:39 -08:00
+date: 2016-10-25 14:16:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
@@ -36,7 +36,7 @@ date: 2016-10-25 09:16:39 -08:00
 
 [![First unboxing look](http://whatsupmailbox.com/images/SprezzaBoxOctober2016OpenBox.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-When you first unbox it, you see it's nicely packaged inside and sealed with their logo sticker.
+First look at unboxing shows the items inside nicely packaged and sealed with their logo sticker.
 
 <br>
 
@@ -45,7 +45,7 @@ When you first unbox it, you see it's nicely packaged inside and sealed with the
 
 <br>
 
-The October 2016 box is titled <big>The Smith</big> and it's filled with products to help transition from summer to fall.
+The October 2016 box is titled <big>The Trinity</big>, named after the Trinity Street near Wall Street and is one of the more formal and iconic areas of NYC. So I'm guessing the items this month will have a formal theme which I love, yay!
 
 <br>
 
