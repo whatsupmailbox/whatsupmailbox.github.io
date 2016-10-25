@@ -13,7 +13,7 @@ published: false
 featured: false
 type: photo
 imagefeature: "SprezzaBoxOctober2016Items.jpg"
-date: 2016-10-25 14:16:39 -08:00
+date: 2016-10-25 15:26:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
@@ -69,7 +69,7 @@ The back of the info card lists all the items inside the box as well as their va
 
 **Countess Mara** Necktie, *Value $65*
 
-This is a 100% silk tie and it has a unique Inteli-Stretch Technology built into the neck for maximum comfort. The houndstooth pattern wih black and silver color is also uber modern, perfect for that cool dapper look. And in case you want to expand your Countess Mara collection, they are available for purchase at Macy's.
+This is a 100% silk tie and it has a unique Inteli-Stretch Technology built into the neck for maximum comfort. The houndstooth pattern with black and silver color is also uber modern, perfect for that stylish dapper look. And in case you want to expand your Countess Mara collection, they are available for purchase at Macy's.
 
 <br>
 
@@ -77,7 +77,7 @@ This is a 100% silk tie and it has a unique Inteli-Stretch Technology built into
 
 **Sprezza NYC** Cufflinks, *Value $20*
 
-Cufflinks are an accessory that I think often gets forgotten amongst the majority of men, but it really is a statement piece to wear and certainly adds great value to your whole look, especially when you're in the executive level of work or even if you want to have an uber dapper look. So this was a great item to include for this month's box!
+Cufflinks are an accessory that I think often gets forgotten amongst the majority of men, but it really is a statement piece to wear and certainly adds great value to your whole look, especially when you're in the executive level of work or even if you want to have an uber dapper look.
 
 <br>
 
@@ -97,7 +97,7 @@ Black socks are my husband's favorite, he wears them with just about anything be
 
 [![Paul Evans Socks](http://whatsupmailbox.com/images/SprezzaBoxOctober2016PaulEvansSocks02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-Made of XXX
+The socks are thick and soft which will be perfect for fall and winter. A great item to include in this month's box!
 
 <br>
 
@@ -105,13 +105,13 @@ Made of XXX
 
 **Classic** Business Card Holder, *Value $15*
 
-A business card holder is a must for my husband because he travels a lot for business and you just never know when you meet people for networking no matter where you are.
+A business card holder is a must carry at all times for my husband because he travels a lot for business and you just never know when you meet people for networking no matter where you are.
 
 <br>
 
 [![Classic Business Card Holder](http://whatsupmailbox.com/images/SprezzaBoxOctober2016ClassicBusinessCardHolder02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-This card holder is all silver and all stylishly sleek. It fits business cards perfectly and snaps closed without any issue. The only problem I encountered is because it's silver allover, it does easily transfer fingerprints and smudges easily when handling it, but one simple swipe with a cloth and it's all gone.
+This card holder is all silver and all stylishly sleek. It fits business cards perfectly and snaps closed without any issue. The only problem I encountered is because it's silver allover, it does transfer fingerprints and smudges easily when handling it, but one simple swipe with a cloth and it's all gone.
 
 <br>
 
