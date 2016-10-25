@@ -133,15 +133,15 @@ Such a simple tool yet so useful and easy to use. My husband will surely be usin
 
 <br>
 
-[![Niche For Men Multi Wash](http://whatsupmailbox.com/images/SprezzaBoxOctober2016FreyForMenOakMuskDetergent.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Frey For Men - Oak Musk Detergent](http://whatsupmailbox.com/images/SprezzaBoxOctober2016FreyForMenOakMuskDetergent.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-**Niche For Men** Multi Wash, *Value $3.99*
+**Frey For Men** Oak Musk Detergent, *Value $4*
 
-This is an all-in-one shampoo, body wash and shave cream. Just the type of product my husband loves - something easy and all-in-one. This way he just needs to bring this one item when traveling versus separate products for each purpose. It's also all-natural with aloe vera and essential oils, and it smeels very fresh and clean too. A great multi-wash that I'm sure any man would appreciate!
+This was one item I wasn't expecting to receive in a men's subscription box! I never knew that they had detergent specifically targeted for men and I'm sure my husband will appreciate this. Finally his clothes and my clothes will have appropriate scents, we don't wear the same perfumes so our laundry shouldn't either. Excited to try this!
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month had items that were very functional. Everything will surely be used and although it felt a bit lacking in the wow factor as I typically am with this box (personal preference), it still had its high value. The total value of everything in this box came up to $101.99 which is more than triple the cost! The silk tie was the definite winner in this box and made the cost totally worth it. Here's to hoping next month will bring more exciting items!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I loved this month's theme! It's formal, modern and stylish, it really represents that Wall Street gentleman look. The silk tie was a big favorite, but I also loved finding out about new products such as the Fashion Anchors and the bottle of men's detergent. I think this is my favorite Sprezza Box as of yet and I'm super happy with every single item this month!
 
 Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b8) to start receiving their monthly dapper accessories. And don't forget to use coupon code **WHATSUPMAILBOX** for 10% off your first box!
 
@@ -156,32 +156,32 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>MRKT Sunglasses Case</TD>
-      <TD>$15</TD>
+      <TD>Countess Mara Necktie</TD>
+      <TD>$65</TD>
    </TR>
   <TR>
-      <TD>Sprezza NYC Neck Tie</TD>
-      <TD>$30</TD>
+      <TD>Sprezza NYC Cufflinks</TD>
+      <TD>$20</TD>
    </TR>
   <TR>
-      <TD>Gent's Lounge Tie Clip</TD>
-      <TD>$25</TD>
+      <TD>Paul Evans Socks</TD>
+      <TD>$20</TD>
    </TR>
    <TR>
-      <TD>Sprezza Pocket Square</TD>
-      <TD>$18</TD>
+      <TD>Classic Business Card Holder</TD>
+      <TD>$15</TD>
    </TR>
     <TR>
-      <TD>Weekend Casual Socks</TD>
-      <TD>$10</TD>
+      <TD>The Fashion Anchor 6-pack</TD>
+      <TD>$3</TD>
    </TR>
     <TR>
-      <TD>Niche For Men Multi Wash</TD>
-      <TD>$3.99</TD>
+      <TD>Frey For Men Oak Musk Detergent</TD>
+      <TD>$4</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$101.99</big></b></TD>
+      <TD><b><big>$127</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
