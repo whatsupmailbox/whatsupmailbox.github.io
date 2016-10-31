@@ -115,7 +115,7 @@ Although this box is a September box, I only recently received it this month so 
 
 I'm not sure why the info card states the value of this body wash as $13, perhaps that's for the bigger size, but for the 4 oz. size, it's being sold at $8 so that's the value I put.
 
-OMG, this men's body wash has a really sexy scent that I'm immediately attracted to as a female, no wonder they call this scent Sex Panther! I put this baby in our bathroom right away for my husband to use! And I might have taken all the other body washes away too so that there's no other option ;)
+OMG, this men's body wash has a really sexy scent that I'm immediately attracted to as a female, no wonder they call this scent Sex Panther! I put this baby in our bathroom right away for my husband to use! And I may or may not have taken all the other body washes away too so that there's no other option for him to use ;)
 
 In case you want to check them out, they sell their products through [their Etsy Shop](https://www.etsy.com/shop/ashandemberstudios?ref=l2-shop-info-avatar){:target="_blank"}. It's all-natural and is also Paraben-Free, Alcohol-Free, Cruelty-Free, Mineral Oil-Free and Hypoallergenic.
 
