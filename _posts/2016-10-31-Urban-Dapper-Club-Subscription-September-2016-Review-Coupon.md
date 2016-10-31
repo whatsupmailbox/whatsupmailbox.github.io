@@ -132,7 +132,7 @@ Not a subscriber? You can [join here](https://www.urbandapperclub.com) to start 
 <TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
-         <H3><BR><center>Gentleman's Box Items</center></H3>
+         <H3><BR><center>Urban Dapper Club Items</center></H3>
       </TH>
    </TR>
       <TH>Product</TH>
