@@ -105,7 +105,7 @@ The material is made of cotton linen blend (no percentage stated) and it has a t
 
 <br>
 
-The orange stitching on this pocket square will go well with the socks and tie. The paisly design in dark blue will blend well with a dark gray or blue suit. A great pocket square that my husband can add to his collection.
+The orange stitching on this pocket square will go well with the socks and tie. The paisly design in dark blue will blend well with a dark suit. A great pocket square that my husband can add to his collection.
 
 <br>
 
