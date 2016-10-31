@@ -9,11 +9,11 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, October 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxOctober2016Items.jpg"
-date: 2016-10-31 09:31:39 -08:00
+date: 2016-10-31 09:51:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
