@@ -83,7 +83,7 @@ Socks are one of those items that my husband can't get enough of so he's always 
 
 <br>
 
-[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxSeptember2016EezyWearTie.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 **Eezy Wear** Tie, *Value $23*
 
@@ -93,7 +93,7 @@ This tie is modern and simple in design, my husband's favorite type of tie.
 
 <br>
 
-[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxSeptember2016EezyWearTie02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
 The material is made of cotton linen blend (no percentage stated) and it has a texture feel to it. The light gray and white diagonal lines on this tie will look good with a dark blue or dark gray suit.
 
