@@ -9,7 +9,7 @@ categories:
 tags: [Urban Dapper Club, Subscriptions, Reviews, September 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "UrbanDapperClubSeptember2016Items.jpg"
