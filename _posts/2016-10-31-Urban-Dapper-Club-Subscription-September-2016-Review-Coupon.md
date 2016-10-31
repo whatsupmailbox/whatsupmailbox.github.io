@@ -63,7 +63,7 @@ The info card lists all the items included in this month's box as well as their 
 
 <br>
 
-I say this all the time, but it's true, my husband just can't get enough of socks so he's always happy when he receives them. He's also familiar with this brand as he received them in other subscription boxes, so he knows that the quality is good as well as the fit. The blue color on the pattern is also great and will go well with either casual (jeans) or more formal (dark blue suit), so it's a very versatile design and one that he's happy to add to his sock collection.
+I say this all the time, but it's true, my husband just can't get enough socks so he's always happy when he receives them. He's also familiar with this brand as he received them in other subscription boxes, so he knows that the quality is good as well as the fit. The blue color on the pattern is also great and will go well with either casual (jeans) or more formal (dark blue suit), so it's a very versatile design and one that he's happy to add to his sock collection.
 
 <br>
 
