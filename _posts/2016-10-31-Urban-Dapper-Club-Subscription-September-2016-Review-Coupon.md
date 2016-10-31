@@ -117,7 +117,7 @@ I'm not sure why the info card states the value of this body wash as $13, perhap
 
 OMG, this men's body wash has a really sexy scent that I'm immediately attracted to as a female, no wonder they call this scent Sex Panther! I put this baby in our bathroom right away for my husband to use! And I may or may not have taken all the other body washes away too so that there's no other option for him to use ;)
 
-In case you want to check them out, they sell their products through [their Etsy Shop](https://www.etsy.com/shop/ashandemberstudios?ref=l2-shop-info-avatar){:target="_blank"}. It's all-natural and is also Paraben-Free, Alcohol-Free, Cruelty-Free, Mineral Oil-Free and Hypoallergenic.
+In case you want to check them out, their products are sold through [their Etsy Shop](https://www.etsy.com/shop/ashandemberstudios?ref=l2-shop-info-avatar){:target="_blank"}. It's all-natural and is also Paraben-Free, Alcohol-Free, Cruelty-Free, Mineral Oil-Free and Hypoallergenic.
 
 Such a great product, I've already added this shop to my favorites and will be adding their soy candle with this sexy scent to my collection soon!
 
