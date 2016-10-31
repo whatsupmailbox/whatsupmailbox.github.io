@@ -163,7 +163,7 @@ Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving t
 
 <br>
 
-<TABLE  BORDER="5" style="width:60%">
+<TABLE  BORDER="5" style="width:55%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>Gentleman's Box Items</center></H3>
