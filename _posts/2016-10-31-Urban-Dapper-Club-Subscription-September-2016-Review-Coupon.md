@@ -87,7 +87,7 @@ This will definitely go well with the socks, and the 100% polyester material mak
 
 **Urban Dapper Club** Feather Tie Bar, *Value $15*
 
-This tie bar is really well made. It's not made of thin materials and is quite sturdy. I also like that they included a blue dot at the end of the feather tip to tie in with the blue colors from the rest of the accessories from this box. It fits perfectly well with the tie and adds a nice modern touch to it.
+This tie bar is really well made. It's not made of thin materials and is quite sturdy. I also like that they included a blue dot at the end of the feather tip to tie in with the blue colors on the rest of the accessories from this box. It fits perfectly well with the tie and adds a nice modern touch to it.
 
 <br>
 
