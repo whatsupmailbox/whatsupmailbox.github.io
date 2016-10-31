@@ -159,6 +159,8 @@ In honor of Breast Cancer Awareness month, they've sent these shoe laces in pink
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Gentleman's Box delivers items that are useful, functional and exciting. The collar bar was such a cool item to receive, I never knew such a thing existed if it wasn't for this box. I also enjoyed the colors incorporated in this month's box, it had both orange for autumn and Halloween, and it also included pink for Breast Cancer Awareness month. An all around good box with a great variety of items that any gentleman can surely use!
 
+Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
+
 <br>
 
 <TABLE  BORDER="5" style="width:60%">
