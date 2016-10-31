@@ -158,7 +158,6 @@ Not a subscriber? You can [join here](https://www.urbandapperclub.com) to start 
       <TD>$13</TD>
    </TR>
    <TR>
-   <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
       <TD><b><big>$80</big></b></TD>
    </TR>
