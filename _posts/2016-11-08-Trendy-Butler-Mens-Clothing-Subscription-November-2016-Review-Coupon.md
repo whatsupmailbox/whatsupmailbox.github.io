@@ -112,7 +112,7 @@ If you haven't subscribed yet, you can get $10 off your first package [through t
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$295</big></b></TD>
+      <TD><b><big>$260</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
