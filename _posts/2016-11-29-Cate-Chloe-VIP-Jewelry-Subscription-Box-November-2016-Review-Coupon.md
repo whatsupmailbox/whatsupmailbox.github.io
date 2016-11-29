@@ -116,7 +116,7 @@ And here's how it looks on me:
 
 [![Cate & Chloe Gia Gracious Bracelet](http://whatsupmailbox.com/images/CateChloeVIPNovember2016GiaGraciousBracelet02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-I find the style to be feminine with a touch of glam. It definitely added bling to my attire and it was also surprising light which was a major bonus for me. I thought it would have been quite heavy with all the stones and the fact that their sizes are quite significant, but nope, it's light! Love this!
+I find the style to be feminine with a touch of glam. It definitely added bling to my bare arms and it was also surprisingly light which was a major bonus for me. I thought it would have been quite heavy with all the stones (and they're actually quite big mind you), but nope, it's light! Love this!
 
 <br>
 
