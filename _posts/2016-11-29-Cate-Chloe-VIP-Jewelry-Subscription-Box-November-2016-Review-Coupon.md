@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cate & Chloe VIP Box November 2016 Review + 50% Coupon!"
+title: "Cate & Chloe VIP Box November 2016 Review + 25% Coupon!"
 description: ""
 headline: "Cate & Chloe VIP Box November 2016 Review + Coupon!"
 categories: 
