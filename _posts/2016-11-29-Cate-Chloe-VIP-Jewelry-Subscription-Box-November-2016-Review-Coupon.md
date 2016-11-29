@@ -124,7 +124,7 @@ I find the style to be feminine with a touch of glam. It definitely added bling 
 
 [![Cate & Chloe VIP - Bliss Beauty Organic Peppermint Essential Oil](http://whatsupmailbox.com/images/CateChloeVIPNovember2016BlissBeautyOrganicPeppermintEssentialOil.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-**Bliss Beauty** Organic Peppermint Essential Oil, Full Size. *Value $9.99*
+**Bliss Beauty** Organic Peppermint Essential Oil, Full Size 1 oz. *Value $9.99*
 
 I've never heard of this brand before but I'm always up for trying out new products especially one that is organic and all natural. They have a website for their products but it's all sold on Amazon just fyi.
 
@@ -138,19 +138,23 @@ And here's some info of the oil from their website:
 
 **Dr. Lipp** Nipple Balm for Lips, Sample Packet, *$bonus*
 
-I'm actually already a fan of this amazing product. Initially created to ease nursing mothers' nipples, it has grown to have 
+I'm actually already a fan of this amazing product and have a full size version of it. Initially created to ease nursing mothers' nipples, it has grown to have more benefits in so many other areas. Below are just a few.
 
 <br>
 
 [![Cate & Chloe VIP - Dr. Lipp Nipple Balm for Lips](http://whatsupmailbox.com/images/CateChloeVIPNovember2016DrLippNippleBalmForLips02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month's items are so gorgeous and totally my style. The layered necklace has now become my go-to necklace, and the earrings, I would have bought them myself if I saw it in a store. Although the ring was a bit big on me, to be fair, no one makes rings in size 3.5 so that's on me. The bonus item this month was also a great item, especially since I know the brand and am already a fan so that's a major plus. Cate & Chloe never fails to satisfy my jewelry needs, and not only are they quality made, but so on trend with the current fashion. It's always exciting to find out what they send me every month and I can't wait for next month's jewels!
+I use it for my lips and anytime I have cracked skin and it has truly saved me numerous times. It truly is amazing and a must have!
+
+<br>
+
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I appreciated this month's variety of jewelry items, all three of them had a completely different style which was surprising yet happily received. This will definitely expand my jewelry collection and I can't wait to play around with all of them! This month's bonus perk item was a skincare too which is a nice break from all the beauty products that I've been receiving lately. For the $39.99 price, this subscription is such a great deal especially for jewelry addicts such as myself. It pretty much breaks down the price of each jewelry item to approx. $13, that's the same price you would get at the lower brand stores if not cheaper. It's so fun to open up my Cate & Chloe boxes every month, it's like opening a Christmas gift everytime!
 
 Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"} to join their VIP subscription boxes and get 25% off the ANY VIP package off the first month’s box with code [WUMHOLIDAY25](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}, but hurry, offer ends December 5th!
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:60%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>My Cate & Chloe Items</center></H3>
@@ -159,24 +163,24 @@ Interested in subscribing? Go to [www.cateandchloe.com](http://www.shareasale.co
       <TH>Jewelry</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Mel "Magnificent" Ring</TD>
-      <TD>$49</TD>
+      <TD>Monica "Intuition" 18K Gold Plated Stone Necklace</TD>
+      <TD>$62</TD>
    </TR>
   <TR>
-      <TD>Hazel "Brave" Earrings</TD>
-      <TD>$52</TD>
+      <TD>Lillian "Pure" Geometric Earrings</TD>
+      <TD>$54</TD>
    </TR>
    <TR>
-      <TD>Melanie "Wish" Layered Necklace</TD>
-      <TD>$65</TD>
+      <TD>Gia "Gracious" Bracelet</TD>
+      <TD>$54</TD>
    </TR>
    <TR>
-      <TD>Manna Kadar Fantasy 3-in-1</TD>
-      <TD>$19</TD>
+      <TD>Bliss Beauty Organic Peppermint Essential Oil</TD>
+      <TD>$9.99</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$185</big></b></TD>
+      <TD><b><big>$179.99</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
