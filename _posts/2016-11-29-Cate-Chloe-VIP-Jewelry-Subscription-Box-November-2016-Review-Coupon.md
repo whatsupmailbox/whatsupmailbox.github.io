@@ -142,7 +142,7 @@ I'm actually already a fan of this amazing product and have a full size version 
 
 <br>
 
-[![Cate & Chloe VIP - Dr. Lipp Nipple Balm for Lips](http://whatsupmailbox.com/images/CateChloeVIPNovember2016DrLippNippleBalmForLips02.jpg)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
+[![Cate & Chloe VIP - Dr. Lipp Nipple Balm for Lips](http://whatsupmailbox.com/images/CateChloeVIPNovember2016DrLippNippleBalmForLips02.png)](http://www.shareasale.com/r.cfm?B=871946&U=1115177&M=49865&urllink=){:target="_blank"}
 
 I use it for my lips and anytime I have cracked skin and it has truly saved me numerous times. It truly is amazing and a must have!
 
