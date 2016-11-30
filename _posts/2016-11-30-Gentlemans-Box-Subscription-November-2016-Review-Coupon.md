@@ -9,7 +9,7 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, November 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxNovember2016Items.jpg"
@@ -128,7 +128,7 @@ This beard oil will condition your beard for a soft and manageable feel rather t
 
 Because this is a bonus item, the value was not included.
 
-Here in California, it's almost always dry so we tend to need lotions more often all year long. The winter months especially and since most moisturizers are targeted towards women, my husband tends to stray away from using it since the scents are all floral or feminine. Seeing that Gold Bond made one specifically for men, my husband will surely be open to trying this out. It's non-greasy formula is also a plus and you can use this for your body, hands and face.
+Here in California, it's almost always dry so we tend to need lotions more often all year long. The winter months especially and since most moisturizers are targeted towards women, my husband tends to stray away from using it since the scents are all floral or feminine. Seeing that Gold Bond made one specifically for men, my husband will surely be open to trying this out. Its non-greasy formula is also a plus and you can use this for your body, hands and face.
 
 <br>
 
