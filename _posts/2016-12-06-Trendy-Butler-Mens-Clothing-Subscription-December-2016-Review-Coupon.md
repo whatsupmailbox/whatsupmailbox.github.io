@@ -9,7 +9,7 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, December 2016]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerDecember2016Items02.jpg"
@@ -92,7 +92,7 @@ And here's how the back of the jeans look:
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great package from Trendy Butler! Not only is it super convenient to have clothes delivered to your door, but you also get quality and name brand items that are worth more than double the cost. It's just easy and super cost effective especially when you don't need to use your time to go shopping which my husband hates to do. This month's package focused on items that are a staple and a must have in every man's closet. Black jeans and a great solid shirt. Super happy as always and looking forward to the next package!
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> Another great package from Trendy Butler! Not only is it super convenient to have clothes delivered to your door, but you also get quality and brand name items that are worth more than double the cost. It's just easy and super cost effective especially when you don't need to use your time to go shopping which my husband hates to do. This month's package focused on items that are a staple and a must have in every man's closet. Black jeans and a great solid shirt. Super happy as always and looking forward to the next package!
 
 If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"} with coupon code **STYLEU10**!
 
