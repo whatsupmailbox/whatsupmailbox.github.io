@@ -14,7 +14,7 @@ tags: [Emma & Chloe, Subscriptions, Reviews, December 2016]
 date: 2016-12-23 09:23:19 -08:00
 ---
 
-<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review. No affiliate links were used.</font></i>
+<i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
 <br>
 
