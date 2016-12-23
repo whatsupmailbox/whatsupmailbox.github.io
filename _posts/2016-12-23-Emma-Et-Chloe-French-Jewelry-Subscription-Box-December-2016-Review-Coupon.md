@@ -8,7 +8,7 @@ title: Emma & Chloe December 2016 Review + Coupon!
 featured: false
 comments: true
 type: photo
-imagefeature: EmmaChloeDecember2016SIDEBraceletGold.jpg
+imagefeature: EmmaChloeDecember2016ConcertoNo1SideBraceletGold.jpg
 headline: Emma & Chloe December 2016 Review + Coupon!
 tags: [Emma & Chloe, Subscriptions, Reviews, December 2016]
 date: 2016-12-23 09:23:19 -08:00
