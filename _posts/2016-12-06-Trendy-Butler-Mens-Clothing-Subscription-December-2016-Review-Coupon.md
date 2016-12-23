@@ -12,7 +12,7 @@ mathjax: null
 published: true
 featured: false
 type: photo
-imagefeature: "TrendyButlerDecember2016Items02.jpg"
+imagefeature: "TrendyButlerDecember2016Items.jpg"
 date: 2016-12-06 13:25:39 -08:00
 ---
 
