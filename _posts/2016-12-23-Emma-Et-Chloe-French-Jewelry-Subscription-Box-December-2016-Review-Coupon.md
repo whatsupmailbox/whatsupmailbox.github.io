@@ -85,15 +85,15 @@ You'll also find a travel section and this time they've included tips on visitin
 
 **This month's jewelry item:**
 
-[![Emma & Chloe December 2016 Item - SIDE Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016SIDEBraceletGold.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
+[![Emma & Chloe December 2016 Item - Concerto No. 1 Side Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016ConcertoNo1SideBraceletGold.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
 
-**SIDE** Bracelet in Gold, *Value $92*
+**Concerto N°1** SIDE Bracelet in Gold, *Value $92*
 
 Subscribers will receive this bracelet in either Silver or Gold, depending on your jewelry preferences. Although I do wear both metals, I chose gold because I wear it more often than silver.
 
 <br>
 
-[![Emma & Chloe December 2016 Item - SIDE Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016SIDEBraceletInfo.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
+[![Emma & Chloe December 2016 Item - Concerto No. 1 Side Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016ConcertoNo1SideBraceletInfo.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
 
 There's always a section in the info magazine that describes the jewelry item as well as the value. This bracelet is plated with gold (or deep coated in a silver bath), with a Peru's pyrite semiprecious stone.
 
@@ -103,7 +103,7 @@ Here's a closer look at the stone:
 
 <br>
 
-[![Emma & Chloe December 2016 Item - SIDE Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016SIDEBraceletGold02.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
+[![Emma & Chloe December 2016 Item - Concerto No. 1 Side Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016ConcertoNo1SideBraceletGold02.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
 
 At first I was quite taken aback at the style of the stone, very raw and shiny. It reminds me of a meteor, a very shiny and glittery one at that. I wasn't really sure if it was my style, but it's really growing on me, and I can never say no to wearing something unique and different. Guilty!
 
@@ -113,7 +113,7 @@ Here's how it looks on from a pic in the magazine:
 
 <br>
 
-[![Emma & Chloe December 2016 Item - SIDE Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016SIDEBraceletGold03.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
+[![Emma & Chloe December 2016 Item - Concerto No. 1 Side Bracelet in Gold](http://whatsupmailbox.com/images/EmmaChloeDecember2016ConcertoNo1SideBraceletGold03.jpg)](http://www.shareasale.com/r.cfm?b=852386&u=1115177&m=65239&urllink=&afftrack=){:target="_blank"}
 
 If only it looks like THAT on me, I'd be happy! Unfortunately my wrists are too petite (aka abnormally small) so it just slips off and I am unable to wear it at all. So sad. But a lucky gal will be getting this as a gift, so lucky her!
 
