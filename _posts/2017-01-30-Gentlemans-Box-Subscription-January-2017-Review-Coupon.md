@@ -9,11 +9,11 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, January 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJanuary2017Items.jpg"
-date: 2017-01-30 15:21:39 -08:00
+date: 2017-01-30 15:10:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
