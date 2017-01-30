@@ -18,9 +18,9 @@ date: 2017-01-30 15:10:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box January 2017 Box](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Box.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Gentleman's Box January 2017 Box](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Box.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
-**Subscription:** [Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+**Subscription:** [Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
@@ -32,7 +32,7 @@ date: 2017-01-30 15:10:39 -08:00
 
 <br>
 
-[Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
+[Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
 
 <br>
 
@@ -40,7 +40,7 @@ date: 2017-01-30 15:10:39 -08:00
 
 <br>
 
-[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017OpenBox.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017OpenBox.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 First look at unboxing shows their info magazine.
 
@@ -48,17 +48,17 @@ First look at unboxing shows their info magazine.
 
 <p><b>Info Magazine:</b></p>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info02.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 The info magazine gives a brief description of each item included in the box, as well as their value.
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info03.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info03.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 They also provide a section where items from past and present boxes are worn together for inspiration. I find it very helpful as sometimes you just need a little help to visual and see how items should be worn.
 
@@ -66,13 +66,13 @@ They also provide a section where items from past and present boxes are worn tog
 
 <H4>And here are all the items of the January box:</H4>
 
-[![Gentleman's Box January 2017 Items](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Items.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Gentleman's Box January 2017 Items](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Items.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 <br>
 
 <H4>Items in detail:</H4>
 
-[![Gentlemen Of The North Socks](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017GentlemenOfTheNorthSocks.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Gentlemen Of The North Socks](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017GentlemenOfTheNorthSocks.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Gentlemen Of The North** Socks, *Value $15*
 
@@ -82,7 +82,7 @@ These socks are from their "Soul of the North" line and it features a light blue
 
 <br>
 
-[![Aster Ganos Neck Tie](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017NeckTie.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Aster Ganos Neck Tie](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017NeckTie.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Aster Ganos** Neck Tie, *Value $39*
 
@@ -92,7 +92,7 @@ I love how simple yet modern it is, and I think it'll look great with a gray or 
 
 <br>
 
-[![AUSCUFFLINKS Lapel Pin](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017AusCufflinks.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![AUSCUFFLINKS Lapel Pin](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017AusCufflinks.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **AUSCUFFLINKS** Lapel Pin, *Value $15*
 
@@ -102,7 +102,7 @@ The beige lapel pin that almost looks like it's made of burlap will go great wit
 
 <br>
 
-[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **OTAA** Pocket Square, *Value $10*
 
@@ -110,13 +110,13 @@ A khaki linen pocket square to match the lapel pin! OTAA was also featured in a 
 
 <br>
 
-[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa02.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 The company is actually owned and operated by two brothers, hence the name "The Brothers at OTAA". I'm always happy to support small businesses especially if the items are of great quality and design, like this one!
 
 <br>
 
-[![Trade Union Supply Co. Lip Balm](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TradeUnionSupplyCoLipBalm.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Trade Union Supply Co. Lip Balm](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TradeUnionSupplyCoLipBalm.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Trade Union Supply Co.** Lip Balm, *Value $8*
 
@@ -124,7 +124,7 @@ Who can say no to lip balms, especially during the winter months where it is an 
 
 <br>
 
-[![Popsugar Subscription Box Coupon](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017PopsugarCoupon.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
+[![Popsugar Subscription Box Coupon](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017PopsugarCoupon.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Popsugar Subscription Box Coupon**
 
@@ -134,7 +134,7 @@ I'm actually already subscribed to this box (which I love by the way), so I'll b
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** This month brought in a theme of blue and khaki colors. I liked that they featured quality brands that were in previous boxes again, but with different items this time. The variety of items did feel a bit simple this month, but I still find the value to be there (more than triple the cost!) so nothing bad at all and definitely still worth the cost. I guess I'm so used to discovering new and fascinating items from their past boxes that I'm spoiled now, haha! Looking forward to next month's curation and hope something new and cool will be there!
 
-Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/339269/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **30GBOX** to get 30% Off Your First Month Subscription (expires Feb 9th)!
+Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/331548/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **30GBOX** to get 30% Off Your First Month Subscription (expires Feb 9th)!
 
 <br>
 
