@@ -18,9 +18,9 @@ date: 2016-10-31 09:51:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box October 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box October 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Box.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
-**Subscription:** [Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"}
+**Subscription:** [Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
@@ -32,7 +32,7 @@ date: 2016-10-31 09:51:39 -08:00
 
 <br>
 
-[Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
+[Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
 
 <br>
 
@@ -41,7 +41,7 @@ date: 2016-10-31 09:51:39 -08:00
 <br>
 
 
-[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxOctober2016OpenBox.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxOctober2016OpenBox.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 First look at unboxing shows their info magazine.
 
@@ -49,17 +49,17 @@ First look at unboxing shows their info magazine.
 
 <p><b>Info Magazine:</b></p>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 The info magazine lists all the items included in this month's box as well as their values.
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info03.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Info03.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 There's a dedicated section for each product describing the brand behind it and the actual item and what it does. I find it very helpful and really appreciate the effort they put in making this info magazine.
 
@@ -67,13 +67,13 @@ There's a dedicated section for each product describing the brand behind it and 
 
 <H4>And here are all the items:</H4>
 
-[![Gentleman's Box October 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Items.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box October 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxOctober2016Items.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 <br>
 
 <H4>Items in detail:</H4>
 
-[![Unsimply Stitched Socks](http://whatsupmailbox.com/images/GentlemansBoxOctober2016UnsimplyStitchedSocks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Unsimply Stitched Socks](http://whatsupmailbox.com/images/GentlemansBoxOctober2016UnsimplyStitchedSocks.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Unsimply Stitched** Socks, *Value $12*
 
@@ -83,7 +83,7 @@ Socks are one of those items that my husband can't get enough of so he's always 
 
 <br>
 
-[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Eezy Wear** Tie, *Value $23*
 
@@ -93,13 +93,13 @@ This tie is modern and simple in design, my husband's favorite type of tie.
 
 <br>
 
-[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Eezy Wear Tie](http://whatsupmailbox.com/images/GentlemansBoxOctober2016EezyWearTie02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 The material is made of cotton linen blend (no percentage stated) and it has a texture feel to it. The light gray and white diagonal lines on this tie will look good with a dark blue or dark gray suit.
 
 <br>
 
-[![Gentlemen Essentials Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxOctober2016GentlemenEssentialsPocketSquare.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentlemen Essentials Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxOctober2016GentlemenEssentialsPocketSquare.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Gentlemen Essentials** Pocket Square, *Value $15*
 
@@ -109,7 +109,7 @@ The orange stitching on this pocket square goes well with the socks and tie. The
 
 <br>
 
-[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Collar Bar**, *Value $20*
 
@@ -119,7 +119,7 @@ Upon first opening this little box up, I wasn't really quite sure what it was. A
 
 Here's a closer look at the collar bar:
 
-[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 <br>
 
@@ -127,7 +127,7 @@ And here's how it's supposed to be worn:
 
 <br>
 
-[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBarInfo.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Collar Bar](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBarInfo.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 "The collar bar has two purposes. First it holds your shirt collar tight and clean. Second, it can be used to raise your tie knot slightly for a more boastful look."
 
@@ -135,7 +135,7 @@ What a nifty little accessory that my husband was quite excited to try out!
 
 <br>
 
-[![Boomer & Co. Body Wash](http://whatsupmailbox.com/images/GentlemansBoxOctober2016BoomerCoOrganicWash.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Boomer & Co. Body Wash](http://whatsupmailbox.com/images/GentlemansBoxOctober2016BoomerCoOrganicWash.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Boomer & Co.** Body Wash, Travel Size 2 fl. oz. *$bonus*
 
@@ -149,7 +149,7 @@ This is an all-natural body wash for men in the scent Citrus & Cedar. The scent 
 
 <br>
 
-[![DeadSoxy Shoe Laces](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![DeadSoxy Shoe Laces](http://whatsupmailbox.com/images/GentlemansBoxOctober2016CollarBar.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **DeadSoxy** Shoe Laces, *Value $8*
 
@@ -159,7 +159,7 @@ In honor of Breast Cancer Awareness month, they've sent these shoe laces in pink
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** As always, Gentleman's Box delivers items that are useful, functional and exciting. The collar bar was such a cool item to receive, I never knew such a thing existed if it wasn't for this box. I also enjoyed the colors incorporated in this month's box, it had both orange for autumn and Halloween, and it also included pink for Breast Cancer Awareness month. An all around good box with a great variety of items that any gentleman can surely use!
 
-Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
+Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/331548/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
 
 <br>
 
