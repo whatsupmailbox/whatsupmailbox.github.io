@@ -36,7 +36,7 @@ date: 2017-01-30 15:21:39 -08:00
 
 <br>
 
-<H4>This month's box title is honoring our favorite "Gentleman of the North” Box.</H4>
+<H4>This month's box title is honoring our favorite "Ageless Aussie” Box.</H4>
 
 <br>
 
@@ -54,17 +54,17 @@ First look at unboxing shows their info magazine.
 
 [![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-The info magazine gives a brief description on each item included in the box, as well as their value.
+The info magazine gives a brief description of each item included in the box, as well as their value.
 
 <br>
 
 [![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Info03.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-.
+They also provide a section where items from past and present boxes are worn together for inspiration. I find it very helpful as sometimes you just need a little help to visual and see how items should be worn.
 
 <br>
 
-<H4>And here are all the items:</H4>
+<H4>And here are all the items of the January box:</H4>
 
 [![Gentleman's Box January 2017 Items](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Items.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
@@ -74,44 +74,53 @@ The info magazine gives a brief description on each item included in the box, as
 
 [![Gentlemen Of The North Socks](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017GentlemenOfTheNorthSocks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-**Gentlemen Of The North** Socks, *Value $*
+**Gentlemen Of The North** Socks, *Value $15*
 
+I say this all the time, but I'll say it again, my husband can never have enough socks. He has a drawer full of brand new ones thanks to subscription boxes, and everytime he opens that drawer, I can see his eyes sparkle with joy, lol.
 
-<br>
-
-[![Neck Tie](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017NeckTie.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
-
-**DEAD SOXY** Neck Tie, *Value $25*
-
-
+These socks are from their "Soul of the North" line and it features a light blue color with dark blue polka dots. This is one fun and happy design that will add a bit of color to your outfit. 
 
 <br>
 
-[![Quinton Shaw Anchor Bracelet](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017AusCufflinks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Aster Ganos Neck Tie](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017NeckTie.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-**Quinton Shaw** Anchor Bracelet, *Value $35*
+**Aster Ganos** Neck Tie, *Value $39*
 
-This anchor bracelet is made of leather and the anchor pendant actually comes in gold, rose gold or silver plated. Subscribers received gold and it's just perfect.
+Made of 100% cotton, this neck tie is not only quality but also trendy. The design is exclusive to Gentleman's Box and it features cream, navy and gray pattern.
 
-<br>
-
-[![Wine Aerator](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
-
-**Wine Aerator** Pocket Square, *Value $10*
-
-I think I'm going to take this for myself seeing as I am the wine drinker in the house. And can I just say, hurray to Gentleman's Box for sending a cool tool that's so very useful especially during the holiday season. It's so easy to use too, just open your bottle of red wine, pop this into the opening and pour away. You'll be amazed at how better your red wine tastes with an aerator, it's life changing.
+I love how simple yet modern it is, and I think it'll look great with a gray or navy suit!
 
 <br>
 
-[![Wine Aerator](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![AUSCUFFLINKS Lapel Pin](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017AusCufflinks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+
+**AUSCUFFLINKS** Lapel Pin, *Value $15*
+
+This brand was featured in a past box and it was actually cuff links, so when I saw another box for this month, I thought it was another pair but to my surprise it was a lapel pin! A cute one too!
+
+The beige lapel pin that almost looks like it's made of burlap will go great with pretty much any color. And even if you're not really a vintage style type of guy, I think this little accessory will add a surprise element to your modern attire.
+
+<br>
+
+[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+
+**OTAA** Pocket Square, *Value $10*
+
+A khaki linen pocket square to match the lapel pin! OTAA was also featured in a past box, a pocket square that was really cool, so I was happy to see it featured again this month. 
+
+<br>
+
+[![OTAA Pocket Square](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TheBrothersAtOtaa02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+
+The company is actually owned and operated by two brothers, hence the name "The Brothers at OTAA". I'm always happy to support small businesses especially if the items are of great quality and design, like this one!
 
 <br>
 
 [![Trade Union Supply Co. Lip Balm](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017TradeUnionSupplyCoLipBalm.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
 
-**Trade Union Supply Co.** Lip Balm, *Value $*
+**Trade Union Supply Co.** Lip Balm, *Value $8*
 
-This beard oil will condition your beard for a soft and manageable feel rather than having it oily or weighed down. It also smells great, with the scent of frankincense and a hint of mahogany. Although my husband rarely grows a beard, once in awhile he'll let it go but it still won't grow that long, so he'll most likely gift this to his buddy with a more prominent beard.
+Who can say no to lip balms, especially during the winter months where it is an absolute necessity! This all-natural lip balm is made of the finest blend of beeswax, natural oils and butter to keep your lips moisturized and soft. It's also infused with peppermint and camphor essential oils, so you'll feel a bit of tingle when you first apply. I actually love that feeling, it's fun and it reminds me that I'm alive! ;)
 
 <br>
 
@@ -119,11 +128,11 @@ This beard oil will condition your beard for a soft and manageable feel rather t
 
 **Popsugar Subscription Box Coupon**
 
-I'm actually already subscribed to this box (which I love by the way), so I'll be giving this to a friend who might be interested in trying them out. If you're not familiar with Popsugar, it's a great subscription for women that has all sorts of goodies. Click here to view my past reviews.
+I'm actually already subscribed to this box (which I love by the way), so I'll be giving this to a friend who might be interested in trying them out. If you're not familiar with Popsugar, it's a great subscription for women that has all sorts of goodies. [Click here](http://whatsupmailbox.com/tags/index.html#Popsugar%20Must%20Have) to view my past reviews.
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month's items were on point and appropriate for January's new beginnings. I love that they included...
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This month brought in a theme of blue and khaki colors. I liked that they featured quality brands that were in previous boxes again, but with different items this time. The variety of items did feel a bit simple this month, but I still find the value to be there (more than triple the cost!) so nothing bad at all and definitely still worth the cost. I guess I'm so used to discovering new and fascinating items from their past boxes that I'm spoiled now, haha! Looking forward to next month's curation and hope something new and cool will be there!
 
 Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
 
@@ -138,28 +147,24 @@ Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving t
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Gentlemen Of The North Classic Toque</TD>
-      <TD>$30</TD>
+      <TD>Gentlemen Of The North Socks</TD>
+      <TD>$15</TD>
    </TR>
    <TR>
-      <TD>DEAD SOXY Teddy Socks</TD>
-      <TD>$25</TD>
+      <TD>Aster Ganos Neck Tie</TD>
+      <TD>$39</TD>
    </TR>
   <TR>
-      <TD>Quinton Shaw Anchor Bracelet</TD>
-      <TD>$35</TD>
+      <TD>AUSCUFFLINKS Lapel Pin</TD>
+      <TD>$15</TD>
    </TR>
    <TR>
-      <TD>Wine Aerator</TD>
+      <TD>OTAA Pocket Square</TD>
       <TD>$10</TD>
    </TR>
    <TR>
-      <TD>Lucky Scruff Beard Oil</TD>
-      <TD>$10</TD>
-   </TR>
-   <TR>
-      <TD>Gold Bond Hydrating Cream</TD>
-      <TD>$bonus</TD>
+      <TD>Trade Union Supply Co. Lip Balm</TD>
+      <TD>$8</TD>
    </TR>
    <TR>
       <TD>GQ Magazine</TD>
@@ -167,7 +172,7 @@ Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving t
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$116</big></b></TD>
+      <TD><b><big>$93</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
