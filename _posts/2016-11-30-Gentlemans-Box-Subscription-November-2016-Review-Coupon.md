@@ -18,9 +18,9 @@ date: 2016-11-30 12:21:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box November 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxNovember2016Box.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box November 2016 Box](http://whatsupmailbox.com/images/GentlemansBoxNovember2016Box.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
-**Subscription:** [Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"}
+**Subscription:** [Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Cost:** $25/monthly + Free Shipping to USA. $8 shipping to Canada.
 
@@ -32,7 +32,7 @@ date: 2016-11-30 12:21:39 -08:00
 
 <br>
 
-[Gentleman's Box](http://mbsy.co/d7GnS"){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
+[Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"} is one of those subscription for men who love to accesorize or look dapper. A gentleman always looks well put together and this box will surely help you achieve that.
 
 <br>
 
@@ -40,7 +40,7 @@ date: 2016-11-30 12:21:39 -08:00
 
 <br>
 
-[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxNovember2016OpenBox.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Open Box](http://whatsupmailbox.com/images/GentlemansBoxNovember2016OpenBox.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 First look at unboxing shows their info magazine.
 
@@ -48,17 +48,17 @@ First look at unboxing shows their info magazine.
 
 <p><b>Info Magazine:</b></p>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine02.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 The info magazine lists all the items included in this month's box as well as their values.
 
 <br>
 
-[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine03.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Info Magazine](http://whatsupmailbox.com/images/GentlemansBoxNovember2016InfoMagazine03.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 Not only do each product section describe the items, but also the brand behind it. And they also include helpful tips for the upcoming holiday season.
 
@@ -66,13 +66,13 @@ Not only do each product section describe the items, but also the brand behind i
 
 <H4>And here are all the items:</H4>
 
-[![Gentleman's Box November 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxNovember2016Items.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentleman's Box November 2016 Items](http://whatsupmailbox.com/images/GentlemansBoxNovember2016Items.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 <br>
 
 <H4>Items in detail:</H4>
 
-[![Gentlemen Of The North Classic Toque](http://whatsupmailbox.com/images/GentlemansBoxNovember2016GentlemenOfTheNorthClassicToque.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gentlemen Of The North Classic Toque](http://whatsupmailbox.com/images/GentlemansBoxNovember2016GentlemenOfTheNorthClassicToque.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Gentlemen Of The North** Classic Toque, *Value $30*
 
@@ -82,7 +82,7 @@ The light grey color makes this beanie versatile (perfect for traveling) and the
 
 <br>
 
-[![DEAD SOXY Teddy Socks](http://whatsupmailbox.com/images/GentlemansBoxNovember2016DeadSoxyTeddySocks.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![DEAD SOXY Teddy Socks](http://whatsupmailbox.com/images/GentlemansBoxNovember2016DeadSoxyTeddySocks.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **DEAD SOXY** Teddy Socks, *Value $25*
 
@@ -92,7 +92,7 @@ Their socks have a good fit and don't slide down, and after multiple washes, the
 
 <br>
 
-[![Quinton Shaw Anchor Bracelet](http://whatsupmailbox.com/images/GentlemansBoxNovember2016QuintonShawAnchorBracelet.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Quinton Shaw Anchor Bracelet](http://whatsupmailbox.com/images/GentlemansBoxNovember2016QuintonShawAnchorBracelet.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Quinton Shaw** Anchor Bracelet, *Value $35*
 
@@ -100,13 +100,13 @@ This anchor bracelet is made of leather and the anchor pendant actually comes in
 
 <br>
 
-[![Quinton Shaw Anchor Bracelet](http://whatsupmailbox.com/images/GentlemansBoxNovember2016QuintonShawAnchorBracelet02.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Quinton Shaw Anchor Bracelet](http://whatsupmailbox.com/images/GentlemansBoxNovember2016QuintonShawAnchorBracelet02.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 I like that the band is made of thin leather, most of the wrap bracelets are thick and only wrap twice, but because this is thin, it actually wraps around four times. It looks great by itself or layered with another piece, and the dark brown color also will go great with any outfit.
 
 <br>
 
-[![Wine Aerator](http://whatsupmailbox.com/images/GentlemansBoxNovember2016WineAerator.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Wine Aerator](http://whatsupmailbox.com/images/GentlemansBoxNovember2016WineAerator.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Wine Aerator**, *Value $10*
 
@@ -114,7 +114,7 @@ I think I'm going to take this for myself seeing as I am the wine drinker in the
 
 <br>
 
-[![Lucky Scruff Beard Oil](http://whatsupmailbox.com/images/GentlemansBoxNovember2016LuckyScruffBeardOil.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Lucky Scruff Beard Oil](http://whatsupmailbox.com/images/GentlemansBoxNovember2016LuckyScruffBeardOil.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Lucky Scruff** Beard Oil, *Value $10*
 
@@ -122,7 +122,7 @@ This beard oil will condition your beard for a soft and manageable feel rather t
 
 <br>
 
-[![Gold Bond Hydrating Cream](http://whatsupmailbox.com/images/GentlemansBoxNovember2016GoldBondHydratingCream.jpg)](http://mbsy.co/d7GnS){:target="_blank"}
+[![Gold Bond Hydrating Cream](http://whatsupmailbox.com/images/GentlemansBoxNovember2016GoldBondHydratingCream.jpg)](http://gentlemansbox.pxf.io/c/164125/339269/5011){:target="_blank"}
 
 **Gold Bond** Hydrating Cream, Sample Size 0.75 oz. *$bonus*
 
@@ -134,7 +134,7 @@ Here in California, it's almost always dry so we tend to need lotions more often
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** I LOVED this box! It had such a great variety of items that's perfect for winter and oh-so useful too! Instead of the regular ties and pocket squares, I was pleasantly surprised at the cool stuff that this month brings. Definitely the best box I've received as of yet! And with a total value of $116 for a $25 box, that's more than quadruple the cost, yay for amazing value! Can't rave enough about this subscription, not only is it great to have for yourself as a gentleman, but it also makes for a great gift!
 
-Not a subscriber? You can [join here](http://mbsy.co/d7GnS) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
+Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/339269/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** for $5 off your first box!
 
 <br>
 
