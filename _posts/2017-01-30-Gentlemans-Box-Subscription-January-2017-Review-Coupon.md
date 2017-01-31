@@ -126,7 +126,7 @@ Who can say no to lip balms, especially during the winter months where it is an 
 
 [![Popsugar Subscription Box Coupon](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017PopsugarCoupon.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
-**Popsugar Subscription Box Coupon**
+**Popsugar Subscription Box $15 Coupon**
 
 I'm actually already subscribed to this box (which I love by the way), so I'll be giving this to a friend who might be interested in trying them out. If you're not familiar with Popsugar, it's a great subscription for women that has all sorts of goodies. [Click here](http://whatsupmailbox.com/tags/index.html#Popsugar%20Must%20Have) to view my past reviews.
 
