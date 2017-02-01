@@ -64,7 +64,7 @@ They also provide a section where items from past and present boxes are worn tog
 
 <br>
 
-<H4>And here are all the items of the January box:</H4>
+<H4>And here are all the items from the January box:</H4>
 
 [![Gentleman's Box January 2017 Items](http://whatsupmailbox.com/images/GentlemansBoxJanuary2017Items.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
@@ -78,7 +78,7 @@ They also provide a section where items from past and present boxes are worn tog
 
 I say this all the time, but I'll say it again, my husband can never have enough socks. He has a drawer full of brand new ones thanks to subscription boxes, and everytime he opens that drawer, I can see his eyes sparkle with joy, lol.
 
-These socks are from their "Soul of the North" line and it features a light blue color with dark blue polka dots. This is one fun and happy design that will add a bit of color to your outfit. 
+These socks are from their "Soul of the North" line and it features a light blue color with black polka dots. This is one fun and happy design that will surely add a bit of color to your outfit. 
 
 <br>
 
@@ -86,7 +86,7 @@ These socks are from their "Soul of the North" line and it features a light blue
 
 **Aster Ganos** Neck Tie, *Value $39*
 
-Made of 100% cotton, this neck tie is not only quality but also trendy. The design is exclusive to Gentleman's Box and it features cream, navy and gray pattern.
+Made of 100% cotton, this neck tie is not only quality but also trendy. The design is exclusive to Gentleman's Box and it features a cream, navy and gray pattern.
 
 I love how simple yet modern it is, and I think it'll look great with a gray or navy suit!
 
@@ -98,7 +98,7 @@ I love how simple yet modern it is, and I think it'll look great with a gray or 
 
 This brand was featured in a past box and it was actually cuff links, so when I saw another box for this month, I thought it was another pair but to my surprise it was a lapel pin! A cute one too!
 
-The beige lapel pin that almost looks like it's made of burlap will go great with pretty much any color. And even if you're not really a vintage style type of guy, I think this little accessory will add a surprise element to your modern attire.
+This beige lapel pin that almost looks like it's made of burlap will go great with pretty much any color. And even if you're not really a vintage style type of guy, I think this little accessory will add a surprise element to your modern attire.
 
 <br>
 
