@@ -102,7 +102,7 @@ I used to wear armbands when I was jogging a lot, and they were definitely much 
 
 **Sprezza Box** Fodable Water Bottle, *Value $4*
 
-I love foldable water bottles! They're so useful and don't take much space no matter where you're taking it. Most bottles take the same amount of space even when the water is all gone. But with this foldable bottle, once the water is gone, you can just fold it (from bottom to top) and tuck it into the latch so it stays folded and in one flat piece. Love it!
+I love foldable water bottles! They're so useful and don't take much space no matter where you're taking it. Most bottles take the same amount of space even when the water is all gone. But with this foldable bottle, once the water is gone, you can just fold it (from bottom to top) and voila, flat and ready to go. Love it!
 
 <br>
 
