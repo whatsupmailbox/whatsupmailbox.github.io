@@ -9,7 +9,7 @@ categories:
 tags: [Sprezza Box, Subscriptions, Reviews, January 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "SprezzaBoxJanuary2017Items.jpg"
