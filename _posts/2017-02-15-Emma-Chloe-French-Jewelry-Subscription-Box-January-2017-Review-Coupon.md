@@ -118,7 +118,7 @@ The ring looks oh-so gorgeous, and so versatile that it will surely fit with any
 <br>
 
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** I keep finding amazing new jewelry designers through Emma & Chloe and I can't seem to get enough! Every month brings new designs and different styles that I fall in love with everytime, and the quality is always high. It's definitely on par with fashion jewelry that costs upwards of $100 but only at a fraction of that price! Although I personally won't be able to wear this ring thanks to my unfortunate super petite fingers (I'm a size 3.5!), this ring would have fit perfectly with my jewelry style and collection. I love simple yet bold designs, and this surely fits that category!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** I keep finding amazing new jewelry designers through [Emma & Chloe](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"} and I can't seem to get enough! Every month brings new designs and different styles that I fall in love with everytime, and the quality is always high. It's definitely on par with fashion jewelry that costs upwards of $100 but only at a fraction of that price! Although I personally won't be able to wear this ring thanks to my unfortunate super petite fingers (I'm a size 3.5!), it would've fit perfectly with my jewelry style and collection. I love simple yet bold designs, and this surely fits that category!
 
 <br>
 
