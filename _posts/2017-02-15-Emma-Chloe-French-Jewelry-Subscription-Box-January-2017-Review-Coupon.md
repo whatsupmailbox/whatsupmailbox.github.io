@@ -73,7 +73,7 @@ There's a section on the BEST coffee shops in Paris and boy, it really makes me 
 
 [![Emma & Chloe Info Magazine](http://whatsupmailbox.com/images/EmmaChloeJanuary2017InfoMagazine04.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
 
-And this month they've included a recipe for Galette Des Rois which is translated as King Cake. Looks like one amazing cake to that will go perfectly with some coffee or tea. The ingredients are simply and it seems quite simple to make, I must try this soon!
+And this month they've included a recipe for Galette Des Rois which is translated as King Cake. Looks like one amazing cake that will go perfectly with some coffee or tea. The ingredients are simply and it seems quite simple to make, I must try this soon!
 
 <br>
 
