@@ -105,7 +105,7 @@ The design is very simplistic, yet it definitely makes a statement thanks to the
 
 <br>
 
-Here's how the models wear it in the magazine:
+Here's how the model wears it in the magazine:
 
 <br>
 
