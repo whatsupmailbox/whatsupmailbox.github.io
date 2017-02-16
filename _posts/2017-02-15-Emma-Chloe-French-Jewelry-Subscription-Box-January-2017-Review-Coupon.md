@@ -4,14 +4,14 @@ published: false
 categories: 
     - Subscriptions
     - Reviews
-title: Emma & Chloe January 2017 Review + Coupon!
+title: Emma & Chloe January 2017 Review + 50% Coupon!
 featured: false
 comments: true
 type: photo
 imagefeature: EmmaChloeJanuary2017InfoMagazine.jpg
 headline: Emma & Chloe January 2017 Review + 50% Coupon!
-tags: [Emma & Chloe, Subscriptions, Reviews, January 2017
-date: 2017-02-15 16:23:19 -08:00
+tags: [Emma & Chloe, Subscriptions, Reviews, January 2017]
+date: 2017-02-15 17:23:19 -08:00
 ---
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
