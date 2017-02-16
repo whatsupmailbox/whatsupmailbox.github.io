@@ -9,7 +9,7 @@ featured: false
 comments: true
 type: photo
 imagefeature: EmmaChloeJanuary2017InfoMagazine.jpg
-headline: Emma & Chloe January 2017 Review + Coupon!
+headline: Emma & Chloe January 2017 Review + 50% Coupon!
 tags: [Emma & Chloe, Subscriptions, Reviews, January 2017
 date: 2017-02-15 16:23:19 -08:00
 ---
