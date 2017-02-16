@@ -83,7 +83,7 @@ And this month they've included a recipe for Galette Des Rois which is translate
 
 **L'Atelier Clandestin** Gold Ring, *Value $60*
 
-Subscribers will receive this bracelet in either Silver or Gold, depending on your jewelry preferences. Although I do wear both metals, I chose gold because I wear it more often than silver.
+Subscribers will receive this ring in either Silver or Gold, depending on your jewelry preferences. Although I do wear both metals, I chose gold because I wear it more often than silver.
 
 <br>
 
