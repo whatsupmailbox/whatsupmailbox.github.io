@@ -77,6 +77,12 @@ And this month they've included a recipe for Galette Des Rois which is translate
 
 <br>
 
+[![Emma & Chloe Jewelry Pouch](http://whatsupmailbox.com/images/EmmaChloeJanuary2017JewelryPouch.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
+
+Each month they send their jewelry items in a black Emma & Chloe pouch. It keeps your jewels protected and makes for a handy travel pouch to store them in.
+
+<br>
+
 <H4>And without further ado, here is this month's jewelry item:</H4>
 
 [![Emma & Chloe January 2017 Item - L'Atelier Clandestin Gold Ring](http://whatsupmailbox.com/images/EmmaChloeJanuary2017LAtelierClandestinGoldRing.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
@@ -117,6 +123,11 @@ The ring looks oh-so gorgeous, and so versatile that it will surely fit with any
 
 <br>
 
+[![Emma & Chloe January 2017 - Certificate of Authenticity](http://whatsupmailbox.com/images/EmmaChloeJanuary2017LAtelierClandestinCertificateOfAuthenticity.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
+
+A Certificate of Authenticity is also always included with every jewelry that they send, so you can rest assure that you're receiving high quality items.
+
+<br>
 
 <i class="icon-exclamation-sign"></i> **My Thoughts:** I keep finding amazing new jewelry designers through [Emma & Chloe](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"} and I can't seem to get enough! Every month brings new designs and different styles that I fall in love with everytime, and the quality is always high. It's definitely on par with fashion jewelry that costs upwards of $100 but only at a fraction of that price! Although I personally won't be able to wear this ring thanks to my unfortunate super petite fingers (I'm a size 3.5!), it would've fit perfectly with my jewelry style and collection. I love simple yet bold designs, and this surely fits that category!
 
