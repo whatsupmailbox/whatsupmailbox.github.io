@@ -95,7 +95,7 @@ Subscribers will receive this ring in either Silver or Gold, depending on your j
 
 [![Emma & Chloe January 2017 Item - L'Atelier Clandestin Gold Ring](http://whatsupmailbox.com/images/EmmaChloeJanuary2017LAtelierClandestinRingInfo.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
 
-There's always a section in the info magazine that describes the jewelry item as well as the value. This bracelet is plated with gold (or deep coated in a silver bath), with a labradorite OR an onyx stone. I received the onyx stone.
+There's always a section in the info magazine that describes the jewelry item as well as the value. This ring is plated with gold (or deep coated in a silver bath), with a labradorite OR an onyx stone. I received the onyx stone.
 
 <br>
 
