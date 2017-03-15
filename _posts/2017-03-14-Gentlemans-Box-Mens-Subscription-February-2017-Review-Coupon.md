@@ -145,24 +145,24 @@ Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/33154
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Gentlemen Of The North Socks</TD>
+      <TD>Sock Eden Socks</TD>
       <TD>$15</TD>
    </TR>
    <TR>
-      <TD>Aster Ganos Neck Tie</TD>
-      <TD>$39</TD>
+      <TD>Gentlemen Essentials Neck Tie</TD>
+      <TD>$29</TD>
    </TR>
   <TR>
-      <TD>AUSCUFFLINKS Lapel Pin</TD>
-      <TD>$15</TD>
+      <TD>Gentlemen Essentials Pocket Square</TD>
+      <TD>$19</TD>
    </TR>
    <TR>
-      <TD>OTAA Pocket Square</TD>
-      <TD>$10</TD>
+      <TD>Detroit Grooming Co. Comb</TD>
+      <TD>$25</TD>
    </TR>
    <TR>
-      <TD>Trade Union Supply Co. Lip Balm</TD>
-      <TD>$8</TD>
+      <TD>Harry's Face Wash</TD>
+      <TD>$bonus</TD>
    </TR>
    <TR>
       <TD>GQ Magazine</TD>
@@ -170,7 +170,7 @@ Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/33154
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$93</big></b></TD>
+      <TD><b><big>$94</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
