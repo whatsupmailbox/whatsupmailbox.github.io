@@ -142,11 +142,11 @@ Interested in subscribing? You can go to [www.ipsy.com](https://www.ipsy.com/new
       <TD>$15</TD>
    </TR>
    <TR>
-      <TD>Eyeko London Fat Brow Liquid Liner in Light to Medium</TD>
+      <TD>Eyeko London Fat Brow Liquid Liner</TD>
       <TD>$22</TD>
    </TR>
     <TR>
-      <TD>Tarte Cosmetics Tarteist Quick Dry Matte Lip Paint</TD>
+      <TD>Tarte Cosmetics Tarteist Lip Paint</TD>
       <TD>$3.50</TD>
    </TR>
     <TR>
