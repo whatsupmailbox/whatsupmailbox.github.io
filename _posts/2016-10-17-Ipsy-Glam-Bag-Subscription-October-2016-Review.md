@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Ipsy October 2016 Glam Bag Review!"
+title: "Ipsy March 2017 Glam Bag Review!"
 description: ""
-headline: "Ipsy October 2016 Glam Bag Review!"
+headline: "Ipsy March 2017 Glam Bag Review!"
 categories: 
       - Subscriptions
       - Reviews
-tags: [Ipsy, Subscriptions, Reviews, October 2016]
+tags: [Ipsy, Subscriptions, Reviews, March 2017]
 comments: true
 mathjax: null
-published: true
+published: false
 featured: false
 type: photo
-imagefeature: "IpsyOctober2016Items.jpg"
-date: 2016-10-17 09:51:39 -08:00
+imagefeature: "IpsyMarch2017Items.jpg"
+date: 2017-03-18 14:51:39 -08:00
 ---
 
 <br>
@@ -30,7 +30,7 @@ date: 2016-10-17 09:51:39 -08:00
 
 <br>
 
-[![Ipsy October 2016 Package](http://whatsupmailbox.com/images/IpsyOctober2016Package.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
+[![Ipsy March 2017 Package](http://whatsupmailbox.com/images/IpsyOctober2016Package.jpg)](https://www.ipsy.com/new?cid=p_share_ref&sid=link&refer=uns8d){:target="_blank"}
 
 Ipsy always ships their glam bags in bright neon pink padded envelopes. It stands out in your mailbox and you can't miss when it actually arives!
 
@@ -42,21 +42,9 @@ This review is for my profile so it's just one of the many variations that they 
 
 <br>
 
-<H4>The Info Card:</H4>
-
-[![Ipsy October 2016 Info Card](http://whatsupmailbox.com/images/IpsyOctober2016InfoCard.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
-
-<br>
-
-[![Ipsy October 2016 Info Card](http://whatsupmailbox.com/images/IpsyOctober2016InfoCard02.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
-
-Every package includes an info card with the month's theme, and this month is "Black Magic".
-
-<br>
-
 <H4>The Glam Bag:</H4>
 
-[![Ipsy October 2016 Glam Bag](http://whatsupmailbox.com/images/IpsyOctober2016GlamBag.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
+[![Ipsy March 2017 Glam Bag](http://whatsupmailbox.com/images/IpsyMarch2017GlamBag.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
 This month's glam bag design was a collaboration with It Girl artist Valfré and is perfect for October. Lots of Halloween related icons and symbols.
 
