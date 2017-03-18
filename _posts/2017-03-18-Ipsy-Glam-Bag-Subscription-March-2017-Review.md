@@ -9,7 +9,7 @@ categories:
 tags: [Ipsy, Subscriptions, Reviews, March 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyMarch2017Items.jpg"
