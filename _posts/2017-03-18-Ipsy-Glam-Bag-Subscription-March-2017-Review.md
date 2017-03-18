@@ -50,7 +50,7 @@ This month's theme is "Très Jolie" so the design of the glam bag is both chic a
 
 [![Ipsy March 2017 Glam Bag](http://whatsupmailbox.com/images/IpsyMarch2017GlamBag02.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
-A closer look at the bag shows the zipper pull with the Ipsy branding, as well as the raised design that's one one side of the bag.
+A closer look at the bag shows the zipper pull with the Ipsy branding, as well as the raised design that's on one side of the bag.
 
 <br>
 
@@ -93,7 +93,9 @@ I'm a big fan of Tarte cosmetics so this was another happy find! This liquid lip
 
 Here's how the color looks on lips (from Tarte's website):
 
-[![tarte cosmetics - tarteist quick dry matte lip paint in vibin](http://whatsupmailbox.com/images/IpsyMarch2017TarteCosmeticsTarteistQuickDryMatteLipPaintVibin02.png)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
+<center><a href="https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d" target="_blank">
+<img src="/images/IpsyMarch2017TarteCosmeticsTarteistQuickDryMatteLipPaintVibin02.png" border="0" style="border:none;max-width:100%;" alt="tarte cosmetics - tarteist quick dry matte lip paint in vibin" />
+</a></center>
 
 I can't wait to try this on and compare with my Kat Von D Everlasting Liquid Lipsticks. If the staying power is just as potent, I might have to start a new lipstick collection!
 
