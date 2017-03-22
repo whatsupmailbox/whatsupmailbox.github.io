@@ -120,9 +120,9 @@ What a fun lapel pin! And very fitting for my husband who does wear glasses. The
 
 <br>
 
-[![Martenaro NATO Watch Strap](http://whatsupmailbox.com/images/SprezzaBoxMarch2017MartenaroNATOWatchStrap.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
+[![Martenero NATO Watch Strap](http://whatsupmailbox.com/images/SprezzaBoxMarch2017MarteneroNATOWatchStrap.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-**Martenaro** NATO Watch Strap, *Value $15*
+**Martenero** NATO Watch Strap, *Value $15*
 
 When I first saw this in the box, I kept searching for the watch that came with it. Then I read the info card and to my disappointment found out that it's just a watch strap. Thankfully my husband has a watch where the straps are interchangeable and this strap fits it perfectly, but I'm not sure other subscribers have the same type of watch as they're not too common. Not sure if this was a great item to include, and if so, I think it would have been better to include the watch as well. But that's just my opinion.
 
@@ -167,7 +167,7 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
       <TD>$15</TD>
    </TR>
     <TR>
-      <TD>Martenaro NATO Watch Strap</TD>
+      <TD>Martenero NATO Watch Strap</TD>
       <TD>$15</TD>
    </TR>
     <TR>
