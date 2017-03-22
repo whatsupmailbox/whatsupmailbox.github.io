@@ -66,11 +66,13 @@ The back of the info card lists all the items in the box as well as their values
 
 **Nick Graham** Neck Tie, *Value $49.50*
 
-A necktie with floral design certainly screams spring to me! Florals certainly has gained its trend in mens fashion these days, especially here in California so this was a great match to the theme.
+A necktie with floral design definitely screams spring to me! Florals certainly has gained its trend in mens fashion these days, especially here in California, so this was a great match to the theme.
+
+<br>
 
 [![Nick Graham Neck Tie](http://whatsupmailbox.com/images/SprezzaBoxMarch2017NickGrahamNeckTie02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-I like that although the floral pattern is vibrant, the colors are more muted and conservative. This is a great intro for those who are not comfortable yet in wearing the floral trend, and perfect to wear for your summer suit or dressed down with your shirt and jeans.
+I like that although the floral pattern is vibrant, the colors are more muted and conservative. This tie is a good intro for those who are not comfortable yet in wearing the floral trend, and perfect to wear for your summer suit or dressed down with your shirt and jeans.
 
 <br>
 
@@ -92,7 +94,9 @@ This wallet has 3 credit card slots with the middle one being larger in size so 
 
 **Basic Outfitters** Socks, *Value $10*
 
-These socks are bright as the sun! The yellow and grey colors are fun and bright, perfect to wear for spring and summer.
+These socks are bright as the sun! The yellow and grey colors are fun and vibrant, perfect to wear for spring and summer.
+
+<br>
 
 [![Basic Outfitters Socks](http://whatsupmailbox.com/images/SprezzaBoxMarch2017BasicOutfittersSocks02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
@@ -104,7 +108,7 @@ The branding can be seen at the sole area of these socks. And fun fact, this com
 
 [![Basic Outfitters Socks](http://whatsupmailbox.com/images/SprezzaBoxMarch2017BasicOutfittersCoupon02.jpg)](http://www.sprezzabox.com?rfsn=103516.e98b8){:target="_blank"}
 
-They also included a coupon for you to try out their items. They have this service called "Create-a-Drawer" where they'll refill your drawer with your basic items; socks, underwear, tees and joggers, for only $60 (a $120 value). Shipping is also free and with this coupon, the cost drops down to $40! My husband may need to try this out!
+They also included a coupon for you to try out their items. They have this service called "Create-a-Drawer" where they'll refill your drawer with your basic items; socks, underwear, tees and joggers, for only $60 (a $120 value). Shipping is also free and with this coupon, the cost drops down to $50! My husband may need to try this out!
 
 <br>
 
@@ -120,7 +124,7 @@ What a fun lapel pin! And very fitting for my husband who does wear glasses. The
 
 **Martenaro** NATO Watch Strap, *Value $15*
 
-When I first saw this in the box, I kept searching for the watch that came with it. Then I read the info card and found out that it's just a watch strap. Thankfully my husband has a watch where the straps are interchangeable and this strap fits it perfectly, but I'm not sure other subscribers have the same type of watch as they're not too common. Not sure if this was a great item to include, and if so, I think it would have been better to include the watch as well. But that's just my opinion.
+When I first saw this in the box, I kept searching for the watch that came with it. Then I read the info card and to my disappointment found out that it's just a watch strap. Thankfully my husband has a watch where the straps are interchangeable and this strap fits it perfectly, but I'm not sure other subscribers have the same type of watch as they're not too common. Not sure if this was a great item to include, and if so, I think it would have been better to include the watch as well. But that's just my opinion.
 
 <br>
 
