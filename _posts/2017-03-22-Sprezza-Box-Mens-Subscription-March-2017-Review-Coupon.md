@@ -142,7 +142,7 @@ Not a subscriber? You can [join here](http://www.sprezzabox.com?rfsn=103516.e98b
 
 <br>
 
-<TABLE  BORDER="5" style="width:45%">
+<TABLE  BORDER="5" style="width:50%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>ITEMS IN THE BOX</center></H3>
