@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: 
     - Subscriptions
     - Reviews
@@ -87,7 +87,7 @@ Each month they send their jewelry items in a black Emma & Chloe pouch. It keeps
 
 [![Emma & Chloe March 2017 Item - Nils Avril Audrey Gold Necklace](http://whatsupmailbox.com/images/EmmaChloeMarch2017NilsAvrilAudreyGoldNecklaceItem.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
 
-**Nils Avril** Audrey Gold Necklace, *Value $*
+**Nils Avril** Audrey Gold Necklace, *Value $60*
 
 Subscribers will receive this necklace in either Silver or Gold, depending on your jewelry preferences. Although I do wear both metals, I chose gold because I wear it more often than silver.
 
@@ -125,7 +125,7 @@ A Certificate of Authenticity is also always included with every jewelry that th
 
 <br>
 
-**Emma & Chloe Postcard**
+**Emma & Chloe Postcard:**
 
 [![Emma & Chloe March 2017 - Certificate of Authenticity](http://whatsupmailbox.com/images/EmmaChloeMarch2017Postcard.jpg)](http://www.shareasale.com/r.cfm?B=852386&U=1115177&M=65239&urllink=){:target="_blank"}
 
