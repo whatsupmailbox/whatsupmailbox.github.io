@@ -100,7 +100,7 @@ A fish hook tie bar, that's a first for my husband! This is actually a Gentleman
 
 **Sunny Rebel** Sunglasses, *Value $35*
 
-Sunglasses, woohoo!! I love it when sub boxes sends these! The style is quite fitting for almost any gentleman, and it can certainly be worn for casual or even formal outdoor events (or indoor if you're rocking the celeb "I need to avoid flashing papparazzi lights" style).
+Sunglasses, woohoo!! I love it when sub boxes sends these! The style is quite fitting for almost any gentleman, and it can certainly be worn for casual or even formal outdoor events (or indoor if you're rocking the celeb "I need to avoid flashing paparazzi lights" style).
 
 <br>
 
@@ -128,7 +128,7 @@ Lawrence Hunt is a fashion brand that sells dress shirts for both men and women.
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** The hero item of this month's box is definitely the sunglasses! Everything else seemed quite ordinary and something you'd expect from other men's subscription boxes, but it was still a good curation considering the nautical theme which can be a bit hard to nail. The value is definitely still there for the cost you pay, and with Gentleman's Box, you can be sure that every month they always deliver way above what you pay, that's for certain.
+<i class="icon-exclamation-sign"></i> **My Thoughts:** The hero item of this month's box is definitely the sunglasses! Everything else is useful and fitting to be included in a men's subscription box. Considering the nautical theme this month, which can be a bit hard to nail, I thought it was pretty good. The value you get is quadruple the cost you pay, and with Gentleman's Box, you can be sure that every month they always deliver way above the cost, that's for certain. So if you're wanting to try a sub box or gift one to that special man of yours (Father's Day is coming up!), this would probably be on the top of the list!
 
 Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/331548/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** to get $5 Off your first box!
 
