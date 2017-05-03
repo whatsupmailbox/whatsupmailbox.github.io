@@ -46,7 +46,7 @@ date: 2017-05-03 08:25:39 -08:00
 
 [![Trendy Butler - ourCaste Kevin Long Sleeve Plaid Button Up Shirt](http://whatsupmailbox.com/images/TrendyButlerMay2017OurCasteKevinLongSleevePlaidButtonUpShirt02.jpg)](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"}
 
-**ourCaste** Kevin Long Sleeve Plaid Button Up Shirt, *Value $99?*
+**ourCaste** Kevin Long Sleeve Plaid Button Up Shirt, *Value $62*
 
 I couldn't really find this style on their website or online, so I'm estimating the value based on their other button down shirts.
 
@@ -142,11 +142,11 @@ If you haven't subscribed yet, you can get $10 off your first package [through t
    </TR>
    <TR>
       <TD>ourCaste - Kevin Long Sleeve Shirt</TD>
-      <TD>$99?</TD>
+      <TD>$62</TD>
    </TR>
    <TR>
       <TD><b><big>TOTAL VALUE</big></b></TD>
-      <TD><b><big>$249</big></b></TD>
+      <TD><b><big>$212</big></b></TD>
    </TR>
    <TR>
       <TD><i><big>Subscription Cost</big></i></TD>
