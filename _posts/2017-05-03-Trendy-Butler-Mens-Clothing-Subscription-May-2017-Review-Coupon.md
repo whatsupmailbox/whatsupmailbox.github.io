@@ -48,13 +48,13 @@ date: 2017-05-03 08:25:39 -08:00
 
 **ourCaste** Kevin Long Sleeve Plaid Button Up Shirt, *Value $62*
 
-I couldn't really find this style on their website or online, so I'm estimating the value based on their other button down shirts.
+The big red checkered pattern is bright and bold, perfect for spring and summer and great when paired with jeans or khakis. The material includes a moisture wicking fabric coating that's designed to wick away moisture from the body and speed up the evaporation process. How awesome is that!
 
 <br>
 
 [![Trendy Butler - ourCaste Kevin Long Sleeve Plaid Button Up Shirt](http://whatsupmailbox.com/images/TrendyButlerMay2017OurCasteKevinLongSleevePlaidButtonUpShirt03.jpg)](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"}
 
-I've been getting this brand quite frequently in my packages, and my husband actually loves them so no complaints here!
+Plus this brand is from California AND they focus on designing products that are both stylish and functional, gotta support my local businesses!
 
 <br>
 
@@ -64,7 +64,7 @@ Here's how it looks on:
 
 [![Trendy Butler - ourCaste Kevin Long Sleeve Plaid Button Up Shirt](http://whatsupmailbox.com/images/TrendyButlerMay2017OurCasteKevinLongSleevePlaidButtonUpShirt04.jpg)](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"}
 
-The bold and big red checkered pattern fits so we certainly a classic to have, and it pairs really well with either blue or black jeans. This shirt had a "Sharp Fit", which is another name for slim fit, and since that's what my husband's profile stated, naturally it was a perfect fit.
+I love how the shirt perfectly fits my husband's build, and how striking the color looks on with jeans. And with the moisture wicking fabric coating in place, you can be confident in wearing this even if the sun decides to shine brighter on you.
 
 <br>
 
@@ -74,13 +74,13 @@ The bold and big red checkered pattern fits so we certainly a classic to have, a
 
 My husband LOVES this brand and has been getting it quite frequently in his packages - no complaints and always thankful! He wears a lot of hoodies cause it does get chilly here at night in Cali so this was happily received. Plus he'll be travelling to Chicago this weekend and it's stil a bit cold there, so he'll be bringing this along for sure!
 
-The color is subtle yet contrast with its two-tone green and khaki colors, and the gold zipper adds a little edge to it. I kind of wish they made this exact style for women cause I'm loving it!
+The color is subtle yet contrast with its two-tone colors, and the gold zipper adds a little edge to it. I kind of wish they made this exact style for women cause I'm loving it!
 
 <br>
 
 [![Trendy Butler - Cohesive & Co. Malo Zip Front Hoodie Army Sweater](http://whatsupmailbox.com/images/TrendyButlerMay2017CohesiveCoMaloZipFrontHoodieArmySweater02.jpg)](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"}
 
-The two pockets has a black lining on the opening for style, as well as a black band on the bottom of the sweater.
+The two kangaroo pockets has a black lining on the opening, as well as a black band on the bottom of the sweater.
 
 <br>
 
@@ -122,7 +122,7 @@ This sweater is totally my husband's type of style and he was ecstatic when he s
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's package brought items that were both amazing! The shirt and sweater came at a perfect time as my husband will be travelling for business and in need of business casual shirts, and a sweater for the actual travel. If my husband saw these items in a store, he would buy it for sure, that's how spot on their styling was this month! If you're a current subscriber, be sure to communicate with them what your needs are or if you have a certain request, they're very good at listening and trying their best to style your package to your liking, so don't be shy!
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's package brought items that were both amazing! The shirt and sweater came at a perfect time as my husband will be travelling for business and in need of business casual shirts, and a sweater for the actual travel. If my husband saw these items in a store, he would buy it in a heartbeat, that's how spot on their styling was this month! If you're a current subscriber, be sure to communicate with them what your needs are or if you have a certain request, they're very good at listening and trying their best to style your package to your liking, so don't be shy! My husband is super duper trooper happy with this month's styling, but then again they've never disappoint. Looking forward to next month's package, stay tuned for that review!
 
 If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"} with coupon code **STYLEU10**!
 
