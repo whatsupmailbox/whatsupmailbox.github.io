@@ -72,7 +72,7 @@ I love how the shirt perfectly fits my husband's build, and how striking the col
 
 **Cohesive & Co.** Malo Zip Front Hoodie in Army Black, *Value $150*
 
-My husband LOVES this brand and has been getting it quite frequently in his packages - no complaints and always thankful! He wears a lot of hoodies cause it does get chilly here at night in Cali so this was happily received. Plus he'll be travelling to Chicago this weekend and it's stil a bit cold there, so he'll be bringing this along for sure!
+My husband LOVES this brand and has been getting it quite frequently in his packages - no complaints and always thankful! He wears a lot of hoodies cause it does get chilly here at night in Cali so this was happily received. Plus he'll be traveling to Chicago this weekend and it's stil a bit cold there, so he'll be bringing this along for sure!
 
 The color is subtle yet contrast with its two-tone colors, and the gold zipper adds a little edge to it. I kind of wish they made this exact style for women cause I'm loving it!
 
@@ -122,7 +122,7 @@ This sweater is totally my husband's type of style and he was ecstatic when he s
 
 <br>
 
-<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's package brought items that were both amazing! The shirt and sweater came at a perfect time as my husband will be travelling for business and in need of business casual shirts, and a sweater for the actual travel. If my husband saw these items in a store, he would buy it in a heartbeat, that's how spot on their styling was this month! If you're a current subscriber, be sure to communicate with them what your needs are or if you have a certain request, they're very good at listening and trying their best to style your package to your liking, so don't be shy! My husband is super duper trooper happy with this month's styling, but then again they've never disappoint. Looking forward to next month's package, stay tuned for that review!
+<i class="icon-exclamation-sign"></i><b> My Thoughts:</b> This month's package brought items that were both amazing! The shirt and sweater came at a perfect time as my husband will be traveling for business and in need of business casual shirts, and a sweater for the actual travel. If my husband saw these items in a store, he would buy it in a heartbeat, that's how spot on their styling was this month! If you're a current subscriber, be sure to communicate with them what your needs are or if you have a certain request, they're very good at listening and trying their best to style your package to your liking, so don't be shy! My husband is super duper trooper happy with this month's styling, but then again they've never disappoint. Looking forward to next month's package, stay tuned for that review!
 
 If you haven't subscribed yet, you can get $10 off your first package [through this link](http://trendybutlers.com/l/B9A76CA0/){:target="_blank"} with coupon code **STYLEU10**!
 
