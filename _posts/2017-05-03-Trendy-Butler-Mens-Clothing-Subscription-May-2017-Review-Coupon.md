@@ -72,7 +72,7 @@ I love how the shirt perfectly fits my husband's build, and how striking the col
 
 **Cohesive & Co.** Malo Zip Front Hoodie in Army Black, *Value $150*
 
-My husband LOVES this brand and has been getting it quite frequently in his packages - no complaints and always thankful! He wears a lot of hoodies cause it does get chilly here at night in Cali so this was happily received. Plus he'll be traveling to Chicago this weekend and it's stil a bit cold there, so he'll be bringing this along for sure!
+My husband LOVES this brand and has been getting it quite frequently in his packages - no complaints and always thankful! He wears a lot of hoodies cause it does get chilly here at night in Cali so this was happily received. Plus he'll be traveling to Chicago this weekend and it's still a bit cold there, so he'll be bringing this along for sure!
 
 The color is subtle yet contrast with its two-tone colors, and the gold zipper adds a little edge to it. I kind of wish they made this exact style for women cause I'm loving it!
 
