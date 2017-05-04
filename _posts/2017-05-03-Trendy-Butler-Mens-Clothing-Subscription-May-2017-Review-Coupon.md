@@ -9,11 +9,11 @@ categories:
 tags: [Trendy Butler, Subscriptions, Reviews, May 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "TrendyButlerMay2017OpenPackage.jpg"
-date: 2017-05-03 08:25:39 -08:00
+date: 2017-05-03 17:05:39 -08:00
 ---
 
 <i><font size="2">Disclosure: This package was sent to me in exchange for an honest review.</font></i>
