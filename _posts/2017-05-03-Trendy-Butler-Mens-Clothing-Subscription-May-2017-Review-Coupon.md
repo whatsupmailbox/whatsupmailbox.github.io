@@ -137,8 +137,8 @@ If you haven't subscribed yet, you can get $10 off your first package [through t
       <TH>Product</TH>
       <TH>Price</TH>
   <TR>
-      <TD>Cohesive & Co. - Malo Zip Up Hoodie</TD>
-      <TD>$150?</TD>
+      <TD>Cohesive & Co. - Malo Zip Front Hoodie</TD>
+      <TD>$150</TD>
    </TR>
    <TR>
       <TD>ourCaste - Kevin Long Sleeve Shirt</TD>
