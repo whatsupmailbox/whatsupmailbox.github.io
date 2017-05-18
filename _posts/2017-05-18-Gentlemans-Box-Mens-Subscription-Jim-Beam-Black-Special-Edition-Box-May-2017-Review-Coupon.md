@@ -18,7 +18,7 @@ date: 2017-05-18 15:40:39 -08:00
 
 <i><font size="2">Disclosure: This box was sent to me in exchange for an honest review.</font></i>
 
-[![Gentleman's Box May 2017 Box](http://whatsupmailbox.com/images/GentlemansBoxApril2017Package.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
+[![Gentleman's Box May 2017 Box](http://whatsupmailbox.com/images/GentlemansBoxMay2017Package.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
 **Subscription:** [Gentleman's Box](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
