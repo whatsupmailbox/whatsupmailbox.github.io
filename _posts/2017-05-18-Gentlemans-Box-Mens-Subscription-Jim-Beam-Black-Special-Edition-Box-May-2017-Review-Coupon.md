@@ -36,7 +36,7 @@ date: 2017-05-18 15:40:39 -08:00
 
 <br>
 
-<H4>This month's box title is "Honoring our favorite Southern Gentleman". It's a special collaboration box with Jim Beam Black bourbon.</H4>
+<H4>This month's box title is "Honoring our favorite Southern Gentleman". It's also a special collaboration box with Jim Beam Black bourbon.</H4>
 
 [![Gentleman's Box Jim Beam Black Special Edition](http://whatsupmailbox.com/images/GentlemansBoxMay2017Package02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
@@ -94,7 +94,7 @@ And since this month is a special collaboration with Jim Beam, it wouldn't be co
 
 My husband can never have enough socks, especially with all the cool and vibrant styles they have these days, it's too fun to limit yourself to only a few pair!
 
-These socks will be a great addition to his collection. The arrows mixes with polka dots turns out to be a great combo. And the red and white, well it just screams southern for sure.
+These socks will be a great addition to his collection. The arrows mixed with polka dots turns out to be a great combo. And the red and white color, well it just screams southern for sure.
 
 <br>
 
@@ -117,6 +117,8 @@ A red flower lapel pin that will complete your southern dapper outfit!
 <br>
 
 [![The Dark Knot - Camden Lapel Pin](http://whatsupmailbox.com/images/GentlemansBoxMay2017TheDarkKnotCamdenLapelPin02.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
+
+The card that came with it had some suggestions on outfit pairing, but I say wear it all red and use the tie and socks that's in the box with this lapel pin and just go all out Southern Red!
 
 <br>
 
@@ -150,7 +152,7 @@ AJ Murray's is a family owned business based out of Louisville, Kentucky. The fa
 
 <br>
 
-<i class="icon-exclamation-sign"></i> **My Thoughts:** This month's collaboration with Jim Beam Black was so fun! I always love special edition/collab boxes as they bring out a different style than what the actual subscription box would normally do. And being that it's a collab with a liquor brand... well it probably made a lot of gentleman's day out there. We all know how a good glass of adult beverage after a long day's at work can be much needed and well deserved. As always, Gentleman's Box delivered on the value and products, and it certainly was a great special edition box. I hope they make these collabs more often as it's such a treat!
+<i class="icon-exclamation-sign"></i> **My Thoughts:** This month's collaboration with Jim Beam Black was so fun! I always love special edition/collab boxes as they bring out a different style than what the actual subscription box would normally do. And being that it's a collab with a liquor brand... well it probably made a lot of gentleman's day out there. We all know how a good glass of adult beverage after a long day's at work can be much needed and well deserved. Now if only they included a mini bottle of the bourbon in this box, wouldn't that be nice! As always, Gentleman's Box delivered on the value and products, and it certainly was a great special edition box. I hope they make these collabs more often as it's such a treat!
 
 Not a subscriber? You can [join here](http://gentlemansbox.pxf.io/c/164125/331548/5011) to start receiving their monthly gentleman accessories. And don't forget to use coupon code **SAVE5** to get $5 Off your first box!
 
