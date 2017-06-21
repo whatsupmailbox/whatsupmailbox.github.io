@@ -9,7 +9,7 @@ categories:
 tags: [Gentleman's Box, Subscriptions, Reviews, June 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "GentlemansBoxJune2017Items.jpg"
@@ -66,7 +66,7 @@ Inside you'll find a short description of each item in the box as well as their 
 
 <br>
 
-<H4>And here are all the items from the May box:</H4>
+<H4>And here are all the items from the June box:</H4>
 
 [![Gentleman's Box June 2017 Items](http://whatsupmailbox.com/images/GentlemansBoxJune2017Items.jpg)](http://gentlemansbox.pxf.io/c/164125/331548/5011){:target="_blank"}
 
