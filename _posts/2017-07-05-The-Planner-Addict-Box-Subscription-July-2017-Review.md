@@ -20,7 +20,7 @@ date: 2017-07-05 13:35:39 -08:00
 
 **Subscription:** [The Planner Addict Box](http://www.theplanneraddictbox.com){:target="_blank"}
 
-**Cost:** $20 + S&H.
+**Cost:** $20 + S&H. (My shipping fee to California was $3.75)
 
 **What's in the box:** The box features exclusive planner goodies created in house for all types of planners and planner sizes.
 
