@@ -97,7 +97,7 @@ These page flags match the binder clips and are great to create a temporary note
 
 **Camera Notebook**, Value $4
 
-A notebook that has cameras allover it, well yes please! I think I'm going to use it to document a recent travel vacation and make it into a FujiFilm Mini Instax photo album/journal. Yay, a new project for me!
+A notebook that has cameras all over it, well yes please! I think I'm going to use it to document a recent travel vacation and make it into a FujiFilm Mini Instax photo album/journal. Yay, a new project for me!
 
 <br>
 
