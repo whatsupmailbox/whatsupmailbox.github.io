@@ -17,6 +17,8 @@ date: 2017-07-05 10:31:39 -08:00
 
 <p></p>
 
+[![Ipsy July 2017 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2017GlamBag.jpeg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
+
 [Ipsy](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"} reveals for July Glam Bags are up!
 
 Ipsy now lets you reveal your items on the 5th of every month. Just log in to your account and let them show it to you (if you want)!
