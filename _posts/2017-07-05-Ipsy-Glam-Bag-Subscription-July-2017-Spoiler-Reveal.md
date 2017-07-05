@@ -8,11 +8,11 @@ categories:
 tags: [Ipsy, Subscriptions, July 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "IpsyJuly2017GlamBag.jpg"
-date: 2017-07-05 10:31:39 -08:00
+date: 2017-07-05 10:10:39 -08:00
 ---
 
 <p></p>
