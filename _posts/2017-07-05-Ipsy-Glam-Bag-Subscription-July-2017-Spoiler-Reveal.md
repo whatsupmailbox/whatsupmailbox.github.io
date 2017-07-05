@@ -56,4 +56,4 @@ Are you going to see your [Glam Bag](https://www.ipsy.com/new?cid=ppage_ref&sid=
 
 **Cost:** $10/monthly + Free Shipping.
 
-**What's in the box:** You'll receive 4-5 mix of full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.
+**What's in the box:** You'll receive a mix of 5 full-sized and deluxe-sized beauty products tailored to you in a collectible bag. You complete a profile upon joining and the products you'll receive will be matched based on that. You can update this profile any time and you'll also be able to review the products you receive for points which you can redeem towards a selection of beauty items.
