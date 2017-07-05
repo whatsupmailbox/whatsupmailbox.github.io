@@ -11,13 +11,13 @@ mathjax: null
 published: false
 featured: false
 type: photo
-imagefeature: "IpsyJuly2017GlamBagReveal.png"
+imagefeature: "IpsyJuly2017GlamBag.jpg"
 date: 2017-07-05 10:31:39 -08:00
 ---
 
 <p></p>
 
-[![Ipsy July 2017 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2017GlamBag.jpeg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
+[![Ipsy July 2017 Glam Bag](http://whatsupmailbox.com/images/IpsyJuly2017GlamBag.jpg)](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"}
 
 [Ipsy](https://www.ipsy.com/new?cid=ppage_ref&sid=link&refer=uns8d){:target="_blank"} reveals for July Glam Bags are up!
 
