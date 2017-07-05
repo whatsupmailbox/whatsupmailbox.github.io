@@ -66,7 +66,7 @@ These functional and decorative stickers are perfect to use for your vertical Er
 
 I am washi obsessed and I must confess, I keep hoarding them to no end. There's just too many cute designs plus I can use them for so many things, it's justified in my opinion! =P
 
-These washi tapes are perfect for my travel journaling. I love the camera one in particular cause I do take lots of pics (I wonder why), but the landmark design is super cute as well especially that Eifell Tower. So happy to add these to my washi collection!
+These washi tapes are perfect for my travel journaling. I love the camera one in particular cause I do take lots of pics (I wonder why), but the landmark design is super cute as well, especially that Eifell Tower on it. So happy to add these to my washi collection!
 
 <br>
 
