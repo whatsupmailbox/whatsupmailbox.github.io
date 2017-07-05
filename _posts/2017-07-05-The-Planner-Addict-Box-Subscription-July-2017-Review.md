@@ -115,7 +115,7 @@ Interested in subscribing? Go to their website [www.theplanneraddictbox.com](htt
 
 <br>
 
-<TABLE  BORDER="5" style="width:55%">
+<TABLE  BORDER="5" style="width:45%">
    <TR>
       <TH COLSPAN="2">
          <H3><BR><center>The PAB Items</center></H3>
