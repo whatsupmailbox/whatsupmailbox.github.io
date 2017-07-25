@@ -8,7 +8,7 @@ categories:
 tags: [Birchbox, Subscriptions, July 2017]
 comments: true
 mathjax: null
-published: false
+published: true
 featured: false
 type: photo
 imagefeature: "BirchboxJuly2017GWS.jpeg"
@@ -22,10 +22,6 @@ date: 2017-07-25 12:30:39 -08:00
 [Birchbox](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} has a new Gift With Subscription and it's a beautyblender micro mini!!!
 
 Use coupon code [BLENDME](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} at checkout to receive it with your first box!
-
-<br>
-
-Here's what I'll be getting this month:
 
 <br>
 
