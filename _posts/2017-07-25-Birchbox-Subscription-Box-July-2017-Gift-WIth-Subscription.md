@@ -23,6 +23,8 @@ date: 2017-07-25 12:30:39 -08:00
 
 Use coupon code [BLENDME](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} at checkout to receive it with your first box!
 
+<br>
+
 [![Birchbox July 2017 Gift With Subscription](http://whatsupmailbox.com/images/BirchboxJuly2017GWS2.png)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
 
 <br>
