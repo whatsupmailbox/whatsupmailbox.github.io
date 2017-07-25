@@ -17,11 +17,13 @@ date: 2017-07-25 12:30:39 -08:00
 
 <p></p>
 
-[![Birchbox July 2017 Gift With Subscription](http://whatsupmailbox.com/images/BirchboxJuly2017GWS2.png)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
+[![Birchbox July 2017 Gift With Subscription](http://whatsupmailbox.com/images/BirchboxJuly2017GWS.jpeg)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
 
 [Birchbox](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} has a new Gift With Subscription and it's a beautyblender micro mini!!!
 
 Use coupon code [BLENDME](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"} at checkout to receive it with your first box!
+
+[![Birchbox July 2017 Gift With Subscription](http://whatsupmailbox.com/images/BirchboxJuly2017GWS2.png)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
 
 <br>
 
