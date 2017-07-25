@@ -29,6 +29,11 @@ Use coupon code [BLENDME](https://www.birchbox.com/invite/whatsupmailbox){:targe
 
 <br>
 
+<p>And don't forget to use <a href="https://www.ebates.com/r/LORETT1403" target="_blank">EBATES</a> to get $2.50 cashback on your subscription purchase, or 2.5% on everything else. I always use them and get money back!</p>
+<a href='https://www.ebates.com/r/LORETT1403?eeid=28585' target='_blank' rel='nofollow'><img src='https://www.ebates.com/images/referral/2017/ebates-referral-button.png' alt='Ebates Coupons and Cash Back' height='31' width='171' border='0'/></a>
+
+<br>
+
 # What's Birchbox?
 
 [![Birchbox](http://whatsupmailbox.com/images/BirchboxLogo.png)](https://www.birchbox.com/invite/whatsupmailbox){:target="_blank"}
