@@ -19,7 +19,9 @@ date: 2017-07-25 15:10:39 -08:00
 
 [![Fab.Com Oliver or Olivia Surprise Box](http://whatsupmailbox.com/images/FabComOliverOliviaSurpriseBoxJuly2017.gif)](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"}
 
-[Fab.com](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"} launched new Surprise Boxes entitled Oliver or Olivia, a his or her version of surprise boxes that will be full of fab faves and double the value!
+[Fab.com](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"} launched new Surprise Boxes today entitled Oliver or Olivia, a his or her version of surprise boxes that will be full of fab faves and double the value!
+
+<br>
 
 [![Fab.Com Olivia Surprise Box](http://whatsupmailbox.com/images/FabComOliviaSurpriseBoxJuly2017.jpeg)](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"}
 
@@ -79,7 +81,7 @@ More Details on what's in the box:
 
 <br>
 
-[![Fab.Com Olivia Surprise Box](http://whatsupmailbox.com/images/FabComOliverSurpriseBoxJuly2017.jpeg)](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"}
+[![Fab.Com Olivia Surprise Box](http://whatsupmailbox.com/images/FabComOliverLuxeSurpriseBoxJuly2017.jpeg)](http://fab.7eer.net/c/164125/157069/2942){:target="_blank"}
 
 ##The Oliver Luxe Box
 
